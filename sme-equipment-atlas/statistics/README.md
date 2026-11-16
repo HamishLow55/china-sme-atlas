@@ -20,6 +20,15 @@ External, published statistics about China's semiconductor-equipment trade and d
 | [`eurostat/`](eurostat/README.md) | Eurostat Comext and exchange rates | Monthly EU member-state exports to CN/HK (HS6); annual EUR rates | Scriptable public API |
 | [`cepea/`](cepea/README.md) | China Electronics Production Equipment Industry Association (CEPEA) | Domestic semiconductor-equipment revenue by category, top 10 firms, H1; bulletin index | Monthly bulletins; PDFs held locally |
 
+## Terms and attribution
+
+Each publisher's terms apply to its tables. They were checked on 16 November 2026.
+
+- **UN Comtrade.** Source: UN Comtrade. `china_hs6_annual.csv` holds 8,085 original records. That is under the 100,000-record limit UN Comtrade allows for free redistribution without a licence ([re-dissemination policy](https://uncomtrade.org/docs/re-dissemination-of-data/)).
+- **Eurostat.** Source: Eurostat, datasets DS-045409 (Comext) and `ert_bil_eur_a`, accessed 23 September 2026. Reuse is allowed with acknowledgement ([copyright notice](https://ec.europa.eu/eurostat/help/copyright-notice)). Values are as published, reformatted to CSV only. Eurostat is not responsible for this repository.
+- **China Customs.** Source: General Administration of Customs of the PRC, online statistics query platform. No reuse terms were found for the platform. The tables hold the published figures and the platform's own CSV exports, with attribution.
+- **CEPEA.** Source: China Electronics Production Equipment Industry Association, 行业简讯 (monthly bulletin), issue as named in each row. No reuse terms were found. The bulletins are marked "for industry exchange" (行业内交流), and CEPEA shows its reports to members only. A member reposts the bulletins publicly. This repository holds a small set of hand-transcribed figures with issue-level citations, and not the bulletins themselves.
+
 ## Commands
 
 ```sh
