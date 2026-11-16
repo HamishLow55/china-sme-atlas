@@ -1,0 +1,56 @@
+entity_id,name,include,parent_note,status,source
+naura,NAURA,yes,Controls Kingsemi from 2025-06-23: NAURA 2025 consolidated figures include Kingsemi H2 2025,proposed,Atlas entity registry (pinned commit)
+amec,AMEC,yes,Parent of Sizone,proposed,Atlas entity registry (pinned commit)
+piotech,Piotech,yes,,proposed,Atlas entity registry (pinned commit)
+acm_shanghai,ACM Research (Shanghai),yes,A-share subsidiary of ACMR; use instead of ACMR to avoid double counting; overseas (Korea/Taiwan) revenue material,proposed,Atlas entity registry (pinned commit)
+acmr,"ACM Research, Inc.",no,US-listed parent of ACM Shanghai (excluded to avoid double counting),proposed,Atlas entity registry (pinned commit)
+yitang_semiconductor,Yitang Semiconductor,yes,Parent of Mattson Technology: large overseas revenue inside Yitang totals,proposed,Atlas entity registry (pinned commit)
+mattson_technology,Mattson Technology,no,Subsidiary of Yitang (excluded to avoid double counting),proposed,Atlas entity registry (pinned commit)
+hwatsing,Hwatsing,yes,,proposed,Atlas entity registry (pinned commit)
+sizone,Sizone (Hangzhou Zhonggui),yes,Under AMEC; check consolidation dates before summing with AMEC,proposed,Atlas entity registry (pinned commit)
+jingyi_jingwei,Beijing Jingyi Jingwei,yes,,proposed,Atlas entity registry (pinned commit)
+kingsemi,Kingsemi,yes,Controlled by NAURA from 2025-06-23 (overlap with NAURA 2025),proposed,Atlas entity registry (pinned commit)
+kingstone_semiconductor,Kingstone Semiconductor,yes,Implant subsidiary of Xiandao Jidian (Wanye),proposed,Atlas entity registry (pinned commit)
+xiandao_jidian,Shanghai Vital Deeptech (Wanye),no,Parent of Kingstone with unrelated businesses (excluded),proposed,Atlas entity registry (pinned commit)
+leadmicro,Leadmicro,yes,Solar ALD is a large share of revenue; semiconductor split needed,proposed,Atlas entity registry (pinned commit)
+skyverse,SkyVerse,yes,,proposed,Atlas entity registry (pinned commit)
+jingce,Jingce Electronics,yes,Group includes display test; semiconductor subsidiary Shanghai Jingce,proposed,Atlas entity registry (pinned commit)
+jingce_shanghai,Shanghai Jingce,no,Subsidiary of Jingce (excluded to avoid double counting),proposed,Atlas entity registry (pinned commit)
+djel,Dongfang Jingyuan,yes,E-beam inspection and CD-SEM (outside customs 90314100),proposed,Atlas entity registry (pinned commit)
+secote,Secote,yes,Mostly non-semiconductor automation; Optima (Japan) subsidiary is not domestic technology,proposed,Atlas entity registry (pinned commit)
+optima_japan,OPTIMA Corporation,no,Japanese subsidiary of Secote (excluded),proposed,Atlas entity registry (pinned commit)
+zhichun_pnc,Zhichun / PNC,yes,"Mixed businesses (systems, materials, wet benches)",proposed,Atlas entity registry (pinned commit)
+zhiwei_semiconductor_shanghai,Zhiwei Semiconductor (Shanghai),no,Not reviewed in this pass,proposed,Atlas entity registry (pinned commit)
+market,Market aggregate,no,Placeholder entity,proposed,Atlas entity registry (pinned commit)
+leuven,Leuven Instruments,yes,Ion-beam and ICP etch plus CVD/VPD; IPO draft prospectus,proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+yadian,Jiangsu Yadian,yes,"Wet cleaning (Si, compound) plus PV wet; FY2025 not yet filed (H1 2025 only)",proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+mifei,Mifei Technology,yes,AMHS; counted in track_automation_other against 84864031 imports,proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+jingyi_automation,Jingyi Automation (688652),yes,"Only wafer sorters count; chillers, local scrubbers, parts and services are sub-fab/ancillary and unmapped",proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+chipmicro,CFMEE (Chipmicro),yes,"Pan-semiconductor direct-write lithography is packaging/substrate/mask, mapped to backend not litho; PCB series non-semiconductor",proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+semitronix,Semitronix,yes,Test equipment only (software excluded),proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+jinhaitong,Jinhaitong,yes,Test handlers,proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+sidea,Sidea,yes,Die and wafer probers,proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+liandong,Liandong Technology (佛山联动科技; not Powertech Technology),yes,Discrete/analog ATE; laser marking mapped to backend,proposed,"Atlas entity registry (pinned commit); staged in Atlas PR #101, re-registered under this id in Atlas 83a8ef4"
+changchuan,Changchuan Technology,yes,Testers and test handlers (all applications); other mixed products unmapped,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+huafeng_test_control,Huafeng Test & Control,yes,Analog/mixed-signal ATE; counts in the test group but is not memory ATE (HBM landscape map negative control),proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+jingzhida,Jingzhida (SEICHI),yes,Only the semiconductor memory device test line counts; display inspection is non-semiconductor,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+qiangyi_semiconductor,Qiangyi (MaxOne),yes,Probe cards: held out of the test share because 90308200 imports exclude probe cards,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+quick,Quick Intelligent Equipment,yes,Die-bonding/packaging equipment line only; TCB for HBM at customer sample trials,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+huazhuo,Huazhuo Jingke (U-Precision),yes,Laser anneal lines count in thermal; bonding equipment in backend; service lines unmapped,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+guangli,GL Tech (Guangli),yes,Dicing saws via ADT (Israel) and Loadpoint (UK) subsidiaries: Chinese ownership does not establish domestic technology origin,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+delphi_laser,Delphi Laser,yes,"Semiconductor-related laser processing (dicing, grooving) only",proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+hans_laser,Han's Laser,yes,Han's Semiconductor subsidiary line held out: it includes LED/display/PV laser tools,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+unicomp,Unicomp Technology,yes,IC and electronics X-ray: held out (includes SMT/battery inspection; no matching import code pulled),proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+hiwave,Hiwave Precision Instrument,yes,Acoustic microscopes: held out (multi-industry; no matching import code pulled),proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+hgtech,HGTech,no,Laser processing lines are not semiconductor-specific,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+ssti,SCPL Semiconductor Test & Inspection,no,No revenue observations,proposed,Atlas entity registry (pinned commit); added 2026-09-29 (Atlas 8983b78)
+smee,SMEE,yes,"Front-end and packaging lithography; only 2021-22 company revenue in the Atlas, so the unlisted-vendor estimate carries 2023-25",proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+amies,AMIES (上海芯上微装),yes,SMEE packaging-stepper spin-off (Feb 2025); no revenue observations yet,proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+aishengna,Aishengna,yes,State immersion-scanner venture (absorbed SMEE/Yuliangsheng teams); no revenue observations,proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+laipu,Laipu (Chengdu LasTop),yes,Laser thermal equipment (DRAM contact laser epitaxy and anneal); counts in thermal,proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+maxwell,Maxwell (迈为股份),yes,"Semiconductor-and-display line held out: it mixes display tools with grinders, dicers and bonders",proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+naike,Naike (耐科装备),yes,Molding systems; packaging-equipment basket counted in backend,proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+sanjia,"Sanjia (三佳科技, formerly Wenyi)",yes,Molding press systems; owns 51% of Zhonghe from 2025,proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+zhonghe,Zhonghe (众合半导体),yes,"Molding systems; 51% owned by Sanjia from 2025, so check overlap before summing 2025",proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+cxmt,CXMT,no,"Memory maker (buyer), not an equipment vendor",proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02
+shanghai_electric_holdings,Shanghai Electric Holdings,no,Parent of SMEE (excluded to avoid double counting),proposed,Atlas entity registry (Atlas cad47c2); added 2026-10-02

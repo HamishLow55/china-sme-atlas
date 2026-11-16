@@ -1,0 +1,12 @@
+local/
+build/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.env
+*.pdf
+*.db
+*.sqlite*
+*.xlsx
+*.xls

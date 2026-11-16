@@ -1,0 +1,188 @@
+[
+  {
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_company_total",
+    "category_id": "all_businesses",
+    "label": "Leadmicro company total, FY2025 report",
+    "definition": "Consolidated company perimeter in Leadmicro FY2025 annual report."
+  },
+  {
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro photovoltaic equipment",
+    "definition": "Source-native 光伏设备 product revenue/cost/margin scope."
+  },
+  {
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro semiconductor equipment",
+    "definition": "Source-native 半导体设备 product revenue/cost/margin scope; not all company revenue."
+  },
+  {
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_device_manufacturing",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro special-equipment production, sales and inventory",
+    "definition": "Source-native 专用设备 operating table; mixed photovoltaic and semiconductor equipment, system units."
+  },
+  {
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2023_special_equipment",
+    "definition": "Source-native FY2023 专用设备 production/sales table, a broad mixed photovoltaic-and-semiconductor equipment basket; unit 台/套.",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro special equipment, FY2023"
+  },
+  {
+    "reporting_scope_id": "leadmicro_product_other_source_row",
+    "category_id": "all_businesses",
+    "label": "Leadmicro source product row: 其他",
+    "definition": "Source-defined 其他 sibling product revenue/cost/margin row in the FY2023 and FY2025 annual main-business product tables; composition is not specified, so it is not assumed to be semiconductor or photovoltaic equipment."
+  },
+  {
+    "reporting_scope_id": "leadmicro_product_support_products_services",
+    "category_id": "all_businesses",
+    "label": "Leadmicro source product row: 配套产品及服务",
+    "definition": "Source-defined supporting products and services sibling row in FY2023 and FY2025 product tables; includes equipment modifications, spares and related services, not equipment unit sales."
+  },
+  {
+    "reporting_scope_id": "leadmicro_2023_report_company_orders",
+    "category_id": "all_businesses",
+    "label": "Leadmicro company orders, FY2023 annual source",
+    "definition": "Company-wide FY2023 new-orders flow and separately dated 2024-03-31 on-hand order stock from FY2023 annual p12. The on-hand stock explicitly includes Demo orders. Do not treat these as accepted equipment, revenue or the same time basis."
+  },
+  {
+    "reporting_scope_id": "leadmicro_2023_report_photovoltaic_orders",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro photovoltaic orders, FY2023 annual source",
+    "definition": "Source-reported photovoltaic new-orders comparator and 2024-03-31 on-hand order component from FY2023 annual pp12–13. Backlog is part of Demo-inclusive company total; no per-model allocation."
+  },
+  {
+    "reporting_scope_id": "leadmicro_2023_report_semiconductor_orders",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro semiconductor orders, FY2023 annual source",
+    "definition": "Source-reported semiconductor FY2023 incremental orders mix and 2024-03-31 on-hand order component from FY2023 annual p12. Backlog is part of Demo-inclusive company total; no per-model allocation."
+  },
+  {
+    "reporting_scope_id": "leadmicro_2023_report_emerging_application_orders",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro emerging-application orders, FY2023 annual source",
+    "definition": "Industrialisation-centre emerging-application 2024-03-31 on-hand order component in FY2023 annual p12; part of the Demo-inclusive company total and not semiconductor equipment backlog."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2023_major_sales_contract_row_1",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2023 major sales contract row 单位1",
+    "definition": "Exactly anonymous row 单位1 of the FY2023 annual major-sales-contract fulfilment table; contract basket: 全自动 ALD 钝化设备、PE-Poly 设备. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2023_major_sales_contract_row_2",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2023 major sales contract row 单位2",
+    "definition": "Exactly anonymous row 单位2 of the FY2023 annual major-sales-contract fulfilment table; contract basket: TOPCon 电池设备，包括 ALD、PEALD、PECVD、管式氧化退火炉、管式扩散炉等. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2023_major_sales_contract_row_3",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2023 major sales contract row 单位3",
+    "definition": "Exactly anonymous row 单位3 of the FY2023 annual major-sales-contract fulfilment table; contract basket: TOPCon 电池设备，包括 ALD、PEALD、PECVD、管式扩散氧化退火炉等. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2023_major_sales_contract_row_4",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2023 major sales contract row 单位4",
+    "definition": "Exactly anonymous row 单位4 of the FY2023 annual major-sales-contract fulfilment table; contract basket: 全自动 ALD 钝化设备及 PE-Poly 设备. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2025_major_sales_contract_row_1",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2025 major sales contract row 单位1",
+    "definition": "Exactly anonymous row 单位1 of the FY2025 annual major-sales-contract fulfilment table; contract basket: TOPCon mixed-equipment basket. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted. Row is marked non-normal performance with bankruptcy/restructuring note."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2025_major_sales_contract_row_2",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2025 major sales contract row 单位2",
+    "definition": "Exactly anonymous row 单位2 of the FY2025 annual major-sales-contract fulfilment table; contract basket: TOPCon mixed-equipment basket. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted."
+  },
+  {
+    "reporting_scope_id": "leadmicro_fy2025_major_sales_contract_row_3",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro FY2025 major sales contract row 单位3",
+    "definition": "Exactly anonymous row 单位3 of the FY2025 annual major-sales-contract fulfilment table; contract basket: ALD passivation and PE-Poly equipment. Monetary values apply to the whole basket and are not allocations to listed tools. Source row labels are anonymous and period-specific; no cross-report customer or contract identity is asserted. Row has an amended quantity/contract amount and cites a 2026-01-01 progress notice; the notice date alone does not date the amendment."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_main_business_product_total",
+    "category_id": "all_businesses",
+    "label": "Leadmicro H1 2026 main-business product total",
+    "definition": "H1 p133 商品类型合计: sum of semiconductor equipment, photovoltaic equipment, other, and supporting products/services. Main-business revenue 1,183,437,593.53 CNY is distinct from company operating revenue 1,189,254,220.13 CNY."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_semiconductor_equipment",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro H1 2026 semiconductor equipment",
+    "definition": "H1 p133 半导体设备 product revenue/cost; H1 p7 narrative gives rounded same-period revenue, growth and share of 主营业务收入. Not attributable to named models, HBM, or specific memory customers."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_photovoltaic_equipment",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro H1 2026 photovoltaic equipment",
+    "definition": "H1 p133 光伏设备 product revenue/cost and p7 rounded narrative revenue/growth. Excluded from semiconductor machine counts."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_other_product",
+    "category_id": "all_businesses",
+    "label": "Leadmicro H1 2026 other product row",
+    "definition": "H1 p133 source row 其他; composition unspecified, no semiconductor attribution."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_support_products_services",
+    "category_id": "all_businesses",
+    "label": "Leadmicro H1 2026 supporting products and services",
+    "definition": "H1 p133 配套产品及服务 revenue/cost; includes support products/services and is not a whole-tool product count."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_all_new_orders_semiconductor_component",
+    "category_id": "multi_equipment",
+    "label": "Leadmicro H1 2026 semiconductor share of all new orders",
+    "definition": "H1 p7 semiconductor 新增订单 as >85% of 全部新增订单. Denominator all new orders; numerator semiconductor new orders. Not incremental growth, backlog or model-specific orders."
+  },
+  {
+    "reporting_scope_id": "leadmicro_h1_2026_itomic_mw_process_chamber",
+    "category_id": "deposition_ald",
+    "label": "iTomic MW process chamber batch configuration",
+    "definition": "H1 p11 source-stated iTomic MW batch ALD equipment: each process chamber can process 25 12-inch wafers in one batch. Per chamber configuration, not whole-tool capacity or shipped wafer count."
+  },
+  {
+    "reporting_scope_id": "leadmicro_9m_2026_semiconductor_equipment",
+    "category_id": "multi_equipment",
+    "label": "半导体设备业务",
+    "definition": "Q3 2026 p6 narrative semiconductor-equipment business for January to September 2026. Rounded revenue, growth and share of main business."
+  },
+  {
+    "reporting_scope_id": "leadmicro_9m_2026_all_new_orders_semiconductor_component",
+    "category_id": "multi_equipment",
+    "label": "新增订单中半导体领域",
+    "definition": "Q3 2026 p6: semiconductor share of all new orders, January to September 2026. Denominator is all new orders."
+  },
+  {
+    "reporting_scope_id": "leadmicro_2026_semiconductor_order_backlog",
+    "category_id": "multi_equipment",
+    "label": "半导体设备在手订单",
+    "definition": "Semiconductor-equipment orders on hand, placement plan p24. Includes no photovoltaic orders."
+  },
+  {
+    "reporting_scope_id": "leadmicro_cutting_edge_thin_film_rd_centre_project",
+    "category_id": "deposition",
+    "label": "尖端薄膜沉积技术研发中心项目",
+    "definition": "Leadmicro 2026 placement R&D-centre project: advanced logic, memory and packaging thin-film research, extending into PVD and ALE. Plan; placement unapproved."
+  },
+  {
+    "reporting_scope_id": "leadmicro_wuxi_upgrade_project",
+    "category_id": "deposition",
+    "label": "无锡先进半导体设备产业化升级迭代项目",
+    "definition": "Leadmicro 2026 placement project: upgrades existing ALD and CVD lines at leased Wuxi premises. Plan, placement unapproved."
+  },
+  {
+    "reporting_scope_id": "leadmicro_central_china_project",
+    "category_id": "deposition",
+    "label": "华中先进半导体设备产业化项目",
+    "definition": "Leadmicro 2026 placement project: leased Wuhan base facing 3D NAND, built around iTronix MTP. Plan, placement unapproved."
+  }
+]

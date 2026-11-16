@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "unicomp",
+    "name": "Unicomp Technology Group",
+    "aliases": [
+      "日联科技集团股份有限公司",
+      "无锡日联科技股份有限公司",
+      "日联科技",
+      "Unicomp Technology （Group） Co., Ltd.",
+      "688531"
+    ],
+    "evidence": {
+      "source_id": "unicomp_2025",
+      "page": 7,
+      "excerpt": "公司的中文名称            日联科技集团股份有限公司\n公司的外文名称            Unicomp Technology （Group） Co., Ltd.\n A股    上海证券交易所科创板       日联科技          688531        不适用",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "Issuer identity and SSE STAR listing as disclosed in FY2025 report, not current trading status. Semiconductor/electronics and all-industry inspection baskets must remain distinct. SSTI acquisition completed after FY2025; do not backdate its product exposure.",
+    "entity_class": "china_supply_base"
+  }
+]

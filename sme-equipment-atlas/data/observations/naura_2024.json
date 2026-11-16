@@ -1,0 +1,135 @@
+[
+  {
+    "observation_id": "N2024-SR",
+    "dataset_id": "naura_annual_disclosures",
+    "source_id": "naura_2024",
+    "entity_id": "naura",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "naura_electronic_process_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "27706652584.82",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 27,
+      "original_label": "电子工艺装备",
+      "excerpt": "分行业 电子工艺装备     27,706,652,584.82       92.86%   19,611,467,774.55       88.82%      41.28% 电子元器件       2,094,203,897.75        7.02%    2,432,539,760.98       11.02%     -13.91% 其他业务收入         37,212,679.69        0.12%       35,450,556.84        0.16%       4.97%",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "27706652584.82",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Includes semiconductor and vacuum/new-energy equipment; no etch-only allocation. 2025 consolidation includes KINGSEMI; growth is not an organic-growth measure."
+  },
+  {
+    "observation_id": "N2024-CR",
+    "dataset_id": "naura_annual_disclosures",
+    "source_id": "naura_2024",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "29838069162.26",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 27,
+      "original_label": "营业收入合计",
+      "excerpt": "金额             占营业收入比重           金额             占营业收入比重 营业收入合计     29,838,069,162.26        100%    22,079,458,092.37        100%      35.14% 分行业 电子工艺装备     27,706,652,584.82       92.86%   19,611,467,774.55       88.82%      41.28%",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "29838069162.26",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Consolidated company revenue, not etch revenue."
+  },
+  {
+    "observation_id": "N2024-PC",
+    "dataset_id": "naura_annual_disclosures",
+    "source_id": "naura_2024",
+    "entity_id": "naura",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "naura_ic_process_equipment",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "13000",
+    "relation": "gt",
+    "unit": "chamber",
+    "period": {
+      "start": "",
+      "end": "2024-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 2,
+      "original_label": "工艺制程设备累计出货量",
+      "excerpt": "元研发投入（同比增长 21.82%）、超 1,300 件新申请专利（发明专利占比超 80%）的创新力度，在集 成电路装备领域深拓边界：刻蚀、薄膜沉积、热处理、湿法等工艺制程设备累计出货量突破 13,000 腔， 多项产品技术参数达到国际一流水平，市场占有率与行业话语权显著提升。   在真空、新能源与精密电子领域，我们同样书写突破：自主研发的轧分一体设备集成高精度轧制与",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "13000",
+      "reported_unit": "chamber"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Source wording lists etch, thin-film deposition, thermal and wet process equipment followed by 等 (and other such equipment) within IC equipment. The four named families are examples, not an exhaustive partition. This broad >13,000-chamber count cannot extend the FY2023 etch-only series or be allocated across families. The p2 shareholder letter gives no explicit 31 December as-of date; period.end uses the FY2024 annual-report context.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

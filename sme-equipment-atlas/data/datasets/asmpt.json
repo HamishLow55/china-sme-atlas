@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "asmpt_disclosures",
+    "title": "ASMPT Limited HKEX annual reports",
+    "kind": "company_filings",
+    "publisher": "asmpt",
+    "version": "w8-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally.",
+    "market_definitions": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "series_id": "wanye_financial_company_annual_revenue",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2021-REV",
+      "WANYE2022-REV",
+      "WANYE2023-REV",
+      "XIADAO2024-REV",
+      "XIADAO2025-REV"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_company_annual_net_profit_attributable",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2021-NPA",
+      "WANYE2022-NPA",
+      "WANYE2023-NPA",
+      "XIADAO2024-NPA",
+      "XIADAO2025-NPA"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_company_annual_operating_cash_flow",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2021-OCF",
+      "WANYE2022-OCF",
+      "WANYE2023-OCF",
+      "XIADAO2024-OCF",
+      "XIADAO2025-OCF"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_company_annual_cost_of_revenue",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2022-COST",
+      "WANYE2023-COST",
+      "XIADAO2024-COST",
+      "XIADAO2025-COST",
+      "WANYE2023-COST-FY24VINTAGE"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_xiandao_jidian_main_business_special_equipment_manufacturing_annual_revenue",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / xiandao jidian main business special equipment manufacturing / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-EQREV",
+      "XIADAO2025-EQREV",
+      "WANYE2024-EQ-revenue"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_xiandao_jidian_main_business_special_equipment_manufacturing_annual_cost_of_revenue",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / xiandao jidian main business special equipment manufacturing / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-EQCOST",
+      "XIADAO2025-EQCOST",
+      "WANYE2024-EQ-cost_of_revenue",
+      "WANYE2023-EQCOST-FY24VINTAGE"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_xiandao_jidian_main_business_special_equipment_manufacturing_annual_gross_margin",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / xiandao jidian main business special equipment manufacturing / gross margin",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-EQGM",
+      "XIADAO2025-EQGM",
+      "WANYE2024-EQ-gross_margin"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_company_annual_rd_investment_expensed",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-RDEXP",
+      "XIADAO2025-RDEXP",
+      "WANYE2024-RD-rd_investment_expensed"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_company_annual_rd_investment",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / rd investment",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-RDTOT",
+      "XIADAO2025-RDTOT",
+      "WANYE2024-RD-rd_investment"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_xiandao_jidian_reportable_equipment_segment_annual_revenue",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / xiandao jidian reportable equipment segment / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-SEGREV",
+      "XIADAO2025-SEGREV",
+      "WANYE2024-SEG-revenue"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_xiandao_jidian_reportable_equipment_segment_annual_cost_of_revenue",
+    "version": 2,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / xiandao jidian reportable equipment segment / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2023-SEGCOST",
+      "XIADAO2025-SEGCOST",
+      "WANYE2024-SEG-cost_of_revenue"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred. Later FY2023 cost comparatives reflect warranty-cost reclassification; original vintages remain. H1 2026 acquisitions also change company/equipment/subsidiary perimeters. Cumulative milestones use their stated date proxies."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_revenue",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-revenue",
+      "H126-H12025-revenue"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_net_profit_attributable",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-net_profit_attributable",
+      "H126-H12025-net_profit_attributable"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_operating_cash_flow",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-operating_cash_flow",
+      "H126-H12025-operating_cash_flow"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_cost_of_revenue",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-COST",
+      "H126-H12025-COST"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_financial_note_rd_expenditure_total",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim financial note rd expenditure total",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-RD-financial_note_rd_expenditure_total",
+      "H126-H12025-RD-financial_note_rd_expenditure_total"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_company_interim_rd_investment_expensed",
+    "version": 1,
+    "title": "Shanghai Vital Deeptech Co., Ltd. / company / interim rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-RD-rd_investment_expensed",
+      "H126-H12025-RD-rd_investment_expensed"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  }
+]

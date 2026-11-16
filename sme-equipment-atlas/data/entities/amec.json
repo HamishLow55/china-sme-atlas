@@ -1,0 +1,13 @@
+[
+  {
+    "entity_id": "amec",
+    "name": "AMEC",
+    "aliases": [
+      "中微公司",
+      "中微半导体设备（上海）股份有限公司",
+      "688012",
+      "Advanced Micro-Fabrication Equipment"
+    ],
+    "entity_class": "china_supply_base"
+  }
+]

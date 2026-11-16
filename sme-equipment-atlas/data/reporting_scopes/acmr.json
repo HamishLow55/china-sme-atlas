@@ -1,0 +1,110 @@
+[
+ {
+  "reporting_scope_id": "acmr_cleaning",
+  "category_id": "cleaning",
+  "label": "Single wafer cleaning, Tahoe and semi-critical cleaning",
+  "definition": "ACM Research consolidated reported category, not TSV-specific."
+ },
+ {
+  "reporting_scope_id": "acmr_ecp_furnace_other",
+  "category_id": "multi_equipment",
+  "label": "ECP (front-end and packaging), furnace and other technologies",
+  "definition": "Mixed segment: do not label ECP-only or TSV-only, and do not sum with ACM Shanghai."
+ },
+ {
+  "reporting_scope_id": "acmr_packaging_services_spares",
+  "category_id": "multi_equipment",
+  "label": "Advanced packaging (excluding ECP), services & spares",
+  "definition": "Mixed equipment/services/spares segment, not TSV-only."
+ },
+ {
+  "reporting_scope_id": "acmr_all_delivered_tools",
+  "label": "ACMR all delivered equipment tools",
+  "category_id": "multi_equipment",
+  "definition": "Issuer-wide cumulative tools delivered since 2009, including tools awaiting customer acceptance or discretionary purchase. Not cleaning-only, revenue-generating tools only, installations or active fleet. US consolidated issuer perimeter, not an additional non-overlapping Shanghai supplier."
+ },
+ {
+  "reporting_scope_id": "acmr_revenue_generating_delivered_tools",
+  "label": "ACMR delivered tools that generated revenue",
+  "category_id": "multi_equipment",
+  "definition": "Subset of cumulative tools delivered since 2009 described as repeat orders or acceptances after contractual performance obligations were met and thereby generating revenue. Not a pure first-tool acceptance count, annual shipments or installations. Overlaps total delivered-tool population."
+ },
+ {
+  "reporting_scope_id": "acmr_shipments_total",
+  "label": "Total shipment value",
+  "category_id": "multi_equipment",
+  "definition": "Total issuer-reported value of repeat and first-tool shipments; overlapping components must not be added again. ACM US consolidated perimeter overlaps ACM Shanghai."
+ },
+ {
+  "reporting_scope_id": "acmr_shipments_repeat",
+  "label": "Repeat-tool shipment value",
+  "category_id": "multi_equipment",
+  "definition": "Shipments of a specific tool type previously accepted by that customer; issuer recognizes revenue upon shipment or delivery after objective compliance with specifications. ACM US consolidated perimeter overlaps ACM Shanghai."
+ },
+ {
+  "reporting_scope_id": "acmr_shipments_first",
+  "label": "First-tool shipment value",
+  "category_id": "multi_equipment",
+  "definition": "Expected consideration for tool types received and evaluated for the first time by that customer, conditional on contractual acceptance or discretionary purchase. Includes existing customers receiving a new type. Excludes deliveries without a basis to expect future revenue; not revenue, installed base, backlog or inventory cost. ACM US consolidated perimeter overlaps ACM Shanghai."
+ },
+ {
+  "reporting_scope_id": "acmr_mainland_china",
+  "category_id": "all_businesses",
+  "label": "Mainland China",
+  "definition": "ACM Research issuer-reported geographic revenue row for mainland China; issuer geographic partition of total revenue, not a customer-location audit."
+ },
+ {
+  "reporting_scope_id": "acmr_other_regions",
+  "category_id": "all_businesses",
+  "label": "Other Regions",
+  "definition": "ACM Research issuer-reported residual geographic revenue row; not decomposed by the issuer and not assumed to be any single territory."
+ },
+ {
+  "reporting_scope_id": "acmr_advanced_packaging_other_back_end_services_spares",
+  "category_id": "multi_equipment",
+  "label": "Advanced packaging, other processing tools, services and spares (issuer front-end/back-end partition)",
+  "definition": "ACM Research issuer residual revenue row of the Front-End / Back-End partition, printed as 'Advanced packaging, other back-end processing tools, services and spares' (FY2020 wording) and 'Advanced packaging, other processing tools, services and spares' (FY2021 onward). Mixed equipment/services/spares; includes packaging ECP. Not the same as acmr_packaging_services_spares, which excludes ECP and belongs to the product-category partition."
+ },
+ {
+  "reporting_scope_id": "acmr_front_end_delivered_tools",
+  "category_id": "multi_equipment",
+  "label": "ACMR cumulative delivered front-end processing tools (pre-2024 basis)",
+  "definition": "ACM Research pre-2024 narrower cumulative delivered-tool population: 'wet cleaning and other front-end processing tools' delivered since 2009. Excludes advanced packaging and other back-end processing tools, so it is NOT continuous with acmr_all_delivered_tools; the issuer switched to an all-tools basis between the Q3 2023 Form 10-Q (front-end basis) and the FY2023 Form 10-K (all-tools basis). Not installations, active installed base or annual shipments. US consolidated issuer perimeter; not additive with ACM Shanghai."
+ },
+ {
+  "reporting_scope_id": "acmr_front_end_revenue_generating_delivered_tools",
+  "category_id": "multi_equipment",
+  "label": "ACMR revenue-generating delivered front-end tools (pre-2024 basis)",
+  "definition": "Revenue-generating subset of acmr_front_end_delivered_tools: front-end tools accepted by customers, or described as repeat orders or acceptances after contractual performance obligations were met, and thereby generating revenue. Overlaps its parent population and must not be differenced into pending units. Not continuous with acmr_revenue_generating_delivered_tools."
+ },
+ {
+  "reporting_scope_id": "acmr_ultra_c_saps_ii_configuration",
+  "category_id": "cleaning_single_wafer",
+  "label": "Ultra C SAPS II single-wafer cleaner configuration",
+  "definition": "Named-model maximum technical configuration as printed in ACM Research 10-K Item 1 product highlights: an upper-bound chamber count and the throughput the issuer pairs with it. A configuration ceiling, not an as-shipped fleet average, not an installed base and not a delivered-unit count. The same highlights are repeated verbatim in the FY2020, FY2021 and FY2022 Form 10-Ks."
+ },
+ {
+  "reporting_scope_id": "acmr_ultra_c_saps_v_configuration",
+  "category_id": "cleaning_single_wafer",
+  "label": "Ultra C SAPS V single-wafer cleaner configuration",
+  "definition": "Named-model maximum technical configuration as printed in ACM Research 10-K Item 1 product highlights: an upper-bound chamber count and the throughput the issuer pairs with it. A configuration ceiling, not an as-shipped fleet average, not an installed base and not a delivered-unit count. The same highlights are repeated verbatim in the FY2020, FY2021 and FY2022 Form 10-Ks."
+ },
+ {
+  "reporting_scope_id": "acmr_ultra_c_tebo_ii_configuration",
+  "category_id": "cleaning_single_wafer",
+  "label": "Ultra C TEBO II single-wafer cleaner configuration",
+  "definition": "Named-model maximum technical configuration as printed in ACM Research 10-K Item 1 product highlights: an upper-bound chamber count and the throughput the issuer pairs with it. A configuration ceiling, not an as-shipped fleet average, not an installed base and not a delivered-unit count. The same highlights are repeated verbatim in the FY2020, FY2021 and FY2022 Form 10-Ks."
+ },
+ {
+  "reporting_scope_id": "acmr_ultra_c_tebo_v_configuration",
+  "category_id": "cleaning_single_wafer",
+  "label": "Ultra C TEBO V single-wafer cleaner configuration",
+  "definition": "Named-model maximum technical configuration as printed in ACM Research 10-K Item 1 product highlights: an upper-bound chamber count and the throughput the issuer pairs with it. A configuration ceiling, not an as-shipped fleet average, not an installed base and not a delivered-unit count. The same highlights are repeated verbatim in the FY2020, FY2021 and FY2022 Form 10-Ks."
+ },
+ {
+  "reporting_scope_id": "acmr_wet_cleaning_and_other_front_end_tools",
+  "category_id": "multi_equipment",
+  "label": "Wet cleaning and other front-end processing tools (issuer front-end/back-end partition)",
+  "definition": "ACM Research issuer revenue row 'Wet cleaning and other front-end processing tools' from the Front-End / Back-End revenue partition disclosed FY2018-Q2 2023. This is a SECOND, independent partition of the same total revenue and is NOT the sum of acmr_cleaning plus acmr_ecp_furnace_other: ECP for packaging sits in the back-end row. Never mix the two partitions or add rows across them."
+ }
+]

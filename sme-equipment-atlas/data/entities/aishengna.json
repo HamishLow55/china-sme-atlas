@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "aishengna",
+    "name": "Shanghai Aishengna Electronic Technology Group",
+    "aliases": [
+      "上海爱晟纳电子科技集团有限公司",
+      "爱晟纳",
+      "Aishengna"
+    ],
+    "evidence": {
+      "source_id": "se_holdings_fy2023_annual_report",
+      "page": 202,
+      "excerpt": "上海爱晟纳电子科技集团有限公司",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "ENTITY TYPE CAUTION: registered here on a narrow, explicitly bounded basis. Shanghai Electric Holdings Group's (entity_id shanghai_electric_holdings) FY2023 annual report shows Aishengna as a new 'significant associate' from 2023, with an initial investment of CNY 6,021,989,826.97 and a closing equity-method carrying value of CNY 4,645,190,501.10 at end-2023 -- these are the ONLY facts about Aishengna registered as observations in this packet, and they are shareholder-side equity-investment/equity-method accounting facts, not Aishengna's own revenue or product disclosure (no revenue line for Aishengna appears anywhere in SE Holdings' notes).\n\nPress reporting (not a company filing, and not independently verified here) describes Aishengna as a state-owned entity established Aug/Sep 2023 with roughly RMB 70.01bn registered capital, shareholders including Shanghai Electric Holdings Group and a Shanghai International Trust unit, which has reportedly absorbed SMEE's and a separate firm Yuliangsheng's (上海宇量昇) immersion-DUV engineering teams and begun producing domestic immersion DUV scanners, with roughly five units planned for 2026 (named recipients: SMIC, Hua Hong, CXMT) and about twenty planned for 2027 (Reuters, 28 Jul 2026, citing one unnamed source and 'The Information'). If accurate, Aishengna would be a complete front-end exposure-tool builder and squarely in scope -- but NO company-reported claim (a filing, an issuer statement, or even an issuer product page) was found for Aishengna in this packet, only third-party investigative-journalism relying on anonymous sourcing. The Atlas's platform-maturity evidence rule requires claim_kind=company_reported; this reporting does not meet that bar, so NO platform record is registered for Aishengna's immersion scanner here -- see coverage/holds. This is the 'investigate only if cheap' third name from the brief: placed and bounded, not developed further. The only figures that exist for this entity anywhere in the atlas are SE Holdings' own investment cost and equity-method loss on its stake, carried on entity shanghai_electric_holdings at scope se_holdings_equity_stake_aishengna. This entity therefore has no observations of its own: it is a registered identity awaiting disclosure, not a measured firm.\n\nALIASES INVISIBLE TO TEXT SEARCH, NOT UNEVIDENCED. `atlas verify-aliases` reports these as occurring in no held source: '上海爱晟纳电子科技集团有限公司'; '爱晟纳'; 'Aishengna'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source. That report is wrong for this entity, and the reason is worth keeping: SE Holdings' FY2023 annual report is partly scanned, and the long-term-equity-investment note on physical p202 that names 上海爱晟纳电子科技集团有限公司 is one of the image-only pages. The name was read off that page rendered at 260dpi during the W6 integration and again during the W8 review, so it is evidenced by a human reading a page the tool cannot reach — which is the same basis as the entity's own registered observations. Treat the verify-aliases line for this entity as a coverage limit, not a finding.",
+    "entity_class": "disclosure_only"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "series_id": "deposition1_leadmicro_8",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_company_total / revenue",
+    "mode": "comparable",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "LEADMICRO2023-REV",
+      "LEADMICRO2024-REV",
+      "LEADMICRO2025-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_9",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_photovoltaic_device / revenue",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-PV-REV",
+      "LEADMICRO2025-PV-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_10",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_photovoltaic_device / cost_of_revenue",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-PV-COST",
+      "LEADMICRO2025-PV-COST"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_11",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_photovoltaic_device / gross_margin",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-PV-GM",
+      "LEADMICRO2025-PV-GM"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_12",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_semiconductor_device / revenue",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-REV",
+      "LEADMICRO2025-SEMI-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_13",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_semiconductor_device / cost_of_revenue",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-COST",
+      "LEADMICRO2025-SEMI-COST"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_14",
+    "version": 2,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_semiconductor_device / gross_margin",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-GM",
+      "LEADMICRO2025-SEMI-GM"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_15",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_device_manufacturing / production_volume",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "LEADMICRO2025-PRODUCTION"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_16",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_device_manufacturing / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "LEADMICRO2025-SALES"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_leadmicro_17",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2025_device_manufacturing / inventory_volume",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "LEADMICRO2025-INVENTORY"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition2_leadmicro_28",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2023_special_equipment / production_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "LEADMICRO2023-SPECIAL-PRODUCTION-SUP"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_leadmicro_29",
+    "version": 1,
+    "title": "leadmicro: leadmicro_leadmicro_annual_2023_special_equipment / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "LEADMICRO2023-SPECIAL-SALES-SUP"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  }
+]

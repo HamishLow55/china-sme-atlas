@@ -1,0 +1,194 @@
+[
+  {
+    "hold_id": "leadmicro-advanced-packaging-family-identity",
+    "source_id": "leadmicro_annual_2025",
+    "page": 23,
+    "excerpt": "先进封装领域：公司相关设备已在客户端进行验证",
+    "status": "pending",
+    "issue": "The annual report does not identify which named ALD/CVD series comprise the client-validated advanced-packaging equipment. Do not map this maturity claim to iTronix LTP, iTronix PE, iTomic MeT or another named series without an identity bridge.",
+    "claim_id": "leadmicro-advanced-packaging-family-identity",
+    "claim": "The annual report does not identify which named ALD/CVD series comprise the client-validated advanced-packaging equipment. Do not map this maturity claim to iTronix LTP, iTronix PE, iTomic MeT or another named series without an identity bridge.",
+    "review_notes": "No source-native bridge identifies the client-validated equipment as a named ALD/CVD series."
+  },
+  {
+    "claim_id": "deposition1_leadmicro_itomic_spx_omission",
+    "claim": "Leadmicro iTomic SPX orders and industrialisation verification",
+    "source_id": "leadmicro_annual_2025",
+    "page": 24,
+    "reason": "Leadmicro iTomic SPX series: original physical PDF p.24 says important-customer orders and industrialisation verification; it is absent from the frozen eight bundles.",
+    "next_action": "Next narrative intake; do not infer completed qualification or production use from verification work.",
+    "resolution_status": "resolved",
+    "resolution": "Source-checked iTomic SPX platform and FY2025 dated orders/industrialisation-validation milestone integrated in deposition2; no acceptance or production use inferred."
+  },
+  {
+    "hold_id": "leadmicro-2023-itomic-named-series-identity",
+    "source_id": "leadmicro_annual_2023",
+    "page": 18,
+    "excerpt": "该系列部分产品已取得客户验收，实现产业化应用，并取得重复订单。",
+    "status": "pending",
+    "issue": "The filing does not identify which iTomic products reached these stages. Keep the claim on the generic overlapping family and do not assign it to iTomic MeT, HiK, MW or another named series.",
+    "claim_id": "leadmicro-2023-itomic-named-series-identity",
+    "claim": "The filing does not identify which iTomic products reached these stages. Keep the claim on the generic overlapping family and do not assign it to iTomic MeT, HiK, MW or another named series.",
+    "review_notes": "The source does not identify the accepted/industrialised/repeat-ordered iTomic products; hold the named-series mapping."
+  },
+  {
+    "hold_id": "leadmicro-2023-itronix-named-series-identity",
+    "source_id": "leadmicro_annual_2023",
+    "page": 14,
+    "excerpt": "iTronix 系列 CVD 设备加速推广，在 2023 年 7 月首次出货至客户端进行产业化验证后，获得了半导体集成电路行业内重要客户的批量重复订单",
+    "status": "pending",
+    "issue": "The filing does not identify the shipped and repeat-ordered iTronix model. Keep the claim on the generic overlapping family rather than iTronix PE or MTP.",
+    "claim_id": "leadmicro-2023-itronix-named-series-identity",
+    "claim": "The filing does not identify the shipped and repeat-ordered iTronix model. Keep the claim on the generic overlapping family rather than iTronix PE or MTP.",
+    "review_notes": "The source does not identify the iTronix model; hold any mapping of the July shipment or repeat orders to a named series."
+  },
+  {
+    "claim_id": "leadmicro-fy2023-four-contracts",
+    "claim": "Ten monetary major-sales-contract cells in four distinct source rows.",
+    "source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "pages_reviewed": [
+      40
+    ],
+    "status": "resolved",
+    "reason": "Source defines anonymous contract rows and amounts, not whole-firm backlog or individual product sales. Rank labels do not persist into FY2025. Numerical mapping resolved with distinct source-row scopes and contract-performance metrics. FY2025 reporting-period cutoff follows table header and p88 amendment context; publication date is not used as measurement date.",
+    "next_action": "Retain accepted source-native contract observations, blank cells and non-additivity guards; future originals may clarify contract identities and exact amendment event timing."
+  },
+  {
+    "claim_id": "leadmicro-fy2025-three-contracts",
+    "claim": "Eight monetary major-sales-contract cells in three rows, including non-normal Unit 1 and amended Unit 3.",
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      36
+    ],
+    "status": "resolved",
+    "reason": "Unit 1 restructuring; Unit 3 amendment references 2026-01-01 announcement. Table states report-period fulfilment but exact amendment event date and year-end versus later amended contract amount cannot be assumed. Numerical mapping resolved with distinct source-row scopes and contract-performance metrics. FY2025 reporting-period cutoff follows table header and p88 amendment context; publication date is not used as measurement date.",
+    "next_action": "Retain accepted source-native contract observations, blank cells and non-additivity guards; future originals may clarify contract identities and exact amendment event timing."
+  },
+  {
+    "claim_id": "leadmicro-suntech-named-customer",
+    "claim": "Named Suntech contract, delivery/acceptance amount and receivable in litigation.",
+    "source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "pages_reviewed": [
+      235
+    ],
+    "status": "unresolved",
+    "reason": "2021 contract and as-of-report-issuance receivable are not FY2023 product volume or revenue; no equipment count.",
+    "next_action": "Retain name and monetary context without merging anonymous customer ranks or major contracts."
+  },
+  {
+    "claim_id": "leadmicro-customer-a-amendment",
+    "claim": "Customer A rounded contract amendment 5.3→4.1亿元 and equipment fully delivered.",
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      88
+    ],
+    "status": "unresolved",
+    "reason": "p88 narrative and p36 Unit 3 cite the same 2026-01-01 notice, but source does not explicitly equate Customer A to that anonymous table rank; rounded and exact totals are not interchangeable.",
+    "next_action": "Keep announcement identity and exact amendment date unresolved; do not silently overwrite FY2023/FY2025 printed table vintages."
+  },
+  {
+    "claim_id": "leadmicro-rd-project-orders-validation",
+    "claim": "RD21/RD32/RD33/RD34/RD35 signed sales orders and ongoing customer validation.",
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      187
+    ],
+    "status": "unresolved",
+    "reason": "Project codes are not identified product families or quantities; expected completion dates are forecasts.",
+    "next_action": "Preserve group claim until a source supplies a named equipment bridge."
+  },
+  {
+    "claim_id": "leadmicro-no-numeric-factory-output",
+    "claim": "Facility/manufacturing expansion exists, but annual tools/year factory capacity is not specified.",
+    "source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      16,
+      25
+    ],
+    "status": "unresolved",
+    "reason": "Tool throughput, solar-cell line GW and manufacturing-site investment do not measure factory tool output.",
+    "next_action": "Review a newly registered source for quantified factory output; do not invent zero."
+  },
+  {
+    "claim_id": "leadmicro-no-cumulative-tool-fleet",
+    "claim": "First shipments/entries are disclosed without an exact cumulative Leadmicro equipment fleet total.",
+    "source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      12,
+      18
+    ],
+    "status": "unresolved",
+    "reason": "The cumulative installation hits are photovoltaic industry statistics rather than company shipments/installations.",
+    "next_action": "Keep cumulative equipment total unresolved until source-bound disclosure; no subtraction from production/sales tables."
+  },
+  {
+    "claim_id": "leadmicro-customer-rank-pseudonyms",
+    "claim": "Top-five customers reported as period-specific 单位①–⑤ with sales and share columns.",
+    "source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      42,
+      38
+    ],
+    "status": "unresolved",
+    "reason": "Rank labels are not real names or stable identities across years or the major-contract tables; source notes FY2025 rank 5 is new in that year.",
+    "next_action": "Keep row values in source-vintage customer-table hold until a separate bounded financial/customer-table mapping; do not infer customer identities."
+  },
+  {
+    "claim_id": "leadmicro-fy2025-no-exact-wholefirm-backlog",
+    "claim": "Qualitative in-hand-order risk without a source-stated exact total for all current company orders.",
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      33
+    ],
+    "status": "unresolved",
+    "reason": "The p36 major-contract remaining-performance cells are selected contracts, including a non-normal customer and an amended contract; they do not equal firm-wide backlog.",
+    "next_action": "Keep exact FY2025 company backlog unresolved for this source; do not sum contract rows into that metric."
+  },
+  {
+    "claim_id": "leadmicro-fy2025-28nm-highk-named-model",
+    "claim": "28nm process-node difficulty overcome by company's production High-k gate-oxide ALD equipment.",
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "pages_reviewed": [
+      62
+    ],
+    "status": "unresolved",
+    "reason": "The source bounds this to High-k gate-oxide ALD capability but does not explicitly name the iTomic HiK model; canonical source-native family is the supported reference.",
+    "next_action": "Retain source-native family claim; only attach named model after an original identity bridge."
+  },
+  {
+    "claim_id": "leadmicro-fy2023-no-exact-customer-count",
+    "claim": "Several known semiconductor customers' lines and increasing customer number.",
+    "source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "pages_reviewed": [
+      14
+    ],
+    "status": "unresolved",
+    "reason": "数家 and 客户数量进一步增加 are qualitative; three named OLED buyers and top-five rank pseudonyms do not determine an exact unique customer count.",
+    "next_action": "Preserve named customer routes without inferring a count from examples or rank rows."
+  }
+]

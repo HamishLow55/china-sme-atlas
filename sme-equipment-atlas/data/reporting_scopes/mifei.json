@@ -1,0 +1,134 @@
+[
+  {
+    "reporting_scope_id": "mifei_reticle_storage_production_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_reticle_storage_production_sales",
+    "definition": "弥费科技 光罩存储设备 row of the prospectus 产量/销量/产销率 table. 产量 counted at assembly completion and dispatch to the customer; 销量 covers order sales (counted at customer acceptance) plus deemed sales. A different basis from the 单项设备 revenue tables."
+  },
+  {
+    "reporting_scope_id": "mifei_wafer_storage_production_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_wafer_storage_production_sales",
+    "definition": "弥费科技 晶圆存储设备 row of the prospectus 产量/销量/产销率 table, same dispatch/acceptance basis as the other rows of that table."
+  },
+  {
+    "reporting_scope_id": "mifei_overhead_buffer_production_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_overhead_buffer_production_sales",
+    "definition": "弥费科技 空中缓存单元 (OHB, Over Head Buffer) row of the prospectus 产量/销量/产销率 table. The issuer states a mid-to-large 12-inch 14nm 30k wpm fab contains 10,000+ of these units, which is why the counts are two orders of magnitude above the other product rows."
+  },
+  {
+    "reporting_scope_id": "mifei_buffer_storage_production_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_buffer_storage_production_sales",
+    "definition": "弥费科技 缓冲存储设备 (NTB, Near Tool Buffer) row of the prospectus 产量/销量/产销率 table. Cells printed as a dash were not recorded."
+  },
+  {
+    "reporting_scope_id": "mifei_loadport_purge_production_sales",
+    "category_id": "fab_automation_purge",
+    "label": "mifei_loadport_purge_production_sales",
+    "definition": "弥费科技 上下料口净化设备 (TLP) row of the prospectus 产量/销量/产销率 table, same dispatch/acceptance basis."
+  },
+  {
+    "reporting_scope_id": "mifei_oht_production_sales",
+    "category_id": "fab_automation_transport",
+    "label": "mifei_oht_production_sales",
+    "definition": "弥费科技 天车（不包括天车辅助系统）row of the prospectus 产量/销量/产销率 table: OHT vehicles only, explicitly excluding the auxiliary rail and track systems. The issuer states all OHT sales in the reporting period occurred inside whole-fab projects, so there is no standalone OHT revenue line to pair with these counts."
+  },
+  {
+    "reporting_scope_id": "mifei_amhs_whole_fab_projects",
+    "category_id": "fab_automation",
+    "label": "mifei_amhs_whole_fab_projects",
+    "definition": "弥费科技 整厂项目: whole-fab AMHS orders in which every hardware item and the control software is the issuer's own product (全套 AMHS 涵盖天车传送系统、各类存储设备、净化设备及配套软件). Revenue recognised on project acceptance. Also carries the per-project revenue the issuer discloses by named fab."
+  },
+  {
+    "reporting_scope_id": "mifei_storage_equipment_revenue",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_storage_equipment_revenue",
+    "definition": "弥费科技 存储设备 revenue basket within 单项设备 (standalone equipment): OHB, wafer stockers, reticle stockers, near-tool buffers, electronic racks and tower stockers sold outside a whole-fab project."
+  },
+  {
+    "reporting_scope_id": "mifei_purge_equipment_revenue",
+    "category_id": "fab_automation_purge",
+    "label": "mifei_purge_equipment_revenue",
+    "definition": "弥费科技 净化设备 revenue line within 单项设备. The issuer states all purification revenue in FY2023-FY2025 came from 机台上下料口净化设备."
+  },
+  {
+    "reporting_scope_id": "mifei_amhs_control_software_revenue",
+    "category_id": "fab_automation_control_software",
+    "label": "mifei_amhs_control_software_revenue",
+    "definition": "弥费科技 软件 revenue line within 单项设备: standalone licences of the MCS control-software stack. Software, not equipment."
+  },
+  {
+    "reporting_scope_id": "mifei_other_amhs_equipment_revenue",
+    "category_id": "fab_automation",
+    "label": "mifei_other_amhs_equipment_revenue",
+    "definition": "弥费科技 其他设备 revenue line within 单项设备, which the issuer describes as 辊道传送系统 (conveyor) and 专用识别设备. A mixed basket with no source allocation."
+  },
+  {
+    "reporting_scope_id": "mifei_amhs_service_revenue",
+    "category_id": "fab_automation",
+    "label": "mifei_amhs_service_revenue",
+    "definition": "弥费科技 服务 revenue line: 维保服务 maintenance and technical service across all AMHS product families. Services, not equipment."
+  },
+  {
+    "reporting_scope_id": "mifei_overhead_buffer_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_overhead_buffer_standalone_sales",
+    "definition": "弥费科技 空中缓存单元 within the 存储设备主要细分产品 revenue table: revenue-recognised standalone sales volume and realised average price. LOWER than the same product's 销量 in the 产销量 table because that table also includes deemed sales; the two must not be combined in one series."
+  },
+  {
+    "reporting_scope_id": "mifei_wafer_storage_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_wafer_storage_standalone_sales",
+    "definition": "弥费科技 晶圆存储设备 within the 存储设备主要细分产品 revenue table. The issuer further splits it into 晶圆盒存储设备 and 晶圆装卸机台, which carry very different prices; that finer split is available on physical page 205 and is not used by these rows."
+  },
+  {
+    "reporting_scope_id": "mifei_reticle_storage_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_reticle_storage_standalone_sales",
+    "definition": "弥费科技 光罩存储设备 within the 存储设备主要细分产品 revenue table. The issuer further splits it into 光罩盒存储柜 and 光罩盒存储设备 on physical page 206; that finer split is not used by these rows."
+  },
+  {
+    "reporting_scope_id": "mifei_buffer_storage_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_buffer_storage_standalone_sales",
+    "definition": "弥费科技 缓冲存储设备 (NTB) standalone revenue line within 存储设备."
+  },
+  {
+    "reporting_scope_id": "mifei_electronic_rack_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_electronic_rack_standalone_sales",
+    "definition": "弥费科技 电子货架 (E-Rack) standalone revenue line within 存储设备."
+  },
+  {
+    "reporting_scope_id": "mifei_tower_stocker_standalone_sales",
+    "category_id": "fab_automation_storage",
+    "label": "mifei_tower_stocker_standalone_sales",
+    "definition": "弥费科技 跨楼存储设备 (Tower Stocker) standalone revenue line within 存储设备."
+  },
+  {
+    "reporting_scope_id": "mifei_loadport_purge_standalone_sales",
+    "category_id": "fab_automation_purge",
+    "label": "mifei_loadport_purge_standalone_sales",
+    "definition": "弥费科技 机台上下料口净化设备 within the 净化设备 revenue analysis: revenue-recognised standalone sales volume and realised average price. Lower volumes than the 产销量 table for the same product and period."
+  },
+  {
+    "reporting_scope_id": "mifei_company_disclosures",
+    "category_id": "all_businesses",
+    "label": "mifei_company_disclosures",
+    "definition": "弥费科技 company-wide prospectus disclosures: operating revenue and net profit for FY2023-FY2025, patents and software copyrights, workforce, and the top-five customer tables. No product allocation."
+  },
+  {
+    "reporting_scope_id": "mifei_source_defined_domestic_main_business",
+    "category_id": "all_businesses",
+    "label": "境内",
+    "definition": "Mifei prospectus source-native 主营业务收入按客户所在地区划分 row 境内, FY2023-FY2025. Main-business revenue by customer location; table boundary preserved, no allocation beyond the disclosed row. Table prints revenue and share only -- no cost or margin by geography."
+  },
+  {
+    "reporting_scope_id": "mifei_source_defined_overseas_main_business",
+    "category_id": "all_businesses",
+    "label": "境外",
+    "definition": "Mifei prospectus source-native 主营业务收入按客户所在地区划分 row 境外, FY2024-FY2025 (FY2023 prints a dash, i.e. no disclosed overseas revenue that year, not a registered zero). Table boundary preserved; revenue and share only, no cost or margin by geography."
+  }
+]

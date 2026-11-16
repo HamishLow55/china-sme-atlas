@@ -1,0 +1,134 @@
+[
+  {
+    "observation_id": "ACMS2025-ECP-RD",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "project_rd_spending",
+    "value": "2.41",
+    "relation": "eq",
+    "unit": "CNY_100m",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 28,
+      "original_label": "半导体电镀设备",
+      "excerpt": "单位：亿元；半导体电镀设备：预计总投资规模 11.41，本期投入金额 2.41，累计投入金额 7.36，量产阶段。",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "2.41",
+      "reported_unit": "CNY_100m"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Named ECP R&D project, all applications. Investment includes capitalization; not necessarily income-statement R&D expense. Expected total investment is company plan, not realized spend. Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMS2025-ECP-RDC",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_project_rd_spending",
+    "value": "7.36",
+    "relation": "eq",
+    "unit": "CNY_100m",
+    "period": {
+      "start": "",
+      "end": "2025-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 28,
+      "original_label": "半导体电镀设备",
+      "excerpt": "单位：亿元；半导体电镀设备：预计总投资规模 11.41，本期投入金额 2.41，累计投入金额 7.36，量产阶段。",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "7.36",
+      "reported_unit": "CNY_100m"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Named ECP R&D project, all applications. Investment includes capitalization; not necessarily income-statement R&D expense. Expected total investment is company plan, not realized spend. Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMS2025-ECP-RDP",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "planned_project_rd_investment",
+    "value": "11.41",
+    "relation": "eq",
+    "unit": "CNY_100m",
+    "period": {
+      "start": "",
+      "end": "2025-12-31",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 28,
+      "original_label": "半导体电镀设备",
+      "excerpt": "单位：亿元；半导体电镀设备：预计总投资规模 11.41，本期投入金额 2.41，累计投入金额 7.36，量产阶段。",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "11.41",
+      "reported_unit": "CNY_100m"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Named ECP R&D project, all applications. Investment includes capitalization; not necessarily income-statement R&D expense. Expected total investment is company plan, not realized spend. Independently checked against local original; supplier claim remains uncorroborated."
+  }
+]

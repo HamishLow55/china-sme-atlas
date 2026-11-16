@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "advantest_84th_asr_fy2025_eng",
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Corporation Annual Securities Report and Business Report, 84th term (FY ended March 31, 2026), English translation",
+    "publication_date": "2026-06-26",
+    "publication_date_precision": "day",
+    "url": "https://www.advantest.com/document/en/investors/ir-library/report/IR_SecuritiesandBusinessReport_84th_en.pdf",
+    "sha256": "dbeb73e7b16ec2a39c71420ebaf5994c671e05649f729a7ed76d25786646ed02",
+    "source_type": "annual_report",
+    "original_document_id": "advantest_84th_asr_fy2025_eng",
+    "page_count": 220,
+    "locator_kind": "pdf",
+    "notes": "English translation of the Yukashoken Hokokusho (filed with the Director, Kanto Local Finance Bureau, 2026-06-26, per the cover page, physical p3) and, for the first time this term, a combined Business Report/Consolidated and Non-Consolidated Financial Statements document under the Companies Act -- the filing's own title changed from 'Annual Securities Report' (82nd/83rd terms) to 'Annual Securities Report and Business Report' this term. Covers the 84th term, 1 April 2025 to 31 March 2026 (this packet's 'FY2025'), with FY ended March 2025 as its comparative column, RESTATED onto the new two-segment basis ('Test System Business' and 'Services and Others') adopted from this fiscal year; the prior three-segment basis for FY2024 is registered separately from the 83rd-term filing and distinguished by reporting_vintage. Printed page numbers in the footer run 4 pages BEHIND the physical PDF page throughout the body of the report (printed 1 = physical 5; printed 112 = physical 116; printed 179 = physical 183); front-matter pages before printed pagination begins (physical pp1-4) are cited by physical page number directly. Downloaded from Advantest's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "advantest_83rd_asr_fy2024_eng",
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Corporation Annual Securities Report, 83rd term (FY ended March 31, 2025), English translation",
+    "publication_date": "2025-06-01",
+    "publication_date_precision": "month",
+    "url": "https://www.advantest.com/document/en/investors/ir-library/report/IR_SecuritiesReport_83rd_en.pdf",
+    "sha256": "5966b96565dc53186ccd8a629564275b9fcde2308f5d376b44d5a984b5bd1d61",
+    "source_type": "annual_report",
+    "original_document_id": "advantest_83rd_asr_fy2024_eng",
+    "page_count": 216,
+    "locator_kind": "pdf",
+    "notes": "English translation of the Yukashoken Hokokusho for the 83rd term, 1 April 2024 to 31 March 2025 (this packet's 'FY2024'), with FY ended March 2024 as its comparative column, on the PRE-restructuring three-segment basis ('Semiconductor and Component Test System Business', 'Mechatronics System Business', 'Services, Support and Others'). Filing date not located at day precision in the extracted text (the equivalent field on the cover of the 84th-term filing gives day precision; this term's cover page text did not extract it cleanly), so publication_date is recorded at month precision from the filing's position in Advantest's annual cycle. Printed page numbers run 3 pages BEHIND the physical PDF page (printed 47 = physical 50; printed 113 = physical 116; printed 137 = physical 140). Downloaded from Advantest's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "advantest_82nd_asr_fy2023_eng",
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Corporation Annual Securities Report, 82nd term (FY ended March 31, 2024), English translation",
+    "publication_date": "2024-06-01",
+    "publication_date_precision": "month",
+    "url": "https://www.advantest.com/document/en/investors/ir-library/report/IR_SecuritiesReport_82nd_en.pdf",
+    "sha256": "ab4cb0776a66d3185b1fa7a1627f81f3d2625039a5377de41c32d1315e13aa5f",
+    "source_type": "annual_report",
+    "original_document_id": "advantest_82nd_asr_fy2023_eng",
+    "page_count": 208,
+    "locator_kind": "pdf",
+    "notes": "English translation of the Yukashoken Hokokusho for the 82nd term, 1 April 2023 to 31 March 2024 (this packet's 'FY2023'), with FY ended March 2023 as its comparative column ('FY2022'), on the pre-restructuring three-segment basis. Filing date not located at day precision in the extracted text; recorded at month precision. Printed page numbers run 3 pages BEHIND the physical PDF page (printed 16 = physical 19; printed 49 = physical 52; printed 128 = physical 131; printed 135 = physical 138; printed 155 = physical 158). Downloaded from Advantest's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "advantest_iar2025_eng",
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Integrated Annual Report 2025, English",
+    "publication_date": "2025-09-01",
+    "publication_date_precision": "month",
+    "url": "https://www.advantest.com/document/en/investors/ir-library/annual/E_all_IAR2025.pdf",
+    "sha256": "cbfd10db2afdebe407e85ddbfb35f9416a367367e1a4d0b113f95206e038ec7f",
+    "source_type": "annual_report",
+    "original_document_id": "advantest_iar2025_eng",
+    "page_count": 71,
+    "locator_kind": "pdf",
+    "notes": "Glossy integrated/investor report, not the audited Annual Securities Report; used ONLY for named-platform and narrative/strategy evidence the Annual Securities Report does not carry (the product-lineup diagram naming V93000/T5801/M6242/HiFIX/7038/E3660, and CxO-interview commentary), never for financial tables -- financial figures are sourced from the audited Annual Securities Reports throughout this packet. Publication month estimated from the report's own content (references events through mid-2025); exact release day not located in the extracted text, recorded at month precision. Printed and physical page numbers are IDENTICAL in this document (no offset) based on spot checks. Downloaded from Advantest's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "advantest_iar2024_eng",
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Integrated Annual Report 2024, English",
+    "publication_date": "2024-09-01",
+    "publication_date_precision": "month",
+    "url": "https://www.advantest.com/document/en/investors/ir-library/annual/E_all_IAR2024.pdf",
+    "sha256": "d23555fdc7c8246ebc6c0d255aed58c24fbcb4b70d8edc34f3e98295ad32bb0d",
+    "source_type": "annual_report",
+    "original_document_id": "advantest_iar2024_eng",
+    "page_count": 63,
+    "locator_kind": "pdf",
+    "notes": "Glossy integrated/investor report for the prior year; used only for one HBM-capability narrative passage from a CxO interview not found restated elsewhere. Publication month estimated from content; exact release day not located, recorded at month precision. Printed page numbers run 1 page BEHIND the physical PDF page (printed 8 = physical 9), based on the one spot check performed. Downloaded from Advantest's own English IR library and hashed locally."
+  }
+]

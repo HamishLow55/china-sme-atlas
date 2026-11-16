@@ -1,0 +1,46 @@
+[
+  {
+    "observation_id": "ACMS2025H1-ECP-DELIVERIES",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_h1_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "1500",
+    "relation": "ge",
+    "unit": "chamber",
+    "period": {
+      "start": "",
+      "end": "2025-06-30",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 18,
+      "original_label": "第1500电镀腔完成交付",
+      "excerpt": "报告期内，公司 ECP 设备第 1500 电镀腔完成交付，实现电镀技术全领域覆盖（前道铜互连/后道晶圆级封装/3D 堆叠/化合物半导体）。",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "1500",
+      "reported_unit": "chamber"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Ordinal 1500th chamber delivered during H1 establishes at least 1500 by period end; not >1500, exact period-end total, tool count or TSV-only count. Exact milestone day unknown. Independently checked against local original; supplier claim remains uncorroborated."
+  }
+]

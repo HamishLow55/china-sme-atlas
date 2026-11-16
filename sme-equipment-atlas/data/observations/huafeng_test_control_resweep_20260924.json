@@ -1,0 +1,48 @@
+[
+ {
+  "observation_id": "huafeng_resweep_b_001",
+  "dataset_id": "huafeng_annual_disclosures",
+  "source_id": "huafeng_annual_2025",
+  "entity_id": "huafeng_test_control",
+  "category_id": "all_businesses",
+  "reporting_scope_id": "company",
+  "platform_id": "",
+  "metric_id": "cumulative_installations",
+  "value": "8000",
+  "relation": "gt",
+  "unit": "system",
+  "period": {
+   "start": "",
+   "end": "2025-12-31",
+   "kind": "as_of",
+   "basis": "cumulative"
+  },
+  "dimensions": {
+   "geography": "global",
+   "geography_basis": "global_customer_installations",
+   "revenue_basis": "not_applicable",
+   "price_basis": "not_applicable",
+   "equipment_condition": "all_reported",
+   "service_scope": "source_reporting_scope",
+   "tax_basis": "operating_disclosure_basis"
+  },
+  "evidence": {
+   "page": 19,
+   "printed_page": 19,
+   "original_label": "公司自主研发制造的测试设备全球累计装机量 | cumulative_installations",
+   "excerpt": "5、装机规模持续扩大，品牌效应不断增强\n  截至报告期末，公司自主研发制造的测试设备全球累计装机量已超过 8,000 台。持续增长的装机规模充分体现了市场对公司产品性能、质量稳定性及服务能力的认可，也为公司后续产品导入、配件销售、技术服务拓展及品牌影响力提升奠定了坚实基础。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "8000",
+   "reported_unit": "system",
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary."
+  },
+  "claim_kind": "company_reported",
+  "precision": "reported_lower_bound",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "截至报告期末 = FY2025 annual reporting period end (2025-12-31); global, company-wide cumulative installed systems across all self-developed test-equipment product lines (STS8200 / STS8300 / STS8600), not a single equipment category, not an active-fleet count, and not a period shipment figure. Lower bound only (已超过): do not convert to a point value. Corroborating restatement of the same claim in the same document at physical page 59 (十九、社会责任工作情况): \"公司自主研发设备全球累计装机量已突破 8,000 台\" (突破, also a lower bound); no separate observation emitted for page 59 under the one-row-per-claim rule, and independent_corroboration remains false because both mentions are the same issuer document. Huafeng is a pure-play semiconductor ATE maker, so a downstream consumer may also legitimately read this company-wide figure as mapping to the `test` category; `all_businesses` is used here because the source clause is company-wide across all product lines."
+ }
+]

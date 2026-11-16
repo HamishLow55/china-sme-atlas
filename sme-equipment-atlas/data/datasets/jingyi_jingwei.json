@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "jingyi_disclosures",
+    "title": "Jingyi Jingwei IPO disclosures",
+    "kind": "company_filings",
+    "publisher": "jingyi_jingwei",
+    "version": "local-landscape-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Values and short excerpts only; originals local",
+    "market_definitions": {}
+  }
+]

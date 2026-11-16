@@ -1,0 +1,182 @@
+[
+  {
+    "observation_id": "SMEE-2023-EQUITY-INVESTMENT-RECEIVED",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "source_id": "se_holdings_fy2023_annual_report",
+    "entity_id": "shanghai_electric_holdings",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "se_holdings_equity_stake_smee",
+    "platform_id": "",
+    "metric_id": "equity_investment_amount",
+    "value": "1244594800.00",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "se_holdings_fy2023_annual_report"
+    },
+    "evidence": {
+      "page": 202,
+      "original_label": "追加投资",
+      "excerpt": "上海微电子装备（集团）股份有限公司 1,497,940,927.44 381,085,398.58 1,244,594,800.00 890,120,740.47",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "1244594800.00",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Capital Shanghai Electric Holdings Group injected into SMEE during 2023 (长期股权投资 movement note, 追加投资 column), NOT SMEE's total capital raised from all shareholders and NOT revenue. The row carried on the holder because the amount is the holder's own cash outflow; the investee is identified by the reporting scope. The same row shows a CNY 890,120,740.47 reduction (减少投资) in the period against an opening carrying value of CNY 381,085,398.58 (SE Holdings' ~30.9% share of SMEE's FY2022 net assets). Paired with SMEE-2023-EQUITY-METHOD-RESULT. SMEE's own FY2023 revenue and profit are disclosed nowhere in this packet."
+  },
+  {
+    "observation_id": "SMEE-2023-EQUITY-METHOD-RESULT",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "source_id": "se_holdings_fy2023_annual_report",
+    "entity_id": "shanghai_electric_holdings",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "se_holdings_equity_stake_smee",
+    "platform_id": "",
+    "metric_id": "equity_method_investment_income",
+    "value": "-597535523.53",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "se_holdings_fy2023_annual_report"
+    },
+    "evidence": {
+      "page": 204,
+      "original_label": "权益法下确认的投资损益",
+      "excerpt": "上海微电子装备（集团）股份有限公司 -597,535,523.53 -138,023,934.58",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "-597535523.53",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Shanghai Electric Holdings Group's own proportional equity-method result on its ~30.9% SMEE stake in 2023 (长期股权投资 movement note, 权益法下确认的投资损益 column), NOT SMEE's full-company net loss, which is not disclosed. Carried on the holder, matching every other equity_method_investment_income row in the atlas, with the investee identified by the reporting scope; an analyst may gross the figure up by the stake, but the atlas does not record that inference as a fact. Read off the rendered page image: the FY2023 annual report is a fully scanned, image-only PDF with no text layer, so the mechanical page check cannot reach this row."
+  },
+  {
+    "observation_id": "AISHENGNA-2023-EQUITY-INVESTMENT-RECEIVED",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "source_id": "se_holdings_fy2023_annual_report",
+    "entity_id": "shanghai_electric_holdings",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "se_holdings_equity_stake_aishengna",
+    "platform_id": "",
+    "metric_id": "equity_investment_amount",
+    "value": "6021989826.97",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "se_holdings_fy2023_annual_report"
+    },
+    "evidence": {
+      "page": 202,
+      "original_label": "追加投资",
+      "excerpt": "上海爱晟纳电子科技集团有限公司 6,021,989,826.97 6,021,989,826.97",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "6021989826.97",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Capital SE Holdings injected into Shanghai Aishengna in 2023, its first disclosed year as a significant associate (opening balance blank, so this equals full investment cost). NOT Aishengna's total capital from all shareholders, and NOT revenue: no equipment, shipment or revenue figure for Aishengna appears anywhere in this packet. Carried on the holder; the investee is identified by the reporting scope."
+  },
+  {
+    "observation_id": "AISHENGNA-2023-EQUITY-METHOD-RESULT",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "source_id": "se_holdings_fy2023_annual_report",
+    "entity_id": "shanghai_electric_holdings",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "se_holdings_equity_stake_aishengna",
+    "platform_id": "",
+    "metric_id": "equity_method_investment_income",
+    "value": "-51309764.56",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "se_holdings_fy2023_annual_report"
+    },
+    "evidence": {
+      "page": 204,
+      "original_label": "权益法下确认的投资损益",
+      "excerpt": "上海爱晟纳电子科技集团有限公司 -51,309,764.56 -279,590,211.39",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "-51309764.56",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "SE Holdings' own proportional equity-method result on its new Aishengna stake in 2023 -- a loss, consistent with a pre-revenue, early-stage company -- NOT Aishengna's full-company result, which is not disclosed. A further CNY -279,590,211.39 other-equity change sits on the same row (p204) and a further CNY -1,045,899,349.92 adjustment is implied by the closing balance on p206; neither is registered. Read off the rendered page image (image-only PDF, no text layer)."
+  }
+]

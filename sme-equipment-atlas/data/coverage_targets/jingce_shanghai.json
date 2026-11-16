@@ -1,0 +1,34 @@
+[
+  {
+    "target_id": "wave3_jingce_shanghai_3",
+    "task_id": "wave3_jingce_shanghai",
+    "entity_id": "jingce_shanghai",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_shanghai_jingce_subsidiary",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "subsidiary_legal_entity",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-SJ-REV",
+      "JC2024-SJ-REV",
+      "JC2025-SJ-REV"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  }
+]

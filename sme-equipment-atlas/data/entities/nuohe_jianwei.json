@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "nuohe_jianwei",
+    "name": "Nuohe Jianwei",
+    "aliases": [
+      "北京诺合键维设备有限公司",
+      "诺合键维"
+    ],
+    "evidence": {
+      "claim_id": "nuohe-jianwei-identity",
+      "source_id": "naura_nuohe_acquisition_20261015",
+      "page": 3,
+      "excerpt": "（1）名称：北京诺合键维设备有限公司；（6）统一社会信用代码：91110400MAEG2J5D8A；（7）成立日期：2025 年 4 月 22 日",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "notes": "Alias pages, all in naura_nuohe_acquisition_20261015: 北京诺合键维设备有限公司 p1 and p3; 诺合键维 p1 (以下简称“诺合键维”). The filings give no English name; 'Nuohe Jianwei' is a romanisation made here and must not be quoted as the company's own name. Founded 2025-04-22, Beijing, USCC 91110400MAEG2J5D8A (p3). It obtained its hybrid-bonding assets, business and R&D team by asset purchase after founding (p3); the seller of those assets is not named. Wholly owned by 北方华创微电子 after the registration change reported in naura_nuohe_completion_20261029 p1, so parent is naura. Earlier rows are pre-acquisition and NAURA's Q3 2026 statements exclude it. Keep overlap explicit once NAURA consolidates it.",
+    "entity_class": "china_supply_base",
+    "parent_entity_id": "naura"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "mifei_prospectus_2026",
+    "dataset_id": "mifei_ipo_disclosures",
+    "title": "弥费科技（上海）股份有限公司 首次公开发行股票并在科创板上市招股说明书（申报稿）",
+    "publication_date": "2026-06",
+    "publication_date_precision": "month",
+    "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202606/002223_20260630_4ZVA.pdf",
+    "sha256": "eb53ed5563c9f20f05e2f975aaf671f8d4f948362b024bb84ae402fbd6317898",
+    "source_type": "company_prospectus",
+    "original_document_id": "mifei_prospectus_2026",
+    "notes": "STAR Market IPO prospectus, 申报稿 (application draft, not the registered final prospectus). Signature pages are dated 二〇二六年六月【】日, so the day is left blank in the document; publication_date recorded as month precision. The document cites a 2026-04-14 outbound-investment certificate, which sets a lower bound. Reporting period covers FY2023-FY2025. Hash and 381-page count recomputed locally.",
+    "page_count": 381,
+    "locator_kind": "pdf"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "label": "半导体及显示行业",
+    "category_id": "multi_equipment",
+    "entity_id": "maxwell",
+    "definition": "Maxwell's issuer-native combined '半导体及显示行业' (semiconductor AND display industry) revenue line from the 营业收入构成/分行业 table in its FY2024, FY2025 and H1 2026 reports. A combined basket, not split between semiconductor and display: per the issuer's own business description (FY2025 pp.12, 20, 48), it spans front-end semiconductor equipment (high-selectivity etch, ALD thin-film deposition), back-end semiconductor packaging equipment (wafer laser grooving, laser stealth/modification dicing, blade dicing, wafer grinding and grind-polish integrated tools, wafer hybrid/temporary/D2W-TCB bonding), and display-panel equipment (OLED G6 Half/bending laser cutting; Mini LED wafer stealth-dicing, die splitting, mass transfer and laser bonding; Micro LED wafer bonding, laser lift-off, mass transfer, laser bonding/repair/cutting, D2D and hybrid bonding). Excludes 太阳能光伏行业 (solar photovoltaic equipment, the issuer's dominant business, over 91% of FY2025 revenue) and 其他行业 (other-industry residual). Never allocate this basket across semiconductor vs display, or across any equipment category within it: the source gives no split at any level finer than this combined industry line in any of the three filings checked."
+  },
+  {
+    "reporting_scope_id": "maxwell_overseas_revenue",
+    "label": "境外收入",
+    "category_id": "all_businesses",
+    "definition": "Company-wide overseas revenue in the 25 Aug 2026 investor call record. Overwhelmingly solar equipment; not a semiconductor export figure.",
+    "entity_id": "maxwell"
+  },
+  {
+    "reporting_scope_id": "maxwell_chenwei_semiconductor_equipment_project",
+    "label": "半导体装备研发制造项目",
+    "category_id": "multi_equipment",
+    "definition": "Project of holding subsidiary 宸微设备科技(苏州)有限公司 at Wujiang Economic and Technological Development Zone (maxwell_manufacturing_base_20260828). The notice does not state a tool mix, a capacity or a production start, so the project is not allocated to any equipment category.",
+    "entity_id": "maxwell"
+  }
+]

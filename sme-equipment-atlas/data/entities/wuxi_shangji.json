@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "wuxi_shangji",
+    "name": "Wuxi Shangji",
+    "aliases": [
+      "无锡尚积半导体科技股份有限公司",
+      "无锡尚积"
+    ],
+    "evidence": {
+      "claim_id": "wuxi-shangji-identity",
+      "source_id": "piotech_shangji_restructuring_draft_20261015",
+      "page": 196,
+      "excerpt": "第四章 交易标的基本情况 一、无锡尚积 （一）基本情况 公司名称 无锡尚积半导体科技股份有限公司 统一社会信用代码 91320214MA26BPEU95",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "notes": "Alias pages, all in piotech_shangji_restructuring_draft_20261015: 无锡尚积半导体科技股份有限公司 p196 and p9; 无锡尚积 p9 (释义: 无锡尚积 指 无锡尚积半导体科技股份有限公司). The filings give no English name; 'Wuxi Shangji' in the name field is a romanisation made here, evidenced by nothing in the corpus, and must not be quoted as the company's own name. Unlisted 股份有限公司 founded 2021-06-22, Wuxi, USCC 91320214MA26BPEU95 (p196). Piotech has signed to buy it, reaching 100% directly and indirectly; the deal is unapproved, so no parent_entity_id is set. When it closes, set the parent and treat consolidated revenue as overlapping with Piotech. Its holding platforms 上海泰纳微 and 无锡宽行 are not aliases. Published by Piotech, so dataset_id stays piotech_interim_disclosures.",
+    "entity_class": "china_supply_base"
+  }
+]

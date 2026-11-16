@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "sidea_wafer_prober_advanced_packaging_2026",
+    "claim_id": "SIDEA_WAFER_PROBER_ADVANCED_PACKAGING_2026",
+    "entity_id": "sidea",
+    "category_id": "test_prober_handler",
+    "platform_id": "sidea_wafer_prober_family",
+    "application_id": "advanced_packaging",
+    "source_id": "sidea_h1_2026",
+    "page": 16,
+    "excerpt": "面对先进封装、硅光晶圆测试等领域的增量订单，公司调配资源，扩充人才队伍，优化业务与组织架构，强化跨部门协同，多维度保障设备交付。试机验证方面，公司重点开拓 12 吋全自动晶圆探针台应用市场，持续提升客户项目覆盖面，加快推进在逻辑/存储等集成电路晶圆制造、晶圆级/面板级封装等重点试机项目的验证进程，尽快实现验证突破。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "H1 p16 section 2 describes incremental advanced-packaging and silicon-photonics orders at the wafer-prober business level; no wafer size is assigned to those orders. A separate sentence describes 12-inch automatic wafer-prober trials in logic/memory manufacturing and wafer-/panel-level packaging, with validation breakthrough still prospective. Link the general wafer-prober family, not a nearest 12-inch model. Orders do not establish qualification or production use; no named advanced-packaging customer, order quantity, HBM or TSV claim."
+  }
+]

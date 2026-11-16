@@ -1,0 +1,104 @@
+[
+  {
+    "reporting_scope_id": "jingyi_automation_temperature_control_equipment",
+    "category_id": "process_temperature_control",
+    "label": "jingyi_automation_temperature_control_equipment",
+    "definition": "京仪装备 半导体专用温控设备（Chiller）product line as reported in the 主营业务分产品 and 产销量情况分析表 tables: single-, dual- and triple-channel chillers, -70C to +120C, applied to 12-inch front-end etch and CVD and qualified into 90nm-14nm logic and 64-192 layer 3D NAND lines. Not the company total, not parts or services."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_process_exhaust_abatement_equipment",
+    "category_id": "subfab_exhaust_abatement",
+    "label": "jingyi_automation_process_exhaust_abatement_equipment",
+    "definition": "京仪装备 半导体专用工艺废气处理设备（Local Scrubber）product line: single- and dual-chamber point-of-use abatement, 400-1,600 slm, >99% treatment efficiency, combustion-washing / plasma-washing / electric-heating-washing. Not the company total, not parts or services."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_wafer_sorter_equipment",
+    "category_id": "wafer_handling_sorter",
+    "label": "jingyi_automation_wafer_sorter_equipment",
+    "definition": "京仪装备 晶圆传片设备（Sorter）product line: two-port and four-port sorters, >330 WPH full-flow wafer transfer, robot repeatability +/-0.1mm, notch alignment +/-0.2 degrees. Not the company total."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_parts_and_supporting_equipment",
+    "category_id": "multi_equipment",
+    "label": "jingyi_automation_parts_and_supporting_equipment",
+    "definition": "京仪装备 零配件及支持性设备 revenue line: spare parts and supporting equipment sold across the three product families, not allocated to any one of them. From FY2025 the issuer also classifies this line as 贸易业务收入 (trading revenue), so it is not own-manufactured equipment."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_maintenance_and_repair_services",
+    "category_id": "multi_equipment",
+    "label": "jingyi_automation_maintenance_and_repair_services",
+    "definition": "京仪装备 维护、维修等服务 revenue line: after-sales maintenance and repair across the three product families. Services, not equipment."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_company_disclosures",
+    "category_id": "all_businesses",
+    "label": "jingyi_automation_company_disclosures",
+    "definition": "京仪装备 company-wide annual-report disclosures: consolidated revenue and profit, R&D expense, cumulative patents, the mandatory 员工情况 workforce table and the mandatory top-five customer and supplier concentration tables. No product allocation."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_main_business_region_table",
+    "category_id": "all_businesses",
+    "label": "Jingyi Automation 主营业务分地区情况 table",
+    "definition": "Issuer source-native 『主营业务分地区情况』 table (FY2023, FY2024 and FY2025 annual reports): main-business revenue, cost and gross margin for a single row, 中国大陆. MAIN-BUSINESS basis is stated directly in the accompanying narrative each year (主营业务分地区变动说明：公司 20XX 年中国大陆区域内主营业务收入为 ... 万元), not derived by residual. No second, overseas/outside-mainland row is printed in any of the three years: the issuer's entire main-business revenue is attributed to the single 中国大陆 row each year."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_reported_revenue_operating_region_domestic",
+    "category_id": "all_businesses",
+    "label": "按经营地区分类：境内",
+    "definition": "Note-table 按经营地区分类 row; a cut by region of operation, distinct from the annual 主营业务分地区 table. It does not establish customer location."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_low_temperature_chiller",
+    "category_id": "process_temperature_control",
+    "label": "集成电路制造低温及超低温制程专用温控设备及技术研究",
+    "definition": "Named R&D project for -40℃ to -120℃ low and ultra-low temperature chillers."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_chiller_iteration",
+    "category_id": "process_temperature_control",
+    "label": "半导体温控装备产品技术创新迭代及新部品技术设计开发及验证",
+    "definition": "Named R&D project on chiller iteration and new parts."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_wafer_stocker",
+    "category_id": "wafer_handling",
+    "label": "集成电路制造立存与分类紧合性晶圆传输存储技术研究与产品开发",
+    "definition": "Named R&D project on an 800-wafer storage and sorting product; the sample is stated to target end-customer validation."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_thermal_abatement_upgrade",
+    "category_id": "subfab_exhaust_abatement",
+    "label": "半导体工艺气体热反应处理装备持续升级优化及研究",
+    "definition": "Named R&D project on abatement for dust-heavy processes."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_r_theta_robot_platform",
+    "category_id": "wafer_handling_sorter",
+    "label": "集成电路 R-θ洁净机械人传控技术平台研究及产品开发",
+    "definition": "Named R&D project on the R-θ clean robot and G3 sorter series."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_panel_chiller",
+    "category_id": "process_temperature_control",
+    "label": "面板温控设备技术开发",
+    "definition": "Named R&D project on panel-line chillers; display application, not wafer fabs."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_third_generation_scrubber",
+    "category_id": "subfab_exhaust_abatement",
+    "label": "第三代 Scrubber 设备研究与开发",
+    "definition": "Named R&D project on a third-generation modular scrubber."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_chiller_smart_commissioning",
+    "category_id": "process_temperature_control",
+    "label": "集成电路制造温控装备信息采集及智慧化调测系统",
+    "definition": "Named R&D project on chiller data collection and commissioning."
+  },
+  {
+    "reporting_scope_id": "jingyi_automation_rd_project_high_flow_flammable_abatement",
+    "category_id": "subfab_exhaust_abatement",
+    "label": "大流量可燃工艺气体处理装备设计与研究",
+    "definition": "Named R&D project on high-flow hydrogen and flammable gas abatement."
+  }
+]

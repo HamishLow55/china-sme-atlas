@@ -1,0 +1,86 @@
+[
+ {
+  "reporting_scope_id": "kingstone_consolidated_company",
+  "category_id": "implant",
+  "label": "Kingstone consolidated company",
+  "definition": "Consolidated Kingstone subsidiary financial table, covering ion implanters, spares, services and remanufacturing."
+ },
+ {
+  "reporting_scope_id": "kingstone_12inch_implant_cumulative_milestones",
+  "category_id": "implant",
+  "label": "Kingstone 12-inch ion-implanter cumulative milestones",
+  "definition": "Source-native cumulative orders and cumulative deliveries for 12-inch IC ion-implanter systems; use a disclosure-date proxy when the original says 2020年至今 without an explicit period-end bridge."
+ },
+ {
+  "reporting_scope_id": "kingstone_12inch_implant_h1_operating_milestones",
+  "category_id": "implant",
+  "label": "Kingstone H1 12-inch ion-implanter operating milestone",
+  "definition": "Source-native H1 shipment milestone explicitly limited to 12-inch ion-implanter systems."
+ },
+ {
+  "reporting_scope_id": "kingstone_generic_implant_operating_milestones",
+  "category_id": "implant",
+  "label": "Kingstone generic ion-implanter operating milestones",
+  "definition": "Source-native generic ion-implanter acceptance, customer-count and cumulative-delivery milestones. Do not attach a 12-inch qualifier absent from the specific sentence. Covers acceptance, customer-count, cumulative-delivery, production-lines-served and fleet wafer-throughput milestones; the list is descriptive, not closed."
+ },
+ {
+  "reporting_scope_id": "kingstone_low_energy_high_current_implant_operating_milestones",
+  "category_id": "implant_high_current",
+  "label": "低能大束流离子注入机",
+  "definition": "Kingstone source-native operating milestones stated specifically for the low-energy high-current implanter line."
+ },
+ {
+  "reporting_scope_id": "kingstone_advanced_node_low_energy_high_current_implant_operating_milestones",
+  "category_id": "implant_high_current",
+  "label": "先进制程低能大束流离子注入机 (Hyperion)",
+  "definition": "Kingstone source-native operating milestones for the advanced-node low-energy high-current implanter, disclosed as distinct from the base low-energy high-current line."
+ },
+ {
+  "reporting_scope_id": "kingstone_cryogenic_implant_operating_milestones",
+  "category_id": "implant_cryogenic",
+  "label": "超低温离子注入机",
+  "definition": "Kingstone source-native operating milestones for the cryogenic implanter line."
+ },
+ {
+  "reporting_scope_id": "kingstone_high_energy_implant_operating_milestones",
+  "category_id": "implant_high_energy",
+  "label": "高能离子注入机",
+  "definition": "Kingstone source-native operating milestones for the high-energy implanter line."
+ },
+ {
+  "reporting_scope_id": "kingstone_medium_current_implant_operating_milestones",
+  "category_id": "implant_medium_current",
+  "label": "中束流离子注入机 (iKing-360)",
+  "definition": "Kingstone source-native operating milestones for the medium-current implanter line, first disclosed in H1 2026."
+ },
+ {
+  "reporting_scope_id": "kingstone_12inch_implant_annual_operating_milestones",
+  "category_id": "implant",
+  "label": "12-inch implanters, annual",
+  "definition": "Kingstone source-native full-financial-year operating milestones explicitly limited to 12-inch implanters. Distinct from the existing cumulative and H1-only 12-inch scopes; annual flows must not be read against either."
+ },
+ {
+  "reporting_scope_id": "kingstone_repeat_order_customer_milestones",
+  "category_id": "implant",
+  "label": "Repeat-order customers",
+  "definition": "Kingstone source-native count of existing customers placing repeat or volume-repeat orders in the stated period. Complementary to kingstone_new_customer_order_milestones; the two sum to the period ordering-customer total and must not be added to it."
+ },
+ {
+  "reporting_scope_id": "kingstone_new_customer_order_milestones",
+  "category_id": "implant",
+  "label": "Newly won customers",
+  "definition": "Kingstone source-native count of new customers won in the stated period. Complementary to kingstone_repeat_order_customer_milestones; see that scope's note on summation."
+ },
+ {
+  "reporting_scope_id": "kingstone_same_year_delivery_and_acceptance_customers",
+  "category_id": "implant",
+  "label": "Same-year delivery and acceptance customers",
+  "definition": "Kingstone source-native count of customers for which equipment was both delivered and accepted within one financial year. A disclosed subset of the ordering-customer base, not an independent total."
+ },
+ {
+  "reporting_scope_id": "kingstone_low_energy_high_current_12inch_implant_operating_milestones",
+  "category_id": "implant_high_current",
+  "label": "低能大束流离子注入机 — delivered domestic fleet, 12-inch wafers",
+  "definition": "Kingstone operating milestones doubly narrowed by the source: the already-delivered domestic low-energy high-current implanter fleet AND 12-inch wafers. Kept separate from kingstone_low_energy_high_current_implant_operating_milestones so an unqualified product-line figure cannot silently join this series."
+ }
+]

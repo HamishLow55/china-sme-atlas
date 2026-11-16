@@ -1,0 +1,28 @@
+[
+  {
+    "reconciliation_id": "amec_2025_portfolio_mix",
+    "kind": "company_revenue_mix",
+    "question": "What fraction of AMEC FY2025 revenue was etching equipment?",
+    "numerator_id": "A2025-ER",
+    "denominator_id": "A2025-CR",
+    "scope_bridge": {
+      "numerator_scope": "etch",
+      "denominator_scope": "company",
+      "rationale": "Same company and reporting year; disclosed etch equipment revenue is a component of consolidated revenue, whose other components remain in the denominator."
+    },
+    "adjustments": []
+  },
+  {
+    "reconciliation_id": "amec_china_etch_market_share",
+    "kind": "market_share",
+    "question": "What was AMEC share of the China etching equipment market in 2025?",
+    "numerator_id": "A2025-ER",
+    "denominator_id": null,
+    "adjustments": [],
+    "known_gaps": [
+      "Analyst market denominator and its definition have not been acquired.",
+      "Numerator is worldwide supplier etch revenue, not verified China-market etch revenue.",
+      "Category coverage, service/new-equipment scope, revenue versus purchasing basis and tax treatment need reconciliation."
+    ]
+  }
+]

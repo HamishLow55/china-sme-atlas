@@ -1,0 +1,28 @@
+[
+  {
+    "dataset_id": "amec_annual_disclosures",
+    "title": "AMEC annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "amec",
+    "version": "pilot2-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Store numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "amec_interim_disclosures",
+    "title": "AMEC interim company disclosures",
+    "kind": "company_filings",
+    "publisher": "amec",
+    "version": "pilot2-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Store numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  }
+]

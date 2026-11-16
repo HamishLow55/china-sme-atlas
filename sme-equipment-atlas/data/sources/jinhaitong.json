@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "jinhaitong_annual_2025",
+    "dataset_id": "jinhaitong_annual_disclosures",
+    "title": "天津金海通半导体设备股份有限公司2025年年度报告",
+    "publication_date": "2026-03-10",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-11/1225004246.PDF",
+    "sha256": "5053b42568359f12f6e5eba0b3ad696f41492836fd3fda8fbe39ee53b4c43968",
+    "source_type": "company_annual_report",
+    "original_document_id": "jinhaitong_annual_2025",
+    "notes": "New dataset and entity; neither exists in data/ yet. Printed page numbers equal physical PDF pages throughout (footer 'N / 218'). The date given is the filing's own 财务报表批准报出日 (physical p106: 本财务报表业经本公司董事会于 2026 年 3 月 10 日决议批准报出), which matches the PDF CreationDate; it is NOT a verified SSE announcement timestamp and the integrator should confirm against the exchange before treating it as a publication date. No URL is printed in the document. SHA-256 and the 218-page count were recomputed locally.",
+    "page_count": 218,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "jinhaitong_q3_2026",
+    "dataset_id": "jinhaitong_annual_disclosures",
+    "title": "jinhaitong Q3 2026 report: 2026年第三季度报告",
+    "publication_date": "2026-10-24",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-24/1225621614.PDF",
+    "sha256": "4d15f73a8e5dfeae717922989268c81f5456e2316d82305d8b28e89705ccc54f",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "jinhaitong_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jinhaitong_h1_2026",
+    "dataset_id": "jinhaitong_annual_disclosures",
+    "title": "jinhaitong H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-27",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225512759.PDF",
+    "sha256": "37367cae7b5c5c75cdc813bc09341af5494d92f78406fa41643e2a2cf0758168",
+    "source_type": "company_interim_report",
+    "original_document_id": "jinhaitong_h1_2026",
+    "page_count": 190,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jinhaitong_convertible_prospectus_20260908",
+    "dataset_id": "jinhaitong_annual_disclosures",
+    "title": "jinhaitong: 天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）",
+    "publication_date": "2026-09-09",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-09-09/1225552914.PDF",
+    "sha256": "784213b6d0c5bde4451ea13ad9a69557f58439cf8c9e55d4c5a1faf128779518",
+    "source_type": "company_prospectus",
+    "original_document_id": "jinhaitong_convertible_prospectus_20260908",
+    "page_count": 197,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jinhaitong_inquiry_reply_20260916",
+    "dataset_id": "jinhaitong_annual_disclosures",
+    "title": "jinhaitong: 关于天津金海通半导体设备股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函之回复报告（修订稿）",
+    "publication_date": "2026-09-17",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-09-17/1225568644.PDF",
+    "sha256": "23f88791144338853f45f35ed054dafca5cfa59f2f5320ef9475e1090076a7b6",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "jinhaitong_inquiry_reply_20260916",
+    "page_count": 106,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

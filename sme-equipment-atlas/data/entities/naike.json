@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "naike",
+    "name": "Naike",
+    "aliases": [
+      "安徽耐科装备科技股份有限公司",
+      "耐科装备",
+      "Nextool Technology Co.,Ltd",
+      "Nextool",
+      "688419"
+    ],
+    "evidence": {
+      "source_id": "naike_annual_2025",
+      "page": 8,
+      "excerpt": "第二节 公司简介和主要财务指标 一、公司基本情况 公司的中文名称 安徽耐科装备科技股份有限公司 公司的中文简称 耐科装备 公司的外文名称 Nextool Technology Co.,Ltd ... 四、公司股票/存托凭证简况 股票种类 股票上市交易所及板块 股票简称 股票代码 变更前股票简称 A股 上海证券交易所科创板 耐科装备 688419 不适用",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Verified from the issuer's own 公司信息 section (FY2025 annual report, physical p8, no printed/physical offset): legal name 安徽耐科装备科技股份有限公司, short name 耐科装备, English name Nextool Technology Co.,Ltd, listed on the Shanghai Stock Exchange STAR Market (科创板), code 688419, no prior short name. MAIN BUSINESS (its own prospectus framing, p139 of naike_ipo_2022): two segments -- (1) plastic extrusion molds, extrusion equipment and downstream equipment for energy-saving building window/door profiles, sold mainly to overseas (Europe/North America) customers, the company's founding business and historically the larger segment; (2) semiconductor packaging equipment and molds, entered in 2017/started building out from 2016, comprising automatic transfer-molding systems (120-ton and 180-ton; later branded NTAMS), automatic trim-and-form equipment, manual molding presses, and separately-sold packaging molds. FY2025 main-business revenue split: semiconductor packaging equipment and molds CNY 119.8m (41.3%) vs plastic extrusion molds/equipment/downstream CNY 167.9m (57.9%) vs other CNY 2.4m -- extrusion remains the larger segment company-wide even though semiconductor packaging has grown fastest. Naike is NOT primarily a semiconductor-equipment maker; only its disclosed semiconductor-segment product lines carry equipment categories here, per the molding-step trap this packet works to avoid.",
+    "entity_class": "china_supply_base"
+  }
+]

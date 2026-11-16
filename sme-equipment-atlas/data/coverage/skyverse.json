@@ -1,0 +1,90 @@
+[
+  {
+    "coverage_id": "skyverse-annual-financial-history",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "scope": "FY21–25 company comparatives, FY22–25 expensed R&D, FY23–25 product financial/quantity tables",
+    "reviewed_source_ids": [
+      "skyverse_annual_2023",
+      "skyverse_annual_2024",
+      "skyverse_annual_2025"
+    ],
+    "notes": "58 reviewed observations; FY23 original cost/margin basis distinct from FY24/25. Finite priority checklist complete, not full filing extraction.",
+    "next_action": "Main/other-business totals and explicit restated aggregate cost, geography, remaining statement metrics and latest interim profit/R&D/OCF remain depth work; no restated FY23 product-cost allocation established."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_overlay",
+    "entity_id": "skyverse",
+    "status": "reviewed_found",
+    "scope": "overlay",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. New skyverse_overlay_metrology_family integrated: H1 2026 p15 catalogue; FY2025 p30 third-generation validation/new-technology shipment; H1 2026 p20 fourth-generation shipment for line validation and diffraction-route validation. Generations are not separate model counts; no HBM qualification inferred.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_three_dimensional_topography",
+    "entity_id": "skyverse",
+    "status": "reviewed_found",
+    "scope": "three dimensional topography",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. Existing source-native metrology family and source-vintage histories retained; avoid duplicate platform counts.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_wafer_geometry_flatness_warpage",
+    "entity_id": "skyverse",
+    "status": "reviewed_found",
+    "scope": "wafer geometry flatness warpage",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. Existing source-native metrology family and source-vintage histories retained; avoid duplicate platform counts.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_standalone_TTV_tool_or_explicit_TTV_measure",
+    "entity_id": "skyverse",
+    "status": "reviewed_not_found",
+    "scope": "standalone TTV tool or explicit TTV measure",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. TTV absent by text search. Flatness/geometry wording does not itself establish TTV capability.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_standalone_bump_dimension_metrology_tool",
+    "entity_id": "skyverse",
+    "status": "reviewed_not_found",
+    "scope": "standalone bump dimension metrology tool",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. Annual p29 micro bump height appears under patterned-wafer defect inspection; no separately named bump metrology platform.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  },
+  {
+    "coverage_id": "skyverse_2025_2026_metrology_gap_cumulative_installed_base",
+    "entity_id": "skyverse",
+    "status": "reviewed_not_found",
+    "scope": "cumulative installed base",
+    "reviewed_source_ids": [
+      "skyverse_annual_2025",
+      "skyverse_h1_2026"
+    ],
+    "notes": "Independent original review of the named source set. Both named originals searched for 装机、保有量、累计出货、累计交付、累计销售; no equipment installed-base figure. Shipment, sales and software-managed external equipment are not SkyVerse installed base.",
+    "next_action": "Reopen missing claims only with a located original passage or new source; keep application-specific evidence separately bound."
+  }
+]

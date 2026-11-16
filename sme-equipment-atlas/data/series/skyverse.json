@@ -1,0 +1,290 @@
+[
+  {
+    "series_id": "wave2_skyverse_16",
+    "version": 1,
+    "title": "skyverse: company / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2025H1-CR-COMP",
+      "SV2026H1-CR"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_17",
+    "version": 1,
+    "title": "skyverse: skyverse_inspection_equipment / revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-INS-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_18",
+    "version": 1,
+    "title": "skyverse: skyverse_metrology_equipment / revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-MET-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_19",
+    "version": 1,
+    "title": "skyverse: skyverse_software / revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-SW-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_20",
+    "version": 1,
+    "title": "skyverse: skyverse_services_other / revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-SVC-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_21",
+    "version": 1,
+    "title": "skyverse: company / revenue (domestic_china)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-DOM-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_skyverse_22",
+    "version": 1,
+    "title": "skyverse: company / revenue (overseas)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "SV2026H1-OVS-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "skyverse_annual_company_revenue",
+    "version": 1,
+    "title": "SkyVerse company / revenue",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2021-REV",
+      "SKYVERSE2022-REV",
+      "SKYVERSE2023-REV",
+      "SKYVERSE2024-REV",
+      "SKYVERSE2025-REV"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_company_net_profit_attributable",
+    "version": 1,
+    "title": "SkyVerse company / net profit attributable",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2021-NET-PROFIT",
+      "SKYVERSE2022-NET-PROFIT",
+      "SKYVERSE2023-NET-PROFIT",
+      "SKYVERSE2024-NET-PROFIT",
+      "SKYVERSE2025-NET-PROFIT"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_company_rd_investment_expensed",
+    "version": 1,
+    "title": "SkyVerse company / rd investment expensed",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2022-RD",
+      "SKYVERSE2023-RD",
+      "SKYVERSE2024-RD",
+      "SKYVERSE2025-RD"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_company_operating_cash_flow",
+    "version": 1,
+    "title": "SkyVerse company / operating cash flow",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2022-OCF",
+      "SKYVERSE2023-OCF",
+      "SKYVERSE2024-OCF",
+      "SKYVERSE2025-OCF"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_revenue",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / revenue",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-INSPECTION-REV",
+      "SKYVERSE2024-INSPECTION-REV",
+      "SKYVERSE2025-INSPECTION-REV"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_revenue",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / revenue",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-METROLOGY-REV",
+      "SKYVERSE2024-METROLOGY-REV",
+      "SKYVERSE2025-METROLOGY-REV"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_cost_of_revenue",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / cost of revenue",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2024-INSPECTION-COST",
+      "SKYVERSE2025-INSPECTION-COST"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_gross_margin",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / gross margin",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2024-INSPECTION-GM",
+      "SKYVERSE2025-INSPECTION-GM"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_cost_of_revenue",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / cost of revenue",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2024-METROLOGY-COST",
+      "SKYVERSE2025-METROLOGY-COST"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_gross_margin",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / gross margin",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2024-METROLOGY-GM",
+      "SKYVERSE2025-METROLOGY-GM"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_production_volume",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / production volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-INSPECTION-PRODUCTION",
+      "SKYVERSE2024-INSPECTION-PRODUCTION",
+      "SKYVERSE2025-INSPECTION-PRODUCTION"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_sales_volume",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / sales volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-INSPECTION-SALES",
+      "SKYVERSE2024-INSPECTION-SALES",
+      "SKYVERSE2025-INSPECTION-SALES"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_inspection_equipment_inventory_volume",
+    "version": 1,
+    "title": "SkyVerse inspection equipment / inventory volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-INSPECTION-INVENTORY",
+      "SKYVERSE2024-INSPECTION-INVENTORY",
+      "SKYVERSE2025-INSPECTION-INVENTORY"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_production_volume",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / production volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-METROLOGY-PRODUCTION",
+      "SKYVERSE2024-METROLOGY-PRODUCTION",
+      "SKYVERSE2025-METROLOGY-PRODUCTION"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_sales_volume",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / sales volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-METROLOGY-SALES",
+      "SKYVERSE2024-METROLOGY-SALES",
+      "SKYVERSE2025-METROLOGY-SALES"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  },
+  {
+    "series_id": "skyverse_annual_metrology_equipment_inventory_volume",
+    "version": 1,
+    "title": "SkyVerse metrology equipment / inventory volume",
+    "mode": "comparable",
+    "definition": "Explicit original-checked annual series; historical company comparatives use selected disclosed vintages.",
+    "observation_ids": [
+      "SKYVERSE2023-METROLOGY-INVENTORY",
+      "SKYVERSE2024-METROLOGY-INVENTORY",
+      "SKYVERSE2025-METROLOGY-INVENTORY"
+    ],
+    "limitations": "Supplier reporting categories, not market shares. FY2023 original product costs/margins excluded from post-warranty-reclassification series. Systems are not chambers; inventory is not installed base."
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "platform_id": "smee_ssx600",
+    "entity_id": "smee",
+    "category_id": "lithography_frontend",
+    "record_kind": "source_native_family",
+    "name": "SSX600系列光刻机",
+    "aliases": [
+      "SSX600"
+    ],
+    "evidence": {
+      "claim_id": "SMEE-PRODUCT-SSX600-IDENTITY",
+      "source_id": "smee_product_ssx600",
+      "page": 1,
+      "excerpt": "SSX600系列步进扫描投影光刻机采用四倍缩小倍率的投影物镜、工艺自适应调焦调平技术，以及高速高精的自减振六自由度工件台掩模台技术，可满足IC前道制造90nm、110nm、280nm关键层和非关键层的光刻工艺需求，可用于8寸产线或12寸产线。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogued_front_end_scanner_90_110_280nm",
+    "maturity_as_reported_in": "smee_product_ssx600",
+    "notes": "Front-end step-and-scan projection scanner family: 4x-reduction projection lens, process-adaptive focus/levelling, self-damping six-degree-of-freedom wafer/reticle stages; covers 90nm/110nm/280nm critical and non-critical front-end layers on 8-inch or 12-inch lines. This is the deepest node SMEE's current front-end catalogue reaches; no immersion (ArFi) or EUV tool is catalogued. Distinguish from the retracted SSA/800-10W 28nm-immersion claim (Dec 2023, withdrawn within hours by the posting shareholder Zhangjiang Hi-Tech; held, not registered here -- see coverage) and from Shanghai Aishengna's separately press-reported immersion-DUV programme (entity_id aishengna; no company-reported claim found, no platform registered -- see coverage). SMEE's own history page separately records a 2017.04 'immersion lithography key-technology pre-research project' as having passed national acceptance; that is a distinct (ArFi, not dry-ArF) R&D line and is not attached to this dry-ArF-family platform record. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name 'SSX600系列光刻机' and alias 'SSX600' both confirmed verbatim on smee_product_ssx600.html ('SSX600系列光刻机 ... SSX600系列步进扫描投影光刻机采用四倍缩小倍率的投影物镜...'). category_id lithography_frontend matches: this is a front-end step-and-scan scanner for 90/110/280nm IC front-end layers, which is exactly lithography_frontend's definition. reported_maturity field ('catalogued_front_end_scanner_90_110_280nm') makes no production claim; maturity_history separately and correctly distinguishes 2017 prototype acceptance, 2018 project acceptance, and a company claim (relayed via TrendForce) of 2025 mass production, each tagged to its own source without conflation. Note for integrator: data/categories.json's lithography_frontend scope_note currently reads 'Empty. This is the node an analyst most often expects to be populated... the firms held sell packaging... exposure, which are out of scope' -- that note is now stale, since this record and smee_ssb800/smee_ssc800 populate it with genuine front-end scanners; worth updating the scope_note text (outside my mandate to edit).",
+    "maturity_history": [
+      {
+        "source_id": "smee_history_page",
+        "page": 1,
+        "excerpt": "2017.10 公司承担的02重大科技专项“90nm光刻机样机研制”任务通过了02专项实施管理办公室组织的专家组现场测试。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "90nm_prototype_onsite_expert_test_passed",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Month-only date (2017.10) on SMEE's own history page; no day stated, so as_of is left empty per the platform-maturity date-basis rule."
+      },
+      {
+        "source_id": "smee_history_page",
+        "page": 1,
+        "excerpt": "2018.03 90nm光刻机项目通过正式验收。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "90nm_project_formal_acceptance",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Month-only date (2018.03); no day stated."
+      },
+      {
+        "source_id": "smee_trendforce_dec2025",
+        "page": 1,
+        "excerpt": "In May this year, SMEE claimed that its 90nm ArF lithography system had entered mass production.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "90nm_arf_mass_production_claimed",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "TrendForce (26 Dec 2025) relaying SMEE's own May-2025 claim, itself via Commercial Times/21jingji; month only ('In May this year' relative to the article's December 2025 dateline), no day stated. No independent production/shipment/customer evidence found for this claim."
+      }
+    ]
+  },
+  {
+    "platform_id": "smee_ssb800",
+    "entity_id": "smee",
+    "category_id": "lithography_frontend",
+    "record_kind": "source_native_family",
+    "name": "SSB800系列光刻机",
+    "aliases": [
+      "SSB800"
+    ],
+    "evidence": {
+      "claim_id": "SMEE-PRODUCT-SSB800-IDENTITY",
+      "source_id": "smee_product_ssb800",
+      "page": 1,
+      "excerpt": "SSB800（I-line）系列扫描投影光刻机致力于覆盖280nm及以上的典型光刻制程。设备以高产率与强工艺适应性为核心价值，为半导体产业提供稳健的基础工艺保障。其应用范围广泛覆盖了功率半导体、模拟集成电路、微机电系统（MEMS）等成熟制程制造领域，是实现大规模、高稳定性生产的理想选择。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogued_product_no_customer_stage",
+    "maturity_as_reported_in": "smee_product_ssb800",
+    "notes": "i-line (>=280nm) front-end scanner family for power-semiconductor, analog-IC and MEMS mature-node lines. No shipment, customer, or revenue figure published for this family; catalogued product only. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name 'SSB800系列光刻机' and alias 'SSB800' confirmed verbatim on smee_product_ssb800.html. category_id lithography_frontend correct (i-line, >=280nm front-end scanner for power/analog/MEMS). reported_maturity 'catalogued_product_no_customer_stage' is honest -- no shipment, customer or revenue figure is claimed anywhere in the record, matching the source (a bare product page with no stage word)."
+  },
+  {
+    "platform_id": "smee_ssc800",
+    "entity_id": "smee",
+    "category_id": "lithography_frontend",
+    "record_kind": "source_native_family",
+    "name": "SSC800系列光刻机",
+    "aliases": [
+      "SSC800",
+      "SSC800/10"
+    ],
+    "evidence": {
+      "claim_id": "SMEE-PRODUCT-SSC800-IDENTITY",
+      "source_id": "smee_product_ssc800",
+      "page": 1,
+      "excerpt": "SSC800（KrF）系列扫描投影光刻机针对110nm及以上的精细化制程需求提供进阶解决方案。该系列通过对曝光精度、畸变控制及套刻性能的全面升级，实现了更高的工艺维度。设备重点服务于AI高性能计算、高密度存储（DRAM/NAND Flash）、微处理器以及Micro LED等前沿制程领域，助力客户攻克更高精度的芯片制造难题。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "single_unit_single_source_government_award",
+    "maturity_as_reported_in": "smee_trendforce_dec2025",
+    "notes": "KrF (>=110nm) front-end scanner family. SMEE's own catalogue page names AI/HPC, high-density memory (DRAM/NAND Flash), microprocessors and Micro LED as target applications, but no production DRAM customer or shipment is named anywhere (CXMT's own IPO prospectus names no equipment supplier at all -- see base_die_litho step report). The one documented transaction is a Ministry of Science and Technology single-source procurement award for one SSC800/10 unit, ~RMB110m, verified as a dry KrF/248nm/110nm-resolution/15nm-overlay tool -- a government R&D-price award, not a commercial shipment, and excluded from any revenue recognition in this packet. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name 'SSC800系列光刻机' and alias 'SSC800' confirmed verbatim on smee_product_ssc800.html; alias 'SSC800/10' confirmed verbatim on smee_trendforce_dec2025.html. category_id lithography_frontend correct (KrF, >=110nm front-end scanner). reported_maturity 'single_unit_single_source_government_award' is carefully NOT inflated to volume production: the only transaction evidence is a Dec-2025 MOST single-source procurement of ONE SSC800/10 unit (~RMB110m), and the record explicitly excludes it from revenue recognition and keeps it separate from the catalogue's generic AI/HPC/memory application claims, which name no DRAM customer. This is exactly the discipline criterion 4 asks for.",
+    "maturity_history": [
+      {
+        "source_id": "smee_trendforce_dec2025",
+        "page": 1,
+        "excerpt": "China's Ministry of Science and Technology announced on the 25th that it will invest roughly RMB 110 million to award a contract for a step-and-scan lithography system produced by domestic equipment maker SMEE ... the product carries the model number SSC800/10 ... the awarded machine is in fact a KrF lithography system using a 248nm light source, with a resolution of 110nm ... the SSC800 features an overlay accuracy of 15nm and is believed to be a dry lithography system ... the contract was granted through a single-source procurement mechanism",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "single_source_government_award_one_unit_ssc800_10",
+        "as_of": "2025-12-25",
+        "date_basis": "source_stated_date",
+        "claim_kind": "company_reported",
+        "notes": "Article dated 26 Dec 2025 states the award was announced 'on the 25th', i.e. 25 Dec 2025 (same-article relative-date reading). Procurement project code zycgr22011903 per 21jingji as relayed by TrendForce. Single-unit government R&D procurement award, not a production/commercial shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "smee_ssb500_packaging_stepper",
+    "entity_id": "smee",
+    "category_id": "lithography_packaging",
+    "record_kind": "source_native_family",
+    "name": "SSB500系列先进封装光刻机",
+    "aliases": [
+      "SSB500",
+      "SSB500/10A"
+    ],
+    "evidence": {
+      "claim_id": "SMEE-NEWS-SSB500-IDENTITY",
+      "source_id": "smee_news_ssb500_semicon2018",
+      "page": 1,
+      "excerpt": "本次展会，我司主要展示了 SSB500 系列先进封装光刻机，该设备为中国首款用于集成电路先进封装制造领域的高精密步进投影光刻机",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "issuer_claimed_first_domestic_packaging_stepper",
+    "maturity_as_reported_in": "smee_news_ssb500_semicon2018",
+    "notes": "Wafer-level advanced-packaging step-and-repeat projection stepper; SMEE's own SEMICON Taiwan 2018 description calls it China's first high-precision step-and-repeat projection lithography tool for IC advanced packaging (an issuer assertion, not independently corroborated). Pre-2025 SMEE product line; SMEE's stepper lines (packaging/LED/FPD) were carved out to AMIES at AMIES's Feb 2025 founding (see smee entity notes), and SMEE's current product menu (smee_homepage) no longer lists any packaging stepper, consistent with the carve-out. AMIES's current wafer-level packaging-stepper product (platform_id amies_wafer_level_packaging_stepper) is registered as a separate, current-generation identity rather than assumed model-for-model continuity with SSB500, since no source states that lineage explicitly. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name 'SSB500系列先进封装光刻机' and alias 'SSB500' confirmed verbatim on smee_news_ssb500_semicon2018.html; alias 'SSB500/10A' and both maturity_history excerpts ('首台先进封装光刻机产品SSB500/10A交付用户' and '我司产品SSB500系列先进封装光刻机首次实现海外销售') confirmed verbatim on smee_history_page.html. category_id lithography_packaging correct (wafer-level advanced-packaging stepper). Maturity history correctly keeps the issuer's 'China's first' framing as an unverified issuer assertion rather than upgrading it, and correctly declines to assume model-for-model continuity with AMIES's current wafer-level stepper (amies_wafer_level_packaging_stepper) since no source states that lineage -- this is good discipline against the kind of unsupported continuity claim the protocol warns about.",
+    "maturity_history": [
+      {
+        "source_id": "smee_history_page",
+        "page": 1,
+        "excerpt": "2009.12 首台先进封装光刻机产品SSB500/10A交付用户。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "first_unit_delivered",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Month-only date (2009.12); no day stated. Model named explicitly as SSB500/10A."
+      },
+      {
+        "source_id": "smee_history_page",
+        "page": 1,
+        "excerpt": "2012.05 我司产品SSB500系列先进封装光刻机首次实现海外销售。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "first_overseas_sale",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Month-only date (2012.05); no day, customer or unit count stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "smee_2021_large_field_packaging_stepper",
+    "entity_id": "smee",
+    "category_id": "lithography_packaging",
+    "record_kind": "source_native_family",
+    "name": "新一代大视场高分辨率先进封装光刻机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "SMEE-NEWS-2021-LARGEFIELD-IDENTITY",
+      "source_id": "smee_news_2021_largefield",
+      "page": 1,
+      "excerpt": "9 月 18 日，我司举行新产品发布会，宣布推出新一代大视场高分辨率先进封装光刻机。此次推出的新品光刻机主要应用于高密度异构集成领域，具有高分辨率、高套刻精度和超大曝光视场等特点，可帮助晶圆级先进封装企业实现多芯片高密度互连封装技术的应用，满足异构集成超大芯片封装尺寸的应用需求",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "launch_announced_no_model_number_given",
+    "maturity_as_reported_in": "smee_news_2021_largefield",
+    "notes": "No model number given in the source, only a descriptive name (new-generation large-field, high-resolution advanced-packaging exposure tool for high-density heterogeneous integration). Day-of-month (9月18日) is stated in the article body; the YEAR is not printed anywhere in the visible text. The source record's URL carries a millisecond timestamp (newseq=1631963162142) that decodes to 2021-09-18, matching the stated day -- strong corroboration, but derived rather than source-printed, so the year is treated as supporting context only (see smee_news_2021_largefield source notes), not as a source-stated fact; as_of is left empty below. Pre-2025 SMEE product line, like SSB500 above. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '新一代大视场高分辨率先进封装光刻机' confirmed verbatim on smee_news_2021_largefield.html. category_id lithography_packaging correct. reported_maturity 'launch_announced_no_model_number_given' is appropriately conservative -- the maturity_history entry correctly keeps '已与多家客户达成...销售协议，首台将于年内交付' as a forward-looking claim as of the announcement, not a confirmed delivery, matching criterion 4's caution against treating a target/forward statement as a status.",
+    "maturity_history": [
+      {
+        "source_id": "smee_news_2021_largefield",
+        "page": 1,
+        "excerpt": "目前，我司已与多家客户达成新一代先进封装光刻机销售协议，首台将于年内交付。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "sales_agreements_signed_first_unit_due_within_year",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "'已与多家客户达成...销售协议，首台将于年内交付' (sales agreements signed with several customers; first unit due within the [announcement] calendar year) is a forward-looking claim as of the announcement; no confirmed delivery date, customer name or unit count found anywhere else in this packet."
+      }
+    ]
+  }
+]

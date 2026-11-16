@@ -1,0 +1,53 @@
+[
+  {
+    "platform_id": "precisionext_loong_tcb",
+    "entity_id": "precisionext",
+    "category_id": "bonding_tcb",
+    "name": "Loong",
+    "aliases": [
+      "Loong TCB",
+      "Loong Thermal Compression Bonder",
+      "Loong WS",
+      "Loong F"
+    ],
+    "evidence": {
+      "source_id": "precisionext_solutions_20261007",
+      "page": 1,
+      "excerpt": "Advanced Packaging Equipment Loong Thermal Compression Bonder Phoenix 350 Lite Thermal Comperssion Bonder XBonder Pro Mass Transfer PLP Thorn Die Attach",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogued_tcb_platform_with_completed_cowos_l_customer_test_sampling_2025",
+    "maturity_as_reported_in": "precisionext_cfol_cowos_20250314",
+    "notes": "Catalogued on the company's own English-language site under 'Advanced Packaging Equipment' as 'Loong Thermal Compression Bonder', alongside a second, separately named 'Phoenix 350 Lite Thermal Compression Bonder' platform that is NOT separately registered here (no specification or maturity wording found for it in any held source). Third-party trade press (precisionext_fsemi_loong_hbm_20240527, dated 2024-05-27) names two sub-series built on this platform: Loong WS (compatible with C2W/C2S packaging, TCB NCF and TCB MR-MUF processes, stated '±1μm' maximum precision) and Loong F (a Fluxless-process variant 'prepared for' next-generation HBM3E and HBM technology, direct copper-to-copper bonding, minimum IO pitch stated as 15μm — this pitch figure is NOT registered as a numeric observation here because no existing atlas metric covers interconnect pitch and minting one for a single data point was judged not worth the added schema surface for this task; it is preserved here in notes instead). A later, independently reported milestone (precisionext_cfol_cowos_20250314, dated 2025-03-14) states the Loong platform completed CoWoS-L test sampling for a domestic AI chip — described as the first such breakthrough for any domestic TCB tool — achieving '±1μm的芯片贴装精度' (registered as the numeric observation precisionext_loong_placement_accuracy_cowos_2025) at 450°C, and separately states the company is developing a NEXT-GENERATION Fluxless TCB tool TARGETING '±0.3μm' — a forward target, not an achieved spec, and NOT registered as a capability value. Test sampling is a customer-trial milestone, not a shipped/mass-production or named-customer-qualified claim; no unit count or revenue is disclosed for this platform in any held source. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Identity confirmed against precisionext_solutions_20261007 (own English site, page 1): 'Advanced Packaging Equipment Loong Thermal Compression Bonder...'. category_id=bonding_tcb is correct (thermal compression bonding named explicitly). Aliases 'Loong Thermal Compression Bonder', 'Loong WS' and 'Loong F' confirmed verbatim in fsemi_loong_hbm.html ('推出 Loong WS及 Loong F系列产品'). Alias 'Loong TCB' is not a literal quoted string but is adequately grounded: the source co-locates 'Loong' and 'TCB'/'TC Bonder' directly ('Loong系列TCB设备' in precisionext_cfol_cowos_20250314; 'Loong 系列 TC Bonder技术平台' in fsemi_loong_hbm), so this is a defensible shorthand rather than an invention -- distinct in kind from a truly unsourced alias. maturity_history entries verified verbatim against both cited sources (2024-05-27 fsemi article: 'Loong WS 可以兼容C2W及C2S封装形式，最高精度为plus-or-minus 1um...Loong F为下一代的HBM3E和HBM技术准备的Fluxless工艺设备...支持最小IO pitch在15微米'; 2025-03-14 c-fol article: '率先完成了国产AI芯片的CoWoS-L测试打样...' and the separate ±0.3um next-gen target), and both are correctly characterised as development/test-sampling milestones, not production or shipment claims.",
+    "maturity_history": [
+      {
+        "source_id": "precisionext_fsemi_loong_hbm_20240527",
+        "page": 1,
+        "excerpt": "在此基础上，普莱信智能构建完成 Loong 系列 TC Bonder技术平台，并针对AI芯片，HBM等不同产品的需求，推出 Loong WS及 Loong F系列产品。其中 Loong WS可以兼容C2W及C2S封装形式，最高精度为±1um, 做到和国外最先进产品同一水准，可以支持TCB NCF， TCB MR-MUF等工艺。 Loong F为下一代的HBM3E和HBM技术准备的Fluxless工艺设备，在 Loong WS平台基础上增加了甲酸还原系统，消除了Flux在整个堆叠工艺中带来的不良，可以直接进行coper-coper的键合，支持最小IO pitch在15微米，",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "loong_ws_and_loong_f_platform_launch_loong_f_prepared_for_next_gen_hbm3e",
+        "as_of": "2024-05-27",
+        "date_basis": "source_stated_date",
+        "claim_kind": "company_reported",
+        "notes": "Trade-press article dated 2024-05-27 on its own page, relaying the company's R&D narrative. 'Prepared for' (准备) next-generation HBM3E/HBM is a development/readiness statement, not a shipped or qualified-for-HBM-production claim."
+      },
+      {
+        "source_id": "precisionext_cfol_cowos_20250314",
+        "page": 1,
+        "excerpt": "普莱信智能开发的Loong系列TCB设备，通过与客户的紧密合作，率先完成了国产AI芯片的CoWoS-L测试打样，实现了国产TCB设备在AI芯片CoWoS封装领域的首次突破。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "cowos_l_customer_test_sampling_completed_first_domestic_tcb_breakthrough",
+        "as_of": "2025-03-14",
+        "date_basis": "source_stated_date",
+        "claim_kind": "company_reported",
+        "notes": "Trade-press article dated 2025-03-14 10:33:45 on its own page. A completed customer test-sampling milestone for an AI-chip CoWoS-L process, named by the outlet as the first such breakthrough for a domestic TCB tool; not a mass-production, shipment-volume or named-customer claim."
+      }
+    ]
+  }
+]

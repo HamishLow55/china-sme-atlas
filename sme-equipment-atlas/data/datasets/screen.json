@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "screen_disclosures",
+    "title": "SCREEN Holdings Co., Ltd. IR disclosures (Japanese annual securities reports; English kessan tanshin; English Annual Report Financial Section)",
+    "kind": "company_filings",
+    "publisher": "screen",
+    "version": "w11-foreign-incumbent-intake-2026-10-02",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/SCREEN filings/. Primary sources are SCREEN's own Japanese 有価証券報告書 (Annual Securities Report) for FY2021-FY2025 (terms 81-85), downloaded directly from SCREEN's Japanese IR library (screen.co.jp/ir/library/<year>) and hashed locally -- these carry every segment, income-statement, R&D and headcount figure registered in this packet. The FY2025 English 'Consolidated Financial Report' (決算短信, under Japanese GAAP) is used only for the operating-cash-flow figure, which this packet did not need to source from the Japanese yuho's full cash-flow statement, and for the 7735 ticker/representative-name corroboration on the entity record; it is an official SCREEN English translation (not the brief's 'unaudited translation' disclaimer style used by some other incumbents, but still a translation of the Japanese original, which remains the statutory filing). The English 'Annual Report 2026 Financial Section' (an integrated-report companion volume) is used only for its English wording of the DW-3100 and Lemotia R&D-achievement narrative, which the Japanese yuho states in Japanese at the same level of detail -- registered per the brief's instruction to use English integrated-report material 'only for what the filings do not carry, and say which you used': here it is used for an English quote, not for a figure the Japanese filing lacks. A Japanese 決算短信 (FY2025, May 2026) was also downloaded and locally hashed but is NOT separately registered as a source: every figure in it either duplicates the yuho/English-kessan figures already registered or is next-period guidance excluded per the brief (see holds/coverage). SCREEN closes its fiscal year 31 March; this packet's 'FY2025' means 1 April 2025 to 31 March 2026, never the issuer's own term/year label.",
+    "market_definitions": {}
+  }
+]

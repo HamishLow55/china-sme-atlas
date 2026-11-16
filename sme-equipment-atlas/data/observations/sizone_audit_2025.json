@@ -1,0 +1,178 @@
+[
+  {
+    "observation_id": "SIZ2024-TOTALREV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_audit_2025",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "52886516.63",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 12,
+      "original_label": "营业收入",
+      "excerpt": "2024年度；营业收入 52,886,516.63 元",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "52886516.63",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Target group consolidated financials; not AMEC consolidated revenue. Original CNY, accepted/revenue recognized equipment not shipments."
+  },
+  {
+    "observation_id": "SIZ2024-EQREV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_audit_2025",
+    "entity_id": "sizone",
+    "category_id": "cmp",
+    "reporting_scope_id": "sizone_special_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "50655398.23",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 77,
+      "original_label": "销售专用设备",
+      "excerpt": "2024年度；销售专用设备 50,655,398.23 元",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "50655398.23",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Target group consolidated financials; not AMEC consolidated revenue. Original CNY, accepted/revenue recognized equipment not shipments."
+  },
+  {
+    "observation_id": "SIZ2025-TOTALREV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_audit_2025",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "244118789.25",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 12,
+      "original_label": "营业收入",
+      "excerpt": "2025年度；营业收入 244,118,789.25 元",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "244118789.25",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Target group consolidated financials; not AMEC consolidated revenue. Original CNY, accepted/revenue recognized equipment not shipments."
+  },
+  {
+    "observation_id": "SIZ2025-EQREV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_audit_2025",
+    "entity_id": "sizone",
+    "category_id": "cmp",
+    "reporting_scope_id": "sizone_special_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "239340000.00",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 76,
+      "original_label": "销售专用设备",
+      "excerpt": "2025年度；销售专用设备 239,340,000.00 元",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "239340000",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Target group consolidated financials; not AMEC consolidated revenue. Original CNY, accepted/revenue recognized equipment not shipments."
+  }
+]

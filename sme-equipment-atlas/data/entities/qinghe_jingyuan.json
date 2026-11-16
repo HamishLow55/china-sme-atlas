@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "qinghe_jingyuan",
+    "name": "Qinghe Jingyuan",
+    "aliases": [
+      "青禾晶元半导体科技（集团）股份有限公司",
+      "青禾晶元半导体科技（集团）有限责任公司",
+      "北京青禾晶元半导体科技有限责任公司",
+      "青禾晶元",
+      "Qinghe Jingyuan"
+    ],
+    "evidence": {
+      "source_id": "qinghe_jingyuan_dramx_funding_20240709",
+      "page": 1,
+      "excerpt": "近日，半导体异质集成技术企业北京青禾晶元半导体科技有限责任公司（以下简称“青禾晶元”）宣布完成最新一轮融资，融资金额超3亿元。",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Unlisted Chinese semiconductor advanced-packaging/heterogeneous-integration-bonding firm. Earliest-dated held corroboration (qinghe_jingyuan_sina_sungrow_20221122, a 2022-11-22 financial-wire relay of a 企查查/Qichacha registry-change report) states 北京青禾晶元半导体科技有限责任公司 was established in 2020 with registered capital CNY 1,185,500 (118.55万元); exact founding day not confirmed in any held source. ORIGINAL (Beijing-era) legal name 北京青禾晶元半导体科技有限责任公司, named explicitly in both that 2022-11-22 item and a later 2024-07-09 funding-round article (source qinghe_jingyuan_dramx_funding_20240709). A 2025-01-10 release bylined by the company itself (qinghe_jingyuan_siscmag_tianjin_20250110) states the head-office entity relocated to Tianjin Binhai Hi-Tech Zone and was renamed 青禾晶元半导体科技（集团）有限责任公司 (still an LLC). The company's own live official site (isaber-s.com, archived 2026-10-07 as qinghe_jingyuan_isabers_launch_20250311), whose footer reads '© 2024 青禾晶元半导体科技（集团）股份有限公司', instead gives a 股份有限公司 (joint-stock) suffix — consistent with a later LLC-to-joint-stock conversion typical of pre-IPO restructuring, but no document fixing the exact conversion date was found, and NO IPO filing (STAR Market, ChiNext, Beijing Stock Exchange) was found for the company under any of these names. This discrepancy between the two most recent held sources is recorded rather than resolved; the registered 'name' field uses the current live-site form as the best available current identity.\n\nLISTING STATUS: unlisted (private, VC/strategic-funded). Disclosed investors across rounds include Sungrow Power Supply / 阳光电源 (SZSE 300274, a LISTED company) alongside 深创投, 远致星火, 芯朋微, 正为资本, 芯动能, 天创资本 and a Beijing state IC fund. The listed-shareholder route (the SMEE/Shanghai-Electric-Holdings pattern) was tried for Sungrow specifically: Sungrow's FY2024 annual report (downloaded and full-text searched; not registered as a source here because it yields nothing) contains NO mention of '青禾' or '晶元' anywhere in its 14,986 lines of extracted text, and a dedicated 2022-11-22 press item on the original Sungrow investment (itself only a 企查查-sourced registry-change report, not a Sungrow announcement) gives no stake percentage or investment amount — consistent with the stake being too small, or held through an intermediate fund vehicle, to trigger Sungrow's own disclosure. CONFIDENT NULL: no product-line revenue, company revenue or other financial figure for Qinghe Jingyuan is registered here.\n\nWhat IS registered: entity identity; a named dual-mode hybrid-bonder platform (SAB 82CWW, category_id bonding, the parent node, because the issuer's own description is explicitly dual C2W/W2W-mode and the 'bonding' scope note reserves the parent node for a platform performing more than one bonding process) with two numeric capability-spec observations (alignment accuracy, placement accuracy); and one application link (advanced_packaging). NO 'hbm' application link is registered: despite the gap analysis listing this firm under stacking_hybrid, no held source — including the company's own 2025-03-11 launch release — names HBM anywhere; the company's own stated target applications are memory (generically), Micro-LED display, CMOS image sensors and photonic-electronic co-integration. This is a deliberate confident null on the HBM-specificity of the claim, not an oversight.",
+    "entity_class": "china_supply_base"
+  }
+]

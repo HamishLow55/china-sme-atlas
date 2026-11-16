@@ -1,0 +1,170 @@
+[
+  {
+    "coverage_id": "hwatsing-cmp-local-expansion",
+    "scope": "Hwatsing CMP and broader financial/volume tables FY2023-2025; shipment milestones July2024-April2026",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000"
+    ],
+    "next_action": "Extend to local H1 2026 and historical originals; preserve changed reporting boundaries.",
+    "notes": "25 source-checked observations; not all-company comprehensive."
+  },
+  {
+    "coverage_id": "hwatsing-operational-packet-20260923",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Bounded product tables, named platforms, shipments and wafer-reclaim capacity from seven registered Hwatsing originals; not full operational sweep closure.",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "46 quantitative additions, 27 named platforms, two Universal-H300 history appends and one Universal-300FS stage correction. Distinct reporting baskets, overlapping thinning shipment claims and capacity plans preserved. See docs/reviews/archive/2026-09-23_hwatsing_operational_sweep.json.",
+    "next_action": "Finish seven-source topic dispositions, including explicit holds and reviewed absences. Do not reopen financial depth before that sweep is dispositioned."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-product_definitions",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Named product models and source-defined families across all seven originals have 33 canonical Hwatsing platforms, including 27 newly reviewed identities. Annual sibling revenue baskets are FY2023 CMP versus other, FY2024 CMP-plus-thinning versus other, and FY2025 broad semiconductor equipment versus services; H1 2026 has no product revenue table. Generic families remain generic; announcement CMP baskets are not model counts.",
+    "next_action": "New originals reopen the family roster and product revenue grid; do not infer sales or maturity from a product listing."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-shipments_installations",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Cumulative shipments and installations, preserving equipment units across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Factory shipment milestones and two FY2025 >20 thinning bounds are source-checked. FY2023/24 annual reports give no cumulative equipment count; 500/800/1000 CMP announcements are distinct source/perimeter milestones. No numeric installed base in seven originals; p800/p1000 expressly require later site installation and validation.",
+    "next_action": "Retain p19/p21 FY2025 >20 overlap hold and factory-versus-installation distinction; new originals reopen counts."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-product_volumes",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "All sibling per-product production, sales and inventory rows across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "FY2023–25 annual tables each give one broad semiconductor-equipment production/sales/inventory row plus printed growth. No per-model sibling unit rows; H1 2026 has no comparable table. FY2025 printed inventory 324 leaves an unexplained two-unit bridge against 2024 closing 340 plus 400 produced minus 418 sold.",
+    "next_action": "Preserve printed volume values and two-unit nonidentity; do not allocate broad units to CMP or models."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-orders_backlog",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Orders and backlog, tax and conditional status across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Named/model and group batch-order statements appear in annual/interim originals, and 500th CMP announcement mentions a signed transaction. No exact order backlog quantity is inferred from 多笔, 批量 or 订单储备充足; announcements 800/1000 give no backlog figures.",
+    "next_action": "Keep model-attributed orders separate from group statements and shipment counts."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-customers",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Customer counts and named customers without identity inference across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Annual top-five tables give period-specific 客户 1–5 pseudonyms (FY2023 p36, FY2024 p39, FY2025 p40), not names. H1 2026 pp16–17 uses anonymous customer descriptors and 多家 without an exact count. CMP announcements name no recipient.",
+    "next_action": "Do not identify pseudonyms across periods or convert 多家 to a numeric customer count."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-qualification_validation",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Platform histories preserve first shipments, validation, acceptance, repeat orders and commercial use at the model/group scope printed. The 300FS H1 2026 partial production-use clause names no model; 500th announcement has contract risk while 800th/1000th explicitly distinguish factory inspection from customer validation.",
+    "next_action": "Maintain source-specific stage attribution; new filings may advance or restate maturity."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-production_capacity",
+    "entity_id": "hwatsing",
+    "status": "reviewed_found",
+    "scope": "Actual versus planned capacity across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "FY2023 10万片/月 and FY2025/H1 2026 current/planned wafer-reclaim service capacities are source-checked with overlapping Tianjin/Kunshan perimeters. FY2024 has qualitative factory expansion but no numeric equipment-manufacturing capacity. FY2025 p104 2025年中 20万片/月 milestone remains native-only because no exact stock date is disclosed.",
+    "next_action": "Keep service wafers/month separate from equipment factory output; retain midyear milestone as a dated-only-to-period hold."
+  },
+  {
+    "coverage_id": "hwatsing-operational-sweep-20260923-process_nodes",
+    "entity_id": "hwatsing",
+    "status": "reviewed_not_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across hwatsing_2023, hwatsing_2024, hwatsing_2025, hwatsing_cmp_1000, hwatsing_cmp_500, hwatsing_cmp_800, hwatsing_h1_2026",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_cmp_1000",
+      "hwatsing_h1_2026"
+    ],
+    "notes": "Every page of seven hash-verified originals was screened; annual/H1 nm numerals occur in glossary or industry/downstream passages, while company equipment passages give no numeric node explicitly attached to a named product/capability. Wafer diameters and nanometre metrology are not process nodes.",
+    "next_action": "New originals reopen this exact product-bound numeric-node absence; do not attach industry 2nm/28nm/14nm/3nm prose to platforms."
+  }
+]

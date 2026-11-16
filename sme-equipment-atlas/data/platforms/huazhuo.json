@@ -1,0 +1,269 @@
+[
+  {
+    "platform_id": "huazhuo_wafer_hybrid_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding_hybrid_w2w",
+    "record_kind": "source_native_family",
+    "name": "晶圆混合键合设备",
+    "aliases": [
+      "UP HB UMA®"
+    ],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-WAFER_HYBRID_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 159,
+      "excerpt": "产品型号       UP HB UMA®            EVG GEMINI® FB",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Source table says 8/12-inch wafer hybrid bonding and customer validation. UP HB UMA® is the p.159 model alias; HBM is an application, not customer qualification. p.120 2021 hybrid delivery is not pinned to this exact family.",
+    "maturity_history": [
+      {
+        "claim_id": "HUAZHUO-IPO-WAFER_HYBRID_BONDING-STAGE",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 110,
+        "excerpt": "晶圆混合键合工艺，可在常温常\n        压下通过 Mark 对准标记实现（已经过等离子活\n        化与清洗）两片有图形晶圆的介质与介质以及金    3D-NAND、\n        属与金属的高精度对准预键合，低温退火后获得 DRAM、HBM、\n晶圆混合                                         客户验\n        高精度、高强度的键合界面。公司在混合键合领 高端 CIS、Micro\n键合设备                                         证阶段\n        域深厚积累的超精密测量控制技术、高性能可控 LED 等半导体制\n        面型晶圆夹持技术、键合波检测与控制技术等一    造及先进封装\n        系列先进技术，助力晶圆混合键合向更细线宽、\n        更高集成度不断突破。\n        面向 12 英寸",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source table says 8/12-inch wafer hybrid bonding and customer validation. UP HB UMA® is the p.159 model alias; HBM is an application, not customer qualification. p.120 2021 hybrid delivery is not pinned to this exact family."
+      }
+    ]
+  },
+  {
+    "platform_id": "huazhuo_wafer_fusion_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding_fusion",
+    "record_kind": "source_native_family",
+    "name": "晶圆熔融键合设备",
+    "aliases": [
+      "UP FB UMA"
+    ],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-WAFER_FUSION_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 160,
+      "excerpt": "产品型号        UP FB UMA           EVG Bondscale®FB       TEL Synapse Si",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Source table says 12-inch fusion bonding and customer validation. UP FB UMA is the p.160 model alias. HBM/BSPDN/CFET are applications, not production qualifications.",
+    "maturity_history": [
+      {
+        "claim_id": "HUAZHUO-IPO-WAFER_FUSION_BONDING-STAGE",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 110,
+        "excerpt": "晶圆熔融键合工艺，可在常温常压\n        下通过边缘对准标记实现（已经过等离子活化与\n        清洗）一片有图形晶圆与一片无图形晶圆的亲水 HBM、背面供电\n晶圆熔融    性键合。公司紧跟产业应用需求，突破并应用了 （BSPDN）、CFET   客户验\n键合设备    包括超平卡盘、超低应力键合启动装置、键合波 等先进封装与先        证阶段\n        检测与控制、氦气吹扫等多项创新核心部件与关     进制程应用\n        键技术，实现纳米级超低畸变，达到国际同类设\n        备水平。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source table says 12-inch fusion bonding and customer validation. UP FB UMA is the p.160 model alias. HBM/BSPDN/CFET are applications, not production qualifications."
+      },
+      {
+        "claim_id": "HUAZHUO-IPO-FUSION-DELIVERY",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 150,
+        "excerpt": "公司的晶圆熔融键合设备主要应用于 HBM、\n背面供电（BSPDN）、Flip-FET 等先进封装与先进制程应用，目前已交付于公\n司 I、公司 J 等客户；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_customer",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Company says fusion bonders delivered to Company I/J and others. Exact delivery dates, customer applications and units unspecified."
+      }
+    ]
+  },
+  {
+    "platform_id": "huazhuo_die_wafer_hybrid_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding_hybrid_d2w",
+    "record_kind": "source_native_family",
+    "name": "芯片-晶圆混合键合设备",
+    "aliases": [
+      "UP D2W HBS"
+    ],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-DIE_WAFER_HYBRID_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 160,
+      "excerpt": "产品型号       UP D2W HBS           CHAMEO ultra plus",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Source table says die-to-wafer hybrid equipment at customer validation. UP D2W HBS is the p.160 model alias. HBM is an application, not completed HBM qualification.",
+    "maturity_history": [
+      {
+        "claim_id": "HUAZHUO-IPO-DIE_WAFER_HYBRID_BONDING-STAGE",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 110,
+        "excerpt": "芯片-晶圆   1、通过将单个已分割的良好芯片高精度地放置    3D-NAND、    客户验\n混合键合    并键合到目标晶圆的对应位置上，实现芯片与晶 DRAM、HBM 等     证阶段",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source table says die-to-wafer hybrid equipment at customer validation. UP D2W HBS is the p.160 model alias. HBM is an application, not completed HBM qualification."
+      },
+      {
+        "claim_id": "HUAZHUO-IPO-D2W-EARLY2026-DELIVERY",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 121,
+        "excerpt": "发的芯片-晶圆混合键合装备正式交付客户，",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_customer",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Early 2026 delivery from p.120-121; no exact day, named customer, HBM qualification or mass-production use. Source-report context only; the stated year is retained in notes."
+      }
+    ]
+  },
+  {
+    "platform_id": "huazhuo_wafer_thermocompression_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding_tcb",
+    "record_kind": "source_native_family",
+    "name": "晶圆热压键合设备",
+    "aliases": [
+      "UP TC"
+    ],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-WAFER_THERMOCOMPRESSION_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 160,
+      "excerpt": "产品型号          UP TC                                    SUSS XBS200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "small_batch_sales",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Source-native wafer thermocompression-bonding equipment (晶圆热压键合设备) for 6/8/12-inch wafers; `bonding_tcb` records only this stated modality. Do not infer die-to-wafer or die-to-die HBM-stack TCB, an HBM qualification, or resolution of that capability gap. The table reports small-batch sales and MEMS/RF/LED applications. UP TC is the physical-p.160 model alias.",
+    "maturity_history": [
+      {
+        "claim_id": "HUAZHUO-IPO-WAFER_THERMOCOMPRESSION_BONDING-STAGE",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 111,
+        "excerpt": "晶圆热压键合工艺，支持多种键\n            合工艺，对于需要等离子活化与清洗预处理的孔\n晶圆热压        穴与熔融等工艺晶圆，以及无需预处理的共晶与             MEMS、射频器   小批量\n键合设备        阳极等工艺晶圆，可在高温、高压、高真空环境              件、LED 等    销售\n            下通过 Mark 对准标记实现热压键合，获得高强\n            度、高洁净度的键合界面。\n            面向 6/8/12 英寸晶圆 SOI/POI 键合工艺，支持多",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The physical-p.111 table reports small-batch sales for wafer thermocompression bonding and MEMS/RF/LED applications. It does not establish die-to-wafer/die-to-die HBM-stack TCB or HBM qualification."
+      },
+      {
+        "claim_id": "HUAZHUO-IPO-TCB-DELIVERY",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 150,
+        "excerpt": "公司的晶圆热压键合设备主要应用于 MEMS、射频器件、\nLED 器件的制造，目前已交付于公司 D 等客户；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_customer",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The physical-p.150 delivery claim concerns wafer thermocompression equipment for MEMS, RF and LED; no count or event date. It is not die-to-wafer/die-to-die HBM-stack TCB evidence."
+      }
+    ]
+  },
+  {
+    "platform_id": "huazhuo_wafer_soi_poi_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "晶圆 SOI/POI 键合设备",
+    "aliases": [
+      "UP SOI/POI"
+    ],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-WAFER_SOI_POI_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 160,
+      "excerpt": "产品型号        UP SOI/POI             EVG 850LT           SUSS XBS200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "industrial_application",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Generic bonding category preserves source-native SOI/POI identity; no specific fusion, hybrid or temporary modality inferred. Table says 产业化应用 for 6/8/12-inch equipment; UP SOI/POI is p.160 model alias.",
+    "maturity_history": [
+      {
+        "claim_id": "HUAZHUO-IPO-WAFER_SOI_POI_BONDING-STAGE",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 111,
+        "excerpt": "晶圆        种同质/异质材料晶圆，经等离子活化与清洗预             第三代半导体衬\n                                                         产业化\nSOI/POI 键   处理后，在真空环境下通过平边或边缘对准标记             底材料、射频器\n                                                          应用\n 合设备        进行亲水性键合，低温退火后获得高强度、高洁              件、LED 等\n            净度的键合界面。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "industrial_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Generic bonding category preserves source-native SOI/POI identity; no specific fusion, hybrid or temporary modality inferred. Table says 产业化应用 for 6/8/12-inch equipment; UP SOI/POI is p.160 model alias."
+      },
+      {
+        "claim_id": "HUAZHUO-IPO-SOI-POI-DELIVERY",
+        "source_id": "huazhuo_ipo_2026",
+        "page": 150,
+        "excerpt": "晶圆 SOI/POI 键合设备主要应\n用于第三代半导体衬底材料、射频器件、LED 器件的制造，目前已交付于中环\n领先、经纬开物等客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_customer",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Delivered to Zhonghuan Advanced, Jingwei Kaiwu and others; no exact count or date."
+      }
+    ]
+  },
+  {
+    "platform_id": "huazhuo_temporary_bonding",
+    "entity_id": "huazhuo",
+    "category_id": "bonding_temporary",
+    "record_kind": "source_native_family",
+    "name": "临时键合设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HUAZHUO-IPO-TEMPORARY_BONDING-IDENTITY",
+      "source_id": "huazhuo_ipo_2026",
+      "page": 109,
+      "excerpt": "产品\n系列覆盖晶圆对晶圆混合键合设备、芯片对晶圆混合键合设备、晶圆熔融键合设\n备、晶圆热压键合设备、晶圆 SOI/POI 键合设备和临时键合设备等的制造商之一。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "not_stated",
+    "maturity_as_reported_in": "huazhuo_ipo_2026",
+    "notes": "Source p.109 roster only. No standalone model, commercial stage, shipment, installation or sales disclosure. Temporary-bonding taxonomy mapping does not establish carrier details.",
+    "maturity_history": []
+  }
+]

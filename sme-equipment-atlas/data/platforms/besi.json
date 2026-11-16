@@ -1,0 +1,54 @@
+[
+  {
+    "platform_id": "besi_tc_next",
+    "entity_id": "besi",
+    "category_id": "bonding_tcb",
+    "record_kind": "named_model",
+    "name": "TC Next",
+    "aliases": [
+      "TCB Next"
+    ],
+    "evidence": {
+      "claim_id": "BESI-FY25-P35-TCNEXT",
+      "source_id": "besi_annual_2025",
+      "page": 35,
+      "excerpt": "Besi's TC Next is one of the leading systems in this emerging market with great flexibility and versatility to handle both flux and fluxless bonding processes as well as real-time process control for each individual bond. It has demonstrated industry leading metrics including the highest placement accuracy (0.7 microns) and bump pad pitch density (7 microns)... We have received TC Next orders from five customers and research institutes as of year end 2025.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "production_orders_received_from_multiple_customers_and_research_institutes",
+    "maturity_as_reported_in": "besi_annual_2025",
+    "notes": "Besi's named advanced thermocompression-bonding ('TCB') platform, explicitly positioned for HBM4/5 and CoWoS applications (besi_annual_2025 p20/p35; besi_annual_2024 p19/p15). NAME DRIFT ACROSS VINTAGES: the FY2024 Annual Report consistently spells it 'TCB Next' (at least nine occurrences checked, e.g. p15, p19, p172), while the FY2025 Annual Report consistently spells it 'TC Next' throughout. Treated as the SAME platform (both describe one fluxless/flux chip-to-wafer TCB system positioned for HBM/CoWoS/photonics, with a continuous order/shipment narrative across the two reports); canonical name taken from the more recent (FY2025) spelling, variant preserved as an alias. SPEC DISCREPANCY PRESERVED, NOT RESOLVED: besi_annual_2025 p35 states 'highest placement accuracy (0.7 microns) and bump pad pitch density (7 microns)', while the SAME report's Remuneration tables (p178 and p179) state 'Advanced TC bonder (TC Next) developed with 5µm bump pad pitch at 700 nm placement accuracy' -- placement accuracy agrees (0.7 micron = 700 nm) but bump pad pitch disagrees (7 micron on p35 vs 5 micron on p178/179), within the SAME filing. Not registered as a numeric observation (platform physical specs are not an atlas metric); recorded here as a verbatim conflict for a future reviewer to resolve against the original pages. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against besi_annual_2025 p.35: \"Besi's TC Next is one of the leading systems in this emerging market...We have received TC Next orders from five customers and research institutes as of year end 2025\" matches verbatim. Category bonding_tcb correct. Name-drift across vintages (TCB Next in FY2024, TC Next in FY2025) is correctly documented and both forms independently confirmed findable in their respective filings. The spec discrepancy (7-micron vs 5-micron bump pad pitch between p.35 and pp.178-179 of the same FY2025 report) is correctly preserved as a verbatim conflict rather than silently resolved, consistent with the atlas's general practice of recording restated/evolving figures rather than picking one. reported_maturity base string ('production_orders_received_from_multiple_customers_and_research_institutes') is a slightly generous paraphrase of 'orders received' -- bordering on reading an order as a production fact -- but the maturity_history array makes the orders-vs-shipped distinction explicit (2 units shipped FY2024; orders from 5 customers FY2025, not confirmed all delivered), so the full record does not actually overstate the claim. Accepted, with this phrasing flagged as marginal.",
+    "maturity_history": [
+      {
+        "claim_id": "BESI-FY24-P15-TCBNEXT-SHIP2",
+        "source_id": "besi_annual_2024",
+        "page": 15,
+        "excerpt": "We also made inroads with leading logic and memory players for our fluxless TCB Next system with two units shipped during the year.",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "two_units_shipped_during_the_year",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 Annual Report, Letter to Stakeholders, spelled 'TCB Next'. First shipments of this platform; one went to 'a leading research institute' per the Remuneration Report corroboration (p172)."
+      },
+      {
+        "claim_id": "BESI-FY25-P35-TCNEXT-5CUST",
+        "source_id": "besi_annual_2025",
+        "page": 35,
+        "excerpt": "We have received TC Next orders from five customers and research institutes as of year end 2025 addressing multiple end markets.",
+        "as_of": "2025-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "orders_received_from_five_customers_and_research_institutes",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 Annual Report, spelled 'TC Next'. Progression from 'two units shipped' (FY2024) to 'orders from five customers' (FY2025) -- an orders count, not necessarily all delivered/shipped by year end."
+      }
+    ]
+  }
+]

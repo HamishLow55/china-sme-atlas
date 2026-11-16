@@ -1,0 +1,16 @@
+[
+  {
+    "entity_id": "chipmicro",
+    "name": "Circuit Fabology Microelectronics Equipment",
+    "aliases": [
+      "合肥芯碁微电子装备股份有限公司",
+      "芯碁微装",
+      "Circuit Fabology Microelectronics Equipment Co.,Ltd",
+      "CFMEE",
+      "688630",
+      "CFMEE (Hefei Xinqi Microelectronics Equipment Co., Ltd.)"
+    ],
+    "notes": "SSE STAR Market issuer 688630. Business scope as the filing states it (p15): micro/nano direct-write lithography; R&D, manufacture, sale and maintenance of high-end direct-imaging and direct-write lithography equipment. Product system covers PCB direct-imaging equipment and automated lines, pan-semiconductor direct-write lithography equipment and automated lines, and other laser direct-imaging equipment; the PCB product type as the issuer defines it also contains CO2/UV laser blind-via drilling tools (MUD/MCD). It does NOT make projection/scanner wafer-steppers, and the majority of its revenue is printed-circuit-board equipment, not semiconductor equipment. origin/main staged this firm independently as entity 'cfmee' with pending observations; that staging was superseded by this branch's verified coverage and its identifying names are folded into the aliases above. Match on the Chinese name or the stock code, not the entity id.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'CFMEE (Hefei Xinqi Microelectronics Equipment Co., Ltd.)'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

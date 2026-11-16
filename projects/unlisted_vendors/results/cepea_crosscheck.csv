@@ -1,0 +1,4 @@
+year,cepea_frontend_usd_m,atlas_covered_usd_m,cepea_residual_usd_m,unlisted_estimate_usd_m_low,unlisted_estimate_usd_m_base,unlisted_estimate_usd_m_high,firms
+2023,5342.6,4964.9,377.7,273.7,505.4,798.4,cetc_equipment; long_tail; sicarrier; smee
+2024,6861.2,7029.2,-168.0,371.4,712.1,1171.4,cetc_equipment; long_tail; sicarrier; smee
+2025,10135.0,9248.0,887.0,565.9,1097.8,1822.1,cetc_equipment; long_tail; sicarrier; smee

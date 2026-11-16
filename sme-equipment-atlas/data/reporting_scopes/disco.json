@@ -1,0 +1,32 @@
+[
+  {
+    "reporting_scope_id": "disco_precision_processing_machines",
+    "label": "Precision Processing Machines product group",
+    "category_id": "multi_equipment",
+    "definition": "DISCO's 'Precision Processing Machines' (精密加工装置) product-group revenue line, as the issuer discloses it in the 'Disaggregation of revenue from contracts with customers' note (収益認識関係) of every annual securities report reviewed for this packet. DISCO's own business-description table (§3 事業の内容) lists this line's constituent products by name -- dicing saws (ダイシングソー), laser saws (レーザソー), grinders (グラインダ), polishers (ポリッシャ), and surface planers (サーフェースプレーナ) -- and DISCO gives NO revenue split finer than this single product-group total anywhere in any filing reviewed: the Group is legally and functionally a single reportable segment, so there is no reportable-segment note to fall back on either. Filed at multi_equipment, exactly as TOWA's SME segment and ASMPT's semiconductor_solutions scope were, because the line spans at least dicing (dicing saws, laser saws) and thinning (grinders, surface planers) categories with no further attribution possible. THIS IS THE ANSWER TO THE BRIEF'S DICING-VS-GRINDING QUESTION: DISCO does not split dicing from grinding revenue anywhere, and this packet does not infer one -- see the handback report's conclusion."
+  },
+  {
+    "reporting_scope_id": "disco_precision_processing_tools",
+    "label": "Precision Processing Tools (consumables) product group",
+    "category_id": "all_businesses",
+    "definition": "DISCO's 'Precision Processing Tools' (精密加工ツール) product-group revenue line: consumable dicing blades (ダイシングブレード), grinding wheels (グレインディングホイール), dry polishing wheels and grindstone application products, per the same §3 事業の内容 business-description table as disco_precision_processing_machines. This is a consumables annuity, not equipment, and per the intake brief ('the tools business is a consumables annuity, not equipment, and must not be read as tool revenue') it is filed at all_businesses -- a disclosed non-equipment-category revenue line, on exactly the discipline TOWA's Medical Device and Laser Processing Machine segments used -- never at any dicing or thinning child category, and never summed into equipment revenue."
+  },
+  {
+    "reporting_scope_id": "disco_other_products",
+    "label": "Other products (その他) residual product line",
+    "category_id": "all_businesses",
+    "definition": "The residual 'Other' (その他) line of DISCO's revenue-disaggregation note: whatever revenue is not attributed to Precision Processing Machines or Precision Processing Tools. DISCO's filings do not describe this line's composition anywhere reviewed for this packet (it is not named in the §3 事業の内容 product table, which lists only Machines and Tools products). Filed at all_businesses as an unspecified, unattributed residual -- never to be read as equipment revenue of any kind, and never allocated to Machines or Tools by inference. Note the FY2022 ASR's restatement note (see disco_fy2022_yuho_jp) moved JPY 14,797 million OUT of this line and into Machines/Tools for the FY2021 comparative column, confirming its boundary with the other two lines is a product-classification judgement DISCO itself revises, not a fixed definition."
+  },
+  {
+    "reporting_scope_id": "disco_company",
+    "label": "DISCO company-wide totals",
+    "category_id": "all_businesses",
+    "definition": "DISCO's consolidated group total. Because DISCO is a single reportable segment ('精密加工システム事業', Precision Processing Systems Business -- every ASR reviewed states segment-information disclosure is omitted for this reason), this scope is simultaneously 'the whole company' and 'the one segment': there is no narrower company-level segment cut available anywhere. Operating profit, net profit attributable to owners of parent, R&D expense and customer-concentration figures are all filed here, since DISCO discloses none of them split by product group or segment. Equals the sum of disco_precision_processing_machines + disco_precision_processing_tools + disco_other_products for revenue (to within DISCO's own independent whole-million-yen rounding of each line, e.g. FY2025: 273,957 + 94,976 + 67,955 = 436,888 against a reported total of 436,889)."
+  },
+  {
+    "reporting_scope_id": "disco_geography_revenue",
+    "label": "Revenue by customer-location geography",
+    "category_id": "all_businesses",
+    "definition": "DISCO's own revenue-by-customer-location split, from the §2 地域ごとの情報 (1)売上高 note of every annual securities report ('revenue is classified by country/region on the basis of customer location, not production or shipment origin'). Seven regions, exactly as DISCO defines them and in no coarser grouping: 日本 (Japan), 中国 (China), 韓国 (Korea), 台湾 (Taiwan), アジア (Asia -- DISCO's own residual bucket for Asian countries not separately named, i.e. ex-Japan/China/Korea/Taiwan), 米州 (Americas) and 欧州 (Europe). Filed at all_businesses because this is a geographic slice of the whole company's revenue (DISCO is a single reportable segment; the product-group split lives at disco_precision_processing_machines / disco_precision_processing_tools / disco_other_products instead, and the two splits are not crossed anywhere in DISCO's own disclosures -- no region-by-product table exists). The seven regions cross-foot to the company revenue total already registered under disco_company (DISCO-GROUP-REV-<year>) to within a 2-4 million yen residual each year, consistent with DISCO's practice of rounding each printed line independently to the nearest million yen; the Total column itself is not re-registered under this scope to avoid a same_fact_restated duplicate of the already-registered company total. From FY2024 onward DISCO additionally discloses the United States alone within the Americas total (a sub-split of one of these seven regions, not a separate region); not registered as its own observation in this packet."
+  }
+]

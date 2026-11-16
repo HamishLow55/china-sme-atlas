@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "camtek",
+    "name": "Camtek Ltd.",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "Camtek",
+      "CAMT"
+    ],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "Camtek is a developer and manufacturer of high-end inspection and metrology equipment for the semiconductor industry.",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "ALIASES: 'Camtek' is the company's own name throughout; 'CAMT' is its literal NASDAQ ticker, printed on the cover page ('Ordinary Shares, nominal value NIS 0.01 per share | CAMT | Nasdaq Global Market') and again at p1 'The Company shares are traded on the NASDAQ Global Market under the symbol of CAMT'. The compound form 'CAMT.TA' (a common Yahoo-Finance-style rendering for the Tel Aviv Stock Exchange listing) was considered and DELIBERATELY NOT added: the filing states the TASE listing in words ('also listed and traded on the Tel-Aviv stock exchange') but never prints the ticker string 'CAMT.TA' itself anywhere in either filing held, so it would fail the atlas's 'every alias needs a page' rule. COMPARATOR ENTITY. Camtek is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Incorporated in Israel, headquartered in Migdal Haemek, listed on NASDAQ and the Tel Aviv Stock Exchange (ticker CAMT), and a foreign private issuer that files Form 20-F with the SEC. It is here because it is one of the two named incumbents (with Onto Innovation) in exactly the packaging-inspection step the atlas's Chinese side already holds densely -- SkyVerse, Dongfang Jingyuan, Unicomp and Secote across inspection, inspection_* and metrology_* -- and because Camtek states its own HBM exposure in terms ('Approximately 50% of our revenues are generated from products supporting the production of AI applications...including high-bandwidth memory (HBM) and advanced packaging', FY2025 20-F). Camtek operates in ONE operating segment (its own words: 'The Company operates in one operating segment, and this segment comprises its only reporting unit'), so its company-total revenue is the finest granularity it discloses; it publishes no dollar split between inspection and metrology, and no dollar HBM or advanced-packaging revenue line -- see the dataset notes and the revenue_share/application_link rows for what it discloses instead. Reporting currency is the US dollar throughout, printed in thousands in the financial statements; values are recorded as printed and never converted. Fiscal year ends 31 December, confirmed on the filings, so periods line up with the Chinese issuers in the atlas without the fiscal-year offset the Japanese comparators carry."
+  }
+]

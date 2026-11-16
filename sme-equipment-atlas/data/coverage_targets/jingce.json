@@ -1,0 +1,350 @@
+[
+  {
+    "target_id": "wave3_jingce_1",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-CR",
+      "JC2024-CR",
+      "JC2025-CR"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_2",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-SEMI-REV",
+      "JC2024-SEMI-REV",
+      "JC2025-SEMI-REV"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_4",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_stated"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-SEMI-BACKLOG",
+      "JC2024-SEMI-BACKLOG",
+      "JC2025-SEMI-BACKLOG"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_5",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "metrology",
+    "reporting_scope_id": "jingce_film_metrology_family",
+    "platform_id": "jingce_film_metrology",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2025-FILM-CUMSHIP"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_6",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "metrology_ocd",
+    "reporting_scope_id": "jingce_eprofile_ocd_family",
+    "platform_id": "jingce_eprofile_ocd",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2025-OCD-CUMSHIP"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_7",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "inspection_review_sem",
+    "reporting_scope_id": "jingce_eview_ebeam_inspection_family",
+    "platform_id": "jingce_eview_ebeam_inspection",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2025-EVIEW-CUMSHIP"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_8",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "jingce_emetric_cdsem_family",
+    "platform_id": "jingce_emetric_cdsem",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2025-EMETRIC-CUMSHIP"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_9",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "inspection_brightfield",
+    "reporting_scope_id": "jingce_bfi_brightfield_family",
+    "platform_id": "jingce_bfi_brightfield",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2025-BFI-CUMSHIP"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_jingce_missing_sales_volume",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "No comparable annual semiconductor equipment unit/new-order series found in the targeted financial and operating sections. Whole-group units, cumulative family shipments, backlog and overlapping customer contracts do not supply it; see section checklists for the search boundary."
+  },
+  {
+    "target_id": "wave3_jingce_missing_new_orders",
+    "task_id": "wave3_jingce",
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "new_orders",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "No comparable annual semiconductor equipment unit/new-order series found in the targeted financial and operating sections. Whole-group units, cumulative family shipments, backlog and overlapping customer contracts do not supply it; see section checklists for the search boundary."
+  },
+  {
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "jingce_semiconductor_cost_of_revenue",
+    "task_id": "wave3_jingce",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-SEMI-COST",
+      "JC2024-SEMI-COST",
+      "JC2025-SEMI-COST"
+    ],
+    "next_action": "Preserve reported vintage levels; resolve comparative margin discrepancy separately."
+  },
+  {
+    "entity_id": "jingce",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "jingce_semiconductor_gross_margin",
+    "task_id": "wave3_jingce",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "observation_ids": [
+      "JC2023-SEMI-GM",
+      "JC2024-SEMI-GM",
+      "JC2025-SEMI-GM"
+    ],
+    "next_action": "Preserve reported vintage levels; resolve comparative margin discrepancy separately."
+  }
+]

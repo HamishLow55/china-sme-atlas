@@ -1,0 +1,62 @@
+[
+  {
+    "reporting_scope_id": "advantest_company",
+    "label": "Advantest consolidated company-wide totals",
+    "category_id": "all_businesses",
+    "definition": "Advantest's consolidated (IFRS) group total, across all reportable segments. Used for company revenue, profit, R&D and headcount context, and for named-customer concentration rows. Never read as equipment-category revenue on its own; it is the total the segment rows roll up to."
+  },
+  {
+    "reporting_scope_id": "advantest_sects_old",
+    "label": "Semiconductor and Component Test System Business segment (pre-FY2025 basis)",
+    "category_id": "multi_equipment",
+    "definition": "Advantest's 'Semiconductor and Component Test System Business' reportable segment as defined in the 82nd- and 83rd-term Annual Securities Reports (the three-segment structure used through the fiscal year ended March 31, 2025, this packet's FY2024): 'test system products for the semiconductor industry and the electronic parts industry', explicitly including both 'test systems for SoC semiconductor devices and test systems for memory semiconductor devices'. Filed multi_equipment because the segment itself is not split by the issuer at this level and spans more than one atlas equipment category; the issuer DOES publish a finer SoC/Memory split one level down (see advantest_test_soc and advantest_test_memory), so this basket row and its two children coexist without the split being inferred. SUPERSEDED from the fiscal year ended March 31, 2026 (FY2025) by the two-segment 'Test System Business' structure (see advantest_test_system_business_new); values registered under this scope for FY2024 and the restated FY2024 value under the new scope are TWO DIFFERENT FACTS (598,128 vs 682,819 JPY_million) because the new segment also absorbs the old Mechatronics segment plus a reclassified slice of the old Services segment -- pick one basis and stay on it."
+  },
+  {
+    "reporting_scope_id": "advantest_mechatronics_old",
+    "label": "Mechatronics System Business segment (pre-FY2025 basis)",
+    "category_id": "multi_equipment",
+    "definition": "Advantest's 'Mechatronics System Business' reportable segment as defined in the 82nd- and 83rd-term Annual Securities Reports: 'test handlers, mechatronic-applied products for handling semiconductor devices, device interfaces that serve as interfaces with the devices that are measured, and operations related to nano-technology products'. Filed multi_equipment because it bundles test handlers (the atlas's test_prober_handler category), device interfaces (no dedicated atlas category) and nano-technology-product operations (outside the atlas's equipment taxonomy) into one reportable total with no further split published; never allocate this figure to test_prober_handler alone. SUPERSEDED from FY2025 by the new 'Test System Business' segment, which folds this business into itself (see advantest_test_system_business_new and the entity note's reclassification arithmetic)."
+  },
+  {
+    "reporting_scope_id": "advantest_services_old",
+    "label": "Services, Support and Others segment (pre-FY2025 basis)",
+    "category_id": "all_businesses",
+    "definition": "Advantest's 'Services, Support and Others' reportable segment as defined in the 82nd- and 83rd-term Annual Securities Reports: comprehensive customer solutions, system-level test solutions, support services, sales of consumables, sales of used products and an equipment lease business. A disclosed non-equipment-category business line, filed at all_businesses on the same basis as TOWA's Medical Device and Laser Processing segments: 'a disclosed non-equipment business line such as software licensing, EDA or a service, filed here so it cannot be mistaken for tool revenue'. SUPERSEDED from FY2025 by the narrower 'Services and Others' segment (see advantest_services_others_new), which excludes roughly JPY11.5bn reclassified into the new Test System Business segment."
+  },
+  {
+    "reporting_scope_id": "advantest_test_system_business_new",
+    "label": "Test System Business segment (FY2025-basis restructuring)",
+    "category_id": "multi_equipment",
+    "definition": "Advantest's 'Test System Business' reportable segment as redefined from the fiscal year ended March 31, 2026 (this packet's FY2025): 'test systems for SoC semiconductor devices, test systems for memory semiconductor devices, test handlers and mechatronic-applied products for handling semiconductor devices, and device interfaces...and test solutions of system level testing'. This single segment now absorbs what were, through FY2024, two separate segments (Semiconductor and Component Test System Business, and Mechatronics System Business) plus a reclassified slice of the old Services segment. Filed multi_equipment for the same reason as its predecessor: it is not split by the issuer at this level, though the issuer does publish a SoC/Memory/Others split one level down (see advantest_test_soc, advantest_test_memory, advantest_test_system_others_new). The 84th-term Annual Securities Report restates FY2024 (year ended March 2025) onto this new basis as its comparative column; that restated figure is a DIFFERENT fact from the FY2024 figure filed under advantest_sects_old + advantest_mechatronics_old on the old basis (both are registered, distinguished by reporting_vintage)."
+  },
+  {
+    "reporting_scope_id": "advantest_services_others_new",
+    "label": "Services and Others segment (FY2025-basis restructuring)",
+    "category_id": "all_businesses",
+    "definition": "Advantest's 'Services and Others' reportable segment as redefined from the fiscal year ended March 31, 2026: comprehensive customer solutions, nano-technology-product operations, support services and consumables sales -- the same non-equipment business line as the old 'Services, Support and Others' segment, minus the slice reclassified into the new Test System Business segment. Filed all_businesses on the same non-equipment-business-line basis as its predecessor (advantest_services_old). The 84th-term Annual Securities Report restates FY2024 onto this basis (JPY96,888 million, down from the old basis's JPY108,399 million) as its comparative column; both vintages are registered, distinguished by reporting_vintage."
+  },
+  {
+    "reporting_scope_id": "advantest_test_soc",
+    "label": "SoC semiconductor test systems (named class within the test segment)",
+    "category_id": "test",
+    "definition": "Revenue from Advantest's test systems for SoC semiconductor devices, as the issuer's own segment-note 'breakdown of [test segment] business' table names it ('SoC' column). Filed at the parent 'test' category (Electrical test and test interfaces) rather than a child, because the atlas's existing test-equipment taxonomy -- built out from Chinese memory-ATE makers -- has no dedicated child category for SoC/logic automated test equipment the way it does for memory (test_memory_ate); this is a genuine named class the source discloses, not an unsplit basket, and a reviewer adding a test_soc_ate (or test_logic_ate) child category in a future wave could move this scope's observations under it unchanged. Through FY2024 this column sits inside the old 'Semiconductor and Component Test System Business' segment (advantest_sects_old); from FY2025 it sits inside the new 'Test System Business' segment (advantest_test_system_business_new), but the SoC figure itself is identical across both presentations for the one year (FY2024) disclosed under both. Also used for Advantest's planned (not yet attained) SoC-tester manufacturing capacity target disclosed in the 84th-term Annual Securities Report's bond-proceeds-use note."
+  },
+  {
+    "reporting_scope_id": "advantest_test_memory",
+    "label": "Memory semiconductor test systems (named class within the test segment)",
+    "category_id": "test_memory_ate",
+    "definition": "Revenue from Advantest's test systems for memory semiconductor devices, as the issuer's own segment-note 'breakdown of [test segment] business' table names it ('Memory' column). This is the direct Chinese-comparator match for the atlas's test_memory_ate category, which already holds six Chinese entities (Changchuan, Jingzhida, Huafeng Test & Control, Jinhaitong, Liandong, Semitronix). Through FY2024 this column sits inside the old 'Semiconductor and Component Test System Business' segment (advantest_sects_old); from FY2025 it sits inside the new 'Test System Business' segment (advantest_test_system_business_new); the Memory figure itself is identical across both presentations for FY2024. The issuer does NOT break this figure out any further: no separate HBM, DRAM-vs-non-volatile, or burn-in-vs-functional sub-split is published anywhere in the three Annual Securities Reports held for this packet, though narrative commentary in two of them explicitly attributes this line's growth to 'high-performance DRAM, particularly HBM' and 'high-performance DRAM such as HBM' -- see the application_links for those sentences. This is the single most load-bearing scope in the packet: it is the only line anywhere in Advantest's disclosure that isolates memory-tester revenue from SoC-tester revenue."
+  },
+  {
+    "reporting_scope_id": "advantest_test_system_others_new",
+    "label": "Other revenue within the Test System Business segment (FY2025-basis 'Others' column)",
+    "category_id": "multi_equipment",
+    "definition": "The 'Others' column of the new-basis 'breakdown of test system business' table (physical p160 of the 84th-term Annual Securities Report), i.e. Test System Business segment revenue net of the named SoC and Memory lines. Per the segment's own product description this column is dominated by test handlers and mechatronic-applied handling products and device interfaces (the old Mechatronics System Business's product lines), plus roughly JPY11.5bn reclassified in from the old Services segment (the FY2024 'Others' value of JPY84,691m versus the old Mechatronics segment's JPY73,180m for the identical fiscal year implies that residual, matched exactly by the old Services segment's JPY108,399m less the new Services and Others segment's restated JPY96,888m for the same year -- see the entity note). No further split of this column is published; filed multi_equipment as an unallocated basket. Did not exist as a distinct disclosed line before FY2025 (the old basis had no 'Others' column at the SCTS-segment level, since Mechatronics was reported as its own separate segment)."
+  },
+  {
+    "reporting_scope_id": "advantest_corporate_common",
+    "label": "Corporate (Common) headcount, unallocated to a reportable segment",
+    "category_id": "all_businesses",
+    "definition": "Headcount the issuer labels 'Corporate (Common)' in its Status of Employees table: staff 'who belong to Administration Group or others that cannot be classified in a specific segment' (84th-term Annual Securities Report note 2). Not a reportable segment with its own revenue; filed all_businesses as unallocated corporate headcount, distinct from both equipment-segment headcount and the services business line."
+  }
+]

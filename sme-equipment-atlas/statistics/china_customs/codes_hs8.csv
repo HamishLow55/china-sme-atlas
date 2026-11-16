@@ -1,0 +1,28 @@
+hs8,name_zh,name_en
+84861010,,Machines for the treatment of monocrystalline sillicon by a process of involving a change of temperature
+84861020,,Grinding machines for the manufacture of boules or wafers
+84861030,,Sawing machines for the manufacutre of boules or wafers
+84861040,,Chemical mechanical polishers for the manufacture of boules ro wafers
+84861090,,Other machines for the manufacture of boules or wafers
+84862010,制半导体器件或IC的氧化扩散等热处理设备,"Oxidation,diffusion,annealing and other heat treatment equipment for the manufacture of semiconductor or IC"
+84862021,制造半导体器件或IC的化学气相沉积装置,Chemical Vapour Deposition(CVD) equipment for the manufacture of semiconductor or IC
+84862022,制造半导体器件或IC的物理气相沉积装置,Physical Vapour Deposition(PVD) equipment for the manufacture of semiconductor or IC
+84862029,其他制半导体件或集成电路用薄膜沉积设备,Other film deposition equipment for the manufacture of semiconductor or IC
+84862031,制半导体器件或集成电路用的分步重复光刻机,Step and repeat alignersw
+84862039,其他投影绘制电路图的制半导体件或IC的装置,Other apparatus used for projected circuit onto semiconductor materials for the manufacture of semiconductor or IC
+84862041,制造半导体器件或IC的等离子体干法刻蚀机,Dry plasma etching for the manufacture of semiconductor or IC
+84862049,制造半导体器件或IC的其他刻蚀及剥离设备,Other etching and stripping equipment for the manufacture of semiconductor or IC
+84862050,制造半导体器件或集成电路用的离子注入机,Ion implanters
+84862090,其他制半导体器件或集成电路用的机器及装置,Other apparatus for the manufacture of semiconductor devices
+84864010,,Apparatus used for the manufacture or repair of masks and reticles
+84864021,,Plastics encapsulating machines for the assembling of semiconductor or IC
+84864022,,Wire bonders for the assembling of semiconductor or IC
+84864029,,Other mounting and bonding machines and apparatus specified in Note 11 (C) to this Chapter.
+84864031,,Automated material handing machines used in IC factories
+84864039,,"Other apparatus solely o used for lifting boules, wafers etc."
+90308200,,"For measuring or checking semiconductor wafers or devices 
+(including integrated circuits)"
+90314100,制造半导体器件（包括集成电路）时检验半导体晶圆、器件（包括集成电路）或检测光掩模及光栅用的光学仪器及器具,"For inspecting semiconductor wafers or devices (including 
+integrated circuits) or for inspecting photomasks or reticles used in 
+manufacturing semiconductor devices (including integrated 
+circuits)"

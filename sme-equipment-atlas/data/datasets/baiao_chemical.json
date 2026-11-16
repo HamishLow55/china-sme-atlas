@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "baiao_chemical_disclosures",
+    "title": "Dalian Baiao Chemical (603360.SH) audited/regulatory disclosures",
+    "kind": "company_filings",
+    "publisher": "baiao_chemical",
+    "version": "w13-2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric and descriptive passages from Baiao Chemical's own cninfo-filed FY2024 annual report and its own numbered board announcement (2025-004) as reproduced by Shanghai Securities News; originals held locally.",
+    "market_definitions": {}
+  }
+]

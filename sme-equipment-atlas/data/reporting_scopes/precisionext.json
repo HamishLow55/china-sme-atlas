@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "precisionext_loong_tcb_platform",
+    "label": "Loong TCB设备",
+    "category_id": "bonding_tcb",
+    "definition": "PrecisioNext's source-native 'Loong' thermocompression-bonder technology platform (sub-series Loong WS and Loong F), as described in third-party trade press relaying the company's own statements. Holds this platform's chip-placement-accuracy capability spec only; carries no company-wide or other-product-line revenue, and is not an HBM-qualified-production scope."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "entity_id": "angstrom_e",
+    "name": "Angstrom-e",
+    "aliases": [
+      "深圳市埃芯半导体科技有限公司",
+      "埃芯半导体",
+      "埃芯",
+      "Shenzhen Angstrom Excellence Technology Co., Ltd.",
+      "Angstrom Excellence Technology",
+      "Angstrom-e",
+      "AE"
+    ],
+    "evidence": {
+      "source_id": "angstrom_e_homepage_en",
+      "page": 1,
+      "excerpt": "Shenzhen Angstrom Excellence Technology Co. Ltd was established in October 2020, is an expert of Semiconductor front end metrology equipment in R&D, manufacture and sales.",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": "",
+      "independent_corroboration": false
+    },
+    "notes": "Identity resolved from the romanisation 'Angstrom-e' named in the analysis-layer hbm_tool_stack.csv tsv_metrology and packaging_inspection rows. The firm's own English brand IS 'Angstrom Excellence' / 'AE', and its own domain is literally angstrom-e.com -- a direct match, not an inferred transliteration. Chinese legal name 深圳市埃芯半导体科技有限公司 confirmed on the company's own Chinese about-page (angstrom_e_about_zh): '深圳市埃芯半导体科技有限公司成立于2020年，是国家高新技术企业、国家级专精特新重点\"小巨人\"企业'. Also independently listed under this same English name in the SEMI.org ECS member directory (not fetched/hashed for this intake; web-search corroboration only, flagged as such).\n\nSTATUS: UNLISTED, FILES NOTHING OF ITS OWN. No prospectus, STAR-Market review filing, NEEQ listing or periodic report was found for this entity (checked: SSE/SZSE/STAR-Market disclosure-portal web searches for 埃芯半导体 + 科创板/IPO/辅导/申报, all negative as of 2026-10-07; no 新三板/NEEQ listing found). It is privately VC-funded: press (pedaily.cn, trendforce.cn, 21jingji.com, sina.com.cn; not fetched/hashed here, web-search corroboration only) reports an October 2020 founding and a ~RMB 1bn 'B+' round in July 2026, with investors including 深创投/Shenzhen Capital Group, 招商证券/China Merchants Securities, 长江资本/Changjiang Growth Capital, 国新基金, 鲲鹏资本, 高瓴创投/GL Ventures, 亦庄国投 and others -- all financial/state VC funds, none of them a strategic industrial parent that consolidates or equity-accounts for Angstrom-e in its own filings. BOTH shareholder-disclosure routes were checked and came up empty: (1) no listed parent/shareholder equity-method or consolidated disclosure of Angstrom-e's financials was found (its investors hold minority VC stakes, not the kind of position that produces a SMEE/SE-Holdings-style associate note); (2) no acquisition-announcement route applies -- Angstrom-e is raising money, not being acquired. NO REVENUE, PROFIT OR OTHER FINANCIAL FIGURE IS REGISTERED FOR THIS ENTITY. This is a real finding (unlisted, files nothing, no shareholder/acquirer route found), not an oversight.\n\nCompany's own product taxonomy (angstrom_e_product_listing) groups its catalogue into four lines: 光学量测产品系列 (optical wafer metrology), X射线量测产品系列 (X-ray wafer metrology), 先进封装量检测产品系列 (advanced-packaging metrology & inspection) and 高端科学仪器 (high-end scientific instruments, not pursued here). The hbm_tool_stack.csv's tsv_metrology/packaging_inspection leads map onto the THIRD line; see platforms angstrom_e_fusionview and angstrom_e_xrayview. The company's homepage separately claims (angstrom_e_about_zh): '目前公司晶圆量测设备已于国内头部晶圆厂量产，服务国内先进工艺产线，支持先进Logic、先进DRAM、先进3D NAND等关键工艺量测需求' -- mass production (量产) achieved for its WAFER metrology equipment generally, tied to advanced Logic/DRAM/3D NAND process support. This is a front-end (not packaging) claim, named DRAM generically rather than HBM specifically, and is not tied to any one named platform -- recorded here as company-level context only, not upgraded to an HBM application link and not registered as a platform record.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "platform_id": "kingstone_advanced_process_medium_current_implanter",
+    "entity_id": "kingstone_semiconductor",
+    "category_id": "implant_medium_current",
+    "record_kind": "source_native_family",
+    "name": "应用于先进制程的中束流离子注入机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "KINGSTONE-ADVANCED-PROCESS-MEDIUM-CURRENT-IMPLANTER",
+      "source_id": "xiandao_jidian_q3_2026",
+      "page": 6,
+      "excerpt": "2026 年第三季度，公司旗下凯世通完成应用于先进制程的中束流离子注入机开发，该产品主要面向先进逻辑和存储工艺节点，具备优异的束流稳定性与剂量均匀性控制等能力，可满足先进制程工艺对注入精度与重复性的严苛要求。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "development_completed",
+    "maturity_as_reported_in": "xiandao_jidian_q3_2026",
+    "notes": "Development completed in Q3 2026, by the parent filing. No shipment, customer validation or numeric node is stated. Identity with the iKing-360 medium-current line in the existing Kingstone scope is not stated here and stays unresolved. No HBM statement, so no application link. New Kingstone platform partition; see the intake note on ownership.",
+    "maturity_history": [
+      {
+        "source_id": "xiandao_jidian_q3_2026",
+        "page": 6,
+        "excerpt": "2026 年第三季度，公司旗下凯世通完成应用于先进制程的中束流离子注入机开发",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "development_completed",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Quarter-level date as printed; exact day not stated."
+      }
+    ]
+  }
+]

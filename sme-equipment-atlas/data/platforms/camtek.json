@@ -1,0 +1,217 @@
+[
+  {
+    "platform_id": "camtek_hawk",
+    "entity_id": "camtek",
+    "category_id": "multi_equipment",
+    "record_kind": "named_model",
+    "name": "Hawk",
+    "aliases": [],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "Over the years, our Inspection and Metrology products for the semiconductor industry included the Falcon, Condor, Gannet and Eagle products lines. As of today, we produce and sell the Eagle platform, the Hawk platform and the MicroProf platform, and have phased out all other models. Product | Function. Hawk | Launched on February 2025, this brand-new product family – the Hawk – a new cutting-edge platform is engineered for cutting edge advanced packaging: Chiplets, HBM and Hybrid Bonding. Designed for high-end applications such as, the Hawk supports detection of 150 nanometer defects size and measurement of 500 million micro bumps at pitches less than 12 micron",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "launched_february_2025_current_production_platform_engineered_for_advanced_packaging_chiplets_hbm_and_hybrid_bonding",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Camtek's newest inspection+metrology platform as of the FY2025 20-F ('As of today, we produce and sell the Eagle platform, the Hawk platform and the MicroProf platform'), i.e. a current, sold production platform, not a lab/trial tool. Filed at multi_equipment, not inspection or metrology alone, because the issuer's own description combines both functions on one platform ('detection' = inspection; 'measurement' = metrology), and the inspection category's own scope_note directs a combined 検出/量測 (detect+measure) tool to multi_equipment rather than to inspection. 'Launched on February 2025' gives month and year only, no day; date_basis is therefore source_report_context with as_of left empty rather than guessing a day. HBM is named explicitly as a target application (see the application_links for this platform); Chiplets and Hybrid Bonding are also named but are not registrable atlas application_ids (only tsv, advanced_packaging and hbm exist) -- noted here in words rather than invented as a link. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1 (the product-family table): \"Hawk | Launched on February 2025, this brand-new product family...a new cutting-edge platform is engineered for cutting edge advanced packaging: Chiplets, HBM and Hybrid Bonding\" matches verbatim (checked by exact substring match after HTML-entity decoding). Category multi_equipment is correct: the issuer's own words combine 'detection' (inspection) and 'measurement' (metrology) on one platform, matching the multi_equipment convention W12 already confirmed for five of Camtek's six platforms. reported_maturity correctly reflects 'produce and sell' (current production) without inventing a unit count. DEFECT: the alias \"Camtek Hawk\" is nowhere in the source -- the 20-F only ever calls it \"the Hawk platform\" or \"Hawk\"; \"Camtek Hawk\" is an extractor-assembled compound (entity name + product name), not a printed form.",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "Over the years, our Inspection and Metrology products for the semiconductor industry included the Falcon, Condor, Gannet and Eagle products lines. As of today, we produce and sell the Eagle platform, the Hawk platform and the MicroProf platform, and have phased out all other models. Product | Function. Hawk | Launched on February 2025, this brand-new product family – the Hawk – a new cutting-edge platform is engineered for cutting edge advanced packaging: Chiplets, HBM and Hybrid Bonding. Designed for high-end applications such as, the Hawk supports detection of 150 nanometer defects size and measurement of 500 million micro bumps at pitches less than 12 micron",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "launched_february_2025_current_production_platform_engineered_for_advanced_packaging_chiplets_hbm_and_hybrid_bonding",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Camtek's newest inspection+metrology platform as of the FY2025 20-F ('As of today, we produce and sell the Eagle platform, the Hawk platform and the MicroProf platform'), i.e. a current, sold production platform, not a lab/trial tool. Filed at multi_equipment, not inspection or metrology alone, because the issuer's own description combines both functions on one platform ('detection' = inspection; 'measurement' = metrology), and the inspection category's own scope_note directs a combined 検出/量測 (detect+measure) tool to multi_equipment rather than to inspection. 'Launched on February 2025' gives month and year only, no day; date_basis is therefore source_report_context with as_of left empty rather than guessing a day. HBM is named explicitly as a target application (see the application_links for this platform); Chiplets and Hybrid Bonding are also named but are not registrable atlas application_ids (only tsv, advanced_packaging and hbm exist) -- noted here in words rather than invented as a link."
+      }
+    ]
+  },
+  {
+    "platform_id": "camtek_eagle_g5",
+    "entity_id": "camtek",
+    "category_id": "multi_equipment",
+    "record_kind": "named_model",
+    "name": "Eagle G5",
+    "aliases": [],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "Eagle G5 | Launched in September 2024, the Eagle G5 was developed on the well-known Eagle product family and is engineered to deliver unmatched speed and efficiency. Featuring significantly higher throughput and new optimized optics, the Eagle G5 offers higher resolution for enhanced detection and metrology. The system provides innovative solutions for Multi-RDL, FOWLP, 2.5D, and CMOS Image Sensors. With the introduction of Clear-Sight Technology (CSI) for Multi-Layer RDL, the Eagle G5 achieves enhanced detection capabilities, down to 1.4μm L/S at twice the throughput.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "launched_september_2024_current_production_platform_for_multi_rdl_fowlp_2_5d_and_cmos_image_sensors",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Current Eagle-family platform (launched September 2024, month/year only so date_basis is source_report_context with as_of empty). Filed at multi_equipment: the issuer's own words combine 'detection' (inspection) and 'metrology' on the same platform. Explicitly named for Multi-RDL, FOWLP (Fan-Out Wafer Level Packaging) and 2.5D -- advanced-packaging process steps -- plus CMOS Image Sensors (not packaging-related, not linked). No HBM or hybrid-bonding wording attached to this specific platform. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1: \"Eagle G5 | Launched in September 2024, the Eagle G5 was developed on the well-known Eagle product family...\" matches verbatim. Category multi_equipment is correct (issuer's own words combine detection and metrology). Named for Multi-RDL, FOWLP, 2.5D -- advanced-packaging-adjacent, correctly not linked to any application_id since no HBM/TSV/advanced-packaging wording is attached to this specific platform (CMOS Image Sensors is also named and correctly left unlinked). DEFECT: the alias \"Camtek Eagle G5\" is nowhere in the source; the 20-F only calls it \"Eagle G5\" or \"the Eagle G5\" -- same extractor-assembled-compound defect as camtek_hawk.",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "Eagle G5 | Launched in September 2024, the Eagle G5 was developed on the well-known Eagle product family and is engineered to deliver unmatched speed and efficiency. Featuring significantly higher throughput and new optimized optics, the Eagle G5 offers higher resolution for enhanced detection and metrology. The system provides innovative solutions for Multi-RDL, FOWLP, 2.5D, and CMOS Image Sensors. With the introduction of Clear-Sight Technology (CSI) for Multi-Layer RDL, the Eagle G5 achieves enhanced detection capabilities, down to 1.4μm L/S at twice the throughput.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "launched_september_2024_current_production_platform_for_multi_rdl_fowlp_2_5d_and_cmos_image_sensors",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current Eagle-family platform (launched September 2024, month/year only so date_basis is source_report_context with as_of empty). Filed at multi_equipment: the issuer's own words combine 'detection' (inspection) and 'metrology' on the same platform. Explicitly named for Multi-RDL, FOWLP (Fan-Out Wafer Level Packaging) and 2.5D -- advanced-packaging process steps -- plus CMOS Image Sensors (not packaging-related, not linked). No HBM or hybrid-bonding wording attached to this specific platform."
+      }
+    ]
+  },
+  {
+    "platform_id": "camtek_eagle_ti_plus",
+    "entity_id": "camtek",
+    "category_id": "multi_equipment",
+    "record_kind": "named_model",
+    "name": "EagleT-i / EagleT-i Plus",
+    "aliases": [
+      "Eagle-i",
+      "EagleT-I",
+      "EagleT-I Plus"
+    ],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "EagleT-i /Plus | The Eagle-i system family is designed for high volume 2D inspection, delivering superior 2D inspection and 2D metrology capabilities. The system utilizes the most advanced algorithms enabling detection of down to sub-micron defects and measuring two-micron line and space redistribution layer (“RDL”). The Eagle-i system family includes the EagleT-I and EagleT-I Plus models, which were designed for better accuracy and optical resolutions and higher throughput.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_family_high_volume_2d_inspection_and_metrology",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Current Camtek platform family (no specific launch date stated); filed at multi_equipment because the issuer's own description combines 2D inspection and 2D metrology on the same platform. Measures redistribution-layer (RDL) line/space down to two microns -- an advanced-packaging-adjacent capability -- but the source does not use the words HBM, advanced packaging or TSV for this specific family, so no application_link is registered for it. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1: \"EagleT-i /Plus | The Eagle-i system family is designed for high volume 2D inspection... The Eagle-i system family includes the EagleT-I and EagleT-I Plus models\" matches verbatim. All three aliases (Eagle-i, EagleT-I, EagleT-I Plus) are individually findable in the source even though the compound name field (joined with ' / ') is not itself a printed string -- the two components it joins are each printed. Category multi_equipment correct (combines 2D inspection and 2D metrology). No HBM/advanced-packaging wording attached to this family specifically, so correctly unlinked.",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "EagleT-i /Plus | The Eagle-i system family is designed for high volume 2D inspection, delivering superior 2D inspection and 2D metrology capabilities. The system utilizes the most advanced algorithms enabling detection of down to sub-micron defects and measuring two-micron line and space redistribution layer (“RDL”). The Eagle-i system family includes the EagleT-I and EagleT-I Plus models, which were designed for better accuracy and optical resolutions and higher throughput.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_family_high_volume_2d_inspection_and_metrology",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current Camtek platform family (no specific launch date stated); filed at multi_equipment because the issuer's own description combines 2D inspection and 2D metrology on the same platform. Measures redistribution-layer (RDL) line/space down to two microns -- an advanced-packaging-adjacent capability -- but the source does not use the words HBM, advanced packaging or TSV for this specific family, so no application_link is registered for it."
+      }
+    ]
+  },
+  {
+    "platform_id": "camtek_eagle_ap_plus",
+    "entity_id": "camtek",
+    "category_id": "multi_equipment",
+    "record_kind": "named_model",
+    "name": "EagleT-AP / EagleT-AP Plus",
+    "aliases": [
+      "Eagle-AP",
+      "EagleT-AP",
+      "EagleT-AP Plus"
+    ],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "EagleT-AP / Plus | The Eagle-AP system family addresses the fast-growing advanced packaging market using state of the art technologies, both software and hardware, that deliver superior 2D and 3D inspection and metrology capabilities on the same platform. The EagleT-AP metrology capabilities support the wide spectrum of bump sizes and all bump types, including copper pillars, micro-bumps, solder and gold bumps, meeting the advanced packaging market requirements, including measurement of bumps down to 2µm (microns) and providing high throughput. The Eagle-AP system family includes the EagleT-AP and EagleT-AP Plus models, equipped with higher throughput and improved metrology capabilities.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_family_addressing_the_fast_growing_advanced_packaging_market",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Current Camtek platform family explicitly positioned for the advanced-packaging market: bump (copper pillar, micro-bump, solder, gold bump) inspection and metrology down to 2 micron. Filed at multi_equipment because the issuer's own words combine 2D/3D inspection and metrology on the same platform. No HBM-specific wording attached (bumps generically, across 'all bump types'), so the application_link below is to advanced_packaging, not hbm. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1: \"EagleT-AP / Plus | The Eagle-AP system family addresses the fast-growing advanced packaging market...\" matches verbatim. Aliases Eagle-AP, EagleT-AP, EagleT-AP Plus all individually findable. Category multi_equipment correct (2D/3D inspection + metrology combined on one platform per the issuer's own wording). Bump-measurement claim (down to 2 micron, all bump types) correctly kept generic (advanced_packaging) rather than upgraded to hbm, since no HBM-specific wording appears for this family.",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "EagleT-AP / Plus | The Eagle-AP system family addresses the fast-growing advanced packaging market using state of the art technologies, both software and hardware, that deliver superior 2D and 3D inspection and metrology capabilities on the same platform. The EagleT-AP metrology capabilities support the wide spectrum of bump sizes and all bump types, including copper pillars, micro-bumps, solder and gold bumps, meeting the advanced packaging market requirements, including measurement of bumps down to 2µm (microns) and providing high throughput. The Eagle-AP system family includes the EagleT-AP and EagleT-AP Plus models, equipped with higher throughput and improved metrology capabilities.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_family_addressing_the_fast_growing_advanced_packaging_market",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current Camtek platform family explicitly positioned for the advanced-packaging market: bump (copper pillar, micro-bump, solder, gold bump) inspection and metrology down to 2 micron. Filed at multi_equipment because the issuer's own words combine 2D/3D inspection and metrology on the same platform. No HBM-specific wording attached (bumps generically, across 'all bump types'), so the application_link below is to advanced_packaging, not hbm."
+      }
+    ]
+  },
+  {
+    "platform_id": "camtek_golden_eagle",
+    "entity_id": "camtek",
+    "category_id": "multi_equipment",
+    "record_kind": "named_model",
+    "name": "Golden Eagle",
+    "aliases": [],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "Golden Eagle | Designed mainly for Fanout Panel-Level-Package (FO-PLP) applications, Camtek’s Golden Eagle is used for the inspection and metrology of standard panel sizes. The Golden Eagle addresses the challenges of Fanout Wafer Level Packaging (FOWLP), while providing a robust system that addresses high-volume manufacturing requirements.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_platform_for_fo_plp_and_fowlp_high_volume_manufacturing",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Current Camtek platform for panel-level advanced packaging (Fanout Panel-Level-Package / Fanout Wafer-Level Packaging). Filed at multi_equipment: 'inspection and metrology of standard panel sizes' combines both functions explicitly. No HBM wording attached. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1: \"Golden Eagle | Designed mainly for Fanout Panel-Level-Package (FO-PLP) applications, Camtek's Golden Eagle is used for the inspection and metrology of standard panel sizes...\" matches verbatim. Category multi_equipment correct (inspection + metrology combined). No HBM wording, correctly unlinked to hbm. DEFECT: the alias \"Camtek Golden Eagle\" is nowhere in the source; the 20-F only calls it \"Golden Eagle\" or \"the Golden Eagle\" -- same extractor-assembled-compound defect as camtek_hawk and camtek_eagle_g5.",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "Golden Eagle | Designed mainly for Fanout Panel-Level-Package (FO-PLP) applications, Camtek’s Golden Eagle is used for the inspection and metrology of standard panel sizes. The Golden Eagle addresses the challenges of Fanout Wafer Level Packaging (FOWLP), while providing a robust system that addresses high-volume manufacturing requirements.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_platform_for_fo_plp_and_fowlp_high_volume_manufacturing",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current Camtek platform for panel-level advanced packaging (Fanout Panel-Level-Package / Fanout Wafer-Level Packaging). Filed at multi_equipment: 'inspection and metrology of standard panel sizes' combines both functions explicitly. No HBM wording attached."
+      }
+    ]
+  },
+  {
+    "platform_id": "camtek_microprof_ap",
+    "entity_id": "camtek",
+    "category_id": "metrology",
+    "record_kind": "named_model",
+    "name": "MicroProf AP",
+    "aliases": [
+      "FRT MicroProf AP",
+      "MicroProf® AP"
+    ],
+    "evidence": {
+      "source_id": "camtek_20f_fy2025",
+      "page": 1,
+      "excerpt": "MicroProf® AP | The FRT MicroProf® AP is a fully automated wafer metrology tool for a wide range of applications at different 3D packaging process steps, e.g. for the measurement of photoresist (PR) coatings and structuring, through silicon vias (TSVs) or trenches after etching, μ-bumps and Cu pillars, as well as for the measurement in thinning, bonding and stacking processes. With its modular multi-sensor concept, the flexible MicroProf AP measuring tool is designed to perform a variety of measuring tasks in advanced packaging. We also offer a variety of semi-automated metrology equipment.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_platform_fully_automated_modular_multi_sensor_metrology_tool",
+    "maturity_as_reported_in": "camtek_20f_fy2025",
+    "notes": "Acquired with FRT (Germany) in November 2023; current platform, pure metrology (the source never calls it an inspection tool, unlike the Eagle/Hawk/Golden Eagle family), so filed at the metrology parent rather than multi_equipment -- the metrology category's own scope_note names this exact case ('the right node for a tool that measures several of them'). Explicitly names through-silicon vias (TSVs) and 3D packaging process steps (thinning, bonding, stacking) -- see the tsv and advanced_packaging application_links drawn from this same passage. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against camtek_20f_fy2025 p.1: \"MicroProf® AP | The FRT MicroProf® AP is a fully automated wafer metrology tool...\" matches verbatim once the ® (HTML entity &#174;) sitting between words is accounted for -- both aliases \"FRT MicroProf AP\" and \"MicroProf® AP\" are genuinely printed on the page (the ® just interrupts the plain-text match, it is not a fabrication). Category metrology (not multi_equipment) is correct and is the one platform in this packet where W12's Camtek finding ('MicroProf AP sits at metrology alone because the filing never calls it an inspection tool') is directly carried forward correctly -- the source never pairs 'inspection' language with this platform, unlike the Eagle/Hawk/Golden Eagle family. TSV and advanced_packaging application claims both trace to this same paragraph and are correctly not upgraded to hbm (no HBM wording anywhere for this platform).",
+    "maturity_history": [
+      {
+        "source_id": "camtek_20f_fy2025",
+        "page": 1,
+        "excerpt": "MicroProf® AP | The FRT MicroProf® AP is a fully automated wafer metrology tool for a wide range of applications at different 3D packaging process steps, e.g. for the measurement of photoresist (PR) coatings and structuring, through silicon vias (TSVs) or trenches after etching, μ-bumps and Cu pillars, as well as for the measurement in thinning, bonding and stacking processes. With its modular multi-sensor concept, the flexible MicroProf AP measuring tool is designed to perform a variety of measuring tasks in advanced packaging. We also offer a variety of semi-automated metrology equipment.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_platform_fully_automated_modular_multi_sensor_metrology_tool",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Acquired with FRT (Germany) in November 2023; current platform, pure metrology (the source never calls it an inspection tool, unlike the Eagle/Hawk/Golden Eagle family), so filed at the metrology parent rather than multi_equipment -- the metrology category's own scope_note names this exact case ('the right node for a tool that measures several of them'). Explicitly names through-silicon vias (TSVs) and 3D packaging process steps (thinning, bonding, stacking) -- see the tsv and advanced_packaging application_links drawn from this same passage."
+      }
+    ]
+  }
+]

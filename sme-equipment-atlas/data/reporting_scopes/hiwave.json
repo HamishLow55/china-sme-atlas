@@ -1,0 +1,26 @@
+[
+  {
+    "reporting_scope_id": "hiwave_equipment_sales",
+    "label": "设备销售",
+    "category_id": "inspection_acoustic",
+    "definition": "Hiwave issuer-reported equipment sales across all served industries; business description identifies ultrasonic scanning microscopes, not a semiconductor-only or HBM-qualified equipment revenue series. Excludes separately reported technical services and accessories/other revenue."
+  },
+  {
+    "reporting_scope_id": "hiwave_technical_services",
+    "label": "提供技术服务",
+    "category_id": "all_businesses",
+    "definition": "Hiwave source product-table technical services across served industries; not equipment revenue."
+  },
+  {
+    "reporting_scope_id": "hiwave_accessories_other",
+    "label": "配件及其他收入",
+    "category_id": "all_businesses",
+    "definition": "Hiwave source product-table accessories and other revenue basket retained to preserve sibling reporting boundary; not equipment-only revenue or a component-supplier expansion."
+  },
+  {
+    "reporting_scope_id": "hiwave_rd_expense_line",
+    "label": "研发费用",
+    "category_id": "all_businesses",
+    "definition": "Hiwave consolidated profit-analysis table R&D expense line, used for the printed relative change; distinct from total R&D investment."
+  }
+]

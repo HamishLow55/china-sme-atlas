@@ -1,0 +1,104 @@
+[
+  {
+    "platform_id": "hanmi_tc_bonder_45_griffin",
+    "entity_id": "hanmi",
+    "category_id": "bonding_tcb",
+    "record_kind": "named_model",
+    "name": "TC BONDER 4.5 GRIFFIN",
+    "aliases": [
+      "DUAL TC Bonder 1.0 GRIFFIN",
+      "DUAL TC BONDER GRIFFIN",
+      "Dual TC Bonder GRIFFIN"
+    ],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 30,
+      "excerpt": "columns: 연구과제, 연구기관, 주요내용, 연구결과; row: TC BONDER (연구기관: 당사 연구소); 주요내용: '실리콘 웨이퍼에 칩을 여러층으로 적층하는 초고속메모리(HBM) 등을 생산할 때 필요한 열압착(Thermal Compression) 본딩 장비'; 하위모델: - TC BONDER 4.5 GRIFFIN, - TC BONDER 4.0 TIGER, - 2.5D Big Die TC Bonder 1.0, - 2.5D TC Bonder 1.0, - BOC COB BONDER; 연구결과: 상용화",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "상용화 (commercialized)",
+    "maturity_as_reported_in": "hanmi_fy2025_annual",
+    "notes": "Named in Hanmi's R&D-performance table (II.6 주요계약 및 연구개발활동, '3) 연구개발 실적') as a model within the 'TC BONDER' research project, whose single stated purpose is HBM thermal-compression bonding; maturity 상용화 (commercialized) is the project-level result printed once for the whole group of listed models rather than a separate status per model -- pdftotext visually duplicates '상용화' beside several of the bulleted model lines because of column alignment, but the underlying table has one 연구결과 cell per project, not per model. The entity-overview narrative (physical page 20 of this same filing) separately describes Hanmi's 'HBM TC(Thermal Compression) 본더' as its flagship product for 12- and 16-layer HBM stacking without naming a specific model, so this record is the only place a GRIFFIN-specific claim is registered. No unit count, order value or named customer is attached to this model anywhere in the filings read. NAME DRIFT ACROSS VINTAGES: the FY2023 and FY2024 filings call this line 'DUAL TC Bonder' with the model name alone, while FY2025 and H1 2026 drop 'DUAL' and add a version number. The disclosed single-sale contracts registered at the hanmi_disclosed_single_sale_contracts scope use the earlier naming; they are the same model line, not separate platforms, and must not be registered twice. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against hanmi_fy2025_annual p.30 R&D table: \"TC BONDER 4.5 GRIFFIN\" is printed in the 하위모델 bullet list under the TC BONDER project row, whose 주요내용 cell states the project's purpose is HBM thermal-compression bonding and whose 연구결과 is 상용화. Category bonding_tcb correct. All three name-drift aliases (DUAL TC Bonder 1.0 GRIFFIN, DUAL TC BONDER GRIFFIN, Dual TC Bonder GRIFFIN) are independently confirmed findable -- grepped hanmi_fy2023_annual and hanmi_fy2024_annual directly and found all three forms verbatim in the narrative and single-sale-contract disclosures the record's own notes point to. The record's caution against double-registering the disclosed contracts under this platform id is correctly followed -- those are registered as separate application_link evidence with their own IDs."
+  },
+  {
+    "platform_id": "hanmi_tc_bonder_40_tiger",
+    "entity_id": "hanmi",
+    "category_id": "bonding_tcb",
+    "record_kind": "named_model",
+    "name": "TC BONDER 4.0 TIGER",
+    "aliases": [
+      "DUAL TC BONDER TIGER",
+      "Dual TC Bonder TIGER"
+    ],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 30,
+      "excerpt": "columns: 연구과제, 연구기관, 주요내용, 연구결과; row: TC BONDER (연구기관: 당사 연구소); 주요내용: '실리콘 웨이퍼에 칩을 여러층으로 적층하는 초고속메모리(HBM) 등을 생산할 때 필요한 열압착(Thermal Compression) 본딩 장비'; 하위모델: - TC BONDER 4.5 GRIFFIN, - TC BONDER 4.0 TIGER, - 2.5D Big Die TC Bonder 1.0, - 2.5D TC Bonder 1.0, - BOC COB BONDER; 연구결과: 상용화",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "상용화 (commercialized)",
+    "maturity_as_reported_in": "hanmi_fy2025_annual",
+    "notes": "Same table and project as hanmi_tc_bonder_45_griffin (see that record's notes for the shared-result caveat); TIGER is named as a prior/alternate model in the same TC BONDER project line-up. No unit count, order value or named customer is attached to this model anywhere in the filings read. NAME DRIFT ACROSS VINTAGES: the FY2023 and FY2024 filings call this line 'DUAL TC Bonder' with the model name alone, while FY2025 and H1 2026 drop 'DUAL' and add a version number. The disclosed single-sale contracts registered at the hanmi_disclosed_single_sale_contracts scope use the earlier naming; they are the same model line, not separate platforms, and must not be registered twice. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against the same hanmi_fy2025_annual p.30 table row as the GRIFFIN sibling record. Category bonding_tcb correct. Both aliases (DUAL TC BONDER TIGER, Dual TC Bonder TIGER) independently confirmed findable by direct grep of hanmi_fy2024_annual (\"HBM 제조용'DUAL TC BONDER TIGER' 장비 수주\", contract dated 2024-04-11 to Micron, p.255 of that filing). Name-drift documentation in the notes is accurate."
+  },
+  {
+    "platform_id": "hanmi_wide_tc_bonder",
+    "entity_id": "hanmi",
+    "category_id": "bonding_tcb",
+    "record_kind": "named_model",
+    "name": "WIDE TC 본더 (WIDE TC Bonder)",
+    "aliases": [],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 20,
+      "excerpt": "columns: (narrative, II.1 사업의 개요); text: '...이에 따라 Wide Die 본딩이 가능한 새로운 TC 본딩 공정의 중요성이 더욱 부각되고 있으며, 따라서 당사는 차세대 HBM 구조 변화에 선제적으로 대응하기 위해 'WIDE TC 본더' 출시를 앞두고 있습니다.'",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "출시를 앞두고 있음 (about to launch; not yet commercialized)",
+    "maturity_as_reported_in": "hanmi_fy2025_annual",
+    "notes": "Explicitly future-tense in Hanmi's own words ('출시를 앞두고 있습니다' = 'is about to launch'), named specifically as Hanmi's response to 20-layer-plus HBM stacks needing wider-die TC bonding once hybrid bonding's own development delays are accounted for. This is NOT the R&D table's 'TC BONDER' project (that project's listed models do not include a 'WIDE' variant) -- a distinct, not-yet-launched platform. The identical sentence, unchanged, reappears in the H1 2026 half-year report (physical page 17) filed 2026-08-14, confirming the platform had still not launched as of the most recent filing read for this packet; that later filing is recorded here as corroboration, not as a second application_link, to avoid a duplicate row for the same still-unlaunched status. No launch date, price or customer is given. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against hanmi_fy2025_annual p.20: \"...따라서 당사는 차세대 HBM 구조 변화에 선제적으로 대응하기 위해 'WIDE TC 본더' 출시를 앞두고 있습니다\" matches verbatim, and the identical sentence is confirmed repeated in hanmi_h1_2026_semiannual p.17 as the notes state. The not-yet-launched maturity status ('출시를 앞두고 있습니다' = about to launch) is the issuer's own words, correctly not upgraded to a commercialized claim. DEFECT: the alias \"Wide TC Bonder\" (plain English, no Korean) is nowhere in any of the five Hanmi filings held -- grepped all of them case-insensitively and only the mixed Korean/English form \"WIDE TC 본더\" ever appears. The plain-English gloss is already carried inside the name field's parenthetical; the separate alias entry adds an unsourced form with no page behind it."
+  },
+  {
+    "platform_id": "hanmi_6side_inspection",
+    "entity_id": "hanmi",
+    "category_id": "inspection_macro",
+    "record_kind": "named_model",
+    "name": "6-SIDE INSPECTION",
+    "aliases": [],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 30,
+      "excerpt": "columns: 연구과제, 연구기관, 주요내용, 연구결과; row: 6-SIDE INSPECTION (연구기관: 당사 연구소); 주요내용: '적층전 HBM 개별 칩(Die) 및 TSV 공법으로 적층된 HBM 칩을 비전 검사 후, Good / Reject 선별하여 Tape & Reel 로 Unloading 하는 장비'; 연구결과: 상용화",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "상용화 (commercialized)",
+    "maturity_as_reported_in": "hanmi_fy2025_annual",
+    "notes": "Filed at the 'inspection' PARENT category rather than inspection_macro: Hanmi's own wording is '비전 검사' (vision inspection) and names no illumination mode or beam type, and the atlas's inspection_macro node is itself flagged 'deliberately empty ... undecided; settle before populating it' (data/categories.json scope_note), so this record does not resolve that open question. Inspects HBM dies both before TC-bonding (individual die, 6 faces) and after (TSV-stacked HBM chip), sorting Good/Reject into tape-and-reel -- a packaging-level optical inspection step in the same process flow as Hanmi's TC Bonder, not a wafer-level defect-inspection tool. No unit count, order value or named customer is attached. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against hanmi_fy2025_annual p.30: the R&D table row for '6-SIDE INSPECTION' and its 주요내용 ('적층전 HBM 개별 칩 및 TSV 공법으로 적층된 HBM 칩을 비전 검사 후, Good/Reject 선별하여...') match verbatim. CATEGORY DEFECT: the record is filed at the 'inspection' parent, and its own notes justify that by quoting inspection_macro's scope_note as 'deliberately empty...undecided; settle before populating it' -- but that is STALE. `grep -n inspection_macro data/categories.json` shows the live scope_note was already settled by the W12 review (see docs/reviews/W12 second-tier comparator review/OUTCOMES.md: 'The question is settled by use'): the node now explicitly covers 'inspection at macro or appearance scale -- a whole wafer, panel or package imaged for defects -- as distinct from patterned-defect inspection resolving individual die features.' 6-SIDE INSPECTION does exactly this: it images a whole die's six faces pre-bond and a whole HBM chip's appearance/bond-joint post-bond for Good/Reject sorting -- appearance-scale package/die inspection, not sub-feature pattern-defect resolution. This is a claim about the atlas that is as checkable as a claim about a source, and it checks out against the live categories.json, not the stale text quoted in the record's own notes."
+  },
+  {
+    "platform_id": "hanmi_boc_cob_bonder",
+    "entity_id": "hanmi",
+    "category_id": "bonding",
+    "record_kind": "named_model",
+    "name": "BOC COB BONDER (BOC COB 본더)",
+    "aliases": [],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 20,
+      "excerpt": "columns: (narrative, II.1 사업의 개요); text: \"'BOC COB 본더'는 BOC(Board On Chip)와 COB(Chip On Board) 두 가지 본딩 공정을 한 대의 장비로 처리할 수 있는 세계 최초의 투인원(Two-in-One) 본딩 장비입니다. 이 장비 하나로 두 공정이 모두 가능해져 공장 내 공간 효율화와 설비투자 비용(CAPEX) 절감을 동시에 실현할 수 있습니다.\"",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "상용화 (commercialized; also listed, unlabelled, under the TC BONDER project in the R&D-performance table)",
+    "maturity_as_reported_in": "hanmi_fy2025_annual",
+    "notes": "Filed at the 'bonding' PARENT category, not bonding_tcb: the narrative description of this specific model names no bonding mechanism (it describes BOC/Board-On-Chip and COB/Chip-On-Board as the two processes combined, not thermal compression), even though Hanmi's R&D-performance table (same filing, physical page 30) lists 'BOC COB BONDER' as a bullet under the 'TC BONDER' project heading whose shared 주요내용 cell does name thermal-compression bonding. That table row is the source of the 상용화 status recorded here; the category placement follows the model's own narrative description rather than upgrading it on the strength of the table's grouping. Described as a world-first ('세계 최초'), self-reported and not independently verified here. Tied to GDDR/eSSD and AI-semiconductor 2.5D-packaging markets in the surrounding narrative, not specifically to HBM. No unit count, order value or named customer is attached. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against hanmi_fy2025_annual p.20: \"'BOC COB 본더'는 BOC(Board On Chip)와 COB(Chip On Board) 두 가지 본딩 공정을 한 대의 장비로 처리할 수 있는 세계 최초의 투인원(Two-in-One) 본딩 장비입니다\" matches verbatim. Category 'bonding' (parent, not bonding_tcb) is correctly conservative: the narrative description names no thermal-compression mechanism for this specific model, and the record correctly declines to upgrade on the strength of the R&D table's grouping of this model under the TC BONDER project heading -- the category placement follows the model's own narrative, not the table's grouping, exactly as the protocol requires. 'World first' is correctly flagged as the issuer's own unverified claim rather than independently endorsed."
+  }
+]

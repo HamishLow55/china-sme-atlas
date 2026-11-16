@@ -1,0 +1,33 @@
+[
+  {
+    "coverage_id": "zhichun-first-financial-intake",
+    "entity_id": "zhichun_pnc",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "scope": "FY2023/FY2025 originals: company financials, native business baskets and selected cumulative operating milestones",
+    "reviewed_source_ids": [
+      "zhichun_annual_2023",
+      "zhichun_annual_2025"
+    ],
+    "notes": "53 reviewed records; historical accounting vintages and business-scope breaks explicit.",
+    "next_action": "Acquire latest interim and correction originals after documented local gaps; expand historical financial vintages."
+  },
+  {
+    "coverage_id": "zhichun-interim-and-corrections",
+    "entity_id": "zhichun_pnc",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2021-2026H1",
+    "status": "reviewed_found",
+    "scope": "H126/H125 financials and R&D; FY2024 business financials and original profit; FY2021/FY2022 corrected attributable profit",
+    "reviewed_source_ids": [
+      "zhichun_h1_2026",
+      "zhichun_annual_2024_original",
+      "zhichun_fy2021_fy2024_correction_tables"
+    ],
+    "notes": "25 reviewed records; historical accounting vintages and business-scope breaks explicit.",
+    "next_action": "Resolve corrected full statements and deepen subsidiary/operating disclosures; interim blank capitalization remains held."
+  }
+]

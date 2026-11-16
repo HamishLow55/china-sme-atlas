@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "towa_fy2025_asr_eng",
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation Annual Securities Report, 48th term (FY ended March 31, 2026), English translation",
+    "publication_date": "2026-06-19",
+    "publication_date_precision": "day",
+    "url": "https://www.towajapan.co.jp/en/wp-content/uploads/sites/3/2026/09/FY2025_annual-securities-report_eng.pdf",
+    "sha256": "8448f70996acf386e1234331ca5c1b9945a23e833df26186a021eaead5da309d",
+    "source_type": "annual_report",
+    "original_document_id": "towa_fy2025_asr_eng",
+    "page_count": 117,
+    "locator_kind": "pdf",
+    "notes": "English translation of the Yukashouken Houkokusho submitted to the Kanto Finance Bureau on 2026-06-19 (page 1), audited by PricewaterhouseCoopers Japan LLC. Covers the 48th term, 1 April 2025 to 31 March 2026 (this packet's 'FY2025' under the brief's Apr-start convention), with FY ended March 2025 as its comparative column. Downloaded from TOWA's own English IR library and hashed locally. Printed page numbers in the footer run a few pages behind the physical PDF page; cite the physical page."
+  },
+  {
+    "source_id": "towa_fy2024_asr_eng",
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation Annual Securities Report, 47th term (FY ended March 31, 2025), English translation",
+    "publication_date": "2025-10-01",
+    "publication_date_precision": "month",
+    "url": "https://www.towajapan.co.jp/en/wp-content/uploads/sites/3/2025/10/FY2024_annual-securities-report_eng.pdf",
+    "sha256": "c91640afe652ee6a8321a13d1b2c5de42e4036f80dd4562ffe43d16ea759a87b",
+    "source_type": "annual_report",
+    "original_document_id": "towa_fy2024_asr_eng",
+    "page_count": 118,
+    "locator_kind": "pdf",
+    "notes": "English translation of the Yukashouken Houkokusho for the 47th term, 1 April 2024 to 31 March 2025 (this packet's 'FY2024'), with FY ended March 2024 as its comparative column. Publication date taken from the URL's upload path (2025/10); the PDF's own submission date was not located in the extracted text. Downloaded from TOWA's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "towa_fy2023_asr_excerpt_eng",
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation Annual Securities Report excerpt, 46th term (FY ended March 31, 2024), English translation",
+    "publication_date": "2024-01-01",
+    "publication_date_precision": "year",
+    "url": "https://www.towajapan.co.jp/wp-content/themes/towa/assets/download_file/view/3367/1758/FY2023_annual_securities_report_excerpt_eng.pdf",
+    "sha256": "cf01cc67c0fb5421273c3d4fe9f0f36f5a469051cd298f95c57eb33fbddea5aa",
+    "source_type": "annual_report",
+    "original_document_id": "towa_fy2023_asr_excerpt_eng",
+    "page_count": 106,
+    "locator_kind": "pdf",
+    "notes": "English translation EXCERPT (TOWA's own label; 'Annual Securities Report (Excerpt)') of the 46th term, 1 April 2023 to 31 March 2024 (this packet's 'FY2023'), with FY ended March 2023 as its comparative column. No specific submission day was located in the extracted text, so publication_date is recorded at year precision; the filing itself is dated to the 46th term. Unlike the FY2024/FY2025 English ASRs, this document's segment-note and revenue tables are denominated in whole millions of yen ('Millions of yen'), not thousands -- the only reason this vintage's SME-segment and company revenue could be registered without a disallowed evidence unit (see dataset and observation notes). Downloaded from TOWA's own English IR library and hashed locally."
+  },
+  {
+    "source_id": "towa_fy2025_kessan_eng",
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation Financial Results (Kessan Tanshin), fiscal year ended March 31, 2026, English translation",
+    "publication_date": "2026-05-11",
+    "publication_date_precision": "day",
+    "url": "https://www.towajapan.co.jp/en/wp-content/uploads/sites/3/2026/05/2025FY_annual_eng.pdf",
+    "sha256": "9752309becd9a5a1c93492befbd87baa0edca0b701803b72ab6686e76bbfe272",
+    "source_type": "earnings_release",
+    "original_document_id": "towa_fy2025_kessan_eng",
+    "page_count": 36,
+    "locator_kind": "pdf",
+    "notes": "English translation of the 2026年3月期決算短信, released 2026-05-11 per the Japanese original's cover page (confirmed via the matching Japanese-language filing on TOWA's JP IR library). Narrative and segment commentary mirror the Annual Securities Report; its own Segment Information note table is denominated in thousands of yen, same limitation as the ASR tables (see dataset notes)."
+  },
+  {
+    "source_id": "towa_fy2024_kessan_eng",
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation Financial Results (Kessan Tanshin), fiscal year ended March 31, 2025, English translation",
+    "publication_date": "2025-05-01",
+    "publication_date_precision": "month",
+    "url": "https://www.towajapan.co.jp/en/wp-content/uploads/sites/3/2025/05/2025_annual_eng.pdf",
+    "sha256": "5ed15868b66c4453425919bfcd8f8784fed3d4917c72cddd416bfcb2152dca08",
+    "source_type": "earnings_release",
+    "original_document_id": "towa_fy2024_kessan_eng",
+    "page_count": 36,
+    "locator_kind": "pdf",
+    "notes": "English translation of the 2025年3月期決算短信. Exact day of release not located in the extracted text; recorded at month precision from the IR-library upload path (2025/05). Held locally as corroboration for the FY2024 figures; not cited as the primary source for any registered observation in this packet (the Annual Securities Report narrative was used instead)."
+  }
+]

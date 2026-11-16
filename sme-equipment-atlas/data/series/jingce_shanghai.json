@@ -1,0 +1,15 @@
+[
+  {
+    "series_id": "wave3_jingce_shanghai_3",
+    "version": 1,
+    "title": "jingce_shanghai: jingce_shanghai_jingce_subsidiary / revenue",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "JC2023-SJ-REV",
+      "JC2024-SJ-REV",
+      "JC2025-SJ-REV"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  }
+]

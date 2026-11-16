@@ -1,0 +1,94 @@
+[
+  {
+    "observation_id": "w2-hold-hwatsing-0001",
+    "dataset_id": "hwatsing_disclosures",
+    "source_id": "hwatsing_placement_2026",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_shanghai_base_project_new_capacity",
+    "platform_id": "",
+    "metric_id": "planned_project_total_investment",
+    "value": "169781.00",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "",
+      "end": "2026-08-21",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hwatsing_placement_2026"
+    },
+    "evidence": {
+      "page": 67,
+      "original_label": "上海集成电路装备研发制造基地项目｜项目总投资金额",
+      "excerpt": "项目名称 上海集成电路装备研发制造基地项目 实施主体 全资子公司华海清科（上海） 项目总投资金额 169,781.00 万元 使用募集资金投入金额 134,200.00 万元",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false,
+      "reported_value": "169781.00",
+      "reported_unit": "CNY_10k"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported_plan",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Planned Shanghai project total investment, not actual expenditure or a statement of full project funding. Prospectus physical p67 separately proposes 134,200.00 万元 from offering proceeds and permits adjustment and own/self-raised funding; p73 specifies a three-year construction period. Later context only: hwatsing_placement_listing_20261016 physical p15 reports offering proceeds transferred to the issuer on 2026-09-24; this does not change the plan date or establish full project financing. As-of date follows the visually verified issuer declaration signature, 2026-08-21, on prospectus physical p125, corroborated by pp126-129 and p141.",
+    "date_basis": "source_document_signature_date"
+  },
+  {
+    "observation_id": "w2-hold-hwatsing-0002",
+    "dataset_id": "hwatsing_disclosures",
+    "source_id": "hwatsing_placement_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_wafer_reclaim_kunshan_first_phase",
+    "platform_id": "",
+    "metric_id": "planned_project_total_investment",
+    "value": "48940.01",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "",
+      "end": "2026-08-21",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hwatsing_placement_2026"
+    },
+    "evidence": {
+      "page": 68,
+      "original_label": "晶圆再生扩产项目｜项目总投资金额（首期）",
+      "excerpt": "项目名称 晶圆再生扩产项目 实施主体 全资子公司晶科启源 项目总投资金额 48,940.01 万元（首期） 使用募集资金投入金额 44,500.00 万元",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false,
+      "reported_value": "48940.01",
+      "reported_unit": "CNY_10k"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported_plan",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "First phase only. Service capacity, not tools.",
+    "date_basis": "source_document_signature_date"
+  }
+]

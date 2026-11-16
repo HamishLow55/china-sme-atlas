@@ -1,0 +1,164 @@
+[
+  {
+    "reporting_scope_id": "jinhaitong_test_handlers_product",
+    "label": "测试分选机",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong source-native 分产品 row 测试分选机: the issuer's whole test-handler product line across all series (EXCEED-6000/-8000/-9000, SUMMIT, COLLIE) and all applications. Carries the product revenue/cost/margin row, the 产销量 unit table and the product temperature envelope. No model, application, memory or HBM allocation."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_spare_parts_product",
+    "label": "备品备件",
+    "category_id": "test",
+    "definition": "Jinhaitong source-native 分产品 row 备品备件: spare parts and consumables supplied with its handlers. Parts revenue, not equipment unit sales; not additive to handler unit counts."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_semiconductor_equipment_manufacturing_industry",
+    "label": "半导体设备制造",
+    "category_id": "test",
+    "definition": "Jinhaitong source-native 分行业 row 半导体设备制造, equal to 主营业务收入 and to the sum of the 测试分选机 and 备品备件 product rows. A presentation total, not an additional market subtotal, and smaller than company 营业收入, which also carries 其他业务收入."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_exceed_9000_series",
+    "label": "EXCEED-9000 系列",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong EXCEED-9000 handler family. The FY2025 MD&A names it with the EXCEED-9800 and EXCEED-9032 sub-series (常高温大平台超多工位 handlers); the convertible-bond prospectus model table says its revenue includes EXCEED-9032 系列、EXCEED-9800 系列等产品. Two share bases exist and must not be mixed, separated by dimensions.revenue_basis: the FY2025 annual report gives a share of company 营业收入总额, and the prospectus gives absolute family revenue with a share of 主营业务收入. No unit count or margin is disclosed at this granularity."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_domestic_main_business",
+    "label": "境内",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong source-native 分地区 row 境内 of the main-business table; the issuer's own domestic label, not resolved to customer country, and mixing handlers with spare parts."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_overseas_main_business",
+    "label": "境外",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong source-native 分地区 row 境外 of the main-business table; countries are not resolved, although the narrative names 中国台湾, Southeast Asia, Europe and the Americas as markets."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_exceed_6000_series",
+    "label": "EXCEED-6000 系列",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong handler revenue row EXCEED-6000 系列 in the prospectus and inquiry-reply model table; part of 测试分选机 revenue. No memory or HBM allocation."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_exceed_8000_series",
+    "label": "EXCEED-8000 系列",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong handler revenue row EXCEED-8000 系列 in the prospectus and inquiry-reply model table; part of 测试分选机 revenue. No memory or HBM allocation."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_other_handler_equipment",
+    "label": "其他设备",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong handler revenue row 其他设备: the residual of the model table after the three EXCEED families. Not itemised, so SUMMIT, COLLIE, NEOCEED, EIGER and any Memory handler cannot be separated."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_other_business",
+    "label": "其他业务",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong 其他业务 row of the revenue note, which the prospectus describes as lease, scrap and repair and relocation income. The residual between 主营业务 and company 营业收入."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_statement_line_rd_expense",
+    "label": "研发费用",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong income-statement line 研发费用 as printed in the H1 2026 科目变动分析表; the scope exists to identify the line for its printed year-on-year change."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_asset_analysis_inventory",
+    "label": "存货",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong 存货 row of the H1 2026 资产及负债状况 table, for its printed change against the prior year-end and share of total assets."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_asset_analysis_contract_assets",
+    "label": "合同资产",
+    "category_id": "all_businesses",
+    "definition": "Jinhaitong 合同资产 row of the H1 2026 资产及负债状况 table, for its printed change against the prior year-end and share of total assets."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_outsourced_assembly_units",
+    "label": "委外组装数量",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong count of handler machines assembled by outside contractors. Overlaps 产量 and is not additive to it: in H1 2026 the 544 exceeds both 产量 and 销量 because machines await in-house final tuning."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_malaysia_operations",
+    "label": "马来西亚生产运营中心",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong Penang production and operations centre, used for its H1 2026 output and its stated current and full-ramp capacity. Output sits inside group 产量."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_shanghai_leased_site",
+    "label": "上海租赁厂区",
+    "category_id": "test_prober_handler",
+    "definition": "Jinhaitong leased Shanghai plant, the main production site, with stated capacity of 30 台/月 or 360 台/年."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_shanghai_lanbo_project",
+    "label": "上海澜博半导体设备制造中心建设项目",
+    "category_id": "test_prober_handler",
+    "definition": "Proposed Shanghai manufacturing project under the convertible bond: planned 340 台/年. Not built, and the bond was still under exchange review at the reply date."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_tianjin_ipo_project",
+    "label": "半导体测试设备智能制造及创新研发中心一期项目",
+    "category_id": "test_prober_handler",
+    "definition": "IPO-funded Tianjin project: planned 500 台/年 after a three-year ramp, mostly mature models. Expected to close in October 2026."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_current_capacity_total",
+    "label": "现有产能小计",
+    "category_id": "test_prober_handler",
+    "definition": "Source subtotal of current capacity across the Shanghai leased site and Malaysia, about 420 台/年."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_capacity_excluding_bond_project",
+    "label": "现有生产基地在达产后的产能小计",
+    "category_id": "test_prober_handler",
+    "definition": "Source subtotal of existing and building sites at full ramp, excluding the convertible-bond project: 980 台/年."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_capacity_all_projects_total",
+    "label": "预计达产后的远期产能小计",
+    "category_id": "test_prober_handler",
+    "definition": "Source subtotal of long-run capacity after all projects, printed under two scenarios: 960 台/年 if the Shanghai lease moves into the new base, 1,320 台/年 if it stays."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_backlog_bond_project_products",
+    "label": "与本次募投项目对应的在手订单",
+    "category_id": "test_prober_handler",
+    "definition": "Subset of Jinhaitong order backlog that the issuer maps to convertible-bond project products. Overlaps total backlog and is not additive."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_overseas_malaysia",
+    "label": "马来西亚",
+    "category_id": "all_businesses",
+    "definition": "Malaysia row of the overseas revenue table; customer location, not end-use. A subset of 外销."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_overseas_thailand",
+    "label": "泰国",
+    "category_id": "all_businesses",
+    "definition": "Thailand row of the overseas revenue table; customer location, not end-use. A subset of 外销."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_overseas_singapore",
+    "label": "新加坡",
+    "category_id": "all_businesses",
+    "definition": "Singapore row of the overseas revenue table; customer location, not end-use. A subset of 外销."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_overseas_other",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "Residual 其他 row of the overseas revenue table; countries are not named. A subset of 外销."
+  },
+  {
+    "reporting_scope_id": "jinhaitong_memory_handler_gen1_specifications",
+    "label": "第一代半自动化 Memory 芯片测试分选机",
+    "category_id": "test_prober_handler",
+    "definition": "Specification rows for Jinhaitong's first semi-automated memory handler, from the 目前相关技术指标 row of the September 2026 inquiry reply. No revenue, unit, customer or HBM allocation."
+  }
+]

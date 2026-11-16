@@ -1,0 +1,22 @@
+[
+  {
+    "platform_id": "hiwave_ultrasonic_scanning_microscope_family",
+    "entity_id": "hiwave",
+    "category_id": "inspection_acoustic",
+    "record_kind": "source_native_family",
+    "name": "超声扫描显微镜",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HIWAVE-2025-FAMILY-001",
+      "source_id": "hiwave_2025",
+      "page": 6,
+      "excerpt": "本公司是一家致力于超声检测设备国产化的高新技术企业，主要围绕不同行业的应\n用需求，为客户提供超声无损检测系统解决方案，包括超声扫描显微镜、应用检测及图\n像分析服务、软件算法开发等服务内容。目前，已形成数十种机型，可兼容 1~230MHz\n的超声探头，具备 A、B、C、T 扫描，托盘扫描、厚度测量、一次多层扫等系列扫描模\n式，是新能源行业以及半导体前道、后道封装测试的关键设备，有效 满足新能源、半导\n体、电力电子、新材料等行业领域所涉及的水冷散热、IGBT、陶瓷基板、锂电池、倒装\n芯片、塑封芯片、晶圆、硅片托盘、金刚石复合材料等产品的内部缺陷无损检测需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "issuer_described_product_family",
+    "maturity_as_reported_in": "hiwave_2025",
+    "notes": "Broad source-native ultrasonic-scanning-microscope family spanning新能源、半导体、电力电子、新材料 applications. “数十种机型” supplies no named model identities; compatible 1–230 MHz probes and scan modes are capabilities, not separate platform names or semiconductor process nodes. Filing does not establish HBM qualification, model-specific delivery or a deployed-system count."
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "platform_id": "jinhaitong_exceed_6000",
+    "entity_id": "jinhaitong",
+    "name": "EXCEED-6000 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "EXCEED-6000 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P9-ITERATED-COMMERCIAL",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 9,
+      "excerpt": "具体型号：EXCEED-9800 三温系列、EXCEED-8000W 系列、EXCEED-6000、8000、9000 系列等；中试状态：均已经实现商业化，具备量产能力；量产能力：均已经实现商业化，具备量产能力；产业化情况：已在多个头部封测客户完成验证及取得产业化进展",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "commercialised_with_volume_capability",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Up to 8 sites, room and hot to 155℃, UPH up to 8,300 (prospectus p74). Base model. Family statement from a table cell; nothing ties this family to memory or HBM."
+  },
+  {
+    "platform_id": "jinhaitong_exceed_8000",
+    "entity_id": "jinhaitong",
+    "name": "EXCEED-8000 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "EXCEED-8000 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P9-ITERATED-COMMERCIAL",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 9,
+      "excerpt": "具体型号：EXCEED-9800 三温系列、EXCEED-8000W 系列、EXCEED-6000、8000、9000 系列等；中试状态：均已经实现商业化，具备量产能力；量产能力：均已经实现商业化，具备量产能力；产业化情况：已在多个头部封测客户完成验证及取得产业化进展",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "commercialised_with_volume_capability",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Up to 16 sites, room and hot to 155℃ plus ATC active thermal control, UPH up to 13,500 (prospectus p74). The issuer says overseas sales are led by this family (reply p63). EXCEED-8000W is a wide-body iteration aimed at digital chips (reply p6). No memory or HBM statement."
+  },
+  {
+    "platform_id": "jinhaitong_exceed_9000",
+    "entity_id": "jinhaitong",
+    "name": "EXCEED-9000 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "EXCEED-9000 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P13-E9000-BATCH",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 13,
+      "excerpt": "针对本次募投高端产品的客户验证成果，以公司 EXCEED-9000 系列产品为例，该系列产品已通过多家头部封测企业验证，并已实现批量供货。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "batch_supply_after_customer_validation_at_leading_osats",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Family record overlapping EXCEED-9032 and EXCEED-9800, which the revenue table includes in it; never sum the three. The validation and batch-supply claim is about the family and does not name memory or HBM customers. The HBM wording sits in an application link at the family level."
+  },
+  {
+    "platform_id": "jinhaitong_exceed_9032",
+    "entity_id": "jinhaitong",
+    "name": "EXCEED-9032 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "EXCEED-9032 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-PR2026-P74-E9032",
+      "source_id": "jinhaitong_convertible_prospectus_20260908",
+      "page": 74,
+      "excerpt": "EXCEED-9032 系列；技术特点：1、可支持最多 32 工位并行测试；2、可提供常温、高温（最高可达 155℃）测试环境以及 ATC 主动控温功能；3、UPH 最大可达 13,500 颗。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "jinhaitong_convertible_prospectus_20260908",
+    "notes": "Sub-series of EXCEED-9000. 32 sites is the highest parallelism on the current product table; prior intake called it the 常高温大平台超多工位 handler. No model-level stage is printed; the family statement sits on jinhaitong_exceed_9000."
+  },
+  {
+    "platform_id": "jinhaitong_exceed_9800",
+    "entity_id": "jinhaitong",
+    "name": "EXCEED-9800 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "EXCEED-9800 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-PR2026-P75-E9800",
+      "source_id": "jinhaitong_convertible_prospectus_20260908",
+      "page": 75,
+      "excerpt": "EXCEED-9800 系列；技术特点：1、可支持最多 16 工位并行测试；2、可提供低温（最低可达-55℃）、常温、高温（最高可达 155℃）测试环境以及 ATC 主动控温功能；3、UPH 最大可达 9,300 颗。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "commercialised_with_volume_capability",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Tri-temperature sub-series of EXCEED-9000. Maturity from reply p9, which lists EXCEED-9800 三温系列 among products that have 实现商业化. The bond project iterates it to at least 32 sites from a single arm (reply p6)."
+  },
+  {
+    "platform_id": "jinhaitong_summit",
+    "entity_id": "jinhaitong",
+    "name": "SUMMIT 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "SUMMIT 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-PR2026-P75-SUMMIT",
+      "source_id": "jinhaitong_convertible_prospectus_20260908",
+      "page": 75,
+      "excerpt": "SUMMIT 系列系统级测试分选机；技术特点：1、可支持最多 16 工位独立测试，每个测试工位与测试系统独立连接；2、可提供低温、常温、高温测试环境以及 ATC 主动温控功能；3、测试完成的芯片可分选成最多 17 种类别。产品应用：搭配以 PC 主板为测试系统的测试机，对系统级芯片如 CPU、GPU 类产品进行独立测试。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "jinhaitong_convertible_prospectus_20260908",
+    "notes": "System-level test handler. Stated for CPU and GPU class parts; no memory or HBM statement. Revenue sits inside 其他设备."
+  },
+  {
+    "platform_id": "jinhaitong_collie",
+    "entity_id": "jinhaitong",
+    "name": "COLLIE 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "COLLIE 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-PR2026-P75-COLLIE",
+      "source_id": "jinhaitong_convertible_prospectus_20260908",
+      "page": 75,
+      "excerpt": "COLLIE 系列工程测试分选机；技术特点：1、为单工位或双工位测试；2、可提供低温、常温、高温测试环境；3、预留多类通讯接口，更换配套治具及移动便捷。产品应用：搭配标准测试机或测试板，通常应用于实验室、研究所进行工程调试或小批量生产。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "jinhaitong_convertible_prospectus_20260908",
+    "notes": "Engineering and lab handler. Revenue sits inside 其他设备."
+  },
+  {
+    "platform_id": "jinhaitong_neoceed",
+    "entity_id": "jinhaitong",
+    "name": "NEOCEED 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "NEOCEED 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P6-NEW-PRODUCT-STAGES",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 6,
+      "excerpt": "新产品主要包括 NEOCEED 系列、RIGEL 系列、EIGER 系列等，其中 NEOCEED 系列已实现商业化，EIGER 系列已通过客户中试，RIGEL 系列已完成研发样机的测试，目前正处于客户验证阶段。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "commercialised",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Non-tray handling of power, analog and PMIC packages (reply p6); up to 16 sites (prospectus p75). Reply p9 adds small-batch sales orders from leading OSATs. Not memory."
+  },
+  {
+    "platform_id": "jinhaitong_rigel",
+    "entity_id": "jinhaitong",
+    "name": "RIGEL 系列",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "RIGEL 系列"
+    ],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P6-NEW-PRODUCT-STAGES",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 6,
+      "excerpt": "新产品主要包括 NEOCEED 系列、RIGEL 系列、EIGER 系列等，其中 NEOCEED 系列已实现商业化，EIGER 系列已通过客户中试，RIGEL 系列已完成研发样机的测试，目前正处于客户验证阶段。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "prototype_tested_in_customer_validation",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "Lab-grade active thermal control platform for AI, HPC, GPU, CPU, server, switch, automotive and power parts, aimed at R&D validation, not volume test (reply pp6-7). Planned capacity 5 units (reply p9). The only new product that has not passed customer validation (reply p9)."
+  },
+  {
+    "platform_id": "jinhaitong_memory_handler_gen1",
+    "entity_id": "jinhaitong",
+    "name": "第一代半自动化 Memory 芯片测试分选机",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_product",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P10-MEMORY-GEN1",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 10,
+      "excerpt": "序号 5；研发课题/项目：Memory 芯片分选机研发；技术储备：第一代半自动化覆盖 32 工位至 128 工位的 Memory 芯片测试分选机已实现小批量出货",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "small_batch_shipment",
+    "maturity_as_reported_in": "jinhaitong_inquiry_reply_20260916",
+    "notes": "The issuer's first memory handler. FY2025 annual report p14 said only that it was watching demand for a Memory platform, so this is the first shipment claim the atlas holds. Semi-automatic, 32 to 128 sites at most (reply p38 prints 半自动化运行；最大支持工位 128 工位). No model name, customer, memory type or unit count. Says nothing of DRAM, HBM, known-good-die or stack test. A handler, not a memory tester. Revenue cannot be separated from 其他设备. The name is descriptive, built from the row wording, so no alias is claimed."
+  },
+  {
+    "platform_id": "jinhaitong_memory_handler_next_gen",
+    "entity_id": "jinhaitong",
+    "name": "新一代高速全自动测试存储芯片专用分选机",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_rd_family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JHT-IR2026-P37-MEMORY-NEXTGEN",
+      "source_id": "jinhaitong_inquiry_reply_20260916",
+      "page": 37,
+      "excerpt": "存储芯片分选设备研发；主要研发内容及目标：开发用于新一代高速全自动测试存储芯片专用分选机",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "rd_in_progress",
+    "maturity_as_reported_in": "jinhaitong_convertible_prospectus_20260908",
+    "notes": "R&D target under the bond-funded research project, stage 研发实施中 in the prospectus project list p85 item 11. Targets on reply p38: fully automatic, up to 512 sites tri-temperature, UPH 40k, next generation to 512/768 sites with bi-directional variable-pitch heads. All targets, none achieved; the prospectus warns of possible R&D or validation failure (p166). The 512-site goal already sat in the IPO plan (reply p38). No DRAM or HBM wording on this project."
+  }
+]

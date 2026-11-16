@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor Co., Ltd. DART periodic filings",
+    "kind": "company_filings",
+    "publisher": "hanmi",
+    "version": "w9-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages taken from Hanmi's own Korean-language DART filings; original PDFs retrieved from the Korean Financial Supervisory Service's DART system (dart.fss.or.kr) and held locally under the maintainer's local archive (not distributed): Financial reports/Hanmi filings/. All five filings are HTML/XML source documents as filed, retrieved through DART's own 'PDF' rendering endpoint (pdf/download/pdf.do) rather than DART's Open API (no API key was available or required for this route); the retrieved bytes are genuine multi-page PDFs with a native text layer, verified with pdftotext/pdfinfo, so locator_kind is pdf rather than html for every source in this dataset. Filing language is Korean throughout; Hanmi's own English-language material (investor-relations deck, press releases) was not used for any registered figure and is not held in this dataset -- see the handback report.",
+    "market_definitions": {}
+  }
+]

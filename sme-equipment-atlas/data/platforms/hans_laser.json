@@ -1,0 +1,97 @@
+[
+  {
+    "platform_id": "hans_laser_surface_full_cutting_equipment",
+    "entity_id": "hans_laser",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "激光表切、全切设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HANS-FY2025-P12-SURFACE-FULL-CUTTING-EQUIPMENT-IDENTITY",
+      "source_id": "hans_laser_annual_2025",
+      "page": 12,
+      "excerpt": "主要产品为激光表切、全切设备，激光内部改质切割设备等前道晶圆切割设备，及焊线设备、固晶设备、测试编带设备等后道封测设备及晶圆自动化传输设备，用于半导体及 LED、显示面板等泛半导体的生产加工环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "not_disclosed",
+    "maturity_as_reported_in": "hans_laser_annual_2025",
+    "notes": "Source pairs laser surface and full-cutting equipment; retained as one source-native family because the filing does not separately define machines or stages. Group product roster includes semiconductor, LED and display contexts. No HBM/customer/volume claim."
+  },
+  {
+    "platform_id": "hans_laser_internal_modification_cutting_equipment",
+    "entity_id": "hans_laser",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "激光内部改质切割设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HANS-FY2025-P12-INTERNAL-MODIFICATION-CUTTING-EQUIPMENT-IDENTITY",
+      "source_id": "hans_laser_annual_2025",
+      "page": 12,
+      "excerpt": "主要产品为激光表切、全切设备，激光内部改质切割设备等前道晶圆切割设备，及焊线设备、固晶设备、测试编带设备等后道封测设备及晶圆自动化传输设备，用于半导体及 LED、显示面板等泛半导体的生产加工环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "not_disclosed",
+    "maturity_as_reported_in": "hans_laser_annual_2025",
+    "notes": "Source-native laser internal-modification wafer-cutting equipment family. Product roster only; no model, sale, validation stage, installed base or HBM application disclosed."
+  },
+  {
+    "platform_id": "hans_laser_wafer_panel_laser_debond_clean_series",
+    "entity_id": "hans_laser",
+    "category_id": "bonding_debond",
+    "record_kind": "source_native_family",
+    "name": "晶圆级、面板级激光解键合及清洗系列设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HANS-FY2025-P14-WAFER-PANEL-LASER-DEBOND-CLEAN-SERIES-IDENTITY",
+      "source_id": "hans_laser_annual_2025",
+      "page": 14,
+      "excerpt": "先进封装解键合成为行业第一选择，晶圆级、面板级激光解键合及清洗系列设备国内市场份额稳居前列。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "issuer_market_presence_claimed",
+    "maturity_as_reported_in": "hans_laser_annual_2025",
+    "notes": "Source-native wafer/panel laser debonding and cleaning series kept together; issuer claims domestic market presence without units or independent ranking. No HBM qualification or separately defined models."
+  },
+  {
+    "platform_id": "hans_laser_silicon_wafer_stealth_dicer",
+    "entity_id": "hans_laser",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "硅晶圆激光隐形切割机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HANS-LASER-SILICON-WAFER-STEALTH-DICER",
+      "source_id": "hans_laser_h1_2026",
+      "page": 12,
+      "excerpt": "公司推出硅晶圆激光隐形切割机，通过新一代自研激光隐形切割技术，满足对高密度、高精度、超薄化的硅光芯片高难度隐切加工需求，为硅光器件规模化生产提供核心装备支撑，该设备已在国内硅光模块头部客户完成全流程工艺验证，设备运行稳定，加工效果优于进口同类设备，完全满足硅光器件规模化生产的应用要求，并成功导入量产线，获得客户高度认可。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "full_process_validation_at_domestic_silicon_photonics_leader_and_introduced_to_production_line",
+    "maturity_as_reported_in": "hans_laser_h1_2026",
+    "notes": "Silicon-photonics stealth dicing at an unnamed domestic module leader. No memory, HBM or DRAM statement, so no application link. 优于进口同类设备 is the issuer claim. May sit within hans_laser_internal_modification_cutting_equipment; the filing does not say so. No model, count or price.",
+    "maturity_history": [
+      {
+        "source_id": "hans_laser_h1_2026",
+        "page": 12,
+        "excerpt": "该设备已在国内硅光模块头部客户完成全流程工艺验证，设备运行稳定，加工效果优于进口同类设备，完全满足硅光器件规模化生产的应用要求，并成功导入量产线",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "full_process_validation_at_domestic_silicon_photonics_leader_and_introduced_to_production_line",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Report-context statement; the filing explicitly says 成功导入量产线 (introduced to a mass-production line). It gives no production volume, tool count, named customer or exact qualification date."
+      }
+    ]
+  }
+]

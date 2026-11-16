@@ -1,0 +1,502 @@
+[
+  {
+    "series_id": "naura_equipment_revenue",
+    "version": 1,
+    "title": "NAURA broad equipment revenue",
+    "mode": "evidence_collection",
+    "definition": "Explicit observation selection; revisions remain in the underlying ledger.",
+    "observation_ids": [
+      "N2022-SR",
+      "N2023-SR",
+      "N2024-SR",
+      "N2025-SR"
+    ],
+    "limitations": "Includes semiconductor and vacuum/new-energy equipment. FY2025 is on a company reporting perimeter that includes KINGSEMI from 2025-06-30, whereas prior years are not; use as an evidence collection, not a constant-perimeter growth series. Not etch revenue or organic growth."
+  },
+  {
+    "series_id": "naura_restatement_audit",
+    "version": 1,
+    "title": "NAURA original and restated company revenue",
+    "mode": "evidence_collection",
+    "definition": "Explicit observation selection; revisions remain in the underlying ledger.",
+    "observation_ids": [
+      "N2023-CR",
+      "N2023-CR-R",
+      "N2024-CR",
+      "N2024-CR-R"
+    ],
+    "limitations": "Original and revised versions coexist; do not sum or treat both as independent revenue."
+  },
+  {
+    "series_id": "naura2025_category_revenue_bounds",
+    "title": "NAURA FY2025 etch and deposition revenue bounds",
+    "mode": "evidence_collection",
+    "definition": "Separate broad equipment categories reported as exceeding RMB10bn each.",
+    "limitations": "Lower bounds, not exact point values or TSV-only revenue; consolidation perimeter applies.",
+    "observation_ids": [
+      "N2025-ER",
+      "N2025-DR"
+    ]
+  },
+  {
+    "series_id": "naura_financial_annual_net_profit_attributable",
+    "version": 1,
+    "title": "NAURA annual financial evidence / net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-FY2021-NET-PROFIT-ORIGINAL",
+      "NAURA-FY2022-NET-PROFIT-ORIGINAL",
+      "NAURA-FY2023-NET-PROFIT-ORIGINAL",
+      "NAURA-FY2023-NET-PROFIT-RESTATED",
+      "NAURA-FY2024-NET-PROFIT-RESTATED",
+      "NAURA-FY2025-NET-PROFIT-REPORTED"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_annual_operating_cash_flow",
+    "version": 1,
+    "title": "NAURA annual financial evidence / operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-FY2021-OCF-ORIGINAL",
+      "NAURA-FY2022-OCF-ORIGINAL",
+      "NAURA-FY2023-OCF-ORIGINAL",
+      "NAURA-FY2023-OCF-RESTATED",
+      "NAURA-FY2024-OCF-RESTATED",
+      "NAURA-FY2025-OCF-REPORTED"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_net_profit_attributable",
+    "version": 1,
+    "title": "NAURA interim financial evidence / net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H1-2025-NET-PROFIT",
+      "NAURA-H1-2026-NET-PROFIT"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_operating_cash_flow",
+    "version": 1,
+    "title": "NAURA interim financial evidence / operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H1-2025-OCF",
+      "NAURA-H1-2026-OCF"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_annual_rd_investment_expensed",
+    "version": 1,
+    "title": "NAURA annual financial evidence / rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-FY2022-RD-EXPENSED",
+      "NAURA-FY2023-RD-EXPENSED",
+      "NAURA-FY2024-RD-EXPENSED",
+      "NAURA-FY2025-RD-EXPENSED"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_rd_investment_expensed",
+    "version": 1,
+    "title": "NAURA interim financial evidence / rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H1-2025-RD-EXPENSED",
+      "NAURA-H1-2026-RD-EXPENSED"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_annual_cost_of_revenue",
+    "version": 1,
+    "title": "NAURA annual financial evidence / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-FY2022-COMPANY-COST",
+      "NAURA-FY2023-COMPANY-COST",
+      "NAURA-FY2024-COMPANY-COST",
+      "NAURA-FY2025-COMPANY-COST"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_cost_of_revenue",
+    "version": 1,
+    "title": "NAURA interim financial evidence / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H1-2025-COMPANY-COST",
+      "NAURA-H1-2026-COMPANY-COST"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_annual_rd_investment",
+    "version": 1,
+    "title": "NAURA annual financial evidence / rd investment",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA2022-RD-INVESTMENT-MGMT",
+      "NAURA2023-RD-INVESTMENT-MGMT",
+      "NAURA2024-RD-INVESTMENT-MGMT",
+      "NAURA2025-RD-INVESTMENT-MGMT"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_rd_investment",
+    "version": 1,
+    "title": "NAURA interim financial evidence / rd investment",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H12025-RD-INVESTMENT-MGMT",
+      "NAURA-H12026-RD-INVESTMENT-MGMT"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_annual_financial_note_rd_expenditure_total",
+    "version": 1,
+    "title": "NAURA annual financial evidence / financial note rd expenditure total",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA2022-FINNOTE-RD-TOTAL",
+      "NAURA2023-FINNOTE-RD-TOTAL",
+      "NAURA2024-FINNOTE-RD-TOTAL",
+      "NAURA2025-FINNOTE-RD-TOTAL"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_financial_interim_financial_note_rd_expenditure_total",
+    "version": 1,
+    "title": "NAURA interim financial evidence / financial note rd expenditure total",
+    "mode": "evidence_collection",
+    "definition": "Reported financial levels and explicit historical vintages; not a constant-perimeter time series.",
+    "observation_ids": [
+      "NAURA-H12025-FINNOTE-RD-TOTAL",
+      "NAURA-H12026-FINNOTE-RD-TOTAL"
+    ],
+    "limitations": "Common-control restatement and KINGSEMI consolidation change reporting perimeters. FY2023 original/restated profit and cash flow both retained. Do not sum NAURA with standalone KINGSEMI. Management R&D investment and financial-note expenditure totals are different reported concepts; no bridge inferred."
+  },
+  {
+    "series_id": "naura_disclosures1_geography",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — geography",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-001",
+      "NAURA2024-DISC-002",
+      "NAURA2025-DISC-003",
+      "NAURA2024-DISC-004",
+      "NAURA2025-DISC-005",
+      "NAURA2024-DISC-006",
+      "NAURA2025-DISC-007",
+      "NAURA2024-DISC-008",
+      "NAURA2025-DISC-009",
+      "NAURA2024-DISC-010",
+      "NAURA2025-DISC-011",
+      "NAURA2024-DISC-012",
+      "NAURA2025-DISC-013",
+      "NAURA2024-DISC-014",
+      "NAURA2025-DISC-015",
+      "NAURA2024-DISC-016"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_disclosures1_customers",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — customers",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-017",
+      "NAURA2025-DISC-018",
+      "NAURA2025-DISC-019",
+      "NAURA2025-DISC-020",
+      "NAURA2025-DISC-021",
+      "NAURA2025-DISC-022",
+      "NAURA2025-DISC-023",
+      "NAURA2025-DISC-024",
+      "NAURA2025-DISC-025",
+      "NAURA2025-DISC-026",
+      "NAURA2025-DISC-037",
+      "NAURA2025-DISC-038",
+      "NAURA2025-DISC-041"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_disclosures1_suppliers",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — suppliers",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-027",
+      "NAURA2025-DISC-028",
+      "NAURA2025-DISC-029",
+      "NAURA2025-DISC-030",
+      "NAURA2025-DISC-031",
+      "NAURA2025-DISC-032",
+      "NAURA2025-DISC-033",
+      "NAURA2025-DISC-034",
+      "NAURA2025-DISC-035",
+      "NAURA2025-DISC-036",
+      "NAURA2025-DISC-039",
+      "NAURA2025-DISC-040",
+      "NAURA2025-DISC-042"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_disclosures1_rd_workforce",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — rd workforce",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-043",
+      "NAURA2024-DISC-044",
+      "NAURA2025-DISC-045",
+      "NAURA2024-DISC-046",
+      "NAURA2025-DISC-068",
+      "NAURA2024-DISC-069",
+      "NAURA2025-DISC-070",
+      "NAURA2024-DISC-071",
+      "NAURA2025-DISC-072",
+      "NAURA2024-DISC-073",
+      "NAURA2025-DISC-074",
+      "NAURA2024-DISC-075",
+      "NAURA2025-DISC-076",
+      "NAURA2024-DISC-077",
+      "NAURA2025-DISC-078",
+      "NAURA2024-DISC-079"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_disclosures1_workforce",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — workforce",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-047",
+      "NAURA2025-DISC-048",
+      "NAURA2025-DISC-049",
+      "NAURA2025-DISC-050",
+      "NAURA2025-DISC-051",
+      "NAURA2025-DISC-052",
+      "NAURA2025-DISC-053",
+      "NAURA2025-DISC-054",
+      "NAURA2025-DISC-055",
+      "NAURA2025-DISC-056",
+      "NAURA2025-DISC-058",
+      "NAURA2025-DISC-059",
+      "NAURA2025-DISC-060"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_disclosures1_balance_and_cash_capex",
+    "version": 1,
+    "title": "NAURA FY2025 disclosure tables — balance and cash capex",
+    "mode": "evidence_collection",
+    "definition": "Source-native table collection with explicit ranks, populations, periods and disclosure vintage; not an additive or automatically comparable series.",
+    "observation_ids": [
+      "NAURA2025-DISC-062",
+      "NAURA2024-DISC-063",
+      "NAURA2025-DISC-064",
+      "NAURA2024-DISC-065",
+      "NAURA2025-DISC-066",
+      "NAURA2024-DISC-067"
+    ],
+    "limitations": "Consolidation changes, annual personnel reporting and source-native group labels are retained. Supplier concentration is not foreign content; other regions is not established overseas revenue."
+  },
+  {
+    "series_id": "naura_h1_2025_category_revenue_bounds",
+    "title": "NAURA H1 2025 equipment-family revenue bounds",
+    "mode": "evidence_collection",
+    "definition": "Four source-reported category revenue lower bounds from the H1 2025 report.",
+    "limitations": "Not exact components or market shares. Wet-equipment revenue explicitly excludes KINGSEMI. No inferred allocation among subtypes or parent/subsidiary aggregate exception.",
+    "observation_ids": [
+      "naura_h1_2025_family_revenue_001",
+      "naura_h1_2025_family_revenue_002",
+      "naura_h1_2025_family_revenue_003",
+      "naura_h1_2025_family_revenue_004"
+    ]
+  },
+  {
+    "series_id": "naura_2023_2024_operational_evidence",
+    "title": "NAURA FY2023–FY2024 operational and product evidence",
+    "mode": "evidence_collection",
+    "definition": "Source-defined shipment, model, customer, order, family-revenue, customer-concentration and equipment-specification records; existing cumulative shipment aliases included explicitly.",
+    "limitations": "Overlapping groups and lower bounds must not be summed or subtracted as exact components. CVD includes source-listed ALD; vertical furnaces include deposition. Sales differ from shipments and installations; customer ranks are anonymous and year-specific. Report-context dates are flagged where not explicitly stated.",
+    "observation_ids": [
+      "NAURA-OPS-2023-004",
+      "NAURA-OPS-2023-018",
+      "NAURA-OPS-2023-022",
+      "NAURA-OPS-2023-024",
+      "NAURA-OPS-2023-026",
+      "NAURA-OPS-2023-028",
+      "NAURA-OPS-2023-029",
+      "NAURA-OPS-2023-005",
+      "NAURA-OPS-2023-021",
+      "NAURA-OPS-2023-017",
+      "NAURA-OPS-2023-020",
+      "NAURA-OPS-2023-023",
+      "NAURA-OPS-2023-033",
+      "NAURA-OPS-2023-048",
+      "NAURA-OPS-2023-049",
+      "NAURA-OPS-2023-050",
+      "NAURA-OPS-2023-051",
+      "NAURA-OPS-2024-082",
+      "NAURA-OPS-2024-083",
+      "NAURA-OPS-2024-084",
+      "NAURA-OPS-2024-085",
+      "NAURA-OPS-2023-052-SALES",
+      "NAURA-OPS-2023-052-SHARE",
+      "NAURA-OPS-2023-053-SALES",
+      "NAURA-OPS-2023-053-SHARE",
+      "NAURA-OPS-2023-054-SALES",
+      "NAURA-OPS-2023-054-SHARE",
+      "NAURA-OPS-2023-055-SALES",
+      "NAURA-OPS-2023-055-SHARE",
+      "NAURA-OPS-2023-056-SALES",
+      "NAURA-OPS-2023-056-SHARE",
+      "NAURA-OPS-2023-057-SALES",
+      "NAURA-OPS-2023-057-SHARE",
+      "NAURA-OPS-2024-058-SALES",
+      "NAURA-OPS-2024-058-SHARE",
+      "NAURA-OPS-2024-059-SALES",
+      "NAURA-OPS-2024-059-SHARE",
+      "NAURA-OPS-2024-060-SALES",
+      "NAURA-OPS-2024-060-SHARE",
+      "NAURA-OPS-2024-061-SALES",
+      "NAURA-OPS-2024-061-SHARE",
+      "NAURA-OPS-2024-062-SALES",
+      "NAURA-OPS-2024-062-SHARE",
+      "NAURA-OPS-2024-063-SALES",
+      "NAURA-OPS-2024-063-SHARE",
+      "NAURA-OPS-2024-071-H2MAX",
+      "NAURA-OPS-2024-071-GRAPHMAX",
+      "NAURA-OPS-2023-052-RELATED-SHARE",
+      "NAURA-OPS-2024-058-RELATED-SHARE",
+      "N2023-EC",
+      "N2023-IC",
+      "N2023-CC",
+      "N2024-PC"
+    ]
+  },
+  {
+    "series_id": "naura_annual_monetary_operating_tables",
+    "title": "NAURA FY2023–FY2024 monetary operating tables",
+    "mode": "evidence_collection",
+    "definition": "Complete selected monetary sales/production/inventory grids, including both annual columns and printed year-on-year changes.",
+    "limitations": "Values printed in yuan are not tool counts. Production/inventory valuation basis remains source-defined; inventory is not assumed to equal net balance-sheet inventory. Components are explicitly non-equipment. Comparative source vintages and overlapping levels must not be summed.",
+    "observation_ids": [
+      "naura_annual_monetary_operations_003",
+      "naura_annual_monetary_operations_004",
+      "naura_annual_monetary_operations_005",
+      "naura_annual_monetary_operations_006",
+      "naura_annual_monetary_operations_007",
+      "naura_annual_monetary_operations_008",
+      "naura_annual_monetary_operations_009",
+      "naura_annual_monetary_operations_010",
+      "naura_annual_monetary_operations_011",
+      "naura_annual_monetary_operations_012",
+      "naura_annual_monetary_operations_013",
+      "naura_annual_monetary_operations_014",
+      "naura_annual_monetary_operations_015",
+      "naura_annual_monetary_operations_016",
+      "naura_annual_monetary_operations_017",
+      "naura_annual_monetary_operations_018",
+      "naura_annual_monetary_operations_020",
+      "naura_annual_monetary_operations_021",
+      "naura_annual_monetary_operations_022",
+      "naura_annual_monetary_operations_023",
+      "naura_annual_monetary_operations_024",
+      "naura_annual_monetary_operations_025",
+      "naura_annual_monetary_operations_026",
+      "naura_annual_monetary_operations_027",
+      "naura_annual_monetary_operations_028",
+      "naura_annual_monetary_operations_029",
+      "naura_annual_monetary_operations_030",
+      "naura_annual_monetary_operations_031",
+      "naura_annual_monetary_operations_032",
+      "naura_annual_monetary_operations_033",
+      "naura_annual_monetary_operations_034",
+      "naura_annual_monetary_operations_035",
+      "naura_annual_monetary_operations_036",
+      "N2023-SR",
+      "N2022-SR",
+      "N2024-SR"
+    ]
+  },
+  {
+    "series_id": "naura_fy2025_operational_numeric",
+    "title": "NAURA FY2025 source-native operating measurements",
+    "mode": "evidence_collection",
+    "definition": "FY2025 original disclosure milestones, product configuration and monetary operating tables, preserving source-native quantities and periods.",
+    "limitations": "Shipment and delivery counts overlap; ordinal milestones are not closing totals; configurable chambers are not delivered chambers. Monetary grids are not physical volume. Comparative source vintages are not organic growth or additive totals.",
+    "observation_ids": [
+      "NAURA-FY25-PVD-1000TH-DELIVERY",
+      "NAURA-FY25-VERTICAL-SHIP",
+      "NAURA-FY25-VACUUM-NEWENERGY-SHIP",
+      "NAURA-FY25-PVD-DELIVERIES-GT1000",
+      "NAURA-FY25-IC-EQUIPMENT-REVENUE-GROWTH",
+      "NAURA-FY25-SPI-EP-SALES-2024",
+      "NAURA-FY25-SPI-EP-SALES-YOY",
+      "NAURA-FY25-SPI-EP-PROD-2025",
+      "NAURA-FY25-SPI-EP-PROD-2024",
+      "NAURA-FY25-SPI-EP-PROD-YOY",
+      "NAURA-FY25-SPI-EP-INV-2025",
+      "NAURA-FY25-SPI-EP-INV-2024",
+      "NAURA-FY25-SPI-EP-INV-YOY",
+      "NAURA-FY25-SPI-EC-SALES-2025",
+      "NAURA-FY25-SPI-EC-SALES-2024",
+      "NAURA-FY25-SPI-EC-SALES-YOY",
+      "NAURA-FY25-SPI-EC-PROD-2025",
+      "NAURA-FY25-SPI-EC-PROD-2024",
+      "NAURA-FY25-SPI-EC-PROD-YOY",
+      "NAURA-FY25-SPI-EC-INV-2025",
+      "NAURA-FY25-SPI-EC-INV-2024",
+      "NAURA-FY25-SPI-EC-INV-YOY",
+      "NAURA-FY25-VERTICAL-DELIVERIES-GT1000",
+      "N2025-SR"
+    ]
+  },
+  {
+    "series_id": "naura_h1_2026_industrial_furnace_specs",
+    "title": "NAURA H1 2026 industrial furnace specifications",
+    "mode": "evidence_collection",
+    "definition": "Issuer-reported maximum process temperatures of hot-press sintering and continuous graphitization furnace families.",
+    "limitations": "Industrial materials/component-processing specifications, not wafer-tool capacity or factory output. Report-context dates are inferred; process temperature differs from the earlier equipment-temperature claim.",
+    "observation_ids": [
+      "naura_h1_2026_max_process_temperature_001",
+      "naura_h1_2026_max_process_temperature_002"
+    ]
+  }
+]

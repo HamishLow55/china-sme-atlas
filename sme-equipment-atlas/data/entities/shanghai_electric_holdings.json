@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "shanghai_electric_holdings",
+    "name": "Shanghai Electric Holdings Group",
+    "aliases": [
+      "上海电气控股集团有限公司",
+      "上海电气控股集团",
+      "Shanghai Electric Holdings Group Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "se_holdings_fy2021_bond_report",
+      "page": 1,
+      "excerpt": "上海电气控股集团有限公司公司债券2021年年度财务报告及附注",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "ENTITY TYPE WARNING: Shanghai Electric Holdings Group is an unlisted industrial/power-equipment conglomerate (power generation equipment, elevators, environmental protection, finance, etc.) -- NOT a semiconductor-equipment vendor and NOT an Atlas subject firm in its own right. It is registered here solely as the DISCLOSING SHAREHOLDER whose own audited bond-market financial reports (it is a public-bond issuer, so files audited notes though its equity is not listed) carry SMEE's (entity_id smee), and from 2023 Shanghai Aishengna's (entity_id aishengna), company-level revenue, net-profit and equity-investment figures as a significant-associate disclosure. This mirrors the Atlas's existing pattern for Zhichun's annual report carrying facts about its affiliate Zhiwei: the filing is registered against the shareholder as the disclosing document, while every observation's entity_id is the firm the fact is about (smee or aishengna), never shanghai_electric_holdings itself. Never register semiconductor-equipment-vendor observations (revenue, shipments, platforms) directly against this entity_id.\n\nDistinct from the separately SSE/HKSE-listed Shanghai Electric Group Co., Ltd. (601727.SH / 02727.HK), in which Shanghai Electric Holdings Group holds a controlling stake (named as a subsidiary throughout these filings, e.g. 上海电气集团股份有限公司) -- do not conflate the two; only the unlisted Holdings-Group parent discloses SMEE/Aishengna as an associate in the documents held here.\n\nSE Holdings held SMEE as a 'significant associate' (重要联营企业) and disclosed its summarised financials (revenue, net profit, total assets, net assets) for FY2020-FY2022 across its FY2021 bond-disclosure report and its FY2022 audit report. From FY2023 SMEE's equity-method carrying value was written to zero (after a further capital injection and an equity-method loss both reported in the FY2023 annual report), and a new associate, Shanghai Aishengna Electronic Technology Group, appears in its place; neither SMEE nor Aishengna is named among SE Holdings' disclosed associates in the FY2024 or FY2025 annual reports (both fall inside an undifferentiated '其他' aggregate there), so this disclosure route is a dead end after the FY2023 entries registered in this packet.",
+    "entity_class": "disclosure_only"
+  }
+]

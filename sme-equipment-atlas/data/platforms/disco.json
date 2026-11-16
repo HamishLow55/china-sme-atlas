@@ -1,0 +1,111 @@
+[
+  {
+    "platform_id": "disco_taiko",
+    "entity_id": "disco",
+    "category_id": "thinning_grinding",
+    "record_kind": "source_native_family",
+    "name": "TAIKO process",
+    "aliases": [
+      "TAIKO"
+    ],
+    "evidence": {
+      "source_id": "disco_corporate_report_2020_eng",
+      "page": 8,
+      "excerpt": "heading: Power Device / TAIKO; text: 'For some power devices, the thinned wafer needs to go through processes such as vapor deposition. The TAIKO process leaves an edge on the outer circumference of the wafer. This outer support ring allows the thinned wafer to maintain mechanical strength, making it possible to achieve safe handling without a support system.'",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "the TAIKO process leaves an edge on the outer circumference of the wafer, allowing the thinned wafer to maintain mechanical strength and be handled safely without a support system",
+    "maturity_as_reported_in": "disco_corporate_report_2020_eng",
+    "notes": "DISCO's own named backgrinding process for power-device wafers: a partial-edge grind that leaves a reinforcing outer ring (DISCO's well-known trademarked TAIKO process), filed at thinning_grinding. The source page gives a mechanism description only -- no customer-adoption, shipment, unit-count or order language is attached to TAIKO specifically on this page, unlike the adjacent DBG/SDBG box (disco_dbg_sdbg) on the same page, which does carry adoption language. reported_maturity is therefore a close paraphrase of the capability description, not an inferred commercial-stage claim; do not upgrade it. Application named is 'Power Device' generically -- not HBM, TSV, 2.5D/3D or hybrid bonding -- so no application_link is registered. Source is DISCO's 2020 Corporate Report (the last English 'DISCO Report' DISCO published; see disco_corporate_report_2020_eng notes); TAIKO was NOT found named in any of the five FY2021-FY2025 annual securities reports or four kessan tanshin reviewed for this packet (full-text searched), so this claim is not reconfirmed in any filing more recent than 2020. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against disco_corporate_report_2020_eng p.8 (physical PDF page 8, verified by direct pdftotext -layout extraction of that page, which matches the printed footer page number for this source): the 'Power Device / TAIKO' box text matches verbatim, including the exact sentence about the outer support ring. Category thinning_grinding is correct -- TAIKO is a partial-edge backgrinding technique (a single mechanism), not a combined multi-module tool, so it does not need the thinning parent exception. reported_maturity is correctly kept as a mechanism description (no adoption/shipment language on this specific box) rather than inflated to a commercial-stage claim, in contrast to the adjacent DBG/SDBG box on the same page which does carry adoption language and is handled differently. Confirmed TAIKO is not named in any FY2021-FY2025 ASR or kessan tanshin (full-text searched all ten held DISCO filings for 'TAIKO'; no hits outside the 2020 Corporate Report).",
+    "maturity_history": [
+      {
+        "source_id": "disco_corporate_report_2020_eng",
+        "page": 8,
+        "excerpt": "heading: Power Device / TAIKO; text: 'For some power devices, the thinned wafer needs to go through processes such as vapor deposition. The TAIKO process leaves an edge on the outer circumference of the wafer. This outer support ring allows the thinned wafer to maintain mechanical strength, making it possible to achieve safe handling without a support system.'",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "the TAIKO process leaves an edge on the outer circumference of the wafer, allowing the thinned wafer to maintain mechanical strength and be handled safely without a support system",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "2020 Corporate Report 'Application Examples' page; mechanism description, no adoption or volume language attached to TAIKO specifically."
+      }
+    ]
+  },
+  {
+    "platform_id": "disco_stress_relief",
+    "entity_id": "disco",
+    "category_id": "thinning_stress_relief",
+    "record_kind": "source_native_family",
+    "name": "Stress Relief (DP/CMP/Dry Etching)",
+    "aliases": [
+      "Stress Relief"
+    ],
+    "evidence": {
+      "source_id": "disco_corporate_report_2020_eng",
+      "page": 8,
+      "excerpt": "heading: Memory Devices / Stress Relief DP/CMP/Dry Etching; text: 'For thin wafers after grinding, microscopic damage needs to be removed and die strength needs to be improved. There are a variety of stress relief processes in the lineup, such as dry polishing, CMP, and dry etching, which makes it possible to select a process according to the required die strength, cost, or other requirements.'",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "a variety of stress relief processes in the lineup, such as dry polishing, CMP, and dry etching",
+    "maturity_as_reported_in": "disco_corporate_report_2020_eng",
+    "notes": "DISCO's own named post-grind stress-relief process family -- dry polishing, CMP and dry etching, offered as selectable options ('a variety...in the lineup') to remove grind damage and improve die strength on thinned wafers. This is an exact textual match to the atlas's thinning_stress_relief category definition ('post-grind stress relief and polishing...by dry polish, CMP or etch'), and is the first registration under that category, which was otherwise empty ('the issuers the atlas holds sell stress relief only inside combined tools...the capability is real but the figures sit at the thinning parent'). 'In the lineup' implies these are commercially offered process options, but no customer-adoption, shipment or order language is attached, so reported_maturity is kept as a close paraphrase rather than upgraded to a production-volume claim. Application named is 'Memory Devices' generically -- not HBM specifically -- so no application_link is registered. Source is DISCO's 2020 Corporate Report; not found named in any FY2021-FY2025 ASR or kessan tanshin reviewed for this packet. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against disco_corporate_report_2020_eng p.8: the 'Memory Devices / Stress Relief DP/CMP/Dry Etching' box text matches verbatim, including the heading's own 'DP/CMP/Dry Etching' line (confirmed by direct extraction of physical page 8 with pdftotext -layout, which preserves the three-line box heading exactly as quoted: 'Memory Devices / Stress Relief / DP/CMP/Dry Etching'). This is the first registration under thinning_stress_relief, which the category's own scope_note says was empty because the atlas's other issuers only sell stress relief inside combined tools -- an exact textual match to this category's definition, correctly registered as a standalone process entry rather than folded into a combined-tool record. 'A variety...in the lineup' is correctly kept as a close paraphrase, not upgraded to a production-volume claim.",
+    "maturity_history": [
+      {
+        "source_id": "disco_corporate_report_2020_eng",
+        "page": 8,
+        "excerpt": "heading: Memory Devices / Stress Relief DP/CMP/Dry Etching; text: 'For thin wafers after grinding, microscopic damage needs to be removed and die strength needs to be improved. There are a variety of stress relief processes in the lineup, such as dry polishing, CMP, and dry etching, which makes it possible to select a process according to the required die strength, cost, or other requirements.'",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "a variety of stress relief processes in the lineup, such as dry polishing, CMP, and dry etching",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "2020 Corporate Report 'Application Examples' page; describes a lineup of selectable processes, no adoption or volume language."
+      }
+    ]
+  },
+  {
+    "platform_id": "disco_dbg_sdbg",
+    "entity_id": "disco",
+    "category_id": "multi_equipment",
+    "record_kind": "source_native_family",
+    "name": "DBG / SDBG",
+    "aliases": [
+      "DBG",
+      "SDBG"
+    ],
+    "evidence": {
+      "source_id": "disco_corporate_report_2020_eng",
+      "page": 8,
+      "excerpt": "heading: Memory Devices / DBG/SDBG; text: 'The demand for ultra-thin ø300 mm wafers has been increasing as part of memory devices production. DBG has been adopted by many of our customers because the risk of wafer breakage can theoretically be reduced by separating die through the process of grinding the backside of the wafer. To achieve improved die strength, SDBG, which uses stealth dicing, has also been adopted by our customers.'",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "DBG has been adopted by many of our customers...SDBG, which uses stealth dicing, has also been adopted by our customers",
+    "maturity_as_reported_in": "disco_corporate_report_2020_eng",
+    "notes": "DISCO's own named combined process for ultra-thin 300mm memory wafers: DBG (Dicing Before Grinding) separates die by grinding the wafer backside after an initial dicing-formed groove; SDBG is the stealth-dicing variant of the same flow. Filed at the thinning PARENT category rather than thinning_grinding specifically, because the process explicitly combines a dicing step (ordinary blade dicing for DBG, stealth/laser dicing for SDBG) with the grinding step that actually thins and separates the wafer; the thinning parent's own scope note welcomes 'a combined tool that integrates thinning with polishing, cleaning or taping', and this is the same kind of multi-step integration, just combining thinning with an upstream dicing step rather than a downstream one. This is the STRONGEST maturity evidence on the Application Examples page: an explicit 'adopted by many of our customers' / 'has also been adopted by our customers' claim for both variants, which this packet reads as real commercial deployment -- but DISCO does not use the atlas's own lab/trial/mass_production vocabulary, so reported_maturity is kept as the issuer's own words rather than translated into that vocabulary. Application named is 'Memory Devices' generically -- not HBM, TSV or 2.5D/3D specifically -- so no application_link is registered; do not upgrade 'memory devices' to 'HBM'. Source is DISCO's 2020 Corporate Report; not found named in any FY2021-FY2025 ASR or kessan tanshin reviewed for this packet. A separate, unnamed 'die separator' tool and a 'Laser Grooving' process appear on the SAME page in their own boxes; neither is registered here -- see the handback report's coverage notes for why. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against disco_corporate_report_2020_eng p.8: the 'Memory Devices / DBG/SDBG' box text matches verbatim, including the explicit multi-customer adoption language ('DBG has been adopted by many of our customers...SDBG...has also been adopted by our customers') -- the strongest maturity evidence on this page, correctly preserved in the issuer's own words rather than translated into the atlas's lab/trial/mass_production vocabulary. CATEGORY DEFECT: the record is filed at 'thinning' (parent), justified in the notes by analogy to the thinning parent's combined-tool exception ('a combined tool that integrates thinning with polishing, cleaning or taping'). That exception is for modules that are all within the thinning domain on one machine. DBG (Dicing Before Grinding) and SDBG explicitly combine a DICING step (ordinary blade dicing for DBG, stealth/laser dicing for SDBG) with the GRINDING step that finishes separation -- and `grep -n '\"category_id\": \"dicing' data/categories.json` confirms dicing is its own top-level category tree (dicing, dicing_blade, dicing_laser, dicing_plasma), not a thinning sub-function. This is a tool genuinely spanning two independent category trees, which is exactly the case the protocol says belongs at multi_equipment with the second function named in notes -- the same treatment W12 already confirmed for Camtek's inspection+metrology platforms. The current notes name 'an upstream dicing step' in prose but do not name the atlas's actual alternative nodes (dicing_blade / dicing_laser / multi_equipment), which is the specific failure mode the protocol calls out ('check that the notes name the real alternative nodes').",
+    "maturity_history": [
+      {
+        "source_id": "disco_corporate_report_2020_eng",
+        "page": 8,
+        "excerpt": "heading: Memory Devices / DBG/SDBG; text: 'The demand for ultra-thin ø300 mm wafers has been increasing as part of memory devices production. DBG has been adopted by many of our customers because the risk of wafer breakage can theoretically be reduced by separating die through the process of grinding the backside of the wafer. To achieve improved die strength, SDBG, which uses stealth dicing, has also been adopted by our customers.'",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "DBG has been adopted by many of our customers...SDBG, which uses stealth dicing, has also been adopted by our customers",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "2020 Corporate Report 'Application Examples' page; explicit multi-customer adoption language for both DBG and SDBG variants."
+      }
+    ]
+  }
+]

@@ -1,0 +1,320 @@
+[
+  {
+    "observation_id": "A2023-ER",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "47.03",
+    "relation": "approx",
+    "unit": "CNY_100m",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 63,
+      "original_label": "刻蚀设备销售",
+      "excerpt": "营业收入变动原因说明：公司 2023 年营业收入约 62.64 亿元，较 2022 年增加约 15.24 亿元，同 比增长约 32.15%。其中，2023 年刻蚀设备销售约 47.03 亿元，同比增长约 49.43%；MOCVD 设                                 62 / 246",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "qualifier_review": {
+        "reviewer": "cmp_expansion_qualifier_verifier",
+        "review_date": "2026-09-21",
+        "exact_quote": "其中，2023 年刻蚀设备销售约 47.03 亿元，同比增长约 49.43%"
+      },
+      "reported_value": "47.03",
+      "reported_unit": "CNY_100m"
+    },
+    "claim_kind": "company_reported",
+    "precision": "rounded",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Extraction correction 2026-09-21: explicit 约 applies to this amount; relation changed from eq to approx. Numeric value and original source remain unchanged."
+  },
+  {
+    "observation_id": "A2023-ES",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "value": "606",
+    "relation": "eq",
+    "unit": "chamber",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 65,
+      "original_label": "刻蚀设备：销售量",
+      "excerpt": "（%）     （%）     （%）  刻蚀设备           腔             427          606        205   -30.91   37.41  -47.84  MOCVD          腔              13           50          1   -85.56  -32.43  -97.37",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "606",
+      "reported_unit": "chamber"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "2023–2024 production and inventory explicitly exclude work in progress; 2022 table provides no equivalent explanatory detail."
+  },
+  {
+    "observation_id": "A2023-EP",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "value": "427",
+    "relation": "eq",
+    "unit": "chamber",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 65,
+      "original_label": "刻蚀设备：生产量",
+      "excerpt": "（%）     （%）     （%）  刻蚀设备           腔             427          606        205   -30.91   37.41  -47.84  MOCVD          腔              13           50          1   -85.56  -32.43  -97.37",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "427",
+      "reported_unit": "chamber"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "2023–2024 production and inventory explicitly exclude work in progress; 2022 table provides no equivalent explanatory detail."
+  },
+  {
+    "observation_id": "A2023-EI",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "inventory_volume",
+    "value": "205",
+    "relation": "eq",
+    "unit": "chamber",
+    "period": {
+      "start": "",
+      "end": "2023-12-31",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 65,
+      "original_label": "刻蚀设备：库存量",
+      "excerpt": "（%）     （%）     （%）  刻蚀设备           腔             427          606        205   -30.91   37.41  -47.84  MOCVD          腔              13           50          1   -85.56  -32.43  -97.37",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "205",
+      "reported_unit": "chamber"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "2023–2024 production and inventory explicitly exclude work in progress; 2022 table provides no equivalent explanatory detail."
+  },
+  {
+    "observation_id": "A2023-CR",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "6263513581.37",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 63,
+      "original_label": "营业收入",
+      "excerpt": "科目                       本期数             上年同期数            变动比例（%） 营业收入                   6,263,513,581.37  4,739,830,997.55       32.15 营业成本                   3,393,243,528.05  2,571,933,469.82       31.93 销售费用                     491,730,143.86    408,710,366.69       20.31",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "6263513581.37",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Consolidated company revenue, not etching revenue."
+  },
+  {
+    "observation_id": "A2023-EO",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "new_orders",
+    "value": "69.5",
+    "relation": "approx",
+    "unit": "CNY_100m",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "order_intake",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 25,
+      "original_label": "刻蚀设备新增订单",
+      "excerpt": "公司 2023 年新增订单金额约 83.6 亿元，较 2022 年新增订单的 63.2 亿元增加约 20.4 亿元， 同比增长约 32.3%。其中刻蚀设备新增订单约 69.5 亿元，同比增长约 60.1%；由于中微的 MOCVD 设备已经在蓝绿光 LED 生产线上占据绝对领先的市占率，受终端市场波动影响，2023 年 MOCVD 设备订单同比下降约 72.2%。",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "qualifier_review": {
+        "reviewer": "cmp_expansion_qualifier_verifier",
+        "review_date": "2026-09-21",
+        "exact_quote": "其中刻蚀设备新增订单约 69.5 亿元，同比增长约 60.1%"
+      },
+      "reported_value": "69.5",
+      "reported_unit": "CNY_100m"
+    },
+    "claim_kind": "company_reported",
+    "precision": "rounded",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Extraction correction 2026-09-21: explicit 约 applies to this amount; relation changed from eq to approx. Numeric value and original source remain unchanged."
+  },
+  {
+    "observation_id": "A2023-CS",
+    "dataset_id": "amec_annual_disclosures",
+    "source_id": "amec_2023",
+    "entity_id": "amec",
+    "category_id": "etch_ccp",
+    "reporting_scope_id": "etch_ccp",
+    "platform_id": "",
+    "metric_id": "cumulative_production_shipments",
+    "value": "2800",
+    "relation": "gt",
+    "unit": "reaction_station",
+    "period": {
+      "start": "",
+      "end": "2023-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 32,
+      "original_label": "CCP：累计生产付运",
+      "excerpt": "台 Primo HD-RIE+，Primo HD-RIEe，Primo UD-RIE 逐渐得到市场认可。截至 2023 年底，公司累 计生产付运超过 2800 个 CCP 刻蚀反应台，同时在手订单充裕。",
+      "status": "source_checked",
+      "reviewer": "pilot_1_source_check",
+      "review_date": "2026-09-18",
+      "independent_corroboration": false,
+      "reported_value": "2800",
+      "reported_unit": "reaction_station"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Do not compare directly with cumulative installations or chamber counts."
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "entity_id": "leadmicro",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_company_total",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_8",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-REV",
+      "LEADMICRO2024-REV",
+      "LEADMICRO2025-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_9",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-PV-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_10",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-PV-COST"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_11",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-PV-GM"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_12",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-SEMI-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_13",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-SEMI-COST"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_leadmicro_14",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-SEMI-GM"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_device_manufacturing",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition1_leadmicro_15",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-PRODUCTION"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_device_manufacturing",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition1_leadmicro_16",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-SALES"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_device_manufacturing",
+    "platform_id": "",
+    "metric_id": "inventory_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_inventory",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition1_leadmicro_17",
+    "task_id": "deposition1_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [
+      "LEADMICRO2025-INVENTORY"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "target_id": "deposition1_missing_leadmicro_leadmicro_annual_2025_semiconductor_device_units",
+    "task_id": "deposition1_leadmicro",
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "Targeted operating tables report a broader equipment basket, not this product scope. No quantity allocation from revenue shares; review earlier filings for source-native product quantities."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_17",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-PV-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_18",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-PV-COST"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_photovoltaic_device",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_19",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-PV-GM"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_20",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_21",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-COST"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2025_semiconductor_device",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_leadmicro_22",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-SEMI-GM"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2023_special_equipment",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_leadmicro_28",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-SPECIAL-PRODUCTION-SUP"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "leadmicro",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "leadmicro_leadmicro_annual_2023_special_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_leadmicro_29",
+    "task_id": "deposition2_leadmicro",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "observation_ids": [
+      "LEADMICRO2023-SPECIAL-SALES-SUP"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  }
+]

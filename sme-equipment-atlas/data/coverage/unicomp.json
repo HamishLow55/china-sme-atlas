@@ -1,0 +1,288 @@
+[
+  {
+    "coverage_id": "unicomp_2025_issuer_scope",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "issuer scope",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 1, 5, 7, 8. Listed FY2025 issuer identity confirmed.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_ownership_timing",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "ownership timing",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 5, 13, 25, 30. SSTI acquired after FY2025; ultrasound company is investee.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_named_equipment",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "named equipment",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 12, 13, 14, 24, 27, 28, 29, 32, 39. Source families reviewed. Rendered p14 identifies SSTI series 1100/1300, 3000/3300, 4000, 5000/5300 without one-to-one modality mapping; SSTI joined after FY2025. Two Unicomp X-ray/CT family records independently verified and integrated; they may overlap and are not additive.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_maturity_qualification",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "maturity qualification",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 24, 27, 28, 29, 39. Distinguish electronic-manufacturing CT batch deliveries, advanced-packaging validation, PCB shipment, optical-module sample trial, broad in-situ CT shipment.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_product_volumes",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "product volumes",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 27, 49, 50. FY2025 unit grid includes all X-ray industries; no semiconductor, IC/electronics or CT split.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_cumulative_shipments_installed_base",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments installed base",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 24, 27, 28, 29, 33, 39, 50, 59. No cumulative equipment shipped-system or installed-base count after full-file search for 装机、保有量、在役、累计出货、累计交付 and operating review. 100+ models and 4000+ customers are different measures.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_customers",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 24, 28, 29, 33. Named PCB customers, broad group roster; no semiconductor-specific count or exact advanced-packaging customer.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_orders_backlog",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 16, 45, 47, 48, 50. Generic order demand only; no semiconductor equipment-specific backlog, order count or value.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_capacity",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 15, 16, 46, 59, 114. 3,000/year is prospective all-industry project; no current semiconductor-specific capacity.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_process_node_hbm",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "process node hbm",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 15, 24, 25, 28, 32, 39. Actual SSTI generic equipment at customer 3nm N3E/N3B versus 2nm capability. HBM C-SAM p25 is industry benchmark, not Unicomp tool qualification.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_acoustic_equipment",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "acoustic equipment",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 17, 25, 26, 29, 30, 62, 63, 64. P30 discloses an investment in ChaoWei Metrology. It establishes neither control nor non-control; do not attribute an own acoustic product line or HBM qualification to Unicomp. P25 HBM acoustic inspection discussion is industry context.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_equipment_revenue",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "equipment revenue",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Sol operational sweep independently checked against original by Terra; physical pages 48, 49, 50, 251. IC/electronics combines both industries; no FY2025 SSTI revenue attributable to Unicomp post-acquisition.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_2025_recent_keys",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "FY2023-2025 company keys, FY2025 mixed IC/electronics revenue and all-industry Xray unit grid",
+    "reviewed_source_ids": [
+      "unicomp_2025"
+    ],
+    "notes": "Original physical pp8,48-50 independently checked; company revenue, attributable profit, OCF and printed growth; IC/electronics revenue/cost/margin and printed changes; all-sector equipment production/sales/inventory and growth. Inventory closing date inferred from annual table context. Gross margin reconciles to printed precision. Supplement physical pp9/33/38/75 adds original-verified R&D investment, ratios and printed changes, total parent/major-subsidiary employees, and disclosure-context cumulative customer lower bound. Printed slash cells stay missing. R&D total reconciles exactly; capitalization ratio rounds to printed precision.",
+    "next_action": "Bounded annual-report sweep dispositioned. Prioritize remaining HBM equipment gaps; reopen only for a specific located claim or a new original."
+  },
+  {
+    "coverage_id": "unicomp_h126_installed_base",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "installed base",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "reviewed_not_found after full original search. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_cumulative_shipments",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "reviewed_not_found for X-ray/CT/acoustic/FA systems. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_annual_product_units",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "annual product units",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "reviewed_not_found: H1 has no production/sales/inventory 台 grid for X-ray or semiconductor equipment. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_named_xray_ct",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "named xray ct",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "online 3D/CT electronics-delivery and advanced-packaging X-ray/CT validation families repeat; latter adds positive static-test/image feedback, no acceptance. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_acoustic",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "acoustic",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "超微量测 investee whole tool in R&D validation; p20 C-SAM HBM is industry context; no Unicomp-owned acoustic qualification. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_ssti_failure_analysis",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "ssti failure analysis",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "Singapore SSTI controlled grandson acquired Jan 2026; PEM/LTP/SOM/THM whole-equipment basket, customer N3E/N3B use, broad repeat orders; domestic JV manufacturing planned only. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_orders_backlog",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "SSTI broad repeat/order breakthroughs p28, no quantity/value or modality allocation; advanced-packaging X-ray/CT validation not order; unrelated PCB/liquid-cooling/optical-module orders excluded. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_customers",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "advanced-packaging X-ray/CT validation customers unnamed; SSTI unnamed foundry/memory leader/technology giant; 4000+ count mixed group. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_qualification",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "qualification",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "advanced-packaging X-ray/CT static/image feedback but still validation; SSTI broad N3E/N3B customer use; no HBM-specific qualification. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_vendor_capacity",
+    "entity_id": "unicomp",
+    "status": "reviewed_not_found",
+    "scope": "vendor capacity",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "reviewed_not_found semiconductor-specific current capacity; domestic SSTI JV scale-up future only. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_nodes",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "nodes",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "SSTI broad FA equipment N3E/N3B actual customer use; p20 generic 3nm/0.15μm industry discussion not Unicomp X-ray model. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_hbm_tsv_bond_void",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "hbm tsv bond void",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "FY2025 advanced packaging TSV/void targets repeated p26; HBM p37 R&D goal and p20 industry C-SAM example, no shipped/qualified HBM equipment. Source-specific full-file sweep; root checked ten exact excerpt/page bindings, relevant original passages and rendered pp24–26,28,31,37,49.",
+    "next_action": "Operational source sweep dispositioned. Preserve disclosure limits; no inferred equipment count, industry allocation or HBM qualification."
+  },
+  {
+    "coverage_id": "unicomp_h126_key_financials",
+    "entity_id": "unicomp",
+    "status": "reviewed_found",
+    "scope": "H1 2026/2025 company headline and R&D; H1 2026 selected inspection and subsidiary revenue",
+    "reviewed_source_ids": [
+      "unicomp_h1_2026"
+    ],
+    "notes": "Original pp7,36,51,233 checked. Preserves current/prior headline and source-printed changes, expensed vs total R&D, mixed IC/electronics equipment scope and acquired SSTI subsidiary perimeter. No constant-perimeter growth, HBM allocation or parent/subsidiary addition.",
+    "next_action": "Bounded interim baseline complete. Prioritize remaining HBM operational gaps rather than further financial depth."
+  }
+]

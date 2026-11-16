@@ -1,0 +1,246 @@
+[
+  {
+    "platform_id": "liandong_qt9800",
+    "entity_id": "liandong",
+    "name": "QT-9800 系列",
+    "category_id": "test",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "QT-9800 系列"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P17-QT9800-FIRST-ORDER",
+      "source_id": "liandong_h1_2026",
+      "page": 17,
+      "excerpt": "目前，QT-9800 的首个销售订单正式达成并已经顺利交付出货，成功落地国内头部车企，全面应用于车规级 SoC 芯片量产测试环节。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "first_order_delivered_for_automotive_soc",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "Large-scale digital SoC tester for CPU, GPU, DPU, FPGA and ASIC (H1 p13). One first order, one automotive customer, unnamed. No unit count. Not memory, not HBM."
+  },
+  {
+    "platform_id": "liandong_qt9800exa",
+    "entity_id": "liandong",
+    "name": "QT-9800EXA",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "aliases": [
+      "QT-9800EXA"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P10-QT9800EXA",
+      "source_id": "liandong_h1_2026",
+      "page": 10,
+      "excerpt": "面向系统级芯片测试需求，公司推出 QT-9800 系列高性能集成电路测试设备，并发布面向人工智能系统级芯片（AI SoC）的新一代产品——“液冷数字 AI SoC 测试机 QT-9800EXA”",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "customer_validation_not_yet_mass_production",
+    "maturity_as_reported_in": "liandong_ir_20261028",
+    "notes": "Liquid-cooled AI SoC tester. Overlaps the QT-9800 series. Strategic cooperation with 天数智芯 on GPU verification. Validation, not volume: 目前产品尚未量产. Pricing benchmarked to overseas leaders, no price printed. Not a memory tester.",
+    "maturity_history": [
+      {
+        "claim_id": "LD-IR0721-P1-EXA",
+        "source_id": "liandong_ir_20260721",
+        "page": 1,
+        "excerpt": "公司将加大市场推广和应用开发，积极推动该产品的客户验证和量产导入。",
+        "as_of": "2026-07-21",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "pushing_customer_validation_and_production_introduction",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Stated at a site visit on 2026-07-21."
+      },
+      {
+        "claim_id": "LD-IR0827-P2-EXA",
+        "source_id": "liandong_ir_20260827",
+        "page": 2,
+        "excerpt": "目前，公司已经与天数智芯达成战略合作，双方正围绕GPU算力芯片及测试技术领域展开协同工作，共同推进量产验证流程、良率调试以及效率提升等关键环节的配合工作，整体进展符合预期。",
+        "as_of": "2026-08-27",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "volume_validation_workflow_with_named_customer",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "The question asks about the 9800 SoC tester generally; the cooperation is GPU-focused."
+      },
+      {
+        "claim_id": "LD-IR1028-P2-EXA",
+        "source_id": "liandong_ir_20261028",
+        "page": 2,
+        "excerpt": "目前产品尚未量产，预计待产品正式量产后，将会对公司经营业绩产生积极贡献。",
+        "as_of": "2026-10-28",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "not_yet_mass_production",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "The answer is about AI SoC testers. The company also says it has reserved capacity and key parts ahead for its 2027 plan."
+      }
+    ]
+  },
+  {
+    "platform_id": "liandong_qt4000_3000",
+    "entity_id": "liandong",
+    "name": "QT-4000/3000 系列",
+    "category_id": "test",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "QT-4000/3000 系列"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P10-QT4000",
+      "source_id": "liandong_h1_2026",
+      "page": 10,
+      "excerpt": "其中 QT-4000 系列功率器件综合测试平台于今年顺利通过深圳平湖实验室中试验证，6kV 高压测试性能全面达标，并支持扩展至 8kV，各项指标均满足 SiC 晶圆 CP 测试的技术标准与工艺要求，为第三代半导体测试设备国产化筑牢了关键一环。目前，该系统已在多家国内外头部大厂实现大规模量产应用。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product_family_with_qt4000_mass_production_application",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "The grouped name QT-4000/3000 系列 is printed in the H1 p11 power-semiconductor product table. The H1 p10 pilot-verification and large-scale production-application statement explicitly concerns QT-4000 only; no corresponding QT-3000 maturity is established by that paragraph. Retain the combined catalogue identity without carrying QT-4000 maturity across both families. Power-device testing, not memory."
+  },
+  {
+    "platform_id": "liandong_qt4100",
+    "entity_id": "liandong",
+    "name": "QT-4100",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "aliases": [
+      "QT-4100"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P17-QT4100",
+      "source_id": "liandong_h1_2026",
+      "page": 17,
+      "excerpt": "QT-4100 功率器件测试系统顺利通过深圳平湖实验室中试验证",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "pilot_verification_passed",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "The p10 passage names the QT-4000 series for the same verification, so QT-4100 appears to be the model within that series. Overlaps it."
+  },
+  {
+    "platform_id": "liandong_qt8404d",
+    "entity_id": "liandong",
+    "name": "QT-8404D",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "aliases": [
+      "QT-8404D"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P17-QT8404D",
+      "source_id": "liandong_h1_2026",
+      "page": 17,
+      "excerpt": "重点推出超低杂散 SiC KGD 测试系统—QT-8404D 高速功率器件测试系统，为车载 SiC 模块实现提速、降本、提质三重价值。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_launched_product",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "SiC known-good-die test. KGD here means power dies for automotive modules. It is not memory KGD and must not be read as a stack-test capability."
+  },
+  {
+    "platform_id": "liandong_qt8400",
+    "entity_id": "liandong",
+    "name": "QT-8400 系列",
+    "category_id": "test",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "QT-8400 系列"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P10-QT8400",
+      "source_id": "liandong_h1_2026",
+      "page": 10,
+      "excerpt": "QT-8400 系列主要面向 IGBT 及第三代半导体碳化硅、氮化镓功率器件与晶圆测试，并支持车规类碳化硅 KGD 及功率模块全性能测试，适配电动汽车、新能源等领域不断增长的测试需求。该平台已完成下游客户认证并实现批量销售",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "customer_certified_batch_sales",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "Power and third-generation semiconductor tester. Not memory."
+  },
+  {
+    "platform_id": "liandong_qt6000",
+    "entity_id": "liandong",
+    "name": "QT-6000 系列",
+    "category_id": "test",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "QT-6000 系列"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P10-QT6000",
+      "source_id": "liandong_h1_2026",
+      "page": 10,
+      "excerpt": "QT-6000 系列面向小信号分立器件高速测试，为国内较早实现自主研发与产业化的产品之一，可支持多工位并行测试，测试效率较高。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "Small-signal discrete tester, 1.2KV/30A and below (H1 p12)."
+  },
+  {
+    "platform_id": "liandong_qt8100_8200_8600",
+    "entity_id": "liandong",
+    "name": "QT-8100/8200/8600 系列",
+    "category_id": "test",
+    "record_kind": "named_series_family",
+    "aliases": [
+      "QT-8100 系列",
+      "QT-8200 系列",
+      "QT-8600 系列"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P12-QT8000",
+      "source_id": "liandong_h1_2026",
+      "page": 12,
+      "excerpt": "模拟及数模混合集成电路测试系统；QT-8100 系列、QT-8200 系列、QT-8600 系列；主要应用于电源管理、音频、LED 驱动等模拟及数模混合集成电路芯片、晶圆测试及射频测试",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "Analog and mixed-signal family. H1 p10 calls the group QT-8000 and says its customer base and installed scale are growing, with no figure."
+  },
+  {
+    "platform_id": "liandong_wafer_prober",
+    "entity_id": "liandong",
+    "name": "自研探针台",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_product",
+    "aliases": [
+      "自研探针台"
+    ],
+    "evidence": {
+      "claim_id": "LD-H12026-P14-PROBER",
+      "source_id": "liandong_h1_2026",
+      "page": 14,
+      "excerpt": "公司自研探针台已投放市场，可与自有测试系统组成 CP 测试整体解决方案。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "launched_to_market",
+    "maturity_as_reported_in": "liandong_h1_2026",
+    "notes": "Issuer's own prober, 6/8/12 inch for Si and SiC discrete, power, IC, RF and optical chip wafers (H1 p13). No model name, unit count or revenue; sits inside the marking and other equipment basket. No memory claim. Possibly tied to subsidiary 佛山芯测, which has some orders and no profit yet (H1 p27), though the filing does not say so."
+  }
+]

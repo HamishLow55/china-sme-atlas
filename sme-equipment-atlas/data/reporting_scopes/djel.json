@@ -1,0 +1,122 @@
+[
+  {
+    "reporting_scope_id": "djel_measurement_inspection_equipment",
+    "category_id": "multi_equipment",
+    "label": "Dongfang Jingyuan integrated-circuit measurement and inspection equipment",
+    "definition": "Issuer-reported 集成电路量检测设备 hardware scope, covering CD-SEM, EBI and DR-SEM revenue where recognized; HV-SEM had no reported revenue in the reviewed periods."
+  },
+  {
+    "reporting_scope_id": "djel_cdsem_12inch",
+    "category_id": "metrology_cd_sem",
+    "label": "Dongfang Jingyuan 12-inch CD-SEM",
+    "definition": "Issuer-reported 12吋 CD-SEM recognized revenue; distinct from 8-inch CD-SEM."
+  },
+  {
+    "reporting_scope_id": "djel_cdsem_8inch",
+    "category_id": "metrology_cd_sem",
+    "label": "Dongfang Jingyuan 8-inch CD-SEM",
+    "definition": "Issuer-reported 8吋 CD-SEM recognized revenue; distinct from 12-inch CD-SEM."
+  },
+  {
+    "reporting_scope_id": "djel_cdsem_all",
+    "category_id": "metrology_cd_sem",
+    "label": "Dongfang Jingyuan all CD-SEM",
+    "definition": "Combined CD-SEM scope in the production/sales table; the filing does not split physical units between 8-inch and 12-inch."
+  },
+  {
+    "reporting_scope_id": "djel_ebi",
+    "category_id": "inspection_ebeam",
+    "label": "Dongfang Jingyuan EBI",
+    "definition": "Issuer-reported electron-beam defect inspection equipment."
+  },
+  {
+    "reporting_scope_id": "djel_drsem",
+    "category_id": "inspection_review_sem",
+    "label": "Dongfang Jingyuan DR-SEM",
+    "definition": "Issuer-reported electron-beam defect review SEM equipment."
+  },
+  {
+    "reporting_scope_id": "djel_hvsem",
+    "category_id": "metrology",
+    "label": "Dongfang Jingyuan HV-SEM",
+    "definition": "Issuer-reported high-energy electron-beam dimensional and overlay metrology equipment; kept separate from CD-SEM, EBI and DR-SEM."
+  },
+  {
+    "reporting_scope_id": "djel_main_business",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan main-business revenue",
+    "definition": "Issuer source-defined 主营业务收入, including measurement/inspection equipment, manufacturing EDA software, technical development services, and spare-parts/maintenance service. Distinct from 营业收入合计 and from measurement/inspection equipment revenue."
+  },
+  {
+    "reporting_scope_id": "djel_cdsem_combined_revenue",
+    "category_id": "metrology_cd_sem",
+    "label": "Dongfang Jingyuan combined CD-SEM recognized revenue",
+    "definition": "Issuer CD-SEM revenue from 8-inch and 12-inch products combined in the main-business product mix. This revenue perimeter is not the physical CD-SEM unit table or a distinct equipment model."
+  },
+  {
+    "reporting_scope_id": "djel_selected_material_equipment_contracts",
+    "category_id": "multi_equipment",
+    "label": "Selected material IC measurement/inspection equipment contracts",
+    "definition": "Equipment-only rows of the material sales contracts/orders table in djel_ipo_2026 physical pp356–357. Source selection threshold is 单笔合同金额在3,000万元以上. Exact customer row identified by business_mix dimension and original excerpt. Includes completed and ongoing historical contracts and grouped signing dates; not all orders, backlog, model allocation, software or annual revenue."
+  },
+  {
+    "reporting_scope_id": "djel_manufacturing_eda_software",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 制造类 EDA 软件",
+    "definition": "Issuer 主营业务收入 line 制造类 EDA 软件: manufacturing-class EDA software licensed to fabs and IDMs, comprising 计算光刻软件 and 非计算光刻软件. Software, not equipment; it carries no production or sales unit counts because the issuer states 公司仅集成电路量检测设备存在产量及销量."
+  },
+  {
+    "reporting_scope_id": "djel_computational_lithography_software",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 计算光刻软件",
+    "definition": "Issuer sub-line 计算光刻软件: the PanGen computational-lithography suite (OPC/mask optimisation plus source-mask co-optimisation, multi-patterning decomposition, design and lithography rule checks). Software revenue only."
+  },
+  {
+    "reporting_scope_id": "djel_non_computational_lithography_software",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 非计算光刻软件",
+    "definition": "Issuer sub-line 非计算光刻软件: the remainder of 制造类 EDA 软件, covering 光刻机良率提升软件, PanGen Sim, YieldBook, DMC, PHD and vPWQ. Software revenue only."
+  },
+  {
+    "reporting_scope_id": "djel_technical_development_services",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 技术开发服务",
+    "definition": "Issuer 主营业务收入 line 技术开发服务: electron-optics and computational-lithography technical development services. A service line, not equipment."
+  },
+  {
+    "reporting_scope_id": "djel_spare_parts_and_maintenance_services",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 备件销售和运维服务",
+    "definition": "Issuer 主营业务收入 line 备件销售和运维服务: sale of wear parts for already-installed tools and post-warranty maintenance contracts. Aftermarket revenue, not equipment revenue."
+  },
+  {
+    "reporting_scope_id": "djel_customer_sales_equipment_only",
+    "category_id": "multi_equipment",
+    "label": "Dongfang Jingyuan top-five customer rows, equipment content only",
+    "definition": "Rows of the 前五大客户 table (physical pp177-178) whose 销售内容 column names 集成电路量检测设备 alone. Equipment revenue from one named customer in one period, not resolved to CD-SEM, EBI, DR-SEM or HV-SEM."
+  },
+  {
+    "reporting_scope_id": "djel_customer_sales_software_only",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan top-five customer rows, software content only",
+    "definition": "Rows of the 前五大客户 table whose 销售内容 column names 制造类 EDA 软件 alone. Software revenue from one named customer; filed at all_businesses so it cannot be read as equipment revenue."
+  },
+  {
+    "reporting_scope_id": "djel_customer_sales_mixed",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan top-five customer rows, mixed content",
+    "definition": "Rows of the 前五大客户 table whose 销售内容 column names more than one business (equipment plus software, or equipment plus spare parts). The filing prints no split, so the amount stays at all_businesses and is not equipment revenue."
+  },
+  {
+    "reporting_scope_id": "djel_sepa_c505_model",
+    "category_id": "metrology_cd_sem",
+    "label": "Dongfang Jingyuan SEpA-c505",
+    "definition": "Named latest-generation CD-SEM model SEpA-c505, the subject of the issuer's competitor-comparison table on physical p169. Model capability only; no revenue or unit allocation is made to this model."
+  },
+  {
+    "reporting_scope_id": "djel_main_business_region_table",
+    "category_id": "all_businesses",
+    "label": "Dongfang Jingyuan 主营业务收入 by region table",
+    "definition": "Issuer source-native 『分地区主营业务收入构成分析』 table (IPO prospectus, FY2023-FY2025): main-business revenue by Chinese macro-region (华东地区/北方地区/华中地区/华南地区/西南地区). Heading explicitly reads 『公司主营业务收入按地区列示如下』, confirming MAIN-BUSINESS basis directly rather than by residual test. The filing separately states all main-business revenue in the reporting period derives from customers registered within mainland China (报告期内，公司主营业务收入均来源于中国境内客户); there is no overseas/outside-mainland counterpart row in this table. The table prints 金额 and 占比 only; no cost or margin cells are given by region. A dash in a cell for a given year means the source prints no figure for that region that year, not a zero, and no observation is registered for it."
+  }
+]

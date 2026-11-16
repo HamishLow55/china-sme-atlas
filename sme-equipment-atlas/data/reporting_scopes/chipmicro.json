@@ -1,0 +1,140 @@
+[
+  {
+    "reporting_scope_id": "chipmicro_pcb_series",
+    "category_id": "lithography_direct_imaging_pcb",
+    "label": "CFMEE PCB 系列 product line",
+    "definition": "Issuer FY2025 product-table line 「PCB 系列」. As the issuer defines the PCB 直接成像设备 product type (p15-16) this basket contains the MAS, RTR, NEX and FAST direct-imaging exposure families, the DILINE automated DI lines, AND the MUD/MCD CO2/UV laser blind-via drilling tools. It is therefore NOT a pure exposure-tool figure and must not be read as one. Printed-circuit and flexible-circuit equipment; no semiconductor wafer content."
+  },
+  {
+    "reporting_scope_id": "chipmicro_pan_semiconductor_series",
+    "category_id": "lithography",
+    "label": "CFMEE 泛半导体系列 product line",
+    "definition": "Issuer FY2025 product-table line 「泛半导体系列」 = 泛半导体直写光刻设备. Spans several lithography sub-nodes and is NOT allocable among them: LDW 350/500 mask-plate writing, WLP 2000/2000P wafer-level advanced-packaging exposure, PLP 3000/4000 panel-level packaging exposure, MLF 06/08/15 power-device and MEMS direct-write, MLC Lite/600, the DG250-TE G8.5 display edge-exposure/coding tool, and the IC-substrate MAS 4/6/6P/8/10 and NEX 30/40 families. Packaging-lithography content is a part of this basket, not the whole."
+  },
+  {
+    "reporting_scope_id": "chipmicro_leasing_and_other",
+    "category_id": "all_businesses",
+    "label": "CFMEE 租赁及其他 product line",
+    "definition": "Issuer FY2025 residual product line 「租赁及其他」: equipment leasing fees plus other main-business items. Not an equipment-sales figure."
+  },
+  {
+    "reporting_scope_id": "chipmicro_special_equipment_manufacturing_industry",
+    "category_id": "all_businesses",
+    "label": "CFMEE 专用设备制造行业 main-business row",
+    "definition": "Issuer FY2025 主营业务分行业 table single row (specialised equipment manufacturing). Main-business perimeter only; it excludes 其他业务 and is therefore smaller than total revenue."
+  },
+  {
+    "reporting_scope_id": "chipmicro_domestic_main_business",
+    "category_id": "all_businesses",
+    "label": "CFMEE 内销 main business",
+    "definition": "Issuer FY2025 主营业务分地区 row 「内销」. Mainland domestic sales; complementary to 外销(含港澳台地区), not to a separate overseas-only figure."
+  },
+  {
+    "reporting_scope_id": "chipmicro_export_including_hmt_main_business",
+    "category_id": "all_businesses",
+    "label": "CFMEE 外销(含港澳台地区) main business",
+    "definition": "Issuer FY2025 主营业务分地区 row 「外销（含港澳台地区）」. Exports plus Hong Kong, Macau and Taiwan; not a foreign-country-only figure."
+  },
+  {
+    "reporting_scope_id": "chipmicro_direct_sales_main_business",
+    "category_id": "all_businesses",
+    "label": "CFMEE 直销 main business",
+    "definition": "Issuer FY2025 主营业务分销售模式 row 「直销」."
+  },
+  {
+    "reporting_scope_id": "chipmicro_distributor_main_business",
+    "category_id": "all_businesses",
+    "label": "CFMEE 经销 main business",
+    "definition": "Issuer FY2025 主营业务分销售模式 row 「经销」 (distributor/agent sales)."
+  },
+  {
+    "reporting_scope_id": "chipmicro_annual_company_disclosures",
+    "category_id": "all_businesses",
+    "label": "CFMEE annual company-level disclosures",
+    "definition": "Company-wide consolidated FY2025 disclosures: revenue, profit, R&D investment, the mandatory top-five customer and supplier concentration tables, workforce table and intellectual-property table. All businesses, not equipment-only."
+  },
+  {
+    "reporting_scope_id": "chipmicro_ip_invention_patents",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 IP table row 发明专利",
+    "definition": "Row of the issuer FY2025 报告期内获得的知识产权列表 (p35). Application and grant columns are separate populations; the table total is the sum of its class rows and is not additive with them. The issuer notes 12 patents lapsed in the period, so the cumulative grant total is stated on a maintained-rights basis."
+  },
+  {
+    "reporting_scope_id": "chipmicro_ip_utility_model_patents",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 IP table row 实用新型专利",
+    "definition": "Row of the issuer FY2025 报告期内获得的知识产权列表 (p35). Application and grant columns are separate populations; the table total is the sum of its class rows and is not additive with them. The issuer notes 12 patents lapsed in the period, so the cumulative grant total is stated on a maintained-rights basis."
+  },
+  {
+    "reporting_scope_id": "chipmicro_ip_design_patents",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 IP table row 外观设计专利",
+    "definition": "Row of the issuer FY2025 报告期内获得的知识产权列表 (p35). Application and grant columns are separate populations; the table total is the sum of its class rows and is not additive with them. The issuer notes 12 patents lapsed in the period, so the cumulative grant total is stated on a maintained-rights basis."
+  },
+  {
+    "reporting_scope_id": "chipmicro_ip_software_copyrights",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 IP table row 软件著作权",
+    "definition": "Row of the issuer FY2025 报告期内获得的知识产权列表 (p35). Application and grant columns are separate populations; the table total is the sum of its class rows and is not additive with them. The issuer notes 12 patents lapsed in the period, so the cumulative grant total is stated on a maintained-rights basis."
+  },
+  {
+    "reporting_scope_id": "chipmicro_ip_table_total",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 IP table row 合计",
+    "definition": "Row of the issuer FY2025 报告期内获得的知识产权列表 (p35). Application and grant columns are separate populations; the table total is the sum of its class rows and is not additive with them. The issuer notes 12 patents lapsed in the period, so the cumulative grant total is stated on a maintained-rights basis."
+  },
+  {
+    "reporting_scope_id": "chipmicro_rd_personnel",
+    "category_id": "all_businesses",
+    "label": "CFMEE FY2025 研发人员情况 table",
+    "definition": "Issuer FY2025 研发人员情况 table (p39). 研发人员 here is not the same cohort as 技术人员 in the 员工情况 table, although both read 281 in FY2025."
+  },
+  {
+    "reporting_scope_id": "chipmicro_mas_6p_ic_substrate_ldi",
+    "category_id": "lithography_direct_imaging_pcb",
+    "label": "CFMEE MAS 6P IC-substrate LDI tool",
+    "definition": "Named MAS 6P direct-imaging exposure tool for ICS package substrates and high-order HDI (including mSAP). The issuer reports acceptance and volume production at a leading substrate customer during FY2025 plus repeat batch orders."
+  },
+  {
+    "reporting_scope_id": "chipmicro_note61_main_business",
+    "label": "主营业务",
+    "category_id": "all_businesses",
+    "definition": "Main-business revenue from the H1 2026 financial-statement note 61 (主营业务 row). One reported segment, 激光直写成像设备; other-business revenue is outside this perimeter.",
+    "entity_id": "chipmicro"
+  },
+  {
+    "reporting_scope_id": "chipmicro_note61_domestic_main_business",
+    "label": "按经营地区分类 境内",
+    "category_id": "all_businesses",
+    "definition": "Row 境内 of the H1 2026 note 61 revenue disaggregation (p177). Partitions main-business revenue with 境外. Kept apart from chipmicro_domestic_main_business because that scope is the FY2025 内销 row.",
+    "entity_id": "chipmicro"
+  },
+  {
+    "reporting_scope_id": "chipmicro_note61_overseas_main_business",
+    "label": "按经营地区分类 境外",
+    "category_id": "all_businesses",
+    "definition": "Row 境外 of the H1 2026 note 61 revenue disaggregation (p177). The note does not say whether Hong Kong, Macau and Taiwan sit here, so it is not equated with the FY2025 外销（含港澳台地区） scope.",
+    "entity_id": "chipmicro"
+  },
+  {
+    "reporting_scope_id": "chipmicro_microscale_packaging_direct_write_rd_project",
+    "label": "微米级封装直写光刻研制及产业化",
+    "category_id": "lithography_packaging",
+    "definition": "Row 3 of the H1 2026 在研项目情况 table. Development project for packaging direct-write lithography; the technical column names 12 英寸晶圆 and 310mm×310mm panels and process work for FOWLP, 2.5D/3D and CoWoS. One R&D project, not a product revenue line.",
+    "entity_id": "chipmicro"
+  },
+  {
+    "reporting_scope_id": "chipmicro_8kk_packaging_substrate_rd_project",
+    "label": "8KK 直写技术在封装基板上的应用研究",
+    "category_id": "lithography_direct_imaging_pcb",
+    "definition": "Row 2 of the H1 2026 在研项目情况 table. Package-substrate direct-imaging development using an 8KK DMD. Application column reads PCB 行业. One R&D project, not a product revenue line.",
+    "entity_id": "chipmicro"
+  },
+  {
+    "reporting_scope_id": "chipmicro_wlp_2000_specifications",
+    "label": "WLP 2000",
+    "category_id": "lithography_packaging",
+    "definition": "Published specification of the WLP 2000 wafer-level direct-write lithography tool (H1 2026 p24). Not WLP 2000P, and not a process node or production result.",
+    "entity_id": "chipmicro"
+  }
+]

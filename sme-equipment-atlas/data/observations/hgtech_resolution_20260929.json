@@ -1,0 +1,92 @@
+[
+  {
+    "observation_id": "W4-HG-PICOSECOND-DICER-UPH",
+    "dataset_id": "hgtech_disclosures",
+    "source_id": "hgtech_picosecond_dicing_product_20260924",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "hgtech_picosecond_laser_wafer_dicing_equipment_family",
+    "metric_id": "reported_tool_wafer_throughput",
+    "platform_id": "hgtech_uv_picosecond_wafer_dicing_family",
+    "value": "10",
+    "relation": "ge",
+    "unit": "wafer_per_hour",
+    "period": {
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hgtech_picosecond_dicing_product_20260924"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "皮秒激光划片设备 产品优势 加工效率高 UPH≥10",
+      "excerpt": "产品优势 ｜ 加工效率高 ｜ UPH≥10 （紫外振镜：以3英寸双台面硅二极管晶圆为例，含自动对位时间）",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "10",
+      "reported_unit": "wafer_per_hour"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported_lower_bound",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Vendor product page for HG Laser's 皮秒激光划片设备 (models LUD3200 / LUD3210), described as 采用紫外皮秒激光器，针对硅和化合物半导体晶圆进行精密半切或全切 — unambiguous wafer dicing, so dicing_laser. The source writes UPH (units per hour) and states the reference workpiece as a 3英寸双台面硅二极管晶圆 including auto-alignment time, so the unit is wafers per hour on that stated 3-inch example and must not be read as a throughput for any other wafer size. A lower bound (≥), preserved as relation ge. Locator 1 is this single archived HTML document, not a PDF page. The page carries no publication date, so the period is collapsed to the 2026-09-24 archive date, which is the only date the atlas can attest; it is not a disclosure period."
+  },
+  {
+    "observation_id": "W4-HG-GEN2-WAFER-DICER-EFFICIENCY",
+    "dataset_id": "hgtech_disclosures",
+    "source_id": "hgtech_wafer_cutting_news_20250207",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "hgtech_second_generation_wafer_laser_dicing_equipment",
+    "metric_id": "reported_tool_mechanical_capacity_relative_gain",
+    "platform_id": "hgtech_high_end_wafer_laser_cutting_family",
+    "value": "20",
+    "relation": "eq",
+    "unit": "percent",
+    "period": {
+      "start": "2024-07-01",
+      "end": "2024-09-30",
+      "kind": "quarter",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hgtech_wafer_cutting_news_20250207"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "第二代国产化高端晶圆激光切割设备 整体效率提升了 20%",
+      "excerpt": "2024年三季度，华工科技在第一代高端晶圆激光切割装备的基础上再次升级，推出了第二代国产化高端晶圆激光切割设备。该设备重点针对软件自动化运行进行了技术改进与升级，通过企业自研的半导体切割软件与算法，使其整体效率提升了20%。",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "20",
+      "reported_unit": "percent"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer-stated design gain of HG Laser's second-generation 高端晶圆激光切割装备 against its own first generation, the baseline the source names. It is a product-design efficiency gain attributed to self-developed semiconductor dicing software and algorithms, not measured customer output and not factory capacity. The source dates the second-generation launch to 2024 Q3, which is the period used; the document itself was published 2025-02-07. Locator 1 is this single archived HTML document, not a PDF page. The neighbouring claim 切割效率较传统刀轮切割提高 5 倍 is held: its baseline is a competing technology, not the tool's own design baseline, and the metric's unit vocabulary is percent only."
+  }
+]

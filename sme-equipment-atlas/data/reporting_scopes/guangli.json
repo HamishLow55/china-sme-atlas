@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "guangli_semiconductor_packaging_equipment_business",
+    "label": "半导体封测装备制造业务",
+    "category_id": "multi_equipment",
+    "definition": "Source-reported GL Tech 半导体封测装备制造业务. The business portfolio includes mechanical/laser dicing, grinding and consumables/components, but the physical 台（套） table does not identify the composition of its counted population. Do not assert that components are counted, or allocate units to models, dicing-only, HBM-only or domestically manufactured equipment. Consolidated business includes overseas operations."
+  },
+  {
+    "reporting_scope_id": "guangli_semiconductor_packaging_equipment_products",
+    "category_id": "multi_equipment",
+    "label": "半导体封测装备类产品",
+    "definition": "GL Tech source-defined semiconductor packaging/test equipment product basket. Filing definition includes high-end processing equipment, core air spindles and blades; this is not equipment-only or dicing-only revenue. Overlaps semiconductor manufacturing business industry row but has a different reported boundary. Consolidated domestic and overseas operations, not a domestic-technology series."
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "reporting_scope_id": "yadian_silicon_semiconductor_wet_cleaning_equipment",
+    "category_id": "cleaning",
+    "label": "Yadian 硅基半导体湿法清洗设备 product line",
+    "definition": "Issuer product line 硅基半导体湿法清洗设备 for silicon-based wafer fabs. It contains BOTH batch (槽式) and single-wafer (单片式) cleaners — the issuer states the silicon line is divided into those two classes, batch mainly at 40 nm and above and single-wafer mainly below 40 nm — so the revenue, unit and price figures cannot be allocated between cleaning_batch and cleaning_single_wafer. Process coverage spans FEOL, BEOL, back-end packaging, wafer preparation and wafer reclaim; 8-inch and 12-inch."
+  },
+  {
+    "reporting_scope_id": "yadian_compound_semiconductor_wet_cleaning_equipment",
+    "category_id": "cleaning",
+    "label": "Yadian 化合物半导体湿法清洗设备 product line",
+    "definition": "Issuer product line 化合物半导体湿法清洗设备 for SiC, GaN and GaAs wafers at 6 inch and 8 inch. The issuer states the main tools in this line are MAINLY batch (主要为槽式湿法清洗设备) and every named tool in the compound product table is a bath tool, but the hedge 主要为 stops the revenue basket from being filed as cleaning_batch without over-claiming."
+  },
+  {
+    "reporting_scope_id": "yadian_photovoltaic_wet_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Yadian 光伏湿法设备 product line",
+    "definition": "Issuer product line 光伏湿法设备 for photovoltaic cell manufacturing (TOPCon and BC routes): batch (槽式) and inline/chain (链式) texturing, polishing, etching and film-removal tools. Photovoltaic equipment, NOT semiconductor equipment; it is the largest single revenue line in 2025 H1."
+  },
+  {
+    "reporting_scope_id": "yadian_wet_cleaning_equipment_total",
+    "category_id": "cleaning",
+    "label": "Yadian 湿法清洗专用设备 subtotal",
+    "definition": "Issuer subtotal 湿法清洗专用设备 = silicon-based + compound-semiconductor + photovoltaic wet equipment. Despite the label this subtotal INCLUDES photovoltaic wet-process equipment, so it is not a semiconductor-cleaning-only figure."
+  },
+  {
+    "reporting_scope_id": "yadian_supporting_products_and_services",
+    "category_id": "all_businesses",
+    "label": "Yadian 配套产品及服务 line",
+    "definition": "Issuer residual line 配套产品及服务: ancillary tools (wafer-carrier cleaners, furnace-tube cleaners), spare parts, repair and upgrade services, and, in FY2022 only, fab facility engineering work which the issuer exited from 2023."
+  },
+  {
+    "reporting_scope_id": "yadian_main_business",
+    "category_id": "all_businesses",
+    "label": "Yadian 主营业务 total",
+    "definition": "Issuer main-business total; smaller than total operating revenue, which also contains 其他业务收入."
+  },
+  {
+    "reporting_scope_id": "yadian_consolidated_company",
+    "category_id": "all_businesses",
+    "label": "Yadian consolidated company",
+    "definition": "Company-wide consolidated figures from the prospectus summary financial table and the employee and intellectual-property sections."
+  },
+  {
+    "reporting_scope_id": "yadian_nitride_strip_batch_cleaner",
+    "category_id": "cleaning_batch",
+    "label": "Yadian 去氮化物设备 (hot-phosphoric batch cleaner)",
+    "definition": "Named 去氮化物设备 / 高温磷酸设备, a BATCH-ONLY (槽式) tool in the issuer's silicon-based product table, 8-inch and 12-inch, using hot phosphoric acid to strip nitride. The issuer claims first domestic volume production of an 8-inch hot-phosphoric batch wet cleaner."
+  },
+  {
+    "reporting_scope_id": "yadian_organic_clean_compound_batch_cleaner",
+    "category_id": "cleaning_batch",
+    "label": "Yadian 有机清洗设备 (compound-semiconductor batch cleaner)",
+    "definition": "Named 有机清洗设备 in the issuer's compound-semiconductor table: a bath tool with stainless-steel body, agitation and megasonic units and an automatic dispatch function, for post-metallisation resist strip on SiC, GaAs and GaN wafers at 6 inch and 8 inch."
+  },
+  {
+    "reporting_scope_id": "yadian_rca_clean_equipment",
+    "category_id": "cleaning",
+    "label": "Yadian RCA 清洗设备 (silicon line)",
+    "definition": "Named RCA 清洗设备 in the issuer's silicon-based product table, available in BOTH batch and single-wafer configurations at 8 inch and 12 inch, using SC1/SC2/DHF chemistry for FEOL."
+  },
+  {
+    "reporting_scope_id": "yadian_metal_remove_equipment",
+    "category_id": "cleaning",
+    "label": "Yadian 去金属设备 (silicon line)",
+    "definition": "Named 去金属设备 in the issuer's silicon-based product table, available in BOTH batch and single-wafer configurations at 8 inch and 12 inch, for Al/Cu/Ti/Pt/Ni removal and monitor-wafer reclaim."
+  },
+  {
+    "reporting_scope_id": "yadian_topcon_batch_pv_wet_equipment",
+    "category_id": "multi_equipment",
+    "label": "Yadian TOPCon 电池槽式湿法设备",
+    "definition": "Named TOPCon cell batch wet tool for texturing, alkaline polishing and de-wraparound-plating steps. Photovoltaic equipment; throughput is stated in silicon cells per hour, not wafers."
+  },
+  {
+    "reporting_scope_id": "yadian_bc_batch_pv_wet_equipment",
+    "category_id": "multi_equipment",
+    "label": "Yadian BC 电池槽式湿法设备",
+    "definition": "Named BC (back-contact) cell batch wet tool with a redesigned bath, benchmarked by the issuer against a market-common six-basket tool. Photovoltaic equipment."
+  },
+  {
+    "reporting_scope_id": "yadian_rd_personnel",
+    "category_id": "all_businesses",
+    "label": "Yadian R&D personnel",
+    "definition": "Issuer R&D headcount and share of total employees; the STAR-Market attribute table states the share as of 2024-12-31 while the employee table gives the 2025-06-30 headcount."
+  },
+  {
+    "reporting_scope_id": "yadian_ip_patents_total",
+    "category_id": "all_businesses",
+    "label": "Yadian granted patents total",
+    "definition": "Issuer count of granted patents as of 2025-06-30."
+  },
+  {
+    "reporting_scope_id": "yadian_ip_invention_patents",
+    "category_id": "all_businesses",
+    "label": "Yadian invention patents",
+    "definition": "Issuer count of granted invention patents as of 2025-06-30, split domestic and overseas."
+  },
+  {
+    "reporting_scope_id": "yadian_ip_software_copyrights",
+    "category_id": "all_businesses",
+    "label": "Yadian software copyrights",
+    "definition": "Issuer count of registered software copyrights as of 2025-06-30."
+  },
+  {
+    "reporting_scope_id": "yadian_east_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华东",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 华东, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_north_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华北",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 华北, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_central_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华中",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 华中, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_south_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华南",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 华南, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_northwest_china_main_business",
+    "category_id": "all_businesses",
+    "label": "西北",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 西北, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_southwest_china_main_business",
+    "category_id": "all_businesses",
+    "label": "西南",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 西南, a domestic sub-region (listed under 境内 in the table). Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  },
+  {
+    "reporting_scope_id": "yadian_south_korea_main_business",
+    "category_id": "all_businesses",
+    "label": "韩国",
+    "definition": "Yadian prospectus source-native 主营业务收入按地区构成分析 row 韩国, a the table's sole named 境外/中国港澳台地区及境外 country, 韩国 (South Korea) -- only FY2022 prints a nonzero value; H1-2025/FY2024/FY2023 all print a dash for this row, held rather than registered as zero. Main-business revenue (table's own heading); table boundary preserved, revenue only (no cost or margin by geography)."
+  }
+]

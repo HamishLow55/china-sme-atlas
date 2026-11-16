@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "huazhuo_ipo_2026",
+    "dataset_id": "huazhuo_disclosures",
+    "title": "Beijing U-Precision 2026 IPO application prospectus",
+    "publication_date": "2026-06-30",
+    "publication_date_precision": "day",
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-6/2026-06-30/12424693.PDF",
+    "sha256": "c05b55794f0bbfd370bb37513761049ab97a8cb3cba29f2ed931ccf3c7762017",
+    "source_type": "company_ipo_prospectus",
+    "original_document_id": "huazhuo_ipo_2026",
+    "page_count": 431,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored prospectus acquired from public Sina filing mirror after local holdings gap. June 30 disclosure link and date also point to exchange original https://static.sse.com.cn/stock/disclosure/announcement/c/202606/002213_20260630_2DQN.pdf ; local hash applies only to downloaded mirror. Signing-date blanks remain unresolved, distinct from publication date. FY2023-2025 reporting window. Registration is not complete extraction. Publication date is provisionally assigned from the dated disclosure chain; not a verified signature date."
+  }
+]

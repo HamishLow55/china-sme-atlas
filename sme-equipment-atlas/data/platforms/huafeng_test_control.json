@@ -1,0 +1,120 @@
+[
+  {
+    "platform_id": "huafeng_sts8200",
+    "entity_id": "huafeng_test_control",
+    "name": "STS8200",
+    "category_id": "test",
+    "aliases": [
+      "STS8200"
+    ],
+    "evidence": {
+      "source_id": "huafeng_annual_2025",
+      "page": 11,
+      "excerpt": "STS8200 主要应用于电源管理、信号链类、智能功率模块、第三代化合物半导体GaN类等模拟、混合和功率集成电路的测试",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "huafeng_annual_2025",
+    "notes": "Named ATE platform and issuer-stated uses; no quantities or product revenue allocated."
+  },
+  {
+    "platform_id": "huafeng_sts8300",
+    "entity_id": "huafeng_test_control",
+    "name": "STS8300",
+    "category_id": "test",
+    "aliases": [
+      "STS8300"
+    ],
+    "evidence": {
+      "source_id": "huafeng_annual_2025",
+      "page": 14,
+      "excerpt": "STS8300测试系统主要应用于更高引脚数、更高性能、更多工位的电源管理类和混合信号集成电路测试，经过持续研发和迭代，已获得客户认可并开始批量装机",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "reported_batch_installation",
+    "maturity_as_reported_in": "huafeng_annual_2025",
+    "notes": "Issuer reports customer recognition and beginning batch installations; no precise quantity or installation date supplied."
+  },
+  {
+    "platform_id": "huafeng_sts8600",
+    "entity_id": "huafeng_test_control",
+    "name": "STS8600",
+    "category_id": "test",
+    "aliases": [
+      "STS8600"
+    ],
+    "evidence": {
+      "source_id": "huafeng_annual_2025",
+      "page": 12,
+      "excerpt": "STS8600 主要应用于大规模SoC芯片（高速数字电路、高性能混合电路、微波/射频电路、通讯接口电路、CPU芯片等）的测试",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "reported_product",
+    "maturity_as_reported_in": "huafeng_annual_2025",
+    "notes": "Product listing is not evidence of achieved HBM qualification, customer adoption or a specific installation count.",
+    "maturity_history": [
+      {
+        "claim_id": "HF-H12026-P9-STS8600-STAGE",
+        "source_id": "huafeng_test_control_h1_2026",
+        "page": 9,
+        "excerpt": "公司于 2023 年推出面向 SoC 及高端数字芯片的新一代测试平台 STS8600，持续推进客户端导入与验证工作，产品性能已得到客户验证认可，目前已进入小批量装机阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_batch_installation_stage",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Issuer wording 小批量装机阶段, up from the FY2025 product listing. The R&D project table on p15 still prints 客户验证 for the 大规模 SoC 测试系统 project, so the two stages sit side by side. No unit count. SoC only: the filing gives STS8600 no memory, DRAM or HBM use."
+      }
+    ]
+  },
+  {
+    "platform_id": "huafeng_sts8200_power_module_family",
+    "entity_id": "huafeng_test_control",
+    "name": "STS8200-based power-module test products",
+    "category_id": "test",
+    "aliases": [
+      "STS8200-based power-module test products"
+    ],
+    "evidence": {
+      "source_id": "huafeng_annual_2025",
+      "page": 12,
+      "excerpt": "功率模块测试产品 为客户提供基于STS8200测试平台的PIM专用测试解决方案、针对用于大功率IGBT/SiC功率模块及KGD测试",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "reported_product_family",
+    "maturity_as_reported_in": "huafeng_annual_2025",
+    "notes": "Source-native grouped solution family based on STS8200, not an additional distinct system model; overlaps the underlying platform and is not additive."
+  },
+  {
+    "platform_id": "huafeng_sts8200axe",
+    "entity_id": "huafeng_test_control",
+    "name": "STS8200AXE",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "aliases": [
+      "STS8200AXE"
+    ],
+    "evidence": {
+      "claim_id": "HF-H12026-P9-STS8200AXE",
+      "source_id": "huafeng_test_control_h1_2026",
+      "page": 9,
+      "excerpt": "公司与行业核心客户深度协同，推出归一化功率测试解决方案 STS8200AXE 系统。该系统凭借极低系统杂感技术与高性能动态参数测试能力，构筑行业领先的功率器件测试方案。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_launched_solution",
+    "maturity_as_reported_in": "huafeng_test_control_h1_2026",
+    "notes": "Power-device test system on the STS8200 line, tied by the issuer to AI power-supply devices. 推出 is a launch statement; no shipment, customer or unit figure. Not memory, not HBM. Overlaps the STS8200 platform and is not additive."
+  }
+]

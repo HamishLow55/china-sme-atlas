@@ -1,0 +1,176 @@
+[
+  {
+    "reporting_scope_id": "yitang_specialized_equipment",
+    "category_id": "multi_equipment",
+    "label": "Yitang specialized-equipment basket",
+    "definition": "Yitang's disclosed 专用设备 basket across equipment product lines."
+  },
+  {
+    "reporting_scope_id": "yitang_etch_and_plasma_surface_treatment",
+    "category_id": "etch_and_plasma_surface_treatment",
+    "label": "Yitang FY2025 dry etching and plasma surface treatment",
+    "definition": "FY2025 source-native combined basket; no inferred split."
+  },
+  {
+    "reporting_scope_id": "yitang_strip_dry",
+    "category_id": "strip_dry",
+    "label": "Yitang dry-strip equipment product line",
+    "definition": "IPO source-native dry-strip equipment product line."
+  },
+  {
+    "reporting_scope_id": "yitang_thermal_rtp",
+    "category_id": "thermal_rtp",
+    "label": "Yitang rapid thermal processing equipment product line",
+    "definition": "Source-native rapid thermal processing equipment product line across reviewed IPO and FY2025 annual-report disclosures."
+  },
+  {
+    "reporting_scope_id": "yitang_etch_dry",
+    "category_id": "etch_dry",
+    "label": "Yitang dry etching equipment product line",
+    "definition": "IPO source-native dry etching equipment product line."
+  },
+  {
+    "reporting_scope_id": "yitang_spare_parts",
+    "category_id": "multi_equipment",
+    "label": "Yitang spare parts revenue",
+    "definition": "Replacement parts and supporting materials for Yitang equipment across product lines."
+  },
+  {
+    "reporting_scope_id": "yitang_equipment_services",
+    "category_id": "multi_equipment",
+    "label": "Yitang equipment services revenue",
+    "definition": "Maintenance and related services for sold Yitang equipment across product lines."
+  },
+  {
+    "reporting_scope_id": "yitang_technology_licensing",
+    "category_id": "multi_equipment",
+    "label": "Yitang technology licensing revenue",
+    "definition": "Royalties from licensing core technology for discontinued equipment to other manufacturers; not equipment sales."
+  },
+  {
+    "reporting_scope_id": "yitang_beijing_base_specialized_equipment",
+    "category_id": "multi_equipment",
+    "label": "Yitang Beijing manufacturing-base specialized-equipment output",
+    "definition": "IPO p122 source-defined Beijing manufacturing-base output of dry-strip, RTP and dry-etch specialized equipment; subset of company production, not nameplate capacity or all-site production."
+  },
+  {
+    "reporting_scope_id": "yitang_fy2025_equipment_and_spares",
+    "category_id": "multi_equipment",
+    "label": "Yitang FY2025 sales of specialized equipment and spare parts",
+    "definition": "FY2025 annual p32 source-defined combined sales 专用设备及备品备件; includes equipment and spare parts and does not separately report their amounts in this table."
+  },
+  {
+    "reporting_scope_id": "yitang_fy2025_other",
+    "category_id": "all_businesses",
+    "label": "Yitang FY2025 other main-business product revenue",
+    "definition": "FY2025 annual p32 source row 其他; exact activity composition not stated in selected table. Do not equate to IPO technology-licensing line or equipment sales."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_logic_flash_dram_application_cohort",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO logic, flash and DRAM application cohort",
+    "definition": "Source-described Yitang specialized equipment sold for logic chips, flash chips and DRAM chips, collectively, in 2021–2023. Sales-volume share uses all application fields of specialized-equipment sales as denominator, not total company equipment revenue or all manufactured units."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_01",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 1: 客户 A",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 1, displayed customer label 客户 A. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_02",
+    "category_id": "etch_dry",
+    "label": "Yitang IPO selected major sales-order row 2: 客户 B",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 2, displayed customer label 客户 B. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_03",
+    "category_id": "thermal_rtp",
+    "label": "Yitang IPO selected major sales-order row 3: 客户 O",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 3, displayed customer label 客户 O. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_04",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 4: 客户 V",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 4, displayed customer label 客户 V. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_05",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 5: 客户 E",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 5, displayed customer label 客户 E. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_06",
+    "category_id": "etch_dry",
+    "label": "Yitang IPO selected major sales-order row 6: 客户 HH",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 6, displayed customer label 客户 HH. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_07",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 7: 客户 FF",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 7, displayed customer label 客户 FF. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_08",
+    "category_id": "thermal_rtp",
+    "label": "Yitang IPO selected major sales-order row 8: 客户 C",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 8, displayed customer label 客户 C. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_09",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 9: 客户 EE",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 9, displayed customer label 客户 EE. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_10",
+    "category_id": "thermal_rtp",
+    "label": "Yitang IPO selected major sales-order row 10: 客户 G",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 10, displayed customer label 客户 G. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_11",
+    "category_id": "etch_dry",
+    "label": "Yitang IPO selected major sales-order row 11: 客户 LL",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 11, displayed customer label 客户 LL. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_12",
+    "category_id": "thermal_rtp",
+    "label": "Yitang IPO selected major sales-order row 12: 客户 PP",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 12, displayed customer label 客户 PP. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_13",
+    "category_id": "multi_equipment",
+    "label": "Yitang IPO selected major sales-order row 13: 客户 NN",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 13, displayed customer label 客户 NN. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_14",
+    "category_id": "thermal_rtp",
+    "label": "Yitang IPO selected major sales-order row 14: 客户 OO",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 14, displayed customer label 客户 OO. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_15",
+    "category_id": "etch_dry",
+    "label": "Yitang IPO selected major sales-order row 15: 客户 R",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 15, displayed customer label 客户 R. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ipo_major_sales_order_row_16",
+    "category_id": "etch_dry",
+    "label": "Yitang IPO selected major sales-order row 16: 客户 GG",
+    "definition": "IPO physical pp259–260 selected major-sales-order row 16, displayed customer label 客户 GG. The amount groups that customer's qualifying major sales orders in the table's stated order-month window; no persistent counterparty identity or company-wide order total is inferred. Product label and threshold selection remain in each source observation."
+  },
+  {
+    "reporting_scope_id": "yitang_ic_equipment_manufacturing_base_project",
+    "category_id": "multi_equipment",
+    "label": "屹唐半导体集成电路装备制造基地项目",
+    "definition": "Planned Beijing Economic-Technological Development Area base for dry-strip, RTP, dry-etch and plasma surface treatment tools, through 屹唐北京. Conditional on winning the land auction. No capacity, output, floor area or schedule is stated."
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "entity_id": "changchuan",
+    "name": "Hangzhou Changchuan Technology Co.,Ltd",
+    "aliases": [
+      "杭州长川科技股份有限公司",
+      "长川科技",
+      "CCTech",
+      "Changchuan Technology",
+      "ChangChuan",
+      "Changchuan Tech",
+      "300604"
+    ],
+    "evidence": {
+      "source_id": "changchuan_annual_2025",
+      "page": 6,
+      "excerpt": "股票简称 长川科技；股票代码 300604；公司的中文名称 杭州长川科技股份有限公司；公司的中文简称 长川科技；公司的外文名称 Hangzhou Changchuan Technology Co.,Ltd；公司的外文名称缩写 CCTech",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "notes": "Listed issuer. Original filings describe integrated-circuit test equipment and additional inspection-related businesses. Company-wide financials must remain all-businesses unless an original table supplies a narrower perimeter; no issuer total is allocated to a tester, handler, prober, AOI family, platform, customer or application by identity alone.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "sidea_annual_2025",
+    "dataset_id": "sidea_annual_disclosures",
+    "title": "矽电半导体设备（深圳）股份有限公司 2025 年年度报告",
+    "publication_date": "2026-04-20",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225138756.PDF",
+    "sha256": "78ae552d2826b778755258c347353bb43bcce0fdd6ee6055e5827c6e4616a31c",
+    "source_type": "company_annual_report",
+    "original_document_id": "sidea_annual_2025",
+    "notes": "Shenzhen Stock Exchange ChiNext annual report, announcement number 2026-007, stock code 301629, short name 矽电股份. 财务报表批准报出日 2026 年 4 月 20 日. Sidea listed on 2025-03-24, so FY2025 is its first annual report as a listed company. Hash and 235-page count recomputed locally.",
+    "page_count": 235,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "sidea_q3_2026",
+    "dataset_id": "sidea_annual_disclosures",
+    "title": "sidea Q3 2026 report: 2026年三季度报告",
+    "publication_date": "2026-10-28",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-28/1225628107.PDF",
+    "sha256": "e3dfbf5a1c3df60b4fd14c49de1a088c4fd33adee6f9a0000616e40cd9a33807",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "sidea_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "sidea_h1_2026",
+    "dataset_id": "sidea_annual_disclosures",
+    "title": "sidea H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-25",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-25/1225494131.PDF",
+    "sha256": "6b74e5b65d731a9f69b34ec55228575d973682bf3b2e8de78b8437e97690ad74",
+    "source_type": "company_interim_report",
+    "original_document_id": "sidea_h1_2026",
+    "page_count": 189,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "sidea_ir_20260804",
+    "dataset_id": "sidea_annual_disclosures",
+    "title": "sidea: 301629矽电股份投资者关系管理信息20260804",
+    "publication_date": "2026-08-04",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457716.PDF",
+    "sha256": "8fddd065ce2835d2785cdff8d2c2a7bc56494a9fe134f8bf6fded99a22a50701",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "sidea_ir_20260804",
+    "page_count": 4,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "disco_disclosures",
+    "title": "DISCO Corporation IR disclosures (Japanese annual securities reports; English kessan tanshin; English Corporate Report 2020)",
+    "kind": "company_filings",
+    "publisher": "disco",
+    "version": "w9-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/DISCO filings/. DISCO publishes no English Annual Securities Report (unlike TOWA): its English IR library's 'Corporate Report' / 'DISCO Report' series (the brief's expected English annual report) was discontinued after the 2020 edition (confirmed: https://www.disco.co.jp/eg/ir/library/ar.html lists nothing newer), so this packet sources segment/product revenue, R&D and the dicing-vs-grinding split question from DISCO's own-language 有価証券報告書 (Annual Securities Report), downloaded directly from DISCO's Japanese IR library (disco.co.jp/jp/ir/library/fs.html), per the brief's own fallback ordering ('Use EDINET for the Japanese original if the English edition omits a breakdown the Japanese one tabulates') -- no separate EDINET fetch was needed since DISCO's own site hosts the identical filing. Company revenue, operating income and net income are corroborated from DISCO's English-translation kessan tanshin (決算短信, 'Consolidated Financial Results', explicitly labelled 'Unaudited translation, provided for reference only'), which is an English primary source and is preferred for those three metrics; the Machines/Tools/Other product split and R&D expense total are NOT given in the English kessan tanshin at all (checked across four vintages) and are sourced from the Japanese ASR only. SCHEMA GAP found during this intake: DISCO's FY2025 kessan tanshin and ASR state a company-wide 'Shipment value' KPI (出荷額) of JPY 442,824 million for FY2025 -- a real, clean, singly-stated yen figure -- but the atlas's 'shipments' metric declares only chamber/reaction_station/system/USD_million as allowed units in data/metrics.json, with no JPY option at any scale. This one figure is held, not registered; see the handback report. (Unlike the W8 TOWA intake, JPY/JPY_million/JPY_thousand/JPY_100m are now available on revenue, operating_profit, net_profit_attributable, rd_expense, customer_sales and customer_sales_share, so this wave has one schema-gap hold rather than many.)",
+    "market_definitions": {}
+  }
+]

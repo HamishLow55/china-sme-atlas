@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "secote_fy2023",
+    "dataset_id": "secote_disclosures",
+    "title": "Secote FY2023 Annual Report",
+    "publication_date": "2024-04-30",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202404291631582374_1.pdf",
+    "sha256": "75a1de446088c6a2a79c586aac94a5fcb9188e08d09d8f78571e0a63896c6263",
+    "source_type": "company_annual_report",
+    "original_document_id": "secote_fy2023",
+    "notes": "Assigned 240-page original checked locally. Local filing/extract date is 2024-04-30; URL identifier embeds 2024-04-29. Physical PDF pages equal printed page numbers in checked relevant sections.",
+    "page_count": 240,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "secote_fy2024",
+    "dataset_id": "secote_disclosures",
+    "title": "Secote FY2024 Annual Report",
+    "publication_date": "2025-04-30",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202504291664480701_1.pdf",
+    "sha256": "89b2e8d25bd5ab886d56b4e3bbb0556dfde0207d5bbbf06f0eb05b09c818c623",
+    "source_type": "company_annual_report",
+    "original_document_id": "secote_fy2024",
+    "notes": "Assigned 221-page original checked locally. Local filing/extract date is 2025-04-30; URL identifier embeds 2025-04-29. Physical PDF pages equal printed page numbers in checked relevant sections.",
+    "page_count": 221,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "secote_fy2025",
+    "dataset_id": "secote_disclosures",
+    "title": "Secote FY2025 Annual Report",
+    "publication_date": "2026-04-28",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604271821616010_1.pdf",
+    "sha256": "3f3af3a8495f2c3880fa37433535360dd56f90fdea76bef238b5d75dde961d25",
+    "source_type": "company_annual_report",
+    "original_document_id": "secote_fy2025",
+    "notes": "Assigned 209-page original checked locally. Local filing/extract date is 2026-04-28; URL identifier embeds 2026-04-27. Physical PDF pages equal printed page numbers in checked relevant sections.",
+    "page_count": 209,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "secote_h1_2026",
+    "dataset_id": "secote_disclosures",
+    "title": "Secote H1 2026 Semi-Annual Report",
+    "publication_date": "2026-08-25",
+    "publication_date_precision": "day",
+    "url": "https://www.secote.com/uploads/investor_relation/319/file/6f7f3a69d1acca299daa5fa5e71ab664.pdf",
+    "sha256": "29930b8d7b484eb3ca048a7b6b2edc487ec094a9c1800f84efa3fa4f0b691313",
+    "source_type": "company_interim_report",
+    "original_document_id": "secote_h1_2026",
+    "notes": "Official issuer investor-relations link dated 2026-08-25. Root verified legal issuer, stock code 603283 and H1 period on rendered cover. Public original acquired after local filename/OSINT inventory identified missing recent period. Registration reopens operational coverage; no numerical claims promoted at intake.",
+    "page_count": 163,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "secote_q3_2026",
+    "dataset_id": "secote_disclosures",
+    "title": "secote Q3 2026 report: 苏州赛腾精密电子股份有限公司2026年第三季度报告",
+    "publication_date": "2026-10-27",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-27/1225623400.PDF",
+    "sha256": "938db45cee0318e39aef1cfff9f699ef3c844a565e8365114149e82bc9914467",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "secote_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

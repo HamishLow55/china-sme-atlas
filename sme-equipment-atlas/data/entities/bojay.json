@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "bojay",
+    "name": "Bojay",
+    "aliases": [
+      "珠海博杰电子股份有限公司",
+      "博杰股份",
+      "Zhuhai Bojay Electronics Co.,Ltd.",
+      "Bojay",
+      "002975"
+    ],
+    "evidence": {
+      "source_id": "bojay_fy2025_annual_report",
+      "page": 9,
+      "excerpt": "股票简称            博杰股份                            股票代码                   002975\n股票上市证券交易所       深圳证券交易所\n公司的中文名称         珠海博杰电子股份有限公司\n公司的中文简称         博杰股份\n公司的外文名称（如有）     Zhuhai Bojay Electronics Co.,Ltd.\n公司的外文名称缩写（如有）   Bojay",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": "",
+      "independent_corroboration": false
+    },
+    "notes": "ENTITY TYPE NOTE: registered here primarily as the DISCLOSING CONSOLIDATING PARENT whose own audited FY2025 annual report (SZSE-listed, 002975) carries the only located financial figures for its controlled subsidiary Bojiexin (entity_id bojiexin; see that entity's notes and the parent/subsidiary link pattern already used for sanjia/zhonghe and shanghai_electric_holdings/smee). Bojay's own core business is broader than semiconductor dicing equipment -- industrial-automation test/sort systems for consumer electronics, MLCC/passive-component equipment, automotive, plus (per its own FY2025 MD&A, p21) some semiconductor packaging-test/sort-system and memory 3-temperature test-equipment lines -- none of which are explored or registered in this intake; only the Bojiexin dicing-saw subsidiary was in scope here. A full product/financial workup of Bojay itself, if wanted, is a separate task.",
+    "entity_class": "china_supply_base"
+  }
+]

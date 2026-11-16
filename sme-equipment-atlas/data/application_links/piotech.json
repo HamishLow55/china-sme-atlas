@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "piotech-d2w-hybrid-hbm-2025",
+    "claim_id": "piotech-2025-d2w-hybrid-family-listed-for-hbm",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_d2w",
+    "platform_id": "piotech_source_native_d2w_hybrid_bonding_family",
+    "application_id": "hbm",
+    "source_id": "piotech_annual_2025",
+    "page": 24,
+    "excerpt": "芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技术是在满足超高产能的同时，还需实现芯片对晶圆的高精度对准和放置技术，主要应用于高带宽存储器（HBM）、芯片三维集成领域。",
+    "status": "source_checked",
+    "link_kind": "supplier_capability",
+    "scope_note": "Explicit product-table HBM application. Does not establish shipment, customer validation, acceptance, order, production deployment or an HBM generation.",
+    "claim_kind": "company_reported",
+    "reviewer": "Terra independent verifier",
+    "review_date": "2026-09-22"
+  }
+]

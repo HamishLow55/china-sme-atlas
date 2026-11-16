@@ -1,0 +1,92 @@
+[
+  {
+    "observation_id": "W6MOLD-ZHONGHE-REV-2024",
+    "dataset_id": "sanjia_disclosures",
+    "source_id": "sanjia_zhonghe_acquisition_2025",
+    "entity_id": "zhonghe",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "zhonghe_company_basket",
+    "metric_id": "revenue",
+    "platform_id": "",
+    "value": "11983.38",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "sanjia_zhonghe_acquisition_2025"
+    },
+    "evidence": {
+      "page": 9,
+      "original_label": "标的公司｜营业收入 2024年度",
+      "excerpt": "标的公司主要财务信息 标的公司报告期内经审计的主要财务数据如下：单位：万元 项目 2024年12月31日 2023年12月31日 ... 项目 2024年度 2023年度 营业收入 11,983.38 10,482.16",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "11983.38",
+      "reported_unit": "CNY_10k"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Zhonghe's whole-company audited revenue for FY2024, disclosed by Sanjia in its acquisition announcement. Zhonghe's main business (per the same announcement, p8) is automatic transfer-molding machines + automatic trim-and-form machines + supporting molds, combined and not split; filed at multi_equipment, never allocated to molding. Table header is on physical p8 (the table straddles the page break); this row's values are printed on physical p9, cited per docs/Extraction Failure Modes.md's page-break convention."
+  },
+  {
+    "observation_id": "W6MOLD-ZHONGHE-REV-2023",
+    "dataset_id": "sanjia_disclosures",
+    "source_id": "sanjia_zhonghe_acquisition_2025",
+    "entity_id": "zhonghe",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "zhonghe_company_basket",
+    "metric_id": "revenue",
+    "platform_id": "",
+    "value": "10482.16",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "sanjia_zhonghe_acquisition_2025"
+    },
+    "evidence": {
+      "page": 9,
+      "original_label": "标的公司｜营业收入 2023年度",
+      "excerpt": "标的公司主要财务信息 标的公司报告期内经审计的主要财务数据如下：单位：万元 项目 2024年12月31日 2023年12月31日 ... 项目 2024年度 2023年度 营业收入 11,983.38 10,482.16",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "10482.16",
+      "reported_unit": "CNY_10k"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Zhonghe's whole-company audited revenue for FY2023, disclosed by Sanjia in its acquisition announcement. Same composition/basket caveat as the FY2024 observation."
+  }
+]

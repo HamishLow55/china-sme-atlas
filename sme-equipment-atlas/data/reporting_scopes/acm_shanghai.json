@@ -1,0 +1,80 @@
+[
+  {
+    "reporting_scope_id": "acm_ecp_all",
+    "category_id": "deposition_ecp",
+    "label": "Semiconductor ECP equipment, all applications",
+    "definition": "All ECP applications including front-end, packaging, 3D stacking and compound semiconductors, not Ultra ECP 3d alone."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_main_business",
+    "category_id": "all_businesses",
+    "label": "ACM Research (Shanghai) main business",
+    "definition": "Company-reported 主营业务 scope. Filing does not split this H1 amount by equipment category; never label ECP-only, equipment-only, or TSV-only."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_fy2025_semiconductor_equipment_industry",
+    "category_id": "multi_equipment",
+    "label": "ACM Shanghai FY2025 semiconductor equipment industry control",
+    "definition": "FY2025 annual p36 主营业务分行业 半导体设备 control row and p37 产销量 合计 control row. The revenue row is the issuer-reported semiconductor-equipment main-business total; the volume row totals the three source product baskets. These are distinct financial and system-count presentations, not ACMR-parent totals."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_product_semiconductor_cleaning_equipment",
+    "category_id": "cleaning",
+    "label": "ACM Shanghai source product row: semiconductor cleaning equipment",
+    "definition": "FY2025 annual pp36–37 source-defined 半导体清洗设备 sibling product revenue/cost/margin and production/sales/inventory volumes. A broad cleaning-equipment basket, not one model or chamber."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_product_other_semiconductor_equipment",
+    "category_id": "multi_equipment",
+    "label": "ACM Shanghai source product row: other semiconductor equipment",
+    "definition": "FY2025 annual pp36–37 其他半导体设备 basket. The printed parenthesis explicitly includes electroplating, vertical furnace and stress-free copper polishing among other equipment. It is not ECP-only or additive to ACMR parent revenue."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_product_advanced_packaging_wet_equipment",
+    "category_id": "multi_equipment",
+    "label": "ACM Shanghai source product row: advanced-packaging wet equipment",
+    "definition": "FY2025 annual pp36–37 先进封装湿法设备 sibling product basket. Wet advanced-packaging systems are not resolved to a single ECP, cleaning or TSV platform."
+  },
+  {
+    "reporting_scope_id": "acm_shanghai_generic_single_wafer_cleaner_configuration",
+    "category_id": "cleaning_single_wafer",
+    "label": "ACM Shanghai generic single-wafer cleaning equipment configuration",
+    "definition": "FY2025 annual p14 generic single-wafer cleaner optional chamber configuration. The maximum per system is a technical configuration claim, not factory capacity, chamber deliveries, or a named model."
+  },
+  {
+    "reporting_scope_id": "acm_peald_vertical_furnace_chinese_wafer_fab_entries",
+    "category_id": "deposition_ald",
+    "label": "ACM Shanghai PEALD vertical furnace entries into Chinese wafer manufacturers/fabs",
+    "definition": "H1 2025 p14 其中等离子体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂. PEALD subtype only; 家/厂 does not resolve company-versus-site identity. No system, installation or production-use count."
+  },
+  {
+    "reporting_scope_id": "acm_fully_automatic_bath_cleaner_batch_configuration",
+    "category_id": "cleaning",
+    "label": "ACM Shanghai fully automatic bath cleaner 50-wafer simultaneous batch configuration",
+    "definition": "FY2025 p15 source-defined fully automatic bath cleaning equipment technical configuration; distinct from factory equipment output and from its separate 40nm-and-above application claim."
+  },
+  {
+    "reporting_scope_id": "acm_krf_300wph_track_processing_throughput",
+    "category_id": "track_coat_develop",
+    "label": "ACM Shanghai named KrF 300WPH Track processing throughput",
+    "definition": "FY2025 p26 named KrF Track 300WPH technical model specification. H1 2026 p27 repeats the same September 2025 first-delivery/model statement; no duplicate event or factory output."
+  },
+  {
+    "reporting_scope_id": "acm_ultra_c_tahoe_upgraded_processing_throughput",
+    "category_id": "cleaning",
+    "label": "ACM Shanghai upgraded Ultra C Tahoe processing throughput",
+    "definition": "H1 2025 p23 upgraded 2024 Ultra C Tahoe bath-plus-multiple-single-wafer-chamber configuration, source-worded more than 200 wafers per hour. Not generic Tahoe, factory tools/year, or measured customer production."
+  },
+  {
+    "reporting_scope_id": "acm_cleaning_rd_project",
+    "category_id": "cleaning",
+    "label": "ACM Shanghai front-end cleaning equipment R&D project basket",
+    "definition": "Source-defined 前道清洗设备 ongoing-R&D-project row in 在研项目情况 tables (FY2022 annual report onward, and the matching interim reports). Aggregates the SAPS/TEBO/high-temperature single-wafer SPM/backside/edge-wet-etch/front-end scrubber/Tahoe single-wafer-plus-batch-combo/fully-automatic batch cleaning product family as one basket for planned, period and cumulative R&D investment. FY2021 and H1 2022 filings disclose cleaning R&D at finer granularity as several separately named technology projects instead of this aggregate; those rows are not registered under this scope."
+  },
+  {
+    "reporting_scope_id": "acm_tahoe_china_installed_base",
+    "category_id": "cleaning",
+    "label": "ACM Shanghai Tahoe (single-wafer + batch combo) cleaning equipment, China market installed base",
+    "definition": "FY2025 annual report p23 competitive-benchmark table (盛美上海 vs 中国同行业企业 vs 国际巨头), 单片槽式组合清洗设备 row, 市场占有率 line: company-reported China-market cumulative install base for its own Tahoe-family tool. Not a market-share percentage, not global installed base, and not a chamber or shipment count."
+  }
+]

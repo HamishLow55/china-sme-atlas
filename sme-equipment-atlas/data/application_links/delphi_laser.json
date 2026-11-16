@@ -1,0 +1,38 @@
+[
+  {
+    "link_id": "delphi_lsd6130_advanced_packaging_order_placement_2026",
+    "claim_id": "DELPHI-LSD6130-ADVANCED-PACKAGING-ORDER-PLACEMENT-2026",
+    "entity_id": "delphi_laser",
+    "category_id": "dicing_laser",
+    "platform_id": "",
+    "application_id": "advanced_packaging",
+    "source_id": "delphi_laser_placement_prospectus_20260821",
+    "page": 65,
+    "excerpt": "针对存储芯片领域，公司推出 SDBG 相关设备，可适配超薄晶圆隐形切割与减薄前加工，助力先进封装工艺升级，已获得国内头部厂商量产订单",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Source-native SDBG-related equipment capability/order claim, not allocated to a named model. The prospectus names advanced-packaging purpose and a domestic leading manufacturer production order; it does not state delivery, acceptance or production use. Memory is the stated field, without HBM, DRAM or NAND identification of the customer. FY2025 p19 establishes LSD-6130 as one SDBG-capable tool but does not identify the equipment in this later order.",
+    "notes": ""
+  },
+  {
+    "link_id": "delphi_laser_debonding_advanced_packaging_h1_2026",
+    "claim_id": "DELPHI-LASER-DEBONDING-ADVANCED-PACKAGING-H1-2026",
+    "entity_id": "delphi_laser",
+    "category_id": "bonding_debond",
+    "platform_id": "delphi_wafer_laser_debonding",
+    "application_id": "advanced_packaging",
+    "source_id": "delphi_laser_h1_2026",
+    "page": 10,
+    "excerpt": "主要提供硅/碳化硅/砷化镓/钽酸锂/铌酸锂/玻璃/金刚石等各种晶圆材料的激光划片、晶圆激光开槽、碳化硅晶锭切片、碳化硅激光退火、晶圆激光隐切设备（SDBG）；玻璃通孔（TGV）、激光开槽（low-k）、EdgeTrimming、晶圆打标、模组钻孔（TMV）、激光解键合（debonding）、辅助焊接等先进封装应用。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Issuer lists 激光解键合（debonding） among 先进封装应用. Application list only; no customer or stage.",
+    "notes": ""
+  }
+]

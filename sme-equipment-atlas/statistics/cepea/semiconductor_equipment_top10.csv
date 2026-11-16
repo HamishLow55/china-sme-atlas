@@ -1,0 +1,51 @@
+year,rank,company_zh,company_en,semi_equipment_revenue_cny_100m,yoy_pct,total_profit_cny_100m,source_bulletin,note
+2021,1,北方华创,NAURA,75.8,72.6,,CEPEA 行业简讯 2022-06,Yitang did not report to CEPEA for 2021
+2021,2,捷佳伟创,Jiejia Weichuang (S.C New Energy),48.82,25.3,,CEPEA 行业简讯 2022-06,Solar-equipment-heavy
+2021,3,晶盛机电,Jingsheng Mechanical & Electrical,46.14,45.3,,CEPEA 行业简讯 2022-06,Solar-equipment-heavy
+2021,4,中微公司,AMEC,30.63,70.3,,CEPEA 行业简讯 2022-06,
+2021,5,中电科电子装备集团,CETC Electronic Equipment Group,30.08,64.4,,CEPEA 行业简讯 2022-06,
+2021,6,奥特维,Autowell,20.47,217.9,,CEPEA 行业简讯 2022-06,Solar-equipment-heavy
+2021,7,盛美上海,ACM Shanghai,14.6,57.2,,CEPEA 行业简讯 2022-06,
+2021,8,长川科技,Changchuan,9.95,146.3,,CEPEA 行业简讯 2022-06,
+2021,9,天通吉成,Tiantong Jicheng,9.58,92.4,,CEPEA 行业简讯 2022-06,Solar-equipment-heavy
+2021,10,连城数控,Liancheng CNC,9.26,,,CEPEA 行业简讯 2022-06,Solar-equipment-heavy
+2022,1,北方华创,NAURA,118.71,56.6,28.54,CEPEA 行业简讯 2023-06,
+2022,2,晶盛机电,Jingsheng Mechanical & Electrical,82.24,78.2,34.19,CEPEA 行业简讯 2023-06,Solar-equipment-heavy
+2022,3,捷佳伟创,Jiejia Weichuang (S.C New Energy),55.44,13.5,11.73,CEPEA 行业简讯 2023-06,Solar-equipment-heavy
+2022,4,中电科电子装备集团,CETC Electronic Equipment Group,42.7,42.0,3.16,CEPEA 行业简讯 2023-06,
+2022,5,中微公司,AMEC,38.47,25.6,12.58,CEPEA 行业简讯 2023-06,
+2022,6,盛美上海,ACM Shanghai,27.56,88.8,7.17,CEPEA 行业简讯 2023-06,
+2022,7,奥特维,Autowell,23.91,16.8,7.95,CEPEA 行业简讯 2023-06,Solar-equipment-heavy
+2022,8,长川科技,Changchuan,18.92,90.2,2.71,CEPEA 行业简讯 2023-06,
+2022,9,拓荆科技,Piotech,16.85,126.2,3.64,CEPEA 行业简讯 2023-06,
+2022,10,芯源微,Kingsemi,13.6,67.3,2.22,CEPEA 行业简讯 2023-06,
+2023,1,北方华创,NAURA,195.7,64.9,44.66,CEPEA 行业简讯 2024-06,
+2023,2,晶盛机电,Jingsheng Mechanical & Electrical,128.12,55.8,59.55,CEPEA 行业简讯 2024-06,Solar-equipment-heavy
+2023,3,捷佳伟创,Jiejia Weichuang (S.C New Energy),81.99,47.9,18.48,CEPEA 行业简讯 2024-06,Solar-equipment-heavy
+2023,4,中电科电子装备集团,CETC Electronic Equipment Group,56.88,33.2,4.76,CEPEA 行业简讯 2024-06,
+2023,5,奥特维,Autowell,53.65,124.4,14.77,CEPEA 行业简讯 2024-06,Solar-equipment-heavy
+2023,6,中微公司,AMEC,51.66,34.3,20.1,CEPEA 行业简讯 2024-06,
+2023,7,盛美上海,ACM Shanghai,37.15,34.8,9.64,CEPEA 行业简讯 2024-06,
+2023,8,至纯科技,PNC (Zhichun),31.45,206.8,4.11,CEPEA 行业简讯 2024-06,
+2023,9,拓荆科技,Piotech,26.35,56.4,7.29,CEPEA 行业简讯 2024-06,
+2023,10,华海清科,Hwatsing,25.08,52.1,7.9,CEPEA 行业简讯 2024-06,
+2024,1,北方华创,NAURA,255.98,30.8,65.11,CEPEA 行业简讯 2025-06,
+2024,2,捷佳伟创,Jiejia Weichuang (S.C New Energy),182.87,123.0,32.01,CEPEA 行业简讯 2025-06,Solar-equipment-heavy
+2024,3,晶盛机电,Jingsheng Mechanical & Electrical,133.63,4.3,30.7,CEPEA 行业简讯 2025-06,Solar-equipment-heavy
+2024,4,奥特维,Autowell,78.16,45.7,15.56,CEPEA 行业简讯 2025-06,Solar-equipment-heavy
+2024,5,中微公司,AMEC,78.12,51.2,17.09,CEPEA 行业简讯 2025-06,
+2024,6,中电科电子装备集团,CETC Electronic Equipment Group,58.46,2.8,2.75,CEPEA 行业简讯 2025-06,
+2024,7,盛美上海,ACM Shanghai,54.4,46.4,10.92,CEPEA 行业简讯 2025-06,
+2024,8,拓荆科技,Piotech,39.58,50.2,6.79,CEPEA 行业简讯 2025-06,
+2024,9,至纯科技,PNC (Zhichun),36.05,14.6,-0.26,CEPEA 行业简讯 2025-06,
+2024,10,华海清科,Hwatsing,34.14,36.1,11.18,CEPEA 行业简讯 2025-06,
+2025,1,北方华创,NAURA,330.68,29.2,58.45,CEPEA 行业简讯 2026-06,
+2025,2,捷佳伟创,Jiejia Weichuang (S.C New Energy),147.44,-19.4,29.78,CEPEA 行业简讯 2026-06,Solar-equipment-heavy
+2025,3,中微公司,AMEC,105.27,34.8,21.9,CEPEA 行业简讯 2026-06,
+2025,4,晶盛机电,Jingsheng Mechanical & Electrical,84.03,-37.1,11.32,CEPEA 行业简讯 2026-06,Solar-equipment-heavy
+2025,5,盛美上海,ACM Shanghai,65.04,19.6,11.83,CEPEA 行业简讯 2026-06,
+2025,6,拓荆科技,Piotech,62.96,59.1,21.42,CEPEA 行业简讯 2026-06,
+2025,7,屹唐股份,Yitang (Beijing E-Town),49.64,9.6,6.8,CEPEA 行业简讯 2026-06,
+2025,8,华海清科,Hwatsing,46.48,36.1,11.98,CEPEA 行业简讯 2026-06,
+2025,9,奥特维,Autowell,45.9,-41.3,4.07,CEPEA 行业简讯 2026-06,Solar-equipment-heavy
+2025,10,中电科电子装备集团,CETC Electronic Equipment Group,45.16,-22.8,3.12,CEPEA 行业简讯 2026-06,

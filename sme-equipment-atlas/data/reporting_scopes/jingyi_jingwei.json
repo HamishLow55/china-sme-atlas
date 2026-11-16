@@ -1,0 +1,566 @@
+[
+  {
+    "reporting_scope_id": "jingyi_cmp_8inch",
+    "label": "Jingyi eight-inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source table eight-inch CMP basket; includes grouped HJP-200/Horizon and Horizon-Plus sales totals. Backlog and recognized sales are distinct metrics."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_6_8inch_compatible",
+    "label": "Jingyi six/eight-inch compatible CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled 6/8英寸兼容CMP设备 order-backlog basket; no allocation to individual platforms."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch",
+    "label": "Jingyi twelve-inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled twelve-inch CMP order-backlog basket; no inferred platform-specific backlog or shipment quantity."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_8inch_hjp200_horizon_grouped",
+    "label": "Jingyi HJP-200 and Horizon grouped sales",
+    "category_id": "cmp",
+    "definition": "Source groups HJP-200 and Horizon in one eight-inch CMP sales row; amounts cannot be assigned to either platform individually. The table lists 0.35μm-0.11μm alongside the product group; this is not an allocation of each sale to an actual customer process node."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_8inch_horizon_plus",
+    "label": "Jingyi Horizon-Plus sales",
+    "category_id": "cmp",
+    "definition": "Source-reported Horizon-Plus eight-inch CMP sales row. The listed 0.35μm-90nm capability range is retained in the excerpt; it is not treated as the process node of every customer sale."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_all",
+    "label": "Jingyi all CMP equipment families",
+    "category_id": "cmp",
+    "definition": "Issuer source total across 8-inch, 6/8-inch-compatible and 12-inch CMP equipment; family components may overlap alternative customer/grid presentations."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_0_3",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration 0_3 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label 0_3 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_12_15",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration 12_15 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label 12_15 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_3_6",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration 3_6 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label 3_6 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_6_9",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration 6_9 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label 6_9 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_9_12",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration 9_12 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label 9_12 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_ge_18",
+    "label": "Jingyi report-period recognized CMP tools acceptance duration ge_18 months",
+    "category_id": "cmp",
+    "definition": "Source p51–52 equipment whose revenue was recognized during 2020–2023H1, grouped by time from issue to customer acceptance. Duration cohort is not an equipment model, shipment date or closing inventory. Acceptance-duration bin follows the exact source row label ge_18 months. Boundary inclusivity is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch_accepted_2023_first_tools",
+    "category_id": "cmp",
+    "label": "Jingyi first-customer twelve-inch CMP tools accepted in 2023",
+    "definition": "Physical p60 source cohort of twelve-inch first tools that completed product validation and recognized revenue during 2023. Not the generic twelve-inch order-backlog basket or R&D demonstration samples."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_june2023_dispatched_accepted_by_nov2023_0_3",
+    "category_id": "cmp",
+    "label": "Jingyi June 2023 dispatched-goods cohort accepted by November: 0_3",
+    "definition": "CMP equipment remaining as dispatched goods at 30 June 2023 and accepted by 30 November 2023; source acceptance-duration row 0_3. Subsequent acceptance cohort, not all company sales or the report-period recognized cohort. Duration boundary inclusivity not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_june2023_dispatched_accepted_by_nov2023_3_6",
+    "category_id": "cmp",
+    "label": "Jingyi June 2023 dispatched-goods cohort accepted by November: 3_6",
+    "definition": "CMP equipment remaining as dispatched goods at 30 June 2023 and accepted by 30 November 2023; source acceptance-duration row 3_6. Subsequent acceptance cohort, not all company sales or the report-period recognized cohort. Duration boundary inclusivity not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_june2023_dispatched_accepted_by_nov2023_9_12",
+    "category_id": "cmp",
+    "label": "Jingyi June 2023 dispatched-goods cohort accepted by November: 9_12",
+    "definition": "CMP equipment remaining as dispatched goods at 30 June 2023 and accepted by 30 November 2023; source acceptance-duration row 9_12. Subsequent acceptance cohort, not all company sales or the report-period recognized cohort. Duration boundary inclusivity not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_june2023_dispatched_accepted_by_nov2023_ge_18",
+    "category_id": "cmp",
+    "label": "Jingyi June 2023 dispatched-goods cohort accepted by November: ge_18",
+    "definition": "CMP equipment remaining as dispatched goods at 30 June 2023 and accepted by 30 November 2023; source acceptance-duration row ge_18. Subsequent acceptance cohort, not all company sales or the report-period recognized cohort. Duration boundary inclusivity not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_june2023_dispatched_accepted_by_nov2023_total",
+    "category_id": "cmp",
+    "label": "Jingyi June 2023 dispatched-goods cohort accepted by November: total",
+    "definition": "CMP equipment remaining as dispatched goods at 30 June 2023 and accepted by 30 November 2023; source acceptance-duration row total. Subsequent acceptance cohort, not all company sales or the report-period recognized cohort. Duration boundary inclusivity not inferred."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_cr_micro_8inch",
+    "label": "Jingyi disclosed customer 华润微 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 华润微, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_huahong_group_8inch",
+    "label": "Jingyi disclosed customer 华虹集团 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 华虹集团, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_shanghai_jita_12inch",
+    "label": "Jingyi disclosed customer 上海积塔 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 上海积塔, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_shanghai_jita_8inch",
+    "label": "Jingyi disclosed customer 上海积塔 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 上海积塔, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_xinlianjicheng_8inch",
+    "label": "Jingyi disclosed customer 芯联集成 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 芯联集成, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_smic_12inch",
+    "label": "Jingyi disclosed customer 中芯国际 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 中芯国际, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_smic_8inch",
+    "label": "Jingyi disclosed customer 中芯国际 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 中芯国际, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_umc_8inch",
+    "label": "Jingyi disclosed customer 联华电子 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 联华电子, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_vanguard_8inch",
+    "label": "Jingyi disclosed customer 世界先进 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 世界先进, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_domestic_a_8inch",
+    "label": "Jingyi disclosed customer 境内客户A 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 境内客户A, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_domestic_b_8inch",
+    "label": "Jingyi disclosed customer 境内客户B 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 境内客户B, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_hangzhou_hikmicro_8inch",
+    "label": "Jingyi disclosed customer 杭州海康微影 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 杭州海康微影, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_huahong_hongli_8inch",
+    "label": "Jingyi disclosed customer 华虹宏力 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 华虹宏力, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_hubei_xinwei_6_8inch",
+    "label": "Jingyi disclosed customer 湖北新为光 6_8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 湖北新为光, 6_8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_hubei_xinwei_8inch",
+    "label": "Jingyi disclosed customer 湖北新为光 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 湖北新为光, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_institute_55_8inch",
+    "label": "Jingyi disclosed customer 五十五所 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 五十五所, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_jiejie_nantong_8inch",
+    "label": "Jingyi disclosed customer 捷捷微电南通 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 捷捷微电南通, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_overseas_a_8inch",
+    "label": "Jingyi disclosed customer 境外客户A 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 境外客户A, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_overseas_b_8inch",
+    "label": "Jingyi disclosed customer 境外客户B 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 境外客户B, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_shenzhen_shenxingxu_6_8inch",
+    "label": "Jingyi disclosed customer 深圳深星旭 6_8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 深圳深星旭, 6_8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_disclosed_customers",
+    "label": "Jingyi disclosed customer/product cohort",
+    "category_id": "cmp",
+    "definition": "p47–48 listed customers and product rows; not all CMP equipment customers or annual top five for a single period."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_maxscend_12inch",
+    "label": "Jingyi disclosed customer 卓胜微 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 卓胜微, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_rongxin_12inch",
+    "label": "Jingyi disclosed customer 荣芯半导体 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 荣芯半导体, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_wuhan_chuxing_12inch",
+    "label": "Jingyi disclosed customer 武汉楚兴 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 武汉楚兴, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_zhiwei_12inch",
+    "label": "Jingyi disclosed customer 至微半导体 12inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 至微半导体, 12inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_excluding_smic",
+    "label": "Jingyi CMP equipment excluding SMIC",
+    "category_id": "cmp",
+    "definition": "Source-reported new-order subtotal excluding 中芯国际; not whole-company new orders."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_smic_shenzhen_12inch",
+    "label": "Jingyi CMP equipment for 中芯国际（深圳）",
+    "category_id": "cmp",
+    "definition": "Source-named SMIC Shenzhen customer, 12-inch CMP equipment. Narrower than the source-wide SMIC customer label; not additive to that broader customer scope. p110 names Skylens for the dated order cohort."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_purchase_intention_customers",
+    "label": "Jingyi CMP customers expressing non-binding purchase intentions",
+    "category_id": "cmp",
+    "definition": "Customer cohort expressing CMP equipment purchase intentions at the stated date. Original p113 defines this stage as having no formally signed binding agreement. Not signed-order, installed-base or recognized-sales customers; all disclosed CMP product families."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch_purchase_intention_customers",
+    "label": "Jingyi 12-inch CMP customers expressing non-binding purchase intentions",
+    "category_id": "cmp",
+    "definition": "Customer cohort expressing 12-inch CMP equipment purchase intentions at the stated date, using the non-binding definition on original p113. Not signed-order, installed-base or recognized-sales customers; subset of the all-product intention customer cohort."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_overseas",
+    "label": "Jingyi overseas equipment sales",
+    "category_id": "cmp",
+    "definition": "Source p100 境外销售数量; source did not split the volume by model."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_horizon_t",
+    "label": "Jingyi Horizon-T six/eight-inch CMP",
+    "category_id": "cmp",
+    "definition": "p229 named Horizon-T cumulative revenue row. It is a subset of compatible 6/8-inch CMP, not the whole size-family basket."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch_customer_rank_rank_11_plus_other",
+    "label": "Jingyi 12-inch CMP mainland foundry rank 11_plus_other",
+    "category_id": "cmp",
+    "definition": "p86 mainland foundry rank cohort for 12-inch signed orders and separate unsigned intentions. Rankings are source cohort context, not a permanent customer identity. The source cites 2022 mainland foundry ranking; the last cohort includes other customers beyond ranked foundries."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch_customer_rank_rank_1_5",
+    "label": "Jingyi 12-inch CMP mainland foundry rank 1_5",
+    "category_id": "cmp",
+    "definition": "p86 mainland foundry rank cohort for 12-inch signed orders and separate unsigned intentions. Rankings are source cohort context, not a permanent customer identity. The source cites 2022 mainland foundry ranking; the last cohort includes other customers beyond ranked foundries."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_12inch_customer_rank_rank_6_10",
+    "label": "Jingyi 12-inch CMP mainland foundry rank 6_10",
+    "category_id": "cmp",
+    "definition": "p86 mainland foundry rank cohort for 12-inch signed orders and separate unsigned intentions. Rankings are source cohort context, not a permanent customer identity. The source cites 2022 mainland foundry ranking; the last cohort includes other customers beyond ranked foundries."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_deqing_huaying_6_8inch",
+    "label": "Jingyi disclosed customer 中电科技德清华莹 6_8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 中电科技德清华莹, 6_8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_institute_14_6_8inch",
+    "label": "Jingyi disclosed customer 十四研究所 6_8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 十四研究所, 6_8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_medikay_6_8inch",
+    "label": "Jingyi disclosed customer 美迪凯 6_8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 美迪凯, 6_8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_wuhan_kunpeng_8inch",
+    "label": "Jingyi disclosed customer 武汉鲲鹏微纳 8inch CMP equipment",
+    "category_id": "cmp",
+    "definition": "Source-labelled Jingyi customer 武汉鲲鹏微纳, 8inch equipment. Anonymous labels remain anonymous; same-control and cross-table identity not inferred from equal values. Used for customer-specific order, recognized revenue, sales or backlog according to metric."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_mainland_topten_foundries_12inch",
+    "label": "Jingyi mainland top-ten foundry 12-inch CMP cohort",
+    "category_id": "cmp",
+    "definition": "p82–83 issuer signed backlog count among mainland top-ten foundries; not all customer orders."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_mainland_topten_foundries_8inch",
+    "label": "Jingyi mainland top-ten foundry 8-inch CMP cohort",
+    "category_id": "cmp",
+    "definition": "p82–83 issuer sales and backlog count among the disclosed mainland top-ten foundries; not all customer sales."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_overseas_intent",
+    "label": "Jingyi overseas CMP intention customer cohort",
+    "category_id": "cmp",
+    "definition": "Original p96 source-defined overseas customers expressing non-binding CMP purchase intentions in the July 31 disclosure context. Not signed-order, active-revenue or installed-base customers; no per-family allocation."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_topten_foundry_12inch",
+    "label": "Jingyi top-ten foundry 12inch CMP orders",
+    "category_id": "cmp",
+    "definition": "p108 source-defined global-or-mainland top-ten foundry customer cohort signed CMP backlog; denominator for share is all orders in the same equipment-size family."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_topten_foundry_8inch",
+    "label": "Jingyi top-ten foundry 8inch CMP orders",
+    "category_id": "cmp",
+    "definition": "p108 source-defined global-or-mainland top-ten foundry customer cohort signed CMP backlog; denominator for share is all orders in the same equipment-size family."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_customer_rongxin_group_12inch",
+    "label": "Jingyi 12-inch CMP equipment for Rongxin common-control customer group",
+    "category_id": "cmp",
+    "definition": "Original p77 Rongxin Semiconductor (Ningbo) customer row explicitly includes its Huai’an subsidiary under common control. July 31 backlog cohort; overlaps other Rongxin-labelled presentations and must not be summed with them as independent demand."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_6_8inch_overseas_intent",
+    "label": "Jingyi overseas 6/8-inch CMP intentions",
+    "category_id": "cmp",
+    "definition": "Source p96 unsigned overseas purchase intention size basket."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_8inch_overseas_intent",
+    "label": "Jingyi overseas 8-inch CMP intentions",
+    "category_id": "cmp",
+    "definition": "Source p96 unsigned overseas purchase intention size basket."
+  },
+  {
+    "reporting_scope_id": "jingyi_company_excluding_smic",
+    "label": "Jingyi company contract liabilities excluding SMIC",
+    "category_id": "all_businesses",
+    "definition": "Source p109 adjusted liability subtotal after excluding 中芯国际; not a consolidated balance-sheet line."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_july_intentions_converted_october_all",
+    "label": "Jingyi July intention cohort converted to signed orders: all disclosed CMP sizes",
+    "category_id": "cmp",
+    "definition": "Source pp113–114 July 31 non-binding intention cohort followed through October 31. Converted orders from Shanghai Jita and CETC 14th Institute, all disclosed CMP sizes. No per-customer assignment inferred; total overlaps size components. Not the whole-company new-order flow."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_july_intentions_converted_october_8inch",
+    "label": "Jingyi July intention cohort converted to signed orders: 8-inch CMP",
+    "category_id": "cmp",
+    "definition": "Source pp113–114 July 31 non-binding intention cohort followed through October 31. Converted orders from Shanghai Jita and CETC 14th Institute, 8-inch CMP. No per-customer assignment inferred; total overlaps size components. Not the whole-company new-order flow."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_july_intentions_converted_october_6_8inch",
+    "label": "Jingyi July intention cohort converted to signed orders: 6/8-inch-compatible CMP",
+    "category_id": "cmp",
+    "definition": "Source pp113–114 July 31 non-binding intention cohort followed through October 31. Converted orders from Shanghai Jita and CETC 14th Institute, 6/8-inch-compatible CMP. No per-customer assignment inferred; total overlaps size components. Not the whole-company new-order flow."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_first_tools",
+    "label": "Jingyi acceptance duration: 首台机台",
+    "category_id": "cmp",
+    "definition": "Original pp51–52 reporting-period acceptance-duration mean cohort 首台机台. Source labels retained; no inference that first-tool and sales-tool cohorts are disjoint, or that sales tools mean only repeat orders."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_sales_tools",
+    "label": "Jingyi acceptance duration: 销售机台",
+    "category_id": "cmp",
+    "definition": "Original pp51–52 reporting-period acceptance-duration mean cohort 销售机台. Source labels retained; no inference that first-tool and sales-tool cohorts are disjoint, or that sales tools mean only repeat orders."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_tool_201003",
+    "label": "Jingyi acceptance duration: 设备201003，华虹宏力，8英寸CMP",
+    "category_id": "cmp",
+    "definition": "Original pp51–52 reporting-period acceptance-duration individual record 设备201003，华虹宏力，8英寸CMP. Accepted and revenue-recognized within the reporting-period cohort; no exact acceptance date or model identity inferred from equipment code."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_tool_scht001",
+    "label": "Jingyi acceptance duration: 设备SCHT001，中国电子科技集团公司第四十四研究所，6/8英寸兼容CMP",
+    "category_id": "cmp",
+    "definition": "Original pp51–52 reporting-period acceptance-duration individual record 设备SCHT001，中国电子科技集团公司第四十四研究所，6/8英寸兼容CMP. Accepted and revenue-recognized within the reporting-period cohort; no exact acceptance date or model identity inferred from equipment code."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_acceptance_duration_tool_201103",
+    "label": "Jingyi acceptance duration: 设备201103，境内客户B，8英寸CMP",
+    "category_id": "cmp",
+    "definition": "Original pp51–52 reporting-period acceptance-duration individual record 设备201103，境内客户B，8英寸CMP. Accepted and revenue-recognized within the reporting-period cohort; no exact acceptance date or model identity inferred from equipment code."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_postperiod_accepted_201040",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201040: June-end dispatched-goods cohort accepted by November-end",
+    "category_id": "cmp",
+    "definition": "Original p53 source-labelled machine 201040, customer 上海积塔, 8英寸 CMP. June-end dispatched-goods cohort accepted by November-end. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_postperiod_accepted_201059",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201059: June-end dispatched-goods cohort accepted by November-end",
+    "category_id": "cmp",
+    "definition": "Original p53 source-labelled machine 201059, customer 上海积塔, 8英寸 CMP. June-end dispatched-goods cohort accepted by November-end. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201016",
+    "label": "Jingyi 华虹宏力 8英寸 CMP 201016: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201016, customer 华虹宏力, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201103",
+    "label": "Jingyi 中芯国际（上海） 8英寸 CMP 201103: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201103, customer 中芯国际（上海）, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201111",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201111: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201111, customer 上海积塔, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201112",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201112: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201112, customer 上海积塔, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201117",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201117: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201117, customer 上海积塔, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_201122",
+    "label": "Jingyi 上海积塔 8英寸 CMP 201122: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine 201122, customer 上海积塔, 8英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_scs003",
+    "label": "Jingyi 荣芯半导体（淮安）有限公司 12英寸 CMP SCS003: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine SCS003, customer 荣芯半导体（淮安）有限公司, 12英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_scs005",
+    "label": "Jingyi 上海积塔 12英寸 CMP SCS005: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine SCS005, customer 上海积塔, 12英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_scs006",
+    "label": "Jingyi 卓胜微 12英寸 CMP SCS006: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine SCS006, customer 卓胜微, 12英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_november_validation_scs007",
+    "label": "Jingyi 武汉楚兴 12英寸 CMP SCS007: Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff",
+    "category_id": "cmp",
+    "definition": "Original p54 source-labelled machine SCS007, customer 武汉楚兴, 12英寸 CMP. Source table of equipment not accepted at November 30; elapsed validation measured at that cutoff. Equipment codes are table-local references, not globally unique identities or inferred platform models."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_advanced_12inch",
+    "label": "Jingyi planned additional capacity: 高阶工艺12英寸CMP设备",
+    "category_id": "cmp",
+    "definition": "Named process_upgrade fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform.",
+    "node_scope": {
+      "process_node": "14nm及以下",
+      "process_node_context": "高阶工艺12英寸CMP设备"
+    }
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_existing_12inch",
+    "label": "Jingyi planned additional capacity: 12英寸CMP设备",
+    "category_id": "cmp",
+    "definition": "Named manufacturing_center fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform. Original p202 explicitly excludes the parallel-polishing vertical-cleaning architecture.",
+    "node_scope": {
+      "process_node": "28nm及以上",
+      "process_node_context": "12英寸CMP设备"
+    }
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_parallel_12inch",
+    "label": "Jingyi planned additional capacity: 并行研磨平台竖直清洗高效12英寸CMP设备",
+    "category_id": "cmp",
+    "definition": "Named process_upgrade fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform.",
+    "node_scope": {
+      "process_node": "28nm及以上",
+      "process_node_context": "并行研磨平台竖直清洗高效12英寸CMP设备"
+    }
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_third_generation",
+    "label": "Jingyi planned additional capacity: 第三代半导体CMP设备（主要面向8英寸客户）",
+    "category_id": "cmp",
+    "definition": "Named manufacturing_center fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_existing_8inch",
+    "label": "Jingyi planned additional capacity: 8英寸CMP设备",
+    "category_id": "cmp",
+    "definition": "Named manufacturing_center fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform."
+  },
+  {
+    "reporting_scope_id": "jingyi_cmp_planned_capacity_compatible_6_8inch",
+    "label": "Jingyi planned additional capacity: 6/8英寸兼容CMP设备",
+    "category_id": "cmp",
+    "definition": "Named manufacturing_center fundraising-project product row on original pp202/218. Additional annual manufacturing capacity conditional on project reaching full output; not existing capacity, actual output, shipments or installations. Source product family, not an inferred named platform."
+  },
+  {
+    "reporting_scope_id": "jingyi_jingwei_domestic_overseas_sales_table",
+    "category_id": "all_businesses",
+    "label": "Jingyi Jingwei 境内销售/境外销售 table",
+    "definition": "Issuer source-native table from the STAR-market second-round inquiry reply (2024-01-05), comparing 境外销售收入 (net of a 综合服务费 paid to its overseas sales agent 登普半导体) against 境内销售收入, for 2020, 2021, 2022, H1 2023 and the 报告期合计 (2020-H1 2023 aggregate). TOTAL-OPERATING-REVENUE basis confirmed by residual: 境内销售收入+境外销售收入 reproduces the issuer's own 营业收入 for every period exactly (e.g. FY2022: 44,799.65+5,781.17=50,580.82万元, matching the issuer's own disclosed FY2022 营业收入 of 50,580.82万元 to the cent; FY2021, FY2020 and H1 2023 all reconcile the same way), so this is not a narrower main-business-only split. 境外销售毛利率(①) is computed by the issuer on 境外销售收入 NET OF the 综合服务费 agent commission, not on the gross 境外销售收入 also printed in the same row; dividing the gross revenue and cost cells directly will not reproduce the printed margin. 境内销售毛利率(②) uses the gross 境内销售收入/境内销售成本 directly with no such adjustment."
+  }
+]

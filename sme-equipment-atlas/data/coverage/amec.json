@@ -1,0 +1,310 @@
+[
+  {
+    "coverage_id": "legacy-1",
+    "scope": "amec 2022 etch revenue",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2022"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-2",
+    "scope": "amec 2022 etch sales_volume",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2022"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-3",
+    "scope": "amec 2023 etch revenue",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2023"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-4",
+    "scope": "amec 2023 etch sales_volume",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2023"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-5",
+    "scope": "amec 2024 etch revenue",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2024"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-6",
+    "scope": "amec 2024 etch sales_volume",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2024"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-7",
+    "scope": "amec 2025 etch revenue",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_2025"
+    ],
+    "next_action": "Monitor new disclosures; review scope changes.",
+    "notes": "Reported directly."
+  },
+  {
+    "coverage_id": "legacy-8",
+    "scope": "amec 2025 etch sales_volume",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "amec_2025"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "2025 volume table aggregates special equipment; etch-only volume not located."
+  },
+  {
+    "coverage_id": "amec_h1_2025-operational",
+    "scope": "AMEC H1 2025 report operational milestones",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_h1_2025"
+    ],
+    "next_action": "Resolve exact publication date from local metadata where possible; extend to earlier/later documents.",
+    "notes": "Bounded platform/product discussion review, not complete extraction of every quantitative datum."
+  },
+  {
+    "coverage_id": "amec_h1_2024-operational",
+    "scope": "AMEC H1 2024 report operational milestones",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "amec_h1_2024"
+    ],
+    "next_action": "Resolve exact publication date from local metadata where possible; extend to earlier/later documents.",
+    "notes": "Bounded platform/product discussion review, not complete extraction of every quantitative datum."
+  },
+  {
+    "coverage_id": "amec-company-financial-backfill",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "net_profit_attributable",
+    "period": "2021-2026H1",
+    "status": "reviewed_found",
+    "scope": "Annual profit/OCF FY21–25; expensed/total R&D and cost FY22–25; H125/H126 company financial panel",
+    "reviewed_source_ids": [
+      "amec_2023",
+      "amec_2025",
+      "amec_h1_2026"
+    ],
+    "notes": "36 accepted additions; one FY25 CNY0.01 cost-table variant held. H126 has an explicit consolidation-basis break. Finite checklist disposition is not full filing extraction.",
+    "next_action": "FY21 R&D from registered FY22 original; annual product cost/margin and source-native spares/other scopes; income-statement R&D expense as distinct measure; further H126 operating disclosures."
+  },
+  {
+    "coverage_id": "amec-corpus1-metadata",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2021–Q1 2026 selected originals",
+    "status": "not_searched",
+    "scope": "Eleven newly registered AMEC annual/interim/quarterly originals; metadata verified, table extraction pending.",
+    "reviewed_source_ids": [
+      "amec_annual_2021",
+      "amec_q1_2022",
+      "amec_h1_2022",
+      "amec_q3_2022",
+      "amec_q1_2023",
+      "amec_q3_2023",
+      "amec_q1_2024",
+      "amec_q3_2024",
+      "amec_q1_2025",
+      "amec_q3_2025",
+      "amec_q1_2026"
+    ],
+    "notes": "Cover/type/period/hash/page-count checks are not financial extraction or complete evidence coverage.",
+    "next_action": "Start FY2021 annual and H1 2022 disclosure tables; then quarterly original/comparative financial and operational lines."
+  },
+  {
+    "coverage_id": "amec-fy2021-concentration",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "customer_sales_share",
+    "period": "FY2021",
+    "status": "reviewed_found",
+    "scope": "All p45 customer/supplier concentration amounts and shares, rank1–5, top-five aggregate and related-party aggregate.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "28 source-checked values. Other sections of this original remain in the active extraction queue.",
+    "next_action": "Integrate independently checked full financial statements and workforce tables from this filing, then product/operating and note sections."
+  },
+  {
+    "coverage_id": "amec-fy2021-statements-workforce",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2020–FY2021, plus opening cash at 2019-12-31",
+    "status": "reviewed_found",
+    "scope": "All populated consolidated balance-sheet, income-statement, cash-flow-statement cells and assigned workforce counts/shares.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "256 native cells represented by251 distinct observations; five repeated cells linked. Full financial breadth retained.",
+    "next_action": "Product/operating tables, financial notes and R&D salary figures from this original, then separate parent-only perimeter."
+  },
+  {
+    "coverage_id": "amec-fy2021-product-operations",
+    "entity_id": "amec",
+    "category_id": "multi_equipment",
+    "metric_id": "sales_volume",
+    "period": "FY2020–FY2021, as disclosed in FY2021 annual report",
+    "status": "reviewed_found",
+    "scope": "Product/industry/geography/sales-mode financial tables, chamber production/sales/inventory, cost components and total/average R&D remuneration.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "108 original and mapped source-checked values. Conflicting cost tables retained with separate scopes; no forced reconciliation or category allocation.",
+    "next_action": "Product financial and operating narrative, then remaining financial notes and separate parent-only perimeter."
+  },
+  {
+    "coverage_id": "amec-fy2021-headline-quarterly",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2019–FY2021 and FY2021 quarters",
+    "status": "reviewed_found",
+    "scope": "Three-year financial headlines/indicators, directly reported quarterly levels and non-recurring gain/loss components.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "85nativecells represented by71newobservations and14links to exact same-source consolidated statement rows.",
+    "next_action": "Product financial/operating narratives, remaining financial notes and separate parent-only statements."
+  },
+  {
+    "coverage_id": "amec-fy2021-narrative",
+    "entity_id": "amec",
+    "category_id": "multi_equipment",
+    "metric_id": "shipments",
+    "period": "FY2020–FY2021 annual disclosure contexts",
+    "status": "reviewed_found",
+    "scope": "Assigned product-financial and operating narratives; separate company financial bridges.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "All105stagedelements dispositioned; numerical and qualitative evidence are distinct.",
+    "next_action": "Review remaining R&D project tables and qualitative/category/node claims; investigate impossible Nanova delivery date."
+  },
+  {
+    "coverage_id": "amec-q1-2022-financial",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "Q1 2022 with Q1 2021 and year-end stock comparatives",
+    "status": "reviewed_found",
+    "scope": "All populated consolidated financial-statement, headline and non-recurring-table cells.",
+    "reviewed_source_ids": [
+      "amec_q1_2022"
+    ],
+    "notes": "253 native cells represented by 244 observations and 9 exact same-source aliases after separating total operating revenue from sales revenue.",
+    "next_action": "Extend source-specific financial and operating extraction; management and shareholder supplements are already captured separately."
+  },
+  {
+    "coverage_id": "amec-q1-2022-supplemental",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "reported_shareholding_quantity",
+    "period": "Q1 2022 and stated comparatives",
+    "status": "reviewed_found",
+    "scope": "Management financial explanations and explicit ordinary-shareholder count/top-ten holdings tables.",
+    "reviewed_source_ids": [
+      "amec_q1_2022"
+    ],
+    "notes": "88nativecells yield79numericalrecords plus9exact/rounded aliases. All overlapping holding columns retained, not additive.",
+    "next_action": "Continue financial and operational disclosure coverage in later registered sources."
+  },
+  {
+    "coverage_id": "amec-h1-2022-financial",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "H1 2022 with H1 2021 and 2021 year-end stock comparatives",
+    "status": "reviewed_found",
+    "scope": "Prepared consolidated statement, headline, non-recurring and non-GAAP table sections; not a claim of complete interim-report coverage.",
+    "reviewed_source_ids": [
+      "amec_h1_2022"
+    ],
+    "notes": "276 native cells represented by 262 observations and 14 exact same-source aliases after separating total operating revenue from sales revenue; p80 completes consolidated cash flow before parent-only rows.",
+    "next_action": "Use this source as a distinct interim vintage; do not aggregate overlapping statement lines."
+  },
+  {
+    "coverage_id": "amec-fy2021-rd-tables",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "rd_investment",
+    "period": "FY2020-FY2021 as disclosed in the FY2021 annual report",
+    "status": "reviewed_found",
+    "scope": "All populated cells in the assigned R&D-investment, government-grant reconciliation and named-project investment tables.",
+    "reviewed_source_ids": [
+      "amec_annual_2021"
+    ],
+    "notes": "60 native elements yield 58 observations and two explicitly linked same-source aliases. 公司 and 本集团 reconciliation wording remains separate.",
+    "next_action": "Extend matching R&D table concepts into later registered AMEC filings while preserving perimeter and vintage."
+  },
+  {
+    "coverage_id": "amec-q1-2026-financial-statements",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "Q1 2026 with original comparative columns",
+    "status": "reviewed_found",
+    "scope": "270 populated cells:254 observations and16 exact aliases across headline, non-recurring and consolidated statements including footnotes.",
+    "reviewed_source_ids": [
+      "amec_q1_2026"
+    ],
+    "notes": "Original physical pages2,4–5,8–15. Signed treasury stock and adjustments preserved. Two prior comprehensive-income identities fail in the source itself.",
+    "next_action": "Map separate equipment count and capability/maturity passages, then remaining shareholder and narrative financial disclosures."
+  },
+  {
+    "coverage_id": "amec-q1-2026-operating-narrative",
+    "entity_id": "amec",
+    "category_id": "multi_equipment",
+    "metric_id": "reaction_stations_in_mass_production",
+    "period": "Q1 2026 report context, FY2025 growth and source-stated historical context",
+    "status": "reviewed_found",
+    "scope": "Bounded operating and financial narrative on physical pages2–3/5: 31 numerical observations, two named products, nine source-native family/group records and three lexical-count holds.",
+    "reviewed_source_ids": [
+      "amec_q1_2026"
+    ],
+    "notes": "No inference of platform qualification from shipment for validation; no arbitrary dates for historical or undated milestone claims. Financial grid is separately integrated. Maturity histories without an explicit date use source report context; broad families/groups are not distinct named tools. Page5 profit-before-tax narrative and four additional qualifier/presentation cases were recovered after a specific source review; earlier page5-repetitions-only claim is superseded.",
+    "next_action": "Support reviewed lexical counts and extract remaining shareholder disclosures separately; continue other registered sources."
+  },
+  {
+    "coverage_id": "amec-fy2025-consolidated-financial-statements",
+    "entity_id": "amec",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2025 and FY2024 flows, FY2023–FY2025 cash-stock comparatives",
+    "status": "reviewed_found",
+    "scope": "240 populated original consolidated BS/IS/CF cells on physical pages138–140,142–144,146–148: 232 new observations, seven canonical aliases and one within-batch cash-stock alias.",
+    "reviewed_source_ids": [
+      "amec_2025"
+    ],
+    "notes": "Original-grid counts BS101/IS76/CF63; 184 blank template cells and four printed dashes excluded. Original and semantic review checked122 distinct row labels against full metric definitions;26 accounting identities pass. No parent-only scope or whole-report completeness inferred.",
+    "next_action": "Extract remaining annual headline/nonrecurring/quarterly disclosures, business and mandatory operating tables, parent statements and financial notes as separate source sections."
+  }
+]

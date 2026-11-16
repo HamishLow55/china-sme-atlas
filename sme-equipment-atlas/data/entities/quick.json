@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "quick",
+    "name": "Quick Intelligent Equipment",
+    "aliases": [
+      "快克智能装备股份有限公司",
+      "快克智能",
+      "QUICK INTELLIGENT EQUIPMENT CO., LTD.",
+      "603203"
+    ],
+    "evidence": {
+      "source_id": "quick_annual_2025",
+      "page": 8,
+      "excerpt": "快克智能装备股份有限公司2025 年年度报告\n\n\n\n\n五、 公司股票简况\n\n                      公司股票简况\n     股票种类     股票上市交易所  股票简称                   股票代码        变更前股票简称\nA股           上海证券交易所 快克智能                 603203         无",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "Issuer legal identity on physical p7 and SSE A-share listing on p8. Listing is as disclosed in this filing, not a live trading-status assertion. Company has multiple non-semiconductor businesses; no HBM allocation of group or broad bonding revenue.",
+    "entity_class": "china_supply_base"
+  }
+]

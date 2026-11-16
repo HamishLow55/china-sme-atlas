@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "yadian_ipo_disclosures",
+    "title": "Yadian (Jiangsu Asia Electronics) IPO prospectus disclosures",
+    "kind": "company_filings",
+    "publisher": "yadian",
+    "version": "yadian1-2026-09-28",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals remain local.",
+    "market_definitions": {}
+  }
+]

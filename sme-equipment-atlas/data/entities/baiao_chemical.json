@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "baiao_chemical",
+    "name": "Baiao Chemical",
+    "aliases": [
+      "大连百傲化学股份有限公司",
+      "百傲化学",
+      "Dalian Baiao Chemical Co., Ltd.",
+      "603360.SH"
+    ],
+    "evidence": {
+      "source_id": "baiao_chemical_2024_ar",
+      "page": 4,
+      "excerpt": "百傲化学、公司、本公司 指 大连百傲化学股份有限公司",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "ENTITY TYPE WARNING: Baiao Chemical is an SSE-main-board-listed (603360.SH) industrial-biocide (isothiazolinone) chemicals maker, NOT a semiconductor-equipment vendor and NOT an Atlas subject firm in its own right. Registered here solely as the DISCLOSING SHAREHOLDER whose own cninfo-filed FY2024 annual report carries entity_id xinhuilianxin's (and its out-of-scope sibling 芯慧联's) identity, business description and (for 芯慧联, the consolidated subsidiary) financial figures as a cross-industry acquisition. This mirrors the atlas's existing pattern for Shanghai Electric Holdings Group disclosing SMEE and Aishengna as equity-method associates (entity_id shanghai_electric_holdings). Never register semiconductor-equipment-vendor observations (revenue, shipments, platforms) directly against this entity_id; any such fact belongs to entity_id xinhuilianxin.",
+    "entity_class": "disclosure_only"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "platform_id": "naike_ntams180x1",
+    "entity_id": "naike",
+    "category_id": "molding_transfer",
+    "record_kind": "named_model",
+    "name": "NTAMS180-X1",
+    "aliases": [
+      "新一代180吨全自动封装系统"
+    ],
+    "evidence": {
+      "claim_id": "NAIKE-FY25-RDTABLE-NTAMS180X1",
+      "source_id": "naike_annual_2025",
+      "page": 31,
+      "excerpt": "在研项目情况 单位:万元 项目名称 新一代180吨全自动封装系统开发NTAMS180-X1 预计总投资规模 450 本期投入金额 23.04 累计投入金额 407.11 进展或阶段性成果 项目结题 拟达到目标 满足用于SOP、SOT、LQFP、SMA、QFN、DFN等产采用transfer molding封装形式的产品封装",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_项目结题",
+    "maturity_as_reported_in": "naike_annual_2025",
+    "notes": "Next-generation 180-ton fully automatic transfer-molding system. The mechanism is not inferred: the FY2025 report's own 拟达到目标 column names 'transfer molding' in Latin script. Carried at molding_transfer on that basis. The project was already marked 项目结题 in the FY2024 report, and the two vintages cross-foot -- FY2024 cumulative 384.07 plus FY2025 period 23.04 equals FY2025 cumulative 407.11 -- which confirms row, column and year alignment across two separate filings. No customer and no memory or HBM application is claimed for this platform in any Naike, Sanjia or Zhonghe filing read for this packet. The stage word reflects the issuer's declaration that the development project closed, not an independently corroborated production volume; treat it as a company claim. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Name/row 'NTAMS180-X1' confirmed via pdftotext -layout on naike_annual_2024 physical p30, row 6, paired with budget 450/period 384.07/cumulative 384.07/status 项目结题 -- and cross-footed against the FY2025 table (naike_annual_2025 p31, non-layout: budget 450/period 23.04/cumulative 407.11), where 384.07+23.04=407.11 confirms row-and-year alignment across two filings exactly as the record claims. category_id molding_transfer is correctly supported by the issuer's own 拟达到目标 cell naming 'transfer molding' in Latin script. HOWEVER reported_maturity 'mass_production' overstates the issuer's actual status word: 项目结题 means an R&D project was formally CONCLUDED/closed out, which is an administrative R&D-table milestone, not a volume-production claim -- none of 成功开发/客户验证/小批量/实现量产/产业化 is used anywhere for this platform, and the record's own notes concede 'not an independently corroborated production volume... treat it as a company claim' without going on to fix the field itself. Tellingly, the record's own maturity_history entries correctly label both the FY2024 and FY2025 citations as '项目结题 (project concluded)' -- only the top-level summary field upgrades this to 'mass_production', an internal inconsistency within the record. No customer, shipment or revenue figure is cited anywhere in the packet for this specific model. Corrected to a value that names the issuer's actual status word, following the atlas's existing 'rd_project_table_项目进展_X' naming convention (seen elsewhere, e.g. rd_project_table_项目进展_验证阶段).",
+    "maturity_history": [
+      {
+        "claim_id": "NAIKE-FY24-RDTABLE-NTAMS180X1",
+        "source_id": "naike_annual_2024",
+        "page": 30,
+        "excerpt": "在研项目情况 单位:万元 项目名称 新一代180吨全自动封装系统开发NTAMS180-X1 预计总投资规模 450 本期投入金额 384.07 累计投入金额 384.07 进展或阶段性成果 项目结题 拟达到目标 开发全新布局的半导体全自动封装设备。对比上一代，结构更合理，效率更高效",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "项目结题 (project concluded)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 vintage of the R&D project table. The table sits on physical p30; only its heading 在研项目情况 falls at the foot of p29, which is how an earlier citation of this record landed a page short and carried the FY2025 figures under the FY2024 source. FY2024's own figures are 450 budget, 384.07 period and 384.07 cumulative."
+      },
+      {
+        "claim_id": "NAIKE-FY25-RDTABLE-NTAMS180X1",
+        "source_id": "naike_annual_2025",
+        "page": 31,
+        "excerpt": "在研项目情况 单位:万元 项目名称 新一代180吨全自动封装系统开发NTAMS180-X1 预计总投资规模 450 本期投入金额 23.04 累计投入金额 407.11 进展或阶段性成果 项目结题 拟达到目标 满足用于SOP、SOT、LQFP、SMA、QFN、DFN等产采用transfer molding封装形式的产品封装",
+        "as_of": "2025-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "项目结题 (project concluded)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 vintage, restating the concluded project with a residual 23.04万 of period spend taking cumulative to 407.11万."
+      }
+    ]
+  },
+  {
+    "platform_id": "naike_ntcms40v1",
+    "entity_id": "naike",
+    "category_id": "molding_compression",
+    "record_kind": "named_model",
+    "name": "NTCMS40-V1",
+    "aliases": [
+      "压缩成型封装设备NTCMS40-V1"
+    ],
+    "evidence": {
+      "claim_id": "NAIKE-FY25-P29-NTCMS40V1",
+      "source_id": "naike_annual_2025",
+      "page": 29,
+      "excerpt": "压缩成型封装设备NTCMS40-V1 该设备及技术运用在半导体先进封装工序，采用粉末树脂对基板尺寸规格小于等于100mm×300mm进行压缩封装成型，用于如WB-BGA精细线路以及FC-BGA倒装芯片球栅格阵列封装基板、以及Chiplet设计模式以及人工智能带动高性能计算芯片的封装需求。该设备正在厂内测试中。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "trial",
+    "maturity_as_reported_in": "naike_interim_2026h1",
+    "notes": "Strip/substrate-level compression molder, <=100mm x 300mm, aimed at WB-BGA, FC-BGA and chiplet/AI-accelerator packaging (no memory or HBM application named). FY2025: 'currently undergoing in-house/factory testing' (该设备正在厂内测试中) -- company's own prototype-stage wording, closest to the atlas's 'lab' stage word (研发中/样机研制) since testing is still in-house, not yet with a customer. H1 2026: 'has been shipped to a customer for trial use' (已发往客户端进行试用) -- matches the atlas's 'trial' stage word (发往客户验证中/shipped for customer validation) exactly. Both stages are company claims with no independent corroboration found. No memory or HBM customer or application is named anywhere. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '压缩成型封装设备NTCMS40-V1...该设备正在厂内测试中' confirmed via pdftotext -layout on naike_annual_2025 physical p29, row 27 ('压缩成型/封装设备/NTCMS4/0-V1' pairs with the WB-BGA/FC-BGA/Chiplet description and '该设备正在厂内测试中') -- note the non-layout rendering genuinely breaks 'NTCMS40-V1' across a line wrap with an unrelated adjacent column's text interposed, so a naive non-layout contiguous-string search falsely suggests the citation is wrong; -layout resolves this and confirms the citation is correct, exactly the trap the protocol warns about. H1 2026 progression to '已发往客户端进行试用' confirmed verbatim on naike_interim_2026h1 p16 (non-layout, stripped). category_id molding_compression correct -- the SAME model's FY2024 R&D-table entry (naike_annual_2024 p30, row 3, confirmed via -layout: stage 样机装配调试试验阶段, budget 1,200/period 492.55/cumulative 829.79) is explicitly labelled 'Compression Molding' in Latin script, consistent with but not cited by the record; this is additional uncited-but-consistent corroboration, not a contradiction, and does not change the decision. Maturity progression lab (FY2025, in-house testing) -> trial (H1 2026, shipped for customer trial) is accurately staged and not inflated to a stronger claim; no memory/HBM application is claimed anywhere, as the notes say.",
+    "maturity_history": [
+      {
+        "claim_id": "NAIKE-FY25-P29-NTCMS40V1",
+        "source_id": "naike_annual_2025",
+        "page": 29,
+        "excerpt": "压缩成型封装设备NTCMS40-V1 ... 该设备正在厂内测试中。",
+        "as_of": "2025-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "该设备正在厂内测试中 (undergoing in-house/factory testing)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 annual report product/technology description; stage word 'lab' (in-house testing, not yet at a customer)."
+      },
+      {
+        "claim_id": "NAIKE-H1-2026-P16-NTCMS40V1-TRIAL",
+        "source_id": "naike_interim_2026h1",
+        "page": 16,
+        "excerpt": "报告期内，公司在研项目10项，全部围绕公司主导产品技术提升和新品开发展开，其中采用压缩成型工艺的封装设备NTCMS40-V1已发往客户端进行试用；大尺寸晶圆级集成电路智能封装关键技术研究及智能装备产业化项目处于手动产品工艺流程验证和测试阶段。",
+        "as_of": "2026-06-30",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "已发往客户端进行试用 (shipped to a customer for trial use)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 interim report; stage advances from in-house testing to a customer trial shipment. Matches atlas stage word 'trial'."
+      },
+      {
+        "claim_id": "NK-H126-P25-NTCMS40V1-CLOSED",
+        "source_id": "naike_interim_2026h1",
+        "page": 25,
+        "excerpt": "压缩成型封装设备 NTCMS40-V1；进展或阶段性成果：项目结题；拟达到目标：Compression Molding，实现满足 BGA 基板类封装需求；具体应用前景：应用于 BGA 基本类封装",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "rd_project_table_项目进展_项目结题",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 R&D table closes the project while pp11 and 16 say the tool has shipped to a customer for trial. Project close is an administrative milestone, not validation or volume. Period spend prints as -0.83万元, held in metric_proposals.json."
+      },
+      {
+        "claim_id": "NK-H126-P23-NTCMS40V1-INHOUSE",
+        "source_id": "naike_interim_2026h1",
+        "page": 23,
+        "excerpt": "该设备及技术运用在半导体先进封装工序，采用粉末树脂对基板尺寸规格小于等于 100mm ×300mm 进行压缩封装成型，用于如 WB-BGA 精细线路以及 FC-BGA 倒装芯片球栅格阵列封装基板、以及 Chiplet 设计模式以及人工智能带动高性能计算芯片的封装需求。该设备正在厂内测试中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "该设备正在厂内测试中",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Stale or conflicting: the same report's p23 core-technology table still prints in-house testing, repeating FY2025 wording, against 已发往客户端进行试用 on p16. Both preserved, not reconciled."
+      }
+    ]
+  },
+  {
+    "platform_id": "naike_wafer_level_compression_project",
+    "entity_id": "naike",
+    "category_id": "molding_compression",
+    "record_kind": "source_native_project",
+    "name": "大尺寸晶圆级集成电路智能封装关键技术研究及智能装备产业化",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "NK-H126-P16-WAFERPROJ",
+      "source_id": "naike_interim_2026h1",
+      "page": 16,
+      "excerpt": "大尺寸晶圆级集成电路智能封装关键技术研究及智能装备产业化项目处于手动产品工艺流程验证和测试阶段",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "manual_product_process_flow_validation_and_test_stage_h1_2026",
+    "maturity_as_reported_in": "naike_interim_2026h1",
+    "notes": "No model number. Three stage statements in one report: p16 and the p25 table say manual-product process-flow validation and test; p23 still says 该设备正在设计开发中. The p26 target cell describes 300mmX300mm 及以上 板级 Compression Molding, while p23 describes 12 寸晶圆. No customer and no memory or HBM claim. Existing scope naike_compression_wafer_panel_project carries its spend.",
+    "maturity_history": [
+      {
+        "claim_id": "NK-H126-P23-WAFERPROJ-DESIGN",
+        "source_id": "naike_interim_2026h1",
+        "page": 23,
+        "excerpt": "该设备及技术运用在半导体先进封装工序，采用粉末或液态树脂封对 12 寸规格晶圆压缩封装成型，用于如硅通孔（TSV）、集成无源器件（IPD）、芯片 FAN-IN/FAN-OUT 技术、微机电系统（MEMS）与传感器以及多种集成架构的 WLP 晶圆级封装成型需求。该设备正在设计开发中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "design_and_development",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Core-technology table on p23 still reads 设计开发中, older wording than the R&D table."
+      }
+    ]
+  },
+  {
+    "platform_id": "naike_ntams240",
+    "entity_id": "naike",
+    "category_id": "molding_transfer",
+    "record_kind": "named_model",
+    "name": "NTAMS240",
+    "aliases": [
+      "NTAMS240 全自动封装系统"
+    ],
+    "evidence": {
+      "claim_id": "NK-H126-P26-NTAMS240",
+      "source_id": "naike_interim_2026h1",
+      "page": 26,
+      "excerpt": "NTAMS240 全自动封装系统；进展或阶段性成果：开展各类自研零部件加工制作；拟达到目标：实现双模盒标准封装、单模盒高压注塑、单模盒双排注塑稳定运行，兼容主流盒体规格与封装工艺",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "rd_project_table_项目进展_开展各类自研零部件加工制作",
+    "maturity_as_reported_in": "naike_interim_2026h1",
+    "notes": "Early R&D row. The product table on p13 separately lists 半导体全自动双模盒 240 吨封装设备; the filing does not equate the two, so that sentence is not used as this record's stage.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naike_ntams180xt",
+    "entity_id": "naike",
+    "category_id": "molding_transfer",
+    "record_kind": "named_model",
+    "name": "NTAMS180-XT",
+    "aliases": [
+      "新型自动封装冲切集成系统开发 NTAMS180-XT"
+    ],
+    "evidence": {
+      "claim_id": "NK-H126-P26-NTAMS180XT",
+      "source_id": "naike_interim_2026h1",
+      "page": 26,
+      "excerpt": "新型自动封装冲切集成系统开发 NTAMS180-XT；进展或阶段性成果：项目结题；拟达到目标：满足 transfer molding 封装形式的产品且能实现精密冲切流道",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "rd_project_table_项目进展_项目结题",
+    "maturity_as_reported_in": "naike_interim_2026h1",
+    "notes": "项目结题 closes the R&D project; it is not a volume-production claim.",
+    "maturity_history": []
+  }
+]

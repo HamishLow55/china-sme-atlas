@@ -1,0 +1,80 @@
+[
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_annual_revenue",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2022-KSREV",
+      "WANYE2023-KSREV",
+      "XIADAO2024-KSREV",
+      "XIADAO2025-KSREV"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_annual_net_profit",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / net profit",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2022-KSNPROFIT",
+      "WANYE2023-KSNPROFIT",
+      "XIADAO2024-KSNPROFIT",
+      "XIADAO2025-KSNPROFIT"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_annual_operating_cash_flow",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial evidence, with reporting perimeters retained; not a constant-perimeter time series.",
+    "observation_ids": [
+      "WANYE2022-KSOCF",
+      "WANYE2023-KSOCF",
+      "XIADAO2024-KSOCF",
+      "XIADAO2025-KSOCF"
+    ],
+    "limitations": "Issuer includes non-equipment businesses and adds material bismuth operations in FY2025. Main-business equipment and reportable-segment equipment are distinct. Kingstone subsidiary financials include systems, spares and services; group/subsidiary totals overlap. No implant-only revenue allocation or adjusted growth inferred."
+  },
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_interim_revenue",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / interim revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-KS-revenue",
+      "H126-H12025-KS-revenue"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_interim_net_profit",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / interim net profit",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-KS-net_profit",
+      "H126-H12025-KS-net_profit"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  },
+  {
+    "series_id": "wanye_financial_kingstone_consolidated_company_interim_operating_cash_flow",
+    "version": 1,
+    "title": "上海凯世通半导体股份有限公司 / kingstone consolidated company / interim operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-labelled financial or operating evidence; retained vintages and dates, not a constant-perimeter time series.",
+    "observation_ids": [
+      "H126-H12026-KS-operating_cash_flow",
+      "H126-H12025-KS-operating_cash_flow"
+    ],
+    "limitations": "Group totals overlap subsidiary totals and contain non-equipment businesses. Acquisitions change H1 2026 scope. Source-native R&D totals are distinct. Orders, deliveries, acceptances and customer counts are not installed base or recognized sales. Disclosure-date proxies are not period-end measurements."
+  }
+]

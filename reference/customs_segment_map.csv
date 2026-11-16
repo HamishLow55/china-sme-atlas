@@ -1,0 +1,29 @@
+hs8,origin_rule,group_id,allocation,basis,status
+84862031,all,litho,full,Tariff line: step-and-repeat aligners,proposed
+84862039,all,litho,full,Other projection patterning apparatus; mostly scanners by value (Netherlands origin = 93% of Jan-Aug 2026 value),proposed
+84862021,all,deposition,full,CVD,proposed
+84862022,all,deposition,full,PVD,proposed
+84862029,all,deposition,full,Other film deposition (plating placement unverified),proposed
+84862041,all,dry_etch,full,Plasma dry etch,proposed
+84862049,all,cleaning_strip,full,"Other etch and strip: declaration examples are mostly wet etch, strip and cleaning (older ones include solar wet lines, but German origin is at most 1% of value since 2023), so cleaning and strip are grouped (docs/customs_code_evidence.md)",proposed
+84862050,all,doping,full,Ion implanters,proposed
+84862010,all,thermal,full,"Oxidation, diffusion, annealing and other heat treatment",proposed
+90314100,all,process_control,full,Optical inspection instruments only; e-beam inspection and CD-SEM are declared under other codes,proposed
+84861040,exclude:304,cmp,full,"Singapore/Japan-origin CMP tracks fab provinces with Applied Materials/Ebara-class unit values (China Customs Data Exploration (vault Tier 3), CMP classification test 2026-09-23)",proposed
+84861040,only:304,wafer_making,excluded,"German-origin 84861040 tracks wafer makers: bare-wafer polishing (China Customs Data Exploration (vault Tier 3), CMP classification test 2026-09-23)",proposed
+84862090,all,cmp,amount_usd:A-CMP-IN-84862090,Some foreign CMP is declared under 84862090 (declaration examples; Hwatsing consistency check),proposed
+84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,"Wet cleaners (SCREEN/DNS SS-3000/FC-3000, Semitool SRD) are declared under 84862090 (docs/customs_code_evidence.md)",proposed
+84862090,all,backend,share:A-BACKEND-IN-84862090,"Dicing saws, back-grinders and die bonders are declared under 84862090 (docs/customs_code_evidence.md)",proposed
+84862090,all,track_automation_other,residual,"Remainder of 84862090: tracks, automation and other front-end apparatus. Declaration examples show it also holds wet cleaners, dicing saws, back-grinders, die bonders and misdeclared PCB/solar kit, so this residual overstates tracks and automation (docs/customs_code_evidence.md)",proposed
+84861010,all,wafer_making,excluded,Crystal growth,proposed
+84861020,all,wafer_making,excluded,"Grinding for boules/wafers. Also holds device-wafer back-grinders (DISCO DFG/821F examples), which are HBM thinning tools (docs/customs_code_evidence.md)",proposed
+84861030,all,wafer_making,excluded,"Sawing for boules/wafers. Also holds device-wafer dicing saws and laser dicers (DISCO DAD, Accretech examples), which are HBM singulation tools (docs/customs_code_evidence.md)",proposed
+84861090,all,wafer_making,excluded,Other wafer-making machines,proposed
+84864031,all,track_automation_other,full,"Automated material handling in IC factories (AMHS). Consignees concentrate in Shanghai and Beijing (2025: 41% and 15% of value), consistent with AMHS vendors' China entities importing for fab installation",proposed
+84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,Other wafer/IC handling: the part that is fab automation bought by fabs (sensitivity only; see the assumption),proposed
+84864039,all,handling_unallocated,residual,Remainder of 84864039: flat-panel handling and wafer-transfer robots imported as tool modules (which domestic tool revenue already contains). Outside the share chart,proposed
+84864010,all,mask_making,full,"Manufacture or repair of masks and reticles (mask writers, repair). Outside the lithography group, which is wafer exposure only",proposed
+84864021,all,backend,full,Plastic encapsulation (molding) for assembly,proposed
+84864022,all,backend,full,Wire bonders,proposed
+84864029,all,backend,full,"Other mounting and bonding machines: die attach, flip-chip, thermo-compression and possibly hybrid bonders (split unknown)",proposed
+90308200,all,test,full,"ATE, test handlers and wafer probers (US rulings N280220, N337433; declaration examples). A floor for test imports: some testers are declared as parts or under 90318090 (docs/customs_code_evidence.md)",proposed

@@ -1,0 +1,35 @@
+[
+  {
+    "claim": "Dash versus explicit-zero presentation",
+    "source_id": "djel_ipo_2026",
+    "page": 260,
+    "reason": "The granular revenue table prints a dash for EBI 2023, while the immediately following narrative explicitly reports EBI revenue as 0.00万元 for 2023. The accepted zero observation is sourced only to the narrative, with matching perimeter verified; presentation caveat retained. DR-SEM 2023/2025 remain omitted because only dashes are reported.",
+    "claim_id": "wave2-djel-1"
+  },
+  {
+    "claim": "8-inch versus 12-inch CD-SEM unit sales and ASP",
+    "source_id": "djel_ipo_2026",
+    "pages_reviewed": [
+      176,
+      260,
+      266,
+      267
+    ],
+    "reason": "The filing reports CD-SEM physical sales only in aggregate, while revenue is split by wafer diameter. It does not report diameter-specific unit counts or ASP. No implied ASP was calculated.",
+    "claim_id": "wave2-djel-2"
+  },
+  {
+    "claim": "DR-SEM 2024 sale count composition",
+    "source_id": "djel_ipo_2026",
+    "page": 267,
+    "reason": "The filing says the two 2024 DR-SEM sales comprised one R&D prototype and one non-R&D tool. The accepted sales-volume observation remains total systems; no condition split was invented.",
+    "claim_id": "wave2-djel-3"
+  },
+  {
+    "claim": "Exact signing date",
+    "source_id": "djel_ipo_2026",
+    "page": 5,
+    "reason": "Issuance overview leaves signing-date field blank; filing date from source trail is not a signed date.",
+    "claim_id": "wave2-djel-4"
+  }
+]

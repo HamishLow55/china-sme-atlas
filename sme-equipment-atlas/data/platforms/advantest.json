@@ -1,0 +1,128 @@
+[
+  {
+    "platform_id": "advantest_v93000",
+    "entity_id": "advantest",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "name": "V93000",
+    "aliases": [
+      "V93000"
+    ],
+    "evidence": {
+      "claim_id": "ADVANTEST-IAR25-P15-V93000",
+      "source_id": "advantest_iar2025_eng",
+      "page": 15,
+      "excerpt": "Business Segment. Synergistic Solution Families Centered on Semiconductor Test Systems. [row 1] Metrology/SEM: E3660 (MASK CD-SEM) | Test System: V93000 (SoC Test System) | Advantest Interconnect Solutions: T5801 (Memory Test System). [row 2] Test Handlers: M6242 (Memory Test Handler) | Device Interface: HiFIX (For Package Test) | System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform).",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogue_listed_no_shipment_inference",
+    "maturity_as_reported_in": "advantest_iar2025_eng",
+    "notes": "Advantest's SoC Test System, named in the FY2025 Integrated Annual Report's business-segment product-family diagram (physical/printed p15). Filed at category 'test' (parent) rather than a dedicated SoC-ATE child category, which does not yet exist in this atlas (see advantest_test_soc reporting-scope note). The diagram itself carries no maturity wording -- it is a current product-lineup chart, not a staged disclosure -- so the base record uses 'catalogue_listed_no_shipment_inference'; a stronger, dated maturity claim is carried separately in maturity_history from a CTO interview in the same report. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against advantest_iar2025_eng p.15 (the business-segment product-family diagram): \"Test System: V93000 (SoC Test System)\" matches verbatim. Filed at the 'test' parent rather than inventing a dedicated SoC-ATE child category, which the notes confirm does not exist in this atlas -- a correct, checkable claim about the taxonomy. Base reported_maturity ('catalogue_listed_no_shipment_inference') correctly declines to read a maturity stage into a plain product-lineup chart; the stronger CTO-interview claim ('testing GPUs for decades') is correctly kept as maturity_history rather than promoted into the base record, since no unit count, customer or revenue figure is attached to V93000 specifically anywhere in the five filings held.",
+    "maturity_history": [
+      {
+        "claim_id": "ADVANTEST-IAR25-P24-V93000-GPU",
+        "source_id": "advantest_iar2025_eng",
+        "page": 24,
+        "excerpt": "It starts with our V93000 product line, which has been an industry leader in the high-performance compute space for many, many years. With our V93000, we have been testing GPUs for decades, and we have learned a lot in terms of how to test these types of devices.",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "industry leader in the high-performance compute space for many, many years; testing GPUs for decades",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "Chief Technology Officer Juergen Serrer, 'Interview with CxOs', FY2025 Integrated Annual Report. A longstanding-commercial-product claim in the issuer's own words, not an atlas-vocabulary maturity stage; no unit count, customer name or revenue figure is attached to V93000 specifically anywhere in the five filings held for this packet (segment-level SoC revenue is registered separately and is not attributable to this platform alone, since Advantest's 'SoC' breakdown line is not stated to be V93000-only)."
+      }
+    ]
+  },
+  {
+    "platform_id": "advantest_t5801",
+    "entity_id": "advantest",
+    "category_id": "test_memory_ate",
+    "record_kind": "named_model",
+    "name": "T5801",
+    "aliases": [
+      "T5801"
+    ],
+    "evidence": {
+      "claim_id": "ADVANTEST-IAR25-P15-T5801",
+      "source_id": "advantest_iar2025_eng",
+      "page": 15,
+      "excerpt": "Business Segment. Synergistic Solution Families Centered on Semiconductor Test Systems. [row 1] Metrology/SEM: E3660 (MASK CD-SEM) | Test System: V93000 (SoC Test System) | Advantest Interconnect Solutions: T5801 (Memory Test System). [row 2] Test Handlers: M6242 (Memory Test Handler) | Device Interface: HiFIX (For Package Test) | System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform).",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogue_listed_no_shipment_inference",
+    "maturity_as_reported_in": "advantest_iar2025_eng",
+    "notes": "Advantest's Memory Test System, named in the same FY2025 Integrated Annual Report diagram. Filed at test_memory_ate -- the atlas's direct comparison category for the six Chinese memory-ATE entities. No maturity wording, unit count, customer or revenue figure is attached to T5801 specifically anywhere in the filings held; segment-level Memory revenue is registered separately under advantest_test_memory and is not attributable to this platform alone (Advantest does not state that T5801 is its only current memory tester, and no HBM-specific claim names T5801). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against advantest_iar2025_eng p.15, same diagram: \"Advantest Interconnect Solutions: T5801 (Memory Test System)\" matches verbatim. Category test_memory_ate is correct and is the atlas's direct comparison node for the six Chinese memory-ATE entities -- the single highest-value category placement in this packet given the task's HBM framing. Correctly declines to attribute the separately-registered segment-level Memory revenue to this platform specifically, since Advantest never states T5801 is its only current memory tester."
+  },
+  {
+    "platform_id": "advantest_m6242",
+    "entity_id": "advantest",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "M6242",
+    "aliases": [
+      "M6242"
+    ],
+    "evidence": {
+      "claim_id": "ADVANTEST-IAR25-P15-M6242",
+      "source_id": "advantest_iar2025_eng",
+      "page": 15,
+      "excerpt": "Business Segment. Synergistic Solution Families Centered on Semiconductor Test Systems. [row 1] Metrology/SEM: E3660 (MASK CD-SEM) | Test System: V93000 (SoC Test System) | Advantest Interconnect Solutions: T5801 (Memory Test System). [row 2] Test Handlers: M6242 (Memory Test Handler) | Device Interface: HiFIX (For Package Test) | System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform).",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogue_listed_no_shipment_inference",
+    "maturity_as_reported_in": "advantest_iar2025_eng",
+    "notes": "Advantest's Memory Test Handler, named in the same diagram. Filed at test_prober_handler (the atlas's handler/prober category) since the diagram's own label is 'Test Handlers'. No further maturity, shipment, customer or revenue evidence found. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against advantest_iar2025_eng p.15: \"Test Handlers: M6242 (Memory Test Handler)\" matches verbatim. Category test_prober_handler correct, matching the diagram's own 'Test Handlers' label."
+  },
+  {
+    "platform_id": "advantest_hifix",
+    "entity_id": "advantest",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "name": "HiFIX",
+    "aliases": [
+      "HiFIX"
+    ],
+    "evidence": {
+      "claim_id": "ADVANTEST-IAR25-P15-HIFIX",
+      "source_id": "advantest_iar2025_eng",
+      "page": 15,
+      "excerpt": "Business Segment. Synergistic Solution Families Centered on Semiconductor Test Systems. [row 1] Metrology/SEM: E3660 (MASK CD-SEM) | Test System: V93000 (SoC Test System) | Advantest Interconnect Solutions: T5801 (Memory Test System). [row 2] Test Handlers: M6242 (Memory Test Handler) | Device Interface: HiFIX (For Package Test) | System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform).",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogue_listed_no_shipment_inference",
+    "maturity_as_reported_in": "advantest_iar2025_eng",
+    "notes": "Advantest's device-interface product 'For Package Test', named in the same diagram under the label 'Device Interface'. No dedicated atlas category exists for a device interface/load board; filed at the parent 'test' category, which is explicitly defined to cover 'test equipment and the interfaces that connect a tester to the device under test' -- a definitional fit, not a default. Distinct from test_probe_card (the wafer-contact consumable interface): HiFIX is described as a package-test interface, not a probe card. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against advantest_iar2025_eng p.15: \"Device Interface: HiFIX (For Package Test)\" matches verbatim. Filed at the 'test' parent rather than test_probe_card, correctly distinguished in the notes as a package-test device interface rather than a wafer-contact probe card -- the right call given test_probe_card's scope_note is specifically about the consumable wafer-contact interface, not a package-level device interface, and no dedicated node for the latter exists."
+  },
+  {
+    "platform_id": "advantest_7038",
+    "entity_id": "advantest",
+    "category_id": "test",
+    "record_kind": "named_model",
+    "name": "7038",
+    "aliases": [
+      "7038"
+    ],
+    "evidence": {
+      "claim_id": "ADVANTEST-IAR25-P15-7038",
+      "source_id": "advantest_iar2025_eng",
+      "page": 15,
+      "excerpt": "Business Segment. Synergistic Solution Families Centered on Semiconductor Test Systems. [row 1] Metrology/SEM: E3660 (MASK CD-SEM) | Test System: V93000 (SoC Test System) | Advantest Interconnect Solutions: T5801 (Memory Test System). [row 2] Test Handlers: M6242 (Memory Test Handler) | Device Interface: HiFIX (For Package Test) | System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform).",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogue_listed_no_shipment_inference",
+    "maturity_as_reported_in": "advantest_iar2025_eng",
+    "notes": "Advantest's 'High Parallelism SLT and Burn-in Platform' (System Level Test system), named in the same diagram. Filed at the parent 'test' category rather than test_wafer_level_burn_in, because that category is explicitly scoped to WAFER-level burn-in/reliability screening and 7038 is a package/system-level (SLT) burn-in platform -- a different membership test than the wafer-level one that category asserts. No maturity, shipment, customer or revenue evidence beyond the diagram listing. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against advantest_iar2025_eng p.15: \"System Level Test (SLT) System: 7038 (High Parallelism SLT and Burn-in Platform)\" matches verbatim. Filed at the 'test' parent rather than test_wafer_level_burn_in, correctly distinguished because that category's scope_note specifically asserts WAFER-level reliability screening and 7038 is a package/system-level burn-in platform -- a different membership test, correctly not conflated."
+  }
+]

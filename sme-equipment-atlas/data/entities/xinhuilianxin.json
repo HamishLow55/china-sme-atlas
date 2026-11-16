@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "xinhuilianxin",
+    "name": "Xinhuilianxin",
+    "aliases": [
+      "芯慧联新（苏州）科技有限公司",
+      "芯慧联新",
+      "Xinhuilianxin (Suzhou) Technology Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "baiao_chemical_2024_ar",
+      "page": 4,
+      "excerpt": "芯慧联新 指 芯慧联新（苏州）科技有限公司，本公司之参股公司",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "IDENTITY, AND WHY THIS IS THE RIGHT ENTITY FOR THE GAP ANALYSIS'S 'Xinhuilian' CANDIDATE. The task's romanisation ('Xinhuilian'/芯惠联) matches no filed legal name exactly; the real family of names is 芯慧联-prefixed (惠 vs 慧 are homophones, both huì), and there are TWO distinct, currently separate legal entities carrying that prefix, produced by a 2024 派生分立 (derivative corporate split):\n\n1. 苏州芯慧联半导体科技有限公司 (芯慧联, the surviving/continuing company) — carries 黄光制程设备 (coat/develop, exposure), 湿法清洗设备 (wet cleaning), 半导体产线用自动化设备 and key components/consumables. It has been Baiao Chemical's (603360.SH) CONSOLIDATED subsidiary since December 2024 (CNY 700m increase via wholly-owned subsidiary 上海芯傲华, 46.6667% direct equity plus voting-rights control over a further 7.9675%, 54.6342% voting control in total; Baiao 2024 AR physical pp4, 9, 23). This entity is OUT OF SCOPE for an HBM bonding-stacking task and is NOT registered here.\n\n2. 芯慧联新（苏州）科技有限公司 (芯慧联新, THIS entity) — the entity spun out of 芯慧联 by the same 2024 split, formally established 2024-09-12 with registered capital CNY 10m and legal representative 刘红军 (per xinhuilianxin_f9zt_investors_20250123 and xinhuilianxin_cnstock_baiao_announcement_20250124), which retained the wafer-bonding-equipment business. Baiao's FY2024 annual report (physical p9) states this business is 'from the wafer-bonding equipment applied to HBM (High Bandwidth Memory), 3D NAND flash manufacturing and other 3D IC application areas' and that it 'has been shipped to major domestic integrated-circuit manufacturing fabs for testing, with product performance reaching a domestically leading level' — i.e. the hybrid/fusion-bonding business the gap analysis is actually pointing at sits here, not in its sibling. Baiao's wholly-owned 上海芯傲华 holds only a MINORITY equity-method stake (10.4822%, CNY 100m, completed 2025-02-28 per Baiao's own board announcement 2025-004 dated 2025-01-23/24), alongside eight other investors in the same round including 中芯国际/SMIC, 兆易创新/GigaDevice and (via an affiliated investment vehicle, not a direct holding) 长鑫/CXMT (per xinhuilianxin_f9zt_investors_20250123) — Xinhuilianxin's actual controller remains 刘红军, unchanged by the round.\n\nSAME LEGAL REPRESENTATIVE WARNING: both siblings share 刘红军 as legal representative/controller at the time of the split, which is exactly the kind of signal that could cause a careless match onto the wrong entity; the ATLAS registration here is anchored on the distinct registered company NAME and the HBM-specific business description, not on the shared personal name.\n\nLISTING STATUS: unlisted (equity-method associate of a listed parent only). Per the task's two suggested routes: the LISTED-SHAREHOLDER route succeeded here (Baiao Chemical, 603360.SH, is the disclosing shareholder, exactly mirroring the SMEE/Shanghai-Electric-Holdings pattern already used elsewhere in this atlas) but Baiao's own board announcement explicitly flags '业绩亏损的风险' (risk of operating losses) for Xinhuilianxin and gives no revenue, profit or asset figure for it anywhere held here — CONFIDENT NULL on company/product financials, consistent with an early-stage, pre-profit associate.\n\nWhat IS registered: entity identity (above); two named hybrid-bonder platforms, SIRIUS RT300 (D2W, category_id bonding_hybrid_d2w) and CANOPUS RT300 (W2W, category_id bonding_hybrid_w2w, explicitly flagged by the source as the company's FIRST (首台) W2W unit); and one application link (hbm) citing Baiao's own annual report. No numeric capability-spec observation is registered: the only numeric-sounding claim found (a broad 'ranks top of all tested manufacturers' statement in xinhuilianxin_ljzfin_rollout_20241106) carries no actual number, only a qualitative ranking claim, and is kept in notes rather than mis-registered as a metric value.",
+    "entity_class": "china_supply_base"
+  }
+]

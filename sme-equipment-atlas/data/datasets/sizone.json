@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "sizone_disclosures",
+    "title": "Sizone transaction and financial disclosures",
+    "kind": "company_filings",
+    "publisher": "sizone",
+    "version": "local-landscape-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Values and short excerpts only; originals local",
+    "market_definitions": {}
+  }
+]

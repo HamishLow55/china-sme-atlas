@@ -1,0 +1,38 @@
+[
+  {
+    "reporting_scope_id": "screen_spe_segment",
+    "category_id": "multi_equipment",
+    "label": "SCREEN Semiconductor Production Equipment (SPE) reportable segment",
+    "definition": "SCREEN's own 'SPE' (半導体製造装置事業) reportable segment: develops, manufactures, markets and services ALL of SCREEN's semiconductor-wafer-processing equipment in one undivided line -- wafer cleaning (single-wafer and batch), coater/developer and other lithography-adjacent tools, thermal processing, and (per the FY2025 segment-note update) advanced-packaging-related tools. The issuer states explicitly that no finer product/service split is given anywhere ('製品及びサービスの区分が報告セグメント区分と同一であるため、記載を省略しております'). Never allocate this basket across cleaning, track_coat_develop or any other equipment-category child: the split is not in the source."
+  },
+  {
+    "reporting_scope_id": "screen_ga_segment",
+    "category_id": "all_businesses",
+    "label": "SCREEN Graphic Arts Equipment (GA) reportable segment",
+    "definition": "SCREEN's 'GA' (グラフィックアーツ機器事業) reportable segment: printing-related equipment (commercial/direct-mail/publishing and packaging inkjet presses) and consumables. Not semiconductor equipment; filed at all_businesses so it is never read as tool revenue or summed into an equipment total."
+  },
+  {
+    "reporting_scope_id": "screen_ft_segment",
+    "category_id": "all_businesses",
+    "label": "SCREEN Display Production Equipment and Coater (FT) reportable segment",
+    "definition": "SCREEN's 'FT' (ディスプレー製造装置および成膜装置事業) reportable segment: flat-panel-display manufacturing equipment and film-deposition equipment, plus (from FY2023) the Lemotia coater/dryer for semiconductor-advanced-packaging panel substrates. Not semiconductor-WAFER equipment; filed at all_businesses. Despite the segment's English name including the word 'Coater', this is a different equipment family from the atlas's track_coat_develop (photoresist coat/develop/bake) category -- see the Lemotia platform-coverage notes for why it is not filed there."
+  },
+  {
+    "reporting_scope_id": "screen_pe_segment",
+    "category_id": "all_businesses",
+    "label": "SCREEN PCB-Related Equipment (PE) reportable segment",
+    "definition": "SCREEN's 'PE' (プリント基板関連機器事業) reportable segment: printed-circuit-board equipment (direct-imaging exposure systems such as LUPIOS, board-repair systems such as SpairD). Not semiconductor-wafer equipment; filed at all_businesses."
+  },
+  {
+    "reporting_scope_id": "screen_other_segment",
+    "category_id": "all_businesses",
+    "label": "SCREEN non-reportable 'Other' (その他) business bucket",
+    "definition": "SCREEN's non-reportable-segment residual, labelled その他 in the segment table. Its STATED COMPOSITION CHANGES across this packet's six years and must not be treated as one stable series: FY2020-FY2021 = life-sciences equipment + automotive-parts-inspection equipment + software + print-matter planning; FY2022-FY2023 = life-sciences equipment + software + document/print planning (automotive-inspection wording dropped); FY2024-FY2025 = ADDS semiconductor advanced-packaging and hydrogen-related new-business fields explicitly. Each observation's own notes quote that year's exact note-1 text. Not semiconductor-equipment-segment revenue; filed at all_businesses."
+  },
+  {
+    "reporting_scope_id": "screen_company",
+    "category_id": "all_businesses",
+    "label": "SCREEN Holdings consolidated company total",
+    "definition": "SCREEN Holdings' consolidated-group total: revenue, cost of sales, gross profit, operating income, profit before tax, net profit attributable to owners of the parent, operating cash flow, total R&D expenditure, total employee headcount, and customer-concentration figures, all at the whole-company level across all four reportable segments plus Other. Never summed into a domestic/Chinese total: this is the foreign-incumbent comparator's own company-wide figure."
+  }
+]

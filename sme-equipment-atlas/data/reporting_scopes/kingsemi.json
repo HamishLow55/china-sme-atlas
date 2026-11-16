@@ -1,0 +1,656 @@
+[
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_company_total",
+    "category_id": "all_businesses",
+    "label": "Kingsemi company total",
+    "definition": "Consolidated company reporting perimeter for annual financial statements."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2024 photoresist coating/developing equipment",
+    "definition": "Source-native FY2024 光刻工序涂胶显影设备 product revenue, cost, gross-margin, production and sales scope; financial and 台/套 quantity measures retain their respective dimensions."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_single_wafer_wet_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2024 single-wafer wet-process equipment",
+    "definition": "Source-native FY2024 单片式湿法设备 product financial and quantity basket, including cleaning, stripping and wet-etch equipment; no subcategory allocation."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2024 other equipment",
+    "definition": "Source-native 其它设备 product revenue, cost and margin basket; no platform allocation."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2025_electronic_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2025 electronic process equipment",
+    "definition": "Source-native 电子工艺装备 product revenue, cost, margin and quantity scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2025_product_spares",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2025 product spares",
+    "definition": "Source-native 产品备件 revenue, cost and margin scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2025_equipment_quantities",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2025 equipment quantity table",
+    "definition": "Source-native FY2025 electronic-equipment production and sales table; system units."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_orders",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2024 new orders",
+    "definition": "Issuer-reported company new orders including Demo and LOI, tax-inclusive; not closing backlog."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_temporary_bonding",
+    "category_id": "bonding_temporary",
+    "label": "Kingsemi FY2024 temporary/debonding equipment orders",
+    "definition": "Source-native temporary bonding and debonding equipment orders on hand, approximate and equipment-specific."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2023 光刻工序涂胶显影设备 source scope",
+    "definition": "Source-native FY2023 光刻工序涂胶显影设备 quantity table; production, sales and closing inventory remain a source-defined group."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_single_wafer_wet_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2023 单片式湿法设备 source scope",
+    "definition": "Source-native FY2023 单片式湿法设备 quantity table; no subcategory or platform allocation."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2023 其它设备 source scope",
+    "definition": "Source-native FY2023 其它设备 quantity table; no platform allocation."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_ip_invention",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 发明专利 source scope",
+    "definition": "Source-native FY2023 invention-patent disclosure scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_ip_utility_model",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 实用新型专利 source scope",
+    "definition": "Source-native FY2023 utility-model-patent disclosure scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_ip_design",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 外观设计专利 source scope",
+    "definition": "Source-native FY2023 design-patent disclosure scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_ip_software_copyright",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 软件著作权 source scope",
+    "definition": "Source-native FY2023 software-copyright disclosure scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_ip_total",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 合计 source scope",
+    "definition": "Source-native FY2023 total IP disclosure scope; additive table total retained separately from class rows."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_immersion_customer_orders",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2023 domestic important-customer immersion-tool orders",
+    "definition": "As of report period end, domestic important customers with orders for immersion tools. A customer count, not mass-production, equipment count, order quantity, backlog or company total."
+  },
+  {
+    "reporting_scope_id": "kingsemi_consolidated_periodic_company_total",
+    "category_id": "all_businesses",
+    "label": "Kingsemi consolidated periodic-report company total",
+    "definition": "Consolidated company reporting perimeter for quarterly and other periodic financial reports, including headline financial data, non-recurring items and consolidated financial statements; distinct from the annual-statement-only scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_rd_project_front_end_coat_develop_core_units",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2023 R&D project: 前道涂胶显影设备及核心单元研发和产业化",
+    "definition": "Source-native FY2023 named R&D project financial scope: 前道涂胶显影设备及核心单元研发和产业化. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_rd_project_advanced_packaging_coat_develop_bonding",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2023 R&D project: 高端封装涂胶显影及键合类设备研制",
+    "definition": "Source-native FY2023 named R&D project financial scope: 高端封装涂胶显影及键合类设备研制. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_rd_project_single_wafer_wet_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2023 R&D project: 单片式湿法设备研制",
+    "definition": "Source-native FY2023 named R&D project financial scope: 单片式湿法设备研制. The project covers wet equipment broadly, including cleaning-related work and front-end wafer-processing and advanced-packaging applications; it is not allocated wholly to cleaning. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_rd_project_core_components",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 R&D project: 核心零部件技术研发",
+    "definition": "Source-native FY2023 named R&D project financial scope: 核心零部件技术研发. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_rd_projects_table_total",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 R&D project: 合计",
+    "definition": "Source-native FY2023 named R&D project financial scope: 合计. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_invention_patents_mainland_china",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 中国大陆地区发明专利 scope",
+    "definition": "Source-native invention-patent authorization jurisdiction partition."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_invention_patents_taiwan",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 中国台湾地区发明专利 scope",
+    "definition": "Source-native invention-patent authorization jurisdiction partition."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_invention_patents_united_states",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 美国发明专利 scope",
+    "definition": "Source-native invention-patent authorization jurisdiction partition."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2023_patents_total",
+    "category_id": "all_businesses",
+    "label": "Kingsemi FY2023 专利授权合计（不含软件著作权） scope",
+    "definition": "Source-native patent authorization total excluding software copyright; distinct from the all-IP table total."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_semiconductor_equipment_main_business",
+    "label": "FY2023 semiconductor equipment main business",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 半导体设备行业 main-business revenue, cost, margin and cost-component scope; not total company revenue."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_wet_process_financial",
+    "label": "FY2023 单片式湿法设备 financial",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals. Source 单片式湿法设备 includes cleaning and stripping equipment; no cleaning-only allocation."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_other_equipment_financial",
+    "label": "FY2023 其它设备 financial",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_track_financial",
+    "label": "FY2023 光刻工序涂胶显影设备 financial",
+    "category_id": "track_coat_develop",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_mainland_main_business",
+    "label": "FY2023 大陆地区 main business",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_hkmo_tw_main_business",
+    "label": "FY2023 港澳台地区 main business",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_direct_sales_main_business",
+    "label": "FY2023 直销 main business",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_agency_sales_main_business",
+    "label": "FY2023 代销 main business",
+    "category_id": "multi_equipment",
+    "definition": "Source-native FY2023 main-business table scope; preserves the displayed product, geography or sales-mode boundary without allocating company totals."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_monetary_funds",
+    "label": "货币资金",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 货币资金; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_notes_receivable",
+    "label": "应收票据",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 应收票据; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_accounts_receivable",
+    "label": "应收账款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 应收账款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_receivables_financing",
+    "label": "应收款项融资",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 应收款项融资; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_prepayments",
+    "label": "预付款项",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 预付款项; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_other_receivables",
+    "label": "其他应收款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其他应收款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_inventory",
+    "label": "存货",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 存货; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_contract_assets",
+    "label": "合同资产",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 合同资产; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_other_current_assets",
+    "label": "其他流动资产",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其他流动资产; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_construction_in_progress",
+    "label": "在建工程",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 在建工程; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_other_noncurrent_assets",
+    "label": "其他非流动资产",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其他非流动资产; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_short_term_borrowings",
+    "label": "短期借款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 短期借款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_accounts_payable",
+    "label": "应付账款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 应付账款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_contract_liabilities",
+    "label": "合同负债",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 合同负债; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_taxes_payable",
+    "label": "应交税费",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 应交税费; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_other_payables",
+    "label": "其他应付款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其他应付款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_long_term_borrowings",
+    "label": "长期借款",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 长期借款; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_deferred_tax_liabilities",
+    "label": "递延所得税负债",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 递延所得税负债; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_other_noncurrent_financial_assets",
+    "label": "其他非流动金融资产",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其他非流动金融资产; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_current_portion_noncurrent_liabilities",
+    "label": "一年内到期的非流动负债",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 一年内到期的非流动负债; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_asset_analysis_foreign_assets",
+    "label": "其中：境外资产",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native 资产及负债状况 table row 其中：境外资产; table-bound financial-statement component scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_equity_investment_shanghai_enterprise_development",
+    "label": "上海芯源微企业发展有限公司",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native major equity-investment row 上海芯源微企业发展有限公司; amount and ownership percentage remain distinct metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_equity_investment_kingsemi_kyoto",
+    "label": "Kingsemi Kyoto 株式会社",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native major equity-investment row Kingsemi Kyoto 株式会社; amount and ownership percentage remain distinct metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_equity_investment_guangzhou_xinzhi",
+    "label": "广州芯知科技有限公司",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native major equity-investment row 广州芯知科技有限公司; amount and ownership percentage remain distinct metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_equity_investment_major_equity_investment_total",
+    "label": "合计 / /",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source-native major equity-investment row 合计 / /; amount and ownership percentage remain distinct metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_equity_investment_total",
+    "label": "FY2023 overall external equity investment",
+    "category_id": "all_businesses",
+    "definition": "Source-native overall external equity-investment analysis table; distinct from named major-investment rows."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_restricted_monetary_funds",
+    "label": "FY2023 restricted monetary funds",
+    "category_id": "all_businesses",
+    "definition": "Source-native restricted monetary-funds row, consisting of guarantee, acceptance-bill and letter-of-credit deposits."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_rounded_financial_narrative",
+    "label": "FY2023 rounded company financial narrative",
+    "category_id": "all_businesses",
+    "definition": "Rounded 万元 company financial narrative presentation; retained separately from exact statement and analysis-table values."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_rounded_main_business_narrative",
+    "label": "FY2023 rounded main-business narrative",
+    "category_id": "multi_equipment",
+    "definition": "Rounded 万元 主营业务 narrative presentation; distinct from total company revenue and cost."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_selling_expense",
+    "label": "销售费用",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 销售费用; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_administrative_expense",
+    "label": "管理费用",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 管理费用; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_finance_expense",
+    "label": "财务费用",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 财务费用; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_rd_expense",
+    "label": "研发费用",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 研发费用; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_investing_cash_flow",
+    "label": "投资活动产生的现金流量净额",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 投资活动产生的现金流量净额; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_financing_cash_flow",
+    "label": "筹资活动产生的现金流量净额",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 筹资活动产生的现金流量净额; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2023_analysis_nonoperating_income",
+    "label": "营业外收入",
+    "category_id": "all_businesses",
+    "definition": "FY2023 source analysis-table row 营业外收入; used for source-reported relative-change metrics."
+  },
+  {
+    "reporting_scope_id": "kingsemi_12inch_frontend_coat_develop_equipment",
+    "label": "KINGSEMI 12 英寸前道涂胶显影设备",
+    "category_id": "track_coat_develop",
+    "definition": "FY2025 NAURA annual-report product-table family for its controlled subsidiary KINGSEMI: 12-inch front-end photoresist coat/develop equipment. Source lists an optional 36 spin-process-chamber configuration; no named model identity, shipped chamber count or platform-wide capacity is inferred."
+  },
+  {
+    "reporting_scope_id": "kingsemi_ks_cm300_200_process_coverage",
+    "category_id": "cleaning",
+    "label": "KINGSEMI KS-CM300/200 chemical-cleaner process coverage",
+    "definition": "Source-explicit KS-CM300/200 combined named-series process-application coverage. Issuer percentage with unspecified process denominator, not market share. Generic front-end chemical-cleaner statements use a separate scope; no model identity inferred from matching percentages."
+  },
+  {
+    "reporting_scope_id": "kingsemi_front_chemical_cleaner_16_chamber_architecture",
+    "category_id": "cleaning",
+    "label": "KINGSEMI front-end chemical cleaner 16-chamber architecture",
+    "definition": "Source-stated 16-chamber high-capacity architecture of front-end chemical cleaning machine; not optional count, output or shipments. Model identity with KS-CM300/200 is contextual but no model-specific chamber allocation inferred."
+  },
+  {
+    "reporting_scope_id": "kingsemi_ks_s200_2h1l_sic_cutting",
+    "category_id": "dicing",
+    "label": "KINGSEMI KS-S200-2H1L SiC cutting performance",
+    "definition": "Source-stated cutting speed of KS-S200-2H1L on SiC wafers; not production output."
+  },
+  {
+    "reporting_scope_id": "kingsemi_temporary_bond_debond_thick_coating_compatibility",
+    "category_id": "bonding_temporary",
+    "label": "KINGSEMI temporary bond/debond thick-coating compatibility",
+    "definition": "Source-vintage temporary-bonding and debonding family compatibility with thick adhesive coating demand; neither named model nor coating-machine identity inferred. Annual and interim claims retain their own reporting periods."
+  },
+  {
+    "reporting_scope_id": "kingsemi_front_physical_cleaner_particle_capability",
+    "category_id": "cleaning",
+    "label": "KINGSEMI front-end physical cleaner particle capability",
+    "definition": "Source-vintage particle-removal capability of the front-end physical-cleaning family. Particle size is not process node, chemical-cleaner test performance, or a proven equivalent of separately worded particle-control capability."
+  },
+  {
+    "reporting_scope_id": "kingsemi_front_chemical_cleaner_etch_consistency_test",
+    "category_id": "cleaning",
+    "label": "KINGSEMI front-end chemical cleaner etch-consistency sample test",
+    "definition": "Source-vintage sampled etch-consistency claim for the front-end chemical-cleaning family; exact statistic and sampling protocol unstated. Annual and interim claims retain their reporting periods."
+  },
+  {
+    "reporting_scope_id": "kingsemi_compound_small_wafer_equipment_diameter",
+    "category_id": "multi_equipment",
+    "label": "KINGSEMI compound and other small-wafer equipment diameter",
+    "definition": "H1 2026 source basket of compound and other small-wafer coat/develop, cleaning and stripping wet equipment; 4–8-inch wafer application is group-wide, not each named model."
+  },
+  {
+    "reporting_scope_id": "kingsemi_front_chemical_cleaner_particle_test",
+    "category_id": "cleaning",
+    "label": "KINGSEMI front-end chemical cleaner 26 nm particle test",
+    "definition": "FY2024 source-described 26 nm particle test for front-end chemical cleaner; separate from the physical-cleaner 26 nm removal/control capability and not a process-node assertion."
+  },
+  {
+    "reporting_scope_id": "kingsemi_front_chemical_cleaner_process_coverage",
+    "category_id": "cleaning",
+    "label": "KINGSEMI generic front-end chemical-cleaner process coverage",
+    "definition": "Source-defined process-application coverage of the unnamed front-end chemical-cleaner family; no KS-CM300/200 model identity inferred. Issuer percentage with unstated process denominator, not market share."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2019_track_financial",
+    "category_id": "track_coat_develop",
+    "label": "FY2019 光刻工序涂胶显影设备 financial",
+    "definition": "Source-native FY2019 主营业务分产品情况 table row for 光刻工序涂胶显影设备 (coater/developer tracks). Partitions 主营业务收入 (main-business revenue), which is smaller than total operating revenue by 其他业务收入; not total company revenue. Mixes front-end, back-end/advanced-packaging and small-wafer (compound/MEMS/LED) track models; no sub-allocation by end-market or wafer size."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2019_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2019 光刻工序涂胶显影设备 quantity table",
+    "definition": "Source-native FY2019 产销量情况分析表 row for 光刻工序涂胶显影设备; production, sales and closing inventory in 台套 (system) units. Same product basket as the FY2019 financial scope above but a separate source table."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2020_track_financial",
+    "category_id": "track_coat_develop",
+    "label": "FY2020 光刻工序涂胶显影设备 financial",
+    "definition": "Source-native FY2020 主营业务分产品情况 table row for 光刻工序涂胶显影设备 (coater/developer tracks). Partitions 主营业务收入 (main-business revenue), which is smaller than total operating revenue by 其他业务收入; not total company revenue. Mixes front-end, back-end/advanced-packaging and small-wafer (compound/MEMS/LED) track models; no sub-allocation by end-market or wafer size."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2020_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2020 光刻工序涂胶显影设备 quantity table",
+    "definition": "Source-native FY2020 产销量情况分析表 row for 光刻工序涂胶显影设备; production, sales and closing inventory in 台套 (system) units. Same product basket as the FY2020 financial scope above but a separate source table."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2021_track_financial",
+    "category_id": "track_coat_develop",
+    "label": "FY2021 光刻工序涂胶显影设备 financial",
+    "definition": "Source-native FY2021 主营业务分产品情况 table row for 光刻工序涂胶显影设备 (coater/developer tracks). Partitions 主营业务收入 (main-business revenue), which is smaller than total operating revenue by 其他业务收入; not total company revenue. Mixes front-end, back-end/advanced-packaging and small-wafer (compound/MEMS/LED) track models; no sub-allocation by end-market or wafer size."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2021_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2021 光刻工序涂胶显影设备 quantity table",
+    "definition": "Source-native FY2021 产销量情况分析表 row for 光刻工序涂胶显影设备; production, sales and closing inventory in 台套 (system) units. Same product basket as the FY2021 financial scope above but a separate source table."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2022_track_financial",
+    "category_id": "track_coat_develop",
+    "label": "FY2022 光刻工序涂胶显影设备 financial",
+    "definition": "Source-native FY2022 主营业务分产品情况 table row for 光刻工序涂胶显影设备 (coater/developer tracks). Partitions 主营业务收入 (main-business revenue), which is smaller than total operating revenue by 其他业务收入; not total company revenue. Mixes front-end, back-end/advanced-packaging and small-wafer (compound/MEMS/LED) track models; no sub-allocation by end-market or wafer size."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2022_photoresist_coat_develop",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2022 光刻工序涂胶显影设备 quantity table",
+    "definition": "Source-native FY2022 产销量情况分析表 row for 光刻工序涂胶显影设备; production, sales and closing inventory in 台套 (system) units. Same product basket as the FY2022 financial scope above but a separate source table."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2021_wet_financial",
+    "category_id": "multi_equipment",
+    "label": "FY2021 单片式湿法设备 financial",
+    "definition": "Source-native FY2021 主营业务分产品情况 table row for 单片式湿法设备 (single-wafer wet tools: cleaners, strippers, wet-etch). Basket includes both front-end and back-end/advanced-packaging wet tools; no cleaning-only or front-end-only allocation. Partitions 主营业务收入, not total company revenue."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2021_single_wafer_wet_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2021 单片式湿法设备 quantity table",
+    "definition": "Source-native FY2021 产销量情况分析表 row for 单片式湿法设备; production, sales and closing inventory in 台套 (system) units. Same basket as the FY2021 wet financial scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2022_wet_financial",
+    "category_id": "multi_equipment",
+    "label": "FY2022 单片式湿法设备 financial",
+    "definition": "Source-native FY2022 主营业务分产品情况 table row for 单片式湿法设备 (single-wafer wet tools: cleaners, strippers, wet-etch). Basket includes both front-end and back-end/advanced-packaging wet tools; no cleaning-only or front-end-only allocation. Partitions 主营业务收入, not total company revenue."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2022_single_wafer_wet_process_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2022 单片式湿法设备 quantity table",
+    "definition": "Source-native FY2022 产销量情况分析表 row for 单片式湿法设备; production, sales and closing inventory in 台套 (system) units. Same basket as the FY2022 wet financial scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2020_other_equipment_financial",
+    "category_id": "multi_equipment",
+    "label": "FY2020 其它设备 financial",
+    "definition": "Source-native FY2020 主营业务分产品情况 table row for 其它设备 (other equipment), a residual basket distinct from the named track and wet-process lines. Composition is not broken out in the FY2020 filing itself; later filings (FY2024 note) tie a same-named basket to bonding equipment, but that composition statement is not read back into this FY2020 row. Each year's 其它设备 row is its own scope per the Atlas convention that a basket whose contents are unstated or may change must not be joined across years."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2020_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2020 其它设备 quantity table",
+    "definition": "Source-native FY2020 产销量情况分析表 row for 其它设备; production, sales and closing inventory in 台套 (system) units."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2021_other_equipment_financial",
+    "category_id": "multi_equipment",
+    "label": "FY2021 其它设备 financial",
+    "definition": "Source-native FY2021 主营业务分产品情况 table row for 其它设备 (other equipment), a residual basket distinct from the named track and wet-process lines. Composition is not broken out in the FY2021 filing itself; later filings (FY2024 note) tie a same-named basket to bonding equipment, but that composition statement is not read back into this FY2021 row. Each year's 其它设备 row is its own scope per the Atlas convention that a basket whose contents are unstated or may change must not be joined across years."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2021_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2021 其它设备 quantity table",
+    "definition": "Source-native FY2021 产销量情况分析表 row for 其它设备; production, sales and closing inventory in 台套 (system) units."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2022_other_equipment_financial",
+    "category_id": "multi_equipment",
+    "label": "FY2022 其它设备 financial",
+    "definition": "Source-native FY2022 主营业务分产品情况 table row for 其它设备 (other equipment), a residual basket distinct from the named track and wet-process lines. Composition is not broken out in the FY2022 filing itself; later filings (FY2024 note) tie a same-named basket to bonding equipment, but that composition statement is not read back into this FY2022 row. Each year's 其它设备 row is its own scope per the Atlas convention that a basket whose contents are unstated or may change must not be joined across years."
+  },
+  {
+    "reporting_scope_id": "kingsemi_annual_2022_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2022 其它设备 quantity table",
+    "definition": "Source-native FY2022 产销量情况分析表 row for 其它设备; production, sales and closing inventory in 台套 (system) units."
+  },
+  {
+    "reporting_scope_id": "kingsemi_h1_2024_new_orders",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi H1 2024 new orders",
+    "definition": "Issuer-reported company-wide new orders for H1 2024 (管理层讨论与分析 narrative figure); not closing backlog. Mirrors the existing kingsemi_kingsemi_annual_2024_orders convention for the annual report."
+  },
+  {
+    "reporting_scope_id": "kingsemi_h1_2024_order_backlog",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi H1 2024 order backlog",
+    "definition": "Issuer-reported company-wide order backlog ('在手订单') as of 2024-06-30; stock measure, distinct from the new-orders flow figure above."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2021_rd_project_front_end_coat_develop_core_units",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2021 R&D project: 前道涂胶显影设备及核心单元研发和产业化",
+    "definition": "Source-native FY2021 named R&D project financial scope (在研项目情况 table): 前道涂胶显影设备及核心单元研发和产业化. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2022_rd_project_front_end_coat_develop_core_units",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2022 R&D project: 前道涂胶显影设备及核心单元研发和产业化",
+    "definition": "Source-native FY2022 named R&D project financial scope (在研项目情况 table): 前道涂胶显影设备及核心单元研发和产业化. Same project name as FY2021/FY2023 but its own vintage's budget/spend/cumulative figures; not joined across years. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2024_rd_project_front_end_coat_develop_core_units",
+    "category_id": "track_coat_develop",
+    "label": "Kingsemi FY2024 R&D project: 前道涂胶显影设备及核心单元研发和产业化",
+    "definition": "Source-native FY2024 named R&D project financial scope (在研项目情况 table): 前道涂胶显影设备及核心单元研发和产业化. Same project name as FY2021-FY2023 but its own vintage's budget/spend/cumulative figures. Project rows are not platform identity or commercial maturity evidence."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2021_rd_project_advanced_packaging_coat_develop",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2021 R&D project: 高端封装涂胶显影设备",
+    "definition": "Source-native FY2021 named R&D project financial scope: 高端封装涂胶显影设备 (advanced-packaging coat/develop equipment). The FY2021 project description covers 高端封装涂胶显影设备及小尺寸化合物芯片设备 key technologies; it does NOT name 键合/解键合 (bonding/debonding) anywhere in its stated goal, unlike the FY2023-FY2024 project of a similar name. Kept as its own scope rather than joined to the later bonding-named project, per the rule that a basket whose composition changes between years gets its own scope."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2022_rd_project_advanced_packaging_coat_develop",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2022 R&D project: 高端封装涂胶显影设备",
+    "definition": "Source-native FY2022 named R&D project financial scope: 高端封装涂胶显影设备. Same project name and non-bonding scope as FY2021; FY2022's own budget/spend/cumulative figures, not joined across years."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2024_rd_project_advanced_packaging_coat_develop_bonding",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2024 R&D project: 高端封装涂胶显影及键合类设备研制",
+    "definition": "Source-native FY2024 named R&D project financial scope: 高端封装涂胶显影及键合类设备研制. Unlike the FY2021/FY2022 project of a similar but distinct name (高端封装涂胶显影设备, no bonding wording), the FY2024 project's stated goal explicitly adds 键合、解键合关键技术 and 热压键合关键技术 (bonding, debonding and thermo-compression-bonding key technologies). Serves both the stacking_tcb and temp_bond_debond asks; the project also covers advanced-packaging coat/develop equipment, so it is not a bonding-only budget."
+  },
+  {
+    "reporting_scope_id": "kingsemi_fy2025_rd_project_coat_develop_bonding_core_units",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2025 R&D project: 涂胶显影及键合类设备及核心单元研发及产业化",
+    "definition": "Source-native FY2025 named R&D project financial scope: 涂胶显影及键合类设备及核心单元研发及产业化. This is a FY2025 scope change from FY2024: the previously separate front-end-track-only project (前道涂胶显影设备及核心单元研发和产业化) and the advanced-packaging-coat/develop-plus-bonding project (高端封装涂胶显影及键合类设备研制) are merged into one project covering front-end AND back-end track plus bonding/debonding/thermo-compression-bonding key technologies. Not comparable line-for-line with the FY2024 two-project figures; kept in its own scope rather than forced onto either predecessor."
+  }
+]

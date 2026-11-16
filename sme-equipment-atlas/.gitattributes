@@ -1,0 +1,2 @@
+# Raw statistics exports are hash-checked; never convert line endings or encoding.
+statistics/china_customs/raw/*.csv -text

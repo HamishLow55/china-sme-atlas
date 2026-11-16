@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "huafeng_test_control",
+    "name": "Beijing Huafeng Test & Control Technology Co.,Ltd.",
+    "aliases": [
+      "北京华峰测控技术股份有限公司",
+      "华峰测控",
+      "Huafeng Test & Control",
+      "Accotest",
+      "688200"
+    ],
+    "evidence": {
+      "source_id": "huafeng_annual_2025",
+      "page": 6,
+      "excerpt": "公司的中文名称 北京华峰测控技术股份有限公司；公司的中文简称 华峰测控；公司的外文名称 Beijing Huafeng Test & Control Technology Co.,Ltd.；公司的外文名称缩写 Accotest",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "notes": "Listed issuer 688200 (cover physical p.1); identity names/abbreviation evidence on physical p.6. Identity only; financial observations retain their own consolidated/source-table scopes.",
+    "entity_class": "china_supply_base"
+  }
+]

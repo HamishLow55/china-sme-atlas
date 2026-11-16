@@ -1,0 +1,36 @@
+[
+  {
+    "link_id": "quick_tcb_hbm_stacking_capability_2025",
+    "claim_id": "QUICK-FY2025-P16-TCB-HBM-CAPABILITY",
+    "entity_id": "quick",
+    "category_id": "bonding_tcb",
+    "platform_id": "quick_advanced_packaging_tcb_bonder",
+    "application_id": "hbm",
+    "source_id": "quick_annual_2025",
+    "page": 16,
+    "excerpt": "先进封装设备领域，公司围绕先进封装 TCB 热压键合设备持续开展技术攻关，包括高精度对位系统、超薄芯片顶针机构、高精度 BondHead、分区域共面性调整算法、Flux-less 键合、高速脉冲加热器以及超大尺寸脉冲加热器等技术，设备可适配 HBM 堆叠、CoWoS 封装、CPO 光电共封等前沿场景。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "Codex independent verifier",
+    "review_date": "2026-09-23",
+    "scope_note": "Issuer says its advanced-packaging TCB tool can adapt to HBM stacking. FY2025 p16 says prototype completed and sample validation with multiple unnamed customers; the filing does not say an HBM customer qualified, installed, purchased, or used it in production. R&D row p32 names HBM and SoC as intended process applications, but does not identify validation customer/process."
+  },
+  {
+    "link_id": "quick_tcb_hbm_stacking_capability_h1_2026",
+    "claim_id": "QUICK-H12026-P13-TCB-HBM-CAPABILITY",
+    "entity_id": "quick",
+    "category_id": "bonding_tcb",
+    "platform_id": "quick_advanced_packaging_tcb_bonder",
+    "application_id": "hbm",
+    "source_id": "quick_h1_2026",
+    "page": 13,
+    "excerpt": "先进封装设备技术攻关有序开展。TCB 热压键合设备聚焦 AI 芯片先进封装核心工艺，面向 HBM 3D 堆叠、CoWoS（晶圆级）/CoPoS（面板级）2.5D 封装以及 CPO 光电共封装等前沿应用，致 力于提供高精度、高可靠性的先进键合解决方案。设备已攻克高精度对位、精准温控、精密压力 控制及 Plasma 无助焊剂键合等核心关键技术，针对 AI 芯片先进封装过程中微米级间距凸点互联、 大尺寸芯片翘曲控制、超薄芯片无损伤处理等行业难题形成了系统化解决方案。公司与多家客户 持续开展打样验证工作。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "Codex independent verifier",
+    "review_date": "2026-09-24",
+    "scope_note": "Company-reported TCB target applications include HBM 3D stacking, CoWoS/CoPoS and CPO. Customer sample validation continues; no named HBM customer, acceptance, production qualification or installation. Eutectic-bonder orders and shipments in the adjacent paragraph are a separate discrete-device tool family."
+  }
+]

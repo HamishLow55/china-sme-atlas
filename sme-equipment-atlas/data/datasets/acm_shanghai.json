@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "acm_shanghai_disclosures",
+    "title": "acm shanghai disclosures",
+    "kind": "company_filings",
+    "publisher": "acm_shanghai",
+    "version": "2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals local.",
+    "market_definitions": {}
+  }
+]

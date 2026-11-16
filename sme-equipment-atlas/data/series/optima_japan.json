@@ -1,0 +1,14 @@
+[
+  {
+    "series_id": "wave3_optima_japan_12",
+    "version": 1,
+    "title": "optima_japan: optima_company / revenue",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "OPTIMA2024-REV",
+      "OPTIMA2025-REV"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  }
+]

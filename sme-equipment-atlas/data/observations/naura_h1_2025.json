@@ -1,0 +1,137 @@
+[
+  {
+    "observation_id": "N2025H1-ETCH-SHIP",
+    "dataset_id": "naura_interim_disclosures",
+    "source_id": "naura_h1_2025",
+    "entity_id": "naura",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "1000",
+    "relation": "gt",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2025-06-30",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 14,
+      "printed_page": 14,
+      "original_label": "累计出货量突破1,000台",
+      "excerpt": "公司已有三种主力装备产品累计出货量突破 1,000 台",
+      "status": "source_checked",
+      "reviewer": "local_evidence + independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "1000",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Paragraph identifies etch, PVD and vertical furnace. Whole-system scope supported by 第1,000台整机交付. PVD/furnace reached milestone during H1; etch reached it earlier, exact date undisclosed. Furnace category must not be assumed purely deposition. H1 report-end is an as-of bound, not an asserted exact delivery event date."
+  },
+  {
+    "observation_id": "N2025H1-PVD-SHIP",
+    "dataset_id": "naura_interim_disclosures",
+    "source_id": "naura_h1_2025",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "reporting_scope_id": "deposition_pvd",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "1000",
+    "relation": "gt",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2025-06-30",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 14,
+      "printed_page": 14,
+      "original_label": "累计出货量突破1,000台",
+      "excerpt": "公司已有三种主力装备产品累计出货量突破 1,000 台",
+      "status": "source_checked",
+      "reviewer": "local_evidence + independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "1000",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Paragraph identifies etch, PVD and vertical furnace. Whole-system scope supported by 第1,000台整机交付. PVD/furnace reached milestone during H1; etch reached it earlier, exact date undisclosed. Furnace category must not be assumed purely deposition. H1 report-end is an as-of bound, not an asserted exact delivery event date."
+  },
+  {
+    "observation_id": "N2025H1-FURNACE-SHIP",
+    "dataset_id": "naura_interim_disclosures",
+    "source_id": "naura_h1_2025",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "reporting_scope_id": "thermal_vertical_furnace",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "1000",
+    "relation": "gt",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2025-06-30",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 14,
+      "printed_page": 14,
+      "original_label": "累计出货量突破1,000台",
+      "excerpt": "公司已有三种主力装备产品累计出货量突破 1,000 台",
+      "status": "source_checked",
+      "reviewer": "local_evidence + independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "1000",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Paragraph identifies etch, PVD and vertical furnace. Whole-system scope supported by 第1,000台整机交付. PVD/furnace reached milestone during H1; etch reached it earlier, exact date undisclosed. Furnace category must not be assumed purely deposition. H1 report-end is an as-of bound, not an asserted exact delivery event date."
+  }
+]

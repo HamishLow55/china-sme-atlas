@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "zhiwei_s300_spm_single_tool_customer_line",
+    "category_id": "cleaning_single_wafer",
+    "label": "Zhiwei S300 SPM single tool customer production line",
+    "definition": "Supplier-claimed cumulative wafer-processing passes by a single S300 SPM tool on a customer mass-production line."
+  },
+  {
+    "reporting_scope_id": "zhiwei_12inch_sulfuric_cleaning_single_tool_customer_line",
+    "category_id": "cleaning_single_wafer",
+    "label": "Zhiwei unnamed 12-inch sulfuric cleaning single tool customer production line",
+    "definition": "Supplier-claimed cumulative wafer-processing passes by an unnamed single 12-inch sulfuric cleaning tool; identity not asserted as S300 or same physical tool."
+  }
+]

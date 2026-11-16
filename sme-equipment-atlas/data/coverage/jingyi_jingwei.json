@@ -1,0 +1,16 @@
+[
+  {
+    "coverage_id": "jingyi-inquiry-2024-financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "metric_id": "revenue",
+    "period": "2020 to September 2023, with narrower product windows",
+    "status": "reviewed_found",
+    "scope": "34 prepared financial, CMP sales and dated backlog cells across six physical pages.",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "notes": "18 company financial cells, 10 CMP backlog stocks and six grouped multi-year sales/revenue cells. No missing cells imputed as zero.",
+    "next_action": "Inventory remaining original disclosure tables and platform operating quantities."
+  }
+]

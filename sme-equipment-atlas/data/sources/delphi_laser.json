@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "delphi_laser_2025",
+    "dataset_id": "delphi_laser_disclosures",
+    "title": "Suzhou Delphi Laser FY2025 annual report",
+    "publication_date": "2026-04-28",
+    "publication_date_precision": "day",
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-28/12229182.PDF",
+    "sha256": "612e1d57ac10aa2b873724170d0c04554dc7fd88d7d6d3e5a0612cde85e784de",
+    "source_type": "company_annual_report",
+    "original_document_id": "delphi_laser_2025",
+    "page_count": 266,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored report from public Sina mirror after local holdings/tracker gap. Publication date from dated disclosure page/path, not signature date. Hash identifies held mirror bytes; no official SSE byte copy compared. Registration does not establish extraction completeness."
+  },
+  {
+    "source_id": "delphi_laser_q3_2026",
+    "dataset_id": "delphi_laser_disclosures",
+    "title": "delphi_laser Q3 2026 report: 德龙激光2026年第三季度报告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225640744.PDF",
+    "sha256": "ac1a7336540306a8283280c679bcfb706d7665a8e81fb40df4a08e90b36bfaa0",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "delphi_laser_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "delphi_laser_h1_2026",
+    "dataset_id": "delphi_laser_disclosures",
+    "title": "delphi_laser H1 2026 report: 德龙激光2026年半年度报告",
+    "publication_date": "2026-08-31",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-31/1225535136.PDF",
+    "sha256": "13270a8c1cd5498567acb83796d18a65450a653703fdcfb017a3d0391536a988",
+    "source_type": "company_interim_report",
+    "original_document_id": "delphi_laser_h1_2026",
+    "page_count": 205,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "delphi_laser_placement_prospectus_20260821",
+    "dataset_id": "delphi_laser_disclosures",
+    "title": "delphi_laser: 苏州德龙激光股份有限公司向特定对象发行股票证券募集说明书（申报稿）",
+    "publication_date": "2026-08-22",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-22/1225493339.PDF",
+    "sha256": "ba7a647b00904616920369b41a1143c32d69d2ad0325f5f5e0ed5f0bd5c1d42b",
+    "source_type": "company_prospectus",
+    "original_document_id": "delphi_laser_placement_prospectus_20260821",
+    "page_count": 126,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "delphi_laser_inquiry_reply_20260821",
+    "dataset_id": "delphi_laser_disclosures",
+    "title": "delphi_laser: 关于苏州德龙激光股份有限公司向特定对象发行股票申请文件的审核问询函的回复（豁免版）",
+    "publication_date": "2026-08-22",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-22/1225493586.PDF",
+    "sha256": "29e54588c1cab91b76c0c9d883332e290e07616aaabf4131de05059d2248ad3a",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "delphi_laser_inquiry_reply_20260821",
+    "page_count": 133,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

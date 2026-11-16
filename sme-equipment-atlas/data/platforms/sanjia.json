@@ -1,0 +1,38 @@
+[
+  {
+    "platform_id": "sanjia_wafer_level_molding_machine",
+    "entity_id": "sanjia",
+    "category_id": "molding_compression",
+    "record_kind": "source_native_product",
+    "name": "晶圆级塑封设备 (wafer-level molding machine)",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "SANJIA-FY25-P12-WAFERLEVEL",
+      "source_id": "sanjia_annual_2025",
+      "page": 12,
+      "excerpt": "晶圆级塑封设备 压缩成型塑封专用装备，适配晶圆级WLP/面板级PLP等形式的压缩成型塑封，含压机、覆膜、高真空、精密模具等核心单元，搭配多项辅助机构。flange mold和full mold两种塑封型式，可处理液体、颗粒树脂；支持8寸、12寸、直径320规格载板；配备自动挤胶、撒粉机构及模具更换专用小车。专为先进封装工艺设计，塑封型式、树脂类型、载板规格适配范围广；伺服同步控制技术可自动调节塑封体厚度一致性，保障先进封装的工艺精度。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "lab",
+    "maturity_as_reported_in": "sanjia_interim_2026h1",
+    "notes": "No distinct model number given by the issuer (unlike its established FSAM/FSPM/FSDM transfer-system names); listed as a current product in the FY2025 catalogue (flange mold and full mold formats, liquid or granular resin, 8-/12-inch wafer and 320mm-carrier support) without a production-stage claim. The H1 2026 interim report still describes the related new-product work ('全自动晶圆塑封机') as R&D 'progressing smoothly' (新品研发进展顺利), which is closer to the atlas's 'lab' stage word than to a sales-ready claim. No memory or HBM customer or application is named; record_kind is source_native_product rather than named_model because no issuer-assigned model code was found. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '晶圆级塑封设备' confirmed contiguous on sanjia_annual_2025 p12 using pdftotext WITHOUT -layout, whitespace-stripped ('晶圆级塑封设备压缩成型塑封专用装备...'); the SAME page's -layout rendering returns zero matches for this phrase because the table interleaves columns -- a direct instance of the contiguous-phrase trap, so I confirm with the non-layout rendering per the protocol. category_id molding_compression matches molding_compression's own scope note, which quotes this exact issuer sentence as its calibration example. reported_maturity 'lab' is honestly hedged in the record's own notes: the FY2025 catalogue entry carries no stage word of its own, and 'lab' is drawn instead from the H1 2026 R&D narrative for '全自动晶圆塑封机', whose identity with the catalogued 晶圆级塑封设备 is NOT confirmed by any source (acknowledged in notes, record_kind correctly downgraded to source_native_product rather than named_model for the same reason). This is a defensible, appropriately conservative call given the disclosed identity uncertainty, not an inflation. No aliases to check.",
+    "maturity_history": [
+      {
+        "claim_id": "SANJIA-H1-2026-P12-WAFERLEVEL-RD",
+        "source_id": "sanjia_interim_2026h1",
+        "page": 12,
+        "excerpt": "'100×300以内基板类压缩成型封装自动化设备关键技术研发及产业化'按计划稳步推进；全自动晶圆塑封机、FSPM180自动封装系统、浮动基板封装模具等新品研发进展顺利，其中FSPM180自动封装系统已完成初步验证，研发效果达到预期。",
+        "as_of": "2026-06-30",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "新品研发进展顺利 (new-product R&D progressing smoothly)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FSPM180 in the same sentence is a transfer-type automatic packaging system (named alongside FSAM180/FSDM180 in sanjia_interim_2026h1 p8's product list), not the wafer-level compression machine; only the 全自动晶圆塑封机 reference is used for this platform's maturity."
+      }
+    ]
+  }
+]

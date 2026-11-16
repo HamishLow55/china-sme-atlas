@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "unicomp_2025",
+    "dataset_id": "unicomp_disclosures",
+    "title": "Unicomp Technology Group FY2025 annual report",
+    "publication_date": "2026-04-18",
+    "publication_date_precision": "day",
+    "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-18/12110718.PDF",
+    "sha256": "5aa0871ddf0bf02389e18646805079b5d5ad50098d12c4b034d2c34c5c293143",
+    "source_type": "company_annual_report",
+    "original_document_id": "unicomp_2025",
+    "page_count": 303,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored report held from public Sina disclosure mirror. Publication date from dated disclosure page/path; source hash belongs to mirror bytes, not an independently hash-compared SSE copy. Registration does not establish extraction completeness."
+  },
+  {
+    "source_id": "unicomp_h1_2026",
+    "dataset_id": "unicomp_disclosures",
+    "title": "Unicomp Technology Group H1 2026 semi-annual report",
+    "publication_date": "2026-08-15",
+    "publication_date_precision": "day",
+    "url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-15/12495756.PDF",
+    "sha256": "bda064d2544d9576edda69cb6444fbdd2e33b65b80fb1ecda75cd195b1c2e4a7",
+    "source_type": "company_interim_report",
+    "original_document_id": "unicomp_h1_2026",
+    "page_count": 285,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored full filing from public PDF mirror after SSE endpoint was inaccessible. Cover issuer, code688531 and H1 period visually checked. Dated public filing listing supports publication date. Local Financial reports/Assorted sources/vault primary filenames and read-only OSINT inventory held FY2025 only; no recent source found. Registration alone does not establish extraction coverage."
+  },
+  {
+    "source_id": "unicomp_q3_2026",
+    "dataset_id": "unicomp_disclosures",
+    "title": "unicomp Q3 2026 report: 2026年第三季度报告",
+    "publication_date": "2026-10-29",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-29/1225636786.PDF",
+    "sha256": "ab1cced3bd9888cb4f32e6028b8b2e88ad258b023aa11061cbae0175390f43b0",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "unicomp_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

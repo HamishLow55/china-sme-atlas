@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "nuohe_hybrid_bonding_hbm_context_2026",
+    "claim_id": "nuohe_hybrid_bonding_hbm_context_2026",
+    "entity_id": "nuohe_jianwei",
+    "category_id": "bonding",
+    "platform_id": "nuohe_hybrid_bonding_equipment",
+    "application_id": "hbm",
+    "source_id": "naura_nuohe_acquisition_20261015",
+    "page": 3,
+    "excerpt": "混合键合是实现超高密度互连的关键工艺，混合键合设备是支撑先进封装核心工艺的关键装备，在 SoC、HBM、Chiplet 等 3D 集成",
+    "status": "source_checked",
+    "link_kind": "process_relevance",
+    "scope_note": "A statement about the tool class, not about any Nuohe shipment or customer. The sentence ends on p4 with 领域应用广泛.",
+    "claim_kind": "company_reported",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30"
+  }
+]

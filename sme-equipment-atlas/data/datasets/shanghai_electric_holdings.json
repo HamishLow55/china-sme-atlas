@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "title": "Shanghai Electric Holdings Group audited bond-market disclosures",
+    "kind": "company_filings",
+    "publisher": "shanghai_electric_holdings",
+    "version": "2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; originals held locally.",
+    "market_definitions": {}
+  }
+]

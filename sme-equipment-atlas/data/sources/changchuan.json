@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "changchuan_annual_2024",
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "杭州长川科技股份有限公司2024年年度报告",
+    "publication_date": "2025-04-29",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-04-29/1223380487.PDF",
+    "sha256": "2f06610f86016c7e56a75728b797fdd5546c5b6752787eddcaebcc273df92199",
+    "source_type": "company_annual_report",
+    "original_document_id": "changchuan_annual_2024",
+    "notes": "Official CNINFO full-report PDF, announcement_id 1223380487, org_id 9900031824. CNINFO announcementTime in Asia/Shanghai and the official finalpage URL date both support 2025-04-29. Physical p.1 identifies the issuer and report period; physical p.6 identifies 长川科技, stock code 300604, legal Chinese name and reported English name. Hash and 241-page count were recomputed locally. Original PDF and machine-specific path remain outside Git.",
+    "page_count": 241,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "changchuan_annual_2025",
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "杭州长川科技股份有限公司2025年年度报告",
+    "publication_date": "2026-04-25",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225193261.PDF",
+    "sha256": "eecb3880920986d87b304aa8ca894dbbfd249ac035274d4c38fd2e8cbf65fe91",
+    "source_type": "company_annual_report",
+    "original_document_id": "changchuan_annual_2025",
+    "notes": "Official CNINFO full-report PDF, announcement_id 1225193261, org_id 9900031824. CNINFO announcementTime in Asia/Shanghai and the official finalpage URL date both support 2026-04-25. Physical p.1 identifies the issuer and report period; physical p.6 identifies 长川科技, stock code 300604, legal Chinese name and reported English name. Hash and 244-page count were recomputed locally. Original PDF and machine-specific path remain outside Git.",
+    "page_count": 244,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "changchuan_h1_2026",
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "杭州长川科技股份有限公司2026年半年度报告",
+    "publication_date": "2026-08-28",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225523202.PDF",
+    "sha256": "4073e8fce5a6f5268de61b37f5fef9a9be88b714c3f3b65c04a86218df21de3f",
+    "source_type": "company_interim_report",
+    "original_document_id": "changchuan_h1_2026",
+    "notes": "Official CNINFO full-report PDF, announcement_id 1225523202, org_id 9900031824. CNINFO announcementTime in Asia/Shanghai and the official finalpage URL date both support 2026-08-28. Physical p.1 identifies the issuer and report period; physical p.7 identifies 长川科技, stock code 300604, legal Chinese name and reported English name. Hash and 188-page count were recomputed locally. Original PDF and machine-specific path remain outside Git.",
+    "page_count": 188,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "changchuan_q3_2026",
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "changchuan Q3 2026 report: 2026年三季度报告",
+    "publication_date": "2026-10-27",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-27/1225627248.PDF",
+    "sha256": "eb0000756d0a65a06c0c9639eb7089e93aa530c9c64d4390688288c7c0788ce1",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "changchuan_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. Corrected 2026-10-30: first registered against the one-page 提示性公告 rather than the report itself. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "changchuan_placement_listing_20260805",
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "changchuan: 杭州长川科技股份有限公司2025年度向特定对象发行股票并在创业板上市上市公告书",
+    "publication_date": "2026-08-06",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-06/1225459800.PDF",
+    "sha256": "f2edc8b386e43a6d28ec610917515ec36cb20a6e5eca62966326fdaa250fb70a",
+    "source_type": "company_listing_announcement",
+    "original_document_id": "changchuan_placement_listing_20260805",
+    "page_count": 34,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

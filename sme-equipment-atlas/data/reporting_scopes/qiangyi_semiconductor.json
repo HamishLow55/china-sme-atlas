@@ -1,0 +1,278 @@
+[
+  {
+    "reporting_scope_id": "qiangyi_integrated_circuit_business",
+    "label": "集成电路",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分行业 disclosure scope 集成电路. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_probe_card_sales",
+    "label": "探针卡销售",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native 分产品 disclosure scope 探针卡销售. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_probe_card_repair",
+    "label": "探针卡维修",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native 分产品 disclosure scope 探针卡维修. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_wafer_test_board_sales",
+    "label": "晶圆测试板销售",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分产品 disclosure scope 晶圆测试板销售. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_source_defined_domestic_main_business",
+    "label": "境内",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分地区 disclosure scope 境内. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_source_defined_overseas_main_business",
+    "label": "境外",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分地区 disclosure scope 境外. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_direct_main_business_sales",
+    "label": "直销",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分销售模式 disclosure scope 直销. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_non_direct_main_business_sales",
+    "label": "非直销",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 分销售模式 disclosure scope 非直销. Table boundary is preserved; no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "qiangyi_2d_mems_probe_card",
+    "label": "2D MEMS 探针卡",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native probe-card production/sales/inventory scope 2D MEMS 探针卡; 张 counts cards, not ATE systems, chambers, shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_2_5d_mems_probe_card",
+    "label": "2.5D MEMS 探针卡",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native probe-card production/sales/inventory scope 2.5D MEMS 探针卡; 张 counts cards, not ATE systems, chambers, shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_vertical_probe_card",
+    "label": "垂直探针卡",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native probe-card production/sales/inventory scope 垂直探针卡; 张 counts cards, not ATE systems, chambers, shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_cantilever_probe_card",
+    "label": "悬臂探针卡",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native probe-card production/sales/inventory scope 悬臂探针卡; 张 counts cards, not ATE systems, chambers, shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_thin_film_probe_card",
+    "label": "薄膜探针卡",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native probe-card production/sales/inventory scope 薄膜探针卡; 张 counts cards, not ATE systems, chambers, shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 发明专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_utility_model_patents",
+    "label": "实用新型专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 实用新型专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_design_patents",
+    "label": "外观设计专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 外观设计专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_software_copyrights",
+    "label": "软件著作权",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 软件著作权; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_other",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 其他; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_ip_table_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property table class 合计; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_01",
+    "label": "HBM 高并测DRAM 晶圆测试探针卡开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row HBM 高并测DRAM 晶圆测试探针卡开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_02",
+    "label": "大尺寸多层 PI 薄膜制造技术研究",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 大尺寸多层 PI 薄膜制造技术研究; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_03",
+    "label": "2.5DMEMS 探针性能提升研究",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 2.5DMEMS 探针性能提升研究; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_04",
+    "label": "用于探针卡 SP 的 MLC 基板开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 用于探针卡 SP 的 MLC 基板开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_05",
+    "label": "LTCC 生瓷片材料及流延工艺开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row LTCC 生瓷片材料及流延工艺开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_06",
+    "label": "高质量合金电镀技术开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 高质量合金电镀技术开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_07",
+    "label": "极端测试环境下垂直式 MEMS 探针卡开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 极端测试环境下垂直式 MEMS 探针卡开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_08",
+    "label": "垂直 MEMS 探针卡性能提升研究",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 垂直 MEMS 探针卡性能提升研究; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_09",
+    "label": "多通道低损耗高频薄膜探针卡开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 多通道低损耗高频薄膜探针卡开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_10",
+    "label": "用于存储探针卡的 12inch 空间转接陶瓷基板产品开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 用于存储探针卡的 12inch 空间转接陶瓷基板产品开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_11",
+    "label": "用于 ST 的 CTE 可调 LTCC 生瓷片及配套银浆开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 用于 ST 的 CTE 可调 LTCC 生瓷片及配套银浆开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_12",
+    "label": "高价值贵金属电镀液开发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 高价值贵金属电镀液开发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_13",
+    "label": "i-MaxADPS(强一自动化 PCB 设计系统)",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row i-MaxADPS(强一自动化 PCB 设计系统); financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_14",
+    "label": "2.5DMEMS 探针卡精密焊接技术及组装工艺研发",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 2.5DMEMS 探针卡精密焊接技术及组装工艺研发; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "test_probe_card",
+    "definition": "FY2025 source-native R&D project-table row 合计; financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_probe_card_operating_milestones",
+    "label": "Probe-card operating milestones",
+    "category_id": "test_probe_card",
+    "definition": "Source-native FY2025 operating and capability claims for the explicitly named Qiangyi probe-card family; not company financial allocation, complete ATE manufacture, or installed base."
+  },
+  {
+    "reporting_scope_id": "qiangyi_other_business",
+    "label": "其他业务",
+    "category_id": "all_businesses",
+    "definition": "H1 2026 revenue-note 商品类型 row 其他业务: per the issuer, mainly test-related materials sales and waste-liquid disposal income. Not an equipment or probe-card scope."
+  },
+  {
+    "reporting_scope_id": "qiangyi_source_defined_domestic_operating_revenue",
+    "label": "境内",
+    "category_id": "all_businesses",
+    "definition": "H1 2026 revenue-note 按经营地区分类 row 境内. The cut foots to total operating revenue with zero residual, so it is not the FY2025 main-business 境内 scope."
+  },
+  {
+    "reporting_scope_id": "qiangyi_source_defined_overseas_operating_revenue",
+    "label": "境外",
+    "category_id": "all_businesses",
+    "definition": "H1 2026 revenue-note 按经营地区分类 row 境外. The cut foots to total operating revenue with zero residual, so it is not the FY2025 main-business 境外 scope."
+  },
+  {
+    "reporting_scope_id": "qiangyi_direct_operating_revenue",
+    "label": "直销",
+    "category_id": "all_businesses",
+    "definition": "H1 2026 revenue-note 按销售渠道分类 row 直销. Foots to total operating revenue, so distinct from the FY2025 main-business channel scope."
+  },
+  {
+    "reporting_scope_id": "qiangyi_non_direct_operating_revenue",
+    "label": "非直销",
+    "category_id": "all_businesses",
+    "definition": "H1 2026 revenue-note 按销售渠道分类 row 非直销. Foots to total operating revenue, so distinct from the FY2025 main-business channel scope."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_mems_cis",
+    "label": "MEMS-CIS 探针卡产品开发",
+    "category_id": "test_probe_card",
+    "definition": "H1 2026 source-native R&D-project table row. Financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_multichannel_film_performance",
+    "label": "多通道薄膜探针卡研究及针卡性能提升",
+    "category_id": "test_probe_card",
+    "definition": "H1 2026 source-native R&D-project table row. Financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_rd_project_high_performance_2_5d",
+    "label": "高性能 2.5D MEMS 探针卡开发（超高针数、超小 pitch 2.5D MEMS 探针卡的开发）",
+    "category_id": "test_probe_card",
+    "definition": "H1 2026 source-native R&D-project table row, stated application 存储探针卡. Financial project scope, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "qiangyi_h1_2026_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "test_probe_card",
+    "definition": "H1 2026 R&D-project table 合计. The table lists main projects only and differs in population from the FY2025 table total."
+  },
+  {
+    "reporting_scope_id": "qiangyi_nantong_agreement_3_increment",
+    "label": "《投资协议书（三）》项目投资（新增投资额）",
+    "category_id": "all_businesses",
+    "definition": "Investment stated in Investment Agreement (3) with the Suxitong park committee, for 半导体产品、集成电路探针卡及器件. The source says the CNY 1bn is new investment on top of the roughly CNY 1bn first phase of the 2023 agreement. It is an increment, not a project total or a replacement figure."
+  },
+  {
+    "reporting_scope_id": "qiangyi_nantong_probe_card_rd_production_project",
+    "label": "南通探针卡研发及生产项目",
+    "category_id": "test_probe_card",
+    "definition": "Qiangyi IPO-funded Nantong probe-card project, the main body of phase one of the 2023 agreement. A separate perimeter from the Agreement (3) increment; the notice gives no bridge between them."
+  }
+]

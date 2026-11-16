@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "hanmi",
+    "name": "Hanmi Semiconductor Co., Ltd.",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "Hanmi Semiconductor",
+      "한미반도체",
+      "한미반도체(주)",
+      "042700",
+      "042700.KS"
+    ],
+    "evidence": {
+      "source_id": "hanmi_fy2025_annual",
+      "page": 1,
+      "excerpt": "사 업 보 고 서 (제 46 기) 사업연도 2025년 01월 01일 부터 2025년 12월 31일 까지 한미반도체주식회사",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. Hanmi is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Headquartered in Incheon, South Korea; listed on the Korea Exchange (KOSPI) under code 042700. It is registered here because it is the TCB supplier most directly tied to HBM production: Hanmi's own filings name 'HBM TC(Thermal Compression) 본더' (HBM TC Bonder) as its flagship product line and state that TC bonders are the core tool for stacking 12- and 16-layer HBM, making it the Korean counterpart to ASMPT in the atlas's bonding_tcb comparator set alongside the Chinese entrants Quick and Piotech. Fiscal year ends 31 December, same as the Chinese issuers and unlike the Japanese comparators, so no fiscal-year offset applies. Reporting currency is the Korean won; filings print revenue, profit and R&D tables in 백만원 (KRW_million) and the full financial statements in exact won (KRW); both are recorded as printed and never converted, and 억원 (KRW_100m) does not appear in the filings read for this packet. CRITICAL FINDING for the atlas's HBM-equipment-revenue question: Hanmi discloses NO separate TCB, hybrid-bonding or HBM-specific revenue line anywhere in the three annual reports, one half-year report or one quarterly report read for this packet. Its finest disclosed product split is two rows under one 'Semiconductor Equipment' business segment: '반도체 제조용 장비 外' (semiconductor manufacturing equipment and other, i.e. the whole machine population including TC bonders, flip-chip bonders, vision placement, EMI shield and SAW tools) versus 'Conversion Kit 등' (conversion kits/consumables); see the hanmi_equipment_revenue and hanmi_conversion_kit_revenue reporting scopes. Hanmi states that order and backlog detail is withheld because it would expose customers' investment plans — but that sentence is only half the picture, and an earlier version of this note stopped there. Korean rules require separate disclosure of any order above 5% of prior-year revenue, and Hanmi tabulates those contracts individually with date, counterparty, named tool model and value. That carve-out is where its HBM evidence lives: seven contracts are registered at the hanmi_disclosed_single_sale_contracts scope, including four in FY2024 each labelled 제조용 HBM, one of them to Micron rather than SK하이닉스, and an HBM4-specific TC BONDER 4.5 GRIFFIN order of KRW 44.2bn in H1 2026 printed inside the 수주상황 section itself. The REVENUE finding above still stands unchanged — there is no TCB or HBM revenue line — but it was wrong to extend it to orders. Because Hanmi is in substance a single-segment manufacturer -- the 'Semiconductor Equipment' segment total equals 100% of consolidated company revenue in every year read -- company-wide revenue, profit and R&D figures registered under the hanmi_company scope are informative about the TCB-centric business as a whole even though they are filed at all_businesses, not at bonding_tcb.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: '042700.KS'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source. Of those, '042700.KS' is a market-data ticker form — the exchange suffix is a convention of quote systems, not something any filing prints — so it is a derived identifier rather than a name claim, and its absence from the corpus is expected rather than a gap to close."
+  }
+]

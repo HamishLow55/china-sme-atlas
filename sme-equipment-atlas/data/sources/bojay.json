@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "bojay_fy2025_annual_report",
+    "dataset_id": "bojay_annual_disclosures",
+    "title": "珠海博杰电子股份有限公司 2025 年年度报告全文",
+    "source_type": "company_annual_report",
+    "publication_date": "2026-04-01",
+    "publication_date_precision": "day",
+    "reporting_period_end": "2025-12-31",
+    "locator_kind": "pdf",
+    "page_count": 253,
+    "url": "http://static.cninfo.com.cn/finalpage/2026-04-01/1225066268.PDF",
+    "sha256": "7befb61c0c855928c521409ccb65cfa94daee828f20e8e196cba1629b5cce271",
+    "notes": "Acquired directly from the cninfo disclosure static-file host, per the local-first rule, into 'the maintainer's local archive (not distributed): Financial reports/Bojiexin filings/bojie_002975_fy2025_annual_report.pdf'. sha256 and the 253-page count were both computed locally (shasum -a 256; pdfinfo). Printed page numbers match physical page numbers throughout (no offset); confirmed directly against pp6, 9, 21, 225 and 226 (each prints its own physical page number as footer). This is Bojay's (002975) own filing; it is the only located source of Bojiexin's financial figures (cross-entity source use -- see bojay_annual_disclosures dataset notes)."
+  }
+]

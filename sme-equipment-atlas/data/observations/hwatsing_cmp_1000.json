@@ -1,0 +1,46 @@
+[
+  {
+    "observation_id": "H2026-CMP1000",
+    "dataset_id": "hwatsing_disclosures",
+    "source_id": "hwatsing_cmp_1000",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "1000",
+    "relation": "ge",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2026-04-09",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "第 1,000 台",
+      "excerpt": "近日，华海清科股份有限公司（以下简称“公司”）第 1,000 台 CMP 装备正式出机并发往国内集成电路龙头企业。",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "1000",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Ordinal shipment milestone reached recently by announcement; not exact shipment-day or closing total. Not accepted installed base. Independently checked against local original; supplier claim remains uncorroborated."
+  }
+]

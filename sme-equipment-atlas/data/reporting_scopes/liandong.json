@@ -1,0 +1,56 @@
+[
+  {
+    "reporting_scope_id": "liandong_special_equipment_manufacturing_industry",
+    "label": "专用设备制造业",
+    "category_id": "multi_equipment",
+    "definition": "Liandong source-native 分行业 / 实物销售 basket 专用设备制造业, equal to company revenue. It mixes semiconductor automated test systems, laser marking equipment, the issuer's own wafer prober and other electromechanical equipment, and carries the only unit-count table in the filing. No allocation to any single tool class is possible from it."
+  },
+  {
+    "reporting_scope_id": "liandong_semiconductor_automated_test_systems",
+    "label": "半导体自动化测试系统",
+    "category_id": "test",
+    "definition": "Liandong source-native 分产品 row 半导体自动化测试系统: ATE mainframes only (QT-4000/3000 and QT-8400 power device, QT-6000 small-signal discrete, QT-8100/8200/8600 analog and mixed-signal, QT-9800 SoC). Not handlers, probers or probe cards; no memory-test product is claimed. No model or application allocation."
+  },
+  {
+    "reporting_scope_id": "liandong_laser_marking_and_other_integrated_equipment",
+    "label": "半导体激光打标设备及其他一体化设备",
+    "category_id": "multi_equipment",
+    "definition": "Liandong source-native 分产品 row mixing semiconductor laser marking systems with 'other integrated equipment', which the p14 product table shows includes the issuer's own wafer prober. The source gives no split, so no prober revenue can be derived."
+  },
+  {
+    "reporting_scope_id": "liandong_parts_repair_and_other_technical_services",
+    "label": "配件、维修及其他技术服务",
+    "category_id": "all_businesses",
+    "definition": "Liandong source-native 分产品 row 配件、维修及其他技术服务: parts, repair and technical services across all product lines. Not equipment sales. Below the 10% threshold so no cost or margin row exists."
+  },
+  {
+    "reporting_scope_id": "liandong_domestic_revenue",
+    "label": "中国境内",
+    "category_id": "all_businesses",
+    "definition": "Liandong source-native 分地区 row 中国境内; mixes all product lines and is not resolved to customer country."
+  },
+  {
+    "reporting_scope_id": "liandong_overseas_revenue",
+    "label": "中国境外",
+    "category_id": "all_businesses",
+    "definition": "Liandong source-native 分地区 row 中国境外; countries are not resolved."
+  },
+  {
+    "reporting_scope_id": "liandong_ip_granted_total",
+    "label": "累计授权知识产权",
+    "category_id": "all_businesses",
+    "definition": "Liandong source-native FY2025 MD&A cumulative granted intellectual-property total across all classes; applications and grants, and annual additions versus cumulative report-context counts, remain distinct."
+  },
+  {
+    "reporting_scope_id": "liandong_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "Liandong source-native FY2025 MD&A invention-patent subset of the cumulative granted IP total."
+  },
+  {
+    "reporting_scope_id": "liandong_statement_line_rd_expense",
+    "label": "研发费用",
+    "category_id": "all_businesses",
+    "definition": "Liandong income-statement line 研发费用 as printed in the Q3 2026 利润表项目重大变动情况 table; the scope exists to identify the line for its printed change."
+  }
+]

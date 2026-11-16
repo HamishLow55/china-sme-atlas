@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "chipmicro_annual_2025",
+    "dataset_id": "chipmicro_annual_disclosures",
+    "entity_id": "chipmicro",
+    "title": "合肥芯碁微电子装备股份有限公司 2025 年年度报告",
+    "source_type": "company_annual_report",
+    "publication_date": "2026-03-13",
+    "publication_date_precision": "day",
+    "reporting_period_end": "2025-12-31",
+    "locator_kind": "pdf",
+    "page_count": 277,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-14/1225007990.PDF",
+    "sha256": "4279baf955d3273f05706d31e7d8b1eff511482c4032b1ff6881203d49108541"
+  },
+  {
+    "source_id": "chipmicro_q3_2026",
+    "dataset_id": "chipmicro_annual_disclosures",
+    "title": "chipmicro Q3 2026 report: 2026年第三季度报告",
+    "publication_date": "2026-10-29",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-29/1225633163.PDF",
+    "sha256": "575ba09a0f6158b8ef411f5436ed8ac491bfb2ff867fb30257094647deccd4c8",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "chipmicro_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "chipmicro_h1_2026",
+    "dataset_id": "chipmicro_annual_disclosures",
+    "title": "chipmicro H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-27",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-27/1225508738.PDF",
+    "sha256": "a078c0e4111d7f5cb87bf0aeb9cea6b0c57d89553e50514d3e62d85c5f90b951",
+    "source_type": "company_interim_report",
+    "original_document_id": "chipmicro_h1_2026",
+    "page_count": 217,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

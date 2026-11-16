@@ -1,0 +1,140 @@
+[
+  {
+    "observation_id": "hgtech_picosecond_dicer_chipping_size",
+    "dataset_id": "hgtech_disclosures",
+    "source_id": "hgtech_picosecond_dicing_product_20260924",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "hgtech_picosecond_laser_wafer_dicing_equipment_family",
+    "metric_id": "reported_dicing_chipping_size",
+    "platform_id": "hgtech_uv_picosecond_wafer_dicing_family",
+    "value": "10",
+    "relation": "le",
+    "unit": "micrometre",
+    "period": {
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hgtech_picosecond_dicing_product_20260924"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "皮秒激光划片设备 崩边 ≤10μm",
+      "excerpt": "崩边 ¦ ≤10μm",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "10",
+      "reported_unit": "micrometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Maximum edge chipping for HG Laser’s picosecond laser wafer dicing family, printed as an unambiguous upper bound. Chipping is the standard quality figure of merit by which laser dicing is compared against blade dicing. Locator 1 is a single archived HTML product page, not a PDF page; the page carries no publication date, so the period is collapsed to the archive date, which is the only date the atlas can attest and is not a disclosure period. The excerpt reproduces the source’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "hgtech_lud3200_scribe_line_width",
+    "dataset_id": "hgtech_disclosures",
+    "source_id": "hgtech_picosecond_dicing_product_20260924",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "hgtech_picosecond_laser_wafer_dicing_equipment_family",
+    "metric_id": "reported_dicing_kerf_width",
+    "platform_id": "hgtech_lud3200",
+    "value": "30",
+    "relation": "le",
+    "unit": "micrometre",
+    "period": {
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hgtech_picosecond_dicing_product_20260924"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "LUD3200 划线线宽 ≤30±5μm",
+      "excerpt": "主要技术参数 ¦ 设备型号 ¦ LUD3200 ¦ LUD3210 ¦ 激光器参数 ¦ 中心波长 ¦ ~355nm ¦ ~355nm ¦ 加工头 ¦ 激光扫描头 ¦ 激光准直头 ¦ 加工性能 ¦ 有效工作行程 ¦ 200x300mm(选配)、 DD马达 ¦ 200x300mm(选配)、 DD马达 ¦ 重复定位精度 ¦ ±2μm 、 ± 5arc sec ¦ ±2μm 、 ± 5arc sec ¦ 视觉定位 ¦ 正面定位 、正面切割 ¦ 正面定位 、正面切割 ¦ 划线线宽 ¦ ≤30± 5 μm ¦ ≤20± 5 μm",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "30",
+      "reported_unit": "micrometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Scribe-line width of the LUD3200 model. The source writes ≤30±5μm: only the printed bound of 30 is recorded, because the implied worst case of 35 is not a number the source prints and the atlas does not store derived values. Read with that ±5μm tolerance in mind rather than as a guaranteed maximum. The model table prints 划线线宽 while the family specification sheet separately prints 切割线宽 ≤20±5μm（含HAZ）; the two wordings are not established to mean the same measurement, so only the model rows are recorded. The excerpt reproduces the source’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "hgtech_lud3210_scribe_line_width",
+    "dataset_id": "hgtech_disclosures",
+    "source_id": "hgtech_picosecond_dicing_product_20260924",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "hgtech_picosecond_laser_wafer_dicing_equipment_family",
+    "metric_id": "reported_dicing_kerf_width",
+    "platform_id": "hgtech_lud3210",
+    "value": "20",
+    "relation": "le",
+    "unit": "micrometre",
+    "period": {
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hgtech_picosecond_dicing_product_20260924"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "LUD3210 划线线宽 ≤20±5μm",
+      "excerpt": "主要技术参数 ¦ 设备型号 ¦ LUD3200 ¦ LUD3210 ¦ 激光器参数 ¦ 中心波长 ¦ ~355nm ¦ ~355nm ¦ 加工头 ¦ 激光扫描头 ¦ 激光准直头 ¦ 加工性能 ¦ 有效工作行程 ¦ 200x300mm(选配)、 DD马达 ¦ 200x300mm(选配)、 DD马达 ¦ 重复定位精度 ¦ ±2μm 、 ± 5arc sec ¦ ±2μm 、 ± 5arc sec ¦ 视觉定位 ¦ 正面定位 、正面切割 ¦ 正面定位 、正面切割 ¦ 划线线宽 ¦ ≤30± 5 μm ¦ ≤20± 5 μm",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "20",
+      "reported_unit": "micrometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Scribe-line width of the LUD3210 model, the finer of the two in the same table. The source writes ≤20±5μm: only the printed bound of 20 is recorded, for the same reason as the LUD3200 row, and the ±5μm tolerance is not expressible in the relation vocabulary. The parameter table is two-column and binds values positionally: the 设备型号 header lists LUD3200 then LUD3210, and every parameter row below emits its LUD3200 value first and its LUD3210 value second, a pattern consistent across 中心波长, 加工头, 有效工作行程, 重复定位精度 and 视觉定位. The excerpt therefore runs from the 主要技术参数 heading through the 划线线宽 values so the column order is auditable rather than asserted. The excerpt reproduces the source’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "observation_id": "A2024H1-CCP-SHIP",
+    "dataset_id": "amec_interim_disclosures",
+    "source_id": "amec_h1_2024",
+    "entity_id": "amec",
+    "category_id": "etch_ccp",
+    "reporting_scope_id": "etch_ccp",
+    "platform_id": "",
+    "metric_id": "cumulative_production_shipments",
+    "value": "3600",
+    "relation": "gt",
+    "unit": "reaction_station",
+    "period": {
+      "start": "",
+      "end": "2024-06-30",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 34,
+      "printed_page": 34,
+      "original_label": "超过3600个CCP刻蚀反应台",
+      "excerpt": "截至 2024 年 6 月，公司累计生产付运超过 3600 个 CCP 刻蚀反应台",
+      "status": "source_checked",
+      "reviewer": "local_evidence + independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "3600",
+      "reported_unit": "reaction_station"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Production/shipment disclosure. Do not silently equate with later installed-base disclosure."
+  },
+  {
+    "observation_id": "A2024H1-ICP-LINES",
+    "dataset_id": "amec_interim_disclosures",
+    "source_id": "amec_h1_2024",
+    "entity_id": "amec",
+    "category_id": "etch_icp",
+    "reporting_scope_id": "etch_icp",
+    "platform_id": "",
+    "metric_id": "customer_production_lines",
+    "value": "60",
+    "relation": "gt",
+    "unit": "production_line",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 35,
+      "printed_page": 35,
+      "original_label": "60多条客户的生产线",
+      "excerpt": "60 多条客户的生产线上量产",
+      "status": "source_checked",
+      "reviewer": "local_evidence + independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "60",
+      "reported_unit": "production_line"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Counts production lines, not customers or tools."
+  }
+]

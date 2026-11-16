@@ -1,0 +1,266 @@
+[
+  {
+    "coverage_id": "quick_2025_named_tcb_tool_or_model",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "named tcb tool or model",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "TCB whole-equipment family expressly named pp13 image, 16, 17, 30, 32; no model number found in text or visual p13.",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_tcb_maturity",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "tcb maturity",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "prototype completed, multiple customers' sample validation p16; R&D customer validation p32; no demonstrated production or sales claim for TCB",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_hbm_application",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "hbm application",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "issuer says TCB can adapt to HBM stacking p16 and R&D project targets HBM/SoC p32; no named HBM customer acceptance or production qualification",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_hybrid_bonding",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "hybrid bonding",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "generic process definition p6 and comparative industry language p30; no issuer hybrid-bonding whole tool claim",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_tcb_shipments_or_installed_base",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "tcb shipments or installed base",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "reviewed_not_found after whole-file searches for TCB/热压键合 with 交付/出货/销售/装机/累计; broad 106 sold p20 cannot be allocated to TCB",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_other_whole_tool_shipments",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "other whole tool shipments",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "high-speed high-precision die bonder qualitative bulk shipments p16; broad 106 packaging-tool sales p20",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_orders_and_customers",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "orders and customers",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "multiple unnamed TCB sample-validation customers p16; 成都先进 named for high-speed die bonder p16; 中车时代半导体 sintering tender win p16; no named TCB order/customer",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_capacity_and_nodes",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "capacity and nodes",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "reviewed_not_found for TCB tool production capacity, wafer throughput, placement accuracy or node; no numeric process node. Subsystem R&D language does not establish whole-tool specs",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_separate_whole_tool_quantities",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "separate whole tool quantities",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "reviewed_not_found; only broad packaging-equipment category production 188, sales 106, inventory 164 p20",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_customer_installations",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "customer installations",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "reviewed_not_found for TCB or named semiconductor packaging whole-tool installed base; generic customer line language is not installation evidence",
+    "next_action": "Keep TCB capability and development stages separate from broad category sales and other product shipments; revisit only on a new original or specific located claim."
+  },
+  {
+    "coverage_id": "quick_2025_key_financials_and_product_quantities",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "FY2025 product-basket quantities and financials; FY2023–FY2025 company revenue, attributable profit and operating cash flow; FY2025 reported R&D and parent/major-subsidiary active workforce.",
+    "reviewed_source_ids": [
+      "quick_annual_2025"
+    ],
+    "notes": "27 observations independently verified from physical pp8,19–20,24,46. Broad packaging-equipment metrics remain unallocated to TCB or HBM.",
+    "next_action": "Bounded FY2025 source-set baseline complete. Prefer remaining HBM category gaps over further Quick financial decomposition."
+  },
+  {
+    "coverage_id": "quick_h126_named_tcb_equipment",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "named tcb equipment",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "existing quick_advanced_packaging_tcb_bonder; H1 repeats sample validation with added process detail. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_other_packaging_equipment",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "other packaging equipment",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "distinct high-speed eutectic bonder p13, orders above RMB100m and repeat shipments; other power-equipment orders unallocated. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_installed_base",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "installed base",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_cumulative_shipments",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_per_product_units",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "per product units",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "reviewed_not_found for TCB/eutectic; no production-sales-inventory grid. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_orders",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "orders",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "TCB reviewed_not_found; eutectic H1 orders above RMB100m, no exact amount; mixed power-equipment basket names customers, no allocation. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_customers",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "TCB multiple unnamed sample-validation customers; eutectic automotive power-chip customers unnamed; power basket customers named p13. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_qualification",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "qualification",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "TCB sample validation in progress; no acceptance or production use; eutectic bulk repeat shipments. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_capacity",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "vendor semiconductor-equipment capacity reviewed_not_found. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_numeric_nodes",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "numeric nodes",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "reviewed_not_found; qualitative bump pitch is not process node. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_hbm",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "hbm",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "TCB supplier capability, not HBM-qualified customer deployment. Full-original operational search; source-specific claims at physical pp13–14. No absence is treated as zero.",
+    "next_action": "Revisit on a new original or specifically located claim; do not infer TCB deployment from adjacent packaging-tool disclosures."
+  },
+  {
+    "coverage_id": "quick_h126_key_financials",
+    "entity_id": "quick",
+    "status": "reviewed_found",
+    "scope": "H1 consolidated company revenue, attributable profit, net operating cash flow and R&D expense with prior-period comparatives and compatible printed growth.",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "Physical pp7,15: eleven observations verified; one printed expense-growth cell retained as a semantic hold. All four selected current/prior/growth triples checked against source grids. Selected R&D summary does not print an intensity ratio.",
+    "next_action": "Recent baseline complete; prioritize other HBM gaps over Quick financial depth."
+  },
+  {
+    "coverage_id": "quick_h126_product_financials",
+    "entity_id": "quick",
+    "status": "reviewed_not_found",
+    "scope": "Semiconductor-packaging product financial breakdown",
+    "reviewed_source_ids": [
+      "quick_h1_2026"
+    ],
+    "notes": "Source-specific disclosure limit: consolidated revenue/cost note61 p129 marks decomposition not applicable. No supported TCB/eutectic/HBM allocation.",
+    "next_action": "Revisit only on a new product-level disclosure; do not infer allocations."
+  }
+]

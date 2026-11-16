@@ -1,0 +1,18 @@
+[
+  {
+    "link_id": "naura_2025_coat_develop_02_advanced_packaging",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "platform_id": "kingsemi_naura_2025_coat_develop_02",
+    "application_id": "advanced_packaging",
+    "source_id": "naura_2025",
+    "page": 26,
+    "excerpt": "适用于先进封装 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D 涂胶及显影工\n后道先进\n                          艺。可实现高粘度 PR、PI 涂胶及多种显影工艺；渐进式烘焙，实现温度阶\n封装涂胶\n                          梯控制，适用于超厚胶涂覆、显影及烘烤工艺；实现超薄晶圆/翘曲片传送\n显影设备\n                          加工。",
+    "claim_kind": "company_reported",
+    "status": "source_checked",
+    "link_kind": "supplier_capability",
+    "scope_note": "KINGSEMI back-end coat/develop row explicitly lists advanced packaging.",
+    "reviewer": "Codex independent verifier",
+    "review_date": "2026-09-23"
+  }
+]

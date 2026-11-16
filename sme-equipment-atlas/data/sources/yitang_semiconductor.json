@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "yitang_ipo_2025",
+    "dataset_id": "yitang_annual_disclosures",
+    "title": "Yitang Semiconductor IPO prospectus",
+    "publication_date": "2025-07-03",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202507021701680431_1.pdf",
+    "sha256": "ee6e589e4273a7a34e35ae13e90331d2c359e9b7bedfa14fb1839cfb6adfa237",
+    "source_type": "company_ipo_prospectus",
+    "original_document_id": "yitang_ipo_2025",
+    "notes": "Local original checked against numbered text and physical pages.",
+    "page_count": 343,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "yitang_annual_2025",
+    "dataset_id": "yitang_annual_disclosures",
+    "title": "Yitang Semiconductor FY2025 Annual Report",
+    "publication_date": "2026-04-29",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604281821699113_1.pdf",
+    "sha256": "a953266b3a6aa7cbd96eff0774bf89d9d767f862a2a96320585fba365894c938",
+    "source_type": "company_annual_report",
+    "original_document_id": "yitang_annual_2025",
+    "notes": "Local original checked against numbered text and physical pages.",
+    "page_count": 228,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "yitang_h1_2026",
+    "dataset_id": "yitang_interim_disclosures",
+    "title": "Yitang Semiconductor 2026 H1 report",
+    "publication_date": "2026-08-29",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-29/1225526071.PDF",
+    "sha256": "3714387eb75ef7c23959bf02facc8df9aeb6760bbb59b0c5a183cd275d164fa3",
+    "source_type": "company_interim_report",
+    "original_document_id": "yitang_h1_2026",
+    "notes": "Local original checked against numbered text and physical pages.",
+    "page_count": 178,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "yitang_semiconductor_q3_2026",
+    "dataset_id": "yitang_interim_disclosures",
+    "title": "yitang_semiconductor Q3 2026 report: 2026年第三季度报告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225643070.PDF",
+    "sha256": "feb2164b92c31d614febca1760a8b95b09039b3a03aae5c278433d5394694ea4",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "yitang_semiconductor_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "yitang_semiconductor_manufacturing_base_20261029",
+    "dataset_id": "yitang_interim_disclosures",
+    "title": "yitang_semiconductor: 关于投资建设屹唐半导体集成电路装备制造基地项目的公告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225643065.PDF",
+    "sha256": "1b2c576b503f7e012a4b9deda1210c73e2ab28910935c1d1811f8096a68bffd3",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "yitang_semiconductor_manufacturing_base_20261029",
+    "page_count": 5,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

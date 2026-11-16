@@ -1,0 +1,194 @@
+[
+ {
+  "reporting_scope_id": "naura_electronic_process_equipment",
+  "label": "NAURA electronic process equipment",
+  "category_id": "multi_equipment",
+  "definition": "电子工艺装备; semiconductor plus vacuum/new-energy equipment."
+ },
+ {
+  "reporting_scope_id": "naura_ic_process_equipment",
+  "label": "NAURA IC process equipment",
+  "category_id": "multi_equipment",
+  "definition": "Etch, deposition, thermal, wet process and other IC equipment; broader than etching."
+ },
+ {
+  "reporting_scope_id": "thermal_vertical_furnace",
+  "label": "thermal vertical furnace",
+  "category_id": "thermal_furnace",
+  "definition": "Source-defined equipment scope."
+ },
+ {
+  "reporting_scope_id": "naura_annual_company_disclosures",
+  "category_id": "all_businesses",
+  "label": "NAURA source-native annual company disclosure tables",
+  "definition": "Company geography, counterparty and workforce disclosure tables; preserve each table population and cohort without assuming an explicitly consolidated or parent-only financial-statement perimeter."
+ },
+ {
+  "reporting_scope_id": "naura_thermal_process_equipment",
+  "label": "NAURA 热处理设备",
+  "category_id": "thermal",
+  "definition": "Source-defined semiconductor heat-treatment equipment family including vertical furnace and RTP in FY2024 annual p22. Do not assume all vertical-furnace CVD/ALD products are included, or equivalence to FY2023 combined vertical-furnace-plus-cleaning revenue."
+ },
+ {
+  "reporting_scope_id": "naura_wet_process_equipment_excluding_kingsemi",
+  "label": "NAURA 湿法设备收入（不含芯源微湿法设备）",
+  "category_id": "cleaning",
+  "definition": "Source-defined H1 2025 semiconductor wet-equipment revenue family (湿法设备), described with single-wafer, tank and physical cleaning processes. The reported H1 2025 revenue explicitly excludes 芯源微 wet-equipment revenue. Do not allocate this broad family among cleaning subtypes or infer inclusion of separately classified wet etch."
+ },
+ {
+  "reporting_scope_id": "naura_thin_film_deposition_equipment",
+  "label": "NAURA 薄膜沉积设备",
+  "category_id": "deposition",
+  "definition": "Source-defined thin-film deposition equipment product series, a broad basket including PVD, source-defined CVD including ALD, epitaxy and, in the FY2024 lineup, ECP. Contents follow the specific source year; no assumption of non-overlapping component counts or separate product revenue allocation."
+ },
+ {
+  "reporting_scope_id": "naura_pvd_equipment",
+  "label": "NAURA 物理气相沉积设备",
+  "category_id": "deposition_pvd",
+  "definition": "Source-defined PVD equipment family; FY2023 report counts launched product models and cumulative chambers across this family."
+ },
+ {
+  "reporting_scope_id": "naura_cvd_broad_including_ald",
+  "label": "NAURA CVD 产品系列（含源述 ALD）",
+  "category_id": "deposition",
+  "definition": "Source-defined FY2023 CVD umbrella: DCVD (PECVD, SACVD, DALD) plus MCVD (LPCVD, MOCVD, MALD); includes ALD applications. This source basket is broader than chemistry-only CVD taxonomy."
+ },
+ {
+  "reporting_scope_id": "naura_epitaxy_equipment",
+  "label": "NAURA 外延设备",
+  "category_id": "deposition_epitaxy",
+  "definition": "Source-defined epitaxy equipment series covering silicon, SiC, GaN and stated IC/power/compound applications."
+ },
+ {
+  "reporting_scope_id": "naura_vertical_furnace_mixed_process",
+  "label": "NAURA 立式炉系列",
+  "category_id": "multi_equipment",
+  "definition": "FY2022–FY2023 source-defined vertical-furnace family includes oxidation/anneal, low-temperature alloy furnaces, batch LPCVD and batch ALD. Count is equipment systems, not solely thermal-processing tools."
+ },
+ {
+  "reporting_scope_id": "naura_cleaning_equipment",
+  "label": "NAURA 清洗设备",
+  "category_id": "cleaning",
+  "definition": "FY2023 source-defined IC cleaning equipment family including single-wafer and batch cleaning; tool shipments, not chambers."
+ },
+ {
+  "reporting_scope_id": "naura_pv_manufacturing_equipment",
+  "label": "NAURA 光伏领域设备",
+  "category_id": "multi_equipment",
+  "definition": "Source-defined PV equipment family, including diffusion, oxidation, anneal, PECVD and LPCVD; not IC-only equipment."
+ },
+ {
+  "reporting_scope_id": "naura_silicon_crystal_growth_furnaces_leading_customers",
+  "label": "NAURA 硅单晶炉（行业头部客户）",
+  "category_id": "multi_equipment",
+  "definition": "Source-defined silicon single-crystal growth furnaces cumulatively sold to industry leading customers; restricted customer cohort, not all purchasers or installed equipment."
+ },
+ {
+  "reporting_scope_id": "naura_vertical_furnace_and_cleaning_equipment",
+  "label": "NAURA 立式炉和清洗设备合计",
+  "category_id": "multi_equipment",
+  "definition": "FY2023 source-defined combined vertical-furnace plus cleaning equipment revenue; overlapping with any individual family and not purely thermal."
+ },
+ {
+  "reporting_scope_id": "naura_wet_process_equipment",
+  "label": "NAURA 湿法设备",
+  "category_id": "cleaning",
+  "definition": "FY2024 annual source-defined wet equipment family: single-wafer and batch wet process tools. No exclusion of any acquired firm is assumed unless stated in the source."
+ },
+ {
+  "reporting_scope_id": "naura_hydrogen_sintering_furnace",
+  "label": "NAURA 高温氢气烧结炉",
+  "category_id": "thermal_furnace",
+  "definition": "FY2024 industrial furnace for high-temperature hydrogen sintering of ceramic parts used in semiconductor equipment; not a wafer-process tool."
+ },
+ {
+  "reporting_scope_id": "naura_continuous_graphitization_furnace",
+  "label": "NAURA 连续高温石墨化炉",
+  "category_id": "thermal_furnace",
+  "definition": "FY2024 industrial continuous graphitization furnace for carbon-carbon, carbon-ceramic and graphite materials; not a wafer-process tool."
+ },
+ {
+  "reporting_scope_id": "naura_electronic_components",
+  "label": "NAURA 电子元器件",
+  "category_id": "electronic_components",
+  "definition": "Source-defined NAURA 电子元器件 business/product-table scope; a non-equipment sibling to 电子工艺装备. Monetary sales, production and inventory table values are yuan, not component unit counts; no semiconductor-equipment allocation."
+ },
+ {
+  "reporting_scope_id": "naura_vacuum_new_energy_core_equipment",
+  "label": "NAURA 真空新能源领域核心设备",
+  "category_id": "multi_equipment",
+  "definition": "FY2025 source-defined aggregate of core vacuum and new-energy equipment. Cumulative 台 threshold refers to whole equipment systems across this broad basket, not IC-only tools, chambers or an additive subtotal of separately named families."
+ },
+ {
+  "reporting_scope_id": "naura_vertical_furnace_broad_delivery_family",
+  "label": "NAURA 立式炉（FY2025 广义交付口径）",
+  "category_id": "multi_equipment",
+  "definition": "FY2025 p18 source-native broad vertical-furnace delivery milestone basket, unqualified by process. It may span thermal and deposition furnaces and is not automatically identical to p17 heat-treatment vertical-furnace shipments or FY2023 mixed-process vertical-furnace disclosures."
+ },
+ {
+  "reporting_scope_id": "naura_hot_press_sintering_furnace",
+  "label": "NAURA 热压烧结炉",
+  "category_id": "thermal_furnace",
+  "definition": "H1 2026 source-defined industrial hot-press sintering furnace for materials and semiconductor core components; not wafer-process thermal equipment or factory output capacity."
+ },
+ {
+  "reporting_scope_id": "naura_fy2022_thin_film_process_basket",
+  "label": "NAURA FY2022 thin-film process equipment basket",
+  "category_id": "deposition",
+  "definition": "FY2022 p14 thin-film equipment paragraph: PVD, CVD and ALD technologies serving source-listed interconnect, Al/W, hard-mask, dielectric, TSV and backside metal films. Cumulative chamber shipments of this basket; do not substitute FY2023 PVD-only counts or allocate to named platforms."
+ },
+ {
+  "reporting_scope_id": "naura_12inch_pvd_delivery_family",
+  "label": "NAURA 12-inch PVD delivery family",
+  "category_id": "deposition_pvd",
+  "definition": "H1 2026 p12 cumulative deliveries of source-described 12-inch PVD equipment; narrower than p30 all-PVD family and not allocated to an IC/packaging model."
+ },
+ {
+  "reporting_scope_id": "naura_h1_2026_broad_vertical_furnace",
+  "label": "NAURA H1 2026 broad vertical-furnace delivery family",
+  "category_id": "multi_equipment",
+  "definition": "H1 2026 p30 unqualified vertical-furnace family in the separate etch/PVD/furnace delivery thresholds. May include thermal and deposition tools; not identical to p13 thermal-context claim. Overlap precludes addition."
+ },
+ {
+  "reporting_scope_id": "naura_inventory_class_disclosure_table",
+  "category_id": "all_businesses",
+  "label": "naura_inventory_class_disclosure_table",
+  "definition": "NAURA source-native 存货分类 note population: 原材料, 在产品, 库存商品, 周转材料 carrying values. Class labels are carried in evidence.original_label. Group-wide, not resolvable to a tool family."
+ },
+ {
+  "reporting_scope_id": "naura_main_business_composition_table",
+  "category_id": "all_businesses",
+  "label": "naura_main_business_composition_table",
+  "definition": "NAURA source-native 『占公司营业收入或营业利润 10%以上的行业、产品或地区情况』 table population: MAIN-BUSINESS revenue, cost and gross margin, excluding 其他业务收入. Regional revenue in this table is slightly below the same region in the 营业收入构成 table for that reason."
+ },
+ {
+  "reporting_scope_id": "naura_main_business_revenue",
+  "category_id": "all_businesses",
+  "label": "naura_main_business_revenue",
+  "definition": "NAURA 主营业务 as reported in the financial-statement note 营业收入和营业成本 (主营业务 versus 其他业务). All businesses; not a tool family."
+ },
+ {
+  "reporting_scope_id": "naura_operating_revenue_composition_table",
+  "category_id": "all_businesses",
+  "label": "naura_operating_revenue_composition_table",
+  "definition": "NAURA source-native 营业收入构成 table population: TOTAL operating revenue split by 行业, 产品 and 地区, including 其他业务收入. Used for the four source-defined regional rows (东北及华北, 中部及东南部, 西北及西南, 其他地区). Not main-business-only and not a semiconductor-equipment scope."
+ },
+ {
+  "reporting_scope_id": "naura_other_business_revenue",
+  "category_id": "all_businesses",
+  "label": "naura_other_business_revenue",
+  "definition": "NAURA 其他业务收入 residual line in the revenue-composition table and in the 营业收入和营业成本 note. Not equipment."
+ },
+ {
+  "reporting_scope_id": "naura_vacuum_technology_subsidiary",
+  "category_id": "all_businesses",
+  "label": "naura_vacuum_technology_subsidiary",
+  "definition": "北京北方华创真空技术有限公司 (主要业务: 真空设备) as reported in the issuer's 主要控股参股公司 table. Vacuum and new-energy equipment, not semiconductor process equipment; the non-semiconductor half of the 电子工艺装备 basket."
+ },
+ {
+  "reporting_scope_id": "naura_nuohe_jianwei_equity_acquisition",
+  "category_id": "all_businesses",
+  "label": "诺合键维 100%股权收购",
+  "definition": "Purchase by wholly owned subsidiary 北方华创微电子 of 100% of 北京诺合键维设备有限公司 from 装备二期基金, signed 2026-10-15, registered per the 2026-10-29 notice. Deal value only; not Nuohe operating data."
+ }
+]

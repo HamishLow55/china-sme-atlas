@@ -1,0 +1,344 @@
+[
+  {
+    "platform_id": "changchuan_cp12_soc_cis",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "CP12-SOC/CIS",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY24-P35-CP12-VARIANTS",
+      "source_id": "changchuan_annual_2024",
+      "page": 35,
+      "excerpt": "项目产品\n结余的金额   为公司第二代全自动超精密探针台，产品细分包括 CP12-SOC/CIS、CP12-Memory、CP12-Discrete、\n及原因     CP12-SiC/GaN 等。目前 CP12-SOC/CIS、CP12-Discrete 已完成研发，CP12-Memory 正在进行样机测试仍",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mass_production",
+    "maturity_as_reported_in": "changchuan_annual_2024",
+    "notes": "Second-generation fully automatic ultra-precision CP12 prober variant. Source says CP12-SOC/CIS/Discrete projects achieved mass-production status at FY2024 year-end; no standalone unit count. Variant records overlap the source-native CP12 family; never sum as tool counts.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-FY24-P36-CP12-STAGE",
+        "source_id": "changchuan_annual_2024",
+        "page": 36,
+        "excerpt": "截至 2024 年末，探针台研发及产业化项目未如期完成建设，当前 CP12-SOC/CIS/Discrete 等项目已达\n募集资金使\n               到量产状态，CP12-Memory 项目当前正处于客户端认证和小批量推广阶段，探针台研发及产业化项目后\n用及披露中\n               续仍需要在当前研发工作的基础上，结合不同产品型号和功能需求进行应用开发和功能升级（如天车系\n存在的问题\n               统、主动控温技术、翘曲晶圆吸附技术等），仍将继续投入。",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "model_specific_stages_at_2024_year_end",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "CP12-SOC/CIS/Discrete reached mass production; CP12-Memory in customer certification and small-scale promotion. Do not apply sibling production stage to Memory."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_cp12_memory",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "CP12-Memory",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY24-P35-CP12-VARIANTS",
+      "source_id": "changchuan_annual_2024",
+      "page": 35,
+      "excerpt": "项目产品\n结余的金额   为公司第二代全自动超精密探针台，产品细分包括 CP12-SOC/CIS、CP12-Memory、CP12-Discrete、\n及原因     CP12-SiC/GaN 等。目前 CP12-SOC/CIS、CP12-Discrete 已完成研发，CP12-Memory 正在进行样机测试仍",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_certification_and_small_scale_promotion",
+    "maturity_as_reported_in": "changchuan_annual_2024",
+    "notes": "Second-generation fully automatic ultra-precision CP12 prober variant. Memory prober is explicitly named. FY2024 p35 says prototype testing; p36 says client certification/small-scale promotion at year-end. FY2025 funding-project conclusion does not establish later Memory qualification or mass production. No HBM claim. Variant records overlap the source-native CP12 family; never sum as tool counts.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-FY24-P36-CP12-STAGE",
+        "source_id": "changchuan_annual_2024",
+        "page": 36,
+        "excerpt": "截至 2024 年末，探针台研发及产业化项目未如期完成建设，当前 CP12-SOC/CIS/Discrete 等项目已达\n募集资金使\n               到量产状态，CP12-Memory 项目当前正处于客户端认证和小批量推广阶段，探针台研发及产业化项目后\n用及披露中\n               续仍需要在当前研发工作的基础上，结合不同产品型号和功能需求进行应用开发和功能升级（如天车系\n存在的问题\n               统、主动控温技术、翘曲晶圆吸附技术等），仍将继续投入。",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "model_specific_stages_at_2024_year_end",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "CP12-SOC/CIS/Discrete reached mass production; CP12-Memory in customer certification and small-scale promotion. Do not apply sibling production stage to Memory."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_cp12_discrete",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "CP12-Discrete",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY24-P35-CP12-VARIANTS",
+      "source_id": "changchuan_annual_2024",
+      "page": 35,
+      "excerpt": "项目产品\n结余的金额   为公司第二代全自动超精密探针台，产品细分包括 CP12-SOC/CIS、CP12-Memory、CP12-Discrete、\n及原因     CP12-SiC/GaN 等。目前 CP12-SOC/CIS、CP12-Discrete 已完成研发，CP12-Memory 正在进行样机测试仍",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mass_production",
+    "maturity_as_reported_in": "changchuan_annual_2024",
+    "notes": "Second-generation fully automatic ultra-precision CP12 prober variant. Source says CP12-SOC/CIS/Discrete projects achieved mass-production status at FY2024 year-end; no standalone unit count. Variant records overlap the source-native CP12 family; never sum as tool counts.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-FY24-P36-CP12-STAGE",
+        "source_id": "changchuan_annual_2024",
+        "page": 36,
+        "excerpt": "截至 2024 年末，探针台研发及产业化项目未如期完成建设，当前 CP12-SOC/CIS/Discrete 等项目已达\n募集资金使\n               到量产状态，CP12-Memory 项目当前正处于客户端认证和小批量推广阶段，探针台研发及产业化项目后\n用及披露中\n               续仍需要在当前研发工作的基础上，结合不同产品型号和功能需求进行应用开发和功能升级（如天车系\n存在的问题\n               统、主动控温技术、翘曲晶圆吸附技术等），仍将继续投入。",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "model_specific_stages_at_2024_year_end",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "CP12-SOC/CIS/Discrete reached mass production; CP12-Memory in customer certification and small-scale promotion. Do not apply sibling production stage to Memory."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_cp12_sic_gan",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "CP12-SiC/GaN",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY24-P35-CP12-VARIANTS",
+      "source_id": "changchuan_annual_2024",
+      "page": 35,
+      "excerpt": "项目产品\n结余的金额   为公司第二代全自动超精密探针台，产品细分包括 CP12-SOC/CIS、CP12-Memory、CP12-Discrete、\n及原因     CP12-SiC/GaN 等。目前 CP12-SOC/CIS、CP12-Discrete 已完成研发，CP12-Memory 正在进行样机测试仍",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "rd_investment_deferred",
+    "maturity_as_reported_in": "changchuan_annual_2024",
+    "notes": "Second-generation fully automatic ultra-precision CP12 prober variant. FY2024 p36 says R&D investment paused/plan adjustment owing to competitive market; no production or customer-validation claim. Variant records overlap the source-native CP12 family; never sum as tool counts.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-FY24-P36-CP12-SICGAN-HOLD",
+        "source_id": "changchuan_annual_2024",
+        "page": 36,
+        "excerpt": "CP12-SiC/GaN 因市场竞争激烈，除研发投入外还需要投入巨大的市场资源，公司基于市\n               场竞争态势及自身战略方向，公司拟调整研发计划，暂缓投入。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "rd_investment_deferred",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source states proposed R&D plan adjustment and paused investment; not a cancelled product."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_c6800t",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "C6800T",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY25-P11-C6800T",
+      "source_id": "changchuan_annual_2025",
+      "page": 11,
+      "excerpt": "三温平移式                   代表产品：C6800T 是一款搭载三温\n 选  分选机系列                   ATC 功 能 的 8 工 位 ATE 测 试 P ＆ P\n 系统                         Handler，自动 Tray 盘上下料，满\n                            足 -55°℃~150℃℃ 的 三 温 测 试 要\n                            求。小功率版本适用于车载，手机\n                            等产品测试，适用于 GPU、服务器\n                            CPU、AI 芯片等产品测试，最大支\n                            持 1150W。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "changchuan_annual_2025",
+    "notes": "8-station three-temperature ATE pick-and-place handler with source-listed GPU/server CPU/AI chip applications. Product description does not establish HBM handling or deployed quantity.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "changchuan_c6_series",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "name": "C6 系列",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY25-P11-C6",
+      "source_id": "changchuan_annual_2025",
+      "page": 11,
+      "excerpt": "C6 系列                  C6 系 列 适 用 于 ATE 测 试 P ＆ P\n                            Handler ，具 备多 工位并 测、 高速\n                            度、高精度的测试能力，具备全方\n                            位的产品保护机制，适应行业标准\n                            kit 具备快速更换的特性。该系列\n                            最大并测数有 4 工位、8 工位、16\n                            工位等机型且配置的常高温可选。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_series_disclosed",
+    "maturity_as_reported_in": "changchuan_annual_2025",
+    "notes": "Multi-site ATE pick-and-place handler series; 4/8/16-site configurations are not separate model identities.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "changchuan_cs800t",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "CS800T",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY25-P11-CS800T",
+      "source_id": "changchuan_annual_2025",
+      "page": 11,
+      "excerpt": "SLT 系列                 代表产品：CS800T 是一款搭载 ATC\n                            功 能 的 SLT 三 温 Handler ， 支 持\n                            8site 并 测 ， 最 大 支 持 1550w 控\n                            温、支持 Nest 多区控温功能、具备\n                            Socket 吹气功能，可实现 Tj-40 高\n                            响应控温、支持 200kg 大压力 IC 测\n                            试，适用于 AI，CPU，网络芯片等\n                            测试环境。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "changchuan_annual_2025",
+    "notes": "Three-temperature SLT handler under SLT series; source lists AI/CPU/network chips, not HBM.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "changchuan_c9d_series",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_series_family",
+    "name": "C9D 系列",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY25-P12-C9D",
+      "source_id": "changchuan_annual_2025",
+      "page": 12,
+      "excerpt": "重力式分选               代表产品：C9D 系列重力式测编一\n         机系列                体分选机 C9D 系列是我司全新开发\n                            的测试编带光检一体式分选机，具\n                            有高速度、高精度、多工位并测等\n                            功能。整机采用模块化设计，具备\n                            多种收料方式，可由用户自由选择\n                            开启何种收料方式。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_series_disclosed",
+    "maturity_as_reported_in": "changchuan_annual_2025",
+    "notes": "Gravity test/tape/optical-inspection integrated handler series; no memory-specific product or unit count.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "changchuan_exis_250_300",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_family",
+    "name": "EXIS 250/300",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-FY25-P12-EXIS250300",
+      "source_id": "changchuan_annual_2025",
+      "page": 12,
+      "excerpt": "转塔式分选               EXIS 250/300 是一款高速转塔式分\n         机系列                选机，最大支持 24 个吸嘴站位布\n                            局，整机采用独特的视觉系统，具\n                            备 检 测 外 观 缺 陷 ， Mark,OCR 等 功\n                            能 ; 设 备 标 配 Bowl 进 料 ， Tape ＆\n                            Reel 出 料 ， 并 且 可 扩 展 支 持\n                            Tray,Tape,Tube 多 种 入 料 和\n                            Tray,Tube,Bulk,Dual Tape 多种出\n                            料方式。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_group_disclosed",
+    "maturity_as_reported_in": "changchuan_annual_2025",
+    "notes": "Source combines EXIS 250/300 as high-speed turret handler. Acquired Malaysian EXIS business within Changchuan issuer group; do not imply technology originated in mainland parent or split 250 and 300 into proven independent model records.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "changchuan_e300_e400",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_family",
+    "name": "E300/E400 分选机平台",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-H126-P29-E300E400",
+      "source_id": "changchuan_h1_2026",
+      "page": 29,
+      "excerpt": "E300/E400 分选机\n募集资金使   平台原型整体组装调试完毕",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "prototype_assembled_and_debugged",
+    "maturity_as_reported_in": "changchuan_h1_2026",
+    "notes": "Two source-combined platform names retained as a grouped family, without separate model-count claims. EXIS participates in acquired-group turret project; sole technology origin not established.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-H126-P29-TURRET-STAGES",
+        "source_id": "changchuan_h1_2026",
+        "page": 29,
+        "excerpt": "截至 2026 年 6 月 30 日，在转塔式分选机开发及产业化项目实施过程中，受到行业发展、市场需求变\n        化、新技术攻关等多维度因素的影响，部分转塔式分选机产品研发的项目进度有所延期。当前 LED 分选\n        机、热测试分选机、Metal Frame 分选机等项目已达到量产或客户端验证完成状态，E300/E400 分选机\n募集资金使   平台原型整体组装调试完毕，其衍生型号 E430DT 项目当前正处于客户端认证和小批量推广阶段。转塔\n用及披露中   式分选机开发及产业化项目后续仍需要在当前研发工作的基础上，结合不同产品型号和功能需求进行应\n存在的问题   用开发和功能升级（如 ARC 集成式开发、托盘上料系统、单颗器件追溯技术、双转塔高效率测试传输技\n或其他情况   术等），项目仍将继续投入。",
+        "as_of": "2026-06-30",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "model_specific_stages_at_2026_h1",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "E300/E400 prototypes assembled/debugged; E430DT derivative in customer certification/small-scale promotion. EXIS is an additional project implementation subject, not necessarily sole technology author."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_e430dt",
+    "entity_id": "changchuan",
+    "category_id": "test_prober_handler",
+    "record_kind": "named_model",
+    "name": "E430DT",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-H126-P29-E430DT",
+      "source_id": "changchuan_h1_2026",
+      "page": 29,
+      "excerpt": "其衍生型号 E430DT 项目当前正处于客户端认证和小批量推广阶段。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_certification_and_small_scale_promotion",
+    "maturity_as_reported_in": "changchuan_h1_2026",
+    "notes": "Source calls E430DT a derivative of E300/E400 platform; not a separately proven production model or HBM-qualified handler. EXIS-linked project scope, not sole EXIS origin.",
+    "maturity_history": [
+      {
+        "claim_id": "CHANGCHUAN-H126-P29-TURRET-STAGES",
+        "source_id": "changchuan_h1_2026",
+        "page": 29,
+        "excerpt": "截至 2026 年 6 月 30 日，在转塔式分选机开发及产业化项目实施过程中，受到行业发展、市场需求变\n        化、新技术攻关等多维度因素的影响，部分转塔式分选机产品研发的项目进度有所延期。当前 LED 分选\n        机、热测试分选机、Metal Frame 分选机等项目已达到量产或客户端验证完成状态，E300/E400 分选机\n募集资金使   平台原型整体组装调试完毕，其衍生型号 E430DT 项目当前正处于客户端认证和小批量推广阶段。转塔\n用及披露中   式分选机开发及产业化项目后续仍需要在当前研发工作的基础上，结合不同产品型号和功能需求进行应\n存在的问题   用开发和功能升级（如 ARC 集成式开发、托盘上料系统、单颗器件追溯技术、双转塔高效率测试传输技\n或其他情况   术等），项目仍将继续投入。",
+        "as_of": "2026-06-30",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "model_specific_stages_at_2026_h1",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "E300/E400 prototypes assembled/debugged; E430DT derivative in customer certification/small-scale promotion. EXIS is an additional project implementation subject, not necessarily sole technology author."
+      }
+    ]
+  },
+  {
+    "platform_id": "changchuan_nanox_6000",
+    "entity_id": "changchuan",
+    "category_id": "metrology",
+    "record_kind": "named_model",
+    "name": "NanoX-6000",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CHANGCHUAN-H126-P12-NANOX6000",
+      "source_id": "changchuan_h1_2026",
+      "page": 12,
+      "excerpt": "AOI 量 NanoX-6000             NanoX-6000 全自动量测设备是针对\n测系统                          半导体关键制程尺寸量测需求开发\n                             的一款全自动关键尺寸量测设备，\n                             用于产品的 CD 开口、线宽、线高、\n                             线间距、Pilar 直径、Overlay、\n                             EBR、大坝(dam)、膜厚及粗糙度量\n                             测等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "changchuan_h1_2026",
+    "notes": "Issuer-group whole automatic critical-dimension metrology tool with source-listed CD opening, line width/height/spacing, pillar diameter, Overlay, EBR, dam, film thickness and roughness measurements. Generic metrology category avoids misclassifying this multi-function machine as an overlay-only or test-interface tool. Parent versus acquired STI technology origin is not specified. No HBM qualification or unit count.",
+    "maturity_history": []
+  }
+]

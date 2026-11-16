@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "baiao_chemical_2024_ar",
+    "dataset_id": "baiao_chemical_disclosures",
+    "title": "大连百傲化学股份有限公司 2024 年年度报告",
+    "publication_date": "2025-04-25",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-04-25/1223279946.PDF",
+    "sha256": "321344a3b4e127552b3314c35f7301742a42146e2bb76edb81cf8e0881ea820a",
+    "source_type": "company_annual_report",
+    "original_document_id": "baiao_chemical_2024_ar",
+    "page_count": 203,
+    "locator_kind": "pdf",
+    "notes": "Acquired directly from cninfo (static.cninfo.com.cn) per the local-first rule; sha256 and the 203-page count were computed locally (shasum -a 256; pdfinfo), not copied from any secondary source. Issuer: 大连百傲化学股份有限公司, SSE code 603360 (physical p4, 释义 table: '百傲化学、公司、本公司 指 大连百傲化学股份有限公司'). Same table defines 芯慧联新 (指 芯慧联新（苏州）科技有限公司，本公司之参股公司) and 芯慧联 (指 苏州芯慧联半导体科技有限公司，本公司之控股子公司) — two legally distinct sibling entities produced by a 2024 derivative split (派生分立); 芯慧联 (consolidated subsidiary from Dec 2024) carries 黄光制程/湿法清洗/自动化设备 businesses and is OUT OF SCOPE for this HBM-bonding intake; 芯慧联新 (equity-method associate only, 10.4822% held via wholly-owned subsidiary 上海芯傲华) carries the wafer-bonding/HBM business and is the entity registered here. Physical p9 (第二节 二、报告期内公司所处行业情况 / 三、报告期内公司从事的业务情况) states the company's 全资子公司芯傲华 made a CNY 100m capital increase into 芯慧联新 '期后' (after the reporting period, i.e. a subsequent event in substance, though the document does not use the formal heading 期后事项 at this passage) and describes its business and shipped-for-testing status (see entity/application-link excerpts). Reporting period end 2024-12-31; printed page numbers on p4 and p9 match the physical page number ('9 / 203' footer confirmed on p9), i.e. no offset.",
+    "reporting_period_end": "2024-12-31"
+  },
+  {
+    "source_id": "xinhuilianxin_cnstock_baiao_announcement_20250124",
+    "dataset_id": "baiao_chemical_disclosures",
+    "title": "上海证券报 (cnstock.com) — 大连百傲化学股份有限公司关于子公司拟对外投资暨增资并参股芯慧联新（苏州）科技有限公司的公告",
+    "publication_date": "2025-01-24",
+    "publication_date_precision": "day",
+    "url": "https://paper.cnstock.com/html/2025-01/24/content_2022839.htm",
+    "sha256": "e9797cada0f4cd76dffbb27c0e1e3fec904f01f7f20d0c707a3ccf5e47f0f905",
+    "source_type": "company_listing_announcement",
+    "original_document_id": "xinhuilianxin_cnstock_baiao_announcement_20250124",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07; newspaper date 2025-01-24, reproducing Baiao Chemical's own SSE-listed-company board announcement 公告编号：2025-004 (board resolution dated 2025-01-23, 证券代码：603360 证券简称：百傲化学), via the Shanghai Securities News / China Securities Net disclosure channel — treated as a company-origin disclosure, dataset baiao_chemical_disclosures, not independent third-party reporting. States: investment target 芯慧联新（苏州）科技有限公司; wholly-owned subsidiary 上海芯傲华科技有限公司拟以人民币1亿元增资芯慧联新，增资后持有其10.4822%股权; a named risk factor states the target's wafer-bonding equipment '已交付客户进行测试，目前处于最终验收阶段'; and a full roster of the target's existing shareholders and this round's co-investors (company names, registered capital, establishment dates, unified social-credit codes)."
+  }
+]

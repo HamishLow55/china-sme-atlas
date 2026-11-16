@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "se_holdings_equity_stake_smee",
+    "label": "长期股权投资——上海微电子装备（集团）股份有限公司",
+    "category_id": "all_businesses",
+    "definition": "The SMEE line of Shanghai Electric Holdings Group's long-term-equity-investment movement note: the holder's own carrying value, additions, reductions and equity-method result on its stake in 上海微电子装备（集团）股份有限公司. Figures on this scope belong to SE Holdings' accounts, not to SMEE's: they are a shareholder's proportional share, and must never be read as SMEE's own revenue, profit or capital raised. SMEE's own full-company figures, where SE Holdings discloses them under 重要联营企业的主要财务信息, are carried on entity smee at scope company instead."
+  },
+  {
+    "reporting_scope_id": "se_holdings_equity_stake_aishengna",
+    "label": "长期股权投资——上海爱晟纳电子科技集团有限公司",
+    "category_id": "all_businesses",
+    "definition": "The Aishengna line of Shanghai Electric Holdings Group's long-term-equity-investment movement note: the holder's own investment cost, additions and equity-method result on its stake in 上海爱晟纳电子科技集团有限公司, first disclosed as a significant associate in the FY2023 annual report. Figures on this scope belong to SE Holdings' accounts and are a proportional share, never Aishengna's own revenue, profit or total capital. No operating, product or shipment disclosure for Aishengna exists in this packet."
+  }
+]

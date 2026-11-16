@@ -1,0 +1,238 @@
+[
+  {
+    "platform_id": "qiangyi_2d_mems_probe_card",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "2D MEMS probe card family",
+    "aliases": [
+      "2D MEMS 探针卡"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi2025-product-008",
+      "source_id": "qiangyi_annual_2025",
+      "page": 15,
+      "excerpt": "2D MEMS 探针卡 系公司自研 MEMS 探针卡中最早实现量产的产品，具有装针数量大、耐电流高、测试寿命长、测试间距小、测试性能稳定、易于维护等特点，目前公司最先进的 2D MEMS 探针卡可以应用于境内最先进制程芯片的晶圆测试；手机 AP、CPU、GPU、FPGA、ASIC、其他 SoC 等",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "mass_produced_with_source_reported_wafer_test_applicability",
+    "maturity_as_reported_in": "qiangyi_annual_2025",
+    "notes": "Source-native generic family. 境内最先进制程 is retained without inventing a numeric node. The p21 subtractive-process scale-up is a later report-period claim, not a separately dated launch.",
+    "maturity_history": [
+      {
+        "claim_id": "qiangyi-h126-2d-validation",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 11,
+        "excerpt": "2D MEMS 探针卡：加工工艺探针实现部分迭代升级，减法工艺探针技术持续优化，微间距测试能力、针痕质量、耐流能力及平均无故障时间等核心指标稳步提升，完成了面向算力芯片的探针卡验证及针对特定高速图形（Pattern）设计的探针卡验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "compute_chip_card_validation_completed",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Validation completed for compute-chip and specific high-speed pattern cards. p13 says 月出货能力维持较高水平 with no figure, so the FY2025 3,000,000 pins per month is not refreshed."
+      }
+    ]
+  },
+  {
+    "platform_id": "qiangyi_thin_film_probe_card",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "Thin-film probe card family",
+    "aliases": [
+      "薄膜探针卡"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi2025-product-009",
+      "source_id": "qiangyi_annual_2025",
+      "page": 15,
+      "excerpt": "薄膜探针卡 系公司又一款实现量产的自研 MEMS 探针卡，具有测试频率高、测试性能稳定、测试寿命长等特点；射频芯片、光电子芯片等",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "mass_produced",
+    "maturity_as_reported_in": "qiangyi_annual_2025",
+    "notes": "Generic family. The base family is mass-produced; the 110GHz sample remains in customer validation, while the 4-site configuration has production introduction and the low-insertion-loss card is only a prototype.",
+    "maturity_history": [
+      {
+        "claim_id": "qiangyi-h126-film-110ghz",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 12,
+        "excerpt": "薄膜探针卡方面，多站点（Site）并测产品及 67GHz 高频产品持续批量交付；110GHz 工程样卡进入客户验证阶段，频率响应特性及探针寿命等核心指标达到国际先进水平；同步推进 170GHz 以上超高频薄膜探针技术的预研攻关。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multi_site_and_67ghz_batch_delivery_110ghz_engineering_sample_customer_validation_170ghz_pre_research",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Three tiers at three maturities; do not merge. RF and optical, not memory."
+      },
+      {
+        "claim_id": "qiangyi-h126-film-overseas",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 13,
+        "excerpt": "报告期内，公司的薄膜探针卡进入 Marvell（美满电子，全球领先的数据基础设施半导体解决方案提供商）、Semtech（升特，全球领先的高性能模拟与混合信号半导体及物联网解决方案厂商）等海外客户的产品验证导入阶段，客户覆盖区域进一步拓展。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "product_validation_introduction_stage_at_named_overseas_customers",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Named customers in validation and introduction, not orders or production."
+      }
+    ]
+  },
+  {
+    "platform_id": "qiangyi_2_5d_mems_probe_card",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "2.5D MEMS probe card family",
+    "aliases": [
+      "2.5D MEMS 探针卡"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi2025-product-020",
+      "source_id": "qiangyi_annual_2025",
+      "page": 21,
+      "excerpt": "2.5D MEMS 探针卡：已完成多片面向 Flash、DRAM 及 HBM 等存储芯片测试用探针卡的小批量出货，并在客户端验证成功，产品矩阵进一步完善。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "small_batch_shipments_completed_and_customer_validation_successful_for_storage_test_cards",
+    "maturity_as_reported_in": "qiangyi_annual_2025",
+    "notes": "The p21 claim expressly covers cards for Flash, DRAM and HBM small-batch shipment and successful client validation. A separate sentence supports production introduction only for Flash/DRAM; it must not be broadened to HBM production introduction.",
+    "maturity_history": [
+      {
+        "claim_id": "qiangyi-h126-25d-hbm-status",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 11,
+        "excerpt": "2.5D MEMS 探针卡：植针位置度控制精度实现关键改善，已完成多片面向 Flash、DRAM 及 HBM 等存储芯片测试用探针卡的小批量出货；其中，面向 DRAM 的探针卡产品客户导入取得阶段性突破，HBM 探针卡验证工作有序开展。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_batch_shipments_completed_dram_customer_introduction_staged_breakthrough_hbm_validation_in_progress",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Softer on HBM than the FY2025 report: annual_2025 p21 said the Flash, DRAM and HBM cards were 在客户端验证成功, and this report drops that clause and says HBM validation is under way. p12 restates it. Do not read as HBM qualification, production or a customer win."
+      },
+      {
+        "claim_id": "qiangyi-h126-25d-domestic-memory-leader",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 13,
+        "excerpt": "公司 2.5D MEMS 探针卡工艺能力持续优化，面向 NAND Flash 及 DRAM 晶圆测试的产品验证与交付稳步推进，并在国内存储龙头客户的拓展上取得阶段性突破。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "nand_and_dram_validation_and_delivery_advancing_staged_breakthrough_at_domestic_memory_leader",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Customer unnamed. HBM is not in this sentence."
+      },
+      {
+        "claim_id": "qiangyi-h126-placement-tech-formal-use",
+        "source_id": "qiangyi_semiconductor_h1_2026",
+        "page": 14,
+        "excerpt": "高精度植针技术聚焦 2.5D 存储探针卡制造，已进入正式应用阶段，支撑公司面向 DRAM 的产品导入取得阶段性突破，整卡位置度控制精度达±6μm。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "high_precision_needle_placement_technology_in_formal_application",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Stage belongs to the process technology, not to a card generation. ±6μm is held out of observations because no probe-placement metric exists."
+      },
+      {
+        "claim_id": "qiangyi-q3-25d-memory-ramp",
+        "source_id": "qiangyi_semiconductor_q3_2026",
+        "page": 3,
+        "excerpt": "公司产品结构持续优化，面向存储芯片测试领域的 2.5D MEMS 探针卡处于验证转量产的起量阶段，客户导入和小批量交付有序推进，收入贡献逐步提升。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "validation_to_volume_ramp_stage_for_memory_test_cards_small_batch_delivery_continuing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Latest stage statement, covering memory cards generally. HBM is not named, so this must not be transferred to HBM cards. No revenue split is printed."
+      }
+    ]
+  },
+  {
+    "platform_id": "qiangyi_vertical_probe_card",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "Vertical probe card family",
+    "aliases": [
+      "垂直探针卡"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi2025-product-011",
+      "source_id": "qiangyi_annual_2025",
+      "page": 15,
+      "excerpt": "垂直探针卡 具有测试寿命长、测试性能稳定等特点；手机 AP、电源管理芯片、射频收发器芯片、其他 SoC 等",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "application_capability_reported",
+    "maturity_as_reported_in": "qiangyi_annual_2025",
+    "notes": "Generic non-MEMS probe-card family; no shipment, qualification, order or production-count claim is inferred from the product table."
+  },
+  {
+    "platform_id": "qiangyi_cantilever_probe_card",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "Cantilever probe card family",
+    "aliases": [
+      "悬臂探针卡"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi2025-product-012",
+      "source_id": "qiangyi_annual_2025",
+      "page": 15,
+      "excerpt": "悬臂探针卡 具有成本低、生产周期短、测试寿命长等特点；NOR Flash、EEPROM 等存储芯片、CIS、MCU 等",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "application_capability_reported",
+    "maturity_as_reported_in": "qiangyi_annual_2025",
+    "notes": "Generic non-MEMS probe-card family; no shipment, qualification, order or production-count claim is inferred from the product table."
+  },
+  {
+    "platform_id": "qiangyi_hbm_high_parallel_dram_wafer_probe_card_project",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_project",
+    "name": "HBM 高并测 DRAM 晶圆测试探针卡开发",
+    "aliases": [
+      "HBM 高并测 DRAM 晶圆测试探针卡开发"
+    ],
+    "evidence": {
+      "claim_id": "qiangyi-h126-rd-hbm",
+      "source_id": "qiangyi_semiconductor_h1_2026",
+      "page": 19,
+      "excerpt": "项目名称：HBM 高并测 DRAM 晶圆测试探针卡开发；进展或阶段性成果：已结项；拟达到目标：研发用于 DRAM 晶圆测试的探针卡，完成产品开发；技术水平：业内先进；具体应用前景：HBM 存储探针卡",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "rd_project_closed_product_development",
+    "maturity_as_reported_in": "qiangyi_semiconductor_h1_2026",
+    "notes": "R&D project record. 已结项 closes the project, not validation: the same report says HBM card validation is still under way (p11). Cells read from rendered p19."
+  }
+]

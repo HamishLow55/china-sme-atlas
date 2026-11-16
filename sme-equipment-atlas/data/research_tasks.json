@@ -1,0 +1,2455 @@
+[
+  {
+    "task_id": "legacy_etch",
+    "title": "AMEC and NAURA historical etch evidence",
+    "question": "What do the reviewed filings disclose about equipment revenue and operational adoption?",
+    "entity_ids": [
+      "amec",
+      "naura"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "deposition",
+      "deposition_ecp",
+      "deposition_pvd",
+      "etch",
+      "etch_ccp",
+      "etch_icp",
+      "multi_equipment",
+      "thermal_furnace"
+    ],
+    "metric_ids": [
+      "cumulative_installations",
+      "cumulative_production_shipments",
+      "cumulative_shipments",
+      "customer_production_lines",
+      "customers_in_mass_production",
+      "inventory_volume",
+      "new_orders",
+      "production_shipments",
+      "production_volume",
+      "revenue",
+      "sales_volume",
+      "shipments",
+      "year_on_year_installation_stock_increase"
+    ],
+    "source_ids": [
+      "amec_2022",
+      "amec_2023",
+      "amec_2024",
+      "amec_2025",
+      "amec_h1_2024",
+      "amec_h1_2025",
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "queries": [
+      "AMEC HD-RIEe",
+      "北方华创 刻蚀"
+    ],
+    "acceptance_criteria": [
+      "Every named source has a review disposition for the assigned metrics.",
+      "Candidate values retain exact unit, reporting scope and dates.",
+      "A separate verifier checks originals; ambiguities remain held."
+    ],
+    "stop_rule": "Stop after the named source set and metrics have review dispositions; queue additional sources as a separate task.",
+    "priority_reason": "Recover local source evidence and prevent scope errors before model expansion.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "cmp_local",
+    "title": "CMP local evidence",
+    "question": "What do the named Hwatsing originals establish about CMP sales, shipments and changing revenue scopes?",
+    "entity_ids": [
+      "hwatsing"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "cmp",
+      "multi_equipment"
+    ],
+    "metric_ids": [
+      "cumulative_shipments",
+      "inventory_volume",
+      "production_volume",
+      "revenue",
+      "sales_volume"
+    ],
+    "source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_1000",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "queries": [
+      "hwatsing CMP",
+      "华海清科 800"
+    ],
+    "acceptance_criteria": [
+      "Every named source has a review disposition for the assigned metrics.",
+      "Candidate values retain exact unit, reporting scope and dates.",
+      "A separate verifier checks originals; ambiguities remain held."
+    ],
+    "stop_rule": "Stop after the named source set and metrics have review dispositions; queue additional sources as a separate task.",
+    "priority_reason": "Recover local source evidence and prevent scope errors before model expansion.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "tsv_local",
+    "title": "TSV equipment and ACM evidence",
+    "question": "Which TSV applications are evidenced and what can supplier financials establish without assuming TSV-only sales?",
+    "entity_ids": [
+      "acmr",
+      "acm_shanghai"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "cleaning",
+      "deposition_ecp",
+      "multi_equipment"
+    ],
+    "metric_ids": [
+      "cumulative_project_rd_spending",
+      "cumulative_shipments",
+      "planned_project_rd_investment",
+      "project_rd_spending",
+      "revenue"
+    ],
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2025",
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "queries": [
+      "TSV",
+      "Ultra ECP 3d"
+    ],
+    "acceptance_criteria": [
+      "Every named source has a review disposition for the assigned metrics.",
+      "Candidate values retain exact unit, reporting scope and dates.",
+      "A separate verifier checks originals; ambiguities remain held."
+    ],
+    "stop_rule": "Stop after the named source set and metrics have review dispositions; queue additional sources as a separate task.",
+    "priority_reason": "Recover local source evidence and prevent scope errors before model expansion.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "tsv_platforms",
+    "title": "TSV equipment applications",
+    "question": "Which named local originals establish supplier TSV capabilities or deployment, and which revenues remain broader?",
+    "entity_ids": [
+      "amec",
+      "naura",
+      "acm_shanghai"
+    ],
+    "category_ids": [
+      "etch_icp",
+      "deposition_ecp",
+      "deposition_pvd"
+    ],
+    "metric_ids": [],
+    "source_ids": [
+      "amec_2025",
+      "naura_2025",
+      "acm_shanghai_2025"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "queries": [
+      "Primo TSV",
+      "北方华创 硅通孔",
+      "Ultra ECP 3d"
+    ],
+    "acceptance_criteria": [
+      "Review TSV-specific product passages in each named source.",
+      "Separate process relevance, supplier capability, orders and production claims.",
+      "Preserve application links without allocating broad financials to TSV."
+    ],
+    "stop_rule": "Stop after the named product tables are reviewed; queue TSV liner, thinning and other missing source sets separately.",
+    "priority_reason": "Map supported TSV tool coverage without exclusivity or revenue attribution errors.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "cmp_challengers",
+    "title": "CMP challenger original-source evidence",
+    "question": "What do the named Sizone and Jingyi originals establish about sales, product families and historical maturity?",
+    "entity_ids": [
+      "sizone",
+      "jingyi_jingwei"
+    ],
+    "category_ids": [
+      "cmp",
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "revenue",
+      "sales_volume",
+      "cumulative_shipments"
+    ],
+    "source_ids": [
+      "sizone_restructuring_2026",
+      "sizone_audit_2025",
+      "jingyi_inquiry_2024"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "queries": [
+      "TTAIS",
+      "Skylens",
+      "晶亦精微"
+    ],
+    "acceptance_criteria": [
+      "Verify financial table scope and platform maturity passages.",
+      "Keep historical plans separate from achieved launches.",
+      "Do not infer acquisition completion from transaction filings."
+    ],
+    "stop_rule": "Stop after cited financial/product pages; queue remaining historical annual unit tables and newer Jingyi sources separately.",
+    "priority_reason": "Broaden CMP beyond the most visible supplier using archived originals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave1_hwatsing_h1_2026",
+    "title": "hwatsing H1 2026 financial and adoption bridge",
+    "question": "What changed in the H1 financials, reported equipment milestones and platform stages?",
+    "entity_ids": [
+      "hwatsing"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "cmp"
+    ],
+    "metric_ids": [],
+    "source_ids": [
+      "hwatsing_2025",
+      "hwatsing_h1_2026"
+    ],
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "queries": [
+      "hwatsing H1 2026"
+    ],
+    "acceptance_criteria": [
+      "Originals inspected; numerical proposals independently reviewed; ambiguous metrics held.",
+      "Financial and product sections have explicit source-bounded dispositions."
+    ],
+    "stop_rule": "Stop after the two named originals and independent review; additional categories require a new task.",
+    "priority_reason": "Connect current filings to existing CMP/ECP evidence without mixing reporting scopes.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave1_acm_h1_2026",
+    "title": "acm_shanghai H1 2026 financial and adoption bridge",
+    "question": "What changed in the H1 financials, reported equipment milestones and platform stages?",
+    "entity_ids": [
+      "acm_shanghai"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "deposition_ecp"
+    ],
+    "metric_ids": [],
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "queries": [
+      "acm_shanghai H1 2026"
+    ],
+    "acceptance_criteria": [
+      "Originals inspected; numerical proposals independently reviewed; ambiguous metrics held.",
+      "Financial and product sections have explicit source-bounded dispositions."
+    ],
+    "stop_rule": "Stop after the two named originals and independent review; additional categories require a new task.",
+    "priority_reason": "Connect current filings to existing CMP/ECP evidence without mixing reporting scopes.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave2_djel",
+    "title": "djel initial inspection/metrology extraction",
+    "question": "What equipment categories have reported revenue, accepted units, dispatches and dated adoption evidence in the assigned original?",
+    "entity_ids": [
+      "djel"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "djel_ipo_2026"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "djel inspection metrology"
+    ],
+    "acceptance_criteria": [
+      "Separate verifier reopens each accepted passage; holds and coverage explicit.",
+      "Preserve source unit/period/scope; do not promote market opportunity mix into vendor market share."
+    ],
+    "stop_rule": "One named original and relevant financial/product sections; queue historical backfill and other firms separately.",
+    "priority_reason": "Populate the newly declared M&I branches using existing local originals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave2_skyverse",
+    "title": "skyverse initial inspection/metrology extraction",
+    "question": "What equipment categories have reported revenue, accepted units, dispatches and dated adoption evidence in the assigned original?",
+    "entity_ids": [
+      "skyverse"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "queries": [
+      "skyverse inspection metrology"
+    ],
+    "acceptance_criteria": [
+      "Separate verifier reopens each accepted passage; holds and coverage explicit.",
+      "Preserve source unit/period/scope; do not promote market opportunity mix into vendor market share."
+    ],
+    "stop_rule": "One named original and relevant financial/product sections; queue historical backfill and other firms separately.",
+    "priority_reason": "Populate the newly declared M&I branches using existing local originals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave3_jingce",
+    "title": "jingce annual disclosure intake",
+    "question": "Which comparable financial, order and operational measures are disclosed for equipment-related businesses in the assigned annual reports?",
+    "entity_ids": [
+      "jingce"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-27",
+    "queries": [
+      "jingce semiconductor equipment"
+    ],
+    "acceptance_criteria": [
+      "Verify each accepted value and stage against the original.",
+      "Keep company, semiconductor segment and subsidiary scopes separate; stocks and flows retain actual date basis."
+    ],
+    "stop_rule": "Stop after assigned FY2023–25 originals and explicit source-bounded gaps; no broad analysis.",
+    "priority_reason": "Populate locally available M&I-adjacent financial and operational history.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave3_jingce_shanghai",
+    "title": "jingce_shanghai annual disclosure intake",
+    "question": "Which comparable financial, order and operational measures are disclosed for equipment-related businesses in the assigned annual reports?",
+    "entity_ids": [
+      "jingce_shanghai"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "jingce_shanghai semiconductor equipment"
+    ],
+    "acceptance_criteria": [
+      "Verify each accepted value and stage against the original.",
+      "Keep company, semiconductor segment and subsidiary scopes separate; stocks and flows retain actual date basis."
+    ],
+    "stop_rule": "Stop after assigned FY2023–25 originals and explicit source-bounded gaps; no broad analysis.",
+    "priority_reason": "Populate locally available M&I-adjacent financial and operational history.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave3_optima_japan",
+    "title": "optima_japan annual disclosure intake",
+    "question": "Which comparable financial, order and operational measures are disclosed for equipment-related businesses in the assigned annual reports?",
+    "entity_ids": [
+      "optima_japan"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "optima_japan semiconductor equipment"
+    ],
+    "acceptance_criteria": [
+      "Verify each accepted value and stage against the original.",
+      "Keep company, semiconductor segment and subsidiary scopes separate; stocks and flows retain actual date basis."
+    ],
+    "stop_rule": "Stop after assigned FY2023–25 originals and explicit source-bounded gaps; no broad analysis.",
+    "priority_reason": "Populate locally available M&I-adjacent financial and operational history.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "wave3_secote",
+    "title": "secote annual disclosure intake",
+    "question": "Which comparable financial, order and operational measures are disclosed for equipment-related businesses in the assigned annual reports?",
+    "entity_ids": [
+      "secote"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "secote semiconductor equipment"
+    ],
+    "acceptance_criteria": [
+      "Verify each accepted value and stage against the original.",
+      "Keep company, semiconductor segment and subsidiary scopes separate; stocks and flows retain actual date basis."
+    ],
+    "stop_rule": "Stop after assigned FY2023–25 originals and explicit source-bounded gaps; no broad analysis.",
+    "priority_reason": "Populate locally available M&I-adjacent financial and operational history.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "deposition1_piotech",
+    "title": "piotech FY2025 deposition intake",
+    "question": "What financial, equipment-volume and maturity evidence is present in the assigned local annual report?",
+    "entity_ids": [
+      "piotech"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "queries": [
+      "piotech deposition equipment"
+    ],
+    "acceptance_criteria": [
+      "Original-source verification; preserve segment scopes and qualifiers."
+    ],
+    "stop_rule": "FY2025 filing and its comparative rows only; no broad backfill.",
+    "priority_reason": "Extend locally available deposition and bonding evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "deposition1_leadmicro",
+    "title": "leadmicro FY2025 deposition intake",
+    "question": "What financial, equipment-volume and maturity evidence is present in the assigned local annual report?",
+    "entity_ids": [
+      "leadmicro"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "leadmicro_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "queries": [
+      "leadmicro deposition equipment"
+    ],
+    "acceptance_criteria": [
+      "Original-source verification; preserve segment scopes and qualifiers."
+    ],
+    "stop_rule": "FY2025 filing and its comparative rows only; no broad backfill.",
+    "priority_reason": "Extend locally available deposition and bonding evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "deposition2_piotech",
+    "title": "piotech earlier deposition history",
+    "question": "Which source-native historical product measures and maturity milestones extend the atlas without mixing scopes?",
+    "entity_ids": [
+      "piotech"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "queries": [
+      "piotech historical product revenue"
+    ],
+    "acceptance_criteria": [
+      "Separate equipment baskets and source vintages; physical PDF locators checked."
+    ],
+    "stop_rule": "Assigned earlier annuals and explicit SPX gap only.",
+    "priority_reason": "Extend product histories rather than duplicate company totals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "deposition2_leadmicro",
+    "title": "leadmicro earlier deposition history",
+    "question": "Which source-native historical product measures and maturity milestones extend the atlas without mixing scopes?",
+    "entity_ids": [
+      "leadmicro"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "leadmicro_annual_2023"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "queries": [
+      "leadmicro historical product revenue"
+    ],
+    "acceptance_criteria": [
+      "Separate equipment baskets and source vintages; physical PDF locators checked."
+    ],
+    "stop_rule": "Assigned earlier annuals and explicit SPX gap only.",
+    "priority_reason": "Extend product histories rather than duplicate company totals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "naura_disclosures1",
+    "title": "NAURA FY2025 mandatory-disclosure depth",
+    "question": "What financial and operational table evidence extends the company toolkit without changing source scope or inventing dates?",
+    "entity_ids": [
+      "naura"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "cash_capital_expenditure",
+      "contract_liabilities",
+      "customer_sales",
+      "customer_sales_share",
+      "employee_headcount",
+      "inventory_carrying_amount",
+      "revenue",
+      "revenue_share",
+      "supplier_procurement",
+      "supplier_procurement_share",
+      "workforce_share"
+    ],
+    "source_ids": [
+      "naura_2025"
+    ],
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "NAURA customer supplier headcount inventory contract liabilities cash capex"
+    ],
+    "acceptance_criteria": [
+      "Native numbers, physical pages, table populations and dates independently checked.",
+      "All rows of assigned table sections dispositioned, including duplicate totals."
+    ],
+    "stop_rule": "Assigned FY2025 tables only; remaining report sections and historical originals are follow-ups.",
+    "priority_reason": "Fill missing financial and operational disclosure dimensions while retaining all previous financial evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_registered_financial_backfill",
+    "title": "AMEC registered historical financial corpus",
+    "question": "Which annual/interim/quarterly financial lines and operational disclosures extend existing evidence while preserving source vintages and reporting boundaries?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "amec_annual_2021",
+      "amec_q1_2022",
+      "amec_h1_2022",
+      "amec_q3_2022",
+      "amec_q1_2023",
+      "amec_q3_2023",
+      "amec_q1_2024",
+      "amec_q3_2024",
+      "amec_q1_2025",
+      "amec_q3_2025",
+      "amec_q1_2026"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-03-31",
+    "queries": [
+      "AMEC annual financial tables operating quantities customer supplier workforce capex inventory"
+    ],
+    "acceptance_criteria": [
+      "Review the original; retain all relevant financial and operational lines rather than choosing only revenue.",
+      "Preserve year-to-date versus single-quarter intervals and changes between original and comparative reports."
+    ],
+    "stop_rule": "Each extraction PR covers one original or tightly related source set; this task records the registered queue, not completed extraction.",
+    "priority_reason": "Close the held-corpus versus registered-source gap and support deeper historical financial evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_concentration",
+    "title": "AMEC FY2021 customer and supplier concentration",
+    "question": "What customer and supplier amounts and shares does the FY2021 annual table disclose?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "customer_sales",
+      "customer_sales_share",
+      "supplier_procurement",
+      "supplier_procurement_share"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2021-12-31",
+    "queries": [
+      "AMEC FY2021 前五名客户 前五名供应商"
+    ],
+    "acceptance_criteria": [
+      "All populated amounts and shares on physical page45 independently checked.",
+      "Explicit source zeros retained; anonymous ranks remain period-specific."
+    ],
+    "stop_rule": "Complete the two concentration tables and related-party aggregate sentences; other financial and operational sections remain separately queued.",
+    "priority_reason": "Add mandatory-disclosure depth without displacing financial-statement extraction.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_statements_workforce",
+    "title": "AMEC FY2021 consolidated statements and workforce",
+    "question": "What complete direct consolidated financial-statement and workforce evidence is available in the FY2021 original?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "accumulated_other_comprehensive_income",
+      "administrative_expense",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_capitalized_development",
+      "cash_paid_for_debt_repayment",
+      "cash_paid_for_dividends_profit_distributions_and_interest",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_borrowings",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_equity_financing",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "comprehensive_income_attributable_noncontrolling_interests",
+      "construction_in_progress",
+      "continuing_operations_net_profit",
+      "contract_assets",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "development_expenditure_asset",
+      "diluted_earnings_per_share",
+      "employee_compensation_payable",
+      "employee_headcount",
+      "equity_attributable",
+      "equity_method_investment_income",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_inflows",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_expense",
+      "interest_income",
+      "interest_receivable",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income",
+      "investment_income_cash_received",
+      "investment_property",
+      "lease_liabilities",
+      "long_term_deferred_expenses",
+      "long_term_employee_benefits_payable",
+      "long_term_equity_investments",
+      "long_term_receivables",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_noncontrolling_interests",
+      "noncontrolling_interests",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "notes_receivable",
+      "operating_cash_flow",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_financing_cash_payments",
+      "other_financing_cash_receipts",
+      "other_income",
+      "other_investing_cash_payments",
+      "other_investing_cash_receipts",
+      "other_noncurrent_assets",
+      "other_noncurrent_financial_assets",
+      "other_noncurrent_liabilities",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "property_plant_equipment",
+      "provisions",
+      "rd_expense",
+      "reclassifiable_oci_equity_method",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "statutory_surplus_reserve",
+      "tax_refunds_received",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "workforce_share"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2019-12-31",
+    "period_end": "2021-12-31",
+    "queries": [
+      "AMEC FY2021 consolidated statements workforce"
+    ],
+    "acceptance_criteria": [
+      "All populated cells in assigned three consolidated statements and workforce tables dispositioned.",
+      "Original review and mapped corrections replay exactly, preserving stock/flow and personnel population distinctions."
+    ],
+    "stop_rule": "Assigned statements and workforce tables; parent-only statements, financial notes, salaries and product/operating tables remain explicit next tasks.",
+    "priority_reason": "Preserve full financial breadth and add operational workforce disclosures.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_product_operations",
+    "title": "AMEC FY2021 product, operating and cost tables",
+    "question": "What financial and equipment operating evidence is reported in the original product/region/cost tables?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "multi_equipment"
+    ],
+    "metric_ids": [
+      "average_rd_employee_compensation",
+      "cost_of_revenue",
+      "cost_of_revenue_component",
+      "cost_of_revenue_component_share",
+      "cost_of_revenue_component_year_on_year_growth",
+      "cost_of_revenue_year_on_year_growth",
+      "gross_margin",
+      "gross_margin_change",
+      "inventory_volume",
+      "inventory_volume_year_on_year_growth",
+      "production_volume",
+      "production_volume_year_on_year_growth",
+      "rd_employee_compensation",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "sales_volume",
+      "sales_volume_year_on_year_growth"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2020-01-01",
+    "period_end": "2021-12-31",
+    "queries": [
+      "AMEC FY2021 主营业务 成本分析 产销量 研发薪酬"
+    ],
+    "acceptance_criteria": [
+      "All assigned108nativecells independently checked and mapped without deriving missing values.",
+      "Table conflicts, native chamber units, growth semantics and per-person remuneration preserved."
+    ],
+    "stop_rule": "Assigned pp34/42–44 tables only; product financial narrative and remaining notes/parent-only statements remain separate tasks.",
+    "priority_reason": "Expand category/product financial and operating coverage while preserving full company financial breadth.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_headline_quarterly",
+    "title": "AMEC FY2021 headlines, quarters and non-recurring disclosures",
+    "question": "What financial levels, indicators and non-recurring components extend the source history into FY2019 and FY2021 quarters?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "adjusted_basic_earnings_per_share",
+      "adjusted_basic_earnings_per_share_year_on_year_growth",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "adjusted_weighted_average_return_on_equity",
+      "adjusted_weighted_average_return_on_equity_change",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "equity_attributable",
+      "equity_attributable_year_on_year_growth",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_year_on_year_growth",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_noncontrolling_interests_effect",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "operating_cash_flow",
+      "operating_cash_flow_year_on_year_growth",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "total_assets",
+      "total_assets_year_on_year_growth",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2019-01-01",
+    "period_end": "2021-12-31",
+    "queries": [
+      "AMEC FY2021 主要会计数据 分季度 非经常性损益"
+    ],
+    "acceptance_criteria": [
+      "All85populatedcells checked against the original; exact same-source statement duplicates linked.",
+      "Signed changes preserve printed positive magnitude and source direction through explicit audited conversion."
+    ],
+    "stop_rule": "Assigned pp13/15 tables only; narrative, further notes and parent-only statements remain separate tasks.",
+    "priority_reason": "Capture historical and quarterly financial breadth alongside category-operating evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_narrative",
+    "title": "AMEC FY2021 financial and product narrative disclosures",
+    "question": "What source-native financial bridges, product financials and operating quantities complement the statement tables?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "deposition_mocvd",
+      "etch",
+      "etch_ccp",
+      "etch_icp",
+      "multi_equipment"
+    ],
+    "metric_ids": [
+      "adjusted_net_profit_attributable_absolute_change",
+      "chambers_in_mass_production",
+      "customer_production_lines",
+      "customers_with_process_validation",
+      "employee_compensation_expense_absolute_change",
+      "equity_investment_amount",
+      "equity_investment_gain",
+      "equity_investment_gain_absolute_change",
+      "equity_issue_price",
+      "fair_value_change_income",
+      "fair_value_change_income_absolute_change",
+      "gross_equity_offering_proceeds",
+      "gross_margin",
+      "gross_profit",
+      "gross_profit_absolute_change",
+      "gross_profit_year_on_year_growth",
+      "interest_income_absolute_change",
+      "net_equity_offering_proceeds_after_issuance_costs",
+      "new_orders",
+      "new_orders_absolute_change",
+      "new_orders_year_on_year_growth",
+      "nonrecurring_government_grant_income_absolute_change",
+      "process_validation_count",
+      "production_shipments",
+      "production_volume_year_on_year_growth",
+      "profit_before_tax_absolute_change_from_named_investments",
+      "rd_investment",
+      "rd_investment_year_on_year_growth",
+      "reported_equipment_order_threshold",
+      "revenue",
+      "revenue_absolute_change",
+      "revenue_year_on_year_growth",
+      "share_based_payment_expense",
+      "share_based_payment_expense_absolute_change",
+      "shares_issued",
+      "shipments",
+      "shipments_year_on_year_growth",
+      "source_reported_cash_reserve",
+      "source_reported_equity_offering_net_proceeds"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2020-01-01",
+    "period_end": "2021-12-31",
+    "queries": [
+      "中微2021 刻蚀 MOCVD 新签订单 研发 股份支付"
+    ],
+    "acceptance_criteria": [
+      "Every staged numerical element has a resolved observation, alias, qualitative disposition or explicit hold.",
+      "Source wording determines unit, qualifier, scope and measurement period."
+    ],
+    "stop_rule": "Assigned31narrativepassages only; remaining R&D tables, financial notes and further platform/category evidence are separate tasks.",
+    "priority_reason": "Preserve category financials and operating adoption evidence alongside all financial bridges.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_q1_2022_financial",
+    "title": "AMEC Q1 2022 financial disclosures",
+    "question": "What company financial levels, changes and non-recurring components does the Q1 2022 filing disclose?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "accumulated_other_comprehensive_income",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "administrative_expense",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_capitalized_development",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "comprehensive_income_attributable_noncontrolling_interests",
+      "construction_in_progress",
+      "continuing_operations_net_profit",
+      "contract_assets",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "development_expenditure_asset",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "employee_compensation_payable",
+      "equity_attributable",
+      "equity_attributable_change_from_prior_year_end",
+      "equity_method_investment_income",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_expense",
+      "interest_income",
+      "interest_receivable",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income",
+      "investment_income_cash_received",
+      "investment_property",
+      "lease_liabilities",
+      "long_term_deferred_expenses",
+      "long_term_employee_benefits_payable",
+      "long_term_equity_investments",
+      "long_term_receivables",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_noncontrolling_interests",
+      "net_profit_attributable_year_on_year_growth",
+      "noncontrolling_interests",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_noncontrolling_interests_effect",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "notes_receivable",
+      "operating_cash_flow",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_comprehensive_income_net_of_tax_attributable",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_financing_cash_payments",
+      "other_income",
+      "other_investing_cash_receipts",
+      "other_noncurrent_assets",
+      "other_noncurrent_financial_assets",
+      "other_noncurrent_liabilities",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "property_plant_equipment",
+      "provisions",
+      "rd_expense",
+      "rd_investment",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "rd_investment_year_on_year_growth",
+      "reclassifiable_oci_equity_method",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "statutory_surplus_reserve",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_assets_change_from_prior_year_end",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change",
+      "total_operating_revenue"
+    ],
+    "source_ids": [
+      "amec_q1_2022"
+    ],
+    "period_start": "2020-12-31",
+    "period_end": "2022-03-31",
+    "queries": [
+      "中微2022第一季度 合并资产负债表 利润表 现金流量表 非经常性损益"
+    ],
+    "acceptance_criteria": [
+      "All253populatedfinancialtablecells checked against the local original and11 exact same-source duplicates linked.",
+      "Stock dates, comparative quarters and source-worded decreases preserved."
+    ],
+    "stop_rule": "Financial statement, headline and non-recurring tables only; supplemental management and shareholder tables have a separate reviewed native batch.",
+    "priority_reason": "Extend complete company financial histories into interim filings rather than selecting headlines only.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_q1_2022_supplemental",
+    "title": "AMEC Q1 2022 shareholder and management disclosures",
+    "question": "Which product-financial changes and source-bound shareholder measurements complement the Q1 statements?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "deposition_mocvd",
+      "etch"
+    ],
+    "metric_ids": [
+      "adjusted_net_profit_attributable_absolute_change",
+      "equity_investment_gain",
+      "equity_investment_gain_absolute_change",
+      "fair_value_change_income",
+      "gross_margin",
+      "gross_margin_change",
+      "gross_profit_absolute_change",
+      "net_profit_attributable_absolute_change",
+      "net_profit_attributable_excluding_nonrecurring",
+      "nonrecurring_government_grant_income_absolute_change",
+      "nonrecurring_government_grants",
+      "nonrecurring_net_profit_attributable_absolute_change",
+      "ordinary_shareholder_count",
+      "reported_shareholding_percent",
+      "reported_shareholding_quantity",
+      "revenue",
+      "revenue_absolute_change",
+      "revenue_year_on_year_growth"
+    ],
+    "source_ids": [
+      "amec_q1_2022"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2022-03-31",
+    "queries": [
+      "中微2022第一季度 股东 刻蚀 MOCVD 公允价值变动损失"
+    ],
+    "acceptance_criteria": [
+      "All88nativecells accounted for with79observations and9same-source aliases.",
+      "Reported holder/table/column/class boundaries and source-native loss magnitudes retained."
+    ],
+    "stop_rule": "Assigned management narrative and shareholder tables only; no beneficial-owner research or inferred quantities.",
+    "priority_reason": "Preserve relevant financial and ownership disclosures with category-level product evidence.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "jingyi_inquiry_2024_financial",
+    "title": "Jingyi inquiry financials and CMP quantities",
+    "question": "What financial histories, dated backlog and grouped CMP sales does the January 2024 inquiry reply disclose?",
+    "entity_ids": [
+      "jingyi_jingwei"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "cmp"
+    ],
+    "metric_ids": [
+      "net_profit",
+      "operating_cash_flow",
+      "order_backlog",
+      "rd_expense",
+      "revenue",
+      "sales_volume"
+    ],
+    "source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "period_start": "2020-01-01",
+    "period_end": "2023-09-30",
+    "queries": [
+      "晶亦精微 营业收入 研发费用 经营活动现金流量净额 在手订单 销售数量"
+    ],
+    "acceptance_criteria": [
+      "34 prepared numerical cells independently checked against the original.",
+      "Multi-year sales and dated order backlog remain distinct from annual shipments."
+    ],
+    "stop_rule": "Prepared tables on physical pages 36, 103, 107, 119, 131 and 140; the full 282-page filing is not exhausted.",
+    "priority_reason": "Turn an existing platform/source stub into numerical CMP evidence and financial history.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_h1_2022_financial",
+    "title": "AMEC H1 2022 financial disclosures",
+    "question": "What financial levels, components and interim comparatives does AMEC disclose in H1 2022?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "accumulated_other_comprehensive_income",
+      "adjusted_basic_earnings_per_share",
+      "adjusted_basic_earnings_per_share_year_on_year_growth",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "adjusted_weighted_average_return_on_equity",
+      "adjusted_weighted_average_return_on_equity_change",
+      "administrative_expense",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_capitalized_development",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_borrowings",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_equity_financing",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "comprehensive_income_attributable_noncontrolling_interests",
+      "construction_in_progress",
+      "continuing_operations_net_profit",
+      "contract_assets",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "development_expenditure_asset",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "employee_compensation_payable",
+      "equity_attributable",
+      "equity_attributable_change_from_prior_year_end",
+      "equity_method_investment_income",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_inflows",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_expense",
+      "interest_income",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income",
+      "investment_income_cash_received",
+      "investment_property",
+      "lease_liabilities",
+      "long_term_borrowings",
+      "long_term_deferred_expenses",
+      "long_term_employee_benefits_payable",
+      "long_term_equity_investments",
+      "long_term_receivables",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_excluding_share_based_payment_expense_effect",
+      "net_profit_attributable_excluding_share_based_payment_expense_effect_year_on_year_growth",
+      "net_profit_attributable_noncontrolling_interests",
+      "net_profit_attributable_year_on_year_growth",
+      "noncontrolling_interests",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_entrusted_investment_management_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_noncontrolling_interests_effect",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "notes_receivable",
+      "operating_cash_flow",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_comprehensive_income_net_of_tax_attributable",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_financing_cash_payments",
+      "other_income",
+      "other_investing_cash_receipts",
+      "other_noncurrent_assets",
+      "other_noncurrent_financial_assets",
+      "other_noncurrent_liabilities",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "profit_of_combined_entity_before_common_control_combination",
+      "property_plant_equipment",
+      "provisions",
+      "rd_expense",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_reported_percent_column_change",
+      "reclassifiable_oci_equity_method",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "statutory_surplus_reserve",
+      "tax_refunds_received",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_assets_change_from_prior_year_end",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change",
+      "total_operating_revenue"
+    ],
+    "source_ids": [
+      "amec_h1_2022"
+    ],
+    "period_start": "2020-12-31",
+    "period_end": "2022-06-30",
+    "queries": [
+      "中微公司 2022 半年度 合并财务报表 非经常性损益"
+    ],
+    "acceptance_criteria": [
+      "All 276 populated consolidated/headline/non-recurring cells accounted for as 260 observations plus 16 exact same-source aliases.",
+      "Physical p80 consolidated cash-flow continuation reviewed before mapping."
+    ],
+    "stop_rule": "Consolidated financial statements, headline indicators and non-recurring/non-GAAP tables only; parent-only tables excluded.",
+    "priority_reason": "Extends AMEC financial history with prepared reviewed interim table sections.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "amec_fy2021_rd_tables",
+    "title": "AMEC FY2021 R&D tables",
+    "question": "What R&D investment, grant reconciliation and named-project amounts does AMEC's FY2021 annual report disclose?",
+    "entity_ids": [
+      "amec"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "deposition_cvd",
+      "deposition_epitaxy",
+      "deposition_mocvd",
+      "etch_ccp",
+      "etch_icp",
+      "multi_equipment"
+    ],
+    "metric_ids": [
+      "cumulative_project_rd_spending",
+      "planned_project_rd_investment",
+      "project_rd_spending",
+      "rd_expenditure_gross_before_government_grants",
+      "rd_expenditure_net_capitalized_component",
+      "rd_expenditure_net_expensed_component",
+      "rd_expenditure_net_of_government_grants",
+      "rd_government_grant_offset",
+      "rd_investment",
+      "rd_investment_capitalized",
+      "rd_investment_capitalized_share",
+      "rd_investment_capitalized_share_change",
+      "rd_investment_capitalized_year_on_year_growth",
+      "rd_investment_expensed",
+      "rd_investment_expensed_year_on_year_growth",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "rd_investment_year_on_year_growth"
+    ],
+    "source_ids": [
+      "amec_annual_2021"
+    ],
+    "period_start": "2020-01-01",
+    "period_end": "2021-12-31",
+    "queries": [
+      "中微公司 2021 研发投入 政府补助 在研项目"
+    ],
+    "acceptance_criteria": [
+      "All 60 assigned native elements accounted for as 58 source-checked observations and two same-source aliases.",
+      "Nine new metrics, two time-basis amendments and 14 source-native scopes independently reviewed.",
+      "Gross, grant-net and project-plan/cumulative perimeters remain distinct."
+    ],
+    "stop_rule": "Physical pages 33-36 assigned R&D tables only; no platform identity, production maturity or company-wide node allocation inferred.",
+    "priority_reason": "Preserve full issuer R&D-table breadth and exact source perimeters beyond rounded narrative totals.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "huafeng_fy2025_financial",
+    "title": "Huafeng FY2025 financial tables",
+    "question": "What financial history, quarterly flows and statement components does the held FY2025 annual original disclose?",
+    "entity_ids": [
+      "huafeng_test_control"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "accumulated_other_comprehensive_income",
+      "adjusted_basic_earnings_per_share",
+      "adjusted_basic_earnings_per_share_year_on_year_growth",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "adjusted_weighted_average_return_on_equity",
+      "adjusted_weighted_average_return_on_equity_change",
+      "administrative_expense",
+      "advance_receipts",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_acquisition_of_subsidiaries_and_business_units",
+      "cash_paid_for_debt_repayment",
+      "cash_paid_for_dividends_profit_distributions_and_interest",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_equity_financing",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "continuing_operations_net_profit",
+      "contract_assets",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_assets",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "employee_compensation_payable",
+      "equity_attributable",
+      "equity_attributable_year_on_year_growth",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_inflows",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_expense",
+      "interest_income",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income_cash_received",
+      "investment_property",
+      "lease_liabilities",
+      "long_term_borrowings",
+      "long_term_deferred_expenses",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_year_on_year_growth",
+      "noncontrolling_interests",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "nonreclassifiable_other_comprehensive_income",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_bargain_purchase_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "nonrecurring_other_qualifying_gain_loss",
+      "notes_receivable",
+      "operating_cash_flow",
+      "operating_cash_flow_year_on_year_growth",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_comprehensive_income_net_of_tax_attributable",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_equity_instrument_fair_value_change_oci",
+      "other_equity_instrument_investments",
+      "other_financing_cash_payments",
+      "other_income",
+      "other_investing_cash_receipts",
+      "other_noncurrent_assets",
+      "other_noncurrent_financial_assets",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "profit_before_tax_year_on_year_growth",
+      "property_plant_equipment",
+      "provisions",
+      "rd_expense",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "statutory_surplus_reserve",
+      "tax_refunds_received",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_assets_year_on_year_growth",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "treasury_shares",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change"
+    ],
+    "source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "华峰测控 2025 年度报告 合并报表 非经常性损益 季度"
+    ],
+    "acceptance_criteria": [
+      "All311 prepared native financial cells accounted for as292 observations and19 exact same-source aliases.",
+      "Original verification, exact mapped review replay and full validation pass."
+    ],
+    "stop_rule": "Prepared headline, quarterly, nonrecurring and consolidated BS/IS/CF tables; operating tables and parent-only statements are separate.",
+    "priority_reason": "Populate a new equipment issuer with comprehensive prepared financial table coverage.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "huafeng_fy2025_concentration",
+    "title": "Huafeng FY2025 customer and supplier concentration",
+    "question": "What sales and procurement concentration does the issuer disclose?",
+    "entity_ids": [
+      "huafeng_test_control"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "customer_sales",
+      "customer_sales_share",
+      "supplier_procurement",
+      "supplier_procurement_share"
+    ],
+    "source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "华峰测控 前五名客户 前五名供应商 关联方"
+    ],
+    "acceptance_criteria": [
+      "32 source cells accounted for as28 reviewed observations and4 same-source aliases.",
+      "Source labels, units, rank buckets and annual denominators verified."
+    ],
+    "stop_rule": "Physical page28 customer/supplier tables and adjacent summaries only.",
+    "priority_reason": "Add operational exposure evidence alongside financials without foreign-content inference.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "huafeng_fy2025_operations",
+    "title": "Huafeng FY2025 operating and R&D tables",
+    "question": "What product, geography, equipment-quantity, R&D and workforce evidence does the issuer report?",
+    "entity_ids": [
+      "huafeng_test_control"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "test"
+    ],
+    "metric_ids": [
+      "average_rd_employee_compensation",
+      "cost_of_revenue",
+      "cost_of_revenue_component",
+      "cost_of_revenue_component_share",
+      "cost_of_revenue_component_year_on_year_growth",
+      "cost_of_revenue_year_on_year_growth",
+      "cumulative_intellectual_property_applications",
+      "cumulative_intellectual_property_grants",
+      "cumulative_project_rd_spending",
+      "employee_headcount",
+      "gross_margin",
+      "gross_margin_change",
+      "inventory_volume",
+      "inventory_volume_year_on_year_growth",
+      "new_intellectual_property_applications",
+      "new_intellectual_property_grants",
+      "planned_project_rd_investment",
+      "production_volume",
+      "production_volume_year_on_year_growth",
+      "project_rd_spending",
+      "rd_employee_compensation",
+      "rd_investment",
+      "rd_investment_capitalized",
+      "rd_investment_capitalized_share",
+      "rd_investment_capitalized_share_change",
+      "rd_investment_capitalized_year_on_year_growth",
+      "rd_investment_expensed",
+      "rd_investment_expensed_year_on_year_growth",
+      "rd_investment_revenue_share_change",
+      "rd_investment_year_on_year_growth",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "sales_volume",
+      "sales_volume_year_on_year_growth",
+      "workforce_share"
+    ],
+    "source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "华峰测控 主营业务 产销量 研发项目 员工 知识产权"
+    ],
+    "acceptance_criteria": [
+      "159 non-concentration prepared table cells accounted for as151 observations and8 same-source aliases.",
+      "An additional explicit year-end total workforce count independently verified.",
+      "Visual page exceptions distinguish wrapped digits from incorrect page locators."
+    ],
+    "stop_rule": "Prepared tables on pp20–22 and25–27 plus p17 total headcount; remaining filing sections are not claimed exhausted.",
+    "priority_reason": "Connect broad financial capture to equipment categories and operating evidence without allocating company totals to individual platforms.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "qiangyi_fy2025_financial",
+    "title": "Qiangyi FY2025 financial tables",
+    "question": "What company financial history, quarterly flows and statement components does the held FY2025 annual original disclose?",
+    "entity_ids": [
+      "qiangyi_semiconductor"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "adjusted_basic_earnings_per_share",
+      "adjusted_basic_earnings_per_share_year_on_year_growth",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "adjusted_weighted_average_return_on_equity",
+      "adjusted_weighted_average_return_on_equity_change",
+      "administrative_expense",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_debt_repayment",
+      "cash_paid_for_dividends_profit_distributions_and_interest",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_borrowings",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_equity_financing",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "construction_in_progress",
+      "continuing_operations_net_profit",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "employee_compensation_payable",
+      "equity_attributable",
+      "equity_attributable_year_on_year_growth",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_inflows",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_expense",
+      "interest_income",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income",
+      "investment_income_cash_received",
+      "lease_liabilities",
+      "long_term_deferred_expenses",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_year_on_year_growth",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "nonrecurring_other_qualifying_gain_loss",
+      "notes_receivable",
+      "operating_cash_flow",
+      "operating_cash_flow_year_on_year_growth",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_comprehensive_income_net_of_tax_attributable",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_financing_cash_payments",
+      "other_financing_cash_receipts",
+      "other_income",
+      "other_investing_cash_payments",
+      "other_investing_cash_receipts",
+      "other_noncurrent_assets",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "profit_before_tax_year_on_year_growth",
+      "property_plant_equipment",
+      "provisions",
+      "rd_expense",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "receivables_financing",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "short_term_borrowings",
+      "statutory_surplus_reserve",
+      "tax_refunds_received",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_assets_year_on_year_growth",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change"
+    ],
+    "source_ids": [
+      "qiangyi_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "强一股份 2025 年年度报告 合并报表 非经常性损益 季度"
+    ],
+    "acceptance_criteria": [
+      "All 288 prepared native financial cells accounted for as 269 observations and 19 exact same-source aliases.",
+      "Original verification, exact mapped-review replay and full validation pass."
+    ],
+    "stop_rule": "Prepared headline, quarterly, nonrecurring and consolidated BS/IS/CF tables only; supplemental operating and parent-only tables are separate.",
+    "priority_reason": "Adds a probe-card supplier while retaining company-wide financial perimeter and source-native boundaries.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "qiangyi_fy2025_operations",
+    "title": "Qiangyi FY2025 operating tables",
+    "question": "What financial breakdowns and operating quantities does the held annual original disclose?",
+    "entity_ids": [
+      "qiangyi_semiconductor"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "test_probe_card"
+    ],
+    "metric_ids": [
+      "average_rd_employee_compensation",
+      "cost_of_revenue",
+      "cost_of_revenue_component",
+      "cost_of_revenue_component_share",
+      "cost_of_revenue_component_year_on_year_growth",
+      "cost_of_revenue_year_on_year_growth",
+      "cumulative_intellectual_property_applications",
+      "cumulative_intellectual_property_grants",
+      "cumulative_project_rd_spending",
+      "customer_sales",
+      "customer_sales_share",
+      "employee_headcount",
+      "gross_margin",
+      "gross_margin_change",
+      "inventory_volume",
+      "inventory_volume_year_on_year_growth",
+      "new_intellectual_property_applications",
+      "new_intellectual_property_grants",
+      "planned_project_rd_investment",
+      "production_volume",
+      "production_volume_year_on_year_growth",
+      "project_rd_spending",
+      "rd_employee_compensation",
+      "rd_investment",
+      "rd_investment_expensed",
+      "rd_investment_expensed_year_on_year_growth",
+      "rd_investment_year_on_year_growth",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "sales_volume",
+      "sales_volume_year_on_year_growth",
+      "supplier_procurement",
+      "supplier_procurement_share",
+      "workforce_share"
+    ],
+    "source_ids": [
+      "qiangyi_annual_2025"
+    ],
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "强一股份 主营业务 产销量 研发项目 员工 知识产权"
+    ],
+    "acceptance_criteria": [
+      "297 prepared native cells accounted for as286 observations and11 same-source aliases.",
+      "Original and mapped review replay exactly; full validation passes."
+    ],
+    "stop_rule": "Prepared operating/R&D table set only; parent statements and remaining notes are separate.",
+    "priority_reason": "Adds product and operating depth alongside complete prepared financial tables.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "huafeng_fy2025_asset_analysis",
+    "title": "Huafeng FY2025 asset analysis tables",
+    "question": "What source-native asset composition, foreign-assets and restricted-assets disclosures appear in Huafeng FY2025 annual reporting?",
+    "entity_ids": [
+      "huafeng_test_control"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "financial_statement_line_end_period_relative_change",
+      "financial_statement_line_total_assets_share",
+      "foreign_assets",
+      "foreign_assets_total_assets_share",
+      "restricted_asset_book_balance",
+      "restricted_asset_carrying_value"
+    ],
+    "source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "period_start": "2024-12-31",
+    "period_end": "2025-12-31",
+    "queries": [
+      "华峰测控 2025 年年度报告 资产及负债状况 境外资产 资产受限"
+    ],
+    "acceptance_criteria": [
+      "All 72 checked native cells accounted for as 48 observations plus 24 exact same-source aliases.",
+      "Mapped and registry review replay plus staged validation pass."
+    ],
+    "stop_rule": "Asset/ liability analysis, foreign-assets and restricted-assets tables only; not a broader balance-sheet extraction.",
+    "priority_reason": "Preserves source-native asset composition and restricted gross/net distinctions.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "jingzhida_fy2025_financial",
+    "title": "Jingzhida FY2025 financial tables",
+    "question": "What company financial history, quarterly flows and statement components does the held FY2025 annual original disclose?",
+    "entity_ids": [
+      "jingzhida"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [
+      "accounts_payable",
+      "accounts_receivable",
+      "accumulated_other_comprehensive_income",
+      "adjusted_basic_earnings_per_share",
+      "adjusted_basic_earnings_per_share_year_on_year_growth",
+      "adjusted_net_profit_attributable_year_on_year_growth",
+      "adjusted_weighted_average_return_on_equity",
+      "adjusted_weighted_average_return_on_equity_change",
+      "administrative_expense",
+      "asset_disposal_income",
+      "asset_impairment_loss",
+      "basic_earnings_per_share",
+      "basic_earnings_per_share_year_on_year_growth",
+      "capital_reserve",
+      "cash_and_cash_equivalents",
+      "cash_capital_expenditure",
+      "cash_paid_for_dividends_profit_distributions_and_interest",
+      "cash_paid_for_investments",
+      "cash_paid_to_employees",
+      "cash_paid_to_suppliers",
+      "cash_received_from_customers",
+      "cash_received_from_disposal_long_term_assets",
+      "cash_received_from_equity_financing",
+      "cash_received_from_investment_recovery",
+      "comprehensive_income_attributable",
+      "comprehensive_income_attributable_noncontrolling_interests",
+      "construction_in_progress",
+      "continuing_operations_net_profit",
+      "contract_assets",
+      "contract_liabilities",
+      "cost_of_revenue",
+      "credit_impairment_loss",
+      "current_assets",
+      "current_liabilities",
+      "current_portion_noncurrent_assets",
+      "current_portion_noncurrent_liabilities",
+      "deferred_income",
+      "deferred_tax_assets",
+      "deferred_tax_liabilities",
+      "diluted_earnings_per_share",
+      "diluted_earnings_per_share_year_on_year_growth",
+      "employee_compensation_payable",
+      "equity_attributable",
+      "equity_attributable_year_on_year_growth",
+      "equity_method_investment_income",
+      "exchange_rate_effect_on_cash",
+      "fair_value_change_income",
+      "finance_expense",
+      "financing_cash_flow",
+      "financing_cash_inflows",
+      "financing_cash_outflows",
+      "foreign_currency_translation_adjustment",
+      "income_tax_expense",
+      "intangible_assets",
+      "interest_income",
+      "inventory_carrying_amount",
+      "investing_cash_flow",
+      "investing_cash_inflows",
+      "investing_cash_outflows",
+      "investment_income",
+      "investment_income_cash_received",
+      "lease_liabilities",
+      "long_term_deferred_expenses",
+      "long_term_equity_investments",
+      "monetary_funds",
+      "net_change_cash_and_cash_equivalents",
+      "net_profit",
+      "net_profit_attributable",
+      "net_profit_attributable_excluding_nonrecurring",
+      "net_profit_attributable_noncontrolling_interests",
+      "net_profit_attributable_year_on_year_growth",
+      "noncontrolling_interests",
+      "noncurrent_assets",
+      "noncurrent_liabilities",
+      "nonoperating_expense",
+      "nonoperating_income",
+      "nonrecurring_asset_disposal_gain_loss",
+      "nonrecurring_financial_instrument_gain_loss",
+      "nonrecurring_government_grants",
+      "nonrecurring_income_tax_effect",
+      "nonrecurring_net_profit_attributable",
+      "nonrecurring_noncontrolling_interests_effect",
+      "nonrecurring_other_nonoperating_gain_loss",
+      "nonrecurring_other_qualifying_gain_loss",
+      "notes_payable",
+      "operating_cash_flow",
+      "operating_cash_flow_year_on_year_growth",
+      "operating_cash_inflows",
+      "operating_cash_outflows",
+      "operating_profit",
+      "other_comprehensive_income_net_of_tax",
+      "other_comprehensive_income_net_of_tax_attributable",
+      "other_current_assets",
+      "other_current_liabilities",
+      "other_financing_cash_payments",
+      "other_financing_cash_receipts",
+      "other_income",
+      "other_investing_cash_payments",
+      "other_noncurrent_assets",
+      "other_noncurrent_financial_assets",
+      "other_operating_cash_payments",
+      "other_operating_cash_receipts",
+      "other_payables",
+      "other_receivables",
+      "prepayments",
+      "profit_before_tax",
+      "profit_before_tax_year_on_year_growth",
+      "property_plant_equipment",
+      "rd_expense",
+      "rd_investment_revenue_share",
+      "rd_investment_revenue_share_change",
+      "receivables_financing",
+      "reclassifiable_other_comprehensive_income",
+      "retained_earnings",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "right_of_use_assets",
+      "selling_expense",
+      "share_capital",
+      "statutory_surplus_reserve",
+      "tax_refunds_received",
+      "taxes_and_surcharges",
+      "taxes_paid",
+      "taxes_payable",
+      "total_assets",
+      "total_assets_year_on_year_growth",
+      "total_comprehensive_income",
+      "total_equity",
+      "total_liabilities",
+      "total_liabilities_and_equity",
+      "total_operating_costs",
+      "trading_financial_assets",
+      "treasury_shares",
+      "weighted_average_return_on_equity",
+      "weighted_average_return_on_equity_change"
+    ],
+    "source_ids": [
+      "jingzhida_annual_2025"
+    ],
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "精智达 2025 年年度报告 合并报表 非经常性损益 季度"
+    ],
+    "acceptance_criteria": [
+      "All 308 prepared native financial cells accounted for as 289 observations and 19 exact same-source aliases.",
+      "Original verification, exact mapped-review replay and full validation pass."
+    ],
+    "stop_rule": "Prepared headline, quarterly, nonrecurring and consolidated BS/IS/CF tables only; supplemental operating and parent-only tables are separate.",
+    "priority_reason": "Adds a mixed semiconductor-test and display-inspection supplier while retaining a company-wide financial perimeter.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "jingzhida_fy2025_operations",
+    "title": "Jingzhida FY2025 operating tables",
+    "question": "What operating, R&D, workforce, IP and concentration tables does the held annual original disclose?",
+    "entity_ids": [
+      "jingzhida"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "test"
+    ],
+    "metric_ids": [
+      "average_rd_employee_compensation",
+      "cost_of_revenue",
+      "cost_of_revenue_component",
+      "cost_component_share_of_source_table_total",
+      "cost_of_revenue_component_year_on_year_growth",
+      "cost_of_revenue_year_on_year_growth",
+      "cumulative_intellectual_property_applications",
+      "cumulative_intellectual_property_grants",
+      "cumulative_project_rd_spending",
+      "customer_sales",
+      "customer_sales_share",
+      "employee_headcount",
+      "gross_margin",
+      "gross_margin_change",
+      "inventory_volume",
+      "inventory_volume_year_on_year_growth",
+      "new_intellectual_property_applications",
+      "new_intellectual_property_grants",
+      "planned_project_rd_investment",
+      "production_volume",
+      "production_volume_year_on_year_growth",
+      "project_rd_spending",
+      "rd_employee_compensation",
+      "rd_investment",
+      "rd_investment_capitalized",
+      "rd_investment_expensed",
+      "rd_investment_expensed_year_on_year_growth",
+      "rd_investment_year_on_year_growth",
+      "revenue",
+      "revenue_year_on_year_growth",
+      "sales_volume",
+      "sales_volume_year_on_year_growth",
+      "supplier_procurement",
+      "supplier_procurement_share",
+      "workforce_share"
+    ],
+    "source_ids": [
+      "jingzhida_annual_2025"
+    ],
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "queries": [
+      "精智达 2025 年年度报告 研发项目 产销量 主要客户 知识产权"
+    ],
+    "acceptance_criteria": [
+      "233 prepared native cells accounted for as 174 observations and 59 exact semantic aliases.",
+      "Native and mapped review replay exactly; full validation passes."
+    ],
+    "stop_rule": "Prepared supplemental operating tables only; parent-only statements and technical narrative claims are separate.",
+    "priority_reason": "Adds source-native operating depth while preserving the issuer's mixed semiconductor-test and display-inspection perimeters.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "jingzhida_registered_held_corpus",
+    "title": "Jingzhida registered held disclosure corpus",
+    "question": "Which original financial, operating, order, delivery and R&D disclosures extend the FY2025 evidence while preserving semiconductor-test and display-inspection boundaries?",
+    "entity_ids": [
+      "jingzhida"
+    ],
+    "category_ids": [
+      "all_businesses",
+      "test"
+    ],
+    "metric_ids": [],
+    "source_ids": [
+      "jingzhida_ipo_prospectus_2023",
+      "jingzhida_voluntary_rd_progress_2025",
+      "jingzhida_contract_2025_010",
+      "jingzhida_annual_2024",
+      "jingzhida_voluntary_contract_2025_036",
+      "jingzhida_contract_2025_075",
+      "jingzhida_voluntary_first_high_speed_tester_2025",
+      "jingzhida_contract_2026_002",
+      "jingzhida_contract_supplement_2026_003",
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "period_start": "2020-01-01",
+    "period_end": "2026-12-31",
+    "queries": [
+      "精智达 招股说明书 年报 重大合同 高速测试机 研发进展 审核问询回复"
+    ],
+    "acceptance_criteria": [
+      "Review each held original before extracting; metadata registration alone is not evidence coverage.",
+      "Capture all relevant financial and operating lines in bounded source-specific batches, with same-source duplicates dispositioned explicitly.",
+      "Keep unnamed contract counterparties unnamed and keep display-device inspection outside semiconductor inspection/metrology taxonomy."
+    ],
+    "stop_rule": "Start with the FY2024 annual report and short R&D/contract/delivery announcements; handle the prospectus and refinancing inquiry reply as separate bounded originals. Do not infer publication dates, customer identities, revenue recognition or market denominators.",
+    "priority_reason": "Closes the known held-source registration gap and makes the issuer's historical and event disclosures available for original-first extraction.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "kingsemi_registered_held_corpus",
+    "title": "KINGSEMI held annual and interim financial corpus",
+    "question": "Which financial and equipment-operating disclosures extend the sparse existing company history from these held originals?",
+    "entity_ids": [
+      "kingsemi"
+    ],
+    "category_ids": [
+      "all_businesses"
+    ],
+    "metric_ids": [],
+    "source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_h1_2026",
+      "kingsemi_q1_2026"
+    ],
+    "period_start": "2021-01-01",
+    "period_end": "2026-06-30",
+    "queries": [
+      "芯源微 2023 年年度报告 合并报表",
+      "芯源微 2026 年第一季度报告",
+      "芯源微 2026 年半年度报告"
+    ],
+    "acceptance_criteria": [
+      "Review source originals and retain every relevant financial/operating line with explicit aliases and holds.",
+      "Preserve publication provenance, comparative vintages, consolidation perimeter, stock/flow periods and unit qualifiers."
+    ],
+    "stop_rule": "Bound each extraction to one original and named tables; parent-only statements and product claims require their own scope review.",
+    "priority_reason": "Registers three held originals for an existing issuer with only37 canonical observations and no Q1/H1 2026 coverage.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "changchuan_registered_financial_corpus",
+    "title": "Changchuan FY2024–FY2025 annual and H1 2026 corpus",
+    "question": "Which company financial, operating, R&D and source-defined test-equipment disclosures are present in the three official originals?",
+    "entity_ids": [
+      "changchuan"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "changchuan_annual_2024",
+      "changchuan_annual_2025",
+      "changchuan_h1_2026"
+    ],
+    "period_start": "2022-01-01",
+    "period_end": "2026-06-30",
+    "queries": [
+      "长川科技 2024 年年度报告 财务 经营 研发 产品",
+      "长川科技 2025 年年度报告 财务 经营 研发 产品",
+      "长川科技 2026 年半年度报告 财务 经营 研发 产品"
+    ],
+    "acceptance_criteria": [
+      "Independently verify source identity, official URL, publication date, SHA-256 and physical page count before registration.",
+      "Inventory and retain every relevant populated financial and operating row in bounded source-specific packets, with exact same-source repeats dispositioned explicitly.",
+      "Keep company-wide totals in all_businesses and preserve source-native tester, handler, prober, AOI, service, subsidiary and geography boundaries without inferred allocation."
+    ],
+    "stop_rule": "Process one original and named sections at a time; do not acquire market denominators or broker estimates, and do not infer customer, platform or application allocations from adjacent narrative.",
+    "priority_reason": "Adds a listed semiconductor-test-equipment issuer from three current primary originals while preserving full-report vintages and product-perimeter distinctions.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "naura_operational_sweep_20260923",
+    "title": "NAURA registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "naura"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 1 of six.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "hwatsing_operational_sweep_20260923",
+    "title": "Hwatsing registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "hwatsing"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025",
+      "hwatsing_cmp_1000",
+      "hwatsing_cmp_500",
+      "hwatsing_cmp_800",
+      "hwatsing_h1_2026"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 2 of six.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "piotech_operational_sweep_20260923",
+    "title": "Piotech registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "piotech"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 3 of six.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "leadmicro_operational_sweep_20260923",
+    "title": "Leadmicro registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "leadmicro"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 4 of six.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "jingce_operational_sweep_20260923",
+    "title": "Jingce Electronics registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "jingce",
+      "jingce_shanghai"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 5 of six.",
+    "analysis_leads": []
+  },
+  {
+    "task_id": "acm_shanghai_operational_sweep_20260923",
+    "title": "ACM Research (Shanghai) registered-original operational sweep",
+    "question": "What source-defined equipment families, operating quantities, customers and capabilities are disclosed across every registered original in this named set?",
+    "entity_ids": [
+      "acm_shanghai"
+    ],
+    "category_ids": [],
+    "metric_ids": [],
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "period_start": "2000-01-01",
+    "period_end": "2026-09-23",
+    "queries": [
+      "累计 出货 交付 装机 产销量 分产品 在手订单 客户 验证 产能 工艺节点"
+    ],
+    "acceptance_criteria": [
+      "Disposition every source against every topic: Named product families and original definitions; Cumulative shipments and installations, preserving equipment units; All sibling per-product production, sales and inventory rows; Orders and backlog, tax and conditional status; Customer counts and named customers without identity inference; Qualification, validation and production-use status; Actual versus planned capacity; Node claims explicitly linked to specific capabilities or products.",
+      "Link reviewed original locators to existing/new numerical and qualitative evidence, explicit aliases or held claims; keyword hits alone do not establish coverage.",
+      "Use reviewed_not_found only for an actually reviewed named source set; preserve all sibling rows and printed derived values in selected tables.",
+      "Check existing metric definitions and dimensions before proposing new vocabulary; preserve node-to-claim bindings and overlapping baskets."
+    ],
+    "stop_rule": "Stop after all named source-by-topic dispositions are reviewed; record unresolved source claims explicitly. Financial-depth gate stays closed for unsearched or incomplete source topics. New originals reopen affected coverage.",
+    "priority_reason": "2026-09-23 user directive: operational sweep before further financial depth; priority 6 of six.",
+    "analysis_leads": []
+  }
+]

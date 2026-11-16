@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "changchuan_annual_disclosures",
+    "title": "Changchuan annual and interim company disclosures",
+    "kind": "company_filings",
+    "publisher": "changchuan",
+    "version": "changchuan1-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Public issuer filings: store numeric observations and short source-bound evidence passages; original PDFs and machine-specific paths remain local and are excluded from Git. Issuer assertions remain company claims after transcription review.",
+    "market_definitions": {}
+  }
+]

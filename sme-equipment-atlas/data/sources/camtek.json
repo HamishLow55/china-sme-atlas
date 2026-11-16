@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "camtek_20f_fy2025",
+    "dataset_id": "camtek_disclosures",
+    "title": "Camtek Ltd. Form 20-F, fiscal year ended December 31, 2025",
+    "publication_date": "2026-03-19",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891326001561/zk2634678.htm",
+    "sha256": "b770464cc30eaba80219e659d092c7a64ba9764b60ba2a37dd288953766dc7a3",
+    "source_type": "annual_report",
+    "original_document_id": "camtek_20f_fy2025",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR, filed 2026-03-19, accession 0001178913-26-001561. Full Form 20-F annual report as filed, HTML (not PDF), downloaded directly from sec.gov and hashed locally; kept at the maintainer's local archive (not distributed): Financial reports/Camtek filings/camtek_20f_fy2025.htm. Covers fiscal years ended December 31, 2025, 2024 and 2023 (three-column comparatives throughout the financial statements). Registered locator_kind html / page_count 1 per the atlas's established HTML pattern (data/sources/smee.json): the document has no PDF page numbers, so every evidence.page below is 1 and the automated check-pages page check does not reach it (registered_source_not_pdf) -- every excerpt here was read directly against this file rather than machine-verified. Financial statements are presented in 'U.S. Dollars (In thousands)' per the statement headers; this packet takes the unit from each table's own header, never from a sibling sentence."
+  },
+  {
+    "source_id": "camtek_20f_fy2023",
+    "dataset_id": "camtek_disclosures",
+    "title": "Camtek Ltd. Form 20-F, fiscal year ended December 31, 2023",
+    "publication_date": "2024-03-21",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109138/000117891324001028/zk2431123.htm",
+    "sha256": "ac7b52369d25764f87edbcea3c08a8e17f580bf0d6b36235c32e81d56a0b55ea",
+    "source_type": "annual_report",
+    "original_document_id": "camtek_20f_fy2023",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR, filed 2024-03-21, accession 0001178913-24-001028. Full Form 20-F annual report as filed, HTML (not PDF), downloaded directly from sec.gov and hashed locally; kept at the maintainer's local archive (not distributed): Financial reports/Camtek filings/camtek_20f_fy2023.htm. Covers fiscal years ended December 31, 2023, 2022 and 2021 (three-column comparatives throughout the financial statements); used in this packet only to extend the revenue/cost/R&D/headcount series back to FY2022 and FY2021 and to confirm the FY2023 column is unrestated against the later filing. Registered locator_kind html / page_count 1; evidence.page is 1 throughout. Financial statements are presented in 'U.S. Dollars (In thousands)' per the statement headers."
+  }
+]

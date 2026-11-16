@@ -1,0 +1,92 @@
+[
+  {
+    "reporting_scope_id": "semitronix_test_equipment_and_accessories",
+    "label": "测试设备及配件",
+    "category_id": "test",
+    "definition": "Semitronix source-native 分产品 row 测试设备及配件: hardware sales of WAT testers and their accessories, the issuer's ONLY equipment revenue line. The source does not split tester hardware from accessories, and does not split WAT from WLR or WLBI tools. Explicitly excludes the software and test-service lines."
+  },
+  {
+    "reporting_scope_id": "semitronix_software_development_and_licensing",
+    "label": "软件开发及授权",
+    "category_id": "all_businesses",
+    "definition": "Semitronix source-native 分产品 row 软件开发及授权: EDA, PDA and semiconductor big-data software licences plus project-based software technical development (yield improvement, DFT design, photonic PDK). NOT EQUIPMENT. Held under all_businesses so it cannot aggregate into any equipment category total."
+  },
+  {
+    "reporting_scope_id": "semitronix_test_services_and_other",
+    "label": "测试服务及其他",
+    "category_id": "all_businesses",
+    "definition": "Semitronix source-native 分产品 row 测试服务及其他: wafer and test-chip测试 services performed on the issuer's own testers. A service line, not equipment sales."
+  },
+  {
+    "reporting_scope_id": "semitronix_physical_equipment_sales_ic_industry",
+    "label": "集成电路行业（实物销售量）",
+    "category_id": "test",
+    "definition": "Semitronix source-native 实物销售 table row, labelled 集成电路行业 by the source. The issuer's own note under the table attributes the movement to 公司设备产品, and software licences are not counted in 台, so the unit basket is the issuer's physical equipment (WAT testers, WLR and WLBI systems and accessories counted as whole units). Not split by tool family."
+  },
+  {
+    "reporting_scope_id": "semitronix_wat_testers",
+    "label": "WAT 测试机",
+    "category_id": "test_wafer_parametric",
+    "definition": "Semitronix WAT tester fleet as named in the FY2025 MD&A: wafer-level parametric electrical test equipment (T4000, T4000 Max, T4100S series) used for wafer acceptance test and in-line process monitoring. Carries the customer-site operating-fleet count. Not memory ATE, not a prober or handler, and not an HBM claim."
+  },
+  {
+    "reporting_scope_id": "semitronix_wlbi_b5260m",
+    "label": "半自动老化系统 B5260M",
+    "category_id": "test_wafer_level_burn_in",
+    "definition": "Semitronix named semi-automatic wafer-level burn-in system B5260M, for SiC/GaN HTGB/HTRB screening. A single model scope carrying its stated simultaneous-wafer batch capability; no revenue, unit or customer figure is disclosed at this granularity."
+  },
+  {
+    "reporting_scope_id": "semitronix_wlbi_b5280",
+    "label": "全自动老化系统 B5280",
+    "category_id": "test_wafer_level_burn_in",
+    "definition": "Semitronix named fully automatic wafer-level burn-in system B5280, for 6-inch and 8-inch SiC/GaN wafers. A single model scope carrying its stated maximum simultaneous-wafer batch capability."
+  },
+  {
+    "reporting_scope_id": "semitronix_ip_granted_patents_total",
+    "label": "已授权专利",
+    "category_id": "all_businesses",
+    "definition": "Semitronix source-native cumulative granted-patent total across all patent classes as of 2025-12-31."
+  },
+  {
+    "reporting_scope_id": "semitronix_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "Semitronix source-native invention-patent subset of the cumulative granted-patent total; 16 of these are stated to be international."
+  },
+  {
+    "reporting_scope_id": "semitronix_ip_software_copyrights",
+    "label": "软件著作权",
+    "category_id": "all_businesses",
+    "definition": "Semitronix source-native cumulative software-copyright registrations as of 2025-12-31."
+  },
+  {
+    "reporting_scope_id": "semitronix_source_defined_domestic_operating_revenue",
+    "category_id": "all_businesses",
+    "label": "境内",
+    "definition": "Semitronix source-native 境内 row, used by BOTH (a) the 营业收入整体情况／分地区 total-operating-revenue table (FY2025 and FY2024, revenue+share only) and (b) the 占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况 table (FY2025 only, revenue+cost+margin). Both tables print the identical FY2025 境内 revenue figure (712,893,117.58), confirming they share the same total-operating-revenue basis despite the second table's 10%-threshold framing; that duplication is declared via coincident_value (same_fact_restated) on the second table's revenue row, which is kept on disk because it also carries cost and margin the first table lacks."
+  },
+  {
+    "reporting_scope_id": "semitronix_source_defined_overseas_operating_revenue",
+    "category_id": "all_businesses",
+    "label": "境外",
+    "definition": "Semitronix source-native 境外 row from the 营业收入整体情况／分地区 total-operating-revenue table (FY2025 and FY2024, revenue+share only). Below the 10% materiality threshold, so it does not recur in the 占公司营业收入或营业利润10%以上 table (no cost/margin cell exists for it)."
+  },
+  {
+    "reporting_scope_id": "semitronix_wafer_level_electrical_test_equipment",
+    "label": "晶圆级电性测试设备",
+    "category_id": "test",
+    "definition": "H1 2026 source-native basket 晶圆级电性测试设备: WAT and WLR testers plus WLBI wafer-level burn-in tools, as the 其中 split shows (96 = 93 + 3). Spans two child categories, so it stays at test."
+  },
+  {
+    "reporting_scope_id": "semitronix_wat_and_wlr_testers",
+    "label": "WAT 与 WLR 合计",
+    "category_id": "test_wafer_parametric",
+    "definition": "H1 2026 source-native combined count of WAT and WLR testers. No split between the two is printed."
+  },
+  {
+    "reporting_scope_id": "semitronix_wlbi_wafer_level_burn_in_equipment",
+    "label": "晶圆级老化测试设备 WLBI",
+    "category_id": "test_wafer_level_burn_in",
+    "definition": "H1 2026 source-native WLBI family. The issuer defines WLBI as built for SiC and GaN, so this is power-device burn-in and not memory burn-in."
+  }
+]

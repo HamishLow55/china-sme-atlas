@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "semitronix_annual_2025",
+    "dataset_id": "semitronix_annual_disclosures",
+    "title": "杭州广立微电子股份有限公司2025年年度报告",
+    "publication_date": "2026-04-22",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225153967.PDF",
+    "sha256": "2152f5e96fd823ee78d45d08bd996134eb9caadfcc6b46472c02f7323572397e",
+    "source_type": "company_annual_report",
+    "original_document_id": "semitronix_annual_2025",
+    "notes": "New dataset and entity. Announcement number printed on the cover is 2026-015 and the cover date is 2026 年 4 月. Date given is the filing's 批准报出 date (physical p144: 本财务报表业经公司 2026 年 4 月 22 日第二届第二十八次董事会批准对外报出); related announcements on p71/p72 are dated 2026-04-23, so the SZSE announcement date is probably 2026-04-23 - the integrator should confirm. Printed page numbers equal physical PDF pages. SHA-256 and the 234-page count recomputed locally.",
+    "page_count": 234,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "semitronix_q3_2026",
+    "dataset_id": "semitronix_annual_disclosures",
+    "title": "semitronix Q3 2026 report: 2026年三季度报告",
+    "publication_date": "2026-10-28",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-28/1225630347.PDF",
+    "sha256": "5e8eb62a40626724492441f6291cb4aff06c4965dcb5f608783517557c2c27e5",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "semitronix_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "semitronix_h1_2026",
+    "dataset_id": "semitronix_annual_disclosures",
+    "title": "semitronix H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-29",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-29/1225528604.PDF",
+    "sha256": "2ae3762fd75d29eb0f634c9e491f11adfa38b682f65b33c44c9065afcdce88f4",
+    "source_type": "company_interim_report",
+    "original_document_id": "semitronix_h1_2026",
+    "page_count": 178,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "semitronix_ir_20261016",
+    "dataset_id": "semitronix_annual_disclosures",
+    "title": "semitronix: 301095广立微投资者关系管理信息20261016",
+    "publication_date": "2026-10-16",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-16/1225607820.PDF",
+    "sha256": "0ce2b490bf62dc40c4f8cc5f86af4cb2f6fa09e32ab5855368ce8458eeb6b8e8",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "semitronix_ir_20261016",
+    "page_count": 5,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  },
+  {
+    "source_id": "semitronix_ir_20260715",
+    "dataset_id": "semitronix_annual_disclosures",
+    "title": "semitronix: 2026年7月15日投资者关系活动记录表",
+    "publication_date": "2026-07-15",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-07-15/1225425782.PDF",
+    "sha256": "d6296aa60a8c0407468a92b0b06798a8efbeb8a781d3ed6528a163ae19170fac",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "semitronix_ir_20260715",
+    "page_count": 4,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  }
+]

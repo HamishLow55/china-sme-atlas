@@ -1,0 +1,386 @@
+[
+  {
+    "observation_id": "ACMR2021-CL-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "cleaning",
+    "reporting_scope_id": "acmr_cleaning",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "189.208",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2021-01-01",
+      "end": "2021-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Single wafer cleaning, Tahoe and semi-critical cleaning equipment",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Single wafer cleaning, Tahoe and semi-critical cleaning equipment                       $         403,851        $             272,939    $            189,208                     48.0 %              44.3 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "189208",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2022-CL-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "cleaning",
+    "reporting_scope_id": "acmr_cleaning",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "272.939",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Single wafer cleaning, Tahoe and semi-critical cleaning equipment",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Single wafer cleaning, Tahoe and semi-critical cleaning equipment                       $         403,851        $             272,939    $            189,208                     48.0 %              44.3 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "272939",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2021-EF-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_ecp_furnace_other",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "33.210",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2021-01-01",
+      "end": "2021-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "ECP (front-end and packaging), furnace and other technologies",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). ECP (front-end and packaging), furnace and other technologies                                     103,356                       77,482                  33,210                     33.4 %             133.3 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "33210",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation. Mixed ECP, furnace and other technologies: $199.551m in 2025 is not ECP-only. Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2022-EF-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_ecp_furnace_other",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "77.482",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "ECP (front-end and packaging), furnace and other technologies",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). ECP (front-end and packaging), furnace and other technologies                                     103,356                       77,482                  33,210                     33.4 %             133.3 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "77482",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation. Mixed ECP, furnace and other technologies: $199.551m in 2025 is not ECP-only. Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2021-AP-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_packaging_services_spares",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "37.333",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2021-01-01",
+      "end": "2021-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Advanced packaging (excluding ECP), services & spares",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Advanced packaging (excluding ECP), services & spares                                                 50,516                    38,411                  37,333                     31.5 %                 2.9 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "37333",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2022-AP-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_packaging_services_spares",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "38.411",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Advanced packaging (excluding ECP), services & spares",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Advanced packaging (excluding ECP), services & spares                                                 50,516                    38,411                  37,333                     31.5 %                 2.9 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "38411",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2021-TOT-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "259.751",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2021-01-01",
+      "end": "2021-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Total revenue by product category",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Total Revenue By Product Category                                                       $         557,723        $             388,832    $            259,751                     43.4 %              49.7 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "259751",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  },
+  {
+    "observation_id": "ACMR2022-TOT-REV",
+    "dataset_id": "acmr_us_annual_disclosures",
+    "source_id": "acmr_us_2023",
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "388.832",
+    "relation": "eq",
+    "unit": "USD_million",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 66,
+      "original_label": "Total revenue by product category",
+      "excerpt": "Year ended December 31; columns 2023 / 2022 / 2021; (in thousands USD). Total Revenue By Product Category                                                       $         557,723        $             388,832    $            259,751                     43.4 %              49.7 %",
+      "status": "source_checked",
+      "reviewer": "cmp_expansion_independent_tsv_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "388832",
+      "reported_unit": "USD_thousand",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "0.001"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Original USD thousands normalized exactly to USD millions. Broad supplier/category context; no TSV revenue allocation.  Independently checked against local original; supplier claim remains uncorroborated."
+  }
+]

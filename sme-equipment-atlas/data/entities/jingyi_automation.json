@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "jingyi_automation",
+    "name": "Beijing Jingyi Automation Equipment",
+    "aliases": [
+      "北京京仪自动化装备技术股份有限公司",
+      "京仪装备",
+      "Beijing Jingyi Automation Equipment Co.,Ltd.",
+      "BAEC",
+      "688652",
+      "Beijing Jingyi Automation Equipment Technology Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "jingyi_automation_annual_2023",
+      "page": 7,
+      "excerpt": "公司的中文名称 北京京仪自动化装备技术股份有限公司 公司的中文简称 京仪装备 公司的外文名称 Beijing Jingyi Automation Equipment Co.,Ltd. 公司的外文名称缩写 BAEC 公司的法定代表人 李英龙 公司注册地址 北京市北京经济技术开发区凉水河二街8号院14号楼A座 公司注册地址的历史变更情况 不适用 公司办公地址 北京市北京经济技术开发区凉水河二街8号院14号楼A座 公司办公地址的邮政编码 100176 公司网址 http://www.baecltd.com.cn/",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "STAR Market issuer 688652. Business scope as the filing states it: 公司主要从事半导体专用设备的研发、生产和销售，主营产品包括半导体专用温控设备（Chiller）、半导体专用工艺废气处理设备（LocalScrubber）和晶圆传片设备（Sorter）. It does NOT make CMP, etch, deposition, lithography, metrology or test equipment. DISTINCT FROM the atlas entity jingyi_jingwei (北京晶亦精微科技股份有限公司 / 晶亦精微), a different Beijing company that makes chemical mechanical planarization tools; the two share only a transliterated first syllable. Stock listing confirmed on physical page 8: 人民币普通股（A股）, 上海证券交易所科创板, 京仪装备, 688652.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Beijing Jingyi Automation Equipment Technology Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "reporting_scope_id": "hgtech_laser_processing_and_intelligent_manufacturing_lines",
+    "label": "激光加工装备及智能制造产线",
+    "category_id": "multi_equipment",
+    "definition": "Issuer source-native broad product basket for laser-processing equipment and intelligent manufacturing lines across industrial, automotive, 3C, semiconductor and other applications. Revenue, cost, margin and growth cannot be allocated to wafer dicing, a named HG Laser model, SiC or HBM. Product revenue share denominator is HGTech consolidated company revenue."
+  },
+  {
+    "reporting_scope_id": "hgtech_parent_major_subsidiaries_employees",
+    "label": "报告期末母公司和主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "Year-end active employee total for HGTech parent and principal subsidiaries as explicitly labelled; not automatically every entity in the consolidated group."
+  },
+  {
+    "reporting_scope_id": "hgtech_picosecond_laser_wafer_dicing_equipment_family",
+    "category_id": "dicing_laser",
+    "label": "HG Laser picosecond laser wafer dicing equipment family (LUD3200 / LUD3210)",
+    "definition": "Vendor product page for 皮秒激光划片设备, described as 采用紫外皮秒激光器，针对硅和化合物半导体晶圆进行精密半切或全切. UV picosecond laser half-cut and full-cut dicing of silicon and compound-semiconductor wafers, i.e. laser dicing of device wafers. The scope is the two-model family (LUD3200, LUD3210) as the page presents it; the 产品优势 figures are stated for the family, not per model. Company product-page claim, not independently corroborated."
+  },
+  {
+    "reporting_scope_id": "hgtech_second_generation_wafer_laser_dicing_equipment",
+    "category_id": "dicing_laser",
+    "label": "HGTech second-generation domestic high-end wafer laser dicing equipment",
+    "definition": "第二代国产化高端晶圆激光切割设备, launched 2024 Q3 per the company news page, upgrading the first-generation 高端晶圆激光切割装备 introduced June 2023. The news page states 晶圆切割主要用于晶圆的划片、分割或开槽等微加工 in a 半导体封测工艺 context, so the tool is a wafer dicer. Company self-published claim; the 武汉2024年度十大科技创新产品 award and the 九峰山实验室 application are reported by the publisher and are not independently corroborated here."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_product_optoelectronic_devices",
+    "category_id": "all_businesses",
+    "label": "光电器件系列产品",
+    "definition": "Source 分产品 row for optical modules and devices. Outside semiconductor equipment."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_product_sensitive_components",
+    "category_id": "all_businesses",
+    "label": "敏感元器件",
+    "definition": "Source 分产品 row for sensors. Outside semiconductor equipment."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_product_lease_and_other",
+    "category_id": "all_businesses",
+    "label": "租赁及其他",
+    "definition": "Source 分产品 row for lease and other revenue."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_revenue_region_domestic",
+    "category_id": "all_businesses",
+    "label": "国内（营业收入构成）",
+    "definition": "Upper 营业收入构成 table row 国内; partitions total operating revenue with 国外. Differs from the lower 10% table row, which leaves out 租赁及其他."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_revenue_region_overseas",
+    "category_id": "all_businesses",
+    "label": "国外",
+    "definition": "Source 分地区 row 国外; prints one revenue figure in both tables."
+  },
+  {
+    "reporting_scope_id": "hgtech_reported_region_domestic_excluding_lease_and_other",
+    "category_id": "all_businesses",
+    "label": "国内（10%以上明细表）",
+    "definition": "Lower 占公司营业收入或营业利润 10%以上 table row 国内. H1 2026 is 210,931,097.81 below the upper-table row, exactly the 租赁及其他 amount, so the two rows have distinct perimeters."
+  },
+  {
+    "reporting_scope_id": "hgtech_wuhan_hg_laser_engineering_legal_entity",
+    "category_id": "multi_equipment",
+    "label": "武汉华工激光工程有限责任公司",
+    "definition": "Legal-entity row for HG Laser in the principal-subsidiaries table; 主要业务 is 激光加工系列成套设备. Broad industrial laser equipment, not wafer-laser or semiconductor revenue. Not additive to group revenue."
+  }
+]

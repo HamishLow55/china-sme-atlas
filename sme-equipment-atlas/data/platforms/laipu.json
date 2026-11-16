@@ -1,0 +1,421 @@
+[
+  {
+    "platform_id": "laipu_lic",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "named_product",
+    "name": "Laipu LIC (激光诱导结晶设备)",
+    "aliases": [
+      "激光诱导结晶设备",
+      "LIC",
+      "Laser-Induced Crystallization equipment"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 98,
+      "excerpt": "  公司激光热处理设备已在逻辑芯片、存储芯片、功率芯片（含第三代化合物\n半导体）以及图像芯片等领域实现产业化应用并销往国内多家领先晶圆厂，是相\n关厂商高端工艺的核心设备之一。\n\n                                            商业化\n产品名称      产品图片         技术特点       主要应用领域\n                                             阶段\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的激光诱导能量调控光学\n                 整形系统；采用自主定义并\n                                  国产先进架构\n激光诱导结            经深度优化的激光器；\n                                  先 进 制 程 3D 产业化\n晶设备              2、热处理工艺深度控制于\n                                  NAND Flash 应用\n（LIC）            数十纳米级别；\n                                  存储芯片\n                 3、具备诱导晶圆复杂表面\n                 形貌结构材料结晶的工艺\n                 能力；\n                 4、可以调节三维集成电路",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "For domestic advanced-architecture, advanced-process 3D NAND Flash memory chips (国产先进架构先进制程3D NAND Flash存储芯片), per the product table (p98/printed 1-1-97) -- a different, more specific application than the loose 'advanced memory' phrasing in the development-history narrative (p109). Developed 2021 for an anonymised 'Customer A', validated 2022 (year only; p109/printed 1-1-108). Delivered in batch to Customer A and used in volume production as of this prospectus (p150/printed 1-1-149: '目前已批量交付客户A并用于量产'). 'Customer A' is this filing's own anonymised, period-specific label, not a persistent cross-filing identity. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '激光诱导结晶设备（LIC）' confirmed contiguous on laipu_prospectus_2026 physical p98 using pdftotext WITHOUT -layout (whitespace-stripped); row/column pairing with application '国产先进架构先进制程3D NAND Flash存储芯片' and stage '产业化应用' confirmed WITH -layout, where the three fragments visually align in one row block -- textbook case of the narrow-table failure mode the protocol describes, resolved exactly as instructed. category_id thermal_laser_anneal correct (no children exist under this node, so no over-specification risk). reported_maturity chain (source_table_产业化应用 -> customer_validation 2022 -> volume_production, delivered to anonymised Customer A) independently confirmed verbatim on p109 and p150 (non-layout, stripped). 'Customer A' correctly flagged as this filing's own period-specific anonymised label, not a persistent identity.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 98,
+        "excerpt": "  公司激光热处理设备已在逻辑芯片、存储芯片、功率芯片（含第三代化合物\n半导体）以及图像芯片等领域实现产业化应用并销往国内多家领先晶圆厂，是相\n关厂商高端工艺的核心设备之一。\n\n                                            商业化\n产品名称      产品图片         技术特点       主要应用领域\n                                             阶段\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的激光诱导能量调控光学\n                 整形系统；采用自主定义并\n                                  国产先进架构\n激光诱导结            经深度优化的激光器；\n                                  先 进 制 程 3D 产业化\n晶设备              2、热处理工艺深度控制于\n                                  NAND Flash 应用\n（LIC）            数十纳米级别；\n                                  存储芯片\n                 3、具备诱导晶圆复杂表面\n                 形貌结构材料结晶的工艺\n                 能力；\n                 4、可以调节三维集成电路",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "Product table: application 国产先进架构先进制程3D NAND Flash存储芯片; stage 产业化应用.",
+        "printed_page": 97
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 109,
+        "excerpt": "  2021 年，公司面向客户 A 国产先进架构存储芯片制造工艺需求开发激光诱\n导结晶设备（LIC）并于次年验证通过；2022 年，公司面向客户 C 先进制程存储\n芯片制造工艺需求开发了激光诱导外延生长设备（LIEG）并于 2024 年验证通过；\n2023 年公司面向先进制程逻辑芯片制造工艺需求开发了超浅结激光退火设备\n（USJLA）并于 2024 年验证通过；2024 年公司面向先进制程逻辑芯片制造工艺\n需求开发了动态表面合金设备（DALA）并于 2025 年验证通过；2024 年、2026\n年公司面向三维集成电路制造需求分别开发了激光解键合设备、超薄键合晶圆激\n光全切工艺设备并发往国内领先晶圆厂验证；2026 年，公司面向半导体先进制\n程工艺需求开发了激光光罩修正工艺设备并发往国内领先晶圆厂验证；报告期\n内发行人另有 LOW-K 晶圆激光开槽工艺设备、激光隐形划片工艺设备、激光辅\n助键合工艺设备等多款前沿设备完成产业验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'2021年，公司面向客户A国产先进架构存储芯片制造工艺需求开发激光诱导结晶设备（LIC）并于次年验证通过' -- developed 2021 for Customer A, validated 2022 (year only, no month/day stated).",
+        "printed_page": 108
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 150,
+        "excerpt": "  1、激光热处理行业\n\n  半导体制造工艺持续迭代，激光热处理设备逐渐成为先进半导体制造的必要\n投资。公司是国内少数专注于半导体激光热处理设备的厂商，产品布局相对完整，\n激光热处理设备的量产应用场景覆盖广度在国产设备厂商中居于领先地位。目前，\n公司激光热处理设备产品已在存储芯片、逻辑芯片、功率器件和图像芯片产线量\n产应用。\n\n  公司原创性产品激光诱导结晶设备（LIC）可用于某国产先进架构先进制程\n存储芯片创新工艺区域结晶，目前已批量交付客户 A 并用于量产；公司的激光\n诱导外延生长设备（LIEG）用于先进制程存储芯片 SNC&BLC 结构中非晶硅的\n孔洞消除及修复，目前已交付客户 C 并用于量产；公司的逻辑晶圆超浅结激光\n退火设备（USJLA）已交付给客户 A、客户 B、客户 C、晶合集成以及其他境内\n领先的晶圆代工厂等客户，设备已完成产业化验证并用于量产或相关厂商的工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "volume_production",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'目前已批量交付客户A并用于量产' -- delivered in batch to Customer A, used in volume production; single-customer claim.",
+        "printed_page": 149
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_lieg",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "named_product",
+    "name": "Laipu LIEG (激光诱导外延生长设备)",
+    "aliases": [
+      "激光诱导外延生长设备",
+      "LIEG",
+      "Laser-Induced Epitaxial Growth equipment"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 99,
+      "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "For advanced-process DRAM memory chips (先进制程DRAM存储芯片); removes seams/voids in amorphous silicon within nanoscale high-aspect-ratio trenches/holes via laser melt-and-recrystallize, used on SNC and BLC structures -- storage-node and bit-line contacts (p99/printed 1-1-98). Developed 2022 for an anonymised 'Customer C', validated 2024 (year only; p109/printed 1-1-108). Delivered to Customer C and used in volume production as of this prospectus (p150/printed 1-1-149: '目前已交付客户C并用于量产') -- a SINGLE-CUSTOMER volume claim. 'Customer C' is this filing's own anonymised, period-specific label and is NOT a persistent cross-filing identity: do not equate it with Yitang's unrelated anonymised 'EE' counterparty, or with any named firm such as CXMT, without independent evidence -- the base_die_thermal analysis-layer step report's own speculation that Customer C might be CXMT (its draft, line 300) is analyst conjecture about this filing, not something the filing itself states. Per the issuer, relaying Customer C's own reply (p156/printed 1-1-155): Customer C says it buys this tool type only from Laipu, and that globally only Korea's DIT (supplies only SK hynix) and EO Technics (supplies only Samsung) make similar tools, neither selling in China -- a company statement relaying an unverified customer reply, not independently corroborated; recorded here qualitatively rather than as a numeric observation. The same page gives a spec comparison (temperature ripple <5C vs a named competitor's <10C, peak temp 1390C vs 1350C, power 13.8kW vs 28.8kW) attributed to Laipu's own USJLA tool against 'Veeco (LSA101/LSA201)', not LIEG; preserved here in notes only, since the Atlas has no process-parameter metric for it and minting one is out of this packet's scope. Customer C also bought Laipu's USJLA logic-anneal tools (p150), so Customer C's registered overall spend (customer_sales/customer_sales_share, p162) is NOT attributable to LIEG alone. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '激光诱导外延生长设备（LIEG）' and its row (application '先进制程DRAM存储芯片', stage '产业化应用') confirmed on p99 via -layout for row pairing and non-layout for contiguity, same method as LIC. category_id thermal_laser_anneal correct. Maturity chain (developed 2022, validated 2024, delivered to Customer C, volume_production) confirmed verbatim on p109/p150. The record is appropriately careful to flag that 'Customer C' is this filing's own anonymised label and explicitly declines to equate it with any named firm (e.g. CXMT) absent independent evidence -- correct discipline given the step-report speculation it cites is analyst conjecture, not a filing statement.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 99,
+        "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "Product table: application 先进制程DRAM存储芯片; stage 产业化应用; function described as void/seam removal in amorphous silicon via laser melt+recrystallization in nanoscale high-aspect-ratio trenches/holes.",
+        "printed_page": 98
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 109,
+        "excerpt": "  2021 年，公司面向客户 A 国产先进架构存储芯片制造工艺需求开发激光诱\n导结晶设备（LIC）并于次年验证通过；2022 年，公司面向客户 C 先进制程存储\n芯片制造工艺需求开发了激光诱导外延生长设备（LIEG）并于 2024 年验证通过；\n2023 年公司面向先进制程逻辑芯片制造工艺需求开发了超浅结激光退火设备\n（USJLA）并于 2024 年验证通过；2024 年公司面向先进制程逻辑芯片制造工艺\n需求开发了动态表面合金设备（DALA）并于 2025 年验证通过；2024 年、2026\n年公司面向三维集成电路制造需求分别开发了激光解键合设备、超薄键合晶圆激\n光全切工艺设备并发往国内领先晶圆厂验证；2026 年，公司面向半导体先进制\n程工艺需求开发了激光光罩修正工艺设备并发往国内领先晶圆厂验证；报告期\n内发行人另有 LOW-K 晶圆激光开槽工艺设备、激光隐形划片工艺设备、激光辅\n助键合工艺设备等多款前沿设备完成产业验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'2022年，公司面向客户C先进制程存储芯片制造工艺需求开发了激光诱导外延生长设备（LIEG）并于2024年验证通过' -- developed 2022 for Customer C, validated 2024 (year only).",
+        "printed_page": 108
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 150,
+        "excerpt": "  1、激光热处理行业\n\n  半导体制造工艺持续迭代，激光热处理设备逐渐成为先进半导体制造的必要\n投资。公司是国内少数专注于半导体激光热处理设备的厂商，产品布局相对完整，\n激光热处理设备的量产应用场景覆盖广度在国产设备厂商中居于领先地位。目前，\n公司激光热处理设备产品已在存储芯片、逻辑芯片、功率器件和图像芯片产线量\n产应用。\n\n  公司原创性产品激光诱导结晶设备（LIC）可用于某国产先进架构先进制程\n存储芯片创新工艺区域结晶，目前已批量交付客户 A 并用于量产；公司的激光\n诱导外延生长设备（LIEG）用于先进制程存储芯片 SNC&BLC 结构中非晶硅的\n孔洞消除及修复，目前已交付客户 C 并用于量产；公司的逻辑晶圆超浅结激光\n退火设备（USJLA）已交付给客户 A、客户 B、客户 C、晶合集成以及其他境内\n领先的晶圆代工厂等客户，设备已完成产业化验证并用于量产或相关厂商的工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "volume_production",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'目前已交付客户C并用于量产' -- delivered to Customer C, used in volume production, for SNC and BLC structures; single-customer claim.",
+        "printed_page": 149
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_usjla",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "named_product",
+    "name": "Laipu USJLA (超浅结激光退火设备)",
+    "aliases": [
+      "超浅结激光退火设备",
+      "逻辑晶圆超浅结激光退火设备",
+      "USJLA",
+      "Ultra-Shallow-Junction Laser Anneal equipment"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 99,
+      "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "For 28nm-and-below advanced-process logic chips (p99/printed 1-1-98): activates nanoscale ultra-shallow-junction dopants and repairs lattice damage from ultra-low-energy ion implant, with tightly controlled dopant diffusion depth. Developed 2023, validated 2024 (year only; p109/printed 1-1-108). Delivered to Customer A, Customer B, Customer C, 晶合集成 (Nexchip) and other leading domestic foundries; completed industrialization validation and used in volume production or [customer] process layers -- the sentence straddles the page break (p150-151/printed 1-1-149 to 1-1-150), cited to p150 where the row's own clause begins. Spec comparison on p156/printed 1-1-155 claims temperature ripple <5C vs a named competitor's <10C, peak temperature 1390C vs 1350C, operating power 13.8kW vs 28.8kW against 'Veeco (LSA101/LSA201)'; the issuer's own comparison, not independently corroborated, and not registered as a numeric observation (no fitting Atlas metric). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '超浅结激光退火设备（USJLA）' and its row (application '28nm及以下制程逻辑芯片', stage '产业化应用') confirmed on p99 via -layout/non-layout as above. category_id thermal_laser_anneal correct. Maturity 'delivered to Customer A/B/C/晶合集成(Nexchip)/other leading foundries...used in volume production' confirmed verbatim, correctly cited to p150 where the clause begins even though the sentence completes on p151 ('...相关厂商的工艺[导入]') -- confirmed this exact page-straddle by reading p151's opening text, which continues with '导入；' as the record implies.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 99,
+        "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "Product table: application 28nm及以下制程逻辑芯片; stage 产业化应用.",
+        "printed_page": 98
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 109,
+        "excerpt": "  2021 年，公司面向客户 A 国产先进架构存储芯片制造工艺需求开发激光诱\n导结晶设备（LIC）并于次年验证通过；2022 年，公司面向客户 C 先进制程存储\n芯片制造工艺需求开发了激光诱导外延生长设备（LIEG）并于 2024 年验证通过；\n2023 年公司面向先进制程逻辑芯片制造工艺需求开发了超浅结激光退火设备\n（USJLA）并于 2024 年验证通过；2024 年公司面向先进制程逻辑芯片制造工艺\n需求开发了动态表面合金设备（DALA）并于 2025 年验证通过；2024 年、2026\n年公司面向三维集成电路制造需求分别开发了激光解键合设备、超薄键合晶圆激\n光全切工艺设备并发往国内领先晶圆厂验证；2026 年，公司面向半导体先进制\n程工艺需求开发了激光光罩修正工艺设备并发往国内领先晶圆厂验证；报告期\n内发行人另有 LOW-K 晶圆激光开槽工艺设备、激光隐形划片工艺设备、激光辅\n助键合工艺设备等多款前沿设备完成产业验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'2023年公司面向先进制程逻辑芯片制造工艺需求开发了超浅结激光退火设备（USJLA）并于2024年验证通过' -- developed 2023, validated 2024 (year only).",
+        "printed_page": 108
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 150,
+        "excerpt": "  1、激光热处理行业\n\n  半导体制造工艺持续迭代，激光热处理设备逐渐成为先进半导体制造的必要\n投资。公司是国内少数专注于半导体激光热处理设备的厂商，产品布局相对完整，\n激光热处理设备的量产应用场景覆盖广度在国产设备厂商中居于领先地位。目前，\n公司激光热处理设备产品已在存储芯片、逻辑芯片、功率器件和图像芯片产线量\n产应用。\n\n  公司原创性产品激光诱导结晶设备（LIC）可用于某国产先进架构先进制程\n存储芯片创新工艺区域结晶，目前已批量交付客户 A 并用于量产；公司的激光\n诱导外延生长设备（LIEG）用于先进制程存储芯片 SNC&BLC 结构中非晶硅的\n孔洞消除及修复，目前已交付客户 C 并用于量产；公司的逻辑晶圆超浅结激光\n退火设备（USJLA）已交付给客户 A、客户 B、客户 C、晶合集成以及其他境内\n领先的晶圆代工厂等客户，设备已完成产业化验证并用于量产或相关厂商的工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "volume_production",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'公司的逻辑晶圆超浅结激光退火设备（USJLA）已交付给客户A、客户B、客户C、晶合集成以及其他境内领先的晶圆代工厂等客户，设备已完成产业化验证并用于量产或相关厂商的工艺[导入]' (sentence continues onto p151/printed 1-1-150).",
+        "printed_page": 149
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_dala",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "named_product",
+    "name": "Laipu DALA (动态表面合金设备)",
+    "aliases": [
+      "动态表面合金设备",
+      "逻辑晶圆动态表面合金设备",
+      "DALA",
+      "Dynamic Alloying/Surface Anneal equipment"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 99,
+      "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "For 28nm-and-below logic chips (p99/printed 1-1-98): continuous-wave IR laser with a specially optimized energy band, high-uniformity chuck temperature control and dual-chamber oxygen control, forms controlled-composition, low-contact-resistance metal-silicide ohmic contacts on ultra-thin metal-silicon films. Developed 2024, validated 2025 (year only; p109/printed 1-1-108). Delivered to Customer A and 晶合集成 (Nexchip); equipment has passed validation (p151/printed 1-1-150: '已交付客户A、晶合集成，设备已通过验证'). Spec comparison on p156/printed 1-1-155 claims wafer in-resistance uniformity <=3.5% and dwell time 0.2-0.8ms, matching Applied Materials' Vantage Astra DSA per the issuer's own comparison; not independently corroborated and not registered numerically (no fitting metric). A separate ongoing R&D project (12寸逻辑晶圆动态表面退火设备与工艺, budget CNY 2,560万, p177/printed 1-1-176, stage 产业化应用阶段) continues improving this already-commercialized platform; not registered as an observation since the step report's gap list names only the LIEG and whole-wafer single-step projects. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '动态表面合金设备（DALA）' and its row (application '28nm及以下制程逻辑芯片', stage '产业化应用') confirmed on p99 via -layout/non-layout. category_id thermal_laser_anneal correct. Maturity 'delivered to Customer A, 晶合集成, passed validation' (weaker than LIC/LIEG/USJLA's 'volume_production', correctly NOT inflated to match them) confirmed verbatim on p151. The ongoing R&D-table entry for a further 12寸逻辑晶圆动态表面退火设备 project is correctly noted as improving this already-commercialised platform rather than registered as a separate observation.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 99,
+        "excerpt": "                                            商业化\n产品名称      产品图片         技术特点      主要应用领域\n                                             阶段\n                 复合材料的物理及电学性\n                 能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，基于全自主研\n                 发的光学系统开发，二维大\n                 尺寸平顶光斑能量分布均\n                 匀、尺寸自动调整、边缘陡\n                 直；采用自主定义并经深度\n激光诱导外                           先 进 制 程\n                 优化的激光器；                    产业化\n延生长设备                           DRAM 存储芯\n                 2、通过诱发纳米级大深宽               应用\n（LIEG）                          片\n                 比沟槽或孔洞内非晶硅材\n                 料熔融并再结晶的方式消\n                 除空缝/空洞；\n                 3、可以增强三维集成电路\n                 沟槽或孔洞的导电能力，优\n                 化芯片频率、功耗等性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，搭载自主研发\n                 的二维平顶光学整形系统；\n                 采用自主定义并经深度优\n                 化的激光器；\n超浅结激光\n                 2、激活纳米级别深度的超 28nm 及 以 下    产业化\n 退火设备\n                 浅结杂质、修复超低能离子 制程逻辑芯片        应用\n（USJLA）\n                 注入造成的晶格损伤；\n                 3、严格控制杂质扩散深度，\n                 高效调控导电沟道载流子\n                 表面迁移率，显著提升导电\n                 性能。\n                 1、12 英寸先进制程集成电\n                 路量产设备，采用自主定\n                 义并经深度优化的红外连\n                 续激光器，并经特殊能域\n                 优化；\n                 2、搭载高均匀性载盘控温\n动态表面             技术和高一致性的双腔室\n                                28nm 及以下制   产业化\n合金设备             匹配技术，保持优异的腔\n                                程逻辑芯片       应用\n（DALA）           室控氧水平；\n                 3、快速精准处理先进制程\n                 晶圆超薄金属-硅体系，形\n                 成组分可控、界面光滑的\n                 金属硅化物薄膜，并严格\n                 控制缺陷，形成低接触电\n                 阻率的欧姆接触功能。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "Product table: application 28nm及以下制程逻辑芯片; stage 产业化应用.",
+        "printed_page": 98
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 109,
+        "excerpt": "  2021 年，公司面向客户 A 国产先进架构存储芯片制造工艺需求开发激光诱\n导结晶设备（LIC）并于次年验证通过；2022 年，公司面向客户 C 先进制程存储\n芯片制造工艺需求开发了激光诱导外延生长设备（LIEG）并于 2024 年验证通过；\n2023 年公司面向先进制程逻辑芯片制造工艺需求开发了超浅结激光退火设备\n（USJLA）并于 2024 年验证通过；2024 年公司面向先进制程逻辑芯片制造工艺\n需求开发了动态表面合金设备（DALA）并于 2025 年验证通过；2024 年、2026\n年公司面向三维集成电路制造需求分别开发了激光解键合设备、超薄键合晶圆激\n光全切工艺设备并发往国内领先晶圆厂验证；2026 年，公司面向半导体先进制\n程工艺需求开发了激光光罩修正工艺设备并发往国内领先晶圆厂验证；报告期\n内发行人另有 LOW-K 晶圆激光开槽工艺设备、激光隐形划片工艺设备、激光辅\n助键合工艺设备等多款前沿设备完成产业验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'2024年公司面向先进制程逻辑芯片制造工艺需求开发了动态表面合金设备（DALA）并于2025年验证通过' -- developed 2024, validated 2025 (year only).",
+        "printed_page": 108
+      },
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 151,
+        "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'公司的逻辑晶圆动态表面合金设备（DALA）已交付客户A、晶合集成，设备已通过验证' -- delivered to Customer A and 晶合集成, passed validation (a weaker maturity claim than LIC/LIEG/USJLA's 'used in volume production').",
+        "printed_page": 150
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_igbt_laser_anneal",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "source_defined_family",
+    "name": "Laipu silicon-based IGBT wafer laser-anneal equipment (硅基IGBT晶圆激光退火设备)",
+    "aliases": [
+      "硅基IGBT晶圆激光退火设备"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 151,
+      "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "mass_production_sales_reported",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "No model acronym given; a source-defined family for power-device (IGBT) laser annealing. Delivered in batch to 中车时代 (CRRC Zhuzhou Era Electric), an anonymised 'Customer E3', 华润微 (CR Micro) and 士兰微 (SiLan Microelectronics); per the issuer, 均已稳定量产 (all in stable mass production) as of this prospectus (p151/printed 1-1-150). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '硅基IGBT晶圆激光退火设备已批量交付中车时代、客户E3、华润微、士兰微等国内龙头企业...且均已稳定量产' confirmed verbatim on laipu_prospectus_2026 physical p151 (non-layout, stripped; footer confirms printed page 150, matching the record's stated offset). category_id thermal_laser_anneal correct. reported_maturity 'mass_production_sales_reported' matches the issuer's own words ('均已稳定量产') exactly, not an upgrade.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 151,
+        "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mass_production_sales_reported",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'公司的硅基IGBT晶圆激光退火设备已批量交付中车时代、客户E3、华润微、士兰微等国内龙头企业...且均已稳定量产'.",
+        "printed_page": 150
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_sic_laser_anneal",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "source_defined_family",
+    "name": "Laipu SiC wafer laser-anneal equipment (SiC晶圆激光退火设备)",
+    "aliases": [
+      "SiC晶圆激光退火设备"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 151,
+      "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "mass_production_sales_reported",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "No model acronym given; a source-defined family for power-device (SiC) laser annealing. Delivered in batch to 三安半导体 (Sanan Semiconductor), 中车时代, 瞻芯电子/上海瞻芯 (a named SiC fab, not anonymised) and 士兰微; per the issuer, 均已稳定量产 as of this prospectus (p151/printed 1-1-150). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt 'SiC晶圆激光退火设备已批量交付三安半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产' confirmed verbatim on physical p151 (non-layout, stripped). category_id thermal_laser_anneal correct. reported_maturity matches issuer wording exactly, no inflation. Correctly notes 瞻芯电子/上海瞻芯 is a named (not anonymised) counterparty, distinguishing it from the Customer-letter labels used for LIC/LIEG/USJLA/DALA.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 151,
+        "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mass_production_sales_reported",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'SiC晶圆激光退火设备已批量交付三安半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产'.",
+        "printed_page": 150
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_bsi_ccd_anneal",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "source_defined_family",
+    "name": "Laipu BSI-CCD wafer shallow-junction anneal equipment (BSI-CCD晶圆浅结退火设备)",
+    "aliases": [
+      "BSI-CCD晶圆浅结退火设备"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 151,
+      "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "delivered_to_customer",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "No model acronym given. Delivered to anonymised customers 'Customer D4' and 'Customer F1', described by the issuer as domestic aerospace image-sensor production units, said to break a foreign technology blockade in that field (p151/printed 1-1-150: '交付我国航天领域图像传感器生产单位客户D4、客户F1，打破国外对我国航天领域的技术封锁'). Issuer framing; not independently corroborated. 'Customer D4'/'Customer F1' are this filing's own anonymised labels. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '公司的BSI-CCD晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户D4、客户F1，打破国外对我国航天领域的技术封锁' confirmed verbatim on physical p151 (non-layout, stripped). category_id thermal_laser_anneal correct. reported_maturity 'delivered_to_customer' is appropriately the weakest of the five Laipu family claims (no '验证通过'/'量产' word given for this one), correctly not upgraded to match the stronger IGBT/SiC claims on the same page, and the 'breaks a foreign blockade' framing is correctly flagged as issuer framing, not independently corroborated.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 151,
+        "excerpt": "导入；公司的逻辑晶圆动态表面合金设备（DALA）已交付客户 A、晶合集成，\n设备已通过验证；公司的硅基 IGBT 晶圆激光退火设备已批量交付中车时代、客\n户 E3、华润微、士兰微等国内龙头企业，SiC 晶圆激光退火设备已批量交付三安\n半导体、中车时代、上海瞻芯、士兰微等国内龙头企业，且均已稳定量产；公司\n的 BSI-CCD 晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户 D4、\n客户 F1，打破国外对我国航天领域的技术封锁。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_customer",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "'公司的BSI-CCD晶圆浅结退火设备交付我国航天领域图像传感器生产单位客户D4、客户F1，打破国外对我国航天领域的技术封锁'.",
+        "printed_page": 150
+      }
+    ]
+  },
+  {
+    "platform_id": "laipu_wafer_scale_laser_anneal",
+    "entity_id": "laipu",
+    "category_id": "thermal_laser_anneal",
+    "record_kind": "named_product",
+    "name": "Laipu whole-wafer single-step laser-anneal equipment (12寸晶圆整片单步激光退火设备)",
+    "aliases": [
+      "12寸晶圆整片单步激光退火设备",
+      "整片单步激光退火设备"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 177,
+      "excerpt": "   （三）正在从事的主要研发项目\n\n   截至本招股说明书签署日，公司正在从事的主要研发项目的基本情况如下：\n\n                                                          项目预算\n    项目名称              研究成果及应用场景              项目进展\n                                                          （万元）\n                   应用于3D NAND Flash存储芯\n12 寸晶圆激光诱导结\n                   片 制 造 的 激 光 诱 导 结 晶 设 备 产业化应用阶段          2,510.00\n晶设备与工艺\n                   （LIC）。\n12 寸 DRAM 晶圆激      应用于先进制程DRAM存储芯\n光诱导外延生长设备          片制造的激光诱导外延生长设 产业化应用阶段                    3,200.00\n与工艺                备（LIEG）。\n                   应用于先进制程逻辑芯片制造\n12 寸逻辑晶圆 CO2 激\n                   的超浅结激光退火设备                在研            16,340.00\n光退火设备与工艺                （USJLA）。\n新一代晶圆激光开槽          应用于先进封装、精密电子等领\n                                             在研              7,823.00\n划片设备               域的激光切割划片设备等。\n3D-IC 异构集成激光\n                   应用于3D-IC的激光解键合设\n设备与工艺                备、激光辅助键合设备（LAB）           在研             4,880.00\n                   等。\n12 寸逻辑晶圆动态表        应用于先进制程逻辑芯片制造\n                                           产业化应用阶段          2,560.00\n面退火设备与工艺           的动态表面合金设备（DALA）。\n                   应用于集成电路（含逻辑芯片、\n12 寸晶圆整片单步激\n                   存储芯片）制造的整片单步激光            在研              2,000.00\n光退火设备研发                   退火设备。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "source_table_在研",
+    "maturity_as_reported_in": "laipu_prospectus_2026",
+    "notes": "Not yet a commercialized product -- absent from the p98-99 商业化阶段 product table. An ongoing R&D project (在研) for integrated circuits including logic and memory chips, budget CNY 2,000万 (p177/printed 1-1-176). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/row '12寸晶圆整片单步激光退火设备研发' paired with stage '在研' and budget 2,000.00 confirmed via pdftotext -layout on physical p177 (printed p176, matching stated offset) -- the row sits cleanly in its own visual block, distinct from the LIC/LIEG rows above it in the same table. category_id thermal_laser_anneal correct. reported_maturity 'source_table_在研' is correctly conservative: the record explicitly notes this product is absent from the commercialised (商业化阶段) product table on pp.98-99 and is still an R&D line item, not inflated to match its already-commercialised siblings.",
+    "maturity_history": [
+      {
+        "source_id": "laipu_prospectus_2026",
+        "page": 177,
+        "excerpt": "   （三）正在从事的主要研发项目\n\n   截至本招股说明书签署日，公司正在从事的主要研发项目的基本情况如下：\n\n                                                          项目预算\n    项目名称              研究成果及应用场景              项目进展\n                                                          （万元）\n                   应用于3D NAND Flash存储芯\n12 寸晶圆激光诱导结\n                   片 制 造 的 激 光 诱 导 结 晶 设 备 产业化应用阶段          2,510.00\n晶设备与工艺\n                   （LIC）。\n12 寸 DRAM 晶圆激      应用于先进制程DRAM存储芯\n光诱导外延生长设备          片制造的激光诱导外延生长设 产业化应用阶段                    3,200.00\n与工艺                备（LIEG）。\n                   应用于先进制程逻辑芯片制造\n12 寸逻辑晶圆 CO2 激\n                   的超浅结激光退火设备                在研            16,340.00\n光退火设备与工艺                （USJLA）。\n新一代晶圆激光开槽          应用于先进封装、精密电子等领\n                                             在研              7,823.00\n划片设备               域的激光切割划片设备等。\n3D-IC 异构集成激光\n                   应用于3D-IC的激光解键合设\n设备与工艺                备、激光辅助键合设备（LAB）           在研             4,880.00\n                   等。\n12 寸逻辑晶圆动态表        应用于先进制程逻辑芯片制造\n                                           产业化应用阶段          2,560.00\n面退火设备与工艺           的动态表面合金设备（DALA）。\n                   应用于集成电路（含逻辑芯片、\n12 寸晶圆整片单步激\n                   存储芯片）制造的整片单步激光            在研              2,000.00\n光退火设备研发                   退火设备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_在研",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "R&D project table: '12寸晶圆整片单步激光退火设备研发...应用于集成电路（含逻辑芯片、存储芯片）制造的整片单步激光退火设备...在研 2,000.00'.",
+        "printed_page": 176
+      }
+    ]
+  }
+]

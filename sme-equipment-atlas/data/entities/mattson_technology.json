@@ -1,0 +1,13 @@
+[
+  {
+    "entity_id": "mattson_technology",
+    "name": "Mattson Technology",
+    "aliases": [
+      "Mattson Technology, Inc.",
+      "MTI"
+    ],
+    "parent_entity_id": "yitang_semiconductor",
+    "notes": "Direct 100% Yitang holding in H1 2026 subsidiary table; this establishes current control/consolidation only, not a specific technology origin.\n\nentity_class is china_supply_base by GROUP attribution: this company's results consolidate into a Chinese-controlled parent, and the atlas counts it on that side of the indigenisation comparison. The field says which side of that comparison the entity sits on; it is not a statement about where the company is domiciled or where its technology originated.",
+    "entity_class": "china_supply_base"
+  }
+]

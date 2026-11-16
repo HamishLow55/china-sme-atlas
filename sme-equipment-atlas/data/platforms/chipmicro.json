@@ -1,0 +1,248 @@
+[
+  {
+    "platform_id": "chipmicro_wlp_2000",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_packaging",
+    "record_kind": "named_model",
+    "name": "WLP 2000",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CM-H126-P24-WLP2000",
+      "source_id": "chipmicro_h1_2026",
+      "page": 24,
+      "excerpt": "公司 WLP 2000 晶圆级直写光刻设备（最小线宽 2μm，套刻精度±0.6μm）支持 200mm/ 300mm 晶圆以及 310mm*310mm 方形基板高精度曝光，已批量供货国内头部封测企业，通过头部厂商 CoWoS-L 产线可靠性验证，实现国内直写设备首次大规模导入高端 AI 芯片封装产线；获得重复批量订单。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "batch_supplied_cowos_l_line_reliability_validated_repeat_batch_orders_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "Wafer-level direct-write lithography. Stage words are the issuer's: batch supply to a leading domestic OSAT, reliability validation on a leading maker's CoWoS-L line, repeat batch orders. Neither customer is named on this page; p27 lists 通富微电、甬矽电子、华天科技、长电集团 as advanced-packaging customers generally, and that list is not tied to this tool. HBM appears only as a demand driver for CoWoS-L capacity (see the process_relevance link). Bumping is listed as a process strength for the WLP series on p20; the filing never says 微凸块 and never places the tool on an HBM line.",
+    "maturity_history": [
+      {
+        "claim_id": "CM-H126-P24-WLP2000-STAGE",
+        "source_id": "chipmicro_h1_2026",
+        "page": 24,
+        "excerpt": "公司 WLP 2000 晶圆级直写光刻设备（最小线宽 2μm，套刻精度±0.6μm）支持 200mm/ 300mm 晶圆以及 310mm*310mm 方形基板高精度曝光，已批量供货国内头部封测企业，通过头部厂商 CoWoS-L 产线可靠性验证，实现国内直写设备首次大规模导入高端 AI 芯片封装产线；获得重复批量订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_supplied_cowos_l_line_reliability_validated_repeat_batch_orders",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Spec printed with the claim: minimum line width 2μm, overlay ±0.6μm."
+      },
+      {
+        "claim_id": "CM-H126-P29-WLP2000-REPEAT",
+        "source_id": "chipmicro_h1_2026",
+        "page": 29,
+        "excerpt": "报告期内公司晶圆级直写光刻设备 WLP 2000 获得中道头部客户的重复订单并出货，目前 WLP 系列在先进封装市场领域已在多个头部客户验收量产中",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "repeat_orders_shipped_wlp_series_in_acceptance_and_volume_at_multiple_leading_customers",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "p29 pins repeat orders and shipment to WLP 2000 and the acceptance-and-volume wording to the WLP series as a whole."
+      }
+    ]
+  },
+  {
+    "platform_id": "chipmicro_wlp_2000p",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_packaging",
+    "record_kind": "named_model",
+    "name": "WLP 2000P",
+    "aliases": [
+      "WLP2000P"
+    ],
+    "evidence": {
+      "claim_id": "CM-H126-P18-WLP2000P",
+      "source_id": "chipmicro_h1_2026",
+      "page": 18,
+      "excerpt": "公司自主研发的晶圆级光刻设备 WLP2000P，最小解析半径为 2μm，目前已成功导入多家先进封装厂商生产线，完成多项工艺验证，逐步实现规模化量产，推动产业技术升级和良率提升",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "imported_into_multiple_lines_process_validations_complete_gradually_volume_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "Alias WLP2000P is the spelling on p18; WLP 2000P is the spelling in the product table on p20. Minimum resolution radius 2μm. Customers not named.",
+    "maturity_history": [
+      {
+        "claim_id": "CM-H126-P18-WLP2000P-STAGE",
+        "source_id": "chipmicro_h1_2026",
+        "page": 18,
+        "excerpt": "公司自主研发的晶圆级光刻设备 WLP2000P，最小解析半径为 2μm，目前已成功导入多家先进封装厂商生产线，完成多项工艺验证，逐步实现规模化量产，推动产业技术升级和良率提升",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "imported_into_multiple_lines_process_validations_complete_gradually_volume",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "逐步实现规模化量产 is a progressive claim, not full volume."
+      }
+    ]
+  },
+  {
+    "platform_id": "chipmicro_wlp_3000",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_packaging",
+    "record_kind": "named_model",
+    "name": "WLP 3000",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CM-H126-P20-WLP3000",
+      "source_id": "chipmicro_h1_2026",
+      "page": 20,
+      "excerpt": "WLP 系列；产品型号 WLP 2000、WLP 2000P、WLP 3000；主要应用领域：用于 12inch/8inch 集成电路先进封装领域，包括 Flip Chip、Fan-In WLP、Fan-Out WLP 和 2.5D/3D 等先进封装形式。该系统采用多光学引擎并行扫描技术，具备自动套刻、背部对准、智能纠偏、WEE/WEP 功能，在 RDL、Bumping、TSV 及 SOW 等制程工艺中优势明显。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "Listed in the WLP series row only; no stage, customer or spec is printed for this model.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "chipmicro_plp_2000",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_packaging",
+    "record_kind": "named_model",
+    "name": "PLP 2000",
+    "aliases": [
+      "PLP2000"
+    ],
+    "evidence": {
+      "claim_id": "CM-H126-P24-PLP2000",
+      "source_id": "chipmicro_h1_2026",
+      "page": 24,
+      "excerpt": "公司自主研发的国内首台 510mm×515mm 板级封装直写光刻设备 PLP 2000 成功获得先进封装领域重要客户订单，标志着公司直写光刻技术由晶圆级向板级应用延伸取得重要里程碑突破。PLP 2000 专为大尺寸板级封装应用场景开发，最大可支持 600 mm×600mm 板级加工尺寸，能够满足 CoPoS、玻璃基板、FOPLP 等先进封装工艺对 2μm 量产解析能力的要求",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "customer_order_won_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "Panel-level direct-write lithography, 510mm×515mm as the first domestic tool, up to 600mm×600mm. An order, not a delivery or qualification. Alias PLP2000 is the spelling on pp18 and 29.",
+    "maturity_history": [
+      {
+        "claim_id": "CM-H126-P24-PLP2000-ORDER",
+        "source_id": "chipmicro_h1_2026",
+        "page": 24,
+        "excerpt": "公司自主研发的国内首台 510mm×515mm 板级封装直写光刻设备 PLP 2000 成功获得先进封装领域重要客户订单，标志着公司直写光刻技术由晶圆级向板级应用延伸取得重要里程碑突破。PLP 2000 专为大尺寸板级封装应用场景开发，最大可支持 600 mm×600mm 板级加工尺寸，能够满足 CoPoS、玻璃基板、FOPLP 等先进封装工艺对 2μm 量产解析能力的要求",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_order_won",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Order from an unnamed 先进封装领域重要客户."
+      },
+      {
+        "claim_id": "CM-H126-P29-PLP2000-ORDER",
+        "source_id": "chipmicro_h1_2026",
+        "page": 29,
+        "excerpt": "面板级设备 PLP2000 获国内头部板级封装客户订单",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "order_from_domestic_leading_panel_level_packaging_customer",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Same event in the R&D section."
+      }
+    ]
+  },
+  {
+    "platform_id": "chipmicro_ldw_series",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_mask_writing",
+    "record_kind": "source_native_family",
+    "name": "LDW 系列 (LDW 500 / LDW 350)",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CM-H126-P29-LDW",
+      "source_id": "chipmicro_h1_2026",
+      "page": 29,
+      "excerpt": "LDW 系列满足 90 纳米制程节点的掩膜板制版设备推出，满足先进制程节点，技术参数行业领先",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "new_90nm_node_mask_writer_launched_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "Direct-write mask-making tool, listed on p20 as 最小线宽优于 350nm with a 180nm node mask-making capability; p29 adds a 90nm node launch and p24 puts 90–65nm work in development. Laser direct write, not an electron-beam mask writer; the category note on this node says no held source established a mask writer, so that note needs updating at integration.",
+    "maturity_history": [
+      {
+        "claim_id": "CM-H126-P24-LDW-RD",
+        "source_id": "chipmicro_h1_2026",
+        "page": 24,
+        "excerpt": "掩膜版设备：适配高端精密微电子制造的量产设备稳定供货，持续推进 90–65nm 高精度直写设备技术研发与升级迭代",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_supply_of_volume_tools_90_65nm_in_development",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "p26 also lists 65nm 掩膜版制版配套光刻设备 as continuing R&D."
+      }
+    ]
+  },
+  {
+    "platform_id": "chipmicro_mas_6p",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_direct_imaging_pcb",
+    "record_kind": "named_model",
+    "name": "MAS 6P",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CM-H126-P24-MAS6P",
+      "source_id": "chipmicro_h1_2026",
+      "page": 24,
+      "excerpt": "公司 MAS 6P 载板专用 LDI 设备具备 6/6μm 解析精度，生产效率较海外竞品提升超 50%，整机良率与运行性能对标国际一线，是国内厂商 mSAP 制程核心国产设备，正批量交付本土头部载板企业",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "batch_delivery_to_domestic_leading_substrate_makers_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "IC-substrate direct imaging. Not wafer lithography. Scope chipmicro_mas_6p_ic_substrate_ldi already exists; this adds the platform record.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "chipmicro_mas_2",
+    "entity_id": "chipmicro",
+    "category_id": "lithography_direct_imaging_pcb",
+    "record_kind": "named_model",
+    "name": "MAS 2",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "CM-H126-P24-MAS2",
+      "source_id": "chipmicro_h1_2026",
+      "page": 24,
+      "excerpt": "报告期内，公司全新推出 MAS 2 设备，具备 2/2μm 极致 L/S 图形曝光精度，面向高阶 IC 载板、面板级封装场景打造",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "newly_launched_h1_2026",
+    "maturity_as_reported_in": "chipmicro_h1_2026",
+    "notes": "New launch in the period. Listed alongside MAS 4/6/6P/8/10 as an IC-substrate solution on p21.",
+    "maturity_history": []
+  }
+]

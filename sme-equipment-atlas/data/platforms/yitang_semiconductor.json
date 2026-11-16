@@ -1,0 +1,884 @@
+[
+  {
+    "platform_id": "yitang_source_family_dry_strip",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "strip_dry",
+    "record_kind": "source_defined_family",
+    "name": "Source-defined Yitang dry-strip equipment family",
+    "aliases": [
+      "干法去胶设备"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 90,
+      "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_manufacturers_production_line_use_large_scale_installation_no_count",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 90,
+        "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_manufacturers_production_line_use_large_scale_installation_no_count",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source names broad equipment families only; no installation quantity, named-model maturity or manufacturing-site allocation inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_source_family_rtp",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "thermal_rtp",
+    "record_kind": "source_defined_family",
+    "name": "Source-defined Yitang rapid thermal processing equipment family",
+    "aliases": [
+      "快速热处理设备"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 90,
+      "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_manufacturers_production_line_use_large_scale_installation_no_count",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 90,
+        "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_manufacturers_production_line_use_large_scale_installation_no_count",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source names broad equipment families only; no installation quantity, named-model maturity or manufacturing-site allocation inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_source_family_dry_etch_ipo",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_dry",
+    "record_kind": "source_defined_family",
+    "name": "Source-defined IPO dry-etch equipment family",
+    "aliases": [
+      "干法刻蚀设备"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 90,
+      "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_manufacturers_production_line_use_ongoing_market_expansion",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 90,
+        "excerpt": "北京屹唐半导体科技股份有限公司                           招股说明书\n\n\n                    第五节 业务与技术\n\n一、公司主营业务、主要产品或服务情况\n\n     （一）公司主营业务情况\n\n     屹唐半导体是一家总部位于中国，以中国、美国、德国三地作为研发、制造\n基地，面向全球经营的半导体设备公司，主要从事集成电路制造过程中所需晶圆\n加工设备的研发、生产和销售，面向全球集成电路制造厂商提供包括干法去胶设\n备、快速热处理设备、干法刻蚀设备在内的集成电路制造设备及配套工艺解决方\n案。\n     公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理\n能力和更高生产效率的集成电路设备。截至 2025 年 2 月 11 日，公司拥有发明专\n利 445 项、实用新型专利 1 项，科研成果在全球主要半导体生产地区申请专利保\n护。公司主要设备相关技术达到国际领先水平，报告期内，干法去胶设备、快速\n热处理设备已应用在多家国际知名集成电路制造商生产线上并实现大规模装机，\n干法刻蚀设备已应用在多家国际知名集成电路制造商生产线上并正在持续进行\n市场开拓。\n     公司在集成电路制造设备行业发展经营多年，是具备全球知名度和认可度的\n重要供应商，主要产品具有国际竞争力。公司的产品已被多家全球领先的存储芯\n片制造厂商、逻辑电路制造厂商等集成电路制造厂商所采用，服务的客户全面覆\n盖了全球前十大芯片制造商和国内行业领先芯片制造商。截至 2024 年末，公司\n产品全球累计装机数量已超过 4,800 台并在相应细分领域处于全球领先地位。根\n据 Gartner 统计数据，2023 年公司干法去胶设备及快速热处理设备的市场占有率\n均位居全球第二。\n\n     （二）公司主要产品介绍\n\n     公司主要为集成电路制造企业提供干法去胶设备、快速热处理设备、干法刻\n蚀设备，并提供备品备件及相关服务。\n     报告期内，公司营业收入分类构成如下表所示：\n                                          单位：万元\n项目        2024 年度               2023 年度   2022 年度\n\n\n                       1-1-89",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_manufacturers_production_line_use_ongoing_market_expansion",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source names broad equipment families only; no installation quantity, named-model maturity or manufacturing-site allocation inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_source_family_etch_plasma_fy2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_and_plasma_surface_treatment",
+    "record_kind": "source_defined_family",
+    "name": "Source-defined FY2025 dry etch and plasma surface-treatment family",
+    "aliases": [
+      "干法刻蚀及等离子体表面处理设备"
+    ],
+    "evidence": {
+      "source_id": "yitang_annual_2025",
+      "page": 13,
+      "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n                    第三节     管理层讨论与分析\n一、报告期内公司所从事的主要业务、经营模式、行业情况说明\n\n(一) 主要业务、主要产品或服务情况\n  1、主要业务\n  公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n  公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n  2、主要产品\n  公司目前主要产品情况如下：\n    产品系列                   图示                  应用领域\n                           干法去胶设备\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n\nHydrilis® HMR 高选\n                                         主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                         中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                          快速热处理设备\n\n\n                             13 / 228",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_defined_family_no_model_count_distinct_from_ipo_dry_etch",
+    "maturity_as_reported_in": "yitang_annual_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 13,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n                    第三节     管理层讨论与分析\n一、报告期内公司所从事的主要业务、经营模式、行业情况说明\n\n(一) 主要业务、主要产品或服务情况\n  1、主要业务\n  公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n  公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n  2、主要产品\n  公司目前主要产品情况如下：\n    产品系列                   图示                  应用领域\n                           干法去胶设备\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n\nHydrilis® HMR 高选\n                                         主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                         中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                          快速热处理设备\n\n\n                             13 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_defined_family_no_model_count_distinct_from_ipo_dry_etch",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_suprema_dry_strip",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "strip_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "Suprema® dry-strip series",
+    "aliases": [
+      "Suprema"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 91,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mature_product_series",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 91,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mature_product_series",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 13,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n                    第三节     管理层讨论与分析\n一、报告期内公司所从事的主要业务、经营模式、行业情况说明\n\n(一) 主要业务、主要产品或服务情况\n  1、主要业务\n  公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n  公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n  2、主要产品\n  公司目前主要产品情况如下：\n    产品系列                   图示                  应用领域\n                           干法去胶设备\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n\nHydrilis® HMR 高选\n                                         主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                         中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                          快速热处理设备\n\n\n                             13 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 10,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n业以往周期性的收入波动规律。根据 WSTS 预测数据，2026 年，全球半导体市场规模将由 2025\n年的 7,917 亿美元大幅增长至 1.655 万亿美元，同比增长 108%。\n  受益于全球半导体需求的高速增长，全球晶圆厂进入加速扩产阶段。根据 SEMI 预测数据，\n2024‑2028 年全球晶圆厂产能复合年均增长率约为 7.0%；中国大陆晶圆产能同期复合增速将达\n8.1%，扩张速度高于全球平均。伴随产线持续落地，国内晶圆产能全球占比将由 2020 年的 20%\n提升至 2030 年的 32%以上。\n    半导体设备是集成电路制造的核心载体，其技术水平直接决定了芯片的制程能力、性能指标\n和生产良率。随着微观器件越做越小，结构越做越复杂，半导体设备的极端重要性更加突显出来。\n全球的产能扩张同时叠加制程缩小和技术演进推动的半导体设备工艺能力和用量的增长，半导体\n设备正处于市场规模快速增长与技术迭代加速的关键发展阶段。根据 SEMI 的预测，全球半导体\n设备行业未来三年将持续增长，2026 年全球半导体制造设备销售额将达 1,659 亿美元，同比增长\n23.2%，创历史新高；2028 年有望升至 2,295 亿美元，实现连续五年增长。\n（二）公司主营业务情况\n    1、主要业务\n    公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n    公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n    2、主要产品\n    公司目前主要产品情况如下：\n    产品系列                    图示                  应用领域\n                            干法去胶设备\n\n\n                                          主要用于集成电路芯片制\n                                          造、芯片封装、微机电系统\n                                          （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                          除光刻后残余光刻胶，刻蚀\n去胶设备\n                                          后表面清洁、残留物清除、\n                                          硬掩膜层干法清除等多种干\n                                          法去胶和干法清除工艺。\n\n\n\n                                          主要用于集成电路芯片制\n                                          造、芯片封装、微机电系统\n                                          （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                          除光刻后残余光刻胶，刻蚀\n去胶设备\n                                          后表面清洁、残留物清除、\n                                          硬掩膜层干法清除等多种干\n                                          法去胶和干法清除工艺。\n\n\n\n\n                              10 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "claim_id": "ytd_002",
+        "source_id": "yitang_ipo_2025",
+        "page": 138,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                        招股说明书\n\n        需求为导向，依靠具有丰富经验的国际化研发团队，形成以研发、生产、市场一\n        体化的创新机制，取得了集成电路制造领域干法去胶、快速热处理、干法刻蚀设\n        备关键核心技术领域的重要成果，并在全球主要半导体生产国家及地区申请专利\n        保护，把研发成果快速产业化。\n\n           公司研发实力突出，形成了一系列重要科研成果。截至 2025 年 2 月 11 日，\n        公司已授权发明专利 445 项、实用新型专利 1 项，并承担两项国家重大科研项目\n        /课题。\n\n           （三）公司正在研发的项目\n\n           截至 2024 年 12 月 31 日，公司正在进行的主要研发项目如下：\n\n           1、干法去胶设备\n\n                                       项目阶段及                      与行业技术\n序号         项目名称           研究内容                        项目应用\n                                        进展情况                       水平比较\n                       去胶及先进光刻薄                   先进 3D 闪存集成电路制\n          高产能干法                                                   国际领先水\n    1                  膜去除工艺、产能提          在研      造，其他先进逻辑/存储\n           去胶设备                                                     平\n                              升                   集成电路制造\n          Suprema ®系   在 Suprema®系列去\n                                       产品持续改      先进逻辑、存储集成电路     国际领先水\n    2     列去胶产品        胶产品现有应用基\n                                         进        制造                平\n           持续改进          础上扩展应用\n\n           2、快速热处理设备\n\n                                                                    与行业技\n                                          项目阶段及\n序号         项目名称            研究内容                         项目应用         术水平\n                                          进展情况\n                                                                      比较\n                                                   先进 3D 闪存集成电路制\n         自由基快速热         高温晶圆表面清洁、\n                                                   造，先进动态记忆体集成      国际领先\n1        退火表面处理         氧化、氮化、还原工            在研\n                                                   电路制造，先进逻辑集成       水平\n           设备           艺，提高产能、性能\n                                                   电路制造\n                       全面提高尖峰退火制\n         新一代快速热\n                       程性能，研发氧化、                   先进逻辑集成电路制造，      国际领先\n2        退火尖峰退火                              在研\n                       氮化工艺，提高工艺                   先进存储器集成电路制造       水平\n           设备\n                        性能、产品竞争力\n         Helios®系列快    在 Helios®系列快速热\n                                          产品持续改    先进逻辑、存储集成电路      国际领先\n3        速热退火产品        退火产品现有应用基\n                                            进      制造                水平\n           持续改进           础上扩展应用\n         Millios®系列毫   在 Millios®毫秒退火              先进逻辑、存储集成电路\n                                          产品持续改                     国际领先\n4        秒退火产品持        产品现有应用基础上                   制造，特别是 DRAM 动态\n                                            进                        水平\n             续改进            扩展应用                   记忆体集成电路制造\n\n\n\n\n                                        1-1-137",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "named_series_product_continuous_rd_improvement",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "IPO R&D project table is explicitly as of 2024-12-31 on physical p138; p139 continues the same table for paradigmE. Row says 产品持续改进 on an already named series. This is continuing product R&D, not a new commercial model, shipment, installation or qualification event."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_helios_rtp",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "thermal_rtp",
+    "record_kind": "named_series_or_platform",
+    "name": "Helios® rapid-thermal-processing series",
+    "aliases": [
+      "Helios"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 91,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mature_product_series",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 91,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mature_product_series",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n                                         广泛应用于逻辑芯片、3D\n                                         NAND、DRAM、功率半导\n                                         体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                         件中快速热处理相关工艺，\n处理设备\n                                         如离子注入激活和超浅结形\n                                         成、源漏激活、栅氧修复，\n                                         金属硅化物形成。\n\n\n\n\n                                         主要应用于逻辑和存储器制\n                                         造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                         k 材料钝化和金属硅化物形\n退火设备\n                                         成，也适用于其它材料的表\n                                         面退火处理。\n\n\n\n                     干法刻蚀及等离子体表面处理设备\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中多晶硅、氧化\n                                         硅、氮化硅刻蚀，侧墙刻\n                                         蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                         蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                         双重图形曝光刻蚀，钝化层\n                                         刻蚀，刻蚀后表面处理，对\n                                         准标记刻蚀等多种干法刻蚀\n                                         工艺。\n                                         广泛应用于存储器、逻辑半\n                                         导体、CMOS 图像传感器制\n                                         造中叠层（氮化硅，氧化\n                                         硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                         （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                         准标记刻蚀、刻蚀后表面处\n                                         理、引线孔刻蚀、金属-介质\n                                         -金属复合钝化层刻蚀等多种\n                                         干法刻蚀工艺。\n\n\n\n                                         广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                          导体、功率 IC 制造中多种\n择比刻蚀和原子层                                 材料（多晶硅、氮化硅、氧\n级表面处理设备                                  化硅、金属钨或金属氮化\n                                         物）的高选择比刻蚀工艺。\n\n\n\n\n                             14 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 11,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n\n\n\n\nHydrilis® HMR 高选\n                                          主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                          中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                           快速热处理设备\n\n\n                                          广泛应用于逻辑芯片、3D\n                                          NAND、DRAM、功率半导\n                                          体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                          件中快速热处理相关工艺，\n处理设备\n                                          如离子注入激活和超浅结形\n                                          成、源漏激活、栅氧修复，\n                                          金属硅化物形成。\n\n\n\n\n                                          主要应用于逻辑和存储器制\n                                          造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                          k 材料钝化和金属硅化物形\n退火设备\n                                          成，也适用于其它材料的表\n                                          面退火处理。\n\n\n\n                      干法刻蚀及等离子体表面处理设备\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中多晶硅、氧化\n                                          硅、氮化硅刻蚀，侧墙刻\n                                          蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                          蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                          双重图形曝光刻蚀，钝化层\n                                          刻蚀，刻蚀后表面处理，对\n                                          准标记刻蚀等多种干法刻蚀\n                                          工艺。\n\n\n\n\n                              11 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "claim_id": "ytd_005",
+        "source_id": "yitang_ipo_2025",
+        "page": 138,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                        招股说明书\n\n        需求为导向，依靠具有丰富经验的国际化研发团队，形成以研发、生产、市场一\n        体化的创新机制，取得了集成电路制造领域干法去胶、快速热处理、干法刻蚀设\n        备关键核心技术领域的重要成果，并在全球主要半导体生产国家及地区申请专利\n        保护，把研发成果快速产业化。\n\n           公司研发实力突出，形成了一系列重要科研成果。截至 2025 年 2 月 11 日，\n        公司已授权发明专利 445 项、实用新型专利 1 项，并承担两项国家重大科研项目\n        /课题。\n\n           （三）公司正在研发的项目\n\n           截至 2024 年 12 月 31 日，公司正在进行的主要研发项目如下：\n\n           1、干法去胶设备\n\n                                       项目阶段及                      与行业技术\n序号         项目名称           研究内容                        项目应用\n                                        进展情况                       水平比较\n                       去胶及先进光刻薄                   先进 3D 闪存集成电路制\n          高产能干法                                                   国际领先水\n    1                  膜去除工艺、产能提          在研      造，其他先进逻辑/存储\n           去胶设备                                                     平\n                              升                   集成电路制造\n          Suprema ®系   在 Suprema®系列去\n                                       产品持续改      先进逻辑、存储集成电路     国际领先水\n    2     列去胶产品        胶产品现有应用基\n                                         进        制造                平\n           持续改进          础上扩展应用\n\n           2、快速热处理设备\n\n                                                                    与行业技\n                                          项目阶段及\n序号         项目名称            研究内容                         项目应用         术水平\n                                          进展情况\n                                                                      比较\n                                                   先进 3D 闪存集成电路制\n         自由基快速热         高温晶圆表面清洁、\n                                                   造，先进动态记忆体集成      国际领先\n1        退火表面处理         氧化、氮化、还原工            在研\n                                                   电路制造，先进逻辑集成       水平\n           设备           艺，提高产能、性能\n                                                   电路制造\n                       全面提高尖峰退火制\n         新一代快速热\n                       程性能，研发氧化、                   先进逻辑集成电路制造，      国际领先\n2        退火尖峰退火                              在研\n                       氮化工艺，提高工艺                   先进存储器集成电路制造       水平\n           设备\n                        性能、产品竞争力\n         Helios®系列快    在 Helios®系列快速热\n                                          产品持续改    先进逻辑、存储集成电路      国际领先\n3        速热退火产品        退火产品现有应用基\n                                            进      制造                水平\n           持续改进           础上扩展应用\n         Millios®系列毫   在 Millios®毫秒退火              先进逻辑、存储集成电路\n                                          产品持续改                     国际领先\n4        秒退火产品持        产品现有应用基础上                   制造，特别是 DRAM 动态\n                                            进                        水平\n             续改进            扩展应用                   记忆体集成电路制造\n\n\n\n\n                                        1-1-137",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "named_series_product_continuous_rd_improvement",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "IPO R&D project table is explicitly as of 2024-12-31 on physical p138; p139 continues the same table for paradigmE. Row says 产品持续改进 on an already named series. This is continuing product R&D, not a new commercial model, shipment, installation or qualification event."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_millios_flash_anneal",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "thermal_flash_lamp_anneal",
+    "record_kind": "named_series_or_platform",
+    "name": "Millios® flash millisecond anneal equipment",
+    "aliases": [
+      "Millios"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 91,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mature_product_series",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 91,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                                    招股说明书\n\n\n               金额           占比             金额           占比         金额          占比\n专用设备          355,915.79        76.82%   300,505.48      76.44%   379,012.78    79.58%\n备品备件           96,966.05        20.93%    81,349.27      20.69%    86,312.71    18.12%\n服务              9,874.13        2.13%      9,190.20       2.34%     7,915.89     1.66%\n特许权使用费           541.81         0.12%      2,097.75       0.53%     3,021.35     0.63%\n     合计       463,297.78    100.00%      393,142.70     100.00%   476,262.74   100.00%\n\n          1、专用设备\n\n          报告期内，公司对外销售的各类主要集成电路设备的产品性能、应用领域等\n     情况如下表所示：\n                                                                               应用\n     产品系列                  图示                          成熟产品性能介绍\n                                                                               领域\n                                     干法去胶设备\n\n\n\n                                                  公司干法去胶产品具有三十多年历              集成\n Suprema ®                                        史，拥有远程电感耦合等离子体发生             电路\n 系列干法                                             器等世界领先核心技术，工艺范围              制造\n 去胶设备                                             宽、工艺性能优异、颗粒污染小、损             前道\n                                                  耗品成本和综合持有成本低。                工序\n\n\n\n                                    快速热处理设备\n                                                  Helios® 系列快速热处理设备针对现\n                                                  行及未来一代逻辑、DRAM 和闪存器\n                                                  件量产而设计。设备采取晶圆双面加\n                                                  热技术，为集成电路生产线高温退火             集成\n Helios® 系                                        制程中普遍存在的热应力及晶圆变              电路\n 列快速热                                             形等问题提供了有效的解决方案。在             制造\n 处理设备                                             此基础上，Helios®系列设备独特的双         前道\n                                                  面不对称加热制程克服了集成电路              工序\n                                                  制造中晶圆上相邻不同器件结构在\n                                                  高温退火制程中温度不均匀的图形\n                                                  效应。\n                                                  Millios® 闪光毫秒级退火设备基于拥\n                                                  有自主知识产权的氩气水壁电弧灯\n                                                  设计，匹配精确的晶圆顶层及背部温             集成\n Millios® 闪                                       度瞬时量测与控制系统，同时具有独             电路\n 光毫秒级                                             特的交错点灯能力。设备可以依据客             制造\n 退火设备                                             户制程工艺需求调整毫秒级退火升              前道\n                                                  温曲线并有效控制晶圆热应力，达到             工序\n                                                  良好的器件电性指标，同时有效避免\n                                                  晶圆破片。\n\n\n                                         1-1-90",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mature_product_series",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n                                         广泛应用于逻辑芯片、3D\n                                         NAND、DRAM、功率半导\n                                         体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                         件中快速热处理相关工艺，\n处理设备\n                                         如离子注入激活和超浅结形\n                                         成、源漏激活、栅氧修复，\n                                         金属硅化物形成。\n\n\n\n\n                                         主要应用于逻辑和存储器制\n                                         造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                         k 材料钝化和金属硅化物形\n退火设备\n                                         成，也适用于其它材料的表\n                                         面退火处理。\n\n\n\n                     干法刻蚀及等离子体表面处理设备\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中多晶硅、氧化\n                                         硅、氮化硅刻蚀，侧墙刻\n                                         蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                         蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                         双重图形曝光刻蚀，钝化层\n                                         刻蚀，刻蚀后表面处理，对\n                                         准标记刻蚀等多种干法刻蚀\n                                         工艺。\n                                         广泛应用于存储器、逻辑半\n                                         导体、CMOS 图像传感器制\n                                         造中叠层（氮化硅，氧化\n                                         硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                         （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                         准标记刻蚀、刻蚀后表面处\n                                         理、引线孔刻蚀、金属-介质\n                                         -金属复合钝化层刻蚀等多种\n                                         干法刻蚀工艺。\n\n\n\n                                         广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                          导体、功率 IC 制造中多种\n择比刻蚀和原子层                                 材料（多晶硅、氮化硅、氧\n级表面处理设备                                  化硅、金属钨或金属氮化\n                                         物）的高选择比刻蚀工艺。\n\n\n\n\n                             14 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 11,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n\n\n\n\nHydrilis® HMR 高选\n                                          主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                          中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                           快速热处理设备\n\n\n                                          广泛应用于逻辑芯片、3D\n                                          NAND、DRAM、功率半导\n                                          体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                          件中快速热处理相关工艺，\n处理设备\n                                          如离子注入激活和超浅结形\n                                          成、源漏激活、栅氧修复，\n                                          金属硅化物形成。\n\n\n\n\n                                          主要应用于逻辑和存储器制\n                                          造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                          k 材料钝化和金属硅化物形\n退火设备\n                                          成，也适用于其它材料的表\n                                          面退火处理。\n\n\n\n                      干法刻蚀及等离子体表面处理设备\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中多晶硅、氧化\n                                          硅、氮化硅刻蚀，侧墙刻\n                                          蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                          蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                          双重图形曝光刻蚀，钝化层\n                                          刻蚀，刻蚀后表面处理，对\n                                          准标记刻蚀等多种干法刻蚀\n                                          工艺。\n\n\n\n\n                              11 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "claim_id": "ytd_006",
+        "source_id": "yitang_ipo_2025",
+        "page": 138,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                        招股说明书\n\n        需求为导向，依靠具有丰富经验的国际化研发团队，形成以研发、生产、市场一\n        体化的创新机制，取得了集成电路制造领域干法去胶、快速热处理、干法刻蚀设\n        备关键核心技术领域的重要成果，并在全球主要半导体生产国家及地区申请专利\n        保护，把研发成果快速产业化。\n\n           公司研发实力突出，形成了一系列重要科研成果。截至 2025 年 2 月 11 日，\n        公司已授权发明专利 445 项、实用新型专利 1 项，并承担两项国家重大科研项目\n        /课题。\n\n           （三）公司正在研发的项目\n\n           截至 2024 年 12 月 31 日，公司正在进行的主要研发项目如下：\n\n           1、干法去胶设备\n\n                                       项目阶段及                      与行业技术\n序号         项目名称           研究内容                        项目应用\n                                        进展情况                       水平比较\n                       去胶及先进光刻薄                   先进 3D 闪存集成电路制\n          高产能干法                                                   国际领先水\n    1                  膜去除工艺、产能提          在研      造，其他先进逻辑/存储\n           去胶设备                                                     平\n                              升                   集成电路制造\n          Suprema ®系   在 Suprema®系列去\n                                       产品持续改      先进逻辑、存储集成电路     国际领先水\n    2     列去胶产品        胶产品现有应用基\n                                         进        制造                平\n           持续改进          础上扩展应用\n\n           2、快速热处理设备\n\n                                                                    与行业技\n                                          项目阶段及\n序号         项目名称            研究内容                         项目应用         术水平\n                                          进展情况\n                                                                      比较\n                                                   先进 3D 闪存集成电路制\n         自由基快速热         高温晶圆表面清洁、\n                                                   造，先进动态记忆体集成      国际领先\n1        退火表面处理         氧化、氮化、还原工            在研\n                                                   电路制造，先进逻辑集成       水平\n           设备           艺，提高产能、性能\n                                                   电路制造\n                       全面提高尖峰退火制\n         新一代快速热\n                       程性能，研发氧化、                   先进逻辑集成电路制造，      国际领先\n2        退火尖峰退火                              在研\n                       氮化工艺，提高工艺                   先进存储器集成电路制造       水平\n           设备\n                        性能、产品竞争力\n         Helios®系列快    在 Helios®系列快速热\n                                          产品持续改    先进逻辑、存储集成电路      国际领先\n3        速热退火产品        退火产品现有应用基\n                                            进      制造                水平\n           持续改进           础上扩展应用\n         Millios®系列毫   在 Millios®毫秒退火              先进逻辑、存储集成电路\n                                          产品持续改                     国际领先\n4        秒退火产品持        产品现有应用基础上                   制造，特别是 DRAM 动态\n                                            进                        水平\n             续改进            扩展应用                   记忆体集成电路制造\n\n\n\n\n                                        1-1-137",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "named_series_product_continuous_rd_improvement",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "IPO R&D project table is explicitly as of 2024-12-31 on physical p138; p139 continues the same table for paradigmE. Row says 产品持续改进 on an already named series. This is continuing product R&D, not a new commercial model, shipment, installation or qualification event."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_paradigme_plasma_etch",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "paradigmE® plasma etch series",
+    "aliases": [
+      "paradigmE"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 92,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mature_product_series",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 92,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mature_product_series",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n                                         广泛应用于逻辑芯片、3D\n                                         NAND、DRAM、功率半导\n                                         体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                         件中快速热处理相关工艺，\n处理设备\n                                         如离子注入激活和超浅结形\n                                         成、源漏激活、栅氧修复，\n                                         金属硅化物形成。\n\n\n\n\n                                         主要应用于逻辑和存储器制\n                                         造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                         k 材料钝化和金属硅化物形\n退火设备\n                                         成，也适用于其它材料的表\n                                         面退火处理。\n\n\n\n                     干法刻蚀及等离子体表面处理设备\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中多晶硅、氧化\n                                         硅、氮化硅刻蚀，侧墙刻\n                                         蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                         蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                         双重图形曝光刻蚀，钝化层\n                                         刻蚀，刻蚀后表面处理，对\n                                         准标记刻蚀等多种干法刻蚀\n                                         工艺。\n                                         广泛应用于存储器、逻辑半\n                                         导体、CMOS 图像传感器制\n                                         造中叠层（氮化硅，氧化\n                                         硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                         （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                         准标记刻蚀、刻蚀后表面处\n                                         理、引线孔刻蚀、金属-介质\n                                         -金属复合钝化层刻蚀等多种\n                                         干法刻蚀工艺。\n\n\n\n                                         广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                          导体、功率 IC 制造中多种\n择比刻蚀和原子层                                 材料（多晶硅、氮化硅、氧\n级表面处理设备                                  化硅、金属钨或金属氮化\n                                         物）的高选择比刻蚀工艺。\n\n\n\n\n                             14 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 11,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n\n\n\n\nHydrilis® HMR 高选\n                                          主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                          中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                           快速热处理设备\n\n\n                                          广泛应用于逻辑芯片、3D\n                                          NAND、DRAM、功率半导\n                                          体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                          件中快速热处理相关工艺，\n处理设备\n                                          如离子注入激活和超浅结形\n                                          成、源漏激活、栅氧修复，\n                                          金属硅化物形成。\n\n\n\n\n                                          主要应用于逻辑和存储器制\n                                          造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                          k 材料钝化和金属硅化物形\n退火设备\n                                          成，也适用于其它材料的表\n                                          面退火处理。\n\n\n\n                      干法刻蚀及等离子体表面处理设备\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中多晶硅、氧化\n                                          硅、氮化硅刻蚀，侧墙刻\n                                          蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                          蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                          双重图形曝光刻蚀，钝化层\n                                          刻蚀，刻蚀后表面处理，对\n                                          准标记刻蚀等多种干法刻蚀\n                                          工艺。\n\n\n\n\n                              11 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "claim_id": "ytd_009",
+        "source_id": "yitang_ipo_2025",
+        "page": 139,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                                       招股说明书\n\n       3、干法刻蚀设备\n\n                                                                                   与行业技\n                                                  项目阶段及\n序号      项目名称                研究内容                                    项目应用           术水平\n                                                   进展情况\n                                                                                    比较\n     高性能超高选择比         高性能超高选择比材料                                先进逻辑、存储集           国际先进\n1                                                   在研\n      材料清除设备           清除和关键刻蚀应用                                成电路制造               水平\n                      高产能刻蚀，提高产能，                               先进逻辑、存储集           追赶国际\n2     高产能刻蚀设备                                       在研\n                      扩大工艺范围及稳定性                                成电路制造              先进水平\n                      在 paradigmE®系列刻蚀\n     paradigmE®系列刻                                产品持续改         针对集成电路制造           追赶国际\n3                     产品现有应用基础上不\n      蚀产品持续改进                                       进           中半关键工艺             先进水平\n                             断扩展\n\n       （四）公司研发投入情况\n\n       报告期内，公司研发费用及占营业收入比例情况如下：\n                                                                           单位：万元\n         项目               2024 年度                 2023 年度               2022 年度\n       研发费用                    71,689.40              60,816.15              52,985.07\n       营业收入                   463,297.78             393,142.70             476,262.74\n       所占比例                      15.47%                  15.47%               11.13%\n\n       （五）发行人的合作研发情况\n\n       报告期内，公司已履行或尚在履行的合作研发项目共两项。\n\n       （六）发行人的研发人员情况\n\n       报告期各期末，公司研发人员数量及占比情况如下：\n\n        项目           2024 年 12 月 31 日       2023 年 12 月 31 日        2022 年 12 月 31 日\n      研发人员数量                        349                      288                  247\n       员工总数                       1,192                     1,084                 969\n      研发人员占比                    29.28%                 26.57%                 25.49%\n\n       报告期各期末，公司研发人员学历分布情况如下：\n\n        项目           2024 年 12 月 31 日       2023 年 12 月 31 日        2022 年 12 月 31 日\n      硕士及以上                         188                      133                  136\n      学士及以下                         161                      155                  111\n        合计                          349                      288                  247\n\n\n       核心技术人员的基本情况详见本招股说明书“第四节 发行人基本情况”之\n\n\n                                        1-1-138",
+        "as_of": "2024-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "named_series_product_continuous_rd_improvement",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "IPO R&D project table is explicitly as of 2024-12-31 on physical p138; p139 continues the same table for paradigmE. Row says 产品持续改进 on an already named series. This is continuing product R&D, not a new commercial model, shipment, installation or qualification event."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_hydrilis_vacuum_transfer",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "wafer_handling_vacuum_transfer",
+    "record_kind": "named_series_or_platform",
+    "name": "Hydrilis® high-output vacuum wafer transfer platform",
+    "aliases": [
+      "Hydrilis"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 92,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_transfer_platform_no_standalone_sales_inference",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 92,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_transfer_platform_no_standalone_sales_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_hydrilis_hmr",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "strip_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "Hydrilis® HMR selective hard-mask removal equipment",
+    "aliases": [
+      "Hydrilis® HMR"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 92,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mass_production_sales_reported",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 92,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                 招股说明书\n\n                                                         应用\n产品系列          图示                    成熟产品性能介绍\n                                                         领域\n                     干法刻蚀设备\n                               paradigmE® 系列刻蚀设备采取双晶\n                               圆反应腔、双反应腔产品平台设计。\n                               真空晶圆传送系统采取独特的四机\n                               械手设计，可以实现反应腔和传输腔\n                               之间的超快速晶圆置换，实现高设备\n                               生产效率。接地法拉第屏蔽电感耦合\n                               等离子体技术获得 10 余项全球专利        集成\nparadigmE\n®                              保护，可以独立调整离子能量和离子          电路\n  系列等离\n                               密度，覆盖传统电感耦合等离子体           制造\n子体刻蚀\n                               ICP 和电容耦合等离子体 CCP 刻蚀      前道\n设备\n                               工艺的离子能量范围，同时有效避免          工序\n                               因等离子体引发的器件损伤，提高刻\n                               蚀制程中不同材料的选择比，扩大产\n                               品工艺应用领域。独特的等离子体发\n                               生器设计可以进一步有效减小等离\n                               子体刻蚀对反应腔壁的损伤，降低机\n                               台损耗品成本和综合持有成本。\n\n\n      公司在报告期内有效、显著地提升了产品组合及服务能力，推出了多项新产\n  品，包括 Hydrilis®高产能真空晶圆传输设备平台和基于该设备平台开发的\n  Hydrilis® HMR 高选择比先进光刻硬掩模材料去除设备、Novyka®系列高选择比\n  刻蚀和原子层级表面处理设备等。公司全新 Hydrilis®真空晶圆传送设备平台可\n  同时配置 4 个反应腔、8 个晶圆处理工位，用于并行或串行晶圆加工，具备占地\n  面积小、生产效率高等优势。此外 Hydrilis®真空晶圆传送设备平台可与公司各\n  种反应腔体工程技术衔接，为先进芯片制造提供更好的工艺集成灵活性，为公司\n  进入芯片制造一体化设备领域奠定基础。\n      公司新产品情况如下：\n                                                         应用\n产品系列          图示                     新产品性能介绍\n                                                         领域\n                     干法去胶设备\n\n\nHydrilis®\n                               Hydrilis® HMR 设备可在不损坏光刻   集成\nHMR 高选\n                               底层材料以及逻辑和存储器件结构           电路\n择比先进\n                               的同时，高选择性、高效率地清除掺          制造\n光刻硬掩\n                               杂无定形碳硬掩模材料。产品性能优          前道\n模材料去\n                               秀，已实现量产销售。                工序\n除设备\n\n\n\n                      1-1-91",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mass_production_sales_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 13,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n                    第三节     管理层讨论与分析\n一、报告期内公司所从事的主要业务、经营模式、行业情况说明\n\n(一) 主要业务、主要产品或服务情况\n  1、主要业务\n  公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n  公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n  2、主要产品\n  公司目前主要产品情况如下：\n    产品系列                   图示                  应用领域\n                           干法去胶设备\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n\nHydrilis® HMR 高选\n                                         主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                         中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                          快速热处理设备\n\n\n                             13 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 11,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n\n\n\n\nHydrilis® HMR 高选\n                                          主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                          中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                           快速热处理设备\n\n\n                                          广泛应用于逻辑芯片、3D\n                                          NAND、DRAM、功率半导\n                                          体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                          件中快速热处理相关工艺，\n处理设备\n                                          如离子注入激活和超浅结形\n                                          成、源漏激活、栅氧修复，\n                                          金属硅化物形成。\n\n\n\n\n                                          主要应用于逻辑和存储器制\n                                          造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                          k 材料钝化和金属硅化物形\n退火设备\n                                          成，也适用于其它材料的表\n                                          面退火处理。\n\n\n\n                      干法刻蚀及等离子体表面处理设备\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中多晶硅、氧化\n                                          硅、氮化硅刻蚀，侧墙刻\n                                          蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                          蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                          双重图形曝光刻蚀，钝化层\n                                          刻蚀，刻蚀后表面处理，对\n                                          准标记刻蚀等多种干法刻蚀\n                                          工艺。\n\n\n\n\n                              11 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_novyka_selective_etch",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_and_plasma_surface_treatment",
+    "record_kind": "named_series_or_platform",
+    "name": "Novyka® selective etch and atomic-surface-treatment series",
+    "aliases": [
+      "Novyka"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 93,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                招股说明书\n\n                                                        应用\n产品系列           图示                   新产品性能介绍\n                                                        领域\n                    干法刻蚀设备\n                              Novyka®系列产品基于业界领先的远\n                              程电感耦合等离子体发生器工程设\n                              计，包括独立知识产权的接地法拉第\nNovyka®系                      屏蔽技术，具备等离子体密度高、等\n                                                        集成\n列高选择                          离子体电势低、电子温度低、工艺窗\n                                                        电路\n比刻蚀和                          口宽、化学系统多样化、等离子体性\n                                                        制造\n原子层级                          能稳定、颗粒污染少、耗材成本低、\n                                                        前道\n表面处理                          等离子体反应器无需置换等优势。另\n                                                        工序\n设备                            外，Novyka®系列产品具备离子完全\n                              过滤能力、晶圆温度调节能力、晶圆\n                              偏压调节能力等能力，已实现量产销\n                              售。\n                              Hydrilis® XT 搭载的干法刻蚀反应腔\n                              具有独特的远距电感耦合等离子体\n                              （ICP）源功率来提供高浓度等离子\nHydrilis®                     体。专有的法拉第屏蔽 ICP 源功率与       集成\nXT 高产能                        偏置功率相结合，提供了双重控制能          电路\n等离子体                          力，改进了低温下的晶圆上工艺控           制造\n干法刻蚀                          制。Hydrilis®生产平台具有两个真空     前道\n设备                            传输模块，可以承载 4 个双晶圆反应        工序\n                              腔来提供卓越的生产效率，并且能提\n                              供灵活的腔体配置来实现多步集成\n                              工艺流程。\n\n      2、备品备件\n\n      报告期内，公司备品备件销售主要为专用设备相关的替换备件及配套材料等。\n      公司备品备件一般可分为耗材类备品备件和非耗材类备品备件。公司专用设\n  备在运行过程中，部分零部件会出现正常损耗，需对损耗的零部件定期进行更换，\n  如 O 型圈、油封、垫片等均属于耗材类备品备件。为保证专用设备的运行状态\n  及性能，耗材类备品备件通常建议更换周期为 6 个月-1 年。此外，在专用设备运\n  行过程中，部分非耗材零部件也需要进行不定期更新维护，以满足客户设备维护\n  等需要，如石英加工件、陶瓷加工件、线缆、气缸、压力计、温控器、气体流量\n  控制器、电磁阀、气动阀、继电器、加热灯管等均属于非耗材类备品备件，非耗\n  材类备品备件需求具有一定的突发性特性，通常更换周期在 1 年以上。\n      基于行业特性，公司销售的专用设备多为定制化采购。公司无自行生产的备\n  品备件，相关备品备件均为公司交由供应商定制化生产或公司采购的通用型配件。\n  具体情况如下表所示：\n\n\n\n                     1-1-92",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "mass_production_sales_reported",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 93,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                招股说明书\n\n                                                        应用\n产品系列           图示                   新产品性能介绍\n                                                        领域\n                    干法刻蚀设备\n                              Novyka®系列产品基于业界领先的远\n                              程电感耦合等离子体发生器工程设\n                              计，包括独立知识产权的接地法拉第\nNovyka®系                      屏蔽技术，具备等离子体密度高、等\n                                                        集成\n列高选择                          离子体电势低、电子温度低、工艺窗\n                                                        电路\n比刻蚀和                          口宽、化学系统多样化、等离子体性\n                                                        制造\n原子层级                          能稳定、颗粒污染少、耗材成本低、\n                                                        前道\n表面处理                          等离子体反应器无需置换等优势。另\n                                                        工序\n设备                            外，Novyka®系列产品具备离子完全\n                              过滤能力、晶圆温度调节能力、晶圆\n                              偏压调节能力等能力，已实现量产销\n                              售。\n                              Hydrilis® XT 搭载的干法刻蚀反应腔\n                              具有独特的远距电感耦合等离子体\n                              （ICP）源功率来提供高浓度等离子\nHydrilis®                     体。专有的法拉第屏蔽 ICP 源功率与       集成\nXT 高产能                        偏置功率相结合，提供了双重控制能          电路\n等离子体                          力，改进了低温下的晶圆上工艺控           制造\n干法刻蚀                          制。Hydrilis®生产平台具有两个真空     前道\n设备                            传输模块，可以承载 4 个双晶圆反应        工序\n                              腔来提供卓越的生产效率，并且能提\n                              供灵活的腔体配置来实现多步集成\n                              工艺流程。\n\n      2、备品备件\n\n      报告期内，公司备品备件销售主要为专用设备相关的替换备件及配套材料等。\n      公司备品备件一般可分为耗材类备品备件和非耗材类备品备件。公司专用设\n  备在运行过程中，部分零部件会出现正常损耗，需对损耗的零部件定期进行更换，\n  如 O 型圈、油封、垫片等均属于耗材类备品备件。为保证专用设备的运行状态\n  及性能，耗材类备品备件通常建议更换周期为 6 个月-1 年。此外，在专用设备运\n  行过程中，部分非耗材零部件也需要进行不定期更新维护，以满足客户设备维护\n  等需要，如石英加工件、陶瓷加工件、线缆、气缸、压力计、温控器、气体流量\n  控制器、电磁阀、气动阀、继电器、加热灯管等均属于非耗材类备品备件，非耗\n  材类备品备件需求具有一定的突发性特性，通常更换周期在 1 年以上。\n      基于行业特性，公司销售的专用设备多为定制化采购。公司无自行生产的备\n  品备件，相关备品备件均为公司交由供应商定制化生产或公司采购的通用型配件。\n  具体情况如下表所示：\n\n\n\n                     1-1-92",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mass_production_sales_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n                                         广泛应用于逻辑芯片、3D\n                                         NAND、DRAM、功率半导\n                                         体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                         件中快速热处理相关工艺，\n处理设备\n                                         如离子注入激活和超浅结形\n                                         成、源漏激活、栅氧修复，\n                                         金属硅化物形成。\n\n\n\n\n                                         主要应用于逻辑和存储器制\n                                         造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                         k 材料钝化和金属硅化物形\n退火设备\n                                         成，也适用于其它材料的表\n                                         面退火处理。\n\n\n\n                     干法刻蚀及等离子体表面处理设备\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中多晶硅、氧化\n                                         硅、氮化硅刻蚀，侧墙刻\n                                         蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                         蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                         双重图形曝光刻蚀，钝化层\n                                         刻蚀，刻蚀后表面处理，对\n                                         准标记刻蚀等多种干法刻蚀\n                                         工艺。\n                                         广泛应用于存储器、逻辑半\n                                         导体、CMOS 图像传感器制\n                                         造中叠层（氮化硅，氧化\n                                         硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                         （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                         准标记刻蚀、刻蚀后表面处\n                                         理、引线孔刻蚀、金属-介质\n                                         -金属复合钝化层刻蚀等多种\n                                         干法刻蚀工艺。\n\n\n\n                                         广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                          导体、功率 IC 制造中多种\n择比刻蚀和原子层                                 材料（多晶硅、氮化硅、氧\n级表面处理设备                                  化硅、金属钨或金属氮化\n                                         物）的高选择比刻蚀工艺。\n\n\n\n\n                             14 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 12,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n                                          广泛应用于存储器、逻辑半\n                                          导体、CMOS 图像传感器制\n                                          造中叠层（氮化硅，氧化\n                                          硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                          （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                          准标记刻蚀、刻蚀后表面处\n                                          理、引线孔刻蚀、金属-介质\n                                          -金属复合钝化层刻蚀等多种\n                                          干法刻蚀工艺。\n\n\n\n                                          广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                           导体、功率 IC 制造中多种\n择比刻蚀和原子层                                  材料（多晶硅、氮化硅、氧\n级表面处理设备                                   化硅、金属或金属氮化物）\n                                          的高选择比刻蚀工艺。\n\n\n\n\nHydrilis® XT 高产能                          半导体制造领域中准关键刻\n等离子体干法刻蚀                                  蚀的优选的等离子体干法刻\n设备                                        蚀设备。\n\n\n\n\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                          降低和金属回流裂缝修复，\n面处理和材料改性\n                                          增强金属薄膜选择性沉积，\n设备\n                                          增强可流动化学气相沉积介\n                                          质薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n（三）主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n                              12 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_hydrilis_xt_etch",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "Hydrilis® XT plasma dry-etch equipment",
+    "aliases": [
+      "Hydrilis"
+    ],
+    "evidence": {
+      "source_id": "yitang_ipo_2025",
+      "page": 93,
+      "excerpt": "北京屹唐半导体科技股份有限公司                                招股说明书\n\n                                                        应用\n产品系列           图示                   新产品性能介绍\n                                                        领域\n                    干法刻蚀设备\n                              Novyka®系列产品基于业界领先的远\n                              程电感耦合等离子体发生器工程设\n                              计，包括独立知识产权的接地法拉第\nNovyka®系                      屏蔽技术，具备等离子体密度高、等\n                                                        集成\n列高选择                          离子体电势低、电子温度低、工艺窗\n                                                        电路\n比刻蚀和                          口宽、化学系统多样化、等离子体性\n                                                        制造\n原子层级                          能稳定、颗粒污染少、耗材成本低、\n                                                        前道\n表面处理                          等离子体反应器无需置换等优势。另\n                                                        工序\n设备                            外，Novyka®系列产品具备离子完全\n                              过滤能力、晶圆温度调节能力、晶圆\n                              偏压调节能力等能力，已实现量产销\n                              售。\n                              Hydrilis® XT 搭载的干法刻蚀反应腔\n                              具有独特的远距电感耦合等离子体\n                              （ICP）源功率来提供高浓度等离子\nHydrilis®                     体。专有的法拉第屏蔽 ICP 源功率与       集成\nXT 高产能                        偏置功率相结合，提供了双重控制能          电路\n等离子体                          力，改进了低温下的晶圆上工艺控           制造\n干法刻蚀                          制。Hydrilis®生产平台具有两个真空     前道\n设备                            传输模块，可以承载 4 个双晶圆反应        工序\n                              腔来提供卓越的生产效率，并且能提\n                              供灵活的腔体配置来实现多步集成\n                              工艺流程。\n\n      2、备品备件\n\n      报告期内，公司备品备件销售主要为专用设备相关的替换备件及配套材料等。\n      公司备品备件一般可分为耗材类备品备件和非耗材类备品备件。公司专用设\n  备在运行过程中，部分零部件会出现正常损耗，需对损耗的零部件定期进行更换，\n  如 O 型圈、油封、垫片等均属于耗材类备品备件。为保证专用设备的运行状态\n  及性能，耗材类备品备件通常建议更换周期为 6 个月-1 年。此外，在专用设备运\n  行过程中，部分非耗材零部件也需要进行不定期更新维护，以满足客户设备维护\n  等需要，如石英加工件、陶瓷加工件、线缆、气缸、压力计、温控器、气体流量\n  控制器、电磁阀、气动阀、继电器、加热灯管等均属于非耗材类备品备件，非耗\n  材类备品备件需求具有一定的突发性特性，通常更换周期在 1 年以上。\n      基于行业特性，公司销售的专用设备多为定制化采购。公司无自行生产的备\n  品备件，相关备品备件均为公司交由供应商定制化生产或公司采购的通用型配件。\n  具体情况如下表所示：\n\n\n\n                     1-1-92",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "new_product_catalogue_no_system_count",
+    "maturity_as_reported_in": "yitang_ipo_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_ipo_2025",
+        "page": 93,
+        "excerpt": "北京屹唐半导体科技股份有限公司                                招股说明书\n\n                                                        应用\n产品系列           图示                   新产品性能介绍\n                                                        领域\n                    干法刻蚀设备\n                              Novyka®系列产品基于业界领先的远\n                              程电感耦合等离子体发生器工程设\n                              计，包括独立知识产权的接地法拉第\nNovyka®系                      屏蔽技术，具备等离子体密度高、等\n                                                        集成\n列高选择                          离子体电势低、电子温度低、工艺窗\n                                                        电路\n比刻蚀和                          口宽、化学系统多样化、等离子体性\n                                                        制造\n原子层级                          能稳定、颗粒污染少、耗材成本低、\n                                                        前道\n表面处理                          等离子体反应器无需置换等优势。另\n                                                        工序\n设备                            外，Novyka®系列产品具备离子完全\n                              过滤能力、晶圆温度调节能力、晶圆\n                              偏压调节能力等能力，已实现量产销\n                              售。\n                              Hydrilis® XT 搭载的干法刻蚀反应腔\n                              具有独特的远距电感耦合等离子体\n                              （ICP）源功率来提供高浓度等离子\nHydrilis®                     体。专有的法拉第屏蔽 ICP 源功率与       集成\nXT 高产能                        偏置功率相结合，提供了双重控制能          电路\n等离子体                          力，改进了低温下的晶圆上工艺控           制造\n干法刻蚀                          制。Hydrilis®生产平台具有两个真空     前道\n设备                            传输模块，可以承载 4 个双晶圆反应        工序\n                              腔来提供卓越的生产效率，并且能提\n                              供灵活的腔体配置来实现多步集成\n                              工艺流程。\n\n      2、备品备件\n\n      报告期内，公司备品备件销售主要为专用设备相关的替换备件及配套材料等。\n      公司备品备件一般可分为耗材类备品备件和非耗材类备品备件。公司专用设\n  备在运行过程中，部分零部件会出现正常损耗，需对损耗的零部件定期进行更换，\n  如 O 型圈、油封、垫片等均属于耗材类备品备件。为保证专用设备的运行状态\n  及性能，耗材类备品备件通常建议更换周期为 6 个月-1 年。此外，在专用设备运\n  行过程中，部分非耗材零部件也需要进行不定期更新维护，以满足客户设备维护\n  等需要，如石英加工件、陶瓷加工件、线缆、气缸、压力计、温控器、气体流量\n  控制器、电磁阀、气动阀、继电器、加热灯管等均属于非耗材类备品备件，非耗\n  材类备品备件需求具有一定的突发性特性，通常更换周期在 1 年以上。\n      基于行业特性，公司销售的专用设备多为定制化采购。公司无自行生产的备\n  品备件，相关备品备件均为公司交由供应商定制化生产或公司采购的通用型配件。\n  具体情况如下表所示：\n\n\n\n                     1-1-92",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "new_product_catalogue_no_system_count",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 15,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n\n\nHydrilis® XT 高产能                         半导体制造领域中准关键刻\n等离子体干法刻蚀                                 蚀的优选的等离子体干法刻\n设备                                       蚀设备。\n\n\n\n\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                         降低和金属回流裂缝修复，\n面处理和材料改性\n                                         增强钨薄膜选择性沉积，增\n设备\n                                         强可流动化学气相沉积介质\n                                         薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n新增重要非主营业务情况\n□适用 √不适用\n\n(二) 主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n  公司依照行业国际惯例建立产品研发流程及相关制度，对研发项目的立项、审批、执行等流\n程进行了规定。公司的新产品研发及商业化流程可以大致分为可行性研究阶段、产品开发及下线\n阶段、客户端认证阶段、量产及生命周期维护阶段。\n  公司研发部门包含工程设计和工艺开发团队，分别负责干法去胶、快速热处理、干法刻蚀及\n等离子体表面处理设备各个产品线包括机械设计、温控与仿真、电气设计、软件设计、工艺开发、\n新技术开发等各类开发内容。公司建立了科学、规范的研发工作制度，并以市场需求作为技术创\n新导向，按照多种核心技术、多种产品进行新技术、新工艺、新产品的研发。通过对公司所有研\n发项目进行立项评审以及验收评审，保证公司研发目标的实现。\n  3、采购模式\n  为应对全球半导体供应链波动与地缘政治风险，公司建立了系统、科学的供应链评估与管理\n体系。不仅覆盖资质、产能、技术、质量、价格、交期、服务等基础要素，更强化了对关键零部\n件国产化能力及供应链抗风险指标的量化评估。公司已与全球众多供应商建立了长期稳定的合作\n关系，确保合格供应商的长期稳定性。同时从需求预测、库存管理、供应商管理三方面进行动态\n协调，以确保供应稳定的前提下做到成本最优。中国制造基地近年积极推行供应链多元化与本地\n\n                             15 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 12,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n                                          广泛应用于存储器、逻辑半\n                                          导体、CMOS 图像传感器制\n                                          造中叠层（氮化硅，氧化\n                                          硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                          （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                          准标记刻蚀、刻蚀后表面处\n                                          理、引线孔刻蚀、金属-介质\n                                          -金属复合钝化层刻蚀等多种\n                                          干法刻蚀工艺。\n\n\n\n                                          广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                           导体、功率 IC 制造中多种\n择比刻蚀和原子层                                  材料（多晶硅、氮化硅、氧\n级表面处理设备                                   化硅、金属或金属氮化物）\n                                          的高选择比刻蚀工艺。\n\n\n\n\nHydrilis® XT 高产能                          半导体制造领域中准关键刻\n等离子体干法刻蚀                                  蚀的优选的等离子体干法刻\n设备                                        蚀设备。\n\n\n\n\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                          降低和金属回流裂缝修复，\n面处理和材料改性\n                                          增强金属薄膜选择性沉积，\n设备\n                                          增强可流动化学气相沉积介\n                                          质薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n（三）主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n                              12 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_optima_dry_strip",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "strip_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "Optima® advanced dry-strip series",
+    "aliases": [
+      "Optima"
+    ],
+    "evidence": {
+      "source_id": "yitang_annual_2025",
+      "page": 19,
+      "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "key_customer_production_validation_repeat_orders",
+    "maturity_as_reported_in": "yitang_annual_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 19,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "key_customer_production_validation_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 13,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n                    第三节     管理层讨论与分析\n一、报告期内公司所从事的主要业务、经营模式、行业情况说明\n\n(一) 主要业务、主要产品或服务情况\n  1、主要业务\n  公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n  公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n  2、主要产品\n  公司目前主要产品情况如下：\n    产品系列                   图示                  应用领域\n                           干法去胶设备\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n                                         主要用于集成电路芯片制\n                                         造、芯片封装、微机电系统\n                                         （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                         除光刻后残余光刻胶，刻蚀\n去胶设备\n                                         后表面清洁、残留物清除、\n                                         硬掩膜层干法清除等多种干\n                                         法去胶和干法清除工艺。\n\n\n\n\nHydrilis® HMR 高选\n                                         主要用于集成电路芯片制造\n择比先进光刻硬掩\n                                         中多种硬质掩模材料去除。\n模材料去除设备\n\n\n\n\n                          快速热处理设备\n\n\n                             13 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 10,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n业以往周期性的收入波动规律。根据 WSTS 预测数据，2026 年，全球半导体市场规模将由 2025\n年的 7,917 亿美元大幅增长至 1.655 万亿美元，同比增长 108%。\n  受益于全球半导体需求的高速增长，全球晶圆厂进入加速扩产阶段。根据 SEMI 预测数据，\n2024‑2028 年全球晶圆厂产能复合年均增长率约为 7.0%；中国大陆晶圆产能同期复合增速将达\n8.1%，扩张速度高于全球平均。伴随产线持续落地，国内晶圆产能全球占比将由 2020 年的 20%\n提升至 2030 年的 32%以上。\n    半导体设备是集成电路制造的核心载体，其技术水平直接决定了芯片的制程能力、性能指标\n和生产良率。随着微观器件越做越小，结构越做越复杂，半导体设备的极端重要性更加突显出来。\n全球的产能扩张同时叠加制程缩小和技术演进推动的半导体设备工艺能力和用量的增长，半导体\n设备正处于市场规模快速增长与技术迭代加速的关键发展阶段。根据 SEMI 的预测，全球半导体\n设备行业未来三年将持续增长，2026 年全球半导体制造设备销售额将达 1,659 亿美元，同比增长\n23.2%，创历史新高；2028 年有望升至 2,295 亿美元，实现连续五年增长。\n（二）公司主营业务情况\n    1、主要业务\n    公司主要从事集成电路制造过程中所需晶圆加工设备的研发、生产和销售，面向全球集成电\n路制造厂商提供包括干法去胶设备、快速热处理设备、干法刻蚀及等离子体表面处理设备在内的\n集成电路制造设备及配套工艺解决方案。\n    公司依靠自主研发的核心技术，致力于为集成电路制造环节提供更先进处理能力和更高生产\n效率的集成电路设备。公司主要设备相关技术达到国际领先水平，干法去胶设备、快速热处理设\n备已应用在多家国内外知名集成电路制造商生产线上并实现大规模装机，干法刻蚀及等离子体表\n面处理设备已应用在多家国内外知名集成电路制造商生产线上，销售收入持续快速增长。\n    2、主要产品\n    公司目前主要产品情况如下：\n    产品系列                    图示                  应用领域\n                            干法去胶设备\n\n\n                                          主要用于集成电路芯片制\n                                          造、芯片封装、微机电系统\n                                          （MEMS）等领域，用于去\nSuprema® 系 列 干 法\n                                          除光刻后残余光刻胶，刻蚀\n去胶设备\n                                          后表面清洁、残留物清除、\n                                          硬掩膜层干法清除等多种干\n                                          法去胶和干法清除工艺。\n\n\n\n                                          主要用于集成电路芯片制\n                                          造、芯片封装、微机电系统\n                                          （MEMS）等领域，用于去\nOptima® 系 列 干 法\n                                          除光刻后残余光刻胶，刻蚀\n去胶设备\n                                          后表面清洁、残留物清除、\n                                          硬掩膜层干法清除等多种干\n                                          法去胶和干法清除工艺。\n\n\n\n\n                              10 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n年上半年实现营业收入 21.31 亿元，同比下降 14.12%，营业收入下滑主要受现有产品组合、订单\n结构及部分项目的交付节奏等阶段性因素影响；实现归属于上市公司股东的净利润 3.96 亿元，同\n比增长 13.77%；实现归属于上市公司股东的扣除非经常性损益的净利润 2.43 亿元，同比下降 4.47%。\n截至 2026 年 6 月 30 日，公司总资产 110.71 亿元，较上年末下降 2.74%；归属于上市公司股东的\n净资产 91.34 亿元，较上年末增长 2.44%。\n     （二）报告期内重点任务完成情况\n     1、生产研发方面\n     公司以半导体设备技术发展趋势、客户需求为导向，依靠具有丰富经验的研发团队，形成以\n研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处理、干法刻\n蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产国家及地区\n申请专利保护，把研发成果快速产业化。\n     报告期内，公司研发投入总额 3.75 亿元，同比增长 2.35%，研发投入总额占营业收入比例为\n17.61%，比去年同期增加 2.83 个百分点。\n     为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司投\n入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研发制造基地”），\n2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基地已实现了干法去\n胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，已成为公司最主要的设\n备研发和制造基地。\n     公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，持续进行多款技术领先的新型集成电路设备的研发及市场拓展，报告期\n内，公司各产品线的产品研发及市场开发进展情况如下：\n     干法去胶设备方面，公司开发的新一代先进干法去胶设备 Optima®设备系列产品可满足各类\n制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持有成本低等卓越性能，该设\n备已成功导入存储器、逻辑、特色工艺集成电路等前道晶圆制造以及先进封装领域的多家客户形\n成量产。与此同时，公司持续研发下一代高产能去胶设备，提升设备性能和效率，扩展工艺能力，\n并在此基础上进行新客户和新应用的拓展工作。\n     快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备全面提升现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理和氧化设备以及集成多项连续工艺流程的\n快速热处理一体化设备，以全面覆盖快速热处理领域各类制程需求；各项目均取得关键进展。\n     干法刻蚀及等离子体表面处理设备方面，公司开发的新一代先进干法刻蚀设备 RENA-E®可以\n对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子体损伤小、器件性能表\n现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料和金属材料的复杂膜层\n刻蚀。该设备已成功导入存储器、逻辑、特色工艺集成电路等前道晶圆制造的多家客户形成量产，\n报告期内，该设备在多家国内新客户导入验证进展顺利，有效扩大了客户群体并获得了更多重复\n订单，新签订单层面开始进入逐渐放量阶段。此外，该设备具备在高带宽存储和先进封装领域的\n多种应用潜力，报告期内，公司在客户端应用拓展方面取得了积极进展，同类干法刻蚀设备亦已\n首次进入欧洲市场取得客户订单。公司将继续稳步推进对新客户及新应用的开发工作。\n     公司开发的先进等离子体表面处理和材料改性设备利用专利技术产生高浓度化学反应自由基，\n在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体制造中金属\n薄膜电阻率降低，裂缝修复，增强金属薄膜选择性沉积，增强可流动化学气相沉积介质薄膜致密\n度等。该设备已成功导入海外先进存储器、先进逻辑领域的多家客户，报告期内，公司持续获得\n客户重复订单。国内团队自主研发的等离子体表面处理设备也在与头部客户的合作中取得了积极\n进展，公司持续推进新客户拓展及新应用的开发工作。\n     除了上述新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处理设备的\n广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，公司目\n前已开展新型金属刻蚀设备、新型晶边刻蚀和沉积设备、高选择比刻蚀设备及多腔体工艺集成平\n\n                          14 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 p14 expressly reports multiple-customer production use for Optima. Repeat orders in the subsequent paragraph refer to RENA-E; do not inherit them. FY2025 repeat orders remain in their own source history."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_rena_e_plasma_etch",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_dry",
+    "record_kind": "named_series_or_platform",
+    "name": "RENA-E® plasma etch equipment",
+    "aliases": [
+      "RENA-E"
+    ],
+    "evidence": {
+      "source_id": "yitang_annual_2025",
+      "page": 19,
+      "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "key_customer_production_validation_repeat_orders",
+    "maturity_as_reported_in": "yitang_annual_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 19,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "key_customer_production_validation_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n                                         广泛应用于逻辑芯片、3D\n                                         NAND、DRAM、功率半导\n                                         体、CMOS 图像传感器等器\nHelios® 系列快速热\n                                         件中快速热处理相关工艺，\n处理设备\n                                         如离子注入激活和超浅结形\n                                         成、源漏激活、栅氧修复，\n                                         金属硅化物形成。\n\n\n\n\n                                         主要应用于逻辑和存储器制\n                                         造中用于超浅结形成，High\nMillios®闪光毫秒级\n                                         k 材料钝化和金属硅化物形\n退火设备\n                                         成，也适用于其它材料的表\n                                         面退火处理。\n\n\n\n                     干法刻蚀及等离子体表面处理设备\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中多晶硅、氧化\n                                         硅、氮化硅刻蚀，侧墙刻\n                                         蚀，金属硅化物阻挡层刻\nparadigmE® 系 列 等\n                                         蚀，抗反射层刻蚀，自对准\n离子体刻蚀设备\n                                         双重图形曝光刻蚀，钝化层\n                                         刻蚀，刻蚀后表面处理，对\n                                         准标记刻蚀等多种干法刻蚀\n                                         工艺。\n                                         广泛应用于存储器、逻辑半\n                                         导体、CMOS 图像传感器制\n                                         造中叠层（氮化硅，氧化\n                                         硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                         （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                         准标记刻蚀、刻蚀后表面处\n                                         理、引线孔刻蚀、金属-介质\n                                         -金属复合钝化层刻蚀等多种\n                                         干法刻蚀工艺。\n\n\n\n                                         广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                          导体、功率 IC 制造中多种\n择比刻蚀和原子层                                 材料（多晶硅、氮化硅、氧\n级表面处理设备                                  化硅、金属钨或金属氮化\n                                         物）的高选择比刻蚀工艺。\n\n\n\n\n                             14 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 12,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n                                          广泛应用于存储器、逻辑半\n                                          导体、CMOS 图像传感器制\n                                          造中叠层（氮化硅，氧化\n                                          硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                          （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                          准标记刻蚀、刻蚀后表面处\n                                          理、引线孔刻蚀、金属-介质\n                                          -金属复合钝化层刻蚀等多种\n                                          干法刻蚀工艺。\n\n\n\n                                          广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                           导体、功率 IC 制造中多种\n择比刻蚀和原子层                                  材料（多晶硅、氮化硅、氧\n级表面处理设备                                   化硅、金属或金属氮化物）\n                                          的高选择比刻蚀工艺。\n\n\n\n\nHydrilis® XT 高产能                          半导体制造领域中准关键刻\n等离子体干法刻蚀                                  蚀的优选的等离子体干法刻\n设备                                        蚀设备。\n\n\n\n\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                          降低和金属回流裂缝修复，\n面处理和材料改性\n                                          增强金属薄膜选择性沉积，\n设备\n                                          增强可流动化学气相沉积介\n                                          质薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n（三）主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n                              12 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 14,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n年上半年实现营业收入 21.31 亿元，同比下降 14.12%，营业收入下滑主要受现有产品组合、订单\n结构及部分项目的交付节奏等阶段性因素影响；实现归属于上市公司股东的净利润 3.96 亿元，同\n比增长 13.77%；实现归属于上市公司股东的扣除非经常性损益的净利润 2.43 亿元，同比下降 4.47%。\n截至 2026 年 6 月 30 日，公司总资产 110.71 亿元，较上年末下降 2.74%；归属于上市公司股东的\n净资产 91.34 亿元，较上年末增长 2.44%。\n     （二）报告期内重点任务完成情况\n     1、生产研发方面\n     公司以半导体设备技术发展趋势、客户需求为导向，依靠具有丰富经验的研发团队，形成以\n研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处理、干法刻\n蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产国家及地区\n申请专利保护，把研发成果快速产业化。\n     报告期内，公司研发投入总额 3.75 亿元，同比增长 2.35%，研发投入总额占营业收入比例为\n17.61%，比去年同期增加 2.83 个百分点。\n     为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司投\n入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研发制造基地”），\n2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基地已实现了干法去\n胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，已成为公司最主要的设\n备研发和制造基地。\n     公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，持续进行多款技术领先的新型集成电路设备的研发及市场拓展，报告期\n内，公司各产品线的产品研发及市场开发进展情况如下：\n     干法去胶设备方面，公司开发的新一代先进干法去胶设备 Optima®设备系列产品可满足各类\n制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持有成本低等卓越性能，该设\n备已成功导入存储器、逻辑、特色工艺集成电路等前道晶圆制造以及先进封装领域的多家客户形\n成量产。与此同时，公司持续研发下一代高产能去胶设备，提升设备性能和效率，扩展工艺能力，\n并在此基础上进行新客户和新应用的拓展工作。\n     快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备全面提升现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理和氧化设备以及集成多项连续工艺流程的\n快速热处理一体化设备，以全面覆盖快速热处理领域各类制程需求；各项目均取得关键进展。\n     干法刻蚀及等离子体表面处理设备方面，公司开发的新一代先进干法刻蚀设备 RENA-E®可以\n对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子体损伤小、器件性能表\n现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料和金属材料的复杂膜层\n刻蚀。该设备已成功导入存储器、逻辑、特色工艺集成电路等前道晶圆制造的多家客户形成量产，\n报告期内，该设备在多家国内新客户导入验证进展顺利，有效扩大了客户群体并获得了更多重复\n订单，新签订单层面开始进入逐渐放量阶段。此外，该设备具备在高带宽存储和先进封装领域的\n多种应用潜力，报告期内，公司在客户端应用拓展方面取得了积极进展，同类干法刻蚀设备亦已\n首次进入欧洲市场取得客户订单。公司将继续稳步推进对新客户及新应用的开发工作。\n     公司开发的先进等离子体表面处理和材料改性设备利用专利技术产生高浓度化学反应自由基，\n在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体制造中金属\n薄膜电阻率降低，裂缝修复，增强金属薄膜选择性沉积，增强可流动化学气相沉积介质薄膜致密\n度等。该设备已成功导入海外先进存储器、先进逻辑领域的多家客户，报告期内，公司持续获得\n客户重复订单。国内团队自主研发的等离子体表面处理设备也在与头部客户的合作中取得了积极\n进展，公司持续推进新客户拓展及新应用的开发工作。\n     除了上述新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处理设备的\n广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，公司目\n前已开展新型金属刻蚀设备、新型晶边刻蚀和沉积设备、高选择比刻蚀设备及多腔体工艺集成平\n\n                          14 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_mass_production_and_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Model explicitly named in H1 progress paragraph. RENA-E paragraph separately says same-class etch equipment received first European customer order; do not allocate that order to RENA-E alone."
+      }
+    ]
+  },
+  {
+    "platform_id": "yitang_escala_plasma_surface",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_and_plasma_surface_treatment",
+    "record_kind": "named_series_or_platform",
+    "name": "Escala® plasma surface treatment and material modification equipment",
+    "aliases": [
+      "Escala"
+    ],
+    "evidence": {
+      "source_id": "yitang_annual_2025",
+      "page": 19,
+      "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "company_mass_produced_product_multi_customer_technical_validation_repeat_orders",
+    "maturity_as_reported_in": "yitang_annual_2025",
+    "notes": "Source-defined identity. Generic families are not unique commercial models; no numerical product-line totals allocated to named series. Issuer claim; original wording and scope checked, without independent corroboration. Issuer-group catalogue identity only; this clause does not assign a particular Mattson/other subsidiary manufacturing site or the group installed base to this platform.",
+    "maturity_history": [
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 19,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司采取自主研发、自主创新模式，持续加大研发投入，提升产品技术优势和市\n场竞争力，扩大产品组合，并积极进行境内外市场开发及客户导入，取得了良好成果，实现了经\n营业绩稳健增长。\n  2025 年度，公司实现营业收入 50.76 亿元，同比增长 9.57%，干法去胶设备销售收入基本保\n持稳定，市场占有率位居全球第二；快速热处理设备与干法刻蚀及等离子体表面处理设备销售收\n入实现快速增长，快速热处理设备销售收入 14.81 亿元，同比增长 32.85%，干法刻蚀及等离子体\n表面处理设备销售收入 7.54 亿元，同比增长 30.73%。公司实现人均营业收入 412.37 万元，同比\n增长 1.29%。公司实现归属于上市公司股东的净利润 6.71 亿元，同比增长 24.03%；实现归属于上\n市公司股东的扣除非经常性损益的净利润 5.41 亿元，同比增长 11.61%。截至 2025 年 12 月 31 日，\n公司总资产 113.84 亿元，较期初增长 14.38%；归属于上市公司股东的净资产 89.16 亿元，较期初\n增长 50.75%。\n  （二）报告期内重点任务完成情况\n  1、生产研发方面\n  公司以半导体设备国际技术发展趋势、客户需求为导向，依靠具有丰富经验的国际化研发团\n队，形成以研发、生产、市场一体化的创新机制，取得了集成电路制造领域干法去胶、快速热处\n理、干法刻蚀及等离子体表面处理设备关键核心技术领域的重要成果，并在全球主要半导体生产\n国家及地区申请专利保护，把研发成果快速产业化。\n  2025 年公司研发投入总额 7.39 亿元，同比增长 3.03%，研发投入总额占营业收入比例为 14.55%。\n  为进一步提升公司集成电路装备研发制造产业化能力，提升产能规模及综合竞争力，公司以\n自筹资金预先投入建设“屹唐半导体集成电路装备研发制造服务中心项目”（以下简称“北京研\n发制造基地”），2023 年 9 月，北京研发制造基地已建成投入使用。截至目前，北京研发制造基\n地已实现了干法去胶、快速热处理、干法刻蚀及等离子体表面处理三大类设备的批量生产，设备\n产量逐年增长，已成为公司最主要的设备研发和制造基地。\n  公司通过持续研发投入，对现有干法去胶、快速热处理、干法刻蚀及等离子体表面处理设备\n持续开展技术改进升级，不断提升产品的竞争力，保持产品先进性。同时，公司基于在等离子体\n去胶、等离子体刻蚀、真空反应腔设计、射频匹配器开发、快速热处理相关温度测量和温度控制\n等多种关键集成电路制造设备所需的核心技术领域的深厚积累，面向国内外新老客户对高端集成\n电路设备的多样化需求，成功研发多款技术领先的新型集成电路设备，具体如下：\n  干法去胶设备方面，公司开发推出了新一代先进干法去胶设备 Optima®，该等离子体干法去\n胶设备系列产品可满足各类制程工艺需求，工艺效果优异，具备颗粒污染低、大规模量产综合持\n有成本低等卓越性能，该设备已通过关键客户量产验证并获得客户重复量产订单，且已拓展至多\n家新客户量产线，客户需求在持续增长。\n  快速热处理设备方面，公司借助在高温快速热处理、等离子体源及超高产出设备平台等领域\n的技术积累，已开展新的研发工作，包括开发新一代常压快速热处理设备以提高现有设备性能，\n使其拥有更强的市场竞争力；开发先进低压快速热处理设备以全面覆盖各类制程需求；开发新型\n快速热处理设备，包括具备低热预算且具有选择性加热的新一代快速热处理设备以及集成多项连\n续工艺流程的快速热处理一体化设备。报告期内，部分项目已完成产品开发，处于客户进行量产\n验证过程中。\n  干法刻蚀及等离子体表面处理设备方面，公司开发推出了新一代先进干法刻蚀设备 RENA-E®，\n该等离子体刻蚀机可以对离子能量和离子密度进行独立控制，具备刻蚀速度快、晶圆器件等离子\n体损伤小、器件性能表现优异、反应腔损耗品寿命长等各项卓越性能，还可以高效应对介质材料\n和金属材料的复杂膜层刻蚀。该设备已通过关键客户量产验证并获得客户重复量产订单，且已导\n入多家客户进行量产验证，客户需求在持续增长。\n  公司开发的先进等离子体表面处理和材料改性设备 Escala®利用专利技术产生高浓度化学反\n应自由基，在低热预算下有效改善各种薄膜材料的性质和性能，广泛应用于存储器和逻辑半导体\n制造中金属薄膜电阻率降低，裂缝修复，增强钨薄膜选择性沉积，增强可流动化学气相沉积介质\n薄膜致密度等。该设备已通过多家关键客户技术验证并实现重复量产订单，客户需求在持续增长，\n公司将持续推进该设备在更多客户进行量产验证。\n  除了上述已量产的新产品之外，为了更好地满足国内外客户对于干法刻蚀及等离子体表面处\n理设备的广泛需求，进一步提升公司在干法刻蚀及等离子体表面处理设备领域的可服务市场规模，\n\n                          19 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_mass_produced_product_multi_customer_technical_validation_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-context stage; exact event date not established. The same paragraph calls the preceding new products 已量产; this is issuer product mass production, not proof of customer-fab production qualification for Escala."
+      },
+      {
+        "source_id": "yitang_annual_2025",
+        "page": 15,
+        "excerpt": "北京屹唐半导体科技股份有限公司2025 年年度报告\n\n\n\n    产品系列                   图示                  应用领域\n\n\n\n\nHydrilis® XT 高产能                         半导体制造领域中准关键刻\n等离子体干法刻蚀                                 蚀的优选的等离子体干法刻\n设备                                       蚀设备。\n\n\n\n\n                                         广泛应用于存储器和逻辑半\n                                         导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                         降低和金属回流裂缝修复，\n面处理和材料改性\n                                         增强钨薄膜选择性沉积，增\n设备\n                                         强可流动化学气相沉积介质\n                                         薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n新增重要非主营业务情况\n□适用 √不适用\n\n(二) 主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n  公司依照行业国际惯例建立产品研发流程及相关制度，对研发项目的立项、审批、执行等流\n程进行了规定。公司的新产品研发及商业化流程可以大致分为可行性研究阶段、产品开发及下线\n阶段、客户端认证阶段、量产及生命周期维护阶段。\n  公司研发部门包含工程设计和工艺开发团队，分别负责干法去胶、快速热处理、干法刻蚀及\n等离子体表面处理设备各个产品线包括机械设计、温控与仿真、电气设计、软件设计、工艺开发、\n新技术开发等各类开发内容。公司建立了科学、规范的研发工作制度，并以市场需求作为技术创\n新导向，按照多种核心技术、多种产品进行新技术、新工艺、新产品的研发。通过对公司所有研\n发项目进行立项评审以及验收评审，保证公司研发目标的实现。\n  3、采购模式\n  为应对全球半导体供应链波动与地缘政治风险，公司建立了系统、科学的供应链评估与管理\n体系。不仅覆盖资质、产能、技术、质量、价格、交期、服务等基础要素，更强化了对关键零部\n件国产化能力及供应链抗风险指标的量化评估。公司已与全球众多供应商建立了长期稳定的合作\n关系，确保合格供应商的长期稳定性。同时从需求预测、库存管理、供应商管理三方面进行动态\n协调，以确保供应稳定的前提下做到成本最优。中国制造基地近年积极推行供应链多元化与本地\n\n                             15 / 228",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      },
+      {
+        "source_id": "yitang_h1_2026",
+        "page": 12,
+        "excerpt": "北京屹唐半导体科技股份有限公司2026 年半年度报告\n\n\n\n    产品系列                    图示                  应用领域\n                                          广泛应用于存储器、逻辑半\n                                          导体、CMOS 图像传感器制\n                                          造中叠层（氮化硅，氧化\n                                          硅）刻蚀、栓塞回刻\nRENA-E® 等离子体\n                                          （PEB）、钝化层刻蚀、对\n刻蚀设备\n                                          准标记刻蚀、刻蚀后表面处\n                                          理、引线孔刻蚀、金属-介质\n                                          -金属复合钝化层刻蚀等多种\n                                          干法刻蚀工艺。\n\n\n\n                                          广泛应用于存储器、逻辑半\nNovyka® 系 列 高 选                           导体、功率 IC 制造中多种\n择比刻蚀和原子层                                  材料（多晶硅、氮化硅、氧\n级表面处理设备                                   化硅、金属或金属氮化物）\n                                          的高选择比刻蚀工艺。\n\n\n\n\nHydrilis® XT 高产能                          半导体制造领域中准关键刻\n等离子体干法刻蚀                                  蚀的优选的等离子体干法刻\n设备                                        蚀设备。\n\n\n\n\n                                          广泛应用于存储器和逻辑半\n                                          导体制造中金属薄膜电阻率\nEscala® 等离子体表\n                                          降低和金属回流裂缝修复，\n面处理和材料改性\n                                          增强金属薄膜选择性沉积，\n设备\n                                          增强可流动化学气相沉积介\n                                          质薄膜致密度。\n\n\n\n报告期内，公司的主营业务未发生变化。\n\n（三）主要经营模式\n  公司结合国家集成电路产业政策、市场发展和供需情况、半导体专用设备行业特点、公司主\n营业务、主要产品和自身发展阶段等因素，形成了目前的经营模式，经营模式与同行业惯例一致。\n具体如下：\n  1、盈利模式\n  公司主要从事集成电路设备的研发、生产和销售，通过向存储芯片制造厂商、逻辑电路制造\n厂商、功率器件制造厂商等集成电路制造厂商和硅片制造厂商销售干法去胶、快速热处理、干法\n刻蚀及等离子体表面处理设备，同时提供配件和服务来实现收入和利润。报告期内，公司主营业\n务收入来源于集成电路设备产品的销售以及设备相关配件销售，提供设备升级维护服务等。\n  2、研发模式\n                              12 / 178",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_listed_no_new_delivery_inference",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-listing page including stated applications; not a new shipment, sales or validation count."
+      }
+    ]
+  }
+]

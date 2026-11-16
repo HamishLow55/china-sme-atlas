@@ -1,0 +1,162 @@
+[
+  {
+    "claim": "OPTIMA FY2023 standalone financial metrics",
+    "source_id": "secote_fy2023",
+    "pages_reviewed": [
+      27,
+      202
+    ],
+    "reason": "The FY2023 major controlled/participated-company analysis on physical PDF p27 does not list OPTIMA. The group-structure table on p202 reports its business scope and 74.1% holding but no revenue or profit. No FY2023 Optima financial observation was created.",
+    "claim_id": "wave3-secote-1"
+  },
+  {
+    "claim": "Semiconductor segment equals semiconductor equipment made in China",
+    "source_id": "secote_fy2023",
+    "pages_reviewed": [
+      11,
+      17,
+      202
+    ],
+    "reason": "The industry segment spans group operations and product types. OPTIMA is a Japan-based acquired subsidiary; the filings do not support treating all segment revenue as domestically produced Chinese semiconductor tools.",
+    "claim_id": "wave3-secote-2"
+  },
+  {
+    "claim": "Quantitative equipment units, orders or backlog",
+    "source_id": "secote_fy2023",
+    "pages_reviewed": [
+      11,
+      17,
+      27
+    ],
+    "reason": "The relevant section says batch equipment orders but gives no count or value. No unit, new-order or backlog observation was inferred.",
+    "claim_id": "wave3-secote-3"
+  },
+  {
+    "claim": "Quantitative equipment units, orders or backlog",
+    "source_id": "secote_fy2024",
+    "pages_reviewed": [
+      10,
+      12,
+      16,
+      25
+    ],
+    "reason": "Relevant sections discuss customer-site testing and customer acceptance as a segment growth driver but disclose no physical tool count, order value or backlog.",
+    "claim_id": "wave3-secote-4"
+  },
+  {
+    "claim": "Quantitative equipment units, orders or backlog",
+    "source_id": "secote_fy2025",
+    "pages_reviewed": [
+      10,
+      13,
+      14,
+      17,
+      26
+    ],
+    "reason": "The filing reports shipment and acceptance of wafer-edge equipment without a reliable number, and discusses order optimization only for the new-energy segment. No semiconductor tool-unit, order or backlog row was created.",
+    "claim_id": "wave3-secote-5"
+  },
+  {
+    "claim": "HBM-specific revenue",
+    "source_id": "secote_fy2023",
+    "pages_reviewed": [
+      11,
+      17
+    ],
+    "reason": "HBM/TSV application and batch-order wording is qualitative; the broad semiconductor-segment revenue cannot be allocated to HBM.",
+    "claim_id": "wave3-secote-6"
+  },
+  {
+    "claim": "HBM-specific revenue",
+    "source_id": "secote_fy2025",
+    "pages_reviewed": [
+      10,
+      13,
+      14,
+      17
+    ],
+    "reason": "The filing claims HBM commercial deployment/customer introduction but gives no HBM amount. The semiconductor segment remains broad.",
+    "claim_id": "wave3-secote-7"
+  },
+  {
+    "claim": "Issuer investment or unit price as equipment sales",
+    "source_id": "secote_fy2023",
+    "pages_reviewed": [
+      25,
+      26
+    ],
+    "reason": "Investment sections and financial-asset amounts were reviewed as boundary checks and excluded; they are not tool revenue, tool units, orders or backlog.",
+    "claim_id": "wave3-secote-8"
+  },
+  {
+    "claim": "OPTIMA revenue equals semiconductor inspection-equipment revenue",
+    "source_id": "secote_fy2024",
+    "pages_reviewed": [
+      25,
+      189
+    ],
+    "reason": "The disclosed subsidiary business scope also includes exposure equipment/services, consumables, consulting/marketing, abrasives trade and investment. The total was retained only at subsidiary scope.",
+    "claim_id": "wave3-secote-9"
+  },
+  {
+    "claim": "OPTIMA revenue equals semiconductor inspection-equipment revenue",
+    "source_id": "secote_fy2025",
+    "pages_reviewed": [
+      26,
+      182
+    ],
+    "reason": "The same mixed subsidiary perimeter applies. No product-level Optima revenue split is disclosed.",
+    "claim_id": "wave3-secote-10"
+  },
+  {
+    "claim": "FY2025 wafer-edge accepted equipment physical count",
+    "source_id": "secote_fy2025",
+    "page": 14,
+    "reason": "The Chinese singular-looking phrase 设备 does not establish an exact count. Shipment/acceptance is retained only as a maturity event.",
+    "claim_id": "wave3-secote-11"
+  },
+  {
+    "claim_id": "secote_annual_automation_volumes_not_semiconductor",
+    "claim": "Automation-equipment production, sales and inventory counts cannot be allocated to semiconductor tools or installed base",
+    "source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "pages_reviewed": [
+      18,
+      17,
+      18
+    ],
+    "reason": "Root verified the rendered FY2023 physical p18, FY2024 p17 and FY2025 p18 grids. Each contains one 自动化设备 row, with annual production, sales and inventory plus printed changes; no semiconductor-specific sibling row is given. The filings distinguish semiconductor, consumer-electronics and new-energy industry scopes separately. Do not treat this product basket as semiconductor tool units, infer semiconductor counts from monetary shares, or substitute inventory for installed base. Earlier narrow unit-count absence dispositions concern semiconductor-resolved quantities, not the absence of any company-wide table."
+  },
+  {
+    "claim_id": "secote_h126_semiconductor_and_optima_financial_disclosure_limit",
+    "claim": "H1 2026 semiconductor-segment and Optima standalone revenue/profit",
+    "source_id": "secote_h1_2026",
+    "pages_reviewed": [
+      17,
+      122,
+      123,
+      137,
+      150
+    ],
+    "reason": "Root reviewed major-subsidiary grid on physical p17 and revenue/cost product grid on p122, with full-source Optima search. The subsidiary financial grid omits Optima; product types are broad automation, technical services, fixtures and other, not semiconductor industry rows. Segment financial information is marked not applicable on p150. Group structure still lists Optima in Japan on p137; omission is not evidence of disposal or zero revenue. No semiconductor allocation, Optima residual, or comparable H1 segment series can be manufactured from these tables."
+  },
+  {
+    "claim_id": "secote_h126_rd_metric_012",
+    "claim": "Reported R&D expense relative change",
+    "source_id": "secote_h1_2026",
+    "page": 13,
+    "excerpt": "财务报表相关科目变动分析表\n                                                     单位：元 币种：人民币\n 科目                   本期数             上年同期数             变动比例（%）\n 营业收入                1,530,331,919.97 1,373,298,471.64        11.43\n 营业成本                  837,283,775.11   762,412,166.62         9.82\n 销售费用                  141,036,232.74   176,974,901.53       -20.31\n 管理费用                   89,817,809.96    90,631,864.77        -0.90\n 财务费用                   45,686,625.70    15,145,281.49       201.66\n 研发费用                  154,409,985.76   159,611,570.84        -3.26\n 经营活动产生的现金流量净额           9,602,341.02   268,799,847.76       -96.43",
+    "reason": "Existing R&D investment growth semantics do not cover this income-statement expense. Preserve source claim pending compatible metric contract; do not relabel expense as investment."
+  },
+  {
+    "claim_id": "secote_h126_rd_metric_014",
+    "claim": "Reported R&D expense intensity",
+    "source_id": "secote_h1_2026",
+    "page": 12,
+    "excerpt": "核心技术是企业构筑竞争壁垒、实现可持续经营的关键要素。公司长期践行自主创新战略，深耕研发创新与\n产品迭代，持续增强核心技术实力与市场竞争力。2026 年上半年，公司研发费用投入 154,409,985.76 元，研发费\n用率 10.09%。持续研发投入催生多项技术成果与重点项目落地，公司凭借技术优势先后取得江苏省博士后创新",
+    "reason": "Existing R&D investment-to-revenue metric does not cover source-worded R&D expense intensity. Preserve source claim pending compatible metric contract."
+  }
+]

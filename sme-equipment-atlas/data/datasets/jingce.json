@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "jingce_annual_disclosures",
+    "title": "Jingce annual-report disclosures",
+    "kind": "company_filings",
+    "publisher": "jingce",
+    "version": "FY2023-FY2025",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  }
+]

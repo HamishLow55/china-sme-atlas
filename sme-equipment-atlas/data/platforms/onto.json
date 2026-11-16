@@ -1,0 +1,183 @@
+[
+  {
+    "platform_id": "onto_dragonfly_g3",
+    "entity_id": "onto",
+    "category_id": "inspection_macro",
+    "record_kind": "named_model",
+    "name": "Dragonfly G3",
+    "aliases": [
+      "Dragonfly"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "latest_generation_field_established_macro_defect_inspection_system",
+    "maturity_as_reported_in": "onto_10k_fy2025",
+    "notes": "Onto's own words describe Dragonfly G3 as 'the latest' of its field-established macro-defect inspection systems, i.e. current-generation and already field-deployed (commercial/mass-production stage), not a trial tool. Filed at inspection_macro (pure defect inspection; no metrology wording attached to this family). The source states these tools are 'found in the wafer fab (front-end) and packaging (back-end) facilities' -- dual-use, not packaging-exclusive -- so the application_link below is process_relevance rather than a stronger supplier_capability/production_claim. F30 and NSX appear in the same sentence with no further individual description; registered as separate platform records below citing the identical passage, per the convention that every named model gets its own record even where the source gives no per-model distinguishing detail. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against onto_10k_fy2025 p.1: \"Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems...\" matches verbatim once the ® (HTML entity between 'Dragonfly' and 'G3') is accounted for -- a cosmetic trademark-symbol artifact, not a fabrication; the name is genuinely printed. Category inspection_macro correct per the issuer's own 'Macro Defect Inspection' heading. 'Latest' correctly read as current-generation/field-deployed without inventing a stronger claim; dual front-end/back-end deployment correctly kept as the basis for the weaker process_relevance application_link rather than a packaging-exclusive claim.",
+    "maturity_history": [
+      {
+        "source_id": "onto_10k_fy2025",
+        "page": 1,
+        "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "latest_generation_field_established_macro_defect_inspection_system",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Onto's own words describe Dragonfly G3 as 'the latest' of its field-established macro-defect inspection systems, i.e. current-generation and already field-deployed (commercial/mass-production stage), not a trial tool. Filed at inspection_macro (pure defect inspection; no metrology wording attached to this family). The source states these tools are 'found in the wafer fab (front-end) and packaging (back-end) facilities' -- dual-use, not packaging-exclusive -- so the application_link below is process_relevance rather than a stronger supplier_capability/production_claim. F30 and NSX appear in the same sentence with no further individual description; registered as separate platform records below citing the identical passage, per the convention that every named model gets its own record even where the source gives no per-model distinguishing detail."
+      }
+    ]
+  },
+  {
+    "platform_id": "onto_firefly",
+    "entity_id": "onto",
+    "category_id": "inspection_macro",
+    "record_kind": "named_model",
+    "name": "Firefly",
+    "aliases": [
+      "Firefly series"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "The Firefly® series of panel level macro inspection tools, designed for high resolution inspection, can provide defect detection and location information to the JetStep X500 tool for each die, which greatly improves lithography throughput using our exclusive StepFAST™ process. It also delivers a combination of defect classification and process throughput in a single software platform. It reduces capital investment requirements and provides a reliable pathway to transition from wafer to panel-based processes.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_platform_panel_level_macro_inspection_paired_with_jetstep_x500",
+    "maturity_as_reported_in": "onto_10k_fy2025",
+    "notes": "Current, named panel-level macro inspection platform, explicitly paired in the issuer's own description with the JetStep X500 packaging-lithography tool to improve throughput on advanced-packaging panel substrates. Filed at inspection_macro: the passage uses only inspection/defect-detection language, no metrology wording. Strong advanced_packaging application_link below (supplier_capability): the entire passage is about advanced-packaging panel manufacturing. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against onto_10k_fy2025 p.1: \"The Firefly® series of panel level macro inspection tools...\" matches verbatim (® artifact between 'Firefly' and 'series' only breaks a naive string match, not the real page). Category inspection_macro correct ('panel level macro inspection' is the issuer's own phrase). Pairing with JetStep X500 and the advanced-packaging panel-transition framing are both accurately carried into the companion application_link.",
+    "maturity_history": [
+      {
+        "source_id": "onto_10k_fy2025",
+        "page": 1,
+        "excerpt": "The Firefly® series of panel level macro inspection tools, designed for high resolution inspection, can provide defect detection and location information to the JetStep X500 tool for each die, which greatly improves lithography throughput using our exclusive StepFAST™ process. It also delivers a combination of defect classification and process throughput in a single software platform. It reduces capital investment requirements and provides a reliable pathway to transition from wafer to panel-based processes.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_platform_panel_level_macro_inspection_paired_with_jetstep_x500",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current, named panel-level macro inspection platform, explicitly paired in the issuer's own description with the JetStep X500 packaging-lithography tool to improve throughput on advanced-packaging panel substrates. Filed at inspection_macro: the passage uses only inspection/defect-detection language, no metrology wording. Strong advanced_packaging application_link below (supplier_capability): the entire passage is about advanced-packaging panel manufacturing."
+      }
+    ]
+  },
+  {
+    "platform_id": "onto_f30",
+    "entity_id": "onto",
+    "category_id": "inspection_macro",
+    "record_kind": "named_model",
+    "name": "F30",
+    "aliases": [
+      "F30"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "field_established_macro_defect_inspection_system",
+    "maturity_as_reported_in": "onto_10k_fy2025",
+    "notes": "Named only in the same single sentence as NSX, Firefly and Dragonfly G3 ('Field-established tools such as the F30, NSX, Firefly, and the latest Dragonfly G3 inspection systems'), with no further individual description anywhere else searched in this filing. 'Field-established' is read as a maturity word (deployed, in commercial use) rather than upgraded to any more specific claim. Filed at inspection_macro. Dual front-end/back-end deployment per the same sentence as Dragonfly G3; no packaging-specific application_link registered for this platform individually since the source gives it no distinguishing detail from the group. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against onto_10k_fy2025 p.1, same sentence as Dragonfly G3 and NSX. Category inspection_macro correct. Correctly declines to invent any individual distinguishing claim or application_link beyond what the shared sentence supports -- F30 gets no packaging-specific link, consistent with the source giving it no distinguishing detail from the group.",
+    "maturity_history": [
+      {
+        "source_id": "onto_10k_fy2025",
+        "page": 1,
+        "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "field_established_macro_defect_inspection_system",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Named only in the same single sentence as NSX, Firefly and Dragonfly G3 ('Field-established tools such as the F30, NSX, Firefly, and the latest Dragonfly G3 inspection systems'), with no further individual description anywhere else searched in this filing. 'Field-established' is read as a maturity word (deployed, in commercial use) rather than upgraded to any more specific claim. Filed at inspection_macro. Dual front-end/back-end deployment per the same sentence as Dragonfly G3; no packaging-specific application_link registered for this platform individually since the source gives it no distinguishing detail from the group."
+      }
+    ]
+  },
+  {
+    "platform_id": "onto_nsx",
+    "entity_id": "onto",
+    "category_id": "inspection_macro",
+    "record_kind": "named_model",
+    "name": "NSX",
+    "aliases": [
+      "NSX"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "field_established_macro_defect_inspection_system",
+    "maturity_as_reported_in": "onto_10k_fy2025",
+    "notes": "Named only in the same single sentence as F30, Firefly and Dragonfly G3, with no further individual description anywhere else searched in this filing. 'Field-established' read as a maturity word only. Filed at inspection_macro. No packaging-specific application_link registered for this platform individually. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against onto_10k_fy2025 p.1, same sentence as Dragonfly G3 and F30. Category inspection_macro correct. Same appropriately conservative treatment as F30 -- no invented individual claim.",
+    "maturity_history": [
+      {
+        "source_id": "onto_10k_fy2025",
+        "page": 1,
+        "excerpt": "Macro Defect Inspection. Chip manufacturers deploy advanced macro defect inspection throughout the production line to monitor key process steps, gather process-enhancing information and ultimately, lower manufacturing costs. Field-established tools such as the F30™, NSX®, Firefly®, and the latest Dragonfly® G3 inspection systems are found in the wafer fab (front-end) and packaging (back-end) facilities around the world. These high-speed tools incorporate features such as wafer-less recipe creation, tool-to-tool correlation and multiple inspection resolutions.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "field_established_macro_defect_inspection_system",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Named only in the same single sentence as F30, Firefly and Dragonfly G3, with no further individual description anywhere else searched in this filing. 'Field-established' read as a maturity word only. Filed at inspection_macro. No packaging-specific application_link registered for this platform individually."
+      }
+    ]
+  },
+  {
+    "platform_id": "onto_jetstep_x500",
+    "entity_id": "onto",
+    "category_id": "lithography_packaging",
+    "record_kind": "named_model",
+    "name": "JetStep X500",
+    "aliases": [
+      "JetStep® X500",
+      "JetStep X500 System"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "For example, the JetStep® X500 lithography system, having emerged from the flat panel display market, is readily capable of processing RDLs on very thin advanced organic laminate panels in the semiconductor advanced packaging market...The new JetStep X500 System is designed for rectangular substrates (panels), which when combined with user-selectable wavelength options, maximizes throughput while not limiting resolution when needed...These features result in a revolutionary lithography system specifically designed to meet advanced packaging challenges.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "current_production_platform_specifically_designed_for_advanced_packaging_panel_lithography",
+    "maturity_as_reported_in": "onto_10k_fy2025",
+    "notes": "Current packaging-lithography platform, explicitly 'specifically designed to meet advanced packaging challenges' (RDL processing on rectangular/panel substrates). Registered even though lithography_packaging sits outside this packet's primary inspection/metrology scope, because it is well-evidenced, directly tied to advanced packaging, and pairs with the Firefly inspection platform above in the issuer's own account of its advanced-packaging business. Not an inspection or metrology tool, so excluded from the revenue-category discussion; included here for named-platform completeness (brief point 4) and because a future lithography-comparator wave (ASML/Canon/Nikon vs SMEE/AMIES) may want to know Onto also competes here. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against onto_10k_fy2025 p.1: \"the JetStep® X500 lithography system, having emerged from the flat panel display market, is readily capable of processing RDLs...\" matches verbatim (® artifact between 'JetStep' and 'X500' only). Category lithography_packaging correct. The record is transparent that this sits outside the packet's primary inspection/metrology scope and registers it anyway for named-platform completeness -- a reasonable, flagged judgment call, not an overreach.",
+    "maturity_history": [
+      {
+        "source_id": "onto_10k_fy2025",
+        "page": 1,
+        "excerpt": "For example, the JetStep® X500 lithography system, having emerged from the flat panel display market, is readily capable of processing RDLs on very thin advanced organic laminate panels in the semiconductor advanced packaging market...The new JetStep X500 System is designed for rectangular substrates (panels), which when combined with user-selectable wavelength options, maximizes throughput while not limiting resolution when needed...These features result in a revolutionary lithography system specifically designed to meet advanced packaging challenges.",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "current_production_platform_specifically_designed_for_advanced_packaging_panel_lithography",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Current packaging-lithography platform, explicitly 'specifically designed to meet advanced packaging challenges' (RDL processing on rectangular/panel substrates). Registered even though lithography_packaging sits outside this packet's primary inspection/metrology scope, because it is well-evidenced, directly tied to advanced packaging, and pairs with the Firefly inspection platform above in the issuer's own account of its advanced-packaging business. Not an inspection or metrology tool, so excluded from the revenue-category discussion; included here for named-platform completeness (brief point 4) and because a future lithography-comparator wave (ASML/Canon/Nikon vs SMEE/AMIES) may want to know Onto also competes here."
+      }
+    ]
+  }
+]

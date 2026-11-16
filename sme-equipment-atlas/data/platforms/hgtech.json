@@ -1,0 +1,167 @@
+[
+  {
+    "platform_id": "hgtech_uv_picosecond_wafer_dicing_family",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "皮秒激光划片设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HGTECH-PRODUCT-UV-PICO-DICER-IDENTITY",
+      "source_id": "hgtech_picosecond_dicing_product_20260924",
+      "page": 1,
+      "excerpt": "皮秒激光划片设备；采用紫外皮秒激光器，针对硅和化合物半导体晶圆进行精密半切或全切。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "catalogued_product_no_customer_stage",
+    "maturity_as_reported_in": "hgtech_picosecond_dicing_product_20260924",
+    "notes": "Wholly owned HG Laser site product listing. Whole UV picosecond wafer half/full dicer for silicon and compound semiconductor; not an HBM qualification. LUD3200/LUD3210 are two listed models under this family, so family and models are identity records, not additive shipment counts. HTML locator is document 1/product description, not a PDF page. Product publication date unstated."
+  },
+  {
+    "platform_id": "hgtech_lud3200",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "record_kind": "named_model",
+    "name": "LUD3200",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HGTECH-PRODUCT-LUD3200-MODEL",
+      "source_id": "hgtech_picosecond_dicing_product_20260924",
+      "page": 1,
+      "excerpt": "设备型号 LUD3200 LUD3210；加工头 激光扫描头 激光准直头；划线线宽 ≤30± 5 μm ≤20± 5 μm",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "catalogued_product_no_customer_stage",
+    "maturity_as_reported_in": "hgtech_picosecond_dicing_product_20260924",
+    "notes": "Named UV picosecond dicer model in first product-table column: scanning head, stated scribe width ≤30±5 μm. Same family as hgtech_uv_picosecond_wafer_dicing_family; no shipment/customer/HBM claim. HTML document 1/技术参数 table, not a PDF page."
+  },
+  {
+    "platform_id": "hgtech_lud3210",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "record_kind": "named_model",
+    "name": "LUD3210",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HGTECH-PRODUCT-LUD3210-MODEL",
+      "source_id": "hgtech_picosecond_dicing_product_20260924",
+      "page": 1,
+      "excerpt": "设备型号 LUD3200 LUD3210；加工头 激光扫描头 激光准直头；划线线宽 ≤30± 5 μm ≤20± 5 μm",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "catalogued_product_no_customer_stage",
+    "maturity_as_reported_in": "hgtech_picosecond_dicing_product_20260924",
+    "notes": "Named UV picosecond dicer model in second product-table column: collimating head, stated scribe width ≤20±5 μm. Same family as hgtech_uv_picosecond_wafer_dicing_family; no shipment/customer/HBM claim. HTML document 1/技术参数 table, not a PDF page."
+  },
+  {
+    "platform_id": "hgtech_automatic_stealth_wafer_dicer_family",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "全自动晶圆激光改质切割设备",
+    "aliases": [
+      "激光隐切设备"
+    ],
+    "evidence": {
+      "claim_id": "HGTECH-NEWS-STEALTH-DICER-IDENTITY",
+      "source_id": "hgtech_wafer_cutting_news_20250207",
+      "page": 1,
+      "excerpt": "2023年8月，华工科技自主开发了新一代的“全自动晶圆激光改质切割设备”，也称激光隐切设备，这是一种完全干法切割的技术。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_no_customer_stage",
+    "maturity_as_reported_in": "hgtech_wafer_cutting_news_20250207",
+    "notes": "Official HG Laser site news dated 2025-02-07 attributes August 2023 development to HGTech group; exact milestone day unstated. Whole dry internal-modification/stealth dicer. No model, sold/installed count, named customer or HBM qualification. Do not equate it with the LUD3200/LUD3210 half/full-cut product listing. HTML document 1/news article body, not a PDF page."
+  },
+  {
+    "platform_id": "hgtech_high_end_wafer_laser_cutting_family",
+    "entity_id": "hgtech",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "高端晶圆激光切割装备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HGTECH-NEWS-HIGH-END-WAFER-CUTTING",
+      "source_id": "hgtech_wafer_cutting_news_20250207",
+      "page": 1,
+      "excerpt": "于2023年6月推出我国首台核心部件100%国产化的高端晶圆激光切割装备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "issuer_reported_launch_and_example_application",
+    "maturity_as_reported_in": "hgtech_wafer_cutting_news_20250207",
+    "notes": "Broad news-defined family, potentially overlapping LUD models or other cutting families; identity does not establish an additional distinct machine or shipment. Original HTML article body document1. June2023 is a launch month, not an exact day. Domestic-content and first-product language are issuer assertions, not independently corroborated. No HBM qualification.",
+    "maturity_history": [
+      {
+        "source_id": "hgtech_wafer_cutting_news_20250207",
+        "page": 1,
+        "excerpt": "已在九峰山实验室等单位实现典型应用。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "example_application_reported",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Named example application in Jiufeng laboratory and other unnamed institutions, as reported in February2025 article; no application date, acceptance milestone, shipment count or installed base."
+      },
+      {
+        "source_id": "hgtech_wafer_cutting_news_20250207",
+        "page": 1,
+        "excerpt": "2024年三季度，华工科技在第一代高端晶圆激光切割装备的基础上再次升级，推出了第二代国产化高端晶圆激光切割设备。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "second_generation_launched",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Source states Q3 2024, exact day absent. No binding to LUD model identities or HBM. Source period preserved in prose; no day inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hgtech_sic_annealing_equipment",
+    "entity_id": "hgtech",
+    "category_id": "thermal",
+    "record_kind": "source_native_family",
+    "name": "SiC 退火设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "HGTECH-SIC-ANNEALING-EQUIPMENT",
+      "source_id": "hgtech_h1_2026",
+      "page": 14,
+      "excerpt": "SiC 退火设备实现订单复制",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "repeat_orders_reported",
+    "maturity_as_reported_in": "hgtech_h1_2026",
+    "notes": "Compound-semiconductor tool. The source does not say laser in this passage, so the parent thermal node is used rather than thermal_laser_anneal. Not memory or HBM.",
+    "maturity_history": [
+      {
+        "source_id": "hgtech_h1_2026",
+        "page": 14,
+        "excerpt": "SiC 退火设备实现订单复制",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "repeat_orders_reported",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Report-context statement; corroborated at hgtech_ir_20260827 p5."
+      }
+    ]
+  }
+]

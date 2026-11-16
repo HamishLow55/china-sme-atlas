@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "jingyi_automation_annual_2023",
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "北京京仪自动化装备技术股份有限公司 2023 年年度报告",
+    "publication_date": "2024-04-24",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2024-04-24/1219774713.PDF",
+    "sha256": "c7cd9631c8b041ff6bd6e409d3021209f700a26683280cd0fa46ac48d04b8631",
+    "source_type": "company_annual_report",
+    "original_document_id": "jingyi_automation_annual_2023",
+    "notes": "SSE STAR Market annual report, stock code 688652, short name 京仪装备. 董事会批准报送日期 2024 年 4 月 24 日 (financial statements approved by the board on 2024-04-23). Physical page 1 identifies the issuer and period; physical page 7 carries the 公司基本情况 identity block. Hash and 206-page count recomputed locally. Original PDF stays outside Git.",
+    "page_count": 206,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "jingyi_automation_annual_2024",
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "北京京仪自动化装备技术股份有限公司 2024 年年度报告",
+    "publication_date": "2025-04-29",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-04-30/1223425097.PDF",
+    "sha256": "1825d979ffe320bed647384ea211c60013d6d16e324e6cf85c8bbd19697315a2",
+    "source_type": "company_annual_report",
+    "original_document_id": "jingyi_automation_annual_2024",
+    "notes": "SSE STAR Market annual report, stock code 688652. 董事会批准报送日期 2025 年 4 月 29 日. Hash and 220-page count recomputed locally.",
+    "page_count": 220,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "jingyi_automation_annual_2025",
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "北京京仪自动化装备技术股份有限公司 2025 年年度报告",
+    "publication_date": "2026-03-30",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225056304.PDF",
+    "sha256": "4d0b96a931f2f621474378a111a1df0ee7472565e3949a5d1d6f1dbfe1e4c943",
+    "source_type": "company_annual_report",
+    "original_document_id": "jingyi_automation_annual_2025",
+    "notes": "SSE STAR Market annual report, stock code 688652. 董事会批准报送日期 2026 年 3 月 30 日. Hash and 212-page count recomputed locally.",
+    "page_count": 212,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "jingyi_automation_q3_2026",
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "jingyi_automation Q3 2026 report: 北京京仪自动化装备技术股份有限公司2026年第三季度报告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225643097.PDF",
+    "sha256": "3cb6d04a90a7bc21c1e0ff80a69356921c0a1aadd5449c5a2868af2c9bf6226c",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "jingyi_automation_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jingyi_automation_h1_2026",
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "jingyi_automation H1 2026 report: 北京京仪自动化装备技术股份有限公司2026年半年度报告",
+    "publication_date": "2026-08-29",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-29/1225531222.PDF",
+    "sha256": "063bde1505b121ac75e1aef909422e8b9ff754fca9d15431e3508d5c6e0e9fa9",
+    "source_type": "company_interim_report",
+    "original_document_id": "jingyi_automation_h1_2026",
+    "page_count": 207,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

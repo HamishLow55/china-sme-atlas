@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "precisionext_about_20261007",
+    "dataset_id": "precisionext_disclosures",
+    "title": "PrecisioNext official site — Company Introduction",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "https://www.precisionext.com/about/",
+    "sha256": "37cfa577d98f1466a5b3f4e67fb4741d5faec2976770c6bcaab5210160c397ce",
+    "source_type": "company_product_page",
+    "original_document_id": "precisionext_about_20261007",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07. Company's own English-language 'About Us' page: legal English name, founding (November 2017), Dongguan HQ/production centre, Suzhou/Shenzhen/Hong Kong R&D and sales centres. No Chinese legal name or specific registered address is printed on this page; see precisionext_36kr_pitchhub_20261007 for those."
+  },
+  {
+    "source_id": "precisionext_solutions_20261007",
+    "dataset_id": "precisionext_disclosures",
+    "title": "PrecisioNext official site — Products (Advanced Packaging Equipment)",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "https://www.precisionext.com/solutions/",
+    "sha256": "ec7bc059eef260956483ebeb7d08eb3344113c6c50b7298b9c41c6aed4b748cc",
+    "source_type": "company_product_page",
+    "original_document_id": "precisionext_solutions_20261007",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07. Company's own product-menu page naming 'Loong Thermal Compression Bonder' and 'Phoenix 350 Lite Thermal Comperssion [sic] Bonder' under Advanced Packaging Equipment, alongside its semiconductor/photonics/MiniLED die-attach and eutectic-bonder lines. No numeric specification is printed for either TCB platform on this page."
+  },
+  {
+    "source_id": "precisionext_36kr_pitchhub_20261007",
+    "dataset_id": "precisionext_disclosures",
+    "title": "36氪 PitchHub — 普莱信智能项目信息",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "https://pitchhub.36kr.com/project/1678489965048839",
+    "sha256": "13738c82f44bbbfad4feec93deb0d99ca0de87b4d8184d01de53d6def4226101",
+    "source_type": "third_party_press_report",
+    "original_document_id": "precisionext_36kr_pitchhub_20261007",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07. Third-party startup-database profile page carrying a registry-style company panel: 法定代表人 孟晋辉, 成立时间 2017-11-15, 注册地址 广东省东莞市东坑镇兴国路东坑段11号1号楼401室, plus a shareholder list led by 东莞汉驰企业管理合伙企业（有限合伙）. The page's own shareDesc metadata separately states the company '成立于2017年12月' (December 2017), one month later than the registry panel's 2017-11-15 and the company's own site's 'November 2017' — noted as an unresolved minor discrepancy, not corrected here."
+  },
+  {
+    "source_id": "precisionext_fsemi_loong_hbm_20240527",
+    "dataset_id": "precisionext_disclosures",
+    "title": "未来半导体 — 剑指HBM及AI芯片，普莱信重磅发布Loong系列TCB先进封装设备",
+    "publication_date": "2024-05-27",
+    "publication_date_precision": "day",
+    "url": "http://www.fsemi.tech/cms/xinwenkuaixun/3319.html",
+    "sha256": "7103546eff328942360fff8d6eae0dcb246a60e257518179c06d8d215e6c680c",
+    "source_type": "third_party_press_report",
+    "original_document_id": "precisionext_fsemi_loong_hbm_20240527",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07; article dated 2024-05-27 on its own page. Industry trade portal relaying PrecisioNext's own R&D narrative: completion of a 'Loong' TC Bonder technology platform and launch of named sub-series Loong WS and Loong F, the latter stated to be a Fluxless process tool prepared for next-generation HBM3E and HBM."
+  },
+  {
+    "source_id": "precisionext_cfol_cowos_20250314",
+    "dataset_id": "precisionext_disclosures",
+    "title": "光纤在线 — 国产AI芯片破局：国产TCB设备首次完成CoWoS封装工艺测试",
+    "publication_date": "2025-03-14",
+    "publication_date_precision": "day",
+    "url": "http://www.c-fol.net/news/4_202503/20250314104130.html",
+    "sha256": "0a3e3e93984adcd52a1763785abdf13f0dadcf35311888007483c491fa899e02",
+    "source_type": "third_party_press_report",
+    "original_document_id": "precisionext_cfol_cowos_20250314",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07; article dated 2025-03-14 10:33:45 on its own page. Industry trade portal (光纤在线) relaying PrecisioNext's own statements: completion of CoWoS-L test sampling for a domestic AI chip (described as the first such breakthrough for a domestic TCB tool), the Loong platform's ±1μm chip-placement precision at 450°C, compatibility with 12-inch wafer-level and 620×620mm panel-level packaging, a stated capability to 'support HBM stacking' among its full-process coverage, a forward target of ±0.3μm precision for a next-generation Fluxless TCB tool (not yet achieved), and the SEMICON China booth description labelling the Loong line 'the sole domestic HBM/CoWoS bonding equipment'."
+  }
+]

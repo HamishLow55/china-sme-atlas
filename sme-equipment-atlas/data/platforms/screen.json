@@ -1,0 +1,38 @@
+[
+  {
+    "platform_id": "screen_dw3100",
+    "entity_id": "screen",
+    "category_id": "lithography_packaging",
+    "record_kind": "source_native_family",
+    "name": "DW-3100",
+    "aliases": [
+      "DW-3100"
+    ],
+    "evidence": {
+      "source_id": "screen_fy2025_yuho_jp",
+      "page": 33,
+      "excerpt": "半導体製造装置事業では、近年のAI半導体の急速な進化を背景に需要が拡大している半導体先端パッケージ市場向けに、世界最高水準の高解像度を実現した直接描画露光装置「DW-3100」を開発いたしました。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "developed (開発いたしました) during FY2025; a direct-write/direct-imaging exposure system achieving world-leading (industry-leading, per the English Annual Report wording) resolution, designed for the advanced semiconductor packaging market",
+    "maturity_as_reported_in": "screen_fy2025_yuho_jp",
+    "notes": "SCREEN's named direct-write exposure platform for advanced-packaging/RDL lithography, filed at lithography_packaging (exposure equipment for advanced packaging and redistribution layers): the Japanese yuho calls it a 直接描画露光装置 (direct-write EXPOSURE device, 露光 being unambiguous lithography terminology) and the English Annual Report 2026 Financial Section (physical p.6) confirms 'a direct imaging system with industry-leading resolution...designed for the advanced semiconductor packaging market, in which demand is expanding in response to the rapid evolution of AI semiconductors'. No revenue, shipment, order or unit-count figure is attached to DW-3100 anywhere in either source -- this is an R&D-achievement announcement only (developed during FY2025), so reported_maturity is kept as a close paraphrase of the development/capability claim rather than upgraded to a commercial-adoption claim. Application link to advanced_packaging is registered separately (screen_dw3100_advanced_packaging). W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against screen_fy2025_yuho_jp p.33: the Japanese sentence names \"直接描画露光装置「DW-3100」\" (direct-write exposure device \"DW-3100\") verbatim, and \"DW-3100\" is findable in the held source. Category lithography_packaging fits exactly (packaging/RDL exposure equipment). reported_maturity is correctly kept at development-announcement strength (開発いたしました = \"developed\") rather than upgraded to a commercial-adoption claim; no shipment, order or revenue figure is attached anywhere.",
+    "maturity_history": [
+      {
+        "source_id": "screen_fy2025_yuho_jp",
+        "page": 33,
+        "excerpt": "半導体製造装置事業では、近年のAI半導体の急速な進化を背景に需要が拡大している半導体先端パッケージ市場向けに、世界最高水準の高解像度を実現した直接描画露光装置「DW-3100」を開発いたしました。",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "reported_maturity": "developed during FY2025; world-leading-resolution direct-write exposure system for the advanced semiconductor packaging market",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 【研究開発活動】 R&D-achievements narrative; development announcement, no adoption or volume language."
+      }
+    ]
+  }
+]

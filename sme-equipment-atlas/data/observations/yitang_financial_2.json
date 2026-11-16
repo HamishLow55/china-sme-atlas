@@ -1,0 +1,1192 @@
+[
+  {
+    "observation_id": "YITANG-H1-2026-REVENUE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "2131413277.21",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "营业收入",
+      "excerpt": "营业收入 2,131,413,277.21 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "2131413277.21",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-COST_OF_REVENUE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "value": "1266974939.39",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 26,
+      "original_label": "营业成本",
+      "excerpt": "营业成本 1,266,974,939.39 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "1266974939.39",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-NET_PROFIT_ATTRIBUTABLE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "net_profit_attributable",
+    "value": "395684816.41",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "归属于上市公司股东的净利润",
+      "excerpt": "归属于上市公司股东的净利润 395,684,816.41 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "395684816.41",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-OPERATING_CASH_FLOW",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "operating_cash_flow",
+    "value": "604616060.66",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "经营活动产生的现金流量净额",
+      "excerpt": "经营活动产生的现金流量净额 604,616,060.66 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "604616060.66",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-REVENUE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "2481979013.65",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "营业收入",
+      "excerpt": "营业收入 2,481,979,013.65 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "2481979013.65",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-COST_OF_REVENUE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "value": "1591096742.88",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 26,
+      "original_label": "营业成本",
+      "excerpt": "营业成本 1,591,096,742.88 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "1591096742.88",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-NET_PROFIT_ATTRIBUTABLE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "net_profit_attributable",
+    "value": "347796376.66",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "归属于上市公司股东的净利润",
+      "excerpt": "归属于上市公司股东的净利润 347,796,376.66 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "347796376.66",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-OPERATING_CASH_FLOW",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "operating_cash_flow",
+    "value": "-520447542.55",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 7,
+      "original_label": "经营活动产生的现金流量净额",
+      "excerpt": "经营活动产生的现金流量净额 -520,447,542.55 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "-520447542.55",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 issuer consolidated company total; exact CNY comparator from the primary financial table. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-RD_TOTAL",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment",
+    "value": "375430654.07",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "研发投入合计",
+      "excerpt": "研发投入合计 375,430,654.07 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "375430654.07",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Total R&D investment, including expensed and capitalized amounts. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-RD_EXPENSED",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment_expensed",
+    "value": "315893367.80",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "费用化研发投入",
+      "excerpt": "费用化研发投入 315,893,367.80 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "315893367.8",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Expensed R&D investment; distinct from total R&D. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-RD_CAPITALIZED",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment_capitalized",
+    "value": "59537286.27",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "资本化研发投入",
+      "excerpt": "资本化研发投入 59,537,286.27 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "59537286.27",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Capitalized R&D investment; classification break begins in H1 2026. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-RD_TOTAL",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment",
+    "value": "366808850.19",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "研发投入合计",
+      "excerpt": "研发投入合计 366,808,850.19 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "366808850.19",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 2025 comparator total R&D investment. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2025-RD_EXPENSED",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment_expensed",
+    "value": "366808850.19",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "费用化研发投入",
+      "excerpt": "费用化研发投入 366,808,850.19 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "366808850.19",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "H1 2025 expensed R&D investment. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-ETCH_PLASMA-RD_CAPITALIZED",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "etch_and_plasma_surface_treatment",
+    "reporting_scope_id": "yitang_etch_and_plasma_surface_treatment",
+    "platform_id": "",
+    "metric_id": "rd_investment_capitalized",
+    "value": "44641992.01",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 153,
+      "original_label": "干法刻蚀及等离子体表面处理设备相关的项目 / 内部开发支出",
+      "excerpt": "干法刻蚀及等离子体表面处理设备相关的项目：内部开发支出 44,641,992.01 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "44641992.01",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Category-specific capitalized R&D subset; combined etch-and-plasma basket, no split inferred. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-FY2022-SPARE_PARTS-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_spare_parts",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "863127100",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "备品备件",
+      "excerpt": "备品备件 86,312.71 万元（2022年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "86312.71",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "86312.71",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "863127100.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2023-SPARE_PARTS-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_spare_parts",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "813492700",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "备品备件",
+      "excerpt": "备品备件 81,349.27 万元（2023年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "81349.27",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "81349.27",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "813492700.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2024-SPARE_PARTS-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_spare_parts",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "969660500",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "备品备件",
+      "excerpt": "备品备件 96,966.05 万元（2024年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "96966.05",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "96966.05",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "969660500.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2022-SERVICES-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_equipment_services",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "79158900",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "服务",
+      "excerpt": "服务 7,915.89 万元（2022年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "7915.89",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "7915.89",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "79158900.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2023-SERVICES-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_equipment_services",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "91902000",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "服务",
+      "excerpt": "服务 9,190.20 万元（2023年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "9190.2",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "9190.20",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "91902000.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2024-SERVICES-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_equipment_services",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "98741300",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "服务",
+      "excerpt": "服务 9,874.13 万元（2024年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "9874.13",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "9874.13",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "98741300.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2022-LICENSING-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_technology_licensing",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "30213500",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2022-01-01",
+      "end": "2022-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "特许权使用费",
+      "excerpt": "特许权使用费 3,021.35 万元（2022年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "3021.35",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "3021.35",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "30213500.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2023-LICENSING-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_technology_licensing",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "20977500",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "特许权使用费",
+      "excerpt": "特许权使用费 2,097.75 万元（2023年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "2097.75",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "2097.75",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "20977500.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-FY2024-LICENSING-REVENUE",
+    "dataset_id": "yitang_annual_disclosures",
+    "source_id": "yitang_ipo_2025",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "yitang_technology_licensing",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "5418100",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "特许权使用费",
+      "excerpt": "特许权使用费 541.81 万元（2024年度）",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "541.81",
+      "reported_unit": "CNY_10k",
+      "conversion": {
+        "operation": "multiply",
+        "factor": "10000"
+      }
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "IPO source-native non-equipment-sales business-type revenue; table native value in 万元 converted exactly to CNY as Decimal(native) × 10000. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion.",
+    "conversion_audit": {
+      "native_value": "541.81",
+      "native_unit": "万元",
+      "conversion_factor_to_CNY": "10000",
+      "converted_value_CNY": "5418100.00"
+    }
+  },
+  {
+    "observation_id": "YITANG-H1-2026-MATTSON-REVENUE",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "mattson_technology",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "mattson_technology_consolidated_company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "921474562.28",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 31,
+      "original_label": "Mattson Technology, Inc. / 营业收入",
+      "excerpt": "Mattson Technology, Inc. 营业收入 921,474,562.28 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "921474562.28",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Mattson Technology, Inc. consolidated subgroup; physical p31 controlled-subsidiary table is primary and p28 independently repeats the same values as consolidated overseas revenue/net profit. Do not map this to customer geography, issuer external revenue, or one equipment line. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  },
+  {
+    "observation_id": "YITANG-H1-2026-MATTSON-NET_PROFIT",
+    "dataset_id": "yitang_interim_disclosures",
+    "source_id": "yitang_h1_2026",
+    "entity_id": "mattson_technology",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "mattson_technology_consolidated_company",
+    "platform_id": "",
+    "metric_id": "net_profit",
+    "value": "-60231673.54",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 31,
+      "original_label": "Mattson Technology, Inc. / 净利润",
+      "excerpt": "Mattson Technology, Inc. 净利润 -60,231,673.54 元",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "-60231673.54",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Mattson Technology, Inc. consolidated subgroup; physical p31 controlled-subsidiary table is primary and p28 independently repeats the same values as consolidated overseas revenue/net profit. Do not map this to customer geography, issuer external revenue, or one equipment line. Review: Original checked against the hash-bound expected checklist; corrected staging retains pending review provenance until root promotion."
+  }
+]

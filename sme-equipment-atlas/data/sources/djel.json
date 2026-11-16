@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "djel_ipo_2026",
+    "dataset_id": "djel_ipo_disclosures",
+    "title": "Dongfang Jingyuan Initial Public Offering and STAR Market Listing Prospectus (Application Draft)",
+    "publication_date": "2026-06-30",
+    "publication_date_precision": "day",
+    "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202606/002249_20260630_2UJD.pdf",
+    "sha256": "3cf736c87f1a95787e091f471522e9bbe922b976494b9931ab8629b9b505e945",
+    "source_type": "company_ipo_prospectus",
+    "original_document_id": "djel_ipo_2026",
+    "notes": "URL and filing date are from the local Financial Information extract supplied to this batch; cover identity and issuer name checked in the local original. PDF physical page is printed 1-1 page plus one throughout checked pages (physical 25 = printed 1-1-24; physical 176 = printed 1-1-175; physical 260 = printed 1-1-259).",
+    "page_count": 446,
+    "locator_kind": "pdf"
+  }
+]

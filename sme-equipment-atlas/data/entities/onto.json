@@ -1,0 +1,20 @@
+[
+  {
+    "entity_id": "onto",
+    "name": "Onto Innovation Inc.",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "Onto Innovation",
+      "ONTO"
+    ],
+    "evidence": {
+      "source_id": "onto_10k_fy2025",
+      "page": 1,
+      "excerpt": "Onto Innovation Inc. (“Onto Innovation” or the “Company”) is a worldwide leader in the design, development, manufacture and support of process control tools that perform macro-defect inspection and metrology, lithography systems, and process control analytical software used by semiconductor and advanced packaging device manufacturers.",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "ALIASES: 'Onto Innovation' is the company's own name throughout; 'ONTO' is its literal NYSE ticker, printed on the cover page ('Common Stock, $0.001 par value per share | ONTO | New York Stock Exchange (NYSE)') and again in Item 5 ('Our common stock...is quoted on the New York Stock Exchange (“NYSE”) under the symbol “ONTO.”'). COMPARATOR ENTITY. Onto Innovation is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Incorporated and headquartered in the United States (Wilmington, Massachusetts), listed on NYSE under ticker ONTO, formed from the 2019 merger of Rudolph Technologies and Nanometrics; files Form 10-K with the SEC. It is here because it is one of the two named incumbents (with Camtek) in exactly the packaging-inspection step the atlas's Chinese side already holds densely -- SkyVerse, Dongfang Jingyuan, Unicomp and Secote -- and its own 10-K names Camtek as its principal competitor for advanced-packaging inspection ('Our principal competitors for advanced packaging inspection are KLA and Camtek Ltd.'). Onto operates in ONE reportable segment (its own words: 'The Company is organized and operates as one operating and reportable segment'), so company-total revenue is the finest granularity it discloses; critically, NEITHER of the two 10-Ks reviewed for this packet (FY2025, FY2023) contains the words 'HBM' or 'high-bandwidth memory' or 'hybrid bonding' anywhere -- a clean, well-searched null result, not a search failure -- see the dataset notes. Reporting currency is the US dollar throughout, printed in thousands; values are recorded as printed and never converted. Through fiscal 2025 Onto's fiscal year was a 52/53-week year ending on the Saturday closest to 31 December, NOT a literal calendar year -- see the dataset notes for exact dates used in every period below; this was confirmed on the filings rather than assumed, and the atlas's usual 'fiscal years line up with Chinese issuers' shortcut does not exactly hold for Onto before 2026."
+  }
+]

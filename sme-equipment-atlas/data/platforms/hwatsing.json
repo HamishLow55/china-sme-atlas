@@ -1,0 +1,1004 @@
+[
+  {
+    "platform_id": "hwatsing_universal_s300",
+    "entity_id": "hwatsing",
+    "name": "Universal-S300",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-S300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 21,
+      "excerpt": "成功研发出采用叠层布局架构的全新CMP机台Universal-S300",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "developed",
+    "notes": "FY2025 company report claim; no model-specific quantitative sales implied.",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 16,
+        "excerpt": "公司采用创新叠层布局架构的新机型 Universal-S300 在客户端验证顺利，凭借稳定优异的工艺性能获得市场认可，已实现多家客户批量订单落地。",
+        "notes": "Maturity update only; no order or system quantity inferred. Preserve the earlier developed-stage evidence as historical provenance. As-of date anchors the H1 narrative; no exact event date disclosed. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "batch_orders_from_multiple_customers",
+        "status": "source_checked",
+        "reviewer": "foundation_review_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_universal_300fs",
+    "entity_id": "hwatsing",
+    "name": "Universal-300FS",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-300FS"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 21,
+      "excerpt": "满足先进逻辑制程需要的Universal-300FS获得批量订单",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "batch_orders",
+    "notes": "FY2025 company report claim; no model-specific quantitative sales implied.",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 16,
+        "excerpt": "面向客户高端制程需求，公司研发的 Universal-300FS CMP 装备成功切入国内头部逻辑客户供应链，斩获大批量采购订单，其中适配先进制程的部分 CMP 装备已实现更多客户端投产应用。",
+        "notes": "The paragraph explicitly names Universal-300FS for entry into a leading domestic logic customer supply chain and large batch procurement orders. Its following clause describes an unspecified subset of advanced-process CMP equipment in customer production; exact model attribution is ambiguous and is not assigned to Universal-300FS. The filing does not quantify orders or identify customers. H1 endpoint is report context, not a disclosed exact event date. Company assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "large_batch_orders_from_leading_domestic_logic_customer",
+        "status": "source_checked",
+        "reviewer": "foundation_review_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_universal_h300",
+    "entity_id": "hwatsing",
+    "name": "Universal-H300",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-H300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 21,
+      "excerpt": "全新抛光系统架构Universal-H300实现规模化出货",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "scaled_shipments",
+    "notes": "FY2025 company report claim; no model-specific quantitative sales implied.",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 16,
+        "excerpt": "全新抛光架构的 Universal-H300 凭借卓越的综合性能与工艺稳定性，获得下游客户高度评价，已顺利完成批量交付与验收，实现规模化商用落地。",
+        "notes": "No delivery or acceptance quantity inferred. Preserve the earlier scaled-shipment evidence. As-of date anchors the H1 narrative; no exact event date disclosed. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "batch_delivery_acceptance_and_scaled_commercial_use",
+        "status": "source_checked",
+        "reviewer": "foundation_review_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      },
+      {
+        "source_id": "hwatsing_2023",
+        "page": 11,
+        "excerpt": "公司推出了 Universal H300 机台，通过创新抛光系统架构设计，优\n化清洗技术模块，大幅提高了整机技术性能，适用工艺也更加灵活丰富，首台机台已发往客户端\n进行验证，已完成多道工艺的小批量验证，进展顺利，预计 2024 年实现量产",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Universal H300 first unit customer validation; expected 2024 production is forward-looking",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context source claim; exact event date and quantities other than source wording are not inferred. Independent canonical amendment review required."
+      },
+      {
+        "source_id": "hwatsing_2024",
+        "page": 11,
+        "excerpt": "推出的全新抛光系统架构 CMP 机台 Universal-H300 已经\n   获得批量重复订单，并实现规模化出货",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Universal-H300 repeat batch orders and scaled factory shipments",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context source claim; exact event date and quantities other than source wording are not inferred. Independent canonical amendment review required."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_master_p510",
+    "entity_id": "hwatsing",
+    "name": "Master-P510",
+    "category_id": "cmp",
+    "aliases": [
+      "Master-P510"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 21,
+      "excerpt": "面向先进封装、玻璃基板等领域面板CMP产品Master-P510和Master-P510APEX",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "developed",
+    "notes": "FY2025 company report claim; no model-specific quantitative sales implied.",
+    "maturity_as_reported_in": "hwatsing_2025"
+  },
+  {
+    "platform_id": "hwatsing_master_p510apex",
+    "entity_id": "hwatsing",
+    "name": "Master-P510APEX",
+    "category_id": "cmp",
+    "aliases": [
+      "Master-P510APEX"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 21,
+      "excerpt": "面向先进封装、玻璃基板等领域面板CMP产品Master-P510和Master-P510APEX",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "developed",
+    "notes": "FY2025 company report claim; no model-specific quantitative sales implied.",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 16,
+        "excerpt": "同时，公司自主研发的国内首台 510*515mm 尺寸全自动板级 CMP 量产装备 Master-P510APEX，成功斩获先进封装领域核心客户订单。",
+        "notes": "One unquantified customer-order claim; no revenue, shipment, acceptance or production-use inference. Preserve the earlier developed-stage evidence. As-of date anchors the H1 narrative; no exact event date disclosed. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "customer_order",
+        "status": "source_checked",
+        "reviewer": "foundation_review_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_universal_s300a",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "name": "Universal-S300A",
+    "aliases": [
+      "Universal-S300A"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_h1_2026",
+      "page": 16,
+      "excerpt": "在此基础上的升级机型 Universal-S300A 搭载创新抛光驱动方案，技术优势突出，首台装备已顺利交付头部存储客户正式开展工艺验证工作。",
+      "status": "source_checked",
+      "reviewer": "foundation_review_original_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "first_system_delivered_for_customer_validation",
+    "maturity_as_reported_in": "hwatsing_h1_2026",
+    "notes": "Proposed new platform identity. Supplier claim dated to H1 2026; first delivery for validation is not an accepted sale, completed validation or production use.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 16,
+        "excerpt": "在此基础上的升级机型 Universal-S300A 搭载创新抛光驱动方案，技术优势突出，首台装备已顺利交付头部存储客户正式开展工艺验证工作。",
+        "notes": "New proposed platform identity. Delivery for validation is not an accepted sale, completed validation or production use. As-of date anchors the H1 narrative; no exact event date disclosed. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "first_system_delivered_for_customer_validation",
+        "status": "source_checked",
+        "reviewer": "foundation_review_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_ftm_m300da",
+    "entity_id": "hwatsing",
+    "name": "FTM-M300DA",
+    "category_id": "metrology_film_metal",
+    "aliases": [
+      "FTM-M300DA"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 19,
+      "excerpt": "                                    可进行非接触式、无损伤测量，精度高、测量结\n                                    果可靠、准确，边缘测试性能优异，可实现 3D\nFTM-M300DA\n                                    形貌可视化，主要应用于 Cu、Al、W、Co 等金\n                                    属制程。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hcc_3080s",
+    "entity_id": "hwatsing",
+    "name": "HCC-3080S",
+    "category_id": "cleaning",
+    "aliases": [
+      "HCC-3080S"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 18,
+      "excerpt": "                                 应用于 4/6/8/12 英寸片盒清洗。盒内外侧增压\n                                 喷淋方式实现高效清洗。双门设计，片盒装载移\nHCC-3080S                        出独立，降低污染风险。可配置水回收装置，减\n                                 少纯水消耗。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hcds",
+    "entity_id": "hwatsing",
+    "name": "HCDS",
+    "category_id": "fab_gas_chemical_delivery",
+    "aliases": [
+      "HCDS"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 19,
+      "excerpt": "                                    满足半导体制造过程中湿法工艺设备的清洗液\n                                    等化学品供应需求，操作维护便捷，具有高可靠\nHCDS\n                                    性、安全性和低维护保养成本、配置灵活等优\n                                    点。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hsc_f2400",
+    "entity_id": "hwatsing",
+    "name": "HSC-F2400",
+    "category_id": "cleaning",
+    "aliases": [
+      "HSC-F2400"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 20,
+      "excerpt": "                              应用于 4/6/8 英寸化合物半导体材料的终端清\n                              洗，配备性能优越的单片清洗机模块和双面刷洗\n                              模块，集成多种化学药液，并搭载先进的物理清\nHSC-F2400\n                              洗方法，展现出更卓越的清洁效果。该装备满足\n                              多种化合物半导体材料的需求，已在化合物半导\n                              体领域批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hsc_f3400",
+    "entity_id": "hwatsing",
+    "name": "HSC-F3400",
+    "category_id": "cleaning",
+    "aliases": [
+      "HSC-F3400"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 18,
+      "excerpt": "                                 应用于 12 英寸硅衬底 CMP 工艺后清洗，具备正\n                                 面和背面清洗功能，采用独特的腔室气流流场\n                                 设计保证工艺腔室内流场稳定。配备新颖的晶\nHSC-F3400\n                                 圆背面清洗和背面干燥模块，具有维护便捷、工\n                                 艺调整灵活、产能高等特点，适用于大规模产线\n                                 端应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_2023",
+        "page": 12,
+        "excerpt": "首台 12 英寸单片终端清\n洗机 HSC-F3400 机台出机发往国内大硅片龙头企业进行验证，核心技术指标已满足客户要求",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "HSC-F3400 dispatched for customer validation, not accepted",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_hsc_s1300",
+    "entity_id": "hwatsing",
+    "name": "HSC-S1300",
+    "category_id": "cleaning",
+    "aliases": [
+      "HSC-S1300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 18,
+      "excerpt": "                                 主要应用于 4/6/8 英寸化合物半导体的刷片清\n                                 洗设备，具备正面和背面刷洗功能。整机集成水\n                                 平刷洗及单片清洗干燥技术，可满足晶圆干进\nHSC-S1300\n                                 干出和湿进干出两种放片模式。机台兼容酸性\n                                 溶液清洗和碱性溶液清洗，兼容透光和不透光\n                                 晶片的清洗。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hsc_s3810",
+    "entity_id": "hwatsing",
+    "name": "HSC-S3810",
+    "category_id": "cleaning",
+    "aliases": [
+      "HSC-S3810"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 18,
+      "excerpt": "                                 主要应用于 12 英寸集成电路 FEOL/BEOL 晶圆正\n                                 背面及边缘清洗，通过二流体喷嘴与刷洗相结\n                                 合实现高效微粒去除。配备抽拉式腔室设计和\nHSC-S3810\n                                 高精度的远程气液路流量等参数闭环控制，具\n                                 有维护便捷、产能高等特点，适用于大规模产线\n                                 应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_hsds",
+    "entity_id": "hwatsing",
+    "name": "HSDS",
+    "category_id": "fab_gas_chemical_delivery",
+    "aliases": [
+      "HSDS"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 19,
+      "excerpt": "                                    满足半导体制造过程中湿法工艺设备的研磨液\nHSDS                                等供应需求，操作维护便捷，具有高可靠性、安\n                                    全性和低维护保养成本、配置灵活等优点。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_ipuma_hp",
+    "entity_id": "hwatsing",
+    "name": "iPUMA-HP",
+    "category_id": "implant",
+    "aliases": [
+      "iPUMA-HP"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 19,
+      "excerpt": "                                在已有成熟大束流的基础上，打造的 12 英寸氢\n                                离子大束流离子注入机。该装备配备了良好的粒\niPUMA-HP                        子筛选和冷却模块，满足薄膜转移技术工艺中颗\n                                粒数和工艺温度的控制，满足多种制程技术需\n                                求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_ipuma_ht",
+    "entity_id": "hwatsing",
+    "name": "iPUMA-HT",
+    "category_id": "implant",
+    "aliases": [
+      "iPUMA-HT"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 19,
+      "excerpt": "                                在已有成熟大束流的基础上，根据先进器件技术\n                                的要求开发的 12 英寸高温离子注入机。该装备\niPUMA-HT                        配备了高温工作模块，温度检测单元和冷却模\n                                块，满足先进制程技术需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_ipuma_le",
+    "entity_id": "hwatsing",
+    "name": "iPUMA-LE",
+    "category_id": "implant",
+    "aliases": [
+      "iPUMA-LE"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 19,
+      "excerpt": "                                根据行业先进技术的要求开发的 12 英寸水平带\n                                状大束流离子注入机。该装备运用了先进的束流\niPUMA-LE                        爬坡技术，集成了磁场和电场模块，并搭载精准\n                                的量测技术，展现了良好的离子筛选能力和精准\n                                度，满足多种制程技术需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "iPUMA‑LE 12 英寸大束流离子注\n\n入机成功交付国内先进存储领域龙头企业，同时首台 12 英寸低温离子注入机 iPUMA‑LT 顺利推\n\n进客户端验证工作",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "iPUMA-LE delivered to a leading domestic advanced-memory company; LT validation is a separate model claim",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_ipuma_lt",
+    "entity_id": "hwatsing",
+    "name": "iPUMA-LT",
+    "category_id": "implant",
+    "aliases": [
+      "iPUMA-LT"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 14,
+      "excerpt": "  作为公司平台化战略的核心增长极，公司通过收购芯嵛公司实现离子注入技术跨越式布局，\n依托技术自主研发与整合，持续完善产品体系。目前已成功实现 12 英寸大束流离子注入机各型号\n的全覆盖，并加速推出高能离子注入机系列装备，可满足逻辑芯片、存储芯片、功率半导体、CIS\n（图像传感器）及硅片制造等多领域工艺需求，陆续批量发往集成电路制造领域龙头企业，获得\n市场高度认可，成功进入规模化应用提速阶段。其中，iPUMA-LE 大束流离子注入机采用先进束\n流爬坡技术，离子筛选精准度高，适配逻辑芯片、存储芯片量产需求；iPUMA-LT 低温离子注入\n机配备耐低温静电载盘与国产化温控系统，可实现工艺温度精准闭环控制；iPUMA-HP 氢离子大\n束流离子注入机搭载高效粒子筛选与冷却模块，满足多种制程技术需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_2025",
+        "page": 22,
+        "excerpt": "首台 12 英寸低温离子注入机 iPUMA-LT 顺利出机",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "iPUMA-LT first factory shipment; no customer validation asserted in this sentence",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "iPUMA‑LE 12 英寸大束流离子注\n\n入机成功交付国内先进存储领域龙头企业，同时首台 12 英寸低温离子注入机 iPUMA‑LT 顺利推\n\n进客户端验证工作",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "iPUMA-LT first system progressing through customer-side validation; LE delivery is a separate model claim",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_master_bn300",
+    "entity_id": "hwatsing",
+    "name": "Master-BN300",
+    "category_id": "edge_polishing",
+    "aliases": [
+      "Master-BN300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 18,
+      "excerpt": "                                    基于行业前沿需求开发的 12 英寸晶圆边缘精密\n                                    抛光装备。该装备集成高精度抛光、高效清洗和\n                                    精准量测功能，采用模块化设计，兼容多种工艺\n Master-BN300                       和应用领域的需求。可显著提升晶圆边缘的光洁\n                                    度，满足半导体制造领域对高精度边缘处理的技\n                                    术要求，并已在存储芯片、先进封装等关键制程\n                                    中得到应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "Master-BN300 凭借优异的量产适配性，\n顺利取得国内头部芯片企业重复性采购订单",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Edge polishing repeat purchase order",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_universal_150smart",
+    "entity_id": "hwatsing",
+    "name": "Universal-150Smart",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-150Smart"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 17,
+      "excerpt": "                                       可用于 6-8 英寸各种半导体材料抛光，拥有四\nUniversal-150Smart                     个独立的抛光单元，工艺搭配灵活，产出率高，\n                                       满足第三代半导体、MEMS 等制造工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_2023",
+        "page": 12,
+        "excerpt": "Universal-150Smart 可兼容 6-8 英寸各种半导体材料抛光，拥\n有四个独立的抛光单元，工艺搭配灵活，产出率高，满足第三代半导体、MEMS 等制造工艺，已小\n批量出货",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Universal-150Smart small-batch shipment",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_universal_200smart",
+    "entity_id": "hwatsing",
+    "name": "Universal-200Smart",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-200Smart"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 16,
+      "excerpt": "                                       具有四个 8 英寸抛光单元和单套组合清洗单元，\n                                       可集成多种终点检测技术，满足集成电路、先进\nUniversal-200Smart\n                                       封装、硅片、第三代半导体、MEMS、MicroLED 等\n                                       制造工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_200w",
+    "entity_id": "hwatsing",
+    "name": "Universal-200 W",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-200 W"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 17,
+      "excerpt": "                                       针对快速增长的新兴市场需求开发的成熟 CMP 装\n                                       备。该装备配备性能优越的抛光单元，兼容 4/6/8\n                                       英寸晶圆，适用于多种材质，产品干进湿出，占\nUniversal-200 W\n                                       地面积小、产出效率高，可实现晶圆表面的超高\n                                       平整度，已在第三代半导体、MEMS 等制造工艺中\n                                       批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_300dual",
+    "entity_id": "hwatsing",
+    "name": "Universal-300Dual",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-300Dual"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 16,
+      "excerpt": "                                       具有四个 12 英寸抛光单元和双套组合清洗单\nUniversal-300Dual                      元，可集成多种终点检测技术，满足集成电路、\n                                       先进封装、大硅片等制造工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_300e",
+    "entity_id": "hwatsing",
+    "name": "Universal-300E",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-300E"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 16,
+      "excerpt": "                                       具有四个 12 英寸抛光单元和单套组合清洗单\n                                       元，可配备 7 区抛光头，可集成多种终点检测\nUniversal-300E\n                                       技术，满足集成电路、先进封装、大硅片等制造\n                                       工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_300t",
+    "entity_id": "hwatsing",
+    "name": "Universal-300T",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-300T"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 16,
+      "excerpt": "                                       在 Universal-300X 机型基础上搭载了更先进的\nUniversal-300T                         组合清洗技术，可满足集成电路、先进封装、大\n                                       硅片等制造工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_300x",
+    "entity_id": "hwatsing",
+    "name": "Universal-300X",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-300X"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 16,
+      "excerpt": "                                       具有四个 12 英寸抛光单元和双套组合清洗单\n                                       元，配备 7 区抛光头，可集成多种终点检测技\nUniversal-300X\n                                       术，满足集成电路、先进封装、大硅片等制造工\n                                       艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_universal_tgs200",
+    "entity_id": "hwatsing",
+    "name": "Universal-TGS200",
+    "category_id": "cmp",
+    "aliases": [
+      "Universal-TGS200"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2024",
+      "page": 17,
+      "excerpt": "                                       公司第一款第三代半导体材料（SiC）专用 CMP\n                                       装备。该装备配置了三组基于单盘双头架构的抛\n                                       光模块，集成后道清洗技术，支持晶圆正反抛光\nUniversal-TGS200\n                                       工艺，具有高度自动化和高加工效率的特性，适\n                                       用于 SiC 晶圆衬底制造、抛光耗材性能验证、先\n                                       进 CMP 工艺参数开发等多种应用领域。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2024",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_versatile_dt300",
+    "entity_id": "hwatsing",
+    "name": "Versatile-DT300",
+    "category_id": "dicing",
+    "aliases": [
+      "Versatile-DT300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 17,
+      "excerpt": "                                       集成切割、传输、清洗及量测单元，配置高速高\n                                       扭矩主轴控制、高分辨率视觉对准及测量、高精\n                                       密多轴联动切割、全自动传输及高洁净度清洗\nVersatile-DT300\n                                       等先进技术，具有高精度、工艺开发灵活等优\n                                       点，可满足集成电路、先进封装等制造工艺的 12\n                                       英寸晶圆边缘切割需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume."
+  },
+  {
+    "platform_id": "hwatsing_versatile_gh300",
+    "entity_id": "hwatsing",
+    "name": "Versatile-GH300",
+    "category_id": "thinning_grinding",
+    "aliases": [
+      "Versatile-GH300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2025",
+      "page": 13,
+      "excerpt": "   公司依托在 CMP 装备领域的长期技术深耕与工艺积累，成功开发适用于先进封装领域和前\n道晶圆制造背面减薄工艺的减薄装备。其中，全球首创的超精密减薄抛光一体机 Versatile–GP300\n集成磨削减薄、化学机械抛光与清洗模块一体化设计，满足 3D IC 制造、先进封装等领域中晶圆\n超精密减薄技术需求；减薄贴膜一体机 Versatile–GM300 采用新型布局，可实现薄型晶圆背面超\n精密磨削与应力去除，兼容 8/12 英寸晶圆，完美适配 Wafer to Wafer（W2W）和 Die to Wafer（D2W）\n两种主流先进封装工艺路线；面向先进存储的高性能减薄机 Versatile-GH300 集成了业界领先的超\n精密磨削技术，可稳定实现亚微米级加工精度，TTV 和 WPH 行业领先。公司减薄装备可广泛覆\n盖硅、玻璃等多种衬底的键合晶圆减薄，适配 3D IC、CoWoS、3D NAND、高带宽内存（HBM）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2025",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "公司持续丰富减薄装备产品矩阵，报告期多款新设备相继完成首台出机：面向先进存储的新\n型 12 英寸晶圆减薄装备 Versatile-GH300 顺利出机，可稳定实现亚微米级加工精度，晶圆厚度均\n匀性处于行业领先水平，单机产出能力突出；化合物晶圆减薄装备 Versatile-GN200 完成首台出机，\n实现公司在化合物半导体超精密加工领域的重要突破；首台 8 英寸留环式晶圆减薄机 Versatile-\nGR200 成功出机并交付国内集成电路制造领域新兴企业。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Versatile-GH300 first factory shipment in H1 2026 report context; no customer acceptance implied",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "claim_id": "hwatsing-placement-2026-gh300-validated",
+        "source_id": "hwatsing_placement_2026",
+        "page": 33,
+        "excerpt": "公司已成功开发并完成客户产线端验证的减薄装备中，面向先进存储的高性能减薄机 Versatile-GH300 集成了业界领先的超精密磨削技术，可稳定实现亚微米级加工精度，TTV 和 WPH 行业领先。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Among thinning tools developed and validated on customer lines; aimed at advanced memory",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "Excerpt joins the list heading to this tool's own clause, omitting the GP300 and GM300 clauses between them. Advanced memory is not HBM unless stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_versatile_gm300",
+    "entity_id": "hwatsing",
+    "name": "Versatile-GM300",
+    "category_id": "thinning",
+    "aliases": [
+      "Versatile-GM300",
+      "Versatile–GM300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 17,
+      "excerpt": "                                       面向封装领域的晶圆减薄贴膜一体机，兼容\n                                       8/12 英寸晶圆，采用新型布局，可实现薄型晶\n                                       圆背面超精密磨削与应力去除，依托卓越的厚\nVersatile-GM300\n                                       度在线测量与表面缺陷控制技术，具有高精度、\n                                       高刚性、工艺开发灵活等优点，满足封装领域的\n                                       薄型晶圆加工需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_2024",
+        "page": 12,
+        "excerpt": "Versatile–GM300 验证进展顺\n利",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "GM300 customer validation progressing",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "source_id": "hwatsing_2025",
+        "page": 21,
+        "excerpt": "12 英寸晶\n圆减薄贴膜一体机 Versatile–GM300 获得客户高度认可，实现批量发货并连续发往国内多家半导\n体龙头企业，并在报告期内顺利完成首台验收",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "GM300 batch shipments and first acceptance",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "claim_id": "hwatsing-placement-2026-gm300-validated",
+        "source_id": "hwatsing_placement_2026",
+        "page": 33,
+        "excerpt": "公司已成功开发并完成客户产线端验证的减薄装备中，减薄贴膜一体机 Versatile–GM300 采用新型布局，可实现薄型晶圆背面超精密磨削与应力去除，兼容 8/12 英寸晶圆，适配 Wafer to Wafer（ W2W）和 Die to Wafer（ D2W）两种主流先进封装工艺路线",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Among thinning tools developed and validated on customer lines",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "Excerpt joins the list heading to this tool's own clause, omitting the GP300 clause between them. Combined tool: thinning and taping."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_versatile_gn200",
+    "entity_id": "hwatsing",
+    "name": "Versatile-GN200",
+    "category_id": "thinning",
+    "aliases": [
+      "Versatile-GN200"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_h1_2026",
+      "page": 17,
+      "excerpt": "  公司持续丰富减薄装备产品矩阵，报告期多款新设备相继完成首台出机：面向先进存储的新\n型 12 英寸晶圆减薄装备 Versatile-GH300 顺利出机，可稳定实现亚微米级加工精度，晶圆厚度均\n匀性处于行业领先水平，单机产出能力突出；化合物晶圆减薄装备 Versatile-GN200 完成首台出机，\n实现公司在化合物半导体超精密加工领域的重要突破；首台 8 英寸留环式晶圆减薄机 Versatile-\nGR200 成功出机并交付国内集成电路制造领域新兴企业。后续，公司将紧密围绕下游客户实际需\n求开展产品迭代升级，重点研发更高 WPH 产能、更低 TTV 指标的新一代装备，不断巩固并提升\n市场综合竞争力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_h1_2026",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "公司持续丰富减薄装备产品矩阵，报告期多款新设备相继完成首台出机：面向先进存储的新\n型 12 英寸晶圆减薄装备 Versatile-GH300 顺利出机，可稳定实现亚微米级加工精度，晶圆厚度均\n匀性处于行业领先水平，单机产出能力突出；化合物晶圆减薄装备 Versatile-GN200 完成首台出机，\n实现公司在化合物半导体超精密加工领域的重要突破；首台 8 英寸留环式晶圆减薄机 Versatile-\nGR200 成功出机并交付国内集成电路制造领域新兴企业。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Versatile-GN200 first factory shipment in H1 2026 report context; no customer acceptance implied",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_versatile_gp300",
+    "entity_id": "hwatsing",
+    "name": "Versatile-GP300",
+    "category_id": "thinning",
+    "aliases": [
+      "Versatile-GP300",
+      "Versatile–GP300"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_2023",
+      "page": 17,
+      "excerpt": "                                       集成超精密磨削、抛光及清洗单元，配置先进的\n                                       厚度偏差与表面缺陷控制技术，提供多种系统\nVersatile-GP300                        功能扩展选项，具有高精度、高刚性、工艺开发\n                                       灵活等优点，可以满足集成电路、先进封装等制\n                                       造工艺的 12 英寸晶圆减薄需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_2023",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_2023",
+        "page": 12,
+        "excerpt": "推出 Versatile-GP300 量产机台，并配备了新开发的双重智\n能 TTV 控制系统，突破传统减薄机的精度限制，实现了减薄工艺全过程的稳定可控，在核心技术\n指标方面取得新突破，稳定实现了 12 英寸晶圆片内磨削 TTV＜0.8μm，达到了国内领先和国际先\n进水平，报告期内已取得多个领域头部企业的批量订单，并有多台量产机台发往客户端",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Versatile-GP300 batch orders and multiple production units dispatched; no count",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "source_id": "hwatsing_2024",
+        "page": 12,
+        "excerpt": "Versatile–GP300 已实现多\n台验收，满足客户批量化生产需求",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "GP300 multiple customer acceptances",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "source_id": "hwatsing_2025",
+        "page": 21,
+        "excerpt": "12 英寸超精密\n晶圆减薄机 Versatile–GP300 凭借优异性能获得市场广泛认可，订单量大幅增长，累计出机量突破\n20 台，实现从技术突破到规模化应用的重要跨越，多台装备完成客户验收并贡献收入",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "GP300 multi-system customer acceptance and revenue; cumulative >20 factory shipment separate",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      },
+      {
+        "claim_id": "hwatsing-placement-2026-gp300-validated",
+        "source_id": "hwatsing_placement_2026",
+        "page": 33,
+        "excerpt": "公司已成功开发并完成客户产线端验证的减薄装备中，超精密减薄抛光一体机 Versatile–GP300 集成磨削减薄、化学机械抛光与清洗模块一体化设计，满足 3D IC 制造、先进封装等领域中晶圆超精密减薄技术需求",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Among thinning tools developed and validated on customer lines",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "Registered prospectus wording. Customer-line validation, not stated HBM production."
+      }
+    ]
+  },
+  {
+    "platform_id": "hwatsing_versatile_gr200",
+    "entity_id": "hwatsing",
+    "name": "Versatile-GR200",
+    "category_id": "thinning_grinding",
+    "aliases": [
+      "Versatile-GR200"
+    ],
+    "evidence": {
+      "source_id": "hwatsing_h1_2026",
+      "page": 17,
+      "excerpt": "  公司持续丰富减薄装备产品矩阵，报告期多款新设备相继完成首台出机：面向先进存储的新\n型 12 英寸晶圆减薄装备 Versatile-GH300 顺利出机，可稳定实现亚微米级加工精度，晶圆厚度均\n匀性处于行业领先水平，单机产出能力突出；化合物晶圆减薄装备 Versatile-GN200 完成首台出机，\n实现公司在化合物半导体超精密加工领域的重要突破；首台 8 英寸留环式晶圆减薄机 Versatile-\nGR200 成功出机并交付国内集成电路制造领域新兴企业。后续，公司将紧密围绕下游客户实际需\n求开展产品迭代升级，重点研发更高 WPH 产能、更低 TTV 指标的新一代装备，不断巩固并提升\n市场综合竞争力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "hwatsing_h1_2026",
+    "notes": "Source-named product identity proposal only. A table row or description does not establish shipments, installation, acceptance, manufacturing maturity or separate unit volume.",
+    "maturity_history": [
+      {
+        "source_id": "hwatsing_h1_2026",
+        "page": 17,
+        "excerpt": "公司持续丰富减薄装备产品矩阵，报告期多款新设备相继完成首台出机：面向先进存储的新\n型 12 英寸晶圆减薄装备 Versatile-GH300 顺利出机，可稳定实现亚微米级加工精度，晶圆厚度均\n匀性处于行业领先水平，单机产出能力突出；化合物晶圆减薄装备 Versatile-GN200 完成首台出机，\n实现公司在化合物半导体超精密加工领域的重要突破；首台 8 英寸留环式晶圆减薄机 Versatile-\nGR200 成功出机并交付国内集成电路制造领域新兴企业。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "reported_maturity": "Versatile-GR200 first factory shipment and delivery to an emerging domestic IC maker; no acceptance implied",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "claim_kind": "company_reported",
+        "notes": "Report-context supplier claim; no exact event date, quantity or customer identity inferred."
+      }
+    ]
+  }
+]

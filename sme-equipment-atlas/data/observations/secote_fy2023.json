@@ -1,0 +1,182 @@
+[
+  {
+    "observation_id": "SECOTE2023-CR",
+    "dataset_id": "secote_disclosures",
+    "source_id": "secote_fy2023",
+    "entity_id": "secote",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "4446160360.03",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 8,
+      "original_label": "营业收入 / 2023年",
+      "excerpt": "营业收入 4,446,160,360.03；2022年 2,929,776,450.19；本期比上年同期增减 51.76%",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "review_notes": "Checked Chinese original FY2023 physical/printed p8, table headings and row. Value, CNY/percent unit, annual period and group/segment/subsidiary perimeter match. No blank/dash converted to zero; company reported, not independently corroborated.",
+      "reported_value": "4446160360.03",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Consolidated Secote revenue across consumer electronics, semiconductor, new energy and other business; not semiconductor-equipment revenue."
+  },
+  {
+    "observation_id": "SECOTE2023-SEMI-REV",
+    "dataset_id": "secote_disclosures",
+    "source_id": "secote_fy2023",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "263618347.21",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 17,
+      "original_label": "主营业务分行业情况 / 半导体 / 营业收入",
+      "excerpt": "半导体 263,618,347.21；营业成本 138,964,399.17；毛利率 47.29%",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "review_notes": "Checked Chinese original FY2023 physical/printed p17, table headings and row. Value, CNY/percent unit, annual period and group/segment/subsidiary perimeter match. No blank/dash converted to zero; company reported, not independently corroborated.",
+      "reported_value": "263618347.21",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer's broad semiconductor-industry segment. It is not Optima-only, HBM-only, inspection-only or metrology-only."
+  },
+  {
+    "observation_id": "SECOTE2023-SEMI-COST",
+    "dataset_id": "secote_disclosures",
+    "source_id": "secote_fy2023",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "value": "138964399.17",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 17,
+      "original_label": "主营业务分行业情况 / 半导体 / 营业成本",
+      "excerpt": "半导体 营业收入 263,618,347.21；营业成本 138,964,399.17；毛利率 47.29%",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "review_notes": "Checked Chinese original FY2023 physical/printed p17, table headings and row. Value, CNY/percent unit, annual period and group/segment/subsidiary perimeter match. No blank/dash converted to zero; company reported, not independently corroborated.",
+      "reported_value": "138964399.17",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Reported cost corresponding to Secote's broad semiconductor-industry segment."
+  },
+  {
+    "observation_id": "SECOTE2023-SEMI-GM",
+    "dataset_id": "secote_disclosures",
+    "source_id": "secote_fy2023",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "value": "47.29",
+    "relation": "eq",
+    "unit": "percent",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 17,
+      "original_label": "主营业务分行业情况 / 半导体 / 毛利率（%）",
+      "excerpt": "半导体 营业收入 263,618,347.21；营业成本 138,964,399.17；毛利率 47.29%",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "review_notes": "Checked Chinese original FY2023 physical/printed p17, table headings and row. Value, CNY/percent unit, annual period and group/segment/subsidiary perimeter match. No blank/dash converted to zero; company reported, not independently corroborated. Reported margin is a period ratio/status, not an additive flow; use period_status.",
+      "reported_value": "47.29",
+      "reported_unit": "percent"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer-reported margin; not recomputed."
+  }
+]

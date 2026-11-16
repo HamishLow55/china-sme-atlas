@@ -1,0 +1,1980 @@
+[
+  {
+    "platform_id": "kingsemi_naura_2025_coat_develop_01",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "12 英寸前道涂胶显影设备",
+    "aliases": [
+      "12 英寸前道涂胶显影设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_coat_develop_01",
+      "source_id": "naura_2025",
+      "page": 26,
+      "excerpt": "适用于前道氟化氩、浸没式氟化氩、氟化氪涂胶显影工艺，可兼容高产能\n12 英寸前                    底部抗反射涂层、旋涂碳、负显影等工艺。采用对称分布高产能架构，搭\n道涂胶显                      载自主研发的高速高精小型机械手，可选配 36 个 spin 工艺腔体，满足全球\n 影设备                      主流光刻机产能需求；领先的超高温、超高精度热盘技术、单元实时控制\n                          技术，工艺能力稳定精准；颗粒度控制优秀。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_controlled_subsidiary_main_product_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. P26 explicitly attributes coat/develop products to controlled subsidiary 芯源微 (KINGSEMI).",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-082",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "①前道涂胶显影设备 适配前道 ArF 浸没式、KrF 等光刻工艺，可兼容底部抗反射涂层、旋涂碳、负显影等复杂工艺，是前道光刻工序的 核心配套装备。公司前道涂胶显影设备采用对称分布高产能架构，搭载自主研发的高速高精度传输机构与高精度热盘技",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_end_track_family_described_for_arf_krf_workflows",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p14/15 spans page break; ArF/KrF are lithography workflow classes, not process nodes."
+      },
+      {
+        "claim_id": "NAURA_H1_2026-OPS-083",
+        "source_id": "naura_h1_2026",
+        "page": 15,
+        "excerpt": "术，颗粒控制能力优异，可匹配主流光刻机的产能需求，已在国内多条 12 英寸产线批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_use_on_multiple_domestic_12inch_lines",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "This p15 continuation completes p14 front-end track description; no tool or customer count."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_naura_2025_coat_develop_02",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "后道先进封装涂胶显影设备",
+    "aliases": [
+      "后道先进封装涂胶显影设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_coat_develop_02",
+      "source_id": "naura_2025",
+      "page": 26,
+      "excerpt": "适用于先进封装 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D 涂胶及显影工\n后道先进\n                          艺。可实现高粘度 PR、PI 涂胶及多种显影工艺；渐进式烘焙，实现温度阶\n封装涂胶\n                          梯控制，适用于超厚胶涂覆、显影及烘烤工艺；实现超薄晶圆/翘曲片传送\n显影设备\n                          加工。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_controlled_subsidiary_main_product_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. P26 explicitly attributes coat/develop products to controlled subsidiary 芯源微 (KINGSEMI).",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-043",
+        "source_id": "naura_h1_2026",
+        "page": 15,
+        "excerpt": "②后道先进封装涂胶显影设备 面向 BGA、倒装芯片、WLCSP、2.5D/3D 封装等先进封装场景，可实现高粘度光刻胶、PI 胶涂覆与显影，适配超厚 胶、超薄晶圆、翘曲片等特殊加工需求。公司先进封装涂胶显影设备具备渐进式温度控制能力，可满足超厚胶涂覆与高 精度显影工艺要求，已在国内主流封装厂商实现稳定配套。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_pairing_at_domestic_mainstream_packagers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 section explicitly attributes track portfolio to controlled subsidiary 芯源微; exact advanced-packaging family match."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_007",
+        "source_id": "kingsemi_annual_2023",
+        "page": 15,
+        "excerpt": "域成功跨入到技术含量更高、市场空间更大的前道化学清洗领域，将公司前道产\n品（涂胶显影+清洗）的国内市场空间由原来的百亿元级别大幅提升至两百亿元级别，进一步完\n善了公司在前道领域的战略布局。\n  （3）后道先进封装设备\n  公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于台\n积电、盛合晶微、长电科技、华天科技、通富微电、珠海天成等海内外一线大厂，已经成为众多\n知名客户的首选品牌，机台部分技术指标已达到国际领先水平，具有较强的全球竞争力，获得多\n家海外客户的持续认可。报告期内，公司向多家海外客户实现产品销售。\n  此外，为积极响应国家支持 Chiplet 产业大发展的号召，公司基于在先进封装领域多年的技\n术积累和客户储备，积极围绕头部客户需求开展 2.5D/3D 先进封装相关新品的研发及国产化替代，\n已快速切入到新兴的 Chiplet 大市场，目前已成功推出了",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_track_and_wet_mainstream_batch_application_named_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 joint back-end track and wet customer-use clause; named customers are issuer-attributed."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_025",
+        "source_id": "kingsemi_annual_2024",
+        "page": 14,
+        "excerpt": "机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内领先逻辑客户批量订单，\n进一步夯实了公司在国内市场的龙头地位。\n  （3）后道先进封装设备\n  公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于台\n积电、盛合晶微、长电科技、华天科技、通富微电、珠海天成等海内外一线大厂，已经成为众多\n知名客户的首选品牌。\n  2024 年，国内后道封测市场呈复苏回暖态势，下游市场景气度良好，客户下单意愿积极，公\n司后道涂胶显影机、单片式湿法设备获得国内多家客户批量重复性订单，签单同比实现良好增长。\n公司深耕先进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多\n家海外客户的持续认可，报告期内，公司成功获得海外封装龙头客户批量重复性订单。\n  （4）化合物等小尺寸设备\n  公司化",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_track_and_wet_repeat_batch_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 joint back-end track/wet repeat orders, including overseas packaging leader."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_042_track",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "学清洗机签单表现优秀，高端 SPM 机台已通过国内头部\n客户工艺验证，获得国内客户高度认可，目前公司化学清洗机已获得国内多家大客户重复性订单；\n前道物理清洗机成功获得国内头部客户批量订单，进一步夯实细分市场龙头地位；后道涂胶显影\n机及单片式湿法设备持续巩固国内领先优势，报告期内，继续获得封装龙头客户批量重复性订单；\n新产品临时键合机、解键合机、Frame 清洗机等已顺利通过多家客户验证，开始进入逐步放量阶\n段。\n\n\n（二）报告期内重点工作开展情况\n     1、产品销售情况\n     （1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_track_and_wet_repeat_batch_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 joint back-end track/wet repeat orders; not unique tool count."
+      },
+      {
+        "claim_id": "KS26H1-F011",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity."
+      },
+      {
+        "claim_id": "KS26H1-F011_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（3）后道先进封装设备\n     公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于国\n内各主流先进封装厂，已经成为众多知名客户的首选品牌。\n     目前，国内后道封测市场呈温和复苏态势，下游市场景气度良好，头部客户下单意愿较为积\n极，公司后道涂胶显影机、单片式湿法设备持续获得国内多家客户批量重复性订单。公司深耕先\n进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多家海外客户\n的持续认可。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_packaging_track_and_wet_mainstream_batch_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end track and single-wafer wet equipment have multi-year mainstream batch application; no model/system count."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_h1_2025_temporary_bonder",
+    "entity_id": "kingsemi",
+    "category_id": "bonding_temporary",
+    "record_kind": "source_native_family",
+    "name": "芯源微临时键合机",
+    "aliases": [
+      "芯源微临时键合机"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-007",
+      "source_id": "naura_h1_2025",
+      "page": 12,
+      "excerpt": "北方华创控股子公司芯源微是国内临时键合设备的领先厂商，主要产品包括临时键合机、解键合 机等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_in_controlled_subsidiary_product_family",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "H1 2025 explicitly attributes this family to controlled subsidiary 芯源微; do not alias to the NAURA FY2025 generic family without historical entity reconciliation.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-007",
+        "source_id": "naura_h1_2025",
+        "page": 12,
+        "excerpt": "北方华创控股子公司芯源微是国内临时键合设备的领先厂商，主要产品包括临时键合机、解键合 机等。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_in_controlled_subsidiary_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 2025 explicitly attributes this family to controlled subsidiary 芯源微; do not alias to the NAURA FY2025 generic family without historical entity reconciliation."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_013_bonder",
+        "source_id": "kingsemi_annual_2023",
+        "page": 17,
+        "excerpt": "年年度报告\n\n\n发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键合、\n解键合全流程解决方案。\n  2021 年，公司获得国内重要存储客户支持，开始系统性研发临时键合、解键合设备，目前\n公司临时键合机、解键合机整体技术已达到国际先进水平，陆续获得国内多家头部客户订单，进\n入小批量销售阶段。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，目前也\n已进入小批量销售阶段。\n  （3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子\n公司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面\n临的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_small_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 generic bond/debond series small-batch sales, not named-model-specific installed counts."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_030_bonder",
+        "source_id": "kingsemi_annual_2024",
+        "page": 15,
+        "excerpt": "覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键合、\n解键合全流程解决方案。\n  自 2021 年起，公司即获得国内领先存储客户支持，和客户紧密合作，前瞻性研发临时键合、\n解键合设备，是国内最早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达\n到国际先进水平。报告期内，该系列设备成功通过多家客户验证，并陆续获得国内多家客户订单，\n进入逐步放量阶段，目前在手订单已近 20 台。此外，公司在 2.5D/3D 先进封装领域布局的新产品\nFrame 清洗设备，也已成功通过客户验证，进入小批量销售阶段。\n  （3）SiC 划裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子公\n司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面临",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_validated_ramping",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 generic series multi-customer validation and ramp; near-20 backlog is a separate numeric claim."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_045_bonder",
+        "source_id": "kingsemi_annual_2025",
+        "page": 21,
+        "excerpt": "优秀，为客户提供稳定高效的临时键\n合、解键合全流程解决方案。\n  自 2021 年起，公司即获得国内头部客户支持，和客户紧密合作，前瞻性研发临时键合、解键\n合设备，是国内较早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达到国\n际先进水平。报告期内，该系列设备继续获得国内多家客户订单，顺利通过多家客户工艺验证并\n全面量产。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，也已成功通过客\n户验证，进入逐步放量阶段。\n  3、人才团队建设情况\n\n\n\n                          21 / 246",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_customer_validated_full_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 source reports full mass production for combined generic bond/debond series; no named-model inheritance."
+      },
+      {
+        "claim_id": "KS26H1-F016",
+        "source_id": "kingsemi_h1_2026",
+        "page": 12,
+        "excerpt": "（2）临时键合、解键合设备\n  公司提前布局自主研发的全自动临时键合及解键合机，主要针对 Chiplet 技术解决方案，可应\n用于 InFO、CoWoS、HBM 等 2.5D、3D 技术路线产品，兼容国内外主流胶材工艺，能够适配 60μm\n及以上超大膜厚涂胶需求，可实现高对准精度、高真空度环境、高温高压力键合工艺，键合后产\n品 TTV 及翘曲度表现优异，对应开发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求。\n\n\n\n\n                          12 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Temporary bonder and debonder for InFO/CoWoS/HBM 2.5D/3D; mechanical and laser are release methods, not separately counted models. >=60 micrometres is coating thickness, not node."
+      },
+      {
+        "claim_id": "KS26H1-F016_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 15,
+        "excerpt": "（2）临时键合机、解键合机\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、\n3D 技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实\n现高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应\n开发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，在实现载片高效无损分离的同\n时，兼容 Wafer level 和 Frame level，各类片源去胶清洗效果优秀，为客户提供稳定高效的临时键\n合、解键合全流程解决方案。\n  自 2021 年起，公司即获得国内头部客户支持，和客户紧密合作，前瞻性研发临时键合、解键\n合设备，是国内较早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达到国\n际先进水平。报告期内，该系列设备继续获得国内多家客户订单，顺利通过多家客户工艺验证并\n全面量产。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_series_multi_customer_validation_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Bond/debond family received multiple customer orders, passed multiple validations and source reports full mass production; no count or permanent-bonding inference."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_h1_2025_debonder",
+    "entity_id": "kingsemi",
+    "category_id": "bonding_debond",
+    "record_kind": "source_native_family",
+    "name": "芯源微解键合机",
+    "aliases": [
+      "芯源微解键合机"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-007",
+      "source_id": "naura_h1_2025",
+      "page": 12,
+      "excerpt": "北方华创控股子公司芯源微是国内临时键合设备的领先厂商，主要产品包括临时键合机、解键合 机等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_in_controlled_subsidiary_product_family",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "H1 2025 explicitly attributes this family to controlled subsidiary 芯源微; no shipment or qualification stage stated.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-007",
+        "source_id": "naura_h1_2025",
+        "page": 12,
+        "excerpt": "北方华创控股子公司芯源微是国内临时键合设备的领先厂商，主要产品包括临时键合机、解键合 机等。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_in_controlled_subsidiary_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 2025 explicitly attributes this family to controlled subsidiary 芯源微; no shipment or qualification stage stated."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_013_debonder",
+        "source_id": "kingsemi_annual_2023",
+        "page": 17,
+        "excerpt": "年年度报告\n\n\n发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键合、\n解键合全流程解决方案。\n  2021 年，公司获得国内重要存储客户支持，开始系统性研发临时键合、解键合设备，目前\n公司临时键合机、解键合机整体技术已达到国际先进水平，陆续获得国内多家头部客户订单，进\n入小批量销售阶段。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，目前也\n已进入小批量销售阶段。\n  （3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子\n公司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面\n临的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_small_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 generic bond/debond series small-batch sales, not named-model-specific installed counts."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_030_debonder",
+        "source_id": "kingsemi_annual_2024",
+        "page": 15,
+        "excerpt": "覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键合、\n解键合全流程解决方案。\n  自 2021 年起，公司即获得国内领先存储客户支持，和客户紧密合作，前瞻性研发临时键合、\n解键合设备，是国内最早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达\n到国际先进水平。报告期内，该系列设备成功通过多家客户验证，并陆续获得国内多家客户订单，\n进入逐步放量阶段，目前在手订单已近 20 台。此外，公司在 2.5D/3D 先进封装领域布局的新产品\nFrame 清洗设备，也已成功通过客户验证，进入小批量销售阶段。\n  （3）SiC 划裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子公\n司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面临",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_validated_ramping",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 generic series multi-customer validation and ramp; near-20 backlog is a separate numeric claim."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_045_debonder",
+        "source_id": "kingsemi_annual_2025",
+        "page": 21,
+        "excerpt": "优秀，为客户提供稳定高效的临时键\n合、解键合全流程解决方案。\n  自 2021 年起，公司即获得国内头部客户支持，和客户紧密合作，前瞻性研发临时键合、解键\n合设备，是国内较早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达到国\n际先进水平。报告期内，该系列设备继续获得国内多家客户订单，顺利通过多家客户工艺验证并\n全面量产。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，也已成功通过客\n户验证，进入逐步放量阶段。\n  3、人才团队建设情况\n\n\n\n                          21 / 246",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_customer_validated_full_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 source reports full mass production for combined generic bond/debond series; no named-model inheritance."
+      },
+      {
+        "claim_id": "KS26H1-F017",
+        "source_id": "kingsemi_h1_2026",
+        "page": 12,
+        "excerpt": "（2）临时键合、解键合设备\n  公司提前布局自主研发的全自动临时键合及解键合机，主要针对 Chiplet 技术解决方案，可应\n用于 InFO、CoWoS、HBM 等 2.5D、3D 技术路线产品，兼容国内外主流胶材工艺，能够适配 60μm\n及以上超大膜厚涂胶需求，可实现高对准精度、高真空度环境、高温高压力键合工艺，键合后产\n品 TTV 及翘曲度表现优异，对应开发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求。\n\n\n\n\n                          12 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Temporary bonder and debonder for InFO/CoWoS/HBM 2.5D/3D; mechanical and laser are release methods, not separately counted models. >=60 micrometres is coating thickness, not node."
+      },
+      {
+        "claim_id": "KS26H1-F017_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 15,
+        "excerpt": "（2）临时键合机、解键合机\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、\n3D 技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实\n现高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应\n开发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，在实现载片高效无损分离的同\n时，兼容 Wafer level 和 Frame level，各类片源去胶清洗效果优秀，为客户提供稳定高效的临时键\n合、解键合全流程解决方案。\n  自 2021 年起，公司即获得国内头部客户支持，和客户紧密合作，前瞻性研发临时键合、解键\n合设备，是国内较早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达到国\n际先进水平。报告期内，该系列设备继续获得国内多家客户订单，顺利通过多家客户工艺验证并\n全面量产。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "temporary_bond_debond_series_multi_customer_validation_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Bond/debond family received multiple customer orders, passed multiple validations and source reports full mass production; no count or permanent-bonding inference."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_ks_cm300_200",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "named_series_family",
+    "name": "KS-CM300/200",
+    "aliases": [
+      "KS-CM300/200"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_005",
+      "source_id": "kingsemi_annual_2023",
+      "page": 15,
+      "excerpt": "（1）前道化学清洗设备\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式公开发布，机台具有高\n工艺覆盖性、高稳定性、高洁净度、高产能等多项核心优势，并于 2023 年第四季度获得了国内\n重要客户的验证性订单。目前，公司已与国内其他多家重要客户达成合作意向，部分客户已进入\n到配置确认和商务流程阶段。作为公司的战略性新产品，后续公司将继续加大研发和推广力度，\n快速推进化学清洗机的商业化进程。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "One source-defined KS-CM300/200 combined series. March 2024 release and Q4 2023 validation-type order are explicit retrospective milestones in the FY2023 report. Broader chemical-cleaner repeat orders and SPM-subtype validation are not attributed to this named series. Single-wafer architecture is not established by the named clause.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_005",
+        "source_id": "kingsemi_annual_2023",
+        "page": 15,
+        "excerpt": "（1）前道化学清洗设备\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式公开发布，机台具有高\n工艺覆盖性、高稳定性、高洁净度、高产能等多项核心优势，并于 2023 年第四季度获得了国内\n重要客户的验证性订单。目前，公司已与国内其他多家重要客户达成合作意向，部分客户已进入\n到配置确认和商务流程阶段。作为公司的战略性新产品，后续公司将继续加大研发和推广力度，\n快速推进化学清洗机的商业化进程。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_product_disclosed",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "One source-defined KS-CM300/200 combined series. March 2024 release and Q4 2023 validation-type order are explicit retrospective milestones in the FY2023 report. Broader chemical-cleaner repeat orders and SPM-subtype validation are not attributed to this named series. Single-wafer architecture is not established by the named clause."
+      },
+      {
+        "claim_id": "KS26H1-F007",
+        "source_id": "kingsemi_h1_2026",
+        "page": 15,
+        "excerpt": "（1）前道化学清洗机\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式发布，机台具有高工艺\n覆盖性、高稳定性、高洁净度、高产能等多项核心优势，机台搭载独立开发的新一代高清洗效率\n低损伤射流喷嘴，洁净度已达到先进制程所需水平，适用于沉积前清洗、蚀刻后清洗、离子注入\n后清洗、CMP 后清洗等多种前段工艺和后段工艺清洗进程，可适配多种 SPM 工艺，整体工艺覆\n盖率达 90%以上。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "march_2024_released_slash_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. KS-CM300/200 slash label is one source-defined line, not proven two separate installed models. Release month March 2024; at least 90% technical process coverage."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_ks_c300_tb",
+    "entity_id": "kingsemi",
+    "category_id": "bonding_temporary",
+    "record_kind": "named_model",
+    "name": "KS-C300-TB",
+    "aliases": [
+      "KS-C300-TB"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_011",
+      "source_id": "kingsemi_annual_2023",
+      "page": 16,
+      "excerpt": "临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "Named temporary bonder; combined bond/debond maturity must not be split automatically by model.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_011",
+        "source_id": "kingsemi_annual_2023",
+        "page": 16,
+        "excerpt": "临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_product_disclosed",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Named temporary bonder; combined bond/debond maturity must not be split automatically by model."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_ks_s300_dbl",
+    "entity_id": "kingsemi",
+    "category_id": "bonding_debond",
+    "record_kind": "named_model",
+    "name": "KS-S300-DBL",
+    "aliases": [
+      "KS-S300-DBL"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_012",
+      "source_id": "kingsemi_annual_2023",
+      "page": 16,
+      "excerpt": "临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "Named debonder; mechanical/laser methods are source-described but not separate model identities.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_012",
+        "source_id": "kingsemi_annual_2023",
+        "page": 16,
+        "excerpt": "临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_product_disclosed",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Named debonder; mechanical/laser methods are source-described but not separate model identities."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_ks_s200_2h1l",
+    "entity_id": "kingsemi",
+    "category_id": "dicing",
+    "record_kind": "named_model",
+    "name": "KS-S200-2H1L",
+    "aliases": [
+      "KS-S200-2H1L"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_015",
+      "source_id": "kingsemi_annual_2023",
+      "page": 17,
+      "excerpt": "（3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_product_disclosed",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "SiC slice/split integrated dicer, released March 2024, jointly developed by Japanese subsidiary and partner.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_015",
+        "source_id": "kingsemi_annual_2023",
+        "page": 17,
+        "excerpt": "（3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_product_disclosed",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "SiC slice/split integrated dicer, released March 2024, jointly developed by Japanese subsidiary and partner."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_032",
+        "source_id": "kingsemi_annual_2024",
+        "page": 15,
+        "excerpt": "步放量阶段，目前在手订单已近 20 台。此外，公司在 2.5D/3D 先进封装领域布局的新产品\nFrame 清洗设备，也已成功通过客户验证，进入小批量销售阶段。\n  （3）SiC 划裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子公\n司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面临\n的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割速度约为 100mm/s，\n相比传统划片机切割速度大幅提升，产能效率得到大幅提升，同时拥有零切口损失、断面平整、\n崩边裂痕少等优势，可助力客户在同等尺寸晶圆下切出更多晶粒，有效提升客户产品良率。\n  该产品的推出将进一步丰富公司在小尺寸领域的产品布局，助力公司从现有的涂胶显影、单\n片湿法等",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "named_sic_dicer_repeated_product_description",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 repeats the March 2024 release and Japanese-subsidiary plus partner co-development; no new FY2024 launch event."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_ftex_front_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "named_rd_platform",
+    "name": "FTEX 系列前道超高产能涂胶显影机",
+    "aliases": [
+      "FTEX 系列前道超高产能涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_033",
+      "source_id": "kingsemi_annual_2024",
+      "page": 24,
+      "excerpt": "报告期内，公司新一代超高产能涂胶显影机架构 FTEX 取得积极进展，FTEX 系列前道超高产\n能涂胶显影机具有高产能、高稳定性、高可靠性、高度集成化和智能化等多项核心优势，机台采\n用六层对称架构，中间布局高效的晶圆传输模组作为连接枢纽，并设计高效冷盘塔连接模块，在\n调度上应用多层并行进片回片模式，为整机产能提升奠定更先进的架构基础，可匹配未来更先进\n的光刻机产能提升需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "architecture_development_progress",
+    "maturity_as_reported_in": "kingsemi_annual_2024",
+    "notes": "Named R&D series with architecture progress, not reported sale, shipment, customer validation or mass production.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_033",
+        "source_id": "kingsemi_annual_2024",
+        "page": 24,
+        "excerpt": "报告期内，公司新一代超高产能涂胶显影机架构 FTEX 取得积极进展，FTEX 系列前道超高产\n能涂胶显影机具有高产能、高稳定性、高可靠性、高度集成化和智能化等多项核心优势，机台采\n用六层对称架构，中间布局高效的晶圆传输模组作为连接枢纽，并设计高效冷盘塔连接模块，在\n调度上应用多层并行进片回片模式，为整机产能提升奠定更先进的架构基础，可匹配未来更先进\n的光刻机产能提升需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "architecture_development_progress",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Named R&D series with architecture progress, not reported sale, shipment, customer validation or mass production."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_annual_2023_ntd_negative_develop",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "高端 NTD 负显影新机台",
+    "aliases": [
+      "高端 NTD 负显影"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_052_ntd",
+      "source_id": "kingsemi_annual_2023",
+      "page": 14,
+      "excerpt": "此外，公司在高端 NTD 负显影、\nSOC 涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "new_equipment_sales_progress_no_count",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "Source-defined new front-end track application subtype; overlaps the broad front-end track family and is not another counted shipped tool or an FTEX alias.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_052_ntd",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "此外，公司在高端 NTD 负显影、\nSOC 涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "new_equipment_sales_progress_no_count",
+        "claim_kind": "company_reported",
+        "notes": "The p14 sales-progress clause names this subtype alongside the other subtype. No model ID, tool quantity, shipment quantity or customer qualification is stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_annual_2023_soc_coater",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "SOC 涂布新机台",
+    "aliases": [
+      "SOC 涂布"
+    ],
+    "evidence": {
+      "claim_id": "kingsemi_annual_qual_052_soc",
+      "source_id": "kingsemi_annual_2023",
+      "page": 14,
+      "excerpt": "此外，公司在高端 NTD 负显影、\nSOC 涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "new_equipment_sales_progress_no_count",
+    "maturity_as_reported_in": "kingsemi_annual_2023",
+    "notes": "Source-defined new front-end track application subtype; overlaps the broad front-end track family and is not another counted shipped tool or an FTEX alias.",
+    "maturity_history": [
+      {
+        "claim_id": "kingsemi_annual_qual_052_soc",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "此外，公司在高端 NTD 负显影、\nSOC 涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "new_equipment_sales_progress_no_count",
+        "claim_kind": "company_reported",
+        "notes": "The p14 sales-progress clause names this subtype alongside the other subtype. No model ID, tool quantity, shipment quantity or customer qualification is stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_offline_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "offline 涂胶显影机",
+    "aliases": [
+      "offline 涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F002",
+      "source_id": "kingsemi_h1_2026",
+      "page": 14,
+      "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_customer_production_wafer_runs",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F002",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_022_offline",
+        "source_id": "kingsemi_annual_2024",
+        "page": 13,
+        "excerpt": "出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种\n型号产品，成功在下游客户端抢占一席之地。\n  报告期内，公司前道涂胶显影产品成功获得国内头部逻辑、存储、功率客户订单，包括 SOC、\nSOD、NTD 在内的高端 offline 机台取得快速突破，I-line、KrF 机台在多家客户端量产跑片数据\n良好，客户认可度持续提升。截至报告期末，公司正在不同客户端积极推进 ArF 浸没式高产能涂\n胶显影机的导入及验证工作。\n  （2）前道物理清洗设备\n\n\n                         13 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "high_end_offline_breakthrough_no_production_run_claim",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source splits offline breakthrough from I-line/KrF good production-wafer-run data; no ArF transfer."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_040_offline",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台\n在多家客户端量产跑片数据良好，客户认可度不断提升。\n     （2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 expressly names offline, I-line and KrF in good production-wafer-run clause; ArF omitted."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_iline_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "I-line 涂胶显影机",
+    "aliases": [
+      "I-line 涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F003",
+      "source_id": "kingsemi_h1_2026",
+      "page": 14,
+      "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_customer_production_wafer_runs",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F003",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_022_iline",
+        "source_id": "kingsemi_annual_2024",
+        "page": 13,
+        "excerpt": "出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种\n型号产品，成功在下游客户端抢占一席之地。\n  报告期内，公司前道涂胶显影产品成功获得国内头部逻辑、存储、功率客户订单，包括 SOC、\nSOD、NTD 在内的高端 offline 机台取得快速突破，I-line、KrF 机台在多家客户端量产跑片数据\n良好，客户认可度持续提升。截至报告期末，公司正在不同客户端积极推进 ArF 浸没式高产能涂\n胶显影机的导入及验证工作。\n  （2）前道物理清洗设备\n\n\n                         13 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source splits offline breakthrough from I-line/KrF good production-wafer-run data; no ArF transfer."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_040_iline",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台\n在多家客户端量产跑片数据良好，客户认可度不断提升。\n     （2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 expressly names offline, I-line and KrF in good production-wafer-run clause; ArF omitted."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_krf_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "KrF 涂胶显影机",
+    "aliases": [
+      "KrF 涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F004",
+      "source_id": "kingsemi_h1_2026",
+      "page": 14,
+      "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_customer_production_wafer_runs",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F004",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_022_krf",
+        "source_id": "kingsemi_annual_2024",
+        "page": 13,
+        "excerpt": "出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种\n型号产品，成功在下游客户端抢占一席之地。\n  报告期内，公司前道涂胶显影产品成功获得国内头部逻辑、存储、功率客户订单，包括 SOC、\nSOD、NTD 在内的高端 offline 机台取得快速突破，I-line、KrF 机台在多家客户端量产跑片数据\n良好，客户认可度持续提升。截至报告期末，公司正在不同客户端积极推进 ArF 浸没式高产能涂\n胶显影机的导入及验证工作。\n  （2）前道物理清洗设备\n\n\n                         13 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source splits offline breakthrough from I-line/KrF good production-wafer-run data; no ArF transfer."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_040_krf",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台\n在多家客户端量产跑片数据良好，客户认可度不断提升。\n     （2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_production_wafer_runs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 expressly names offline, I-line and KrF in good production-wafer-run clause; ArF omitted."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_arf_immersion_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "ArF 浸没式涂胶显影机",
+    "aliases": [
+      "ArF 浸没式涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F005",
+      "source_id": "kingsemi_h1_2026",
+      "page": 10,
+      "excerpt": "1、前道涂胶显影设备\n  作为公司标杆产品，涂胶显影设备是集成电路制造过程中不可或缺的关键处理设备，主要与\n光刻机（芯片生产线上最庞大、最精密复杂、难度最大、价格最昂贵的设备）配合进行作业，通\n过机械手实现晶圆在各系统间传输和处理，从而完成晶圆的光刻胶涂覆、固化、显影、坚膜等工\n艺过程。\n  全球前道涂胶显影设备市场长期被海外厂商高度垄断，是国内目前少数几个国产化率仍处于\n较低水平的“卡脖子”领域，公司目前系国内少有的可以提供量产型前道涂胶显影机的厂商，产\n品涵盖 offline、I-line、KrF、ArF 浸没式等多种工艺类型。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_product_launched_without_subtype_production_run_evidence",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Offline, I-line, KrF and ArF immersion are source catalogue types. This passage alone does not assign customer-production status to ArF.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F005",
+        "source_id": "kingsemi_h1_2026",
+        "page": 10,
+        "excerpt": "1、前道涂胶显影设备\n  作为公司标杆产品，涂胶显影设备是集成电路制造过程中不可或缺的关键处理设备，主要与\n光刻机（芯片生产线上最庞大、最精密复杂、难度最大、价格最昂贵的设备）配合进行作业，通\n过机械手实现晶圆在各系统间传输和处理，从而完成晶圆的光刻胶涂覆、固化、显影、坚膜等工\n艺过程。\n  全球前道涂胶显影设备市场长期被海外厂商高度垄断，是国内目前少数几个国产化率仍处于\n较低水平的“卡脖子”领域，公司目前系国内少有的可以提供量产型前道涂胶显影机的厂商，产\n品涵盖 offline、I-line、KrF、ArF 浸没式等多种工艺类型。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "catalogue_only_no_production_stage_transfer",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Offline, I-line, KrF and ArF immersion are source catalogue types. This passage alone does not assign customer-production status to ArF."
+      },
+      {
+        "claim_id": "KS26H1-F005_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reported_product_launched_without_subtype_production_run_evidence",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "P14 launched-product clause includes ArF immersion. The following production-wafer-run clause names only offline, I-line and KrF; do not extend it to ArF."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_002",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "型号产品，成功在下游客户端抢占一\n席之地。报告期内，在国内前道晶圆厂扩产节奏有所放缓的行业背景下，公司前道涂胶显影设备\n新签订单依然保持了良好的增长速度，部分型号设备整体工艺水平已能够对标国际主流机台，客\n户认可度不断提升，批量销售规模持续增长。\n  报告期内，公司 ArF 浸没式高产能涂胶显影设备在成熟化、标准化等方面也取得良好进展，\n截至报告期末，公司浸没式机台已获得国内 5 家重要客户订单。此外，公司在高端 NTD 负显影、\nSOC 涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。\n  （2）前道清洗设备\n  公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优\n势受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于\n中芯国际、上海华力、青岛芯恩、广",
+        "as_of": "2023-12-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "arf_immersion_orders_from_five_domestic_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 source explicitly says five domestic customer orders by period end, not five accepted tools."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_023",
+        "source_id": "kingsemi_annual_2024",
+        "page": 13,
+        "excerpt": "期内，公司前道涂胶显影产品成功获得国内头部逻辑、存储、功率客户订单，包括 SOC、\nSOD、NTD 在内的高端 offline 机台取得快速突破，I-line、KrF 机台在多家客户端量产跑片数据\n良好，客户认可度持续提升。截至报告期末，公司正在不同客户端积极推进 ArF 浸没式高产能涂\n胶显影机的导入及验证工作。\n  （2）前道物理清洗设备\n\n\n                         13 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "arf_immersion_customer_introduction_and_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 introduction/validation; I-line/KrF production-run stage must not transfer."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_front_chemical_cleaning",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "前道化学清洗机",
+    "aliases": [
+      "前道化学清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F006",
+      "source_id": "kingsemi_h1_2026",
+      "page": 10,
+      "excerpt": "（1）前道化学清洗设备\n  公司战略性新产品前道化学清洗机已于 2024 年 3 月正式公开发布，机台具有高工艺覆盖性、\n高稳定性、高洁净度、高产能等多项核心优势，机台适用于多种 SPM 工艺，同时可应用于沉积前\n清洗、蚀刻后清洗、离子注入后清洗、CMP 后清洗等多种前段工艺和后段工艺清洗进程，整体工\n\n                             10 / 213",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "front_chemical_cleaner_family_reported_faster_volume_ramp",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Chemical cleaning process applications; March 2024 launch refers to the family, not a fresh H1 2026 event. Continuation on physical p11.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F006",
+        "source_id": "kingsemi_h1_2026",
+        "page": 10,
+        "excerpt": "（1）前道化学清洗设备\n  公司战略性新产品前道化学清洗机已于 2024 年 3 月正式公开发布，机台具有高工艺覆盖性、\n高稳定性、高洁净度、高产能等多项核心优势，机台适用于多种 SPM 工艺，同时可应用于沉积前\n清洗、蚀刻后清洗、离子注入后清洗、CMP 后清洗等多种前段工艺和后段工艺清洗进程，整体工\n\n                             10 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Chemical cleaning process applications; March 2024 launch refers to the family, not a fresh H1 2026 event. Continuation on physical p11."
+      },
+      {
+        "claim_id": "KS26H1-F006_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "公司战略性新产品前道化学清洗机签单表现优秀，高端 SPM 机台已通过国内头部\n客户工艺验证，获得国内客户高度认可，目前公司化学清洗机已获得国内多家大客户重复性订单；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "chemical_cleaner_family_multiple_major_customer_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Family-level chemical-cleaner repeat orders. The source does not split this stage among KS-CM300/200, high-temperature SPM or other configurations."
+      },
+      {
+        "claim_id": "KS26H1-F006_RAMP",
+        "source_id": "kingsemi_h1_2026",
+        "page": 16,
+        "excerpt": "公司临时键合、解键合设备持续获得多家大客户订单，战略新\n品前道化学清洗机已进入较快放量阶段，公司产品线不断丰富，新业务增长点持续发力。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_chemical_cleaner_family_reported_faster_volume_ramp",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source says broad front-end chemical-cleaner family entered a faster volume-ramp phase. No system count, KS-CM300/200-only assignment, or factory output is implied."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_039",
+        "source_id": "kingsemi_annual_2025",
+        "page": 18,
+        "excerpt": "沉积前\n清洗、蚀刻后清洗、离子注入后清洗、CMP 后清洗等多种前段工艺和后段工艺清洗进程，整体工\n艺覆盖率达 90%以上；机台搭载独立开发的新一代高清洗效率低损伤射流喷嘴，洁净度已达到先\n进制程所需水平。公司前道高端化学清洗机台经过客户端数月的量产跑片监控，在三大核心指标\n上可对标海外龙头。该机台已成功通过客户工艺验证，获得国内客户高度认可。目前公司化学清\n洗机已获得国内多家大客户重复性订单，新签订单实现较快增长。\n\n\n二、经营情况讨论与分析\n  半导体被称为制造业皇冠上的明珠，半导体产业是信息技术产业的核心，是支撑经济社会发\n展和保障国家安全的战略性、基础性和先导性产业，其技术水平和发展规模已成为衡量一个国家\n产业竞争力和综合国力的重要标志之一。作为“工业粮食”,半导体芯片被广泛地应用于计算机、\n消费类电子、网络通信、汽车电子、物联网等产业，是绝",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_high_end_chemical_cleaner_customer_validated_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 broad high-end chemical-cleaner validation and family repeat orders; no exact KS-CM-only allocation."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_high_temp_spm_cleaning",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "高温 SPM 前道化学清洗机",
+    "aliases": [
+      "高温 SPM 前道化学清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F008",
+      "source_id": "kingsemi_h1_2026",
+      "page": 15,
+      "excerpt": "高温 SPM 清洗工艺被业界公认为高端制程性能要求最高的工艺之一，也是业内最具难度和\n挑战的湿法工艺。目前高温 SPM 设备市场被海外厂商高度垄断，客户亟需国产替代。高温 SPM\n设备工艺复杂，客户最关心的三大核心指标为颗粒控制、刻蚀率及均一性、金属离子控制，公司\n高端化学清洗机台经过客户端数月的量产跑片监控，在三大核心指标上可对标海外龙头。目前该\n机台已成功通过客户工艺验证，获得国内客户高度认可，报告期内公司化学清洗机已获得国内多\n家大客户重复性订单，新签订单实现较快增长。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_process_validated_after_production_wafer_monitoring",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Source-specific high-temperature SPM monitoring and completed customer process validation. The following repeat-order clause changes subject to the broader company chemical-cleaner family; no SPM-only repeat-order inference.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F008",
+        "source_id": "kingsemi_h1_2026",
+        "page": 15,
+        "excerpt": "高温 SPM 清洗工艺被业界公认为高端制程性能要求最高的工艺之一，也是业内最具难度和\n挑战的湿法工艺。目前高温 SPM 设备市场被海外厂商高度垄断，客户亟需国产替代。高温 SPM\n设备工艺复杂，客户最关心的三大核心指标为颗粒控制、刻蚀率及均一性、金属离子控制，公司\n高端化学清洗机台经过客户端数月的量产跑片监控，在三大核心指标上可对标海外龙头。目前该\n机台已成功通过客户工艺验证，获得国内客户高度认可，报告期内公司化学清洗机已获得国内多\n家大客户重复性订单，新签订单实现较快增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validated_after_production_wafer_monitoring",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source-specific high-temperature SPM monitoring and completed customer process validation. The following repeat-order clause changes subject to the broader company chemical-cleaner family; no SPM-only repeat-order inference."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_029",
+        "source_id": "kingsemi_annual_2024",
+        "page": 14,
+        "excerpt": "具难\n度和挑战的湿法工艺。目前高温 SPM 设备市场被日本 DNS 高度垄断，客户亟需国产替代。高温 SPM\n设备工艺复杂，客户最关心的三大核心指标为 26nm 颗粒控制、刻蚀率及均一性、金属离子控制，\n公司高温 SPM 机台经过客户端数月的量产跑片监控，在三大核心指标上可对标海外龙头。目前该\n机台已成功通过客户工艺验证，成功打破国外垄断，获得国内客户高度认可，目前公司化学清洗\n机已获得国内多家大客户订单及验证性订单。\n  前道清洗类设备标准化程度相对较高，通过验证后有望快速提升市场份额。公司于 2018 年发\n布前道物理清洗设备后，在两年的时间内迅速成为了客户端主力量产机型。公司将借助前道物理\n                         14 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "high_temperature_spm_customer_process_validated",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 months of monitoring and process validation, not proven mass-production adoption; 26nm is particle size."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_front_physical_cleaning",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "前道物理清洗机",
+    "aliases": [
+      "前道物理清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F009",
+      "source_id": "kingsemi_h1_2026",
+      "page": 11,
+      "excerpt": "（2）前道物理清洗设备\n  前道物理清洗机适用于晶圆制造前段工艺（FEOL）与后段工艺（BEOL）进程中薄膜沉积、\n光刻、刻蚀等多道工艺前后晶圆表面颗粒的清洗去除，设备配置低损伤雾化清洗喷嘴与低损伤清\n洗毛刷，可广泛应用于国内前道晶圆制造领域。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "logic_power_main_production_model",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Physical cleaning family and source-defined FEOL/BEOL application; no tool count.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F009",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "（2）前道物理清洗设备\n  前道物理清洗机适用于晶圆制造前段工艺（FEOL）与后段工艺（BEOL）进程中薄膜沉积、\n光刻、刻蚀等多道工艺前后晶圆表面颗粒的清洗去除，设备配置低损伤雾化清洗喷嘴与低损伤清\n洗毛刷，可广泛应用于国内前道晶圆制造领域。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Physical cleaning family and source-defined FEOL/BEOL application; no tool count."
+      },
+      {
+        "claim_id": "KS26H1-F009_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内头部客户批量订单，高产\n能物理清洗机通过存储客户验证并获得重复订单，进一步夯实了公司在国内市场的龙头地位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "logic_power_main_production_model",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Main production model for logic/power differs from high-capacity physical cleaner validated by memory customer and receiving repeat order. 26nm is particle-removal size, not process node."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_004",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "涂布等新机台销售方面也取得了良好进展，进一步拓展了公司涂胶显影设备的工艺应用场景\n和市场空间。\n  （2）前道清洗设备\n  公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优\n势受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于\n中芯国际、上海华力、青岛芯恩、广州粤芯、上海积塔、厦门士兰等一线大厂，已成为国内逻辑、\n功率器件客户主力量产机型。报告期内，公司新一代高产能物理清洗机已发往国内重要存储客户\n开展验证，机台应用新一代高产能架构，可满足存储客户对产能的更高指标要求，未来有望在存\n储领域打开新的增量市场空间。\n  此外，公司战略性新产品前道化学清洗机的研发与产业化也取得实质性突破，目前已获得国\n                          14 / 267",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "logic_power_main_production_model_with_named_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 named customer use and logic/power main-production status; high-capacity memory tool is separate."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_024",
+        "source_id": "kingsemi_annual_2024",
+        "page": 14,
+        "excerpt": "沈阳芯源微电子设备股份有限公司2024 年年度报告\n\n\n  公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于中\n芯国际、上海华力、青岛芯恩、广州粤芯、上海积塔、厦门士兰等一线大厂，已成为国内逻辑、\n功率器件客户主力量产机型。\n  近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内领先逻辑客户批量订单，\n进一步夯实了公司在国内市场的龙头地位。\n  （3）后道先进封装设备\n  公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于台\n积电、盛合晶微、长电科技、华天科技、通富微电、珠",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "logic_customer_batch_orders_and_main_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 broad physical-cleaner status; 26nm is particle size, not node."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_041",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内头部客户批量订单，高产\n能物理清洗机通过存储客户验证并获得重复订单，进一步夯实了公司在国内市场的龙头地位。\n     （3）后道先进封装设备\n     公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于国\n内各主流先进封装厂，已经成为众多知名客户的首选品牌。\n     目前，国内后道封测市场呈温和复苏态势，下游市场景气度良好，头部客户下单意愿较为积\n极，公司后道涂胶显影机、单片式湿法设备持续获得国内多家客户批量重复性订单。公司深耕先\n进封装领域多年，部分技术已达到国际领先",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "physical_cleaner_logic_power_main_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 broad physical-cleaner main-production clause; high-capacity memory validation separately routed."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_018-node-applicability",
+        "source_id": "kingsemi_annual_2023",
+        "page": 20,
+        "excerpt": "前道物理清洗机适用于晶圆制造前段工艺（FEOL）与后段工艺（BEOL）进程中薄膜沉积、光\n刻、刻蚀等多道工艺前后晶圆表面颗粒的清洗去除，设备配置低损伤雾化清洗喷嘴与低损伤清洗\n毛刷，可广泛应用于国内 28nm 及以上工艺制程的晶圆制造领域。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "physical_cleaner_family_reported_node_applicability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 及以上",
+        "process_node_context": "晶圆制造领域"
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_036-node-applicability",
+        "source_id": "kingsemi_annual_2024",
+        "page": 18,
+        "excerpt": "前道物理清洗机适用于晶圆制造前段工艺（FEOL）与后段工艺（BEOL）进程中薄膜沉积、光\n刻、刻蚀等多道工艺前后晶圆表面颗粒的清洗去除，设备配置低损伤雾化清洗喷嘴与低损伤清洗\n毛刷，可广泛应用于国内 28nm 及以上工艺制程的晶圆制造领域。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "physical_cleaner_family_reported_node_applicability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 及以上",
+        "process_node_context": "晶圆制造领域"
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_high_capacity_physical_cleaning",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "高产能物理清洗机",
+    "aliases": [
+      "高产能物理清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F010",
+      "source_id": "kingsemi_h1_2026",
+      "page": 14,
+      "excerpt": "（2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内头部客户批量订单，高产\n能物理清洗机通过存储客户验证并获得重复订单，进一步夯实了公司在国内市场的龙头地位。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "memory_customer_validated_repeat_orders",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Main production model for logic/power differs from high-capacity physical cleaner validated by memory customer and receiving repeat order. 26nm is particle-removal size, not process node.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F010",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（2）前道物理清洗设备\n     公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内头部客户批量订单，高产\n能物理清洗机通过存储客户验证并获得重复订单，进一步夯实了公司在国内市场的龙头地位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "memory_customer_validated_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Main production model for logic/power differs from high-capacity physical cleaner validated by memory customer and receiving repeat order. 26nm is particle-removal size, not process node."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_003",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优\n势受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于\n中芯国际、上海华力、青岛芯恩、广州粤芯、上海积塔、厦门士兰等一线大厂，已成为国内逻辑、\n功率器件客户主力量产机型。报告期内，公司新一代高产能物理清洗机已发往国内重要存储客户\n开展验证，机台应用新一代高产能架构，可满足存储客户对产能的更高指标要求，未来有望在存\n储领域打开新的增量市场空间。\n  此外，公司战略性新产品前道化学清洗机的研发与产业化也取得实质性突破，目前已获得国\n                          14 / 267",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "high_capacity_physical_cleaner_sent_for_memory_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 shipped to memory customer for validation, not accepted/installed system count."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_041_high_capacity",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "垄断并确立了市场领先优势，目前已广泛应用于各\n主要一线大厂，已成为国内逻辑、功率器件客户主力量产机型。\n     近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内头部客户批量订单，高产\n能物理清洗机通过存储客户验证并获得重复订单，进一步夯实了公司在国内市场的龙头地位。\n     （3）后道先进封装设备\n     公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于国\n内各主流先进封装厂，已经成为众多知名客户的首选品牌。\n     目前，国内后道封测市场呈温和复苏态势，下游市场景气度良好，头部客户下单意愿较为积\n极，公司后道涂胶显影机、单片式湿法设备持续获得国内多家客户批量重复性订单。公司深耕先\n进封装领域多年，部分技术已达到国际领先",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "high_capacity_physical_cleaner_memory_validated_repeat_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 high-capacity subtype validated by memory customer with repeat orders."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_back_single_wafer_wet",
+    "entity_id": "kingsemi",
+    "category_id": "multi_equipment",
+    "record_kind": "source_native_family",
+    "name": "后道单片式湿法设备",
+    "aliases": [
+      "后道单片式湿法设备"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F012",
+      "source_id": "kingsemi_h1_2026",
+      "page": 11,
+      "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "back_packaging_track_and_wet_mainstream_batch_application",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity. Umbrella taxonomy is multi_equipment; preserve separate cleaning, strip and wet-etch subtype records.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F012",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity."
+      },
+      {
+        "claim_id": "KS26H1-F012_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（3）后道先进封装设备\n     公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于国\n内各主流先进封装厂，已经成为众多知名客户的首选品牌。\n     目前，国内后道封测市场呈温和复苏态势，下游市场景气度良好，头部客户下单意愿较为积\n极，公司后道涂胶显影机、单片式湿法设备持续获得国内多家客户批量重复性订单。公司深耕先\n进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多家海外客户\n的持续认可。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_packaging_track_and_wet_mainstream_batch_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end track and single-wafer wet equipment have multi-year mainstream batch application; no model/system count."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_020",
+        "source_id": "kingsemi_annual_2023",
+        "page": 20,
+        "excerpt": "及以上工艺制程的晶圆制造领域。\n\n\n\n\n  3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、\n去胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶\n及 lift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         20 / 267",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_single_wafer_wet_clean_strip_etch_catalogue",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 source defines clean, strip and wet-etch umbrella; not only cleaning."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_028",
+        "source_id": "kingsemi_annual_2024",
+        "page": 14,
+        "excerpt": "。\n  近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内领先逻辑客户批量订单，\n进一步夯实了公司在国内市场的龙头地位。\n  （3）后道先进封装设备\n  公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于台\n积电、盛合晶微、长电科技、华天科技、通富微电、珠海天成等海内外一线大厂，已经成为众多\n知名客户的首选品牌。\n  2024 年，国内后道封测市场呈复苏回暖态势，下游市场景气度良好，客户下单意愿积极，公\n司后道涂胶显影机、单片式湿法设备获得国内多家客户批量重复性订单，签单同比实现良好增长。\n公司深耕先进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多\n家海外客户的持续认可，报告期内，公司成功获得海外封装龙头客户",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_wet_and_track_mainstream_batch_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 joint back-end track/wet clause; no subtype-specific count."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_042_wet",
+        "source_id": "kingsemi_annual_2025",
+        "page": 20,
+        "excerpt": "学清洗机签单表现优秀，高端 SPM 机台已通过国内头部\n客户工艺验证，获得国内客户高度认可，目前公司化学清洗机已获得国内多家大客户重复性订单；\n前道物理清洗机成功获得国内头部客户批量订单，进一步夯实细分市场龙头地位；后道涂胶显影\n机及单片式湿法设备持续巩固国内领先优势，报告期内，继续获得封装龙头客户批量重复性订单；\n新产品临时键合机、解键合机、Frame 清洗机等已顺利通过多家客户验证，开始进入逐步放量阶\n段。\n\n\n（二）报告期内重点工作开展情况\n     1、产品销售情况\n     （1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "back_wet_and_track_repeat_batch_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 joint track/wet repeat-order clause; not a unique tool count."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_back_wet_clean",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "后道单片湿法清洗机",
+    "aliases": [
+      "后道单片湿法清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F013",
+      "source_id": "kingsemi_h1_2026",
+      "page": 11,
+      "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F013",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_back_wet_strip",
+    "entity_id": "kingsemi",
+    "category_id": "strip",
+    "record_kind": "source_native_family",
+    "name": "后道单片湿法去胶机",
+    "aliases": [
+      "后道单片湿法去胶机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F014",
+      "source_id": "kingsemi_h1_2026",
+      "page": 11,
+      "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F014",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_back_wet_etch",
+    "entity_id": "kingsemi",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "后道单片湿法刻蚀机",
+    "aliases": [
+      "后道单片湿法刻蚀机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F015",
+      "source_id": "kingsemi_h1_2026",
+      "page": 11,
+      "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F015",
+        "source_id": "kingsemi_h1_2026",
+        "page": 11,
+        "excerpt": "3、后道先进封装设备\n  （1）涂胶显影设备、单片式湿法设备\n  公司后道涂胶显影设备主要应用于先进封装技术 BGA、Flip-Chip、WLCSP、CSP、2.5D、3D\n等涂胶显影工艺，可实现高黏度 PR、PI 涂敷及多种显影工艺。公司单片湿法设备包括清洗机、去\n胶机、刻蚀机等湿法类设备，可广泛应用于来料清洗、TSV 深孔清洗、Flux 清洗等清洗、去胶及\nlift-off 剥离工艺及多种介质层湿法刻蚀工艺。\n\n\n\n\n                         11 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Back-end coat/develop and single-wafer wet cleaning/strip/etch are separate source-defined processes; no unique model or quantity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_frame_cleaner",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "Frame 清洗设备",
+    "aliases": [
+      "Frame 清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F018",
+      "source_id": "kingsemi_h1_2026",
+      "page": 15,
+      "excerpt": "此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，也已成功通过客\n户验证，进入放量阶段。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validated_volume_ramp",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Frame cleaning has passed customer validation and entered volume ramp. It does not inherit temporary bond/debond full mass-production wording.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F018",
+        "source_id": "kingsemi_h1_2026",
+        "page": 15,
+        "excerpt": "此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，也已成功通过客\n户验证，进入放量阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validated_volume_ramp",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Frame cleaning has passed customer validation and entered volume ramp. It does not inherit temporary bond/debond full mass-production wording."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_014",
+        "source_id": "kingsemi_annual_2023",
+        "page": 17,
+        "excerpt": "合全流程解决方案。\n  2021 年，公司获得国内重要存储客户支持，开始系统性研发临时键合、解键合设备，目前\n公司临时键合机、解键合机整体技术已达到国际先进水平，陆续获得国内多家头部客户订单，进\n入小批量销售阶段。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，目前也\n已进入小批量销售阶段。\n  （3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子\n公司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面\n临的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割速度约为\n100mm/s，相比传统划片机切割速度大幅提升，产能效率得到大幅提升，同时拥有零切口损失、\n断面平",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "frame_cleaner_small_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 small-batch sales claim; no numeric system count."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_031",
+        "source_id": "kingsemi_annual_2024",
+        "page": 15,
+        "excerpt": "早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达\n到国际先进水平。报告期内，该系列设备成功通过多家客户验证，并陆续获得国内多家客户订单，\n进入逐步放量阶段，目前在手订单已近 20 台。此外，公司在 2.5D/3D 先进封装领域布局的新产品\nFrame 清洗设备，也已成功通过客户验证，进入小批量销售阶段。\n  （3）SiC 划裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子公\n司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面临\n的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割速度约为 100mm/s，\n相比传统划片机切割速度大幅提升，产能效率得到大幅提升，同时拥有零切口损失、断面平整、\n崩边",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "frame_cleaner_customer_validated_small_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 validated and small-batch sales; distinct from bond/debond backlog."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_046",
+        "source_id": "kingsemi_annual_2025",
+        "page": 21,
+        "excerpt": "临时键合、解键\n合设备，是国内较早进入该领域的设备厂商。目前公司临时键合机、解键合机整体技术已达到国\n际先进水平。报告期内，该系列设备继续获得国内多家客户订单，顺利通过多家客户工艺验证并\n全面量产。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，也已成功通过客\n户验证，进入逐步放量阶段。\n  3、人才团队建设情况\n\n\n\n                          21 / 246",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "frame_cleaner_customer_validated_volume_ramp",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 volume ramp; does not inherit bond/debond full mass-production clause."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_small_wafer_wet_group",
+    "entity_id": "kingsemi",
+    "category_id": "multi_equipment",
+    "record_kind": "source_native_family",
+    "name": "化合物等小尺寸设备",
+    "aliases": [
+      "化合物等小尺寸设备"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F019",
+      "source_id": "kingsemi_h1_2026",
+      "page": 13,
+      "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "small_wafer_broad_group_mainstream_batch_application",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F019",
+        "source_id": "kingsemi_h1_2026",
+        "page": 13,
+        "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity."
+      },
+      {
+        "claim_id": "KS26H1-F019_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（4）化合物等小尺寸设备\n     公司化合物等小尺寸设备近年来已作为主流机型批量应用于国内各主流小尺寸厂商，已经成\n为客户端的主力量产设备。\n                           14 / 213",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_wafer_broad_group_mainstream_batch_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Compound/small-size equipment broad group has mainstream batch application, not a stage independently established for each subfamily."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_021",
+        "source_id": "kingsemi_annual_2023",
+        "page": 22,
+        "excerpt": "2023 年年度报告\n\n\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备及 SiC 划裂片设备，可广泛应用于射频器件、功率器件、光通信、MEMS、\nLED 工艺生产环节。\n\n\n\n\n(二)   主要经营模式\n\n  1、盈利模式\n  公司主要从事半导体专用设备的研发、生产和销售业务，通过向下游客户销售光刻工序涂胶\n显影设备和单片式湿法设备等产品实现收入和利润。报告期内，公司主营业务收入来源于半导体\n专用设备产品的销售，其他业务收入来源于设备相关配件销售及维修服",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_wafer_track_wet_and_sic_catalogue",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 broad compound/small-wafer group includes SiC dicing; not one tool category."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_026",
+        "source_id": "kingsemi_annual_2024",
+        "page": 14,
+        "excerpt": "内多家客户批量重复性订单，签单同比实现良好增长。\n公司深耕先进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多\n家海外客户的持续认可，报告期内，公司成功获得海外封装龙头客户批量重复性订单。\n  （4）化合物等小尺寸设备\n  公司化合物等小尺寸设备近年来已作为主流机型批量应用于三安集成、华灿光电、乾照光电、\n北京赛微等国内一线大厂，已经成为客户端的主力量产设备。报告期内，受下游市场景气度影响，\n该细分领域销售额有所下滑。\n  2、新产品产业化进展\n  （1）前道化学清洗机\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式发布，机台具有高工艺\n覆盖性、高稳定性、高洁净度、高产能等多项核心优势，机台搭载独立开发的新一代高清洗效率\n低损伤射流喷嘴，洁净度已达到先进制程所需水平，适用于沉积前清洗、蚀刻后清洗、离子",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_wafer_group_main_production_customer_use",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 broad group customer use; no stage for every child subtype."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_051",
+        "source_id": "kingsemi_annual_2025",
+        "page": 21,
+        "excerpt": "公司化合物等小尺寸设备近年来已作为主流机型批量应用于国内各主流小尺寸厂商，已经成\n为客户端的主力量产设备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "small_wafer_group_mainstream_batch_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 broad group stage only; source does not name individual model performance."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_small_wafer_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "小尺寸涂胶显影机",
+    "aliases": [
+      "小尺寸涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F020",
+      "source_id": "kingsemi_h1_2026",
+      "page": 13,
+      "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F020",
+        "source_id": "kingsemi_h1_2026",
+        "page": 13,
+        "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_small_wafer_clean",
+    "entity_id": "kingsemi",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "小尺寸清洗机",
+    "aliases": [
+      "小尺寸清洗机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F021",
+      "source_id": "kingsemi_h1_2026",
+      "page": 13,
+      "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F021",
+        "source_id": "kingsemi_h1_2026",
+        "page": 13,
+        "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_small_wafer_strip",
+    "entity_id": "kingsemi",
+    "category_id": "strip",
+    "record_kind": "source_native_family",
+    "name": "小尺寸去胶机",
+    "aliases": [
+      "小尺寸去胶机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F022",
+      "source_id": "kingsemi_h1_2026",
+      "page": 13,
+      "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_listed_subtype",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F022",
+        "source_id": "kingsemi_h1_2026",
+        "page": 13,
+        "excerpt": "4、化合物等小尺寸设备\n  公司生产的化合物等小尺寸设备主要应用于 4-8 寸晶圆工艺，产品包括涂胶显影机、清洗机、\n去胶机等湿法类设备，可广泛应用于射频器件、功率器件、光通信、MEMS、LED 工艺生产环节。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_listed_subtype",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Source-defined 4–8 inch wafer application and track/clean/strip wet products; wafer size is not process node or annual capacity."
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_front_track_broad",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "前道涂胶显影设备",
+    "aliases": [
+      "前道涂胶显影设备"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F001",
+      "source_id": "kingsemi_h1_2026",
+      "page": 10,
+      "excerpt": "1、前道涂胶显影设备\n  作为公司标杆产品，涂胶显影设备是集成电路制造过程中不可或缺的关键处理设备，主要与\n光刻机（芯片生产线上最庞大、最精密复杂、难度最大、价格最昂贵的设备）配合进行作业，通\n过机械手实现晶圆在各系统间传输和处理，从而完成晶圆的光刻胶涂覆、固化、显影、坚膜等工\n艺过程。\n  全球前道涂胶显影设备市场长期被海外厂商高度垄断，是国内目前少数几个国产化率仍处于\n较低水平的“卡脖子”领域，公司目前系国内少有的可以提供量产型前道涂胶显影机的厂商，产\n品涵盖 offline、I-line、KrF、ArF 浸没式等多种工艺类型。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "offline_iline_krf_production_runs_only",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Issuer-wide broad front-end track family without an explicit wafer diameter in this source. Its offline, I-line and KrF subtypes have good production-wafer-run data at multiple customers; ArF immersion is launched/catalogued but is not assigned that stage. Overlaps the narrower NAURA-sourced 12-inch family; identity equivalence remains unproven.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F001",
+        "source_id": "kingsemi_h1_2026",
+        "page": 10,
+        "excerpt": "1、前道涂胶显影设备\n  作为公司标杆产品，涂胶显影设备是集成电路制造过程中不可或缺的关键处理设备，主要与\n光刻机（芯片生产线上最庞大、最精密复杂、难度最大、价格最昂贵的设备）配合进行作业，通\n过机械手实现晶圆在各系统间传输和处理，从而完成晶圆的光刻胶涂覆、固化、显影、坚膜等工\n艺过程。\n  全球前道涂胶显影设备市场长期被海外厂商高度垄断，是国内目前少数几个国产化率仍处于\n较低水平的“卡脖子”领域，公司目前系国内少有的可以提供量产型前道涂胶显影机的厂商，产\n品涵盖 offline、I-line、KrF、ArF 浸没式等多种工艺类型。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Offline, I-line, KrF and ArF immersion are source catalogue types. This passage alone does not assign customer-production status to ArF."
+      },
+      {
+        "claim_id": "KS26H1-F001_STAGE",
+        "source_id": "kingsemi_h1_2026",
+        "page": 14,
+        "excerpt": "（1）前道涂胶显影设备\n     全球前道涂胶显影设备市场长期被海外厂商高度垄断，目前国产化率仍然较低。前道涂胶显\n影设备是半导体产线上唯一与光刻机联机作业的工艺设备，是晶圆生产中的关键核心设备。近年\n来，随着国际贸易不确定性的增强，前道涂胶显影设备的国产化替代得到了下游客户的高度重视\n和大力支持。公司作为目前国内少有的可以提供量产型前道涂胶显影机的厂商，经过长期的研发、\n多轮次验证及量产应用，目前已成功推出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型\n号产品，成功在下游客户端抢占一席之地。\n     报告期内，公司前道涂胶显影产品持续获得国内头部客户订单，offline、I-line、KrF 等机台在\n多家客户端量产跑片数据良好，客户认可度不断提升。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "offline_iline_krf_production_runs_only",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Overlapping family/subtype disclosure row; not an additional distinct counted tool. Only offline/I-line/KrF explicitly have good production wafer-run data at multiple customers; ArF immersion appears in the catalogue sentence but does not inherit that stage."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_001",
+        "source_id": "kingsemi_annual_2023",
+        "page": 14,
+        "excerpt": "销售情况\n  （1）前道涂胶显影设备\n  全球前道涂胶显影设备市场长期被日本厂商高度垄断，目前国产化率仍然较低，作为半导体\n产线上唯一与光刻机联机作业的核心工艺设备，近年来，前道涂胶显影设备的国产化替代得到了\n下游客户的高度重视和大力支持。公司经过长期的研发、多轮次验证及量产应用，目前已成功推\n出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种型号产品，成功在下游客户端抢占一\n席之地。报告期内，在国内前道晶圆厂扩产节奏有所放缓的行业背景下，公司前道涂胶显影设备\n新签订单依然保持了良好的增长速度，部分型号设备整体工艺水平已能够对标国际主流机台，客\n户认可度不断提升，批量销售规模持续增长。\n  报告期内，公司 ArF 浸没式高产能涂胶显影设备在成熟化、标准化等方面也取得良好进展，\n截至报告期末，公司浸没式机台已获得国内 5 家重要客户订单。此外，公司在高端 NTD 负",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_track_multiple_models_launched_and_batch_sales",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad front-end family; no equal maturity for four workflow types."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_022",
+        "source_id": "kingsemi_annual_2024",
+        "page": 13,
+        "excerpt": "出了包括 offline、I-line、KrF 及 ArF 浸没式在内的多种\n型号产品，成功在下游客户端抢占一席之地。\n  报告期内，公司前道涂胶显影产品成功获得国内头部逻辑、存储、功率客户订单，包括 SOC、\nSOD、NTD 在内的高端 offline 机台取得快速突破，I-line、KrF 机台在多家客户端量产跑片数据\n良好，客户认可度持续提升。截至报告期末，公司正在不同客户端积极推进 ArF 浸没式高产能涂\n胶显影机的导入及验证工作。\n  （2）前道物理清洗设备\n\n\n                         13 / 271",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_track_orders_with_iline_krf_production_subset",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 offline breakthrough differs from I-line/KrF production runs and ArF validation."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_038",
+        "source_id": "kingsemi_annual_2025",
+        "page": 12,
+        "excerpt": "设备）配合进行作业，通\n过机械手实现晶圆在各系统间传输和处理，从而完成晶圆的光刻胶涂覆、固化、显影、坚膜等工\n艺过程。\n  全球前道涂胶显影设备市场长期被海外厂商高度垄断，是国内目前少数几个国产化率仍处于\n较低水平的“卡脖子”领域，公司目前系国内少有的可以提供量产型前道涂胶显影机的厂商，产\n品涵盖 offline、I-line、KrF、ArF 浸没式等多种工艺类型。\n\n\n\n\n                             12 / 246",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_track_four_workflow_catalogue",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 p12 catalogue; customer-stage detail is on p20 and variant-bound."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_017-node-coverage",
+        "source_id": "kingsemi_annual_2023",
+        "page": 19,
+        "excerpt": "公司作为目前国内唯一可以提供量产型前道涂胶显影机的厂商，经\n过长期的技术积累和在客户端的验证及量产应用，目前已完成在前道晶圆加工环节 28nm 及以上\n工艺节点的全覆盖，并可持续向更高工艺等级迭代，截至报告期末，28nm 以下工艺技术正在验\n证中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_end_track_family_reported_node_coverage",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 及以上",
+        "process_node_context": "前道晶圆加工环节"
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_017-node-validation",
+        "source_id": "kingsemi_annual_2023",
+        "page": 19,
+        "excerpt": "公司作为目前国内唯一可以提供量产型前道涂胶显影机的厂商，经\n过长期的技术积累和在客户端的验证及量产应用，目前已完成在前道晶圆加工环节 28nm 及以上\n工艺节点的全覆盖，并可持续向更高工艺等级迭代，截至报告期末，28nm 以下工艺技术正在验\n证中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_end_track_below_28nm_validation_underway",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 以下",
+        "process_node_context": "工艺技术正在验证中"
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_035-node-coverage",
+        "source_id": "kingsemi_annual_2024",
+        "page": 17,
+        "excerpt": "公司作为目前国内唯一可以提供量产型前道涂胶显影机的厂商，经\n过长期的技术积累和在客户端的验证及量产应用，目前已完成在前道晶圆加工环节 28nm 及以上工\n艺节点的全覆盖，并可持续向更高工艺等级迭代，截至报告期末，28nm 以下工艺技术正在验证中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_end_track_family_reported_node_coverage",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 及以上",
+        "process_node_context": "前道晶圆加工环节"
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_035-node-validation",
+        "source_id": "kingsemi_annual_2024",
+        "page": 17,
+        "excerpt": "公司作为目前国内唯一可以提供量产型前道涂胶显影机的厂商，经\n过长期的技术积累和在客户端的验证及量产应用，目前已完成在前道晶圆加工环节 28nm 及以上工\n艺节点的全覆盖，并可持续向更高工艺等级迭代，截至报告期末，28nm 以下工艺技术正在验证中。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "front_end_track_below_28nm_validation_underway",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad source-native family only, not every named model. Coverage/applicability and below-node validation are separate source assertions; no mass-production claim below 28nm. Root and independent verifier reread the original.",
+        "process_node": "28nm 以下",
+        "process_node_context": "工艺技术正在验证中"
+      }
+    ]
+  },
+  {
+    "platform_id": "kingsemi_interim_2026_small_wafer_high_capacity_track",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "化合物等小尺寸高产能涂胶显影机",
+    "aliases": [
+      "高产能涂胶显影机"
+    ],
+    "evidence": {
+      "claim_id": "KS26H1-F023",
+      "source_id": "kingsemi_h1_2026",
+      "page": 19,
+      "excerpt": "公司新产品高产能涂胶显影机，应用成熟的涂胶显影腔体技术，并配置高精度的烘\n烤热板以及公司自主研发的高速、高精度传送机械手，机台占地面积小、产能高。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_described_without_customer_stage",
+    "maturity_as_reported_in": "kingsemi_h1_2026",
+    "notes": "Source-native small-wafer high-capacity track subtype from H1 p19; overlaps generic small-wafer track. Source does not name a model or tie it to FY2024 FTEX or H1 p18 next-generation front-end track architecture.",
+    "maturity_history": [
+      {
+        "claim_id": "KS26H1-F023",
+        "source_id": "kingsemi_h1_2026",
+        "page": 19,
+        "excerpt": "公司新产品高产能涂胶显影机，应用成熟的涂胶显影腔体技术，并配置高精度的烘\n烤热板以及公司自主研发的高速、高精度传送机械手，机台占地面积小、产能高。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_described_without_customer_stage",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "New high-capacity coat/develop subtype appears under compound/small-wafer technology. No exact model, installed quantity, numerical throughput or customer-production qualification follows from this clause."
+      },
+      {
+        "claim_id": "kingsemi_annual_qual_050",
+        "source_id": "kingsemi_annual_2025",
+        "page": 26,
+        "excerpt": "公司新产品高产能涂胶显影机，应用成熟的涂胶显影腔体技术，并配置高精度的烘\n烤热板以及公司自主研发的高速、高精度传送机械手，机台占地面积小、产能高。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_described_without_customer_stage",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 p26 earlier-vintage description of H1 p19 small-wafer high-capacity subtype; no FTEX link."
+      }
+    ]
+  }
+]

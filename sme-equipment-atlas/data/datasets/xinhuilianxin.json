@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "xinhuilianxin_disclosures",
+    "title": "Xinhuilianxin (Suzhou) third-party press disclosures",
+    "kind": "company_filings",
+    "publisher": "xinhuilianxin",
+    "version": "w13-2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Short evidence passages from third-party financial/industry press relaying the company's own statements and a product roll-out ceremony; originals (archived HTML) held locally.",
+    "market_definitions": {}
+  }
+]

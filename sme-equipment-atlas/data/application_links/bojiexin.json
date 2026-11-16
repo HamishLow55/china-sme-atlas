@@ -1,0 +1,20 @@
+[
+  {
+    "link_id": "bojiexin_dicing_advanced_packaging_2026",
+    "claim_id": "BOJIEXIN-NEWS-DICING-PACKAGING",
+    "entity_id": "bojiexin",
+    "category_id": "dicing_blade",
+    "platform_id": "bojiexin_precision_dicing_saws",
+    "application_id": "advanced_packaging",
+    "source_id": "bojiexin_news_blade_dicing_article",
+    "page": 1,
+    "excerpt": "先进封装领域：在 DFN/QFN 封装、 BGA 封装、 Fan-out 封装等切割环节表现卓越，助力先进封装技术升级",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "scope_note": "Company's own (dated, 2026-01-30) news article names 先进封装 (advanced packaging) explicitly and lists DFN/QFN, BGA and Fan-out dicing steps. Promotional company page, not a filing; no customer-qualification or shipment status accompanies this specific claim. No TSV or HBM wording appears anywhere on Bojiexin's site; not registered as a tsv/hbm link.",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against bojiexin_official_site_product_article.html (dated 2026-01-30): '先进封装领域：在 DFN/QFN 封装、 BGA 封装、 Fan-out 封装等切割环节表现卓越，助力先进封装技术升级'. link_kind=supplier_capability is correctly scoped to THIS sentence, which carries no customer or shipment status. Note for the report (not a defect in this link's own scoping): the same article elsewhere names actual customers (SMIC, CXMT, BOE) and a 2025 breakeven/growth claim for the company generally, which is not tied to the advanced-packaging clause specifically and is not captured anywhere in the current batch -- a registration gap worth a follow-up, not a reason to upgrade THIS link's tier, since the quoted sentence itself still asserts no customer or shipment specifically for the DFN/QFN/BGA/Fan-out claim."
+  }
+]

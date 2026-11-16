@@ -1,0 +1,23 @@
+[
+  {
+    "platform_id": "nuohe_hybrid_bonding_equipment",
+    "entity_id": "nuohe_jianwei",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "诺合键维混合键合设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "nuohe-maturity",
+      "source_id": "naura_nuohe_acquisition_20261015",
+      "page": 4,
+      "excerpt": "出厂设备已经实现纳米级精度对准，产品已获得重复订单，并正在与其他多家头部客户合作开展设备验证以及意向订单洽谈",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "Repeat orders; validation with several other leading customers; intended orders under discussion",
+    "maturity_as_reported_in": "naura_nuohe_acquisition_20261015",
+    "notes": "The same notice says the core product is still in 技术迭代、产品验证和市场导入阶段 (p3). W2W or D2W is not stated, so the broad bonding node is used; candidates were bonding_hybrid_w2w and bonding_hybrid_d2w. Do not read 重复订单 as volume: revenue was CNY 19.18m in FY2025 and a dash in H1 2026.",
+    "maturity_history": []
+  }
+]

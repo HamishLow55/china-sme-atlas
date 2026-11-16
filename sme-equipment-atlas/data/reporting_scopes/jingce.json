@@ -1,0 +1,224 @@
+[
+  {
+    "reporting_scope_id": "jingce_semiconductor_segment",
+    "category_id": "multi_equipment",
+    "label": "Jingce semiconductor segment",
+    "definition": "Issuer-reported broad 半导体 segment. It includes front-end metrology and inspection, back-end ATE/test, and other semiconductor activities; it must not be treated as metrology-only revenue."
+  },
+  {
+    "reporting_scope_id": "jingce_film_metrology_family",
+    "category_id": "metrology",
+    "label": "Efilm / IM / Scale / MetaPAM film metrology series",
+    "definition": "Source-native cumulative shipment perimeter of this named product family. Not the entire semiconductor segment, annual shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "jingce_eprofile_ocd_family",
+    "category_id": "metrology_ocd",
+    "label": "Eprofile OCD metrology series",
+    "definition": "Source-native cumulative shipment perimeter of this named product family. Not the entire semiconductor segment, annual shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "jingce_eview_ebeam_inspection_family",
+    "category_id": "inspection_review_sem",
+    "label": "eView electron-beam defect inspection series",
+    "definition": "Source-native cumulative shipment perimeter of this named product family. Not the entire semiconductor segment, annual shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "jingce_emetric_cdsem_family",
+    "category_id": "metrology_cd_sem",
+    "label": "eMetric electron-beam critical-dimension metrology series",
+    "definition": "Source-native cumulative shipment perimeter of this named product family. Not the entire semiconductor segment, annual shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "jingce_bfi_brightfield_family",
+    "category_id": "inspection_brightfield",
+    "label": "BFI brightfield patterned-wafer inspection series",
+    "definition": "Source-native cumulative shipment perimeter of this named product family. Not the entire semiconductor segment, annual shipments or installed base."
+  },
+  {
+    "reporting_scope_id": "jingce_display_reported_segment",
+    "category_id": "multi_equipment",
+    "label": "Jingce 显示 source-reported business row",
+    "definition": "Source-defined 分产品/显示 business-revenue and disclosure-date order-backlog perimeter across display inspection, testing, adjustment, optical instruments and related offerings. Not a single display inspection model or only semiconductor equipment."
+  },
+  {
+    "reporting_scope_id": "jingce_new_energy_reported_segment",
+    "category_id": "multi_equipment",
+    "label": "Jingce 新能源 source-reported business row",
+    "definition": "Source-defined 分产品/新能源 business-revenue and disclosure-date order-backlog perimeter, principally battery production/test equipment and related offerings. Not semiconductor equipment, a single tool family or a factory nameplate."
+  },
+  {
+    "reporting_scope_id": "jingce_other_business_revenue_row",
+    "category_id": "all_businesses",
+    "label": "Jingce 其他业务收入 row",
+    "definition": "Source-defined 分产品/其他业务收入 row. It is issuer other-business revenue, not an equipment-family or semiconductor segment value."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2023_056_warehouse_logistics_system",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2023-056 warehouse_logistics_system",
+    "definition": "Single proposed warehouse-logistics-system equipment purchase contract announced 2023-04-14. Product sector beyond its source label is not inferred."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2023_057_semiconductor_frontend_tools",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2023-057 semiconductor_frontend_tools",
+    "definition": "Two semiconductor front-end metrology/inspection equipment sales contracts announced 2023-04-14; source total for both."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2023_105_semiconductor_frontend_inspection",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2023-105 semiconductor_frontend_inspection",
+    "definition": "Semiconductor front-end inspection equipment sales contract announced 2023-08-12."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2023_127_same_counterparty_12_month_cumulative",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2023-127 same_counterparty_12_month_cumulative",
+    "definition": "Rolling twelve-month cumulative contracts with one counterparty, announced 2023-10-09; overlaps possible with separately disclosed contracts and is not FY2023 intake."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2023_135_semiconductor_frontend_tax_excluded",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2023-135 semiconductor_frontend_tax_excluded",
+    "definition": "One semiconductor front-end metrology sales contract denominated USD, announced 2023-10-23; annual report also prints an approximate CNY equivalent of the same tax-excluded agreement."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2024_003_new_energy_overseas",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2024-003 new_energy_overseas",
+    "definition": "Overseas-customer new-energy equipment sales contract announced 2024-01-13; not necessarily all battery equipment of a single model."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2024_046_hubei_xingchen_related_party",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2024-046 hubei_xingchen_related_party",
+    "definition": "Multiple contracts with related party Hubei Xingchen announced 2024-04-08; source does not allocate the value to specific equipment families."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2024_173_brightfield_stress_testers",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2024-173 brightfield_stress_testers",
+    "definition": "Brightfield defect inspection and stress tester contract announced 2024-12-21; amount continues onto physical p27."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2025_093_semiconductor_metrology",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2025-093 semiconductor_metrology",
+    "definition": "Multiple semiconductor metrology/inspection contracts with one counterparty, announced 2025-06-26."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2025_150_advanced_memory_hbm_rolling",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2025-150 advanced_memory_hbm_rolling",
+    "definition": "Rolling twelve-month cumulative contracts with one counterparty and affiliates, announced 2025-12-10, for semiconductor metrology equipment serving advanced memory/HBM. Overlap with other disclosed deals unresolved."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2025_162_new_advanced_process_new",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2025-162-new advanced_process_new",
+    "definition": "New semiconductor front-end metrology/inspection sales contract announced 2025-12-31, source says all for advanced processes; separate from inclusive rolling total."
+  },
+  {
+    "reporting_scope_id": "jingce_contract_2025_162_rolling_advanced_process_rolling_inclusive",
+    "category_id": "multi_equipment",
+    "label": "Jingce contract 2025-162-rolling advanced_process_rolling_inclusive",
+    "definition": "Rolling twelve-month cumulative contracts with same counterparty and affiliates announced 2025-12-31, explicitly including the new 571,282,800 CNY contract; not additive to it."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_east_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 华东",
+    "definition": "Source-defined 华东 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_south_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 华南",
+    "definition": "Source-defined 华南 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_central_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 华中",
+    "definition": "Source-defined 华中 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_north_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 华北",
+    "definition": "Source-defined 华北 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_southwest_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 西南",
+    "definition": "Source-defined 西南 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_northwest_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 西北",
+    "definition": "Source-defined 西北 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_northeast_china",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 东北",
+    "definition": "Source-defined 东北 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_hong_kong_macau_taiwan",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 港澳台",
+    "definition": "Source-defined 港澳台 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_reported_revenue_region_foreign_region",
+    "category_id": "all_businesses",
+    "label": "Jingce revenue region 国外地区",
+    "definition": "Source-defined 国外地区 row within Jingce annual revenue composition and selected lower revenue/cost/margin table; company business mix across this reported geography. The geography is source-labeled, not independently geocoded."
+  },
+  {
+    "reporting_scope_id": "jingce_revenue_composition_main_business",
+    "category_id": "all_businesses",
+    "label": "Jingce 主营业务收入 composition row",
+    "definition": "Main-business revenue line in 分行业 of the annual 营业收入构成 table, distinct from consolidated total and other-business revenue."
+  },
+  {
+    "reporting_scope_id": "jingce_revenue_composition_other_business_industry",
+    "category_id": "all_businesses",
+    "label": "Jingce 其他业务收入 industry composition row",
+    "definition": "Other-business revenue line in 分行业 of the annual 营业收入构成 table; the same numeric line also appears under 分产品 but the table presentations are recorded separately."
+  },
+  {
+    "reporting_scope_id": "jingce_revenue_composition_direct_sales",
+    "category_id": "all_businesses",
+    "label": "Jingce 直销 revenue composition row",
+    "definition": "Direct-sales channel row of the annual 营业收入构成 table. Source reports 100% direct sales in the shown years; the line is a channel presentation of company revenue and must not be added to company total."
+  },
+  {
+    "reporting_scope_id": "jingce_2026_069_shanghai_jingce_advanced_memory_multi_contract_cumulative",
+    "category_id": "multi_equipment",
+    "label": "Shanghai Jingce same-counterparty semiconductor metrology contracts 2026-069",
+    "definition": "Issuer H1 p65 notice 2026-069: controlled subsidiary Shanghai Jingce signed multiple sales contracts with one counterparty from 2025-12-12 to 2026-05-29, cumulative 515,905,342 CNY, primarily film-thickness, OCD and electron-beam metrology for advanced memory and related fields. This is an inclusive multi-contract basket, not per-tool revenue, new-order intake or backlog. Counterparty and overlap with FY2025 disclosed contract baskets unresolved."
+  },
+  {
+    "reporting_scope_id": "jingce_2026_082_shanghai_jingce_brightfield_contract",
+    "category_id": "inspection_brightfield",
+    "label": "Shanghai Jingce brightfield equipment contract 2026-082",
+    "definition": "Issuer H1 pp65-66 notice 2026-082: controlled subsidiary Shanghai Jingce signed a customer sales contract for brightfield defect-inspection equipment, total 135,000,000 CNY, disclosed 2026-06-26. Contract date reported only as 近日; no tool units, delivered/accepted value or customer identity. Not summed with other contract baskets without identity bridge."
+  },
+  {
+    "reporting_scope_id": "jingce_2026_094_shanghai_jingce_front_end_metrology_contract",
+    "category_id": "multi_equipment",
+    "label": "Shanghai Jingce front-end metrology contract 2026-094",
+    "definition": "Investor-relations record of 2026-07-23 citing notice 2026-094 of 2026-07-17: controlled subsidiary Shanghai Jingce signed a sales contract for film-thickness and OCD front-end metrology, total above 2.23亿元. No tool units, delivery or customer identity."
+  },
+  {
+    "reporting_scope_id": "jingce_2026_094_shanghai_jingce_customer_12m_cumulative",
+    "category_id": "multi_equipment",
+    "label": "Shanghai Jingce twelve-month cumulative contracts with the 2026-094 customer",
+    "definition": "Same record: contracts with that customer and its related companies across twelve consecutive months, about 3.30亿元 including 2026-094. An inclusive basket containing the single contract; never summed with it. Overlap with other disclosed baskets unresolved."
+  }
+]

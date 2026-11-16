@@ -1,0 +1,17 @@
+[
+  {
+    "application_id": "tsv",
+    "name": "Through-silicon vias",
+    "definition": "Process application, not an equipment category or revenue allocation."
+  },
+  {
+    "application_id": "advanced_packaging",
+    "name": "Advanced packaging including HBM and 3D stacking",
+    "definition": "Broad application; specific production/capability claims retain their source wording."
+  },
+  {
+    "application_id": "hbm",
+    "name": "High-bandwidth memory",
+    "definition": "Application family; does not establish customer identity or specific HBM generation."
+  }
+]

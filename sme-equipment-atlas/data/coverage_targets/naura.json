@@ -1,0 +1,2020 @@
+[
+  {
+    "target_id": "legacy_etch-23",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "N2022-CR",
+      "N2023-CR",
+      "N2024-CR",
+      "N2025-CR",
+      "N2023-CR-R",
+      "N2024-CR-R"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-24",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "reporting_scope_id": "deposition_pvd",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_h1_2025"
+    ],
+    "observation_ids": [
+      "N2025H1-PVD-SHIP"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-25",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_h1_2025"
+    ],
+    "observation_ids": [
+      "N2023-EC",
+      "N2025H1-ETCH-SHIP"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-26",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "reporting_scope_id": "etch_ccp",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "observation_ids": [
+      "N2023-CC"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-27",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "reporting_scope_id": "etch_icp",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "observation_ids": [
+      "N2023-IC"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-28",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "naura_electronic_process_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "N2022-SR",
+      "N2023-SR",
+      "N2024-SR",
+      "N2025-SR"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-29",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "naura_ic_process_equipment",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2024"
+    ],
+    "observation_ids": [
+      "N2024-PC"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "legacy_etch-30",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "reporting_scope_id": "thermal_vertical_furnace",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_h1_2025"
+    ],
+    "observation_ids": [
+      "N2025H1-FURNACE-SHIP"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "naura2025-bound-0",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "etch",
+    "reporting_scope_id": "etch",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "N2025-ER"
+    ],
+    "next_action": "Retain bound; seek exact disclosure separately."
+  },
+  {
+    "target_id": "naura2025-bound-1",
+    "task_id": "legacy_etch",
+    "entity_id": "naura",
+    "category_id": "deposition",
+    "reporting_scope_id": "deposition",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "N2025-DR"
+    ],
+    "next_action": "Retain bound; seek exact disclosure separately."
+  },
+  {
+    "target_id": "naura_disclosures1-01",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "东北及华北",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-001",
+      "NAURA2024-DISC-002"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-02",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue_share",
+    "dimensions": {
+      "geography": "东北及华北",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-003",
+      "NAURA2024-DISC-004"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-03",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "中部及东南部",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-005",
+      "NAURA2024-DISC-006"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-04",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue_share",
+    "dimensions": {
+      "geography": "中部及东南部",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-007",
+      "NAURA2024-DISC-008"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-05",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "西北及西南",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-009",
+      "NAURA2024-DISC-010"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-06",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue_share",
+    "dimensions": {
+      "geography": "西北及西南",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-011",
+      "NAURA2024-DISC-012"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-07",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "其他地区",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-013",
+      "NAURA2024-DISC-014"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-08",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "revenue_share",
+    "dimensions": {
+      "geography": "其他地区",
+      "geography_basis": "issuer_reported_region_definition_not_disclosed",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-015",
+      "NAURA2024-DISC-016"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-09",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_1"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-017"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-10",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_1"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-018"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-11",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_2"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-019"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-12",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_2"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-020"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-13",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_3"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-021"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-14",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_3"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-022"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-15",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_4"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-023"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-16",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_4"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-024"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-17",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_5"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-025"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-18",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_5"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-026"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-19",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_1"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-027"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-20",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_1"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-028"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-21",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_2"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-029"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-22",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_2"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-030"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-23",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_3"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-031"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-24",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_3"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-032"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-25",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_4"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-033"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-26",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_4"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-034"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-27",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_5"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-035"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-28",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "rank_5"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-036"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-29",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-037"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-30",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-038"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-31",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-039"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-32",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-040"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-33",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "customer_sales_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_sales",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five_related_parties"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-041"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-34",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "supplier_procurement_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_procurement",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "counterparty_bucket": "top_five_related_parties"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-042"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-35",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "全部"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-043",
+      "NAURA2024-DISC-044"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-36",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "workforce_share",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "全部"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-045",
+      "NAURA2024-DISC-046"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-37",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "employing_entity",
+      "workforce_cohort": "母公司"
+    },
+    "period_start": "2025-12-31",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-047"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-38",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "employing_entity",
+      "workforce_cohort": "主要子公司"
+    },
+    "period_start": "2025-12-31",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-048"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-39",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "全部"
+    },
+    "period_start": "2025-12-31",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-049"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-40",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "employees_receiving_compensation",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "全部"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-050"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-41",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "retirees_cost_borne",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "全部"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-051"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-42",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "function",
+      "workforce_cohort": "生产人员"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-052"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-43",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "function",
+      "workforce_cohort": "销售及客服人员"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-053"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-44",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "function",
+      "workforce_cohort": "技术人员"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-054"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-45",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "function",
+      "workforce_cohort": "财务人员"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-055"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-46",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "function",
+      "workforce_cohort": "行政人员"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-056"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-47",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "硕士研究生及以上"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-058"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-48",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "本科"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-059"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-49",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "大专及以下"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-060"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-50",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "inventory_carrying_amount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-12-31",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-062",
+      "NAURA2024-DISC-063"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-51",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "contract_liabilities",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-12-31",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-064",
+      "NAURA2024-DISC-065"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-52",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "cash_capital_expenditure",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "source_reported_cash_flow",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "as_reported",
+      "reporting_vintage": "naura_fy2025_annual_report"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-066",
+      "NAURA2024-DISC-067"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-53",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "本科"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-068",
+      "NAURA2024-DISC-069"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-54",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "硕士"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-070",
+      "NAURA2024-DISC-071"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-55",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "education",
+      "workforce_cohort": "博士"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-072",
+      "NAURA2024-DISC-073"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-56",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "age",
+      "workforce_cohort": "30岁以下"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-074",
+      "NAURA2024-DISC-075"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-57",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "age",
+      "workforce_cohort": "30-40岁"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-076",
+      "NAURA2024-DISC-077"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  },
+  {
+    "target_id": "naura_disclosures1-58",
+    "task_id": "naura_disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "naura_annual_company_disclosures",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_wide",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_fy2025_annual_report",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "age",
+      "workforce_cohort": "41-45岁"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "observation_ids": [
+      "NAURA2025-DISC-078",
+      "NAURA2024-DISC-079"
+    ],
+    "next_action": "Extend this exact table population into other held years; do not equate anonymous ranks, residual geography or workforce time bases."
+  }
+]

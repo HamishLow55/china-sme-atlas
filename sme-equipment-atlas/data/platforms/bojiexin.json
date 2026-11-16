@@ -1,0 +1,42 @@
+[
+  {
+    "platform_id": "bojiexin_precision_dicing_saws",
+    "entity_id": "bojiexin",
+    "category_id": "dicing_blade",
+    "record_kind": "source_native_family",
+    "name": "博捷芯精密划片机 (BJX-series blade/wheel wafer dicing saws: BJX3252, BJX3352/BJX3356, BJX6366, BJX3666A/P, BJX8160)",
+    "aliases": [
+      "博捷芯划片机",
+      "BJCORE dicing saws"
+    ],
+    "evidence": {
+      "claim_id": "BOJIEXIN-ABOUT-BJXMODELS-IDENTITY",
+      "source_id": "bojiexin_about_page",
+      "page": 1,
+      "excerpt": "公司现已完成 BJX3252 单轴 6 寸精密划片机、BJX3352/BJX3356 单轴精密划片机、BJX6366 全自动精密划片机、BJX3666 双轴半自动划片机研发与量产，设备可适配 6-12 英寸各类材料切割",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "已完成...研发与量产 (R&D and mass production completed; company's own website, undated/current)",
+    "maturity_as_reported_in": "bojiexin_about_page",
+    "notes": "Mechanism is explicitly blade/abrasive-wheel dicing, never laser -- Bojiexin's own news article states '完全摒弃激光切割路线，专注于刀轮切割技术的深度研发' (completely rejects the laser-cutting route) -- resolving the hbm_tool_stack.csv's blade/laser/plasma uncertainty to BLADE only; hence category_id=dicing_blade. No unit count, shipment count or named customer is disclosed for any individual model; Bojay's (002975) FY2025 annual report separately gives only an entity-level, non-model-specific maturity snapshot for the same family (see maturity_history) and an entity-total revenue figure (registered at category_id=all_businesses on the bojiexin entity, not attributed to this platform, since the filing does not split dicing-equipment revenue from Bojiexin's accessories/consumables (配件耗材) business). CORROBORATION ADDED AT INTEGRATION from the parent's own audited filing, which is a stronger source than the company website this record was built on: Bojay's FY2025 annual report (physical p21) states 子公司博捷芯已拥有较成熟的半导体切割技术，成功研发多款4-6寸、8-12寸及12寸等多款划片机设备，已通过下游客户测试认证，并进入市场突破阶段 — giving wafer-size coverage (4-6 inch, 8-12 inch and 12 inch) and a maturity (downstream customer test certification passed, entering market breakthrough) that the website does not state. The reported_maturity field is left as extracted; a reviewer should decide whether to promote it to the parent-filing wording. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against bojiexin_official_site_about.html: '公司现已完成 BJX3252 单轴 6 寸精密划片机、BJX3352/BJX3356 单轴精密划片机、BJX6366 全自动精密划片机、BJX3666 双轴半自动划片机研发与量产，设备可适配 6-12 英寸各类材料切割'. Blade-only mechanism confirmed against bojiexin_news_blade_dicing_article (dated 2026-01-30): '完全摒弃激光切割路线，专注于刀轮切割技术的深度研发' -- category_id=dicing_blade correct. maturity_history corroboration verified verbatim against bojay_fy2025_annual_report physical p21: '子公司博捷芯已拥有较成熟的半导体切割技术...已通过下游客户测试认证，并进入市场突破阶段'. Alias '博捷芯划片机' confirmed verbatim (the company's own site title). Alias 'BJCORE dicing saws' is not a literal quoted string but is adequately grounded: 'BJCORE' is the company's own attested English brand ('alternateName':'博捷芯 BJCORE' in the site's own schema.org markup, and in its page title '博捷芯BJCORE-划片机...'), and 划片机 (dicing saw) is the company's own product-category term used throughout -- a defensible combination, not an invention. SEPARATE NOTE FOR THE REPORT (not a defect in this record): the same news article also states 博捷芯 已进入中芯国际、长鑫存储、京东方等头部客户供应链，2025 年相关业务实现盈亏平衡并快速增长 (named customers SMIC, CXMT, BOE; breakeven and fast growth in 2025) -- a materially stronger claim than anything currently registered for this platform, and not captured by any held observation or application link. Worth a follow-up registration; flagged in my report.",
+    "maturity_history": [
+      {
+        "claim_id": "BOJAY-FY2025-P21-BOJIEXIN-DICING-STAGE",
+        "source_id": "bojay_fy2025_annual_report",
+        "page": 21,
+        "excerpt": "在半导体切割设备领域，子公司博捷芯已拥有较成熟的半导体切割技术，成功研发多款 4-6 寸、 8-12 寸及 12 寸等多款划片机设备，已通过下游客户测试认证，并进入市场突破阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "已通过下游客户测试认证，并进入市场突破阶段 (passed downstream customer testing/certification, entered market-breakthrough phase)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 annual-report context (parent Bojay, p21), describing the dicing-saw family at an aggregate 4-6寸/8-12寸/12寸 level, not by individual model number. No order/unit/customer count given."
+      }
+    ]
+  }
+]

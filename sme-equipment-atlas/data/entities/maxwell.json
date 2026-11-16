@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "maxwell",
+    "name": "Maxwell (迈为股份)",
+    "aliases": [
+      "苏州迈为科技股份有限公司",
+      "迈为股份",
+      "迈为科技",
+      "Suzhou Maxwell Technologies Co., Ltd.",
+      "300751"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 8,
+      "excerpt": "股票简称 迈为股份 股票代码 300751\n公司的中文名称 苏州迈为科技股份有限公司\n公司的中文简称 迈为股份\n公司的外文名称（如有） Suzhou Maxwell Technologies Co., Ltd.\n公司的外文名称缩写（如有） Maxwell",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Listed issuer verified from the FY2025 annual report's own 公司简介和主要财务指标/一、公司信息 table (physical p8): stock short name 迈为股份, code 300751, Chinese legal name 苏州迈为科技股份有限公司, English name 'Suzhou Maxwell Technologies Co., Ltd.' (English abbreviation 'Maxwell'). Listed on the Shenzhen Stock Exchange ChiNext board (深圳证券交易所创业板): the disclosure-venue line on the same page names 深圳证券交易所 (p8), the report's risk factors and governance sections repeatedly cite 《深圳证券交易所创业板股票上市规则》, and the sponsor's post-listing supervision period is dated from 2018-11-09 (p9), consistent with a 2018 ChiNext IPO. Verified myself from the filing's own cover/company-information pages before any other work on this packet, per the W6 dispatch's instruction not to rely on the dispatch's own rendering of the name.\n\nCORE BUSINESS WARNING: Maxwell is overwhelmingly a solar-cell (photovoltaic) equipment maker, not a semiconductor-equipment vendor. Its main product is HJT (heterojunction) solar-cell production lines and screen-printing machines. FY2025 revenue partition (p28, 营业收入构成/分行业, which partitions total operating revenue with zero residual): 太阳能光伏行业 (solar PV) 91.38% of revenue; 半导体及显示行业 (semiconductor AND display, COMBINED, not split) 8.12%; 其他行业 (other) 0.49%. The issuer's own narrative (p12, p20) calls semiconductor and display equipment its 'second growth curve' (第二成长曲线) built on the same vacuum/laser/precision-equipment technology platforms as its solar business, explicitly subordinate to the solar 主导产品 (p48: '目前的主导产品是太阳能电池生产设备'). No figure in any of the three filings acquired for this packet splits semiconductor revenue out of the combined semiconductor-and-display line; every revenue observation registered from this entity's filings must therefore sit at multi_equipment (the combined basket) or all_businesses (company-wide total), never at a semiconductor-resolved category. See W6MX-SEMIDISP-REV-2025 and W6MX-COMPANY-REV-2025 for the registered figures and residual check.\n\nSubsidiaries/affiliates named in the FY2025 report's own 释义 (definitions) page (p2) but NOT registered as separate Atlas entities here: 新加坡迈为 (MAXWELL TECHNOLOGY PTE. LTD., Singapore sales subsidiary) and 江苏启威星 (江苏启威星装备科技有限公司). 迈拓 (苏州迈拓创业投资合伙企业) is an investment vehicle, not an operating entity. None of these English/Chinese subsidiary names should be added to this entity's aliases -- they are distinct legal persons, per the same parent/subsidiary discipline the CXMT entity record documents elsewhere in this wave.\n\nFY2025 TCB STAGE CONFLICT (flagged per the W6 dispatch): the FY2025 report's own business-review narrative (p48) states the company 'has successfully developed wafer hybrid bonding, wafer temporary bonding, D2W TCB bonding equipment ... now delivered to multiple customers' (已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB键合等设备...现已交付多家客户), while the same report's own R&D-project table (p36) lists a TCB development project (热压倒转键合设备开发) at 样机阶段 (prototype stage), with a stated target of developing only 1-2 standardized prototypes and completing customer trials -- a materially earlier stage than 'delivered to multiple customers'. Both statements are preserved verbatim, unreconciled, as separate maturity_history entries on platform maxwell_d2w_tcb_bonder (claim_ids w6mx_tcb_fy25_p48_narrative and w6mx_tcb_fy25_p36_rd_table). The identical shape of conflict (narrative says delivered; R&D table says prototype stage) recurs in the FY2024 report too (p47 vs p35), which I verified independently while acquiring this filing set and have also preserved as two further unreconciled maturity_history entries on the same platform.",
+    "entity_class": "china_supply_base"
+  }
+]

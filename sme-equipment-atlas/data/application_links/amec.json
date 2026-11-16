@@ -1,0 +1,18 @@
+[
+  {
+    "entity_id": "amec",
+    "category_id": "etch_icp",
+    "platform_id": "amec_primo_tsv300e",
+    "application_id": "tsv",
+    "source_id": "amec_2025",
+    "page": 47,
+    "excerpt": "报告期内，公司用于 2.5D、3D 先进封装硅通孔的 Primo TSV 300E 产品持续服务客户，并获得重复订单。",
+    "claim_kind": "company_reported",
+    "status": "source_checked",
+    "link_kind": "production_claim",
+    "link_id": "tsv-tools-1",
+    "scope_note": "Named TSV etch platform with repeat orders; no quantitative TSV-only sales disclosed. Source excerpt joins table labels and description cells.",
+    "reviewer": "foundation_review_independent_verifier",
+    "review_date": "2026-09-21"
+  }
+]

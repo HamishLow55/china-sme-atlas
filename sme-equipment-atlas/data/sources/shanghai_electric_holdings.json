@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "se_holdings_fy2021_bond_report",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "title": "上海电气控股集团有限公司公司债券2021年年度财务报告及附注",
+    "publication_date": "2022-04-29",
+    "publication_date_precision": "day",
+    "url": "https://static.sse.com.cn/disclosure/bond/announcement/company/c/new/2022-04-29/155548_20220429_2_tCtMvqmZ.pdf",
+    "sha256": "78d47f4a12c1ef45e3b691551918dd1bd9f6d8a152267d65dfffc6f033fe190b",
+    "source_type": "company_annual_report",
+    "original_document_id": "se_holdings_fy2021_bond_report",
+    "page_count": 195,
+    "locator_kind": "pdf",
+    "notes": "Text-layer PDF (not scanned); confirmed by direct pdftotext extraction, not OCR. SMEE's 'important associate' financial-information table straddles a page break: the table's 本期数 (2021) revenue/net-profit row prints on physical p.188 (printed footer '186'), and its 上期数 (2020) revenue/net-profit row, continuing the same table, prints on physical p.189 (printed footer '187'); the balance-sheet lines (assets/liabilities/net assets) for both years sit on physical p.188. Printed-to-physical offset in this section is a constant +2 (physical page = printed page + 2). Downloaded and hashed 2026-10-01."
+  },
+  {
+    "source_id": "se_holdings_fy2022_audit_report",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "title": "上海电气控股集团有限公司审计报告 天职业字〔2023〕20688号（2022年度）",
+    "publication_date": "2024-11-14",
+    "publication_date_precision": "day",
+    "url": "https://www.shclearing.com.cn/wcm/shch/pages/client/download/download.jsp?FileName=P020241114706591968461.pdf&DownName=1.pdf",
+    "sha256": "8aba4b23f1499f95bfbb80c87dced24c5ccc44405b08f29d8ca31393ad668a1b",
+    "source_type": "company_annual_report",
+    "original_document_id": "se_holdings_fy2022_audit_report",
+    "page_count": 189,
+    "locator_kind": "pdf",
+    "notes": "Fully scanned/image-only PDF (pdftotext extracts no text layer at all); figures read by rendering physical p.182 (printed footer '181', offset +1) to a 220dpi PNG and reading the table directly from the rendered image (not OCR alone), per the extraction-failure-modes rule to open sign-bearing/noisy tables as images. Confirms SMEE's 本期数 (2022) 营业收入 1,110,539,705.21 and 净利润 -4,619,663.48, and repeats the 上期数 (2021) figures (801,338,298.99 / -33,815,759.59) as a cross-check against se_holdings_fy2021_bond_report -- both filings agree exactly. Downloaded and hashed 2026-10-01."
+  },
+  {
+    "source_id": "se_holdings_fy2023_annual_report",
+    "dataset_id": "shanghai_electric_holdings_disclosures",
+    "title": "上海电气控股集团有限公司2023年年度报告",
+    "publication_date": "2024-04-30",
+    "publication_date_precision": "day",
+    "url": "https://www.shclearing.com.cn/wcm/shch/pages/client/download/download.jsp?FileName=P020250625565972106745.pdf&DownName=1.pdf",
+    "sha256": "ca37a047e58912fd488891756984a17e663b03220462d7e45074e6937df88e62",
+    "source_type": "company_annual_report",
+    "original_document_id": "se_holdings_fy2023_annual_report",
+    "page_count": 217,
+    "locator_kind": "pdf",
+    "notes": "Scanned/image-only PDF in the relevant notes section; figures read from 200dpi rendered PNGs of physical pp.202 and 204 (printed footers '183' and '185'; offset +19 in this section), cross-checked against tesseract chi_sim OCR and visually confirmed directly from the rendered page image for both sign-bearing rows (SMEE and Aishengna equity-method results are both negative). Physical p.206 (printed '187') was also rendered and read to confirm SMEE's closing equity-method balance is blank/zero and Aishengna's is CNY 4,645,190,501.10, though those closing-balance figures are not themselves registered as observations in this packet (kept out as balance-sheet depth beyond the registered flow figures). This is SE Holdings' own FY2023 annual report (distinct from and later than the FY2022 audit report above). Downloaded and hashed 2026-10-01."
+  }
+]

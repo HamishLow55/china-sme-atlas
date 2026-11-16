@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "amies_company_intro",
+    "dataset_id": "amies_disclosures",
+    "title": "AMIES website, 公司简介 (company introduction)",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.amies.com.cn/eis.pub?service=homepageService&method=indexinfo&onclicknodeno=1_2",
+    "sha256": "82590aefd3075004ade5e185cb3eb65e73565c615a32b597bda44fbe6390423d",
+    "source_type": "company_product_page",
+    "original_document_id": "amies_company_intro",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-01. States AMIES's founding date (Feb 2025), English legal name and technical-team headcount directly; registered capital and shareholder structure are NOT stated here (those figures, from a separate press article, are not registered in this packet -- see coverage)."
+  },
+  {
+    "source_id": "amies_product_wlp",
+    "dataset_id": "amies_disclosures",
+    "title": "AMIES website, 晶圆级先进封装光刻机 (wafer-level advanced-packaging stepper) product page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.amies.com.cn/eis.pub?service=homepageService&method=indexinfo&onclicknodeno=1_4_2_1",
+    "sha256": "033a8378e725098f936f797810073b491093f07af3ebc61dac234e91eeb68db5",
+    "source_type": "company_product_page",
+    "original_document_id": "amies_product_wlp",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-01. Evergreen product page; no publication date stated; no numeric resolution/overlay/field/throughput specification published."
+  },
+  {
+    "source_id": "amies_product_panel",
+    "dataset_id": "amies_disclosures",
+    "title": "AMIES website, 方板先进封装光刻机 (panel-level advanced-packaging stepper) product page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.amies.com.cn/eis.pub?service=homepageService&method=indexinfo&onclicknodeno=1_4_2_2",
+    "sha256": "edab91d3b076347b0cb354ff5eba5bbb64f14791cd88a2f6492fcbf282c561bd",
+    "source_type": "company_product_page",
+    "original_document_id": "amies_product_panel",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-01. Evergreen product page; no publication date stated; no numeric specification published."
+  },
+  {
+    "source_id": "amies_stcn_500th",
+    "dataset_id": "amies_disclosures",
+    "title": "证券时报 (STCN) / 人民财讯, 芯上微装第500台步进光刻机成功交付",
+    "publication_date": "2025-08-08",
+    "publication_date_precision": "day",
+    "url": "https://stcn.com/article/detail/3018665.html",
+    "sha256": "6495fa6df8afb575545e9585e8026337f935de41b4b26e4f8de07acc8dd8bcad",
+    "source_type": "third_party_press_report",
+    "original_document_id": "amies_stcn_500th",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-01. Third-party financial-wire relay (人民财讯, via STCN), not AMIES's own publication; reports a company ceremony/milestone. Article byline dates it precisely to 2025-08-08 18:27. Dataset publisher is set to 'amies' for partition-ownership purposes only (the subject firm). Source type corrected from company_news to third_party_press_report at integration: the publisher is 证券时报 (Securities Times) / 人民财讯, a financial newspaper, not the company. The claim it reports may still originate with the company, which is why an observation drawn from it can be claim_kind company_reported, but the document itself is third-party and a reader following the citation lands on a publication the company does not control."
+  }
+]

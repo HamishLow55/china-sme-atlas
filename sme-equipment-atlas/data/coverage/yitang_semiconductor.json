@@ -1,0 +1,160 @@
+[
+  {
+    "coverage_id": "yitang-financial-first-intake",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2022-2025",
+    "status": "reviewed_found",
+    "scope": "Company financial baseline; IPO dry-strip/RTP/dry-etch revenue/cost/printed margins, dry-strip sales counts; FY2025 direct equipment narrative revenues and total equipment quantities",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025"
+    ],
+    "notes": "55 reviewed records; accounting reclassification, combined etch/plasma scope, reported precision and shipped-goods inventory retained.",
+    "next_action": "Newly acquired H1 2026 original after named local gap; spare parts/services/geographic and other financial depth remain."
+  },
+  {
+    "coverage_id": "yitang-interim-and-product-depth",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2022-2026H1",
+    "status": "reviewed_found",
+    "scope": "H126/H125 company financials and R&D; H126 Mattson consolidated subgroup financials; IPO parts/services/licensing annual revenues",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "25 reviewed records. R&D capitalization and subgroup overlap explicit; H125 capitalized R&D dash/blank not imported as numeric zero.",
+    "next_action": "IPO ancillary-business costs/margins/geography and further annual depth remain. Broaden first financial intake to Zhichun with local originals."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-cumulative_shipments_installations",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: cumulative shipments installations",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_not_found, yitang_h1_2026:reviewed_not_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-customers_count_names",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: customers count names",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-explicit_process_nodes",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_not_found",
+    "scope": "Yitang registered-original operational sweep: explicit process nodes",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_not_found, yitang_annual_2025:reviewed_not_found, yitang_h1_2026:reviewed_not_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-families_definitions",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: families definitions",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-orders_backlog",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: orders backlog",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-production_capacity",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: production capacity",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-qualification_validation",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: qualification validation",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  },
+  {
+    "coverage_id": "yitang-operational-sweep-20260923-sibling_product_volumes",
+    "entity_id": "yitang_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "IPO reporting history through H1 2026",
+    "status": "reviewed_found",
+    "scope": "Yitang registered-original operational sweep: sibling product volumes",
+    "reviewed_source_ids": [
+      "yitang_ipo_2025",
+      "yitang_annual_2025",
+      "yitang_h1_2026"
+    ],
+    "notes": "Source-bound statuses: yitang_ipo_2025:reviewed_found, yitang_annual_2025:reviewed_found, yitang_h1_2026:reviewed_not_found. Original locators, accepted evidence, explicit absences and remaining mappings are in docs/reviews/archive/2026-09-23_yitang_operational_coverage.json. Company claims remain claims; absent counts are not zero.",
+    "next_action": "Registered-source operational gate dispositioned. Resolve explicit numeric/R&D/configuration mappings without repeating canonical rows; reopen coverage for each new original."
+  }
+]

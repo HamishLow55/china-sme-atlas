@@ -1,0 +1,508 @@
+[
+  {
+    "platform_id": "skyverse_patterned_wafer_inspection",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "name": "Patterned-wafer defect inspection equipment series",
+    "aliases": [
+      "图形晶圆缺陷检测设备系列",
+      "3D AOI"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 19,
+      "excerpt": "应用在 HBM 等新兴先进封装领域的 3D AOI 设备通过国内头部客户验证",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "customer_validation",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Series-level identity; 3D AOI is the HBM application wording, not a disclosed model name.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 19,
+        "excerpt": "应用在 HBM 等新兴先进封装领域的 3D AOI 设备通过国内头部客户验证……目前已通过多家海外先进封装客户的产线验证并实现批量销售",
+        "notes": "Domestic HBM validation and overseas advanced-packaging volume sales are separately scoped claims; no quantities or HBM revenue. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "hbm_3d_aoi_customer_validation_and_overseas_packaging_volume_sales",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      },
+      {
+        "source_id": "skyverse_q3_2026",
+        "page": 2,
+        "excerpt": "明场纳米图形晶圆缺陷检测设备、暗场纳米图形晶圆缺陷检测设备、高深宽比刻蚀结构量测设备等各系列新产品，第四代无图形晶圆缺陷检测设备、第三代套刻精度量测设备等现有系列升级迭代产品，以及先进制程收入贡献增长，推动公司订单规模及营收规模持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "brightfield_and_darkfield_nano_patterned_new_products_revenue_contribution_growing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Brightfield and darkfield nano-patterned tools named among new products lifting revenue; held on the patterned series because no separate record exists. Not the 3D AOI line."
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_3d_topography_metrology",
+    "entity_id": "skyverse",
+    "category_id": "metrology_topography",
+    "name": "3D topography metrology equipment series",
+    "aliases": [
+      "三维形貌量测设备系列"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 20,
+      "excerpt": "应用在 HBM 等新兴先进封装领域的三维形貌量测设备通过多家国内头部客户验证",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "customer_validation",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Series identity; no model, customer or unit count disclosed.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 20,
+        "excerpt": "应用在 HBM 等新兴先进封装领域的三维形貌量测设备通过多家国内头部客户验证……目前已通过多家海外先进封装客户的产线验证并实现批量销售",
+        "notes": "Supplier claims; no customer, tool or revenue quantity. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "hbm_customer_validation_and_overseas_packaging_volume_sales",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_wafer_flatness_metrology_gen1",
+    "entity_id": "skyverse",
+    "category_id": "metrology_geometry",
+    "name": "Wafer flatness metrology equipment, first generation",
+    "aliases": [
+      "晶圆平整度量测设备"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 21,
+      "excerpt": "晶圆平整度量测设备已完成样机研发，并出货至国内头部 HBM 客户产线上进行工艺开发与验证工作",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "shipped_for_customer_validation",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Generation inferred only by explicit contrast with the separately named second-generation product.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 21,
+        "excerpt": "晶圆平整度量测设备已完成样机研发，并出货至国内头部 HBM 客户产线上进行工艺开发与验证工作",
+        "notes": "Shipment for validation is not completed qualification, production use or recognized revenue. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "prototype_complete_and_shipped_for_hbm_customer_line_validation",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_wafer_flatness_metrology_gen2",
+    "entity_id": "skyverse",
+    "category_id": "metrology_geometry",
+    "name": "Wafer flatness metrology equipment, second generation",
+    "aliases": [
+      "第二代晶圆平整度量测设备"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 21,
+      "excerpt": "测量精度更高的第二代产品已完成样机研发并与国内头部存储客户达成进场测试的意向",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "prototype_complete_test_intent",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Expected shipment is forward-looking and not achieved.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 21,
+        "excerpt": "测量精度更高的第二代产品已完成样机研发并与国内头部存储客户达成进场测试的意向，预计很快出货",
+        "notes": "Separate from the shipped first-generation system; planned shipment is not achieved shipment. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "prototype_complete_test_intent_agreed_shipment_planned",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_cd_sem",
+    "entity_id": "skyverse",
+    "category_id": "metrology_cd_sem",
+    "name": "Electron-beam critical-dimension metrology equipment series",
+    "aliases": [
+      "电子束关键尺寸量测设备系列"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 21,
+      "excerpt": "电子束关键尺寸量测设备已完成样机研发，正积极开展国内多家头部客户的复杂图形工艺样片的验证测试",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "prototype_complete_sample_testing",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "No achieved shipment or production qualification.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 21,
+        "excerpt": "电子束关键尺寸量测设备已完成样机研发，正积极开展国内多家头部客户的复杂图形工艺样片的验证测试，并与国内多家头部客户达成进场测试的意向，预计很快出货",
+        "notes": "Sample testing and intent for future on-site tests; no achieved shipment or production qualification. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "prototype_complete_sample_validation_and_customer_line_test_intent",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_har_structure_metrology",
+    "entity_id": "skyverse",
+    "category_id": "metrology_har",
+    "name": "High-aspect-ratio etched-structure metrology equipment series",
+    "aliases": [
+      "高深宽比刻蚀结构量测设备系列"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 21,
+      "excerpt": "高深宽比刻蚀结构量测设备已成功应用在国内头部存储客户产线上",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "customer_production_line_application",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Supplier claim; no model or count.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 21,
+        "excerpt": "高深宽比刻蚀结构量测设备已成功应用在国内头部存储客户产线上，并持续开展测量精度更高的下一代产品的研发",
+        "notes": "Supplier production-line application claim; next generation remains in R&D. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "customer_production_line_application",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      },
+      {
+        "source_id": "skyverse_q3_2026",
+        "page": 2,
+        "excerpt": "明场纳米图形晶圆缺陷检测设备、暗场纳米图形晶圆缺陷检测设备、高深宽比刻蚀结构量测设备等各系列新产品，第四代无图形晶圆缺陷检测设备、第三代套刻精度量测设备等现有系列升级迭代产品，以及先进制程收入贡献增长，推动公司订单规模及营收规模持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "new_product_revenue_contribution_growing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Named among new products lifting revenue. No amount, customer, node or memory statement in this passage."
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_tsv_copper_void_metrology",
+    "entity_id": "skyverse",
+    "category_id": "metrology_tsv_void",
+    "name": "TSV copper-fill void metrology equipment series",
+    "aliases": [
+      "硅通孔铜填充空隙量测设备系列"
+    ],
+    "evidence": {
+      "source_id": "skyverse_h1_2026",
+      "page": 21,
+      "excerpt": "硅通孔铜填充空隙量测设备已成功应用在国内头部存储客户产线上",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "customer_production_line_application",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Separate sample testing at advanced-packaging customers; no count or revenue.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_h1_2026",
+        "page": 21,
+        "excerpt": "硅通孔铜填充空隙量测设备已成功应用在国内头部存储客户产线上，同时正积极接受国内多家头部 2.5D/3D 先进封装客户工艺样片的验证测试",
+        "notes": "Production-line application and packaging sample validation are distinct stages; the filing does not say the installed storage use is HBM. Date is reporting-period context, not a separately dated milestone; current narrative wording may refer to report preparation. Supplier assertion, not independent corroboration.",
+        "as_of": "2026-06-30",
+        "reported_maturity": "storage_customer_line_application_and_packaging_sample_validation",
+        "status": "source_checked",
+        "reviewer": "mi_verifier_original_first",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_overlay_metrology_family",
+    "entity_id": "skyverse",
+    "category_id": "metrology_overlay",
+    "record_kind": "source_native_family",
+    "name": "套刻精度量测设备系列",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "SKYVERSE-2026H1-P15-OVERLAY-FAMILY",
+      "source_id": "skyverse_h1_2026",
+      "page": 15,
+      "excerpt": "套刻精度量                 齐的误差测量，并将数据反馈给光刻机，帮助光刻\n测设备系列                 机优化不同层之间的光刻图案对齐误差，从而避免\n                      工艺中可能出现的问题。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "fourth_generation_shipped_for_customer_line_validation",
+    "maturity_as_reported_in": "skyverse_h1_2026",
+    "notes": "Source-native overlay equipment series measures layer-to-layer pattern-alignment error and feeds correction data to lithography. FY2025 p30 supports third-generation validation at multiple domestic leading customers and new-technology shipment for validation; H1 2026 p20 supports fourth-generation shipment for line validation and diffraction-variant validation. These are generations/technology routes within one family, not separate disclosed models or unit counts. Do not transfer adjacent film-metrology, memory-bulk-supply, or HBM/application prose into this platform record.",
+    "maturity_history": [
+      {
+        "claim_id": "SKYVERSE-2025-P30-OVERLAY-STAGE",
+        "source_id": "skyverse_annual_2025",
+        "page": 30,
+        "excerpt": "（5）套刻精度量测设备系列\n\n  公司套刻精度量测设备已全面覆盖各类集成电路客户对于不同技术方案的需求。2025 年度，\n测量精度更高的第三代套刻精度量测设备已通过多家国内头部客户产线验证，客户订单量持续稳\n步增长，目前基于新技术方案研发的套刻精度量测设备已出货至国内头部客户产线开展验证，并\n持续推进双技术路线设备面向国内最前沿工艺的产品研发，进一步巩固该系列产品在国内企业的\n绝对领先优势并推动订单规模的持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "third_generation_customer_line_validated_and_new_technology_shipped_for_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 annual report context. Third-generation customer line validation and growing orders; a new-technology variant was shipped for validation. No exact unit count or customer identity."
+      },
+      {
+        "claim_id": "SKYVERSE-2026H1-P20-OVERLAY-STAGE",
+        "source_id": "skyverse_h1_2026",
+        "page": 20,
+        "excerpt": "（5）套刻精度量测设备系列\n\n  公司套刻精度量测设备已全面覆盖各类集成电路客户对于不同技术方案的需求。目前，面向\n国内最前沿工艺的第四代套刻精度量测设备已出货多家国内头部客户开展产线验证，同时基于新\n技术方案研发的光学衍射套刻精度量测设备在国内多家头部客户产线验证进展顺利，并持续推进\n面向国内最前沿工艺的产品研发，进一步巩固该系列产品在国内企业的绝对领先优势并推动订单\n规模的持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "fourth_generation_shipped_for_customer_line_validation_and_diffraction_variant_in_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 context. Fourth-generation tool shipped to multiple domestic leading customers for line validation; optical-diffraction route in validation. Neither states completed fourth-generation qualification or HBM customer installation."
+      },
+      {
+        "source_id": "skyverse_q3_2026",
+        "page": 2,
+        "excerpt": "明场纳米图形晶圆缺陷检测设备、暗场纳米图形晶圆缺陷检测设备、高深宽比刻蚀结构量测设备等各系列新产品，第四代无图形晶圆缺陷检测设备、第三代套刻精度量测设备等现有系列升级迭代产品，以及先进制程收入贡献增长，推动公司订单规模及营收规模持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "third_generation_revenue_contribution_growing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Third generation named among iterated products lifting revenue. No amount or customer."
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_unpatterned_wafer_inspection",
+    "entity_id": "skyverse",
+    "category_id": "inspection_unpatterned",
+    "name": "Unpatterned-wafer defect inspection equipment series",
+    "aliases": [
+      "无图形晶圆缺陷检测设备系列",
+      "无图形晶圆缺陷检测设备",
+      "SPRUCE"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 77,
+      "excerpt": "无图形晶圆缺陷检测设备系列；主要应用于硅片的出厂品质管控、晶圆的入厂质量控制、半导体制程工艺和设备的污染监控。该系列的设备能够实现无图形晶圆表面的缺陷计数，识别缺陷的类型和空间分布",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Series-level identity for SkyVerse's unpatterned-wafer inspection line, the firm's largest single product line by revenue across FY2020-FY2022. SPRUCE-600 and SPRUCE-800 are its named models. The atlas previously held only the patterned series platform. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '无图形晶圆缺陷检测设备系列' confirmed verbatim on skyverse_ipo_2023 p77 (pdftotext without -layout, whitespace-stripped). category_id inspection_unpatterned matches the category definition exactly (unpatterned-wafer defect inspection). reported_maturity 'volume_production' is well supported: skyverse_ipo_2023 pp.168-169 (non-layout, stripped) give actual annual unit sales for this exact series (23/31/47 units across the three reporting years) and state SPRUCE-600 '研发成功并经下游知名客户验证通过后，迅速获得市场广泛认可' -- a real commercial-sales basis, not a catalogue listing. One alias flag: 'SPRUCE' (bare) never appears as a standalone string anywhere in the 345-page prospectus -- every occurrence is SPRUCE-600/-800/-900 (confirmed by a full-document grep). This is a constructed series-label (the common prefix of three real model numbers), not an invented identifier in the SAB8210CWW sense -- no fabricated capability or model number is asserted -- but it should be documented as atlas-constructed rather than left to read as a verbatim issuer term.",
+    "maturity_history": [
+      {
+        "source_id": "skyverse_q3_2026",
+        "page": 2,
+        "excerpt": "明场纳米图形晶圆缺陷检测设备、暗场纳米图形晶圆缺陷检测设备、高深宽比刻蚀结构量测设备等各系列新产品，第四代无图形晶圆缺陷检测设备、第三代套刻精度量测设备等现有系列升级迭代产品，以及先进制程收入贡献增长，推动公司订单规模及营收规模持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "fourth_generation_revenue_contribution_growing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Fourth generation named among iterated products lifting revenue. No amount or customer."
+      }
+    ]
+  },
+  {
+    "platform_id": "skyverse_spruce_600",
+    "entity_id": "skyverse",
+    "category_id": "inspection_unpatterned",
+    "name": "SPRUCE-600",
+    "aliases": [
+      "SPRUCE-600"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 116,
+      "excerpt": "设备型号 SPRUCE-600；工艺节点 130nm 或以上；最小灵敏度 60nm；吞吐量 100wph（灵敏度 102nm）",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Developed 2017 and validated at named customers; the prospectus benchmarks it against KLA Surfscan SP1TBI at the same 60nm minimum sensitivity. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'SPRUCE-600' and spec excerpt ('设备型号 SPRUCE-600；工艺节点130nm或以上；最小灵敏度60nm') confirmed verbatim on skyverse_ipo_2023 p116 (non-layout, stripped). category_id inspection_unpatterned correct (parent series is unpatterned-wafer inspection). reported_maturity 'volume_production' confirmed via p106: '自2017年SPRUCE-600型号无图形晶圆缺陷检测设备研发成功并经下游知名客户验证通过后，迅速获得市场广泛认可' -- developed 2017, validated, broad market take-up, and its unit sales roll into the series total used for skyverse_unpatterned_wafer_inspection."
+  },
+  {
+    "platform_id": "skyverse_spruce_800",
+    "entity_id": "skyverse",
+    "category_id": "inspection_unpatterned",
+    "name": "SPRUCE-800",
+    "aliases": [
+      "SPRUCE-800"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 116,
+      "excerpt": "设备型号 SPRUCE-800；工艺节点 2Xnm 或以上；最小灵敏度 23nm；吞吐量 25wph（灵敏度 26nm）",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Launched FY2020 as the higher-sensitivity unpatterned inspector; benchmarked against KLA Surfscan SP3 at the same 23nm minimum sensitivity. Two further models named on physical p106 are NOT registered here because the prospectus places them before sale: SPRUCE-900 (1Xnm lines) was still in development and DRAGONBLOOD-600 (sub-2Xnm) was in line validation with orders from two customers. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'SPRUCE-800' and spec excerpt ('设备型号 SPRUCE-800；工艺节点2Xnm或以上；最小灵敏度23nm') confirmed verbatim on skyverse_ipo_2023 p116 (non-layout, stripped). category_id inspection_unpatterned correct. reported_maturity 'volume_production' confirmed via p106 ('2020年推出了...检测精度更高的SPRUCE-800型号设备'). The record's exclusion note is independently verified: physical p106 states SPRUCE-900 '正在研发中' (still in development) and DRAGONBLOOD-600 '正在产线进行验证，并已取得两家客户的订单' (in line validation, two customer orders) -- correctly NOT registered as sold/volume-production platforms, matching the maturity-not-upgrade discipline in criterion 4."
+  },
+  {
+    "platform_id": "skyverse_birch_60",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "name": "BIRCH-60",
+    "aliases": [
+      "BIRCH-60"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 179,
+      "excerpt": "报告期内，公司销售的图形晶圆缺陷检测设备主要包括 BIRCH-60 和 BIRCH-100 两种型号",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Earlier model of the patterned/packaging inspection series; the FY2022 unit-cost commentary records a 非自动机型 configuration without EFEM. Category assignment follows BIRCH-100; see the observation notes for the judgement and its counter-evidence. Placed at the inspection parent: p170 makes BIRCH an upgrade model within the 图形晶圆缺陷检测设备 series, and its units are a subset of that series total. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'BIRCH-60' and excerpt ('报告期内，公司销售的图形晶圆缺陷检测设备主要包括BIRCH-60和BIRCH-100两种型号') confirmed verbatim on skyverse_ipo_2023 p179 (non-layout, stripped). category_id placement at the 'inspection' PARENT (not inspection_macro) is correct and is explicitly required by the taxonomy itself: data/categories.json's inspection_macro scope_note says 'do NOT move a model here when the issuer presents it as an upgrade within its own patterned-wafer inspection series and reports its units as a subset of that series, because the parent already counts it' -- and p170 (non-layout, stripped) confirms exactly this: '2020年，公司推出检测精度更高、吞吐量更高的BIRCH-100等升级型号设备' describes BIRCH-100 (and by series membership, BIRCH-60) as an upgrade model whose units are counted inside 图形晶圆缺陷检测设备's own sales total (26/34/35 units). Placing this at inspection_macro would double-count against that same series -- the record's parent placement is the taxonomy-mandated choice, verified by checking the scope_note as a checkable claim about the atlas, not just a claim about the source."
+  },
+  {
+    "platform_id": "skyverse_birch_100",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "name": "BIRCH-100",
+    "aliases": [
+      "BIRCH-100"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 117,
+      "excerpt": "设备型号 BIRCH-100；最小灵敏度 0.5μm；吞吐量 80wph（灵敏度 3μm）；缺陷复查模式 支持三种彩色复查模式。公司该型号设备主要应用于先进封装环节的晶圆出货检测",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Launched FY2020. Benchmarked against Onto/Rudolph F30 and stated to run at 长电先进 and 华天科技 advanced-packaging lines. This is the single strongest piece of evidence in the packet for SkyVerse occupying the macro/packaging optical inspection node. Placed at the inspection parent: p170 makes BIRCH an upgrade model within the 图形晶圆缺陷检测设备 series, and its units are a subset of that series total. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'BIRCH-100' and spec excerpt ('设备型号 BIRCH-100；最小灵敏度0.5μm；...公司该型号设备主要应用于先进封装环节的晶圆出货检测') confirmed verbatim on skyverse_ipo_2023 p117 (non-layout, stripped). category_id 'inspection' parent is correct for the same taxonomy reason given for BIRCH-60 (confirmed via inspection_macro's own scope_note and the p170 'upgrade model/subset of series' language) -- this is the single clearest case in the batch of a record correctly declining a more specific child node because the taxonomy itself says to."
+  },
+  {
+    "platform_id": "skyverse_cypress_t910",
+    "entity_id": "skyverse",
+    "category_id": "metrology_topography",
+    "name": "CYPRESS-T910",
+    "aliases": [
+      "CYPRESS-T910"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 181,
+      "excerpt": "报告期内，公司销售的三维形貌量测设备主要包括 CYPRESS-T910 和 CYPRESS-U950 两种型号",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Sold in 多功能 and 单功能 configurations at materially different prices. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'CYPRESS-T910' and excerpt ('报告期内，公司销售的三维形貌量测设备主要包括CYPRESS-T910和CYPRESS-U950两种型号') confirmed verbatim on skyverse_ipo_2023 p181 (non-layout, stripped). category_id metrology_topography matches exactly: the series name '三维形貌量测设备' (3D-topography metrology equipment) is metrology_topography's own definition almost word for word."
+  },
+  {
+    "platform_id": "skyverse_cypress_u950",
+    "entity_id": "skyverse",
+    "category_id": "metrology_topography",
+    "name": "CYPRESS-U950",
+    "aliases": [
+      "CYPRESS-U950"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 117,
+      "excerpt": "设备型号 CYPRESS-U950；重复性精度 0.1nm；量测方式 自动数据采集和分析。公司该型号设备的重复性精度达到 0.1nm，能够支持 2Xnm 及以上制程工艺中的三维形貌测量",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Benchmarked against Park Systems NX Wafer at the same 0.1nm repeatability and stated to run at 长江存储. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/alias 'CYPRESS-U950' and spec excerpt ('设备型号 CYPRESS-U950；重复性精度0.1nm...能够支持2Xnm及以上制程工艺中的三维形貌测量') confirmed verbatim on skyverse_ipo_2023 p117 (non-layout, stripped). category_id metrology_topography correct for the same reason as CYPRESS-T910."
+  },
+  {
+    "platform_id": "skyverse_3d_curved_glass_metrology",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "name": "3D curved-glass metrology equipment series",
+    "aliases": [
+      "3D 曲面玻璃量测设备系列",
+      "3D 曲面玻璃量测设备"
+    ],
+    "evidence": {
+      "source_id": "skyverse_ipo_2023",
+      "page": 78,
+      "excerpt": "3D 曲面玻璃量测设备系列；主要应用于 3D 曲面玻璃等构件的轮廓、弧高、厚度、尺寸测量，采用光谱共焦技术，实现高精度、高速度的非接触式测量；应用领域 精密加工",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "volume_production",
+    "maturity_as_reported_in": "skyverse_ipo_2023",
+    "notes": "Registered at all_businesses on purpose: a non-semiconductor precision-machining product that the issuer nonetheless counts inside its 量测设备 class, which is why the 量测设备 unit and revenue totals already on disk overstate semiconductor metrology. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name/excerpt '3D 曲面玻璃量测设备系列' confirmed verbatim on skyverse_ipo_2023 p78 (non-layout, stripped). category_id all_businesses is a deliberate, correctly-reasoned placement, not an error: this is a non-semiconductor precision-machining (consumer cover-glass) product that the issuer nonetheless books inside its '量测设备' class, and the record exists specifically to document that SkyVerse's company-wide metrology revenue/unit totals overstate semiconductor metrology as a result -- consistent with all_businesses's own definition ('a disclosed non-equipment [here: non-semiconductor-equipment] business line... filed here so it cannot be mistaken for tool revenue')."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "application_id": "advanced_packaging",
+    "entity_id": "precisionext",
+    "category_id": "bonding_tcb",
+    "platform_id": "precisionext_loong_tcb",
+    "source_id": "precisionext_cfol_cowos_20250314",
+    "page": 1,
+    "excerpt": "率先完成了国产AI芯片的CoWoS-L测试打样，实现了国产TCB设备在AI芯片CoWoS封装领域的首次突破。",
+    "status": "source_checked",
+    "link_id": "precisionext-advanced-packaging-1",
+    "scope_note": "Completed customer test/sampling milestone (CoWoS-L) for a domestic AI-chip advanced-packaging process, named by the third-party outlet as the first such breakthrough for a domestic TCB tool; also carries the platform's own stated wafer-level/panel-level packaging compatibility. This is a test-sampling milestone, not a qualified mass-production, named-customer-volume or shipment claim. CORRECTED AT INTEGRATION from production_claim to supplier_capability. 率先完成了国产AI芯片的CoWoS-L测试打样 is a completed TEST SAMPLING run (测试打样), a demonstrated milestone but not production use; the atlas reserves production_claim for a source that claims the tool is used in or qualified for 量产, as in a held NAURA row ('应用于先进封装 UBM、RDL、TSV 工艺的量产'). Trade-press source, not a filing. The same article's '国内唯一' superlative and its ±0.3μm next-generation target are deliberately NOT registered.",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "link_kind": "supplier_capability",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against precisionext_cfol_cowos_20250314: '普莱信智能开发的Loong系列TCB设备，通过与客户的紧密合作，率先完成了国产AI芯片的CoWoS-L测试打样，实现了国产TCB设备在AI芯片CoWoS封装领域的首次突破'. link_kind=supplier_capability is the correct, downgraded tier: 测试打样 is a completed TEST-SAMPLING run, which is exactly the calibration example Extraction Failure Modes gives for why this class of claim is not production_claim. application_id=advanced_packaging (not upgraded to hbm, even though the same article discusses HBM/CoWoS context) is correct for this specific excerpt, which is about the CoWoS-L test-sampling milestone, not an HBM-specific claim -- the HBM-specific sentence is correctly registered as the separate precisionext-hbm-1 link instead. The article's '国内唯一' superlative and ±0.3um next-generation target are correctly excluded per the FINDINGS.md holds table."
+  },
+  {
+    "application_id": "hbm",
+    "entity_id": "precisionext",
+    "category_id": "bonding_tcb",
+    "platform_id": "precisionext_loong_tcb",
+    "source_id": "precisionext_cfol_cowos_20250314",
+    "page": 1,
+    "excerpt": "Loong系列兼容晶圆级（12英寸）、板级（620×620mm）封装，支持HBM堆叠等全流程工艺；本次工艺测试的完成，标志着国产TCB设备正式迈入一个全新的阶段。",
+    "status": "source_checked",
+    "link_id": "precisionext-hbm-1",
+    "scope_note": "Issuer-relayed capability-support claim that the Loong platform 'supports HBM stacking' among its full-process coverage, and the SEMICON China booth description (same article) labelling the Loong line 'the sole domestic HBM/CoWoS bonding equipment' (国产唯一HBM/CoWoS键合设备). No named HBM customer, shipment count, unit order or independent qualification evidence is given anywhere in this or any other held source. Corroborated by a separate, earlier claim (precisionext_fsemi_loong_hbm_20240527) that the Loong F sub-series is specifically built/prepared for next-generation HBM3E and HBM — a development-stage statement, not a production claim. CORRECTED AT INTEGRATION from production_claim to supplier_capability. 兼容...支持HBM堆叠等全流程工艺 is a compatibility and support claim about the platform, with no HBM customer, shipment, qualification or volume anywhere in the source. This is the weakest form of HBM evidence in the atlas and must not be read as HBM production; it is registered because a named tool claiming HBM stacking support is worth holding, not because the claim is strong.",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "link_kind": "supplier_capability",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against the same source, a few sentences on: 'Loong系列兼容晶圆级（12英寸）、板级（620x620mm）封装，支持HBM堆叠等全流程工艺'. link_kind=supplier_capability is correct per the Extraction Failure Modes calibration (a compatibility/support claim, '支持HBM堆叠', is not a production or shipment claim). application_id=hbm is justified because HBM is named explicitly and directly, unlike the qinghe jingyuan case where only generic 存储器 is named. The corroborating SEMICON-booth label ('国产唯一HBM/CoWoS键合设备') is confirmed present verbatim in the same article. Scope_note is honest that this is the weakest HBM evidence in the atlas (no customer, shipment, order or qualification) -- agree with that self-assessment."
+  }
+]

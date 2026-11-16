@@ -1,0 +1,194 @@
+[
+ {
+  "observation_id": "SIZREG2026-CMP-BACKLOG-CNY",
+  "dataset_id": "sizone_disclosures",
+  "source_id": "sizone_restructuring_2026",
+  "entity_id": "sizone",
+  "category_id": "cmp",
+  "reporting_scope_id": "sizone_special_equipment",
+  "platform_id": "",
+  "metric_id": "order_backlog",
+  "value": "360000000",
+  "relation": "eq",
+  "unit": "CNY",
+  "period": {
+   "start": "",
+   "end": "2026-04-30",
+   "kind": "as_of",
+   "basis": "stock"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "source_reporting_scope",
+   "revenue_basis": "not_applicable",
+   "price_basis": "nominal",
+   "equipment_condition": "all_reported",
+   "service_scope": "source_reporting_scope",
+   "tax_basis": "not_stated"
+  },
+  "evidence": {
+   "page": 595,
+   "printed_page": 594,
+   "original_label": "截至本报告书签署日 / 标的公司在手订单",
+   "excerpt": "截至本报告书签署日，标的公司在手订单 3.6 亿元（对应 18 台 CMP 设备，其中 14 台已发货）。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "3.6",
+   "reported_unit": "CNY_100m",
+   "conversion": {
+    "operation": "multiply",
+    "factor": "100000000"
+   },
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary."
+  },
+  "claim_kind": "company_reported",
+  "precision": "as_reported_rounded",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "标的公司 = 杭州众硅 (Sizone), the CMP-equipment target being acquired by AMEC; this is a Sizone figure, not AMEC's. Signed order backlog only — the separate 5.5亿元 意向订单 is non-binding and is recorded under purchase_intentions, never added to this. The monetary and 18-system counts are two measurements of the same backlog and are not additive. 3.6亿元 is rounded to 0.1亿 in the source. Signature page is undated and the cover reads 二零二六年四月, so 2026-04-30 is a month-end proxy for 本报告书签署日. Identical sentence repeats at physical pp610 and 613."
+ },
+ {
+  "observation_id": "SIZREG2026-CMP-BACKLOG-SYSTEMS",
+  "dataset_id": "sizone_disclosures",
+  "source_id": "sizone_restructuring_2026",
+  "entity_id": "sizone",
+  "category_id": "cmp",
+  "reporting_scope_id": "sizone_special_equipment",
+  "platform_id": "",
+  "metric_id": "order_backlog",
+  "value": "18",
+  "relation": "eq",
+  "unit": "system",
+  "period": {
+   "start": "",
+   "end": "2026-04-30",
+   "kind": "as_of",
+   "basis": "stock"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "source_reporting_scope",
+   "revenue_basis": "not_applicable",
+   "price_basis": "not_applicable",
+   "equipment_condition": "all_reported",
+   "service_scope": "equipment_only",
+   "tax_basis": "not_applicable"
+  },
+  "evidence": {
+   "page": 595,
+   "printed_page": 594,
+   "original_label": "截至本报告书签署日 / 在手订单对应 CMP 设备台数",
+   "excerpt": "截至本报告书签署日，标的公司在手订单 3.6 亿元（对应 18 台 CMP 设备，其中 14 台已发货）。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "18",
+   "reported_unit": "system",
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary."
+  },
+  "claim_kind": "company_reported",
+  "precision": "as_reported",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "Unit count corresponding to the same 3.6亿元 signed backlog; not additive with the monetary row. The source adds that 14 of the 18 systems had already shipped as of the signing date — that split is held separately because no metric cleanly expresses backlog units already dispatched. No wafer-size or platform split is inferred. Identical sentence repeats at physical pp610 and 613."
+ },
+ {
+  "observation_id": "SIZREG2026-CMP-INTENT-CNY",
+  "dataset_id": "sizone_disclosures",
+  "source_id": "sizone_restructuring_2026",
+  "entity_id": "sizone",
+  "category_id": "cmp",
+  "reporting_scope_id": "sizone_special_equipment",
+  "platform_id": "",
+  "metric_id": "purchase_intentions",
+  "value": "550000000",
+  "relation": "eq",
+  "unit": "CNY",
+  "period": {
+   "start": "",
+   "end": "2026-04-30",
+   "kind": "as_of",
+   "basis": "stock"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "source_reporting_scope",
+   "revenue_basis": "not_applicable",
+   "price_basis": "nominal",
+   "equipment_condition": "all_reported",
+   "service_scope": "source_reporting_scope",
+   "tax_basis": "not_stated"
+  },
+  "evidence": {
+   "page": 595,
+   "printed_page": 594,
+   "original_label": "截至本报告书签署日 / 标的公司意向订单",
+   "excerpt": "截至本报告书签署日，标的公司在手订单 3.6 亿元（对应 18 台 CMP 设备，其中 14 台已发货），意向订单 5.5 亿元（对应 28 台 CMP 设备，其中 24 台系量产设备）。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "5.5",
+   "reported_unit": "CNY_100m",
+   "conversion": {
+    "operation": "multiply",
+    "factor": "100000000"
+   },
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary."
+  },
+  "claim_kind": "company_reported",
+  "precision": "as_reported_rounded",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "意向订单 = non-binding letters of intent. NOT order backlog, new orders or recognized revenue, and must never be added to the 3.6亿元 signed backlog. Uses the registry metric purchase_intentions (present in data/metrics.json, units system/CNY; precedent jingyi_purchase_intentions), which is outside the operational metric list circulated with this brief — flag for reviewer. 5.5亿元 is rounded to 0.1亿 in the source. 2026-04-30 is a month-end proxy for the undated 本报告书签署日."
+ },
+ {
+  "observation_id": "SIZREG2026-CMP-INTENT-SYSTEMS",
+  "dataset_id": "sizone_disclosures",
+  "source_id": "sizone_restructuring_2026",
+  "entity_id": "sizone",
+  "category_id": "cmp",
+  "reporting_scope_id": "sizone_special_equipment",
+  "platform_id": "",
+  "metric_id": "purchase_intentions",
+  "value": "28",
+  "relation": "eq",
+  "unit": "system",
+  "period": {
+   "start": "",
+   "end": "2026-04-30",
+   "kind": "as_of",
+   "basis": "stock"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "source_reporting_scope",
+   "revenue_basis": "not_applicable",
+   "price_basis": "not_applicable",
+   "equipment_condition": "all_reported",
+   "service_scope": "equipment_only",
+   "tax_basis": "not_applicable"
+  },
+  "evidence": {
+   "page": 595,
+   "printed_page": 594,
+   "original_label": "截至本报告书签署日 / 意向订单对应 CMP 设备台数",
+   "excerpt": "意向订单 5.5 亿元（对应 28 台 CMP 设备，其中 24 台系量产设备）。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "28",
+   "reported_unit": "system",
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary."
+  },
+  "claim_kind": "company_reported",
+  "precision": "as_reported",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "Unit count corresponding to the same 5.5亿元 non-binding intention stock; not additive with the monetary row and not backlog. The source adds that 24 of the 28 would be 量产设备 (volume-production tools rather than validation tools); that split is held separately. Identical sentence repeats at physical pp610 and 613."
+ }
+]

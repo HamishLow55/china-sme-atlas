@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "smee_all_lithography_tools_milestone",
+    "category_id": "lithography",
+    "label": "SMEE cumulative lithography tools of any type, company-counted delivery milestone",
+    "definition": "SMEE's own cumulative count of lithography/exposure tools of any type (front-end scanners, pre-2025 advanced-packaging steppers, LED/compound-semiconductor and flat-panel-display exposure tools) delivered to customers, as the company itself counts its own round-number delivery milestones (e.g. 'the 100th tool'); not separable into lithography_frontend or lithography_packaging, and not attributable to a single product family."
+  }
+]

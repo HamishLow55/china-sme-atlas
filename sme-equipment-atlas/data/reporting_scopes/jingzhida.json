@@ -1,0 +1,536 @@
+[
+  {
+    "reporting_scope_id": "jingzhida_semiconductor_memory_device_test",
+    "label": "半导体存储器件测试",
+    "category_id": "test",
+    "definition": "FY2025 source-native grouped main-business/product and volume/cost scope 半导体存储器件测试. It can include several test-solution forms and is not limited to complete ATE systems."
+  },
+  {
+    "reporting_scope_id": "jingzhida_new_display_device_inspection",
+    "label": "新型显示器件检测",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native grouped main-business/product and volume/cost scope 新型显示器件检测. It is display inspection, not semiconductor metrology/inspection or semiconductor ATE."
+  },
+  {
+    "reporting_scope_id": "jingzhida_source_defined_domestic_main_business",
+    "label": "国内",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native main-business geography row 国内; issuer boundary retained without independently redefining it."
+  },
+  {
+    "reporting_scope_id": "jingzhida_source_defined_foreign_main_business",
+    "label": "国外",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native main-business geography row 国外; issuer boundary retained without independently redefining it."
+  },
+  {
+    "reporting_scope_id": "jingzhida_direct_main_business_sales",
+    "label": "直销",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native direct-sales main-business row."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 发明专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_utility_model_patents",
+    "label": "实用新型专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 实用新型专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_design_patents",
+    "label": "外观设计专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 外观设计专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_software_copyrights",
+    "label": "软件著作权",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 软件著作权; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_other",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 其他; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ip_table_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native intellectual-property class 合计; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_project_s9880_high_speed_ft_tester",
+    "label": "S9880 高速 FT 测试机平台开发",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D-project table row S9880 高速 FT 测试机平台开发; financial project scope only, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_project_next_generation_dram_18gbps",
+    "label": "新一代 DRAM 高速测试机高速互联技术（18Gbps）研究",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D-project table row 新一代 DRAM 高速测试机高速互联技术（18Gbps）研究; financial project scope only, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_project_s9980_kgsd_wafer_tester",
+    "label": "S9980 KGSD 晶圆测试机平台开发",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D-project table row S9980 KGSD 晶圆测试机平台开发; financial project scope only, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_project_768para_memory_test_handler",
+    "label": "768Para Memory Test Handler 设备",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D-project table row 768Para Memory Test Handler 设备; financial project scope only, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D-project table row 合计; financial project scope only, not commercial platform identity or maturity evidence."
+  },
+  {
+    "reporting_scope_id": "jingzhida_parent_company_standalone",
+    "label": "母公司单体财务报表",
+    "category_id": "all_businesses",
+    "definition": "Issuer standalone parent-company balance sheet, income statement, and cash-flow disclosures in the FY2024 annual report; excludes consolidated group statements and totals."
+  },
+  {
+    "reporting_scope_id": "jingzhida_semiconductor_major_order_1",
+    "label": "半导体领域重大订单（第一笔）",
+    "category_id": "test",
+    "definition": "FY2025 first separately stated tax-exclusive semiconductor-field major order; unnamed counterparty and no revenue recognition inferred."
+  },
+  {
+    "reporting_scope_id": "jingzhida_semiconductor_major_order_2",
+    "label": "半导体领域重大订单（第二笔）",
+    "category_id": "test",
+    "definition": "FY2025 second separately stated tax-exclusive semiconductor-field major order; unnamed counterparty and no revenue recognition inferred."
+  },
+  {
+    "reporting_scope_id": "jingzhida_memory_test_equipment_business",
+    "label": "存储测试设备业务",
+    "category_id": "test",
+    "definition": "FY2025 source-native storage-test-equipment business scope; broader than any one tester, probe card, handler, or platform."
+  },
+  {
+    "reporting_scope_id": "jingzhida_delivered_9_gbps_high_speed_ft_tester",
+    "label": "已交付 9 Gbps 高速 FT 测试机",
+    "category_id": "test_memory_ate",
+    "definition": "First-unit delivery scope for the source-reported self-developed 9 Gbps high-speed FT tester; not the 18 Gbps project."
+  },
+  {
+    "reporting_scope_id": "jingzhida_18_gbps_high_speed_ft_tester_project_scope",
+    "label": "18 Gbps 高速 FT 测试机项目",
+    "category_id": "test_memory_ate",
+    "definition": "R&D/project-progress scope for the 18 Gbps high-speed FT tester; no delivery or qualification inferred."
+  },
+  {
+    "reporting_scope_id": "jingzhida_18_gbps_pogo_pin_link_project_scope",
+    "label": "18 Gbps Pogo Pin 全链路高速互联",
+    "category_id": "test_memory_ate",
+    "definition": "Project capability scope for source-reported Pogo-Pin full-link signal transmission."
+  },
+  {
+    "reporting_scope_id": "jingzhida_18_gbps_pds_vector_transfer_project_scope",
+    "label": "18 Gbps PDS 高通量向量传输",
+    "category_id": "test_memory_ate",
+    "definition": "Project capability scope for source-reported programmable vector allocation and transfer."
+  },
+  {
+    "reporting_scope_id": "jingzhida_wide_temperature_probe_card_scope",
+    "label": "宽温探针卡",
+    "category_id": "test_probe_card",
+    "definition": "R&D scope for source-reported probe card with stable -40℃ to 125℃ operation."
+  },
+  {
+    "reporting_scope_id": "jingzhida_ccc_high_current_probe_card_scope",
+    "label": "CCC 大电流探针卡",
+    "category_id": "test_probe_card",
+    "definition": "Source-native CCC high-current probe-card scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_2_4_gbps_high_speed_probe_card_project_scope",
+    "label": "2.4 Gbps 高速探针卡研发",
+    "category_id": "test_probe_card",
+    "definition": "R&D scope for 2.4 Gbps high-speed probe-card work; DRAM/HBM wording is application scope, not qualification."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_s9880_high_speed_ft_tester",
+    "label": "S9880 高速 FT 测试机平台开发",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row S9880 高速 FT 测试机平台开发; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_next_generation_dram_18gbps",
+    "label": "新一代 DRAM 高速测试机高速互联技术（18Gbps）",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 新一代 DRAM 高速测试机高速互联技术（18Gbps）; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_s9980_kgsd_wafer_tester",
+    "label": "S9980 KGSD 晶圆测试机平台开发",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row S9980 KGSD 晶圆测试机平台开发; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_high_speed_single_ended_interconnect",
+    "label": "测试机高速互联技术（高速单端）",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 测试机高速互联技术（高速单端）; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_s8930_soc_ate",
+    "label": "S8930 SoC ATE",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row S8930 SoC ATE; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_nand_flash_flft_s6680",
+    "label": "NAND FLASH FLFT S6680",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row NAND FLASH FLFT S6680; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_768para_memory_test_handler",
+    "label": "768Para Memory Test Handler 设备",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 768Para Memory Test Handler 设备; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_dram_alpg_tg_tga_research",
+    "label": "基于 DRAM 高速测试机专项技术（ALPG&TG&TGA）的研究",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 基于 DRAM 高速测试机专项技术（ALPG&TG&TGA）的研究; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_dram_automated_test_platform",
+    "label": "基于 DRAM 高速测试机智能、高效、易扩展的自动化测试平台构建",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 基于 DRAM 高速测试机智能、高效、易扩展的自动化测试平台构建; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_dram_mdra_algorithm",
+    "label": "DRAM 高速测试机的修复分析算法（MDRA）研究",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row DRAM 高速测试机的修复分析算法（MDRA）研究; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_dram_temperature_motion_reliability_safety",
+    "label": "基于 DRAM 高速测试机恒温控制、精准运动机构、可靠性、安全性技术研究",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 基于 DRAM 高速测试机恒温控制、精准运动机构、可靠性、安全性技术研究; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_high_speed_pattern_vector_generation",
+    "label": "高速图形向量生成技术",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 高速图形向量生成技术; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_probe_card_key_component_research",
+    "label": "探针卡关键部件基础技术研究",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 探针卡关键部件基础技术研究; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_probe_card_high_speed_signal_design",
+    "label": "探针卡高速信号设计基础研究",
+    "category_id": "test",
+    "definition": "FY2024 source-native R&D-project table row 探针卡高速信号设计基础研究; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_color_luminance_measurement",
+    "label": "色亮度测量技术开发",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 色亮度测量技术开发; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_display_array_substrate_visual_inspection",
+    "label": "显示屏阵列基板视觉检测平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 显示屏阵列基板视觉检测平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_xr_application_inspection",
+    "label": "XR 技术应用及检测开发平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row XR 技术应用及检测开发平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_next_generation_display_appearance_inspection",
+    "label": "新一代显示器件检测设备研发项目-外观检测系统平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 新一代显示器件检测设备研发项目-外观检测系统平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_general_mura_repair",
+    "label": "通用 Mura 修复系统平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 通用 Mura 修复系统平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_general_visual_inspection",
+    "label": "通用视觉检测平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 通用视觉检测平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_general_deep_learning_inspection",
+    "label": "通用深度学习检测平台",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 通用深度学习检测平台; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_rd_project_table_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native R&D-project table row 合计; project-financial scope only, not a commercial platform identity, maturity, shipment, or qualification claim."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 发明专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_utility_model_patents",
+    "label": "实用新型专利",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 实用新型专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_design_patents",
+    "label": "外观设计专利",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 外观设计专利; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_software_copyrights",
+    "label": "软件著作权",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 软件著作权; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_other",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 其他; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_ip_table_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native intellectual-property class 合计; annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_industry_new_display_device_inspection",
+    "label": "新型显示器件检测",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分行业 operating-table row 新型显示器件检测; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_industry_semiconductor_memory_device_test",
+    "label": "半导体存储器件测试",
+    "category_id": "test",
+    "definition": "FY2024 source-native 分行业 operating-table row 半导体存储器件测试; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_optical_inspection_correction_repair_systems",
+    "label": "光学检测及校正修复系统",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分产品 operating-table row 光学检测及校正修复系统; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_aging_systems",
+    "label": "老化系统",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分产品 operating-table row 老化系统; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_touch_inspection_systems",
+    "label": "触控检测系统",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分产品 operating-table row 触控检测系统; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_signal_generators",
+    "label": "信号发生器",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分产品 operating-table row 信号发生器; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_inspection_system_accessories",
+    "label": "检测系统配件",
+    "category_id": "display_device_inspection",
+    "definition": "FY2024 source-native 分产品 operating-table row 检测系统配件; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_south_china",
+    "label": "华南",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 华南; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_central_china",
+    "label": "华中",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 华中; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_east_china",
+    "label": "华东",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 华东; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_north_china",
+    "label": "华北",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 华北; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_southwest_china",
+    "label": "西南",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 西南; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_geography_foreign",
+    "label": "国外",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分地区 operating-table row 国外; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_sales_channel_direct",
+    "label": "直销",
+    "category_id": "all_businesses",
+    "definition": "FY2024 source-native 分销售模式 operating-table row 直销; issuer boundary retained without allocation beyond the printed scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_fy2024_product_semiconductor_memory_device_test",
+    "label": "半导体存储器件测试（分产品成本分析）",
+    "category_id": "test",
+    "definition": "FY2024 source-native 分产品 cost-analysis table row 半导体存储器件测试; retained as a product-table scope distinct from the FY2024 分行业 semiconductor-memory scope."
+  },
+  {
+    "reporting_scope_id": "jingzhida_rd_progress_9gbps_ft_tester",
+    "label": "研发进展公告中的 9 Gbps FT 测试机",
+    "category_id": "test_memory_ate",
+    "definition": "Source-native FT tester in the January 2025 R&D-progress announcement: up to 9 Gbps output/calibration, internal testing completed, prototype supplied for customer validation, final validation incomplete and no large-scale production stated. Distinct from the later first-delivery notice, which does not state 9 Gbps. Comparator basis for the channel-count multiple is the source’s unnamed “国外同类产品”; it has no identified population, model, or denominator."
+  },
+  {
+    "reporting_scope_id": "jingzhida_contract_2025_010_hefei_semiconductor_test_equipment",
+    "label": "2025-010 合肥集成电路半导体测试设备采购协议",
+    "category_id": "test",
+    "definition": "Tax-exclusive executed semiconductor-test-equipment purchase agreement reported in announcement 2025-010. Contracting seller is controlled subsidiary 合肥精智达集成电路技术有限公司; customer is unnamed. Parent issuer disclosure, not parent-only revenue or a complete-ATE allocation."
+  },
+  {
+    "reporting_scope_id": "jingzhida_contract_2025_036_display_equipment_series",
+    "label": "2025-036 京东方下属公司显示检测设备及服务系列合同",
+    "category_id": "display_device_inspection",
+    "definition": "Tax-inclusive cumulative series-contract scope covering signal generators, automatic/manual flat-panel aging equipment and AOI modification services with two named BOE subsidiaries. Total is not allocated among counterparties or components."
+  },
+  {
+    "reporting_scope_id": "jingzhida_contract_2025_075_hefei_semiconductor_test_equipment",
+    "label": "2025-075 合肥集成电路半导体测试设备及配套治具采购协议",
+    "category_id": "test",
+    "definition": "Tax-exclusive executed semiconductor-test-equipment and supporting-fixtures purchase agreement reported in announcement 2025-075. Contracting seller is controlled subsidiary 合肥精智达集成电路技术有限公司; customer is unnamed. Parent issuer disclosure, not parent-only revenue or a complete-ATE allocation."
+  },
+  {
+    "reporting_scope_id": "jingzhida_contract_2026_002_003_estimated_semiconductor_test_equipment",
+    "label": "2026-002/003 预估采购半导体测试设备及配套治具合同",
+    "category_id": "test",
+    "definition": "Contract scope explicitly linked across announcements 2026-002 and supplemental 2026-003. Stated tax-inclusive amount is based on customer-estimated procurement quantities; execution and the expected three-year delivery window depend on actual purchase orders. Contracting seller is controlled subsidiary 合肥精智达集成电路技术有限公司; customer is unnamed. Not firm order intake, backlog, revenue, delivered value, or complete-ATE allocation. 002 records board approval on 2026-01-23 and signature on 2026-01-24; 003 refers to same-day disclosure on 2026-01-23 but is also signed 2026-01-24, so publication date remains unresolved."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_north_china",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 华北",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 华北. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (华北的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_east_china",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 华东",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 华东. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (华东的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_central_china",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 华中",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 华中. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (华中的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_south_china",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 华南",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 华南. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (华南的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_southwest_china",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 西南",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 西南. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (西南的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_prospectus_geography_overseas",
+    "category_id": "all_businesses",
+    "label": "Jingzhida IPO-prospectus 主营业务收入按区域划分 row 海外",
+    "definition": "Jingzhida (SEICHI) 2023 IPO-prospectus source-native 『主营业务收入按区域划分情况』table (covering FY2020-FY2022), row 海外. MAIN-BUSINESS basis is stated directly in the heading narrative (公司主营业务收入按区域划分如下) and confirmed by cross-foot: all disclosed regions for a given year sum exactly to that year's printed 合计 (FY2022: 50,042.11; FY2021: 45,700.32; FY2020: 28,322.71万元). The table prints 金额 and 比例/占比 only; no cost or margin cells are given by region. Distinct from the entity's existing FY2024 (海外的'jingzhida_fy2024_geography_*' scopes, 元-denominated, revenue+cost+margin) and FY2025 ('jingzhida_source_defined_domestic/foreign_main_business', 2-row 国内/国外) scopes, which come from a structurally different, later table in the annual reports and are not reused here."
+  },
+  {
+    "reporting_scope_id": "jingzhida_contract_2026_081_estimated_semiconductor_test_equipment",
+    "label": "2026-081 预估采购半导体测试设备及配套治具合同",
+    "category_id": "test",
+    "definition": "Contract scope of announcement 2026-081. Stated tax-inclusive amount is based on customer-estimated procurement quantities; execution and the expected two-year delivery window depend on actual purchase orders. Seller is stated as 公司; customer is the unnamed, unrelated 某客户, with name, specification, quantity and unit price exempted from disclosure. Subject is 半导体测试设备及其配套治具, not stated to be memory, HBM or any one tester type. Distinct from 2026-002/003. Not firm order intake, backlog, revenue, delivered value, cash or guaranteed procurement."
+  },
+  {
+    "reporting_scope_id": "jingzhida_semiconductor_test_equipment_business",
+    "label": "半导体测试设备业务",
+    "category_id": "test",
+    "definition": "H1 2026 source-native business phrase 半导体测试设备业务. Boundary not defined by the issuer; printed as a growth rate only, with no level. Not equated with 半导体存储器件测试 or 存储测试设备业务 without a source table."
+  },
+  {
+    "reporting_scope_id": "jingzhida_h1_2026_rd_project_soc_ate",
+    "label": "SoC ATE",
+    "category_id": "test",
+    "definition": "H1 2026 source-native R&D-project table row SoC ATE. Identity with the FY2024 S8930 SoC ATE row is not stated. Project financial scope, not commercial platform identity."
+  },
+  {
+    "reporting_scope_id": "jingzhida_h1_2026_rd_project_nand_flash_hsft",
+    "label": "NAND FLASH HSFT",
+    "category_id": "test_memory_ate",
+    "definition": "H1 2026 source-native R&D-project table row NAND FLASH HSFT. Identity with the FY2024 NAND FLASH FLFT S6680 row is not stated. Project financial scope and target specification, not a delivered product."
+  },
+  {
+    "reporting_scope_id": "jingzhida_h1_2026_rd_project_dram_mdra_algorithm",
+    "label": "DRAM 高速测试机的修复分析算法（MDRA）研究",
+    "category_id": "test",
+    "definition": "H1 2026 source-native R&D-project table row. Same printed label as the FY2024 row; an algorithm project for DRAM ATE wafer-test repair analysis, not a tool."
+  },
+  {
+    "reporting_scope_id": "jingzhida_h1_2026_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "test",
+    "definition": "H1 2026 R&D-project table 合计, covering only the three projects above the 1,000 万元 cumulative threshold. Not company R&D."
+  },
+  {
+    "reporting_scope_id": "jingzhida_placement_high_end_chip_test_rd_center",
+    "label": "高端芯片测试设备及前沿技术研发中心项目",
+    "category_id": "test",
+    "definition": "2026 placement prospectus use-of-proceeds project. Planned total, spanning SoC, HBM and other test R&D, AI in test and microdisplay inspection per the issuer. Not an HBM-only budget and not spending."
+  },
+  {
+    "reporting_scope_id": "jingzhida_placement_memory_test_rd_project",
+    "label": "半导体存储测试设备技术研发项目",
+    "category_id": "test",
+    "definition": "2026 placement prospectus use-of-proceeds project, a sub-project of 半导体存储测试设备研发及产业化智造项目. Planned total, not spending."
+  }
+]

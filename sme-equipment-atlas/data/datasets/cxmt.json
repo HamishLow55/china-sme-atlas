@@ -1,0 +1,28 @@
+[
+  {
+    "dataset_id": "cxmt_ipo_disclosures",
+    "title": "CXMT company disclosures (STAR Market IPO)",
+    "kind": "company_filings",
+    "publisher": "cxmt",
+    "version": "w5-cxmt-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "cxmt_periodic_disclosures",
+    "title": "CXMT periodic and voluntary disclosures",
+    "kind": "company_filings",
+    "publisher": "cxmt",
+    "version": "local-staged-2026-10-30",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally.",
+    "market_definitions": {}
+  }
+]

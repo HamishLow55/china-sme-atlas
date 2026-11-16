@@ -1,0 +1,20 @@
+[
+  {
+    "reporting_scope_id": "xiandao_jidian_main_business_special_equipment_manufacturing",
+    "category_id": "multi_equipment",
+    "label": "Xiandao Jidian main-business special equipment manufacturing",
+    "definition": "Source-native 主营业务 专用设备制造 basket spanning Kingstone and other equipment subsidiaries; not pure implant."
+  },
+  {
+    "reporting_scope_id": "xiandao_jidian_reportable_equipment_segment",
+    "category_id": "multi_equipment",
+    "label": "Xiandao Jidian reportable special-equipment segment",
+    "definition": "Separate source-native reportable-segment note 专用设备制造业务 perimeter; do not splice with main-business row."
+  },
+  {
+    "reporting_scope_id": "xiandao_jidian_ion_implant_operating_table",
+    "category_id": "implant",
+    "label": "Xiandao Jidian ion-implanter operating table",
+    "definition": "FY2025 issuer-reported source-native production, sales and inventory table for 离子注入机. Closing inventory includes 15 systems shipped to customers pending acceptance; it is not warehouse-only inventory or direct Kingstone financial attribution."
+  }
+]

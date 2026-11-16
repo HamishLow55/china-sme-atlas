@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "screen",
+    "name": "SCREEN Holdings Co., Ltd.",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "SCREEN Holdings Co., Ltd.",
+      "株式会社SCREENホールディングス",
+      "SCREEN",
+      "SCREEN Holdings",
+      "7735",
+      "7735.T"
+    ],
+    "evidence": {
+      "source_id": "screen_fy2025_yuho_jp",
+      "page": 4,
+      "excerpt": "【表紙】【会社名】 株式会社SCREENホールディングス 【英訳名】 SCREEN Holdings Co., Ltd. 【代表者の役職氏名】 取締役社長 後藤正人 【本店の所在の場所】 京都市上京区堀川通寺之内上る四丁目天神北町１番地の１",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. SCREEN Holdings is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Headquartered in Kyoto, Japan (Horikawa-dori Teranouchi-agaru 4-chome Tenjin-kitamachi 1-1, Kamigyo-ku), listed on the Tokyo Stock Exchange Prime Market under securities code 7735 (originally listed on the TSE Second Section in October 1967; moved from the TSE First Section to Prime in April 2022). It is registered here because it is the world's main wafer-cleaning-equipment supplier and one of only two serious coater/developer makers, making it the incumbent against which the atlas's cleaning (ACM Shanghai, NAURA, Yadian, Zhichun/PNC) and track_coat_develop (Kingsemi) Chinese entries are measured. Fiscal year ends 31 March: SCREEN's own 'term' numbering (this packet's most recent filing is the 85th term, 1 April 2025 to 31 March 2026) is translated into actual start/end dates in every observation's period, never the issuer's fiscal-year label. Reporting currency is the Japanese yen, recorded as printed in JPY_million and never converted to CNY, USD or any other currency. SCREEN is legally and functionally organised under a holding-company structure with FOUR reportable segments by product/service: Semiconductor Production Equipment (SPE), Graphic Arts Equipment (GA, printing), Display Production Equipment and Coater (FT, flat-panel-display manufacturing and deposition equipment), and PCB-Related Equipment (PE), plus a non-reportable 'Other' bucket (new businesses: advanced semiconductor packaging, life sciences and hydrogen-related fields from FY2024 onward, automotive-parts-inspection equipment and software/print-document planning in earlier years). GA, FT and PE are equipment for OTHER industries (printing, flat-panel displays, printed circuit boards), not semiconductor-wafer equipment, so they and the 'Other' bucket and the company total are filed at all_businesses; SPE is the semiconductor-equipment segment and is a basket at multi_equipment because SCREEN gives NO finer product-level split anywhere in the five annual securities reports reviewed: each filing's 【関連情報】 note states verbatim that product/service-level disclosure 'is omitted because the product/service classification is the same as the reportable segment classification' (製品及びサービスの区分が報告セグメント区分と同一であるため、記載を省略しております). This is the packet's central finding for the brief's priority question: SCREEN does NOT break out cleaning separately from coater/developer, or from any other SPE product line (lithography, thermal processing, advanced-packaging tools) -- the SPE segment total is the finest granularity any public filing reviewed gives. SCREEN's own medium-term plan names 'cleaning-equipment market share improvement' (洗浄装置マーケットシェアの向上) as an explicit SPE strategic priority, and its FY2025/FY2026 English Annual Report states the Group 'boasts the top global market share' in cleaning -- both are the issuer's own unquantified claims about itself, not sourced figures, and are NOT registered as observations per the brief's market-share exclusion; they are recorded here only as context for why SCREEN, not a different firm, is the right cleaning comparator.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'SCREEN' (bare); 'SCREEN Holdings' (without 'Co., Ltd.'); '7735.T'. They are kept because they are useful search handles -- a short-form company reference and a ticker written with an exchange suffix -- but nothing in this repository evidences them as the company's own printed name, so none should be quoted as such or used to match a record in another dataset. Every other alias on this record ('SCREEN Holdings Co., Ltd.' and '株式会社SCREENホールディングス' on the cover sheet of screen_fy2025_yuho_jp physical p.4; '7735' on screen_fy2025_kessan_eng physical p.1) was found in a held source."
+  }
+]

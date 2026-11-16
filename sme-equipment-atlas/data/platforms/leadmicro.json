@@ -1,0 +1,1288 @@
+[
+  {
+    "platform_id": "leadmicro_itomic_met",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic MeT series",
+    "aliases": [
+      "iTomic MeT 系列",
+      "iTomic MeT series ALD equipment"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2025-itomic-met-production-line-introduction-and-batch-orders",
+      "source_id": "leadmicro_annual_2025",
+      "page": 23,
+      "excerpt": "报告期内，该系列产品获得行业重要客户高度认可，已导入量产产线，持续获得量产批量订单，成为公司 ALD 设备领域又一大核心产品。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "introduced_to_mass_production_lines_and_continuing_batch_production_orders",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "Company-reported series-level commercial milestone. The same passage names logic, memory and advanced-packaging metallisation use, but does not identify the customer, process node, shipment count, acceptance date, HBM deployment or production output.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2025-itomic-met-production-line-introduction-and-batch-orders",
+        "source_id": "leadmicro_annual_2025",
+        "page": 23,
+        "excerpt": "报告期内，该系列产品获得行业重要客户高度认可，已导入量产产线，持续获得量产批量订单，成为公司 ALD 设备领域又一大核心产品。",
+        "as_of": "2026-04-29",
+        "reported_maturity": "introduced_to_mass_production_lines; continuing_batch_production_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; no exact introduction/order dates, customer, order quantity, acceptance milestone or HBM use stated. Review: Physical PDF p.23 supports the named-series mass-production-line introduction and continuing batch production orders. The advanced-packaging application is capability, not proof those milestones are advanced-packaging-specific.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F013",
+        "source_id": "leadmicro_annual_2025",
+        "page": 12,
+        "excerpt": "iTomic MeT 系列                                                 产业化\n                              属、MIM 金属电极、扩散阻挡层等关\n  原子层沉积系统                                                       应用\n                              键工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage; preserve alongside existing independently reviewed narrative history without replacing it."
+      },
+      {
+        "claim_id": "leadmicro-q3-2026-itomic-met-ru-tool",
+        "source_id": "leadmicro_q3_2026",
+        "page": 6,
+        "excerpt": "公司最新推出的 iTomic MeT 系列原子层沉积系统 Ru 工艺专用设备，攻克了金属 Ru 薄膜超薄连续成膜难题，为下一代互连技术提供工艺解决方案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "New Ru-process tool launched in the iTomic MeT series (最新推出)",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "A launch. No customer, shipment or validation stage is stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itronix_pe",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "iTronix PE series",
+    "aliases": [
+      "iTronix PE 系列",
+      "iTronix PE series PECVD equipment"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2025-itronix-pe-advanced-packaging-customer-order",
+      "source_id": "leadmicro_annual_2025",
+      "page": 24,
+      "excerpt": "目前，该系列产品可沉积多种薄膜材料，广泛应用于逻辑、存储、先进封装、显示器件及化合物半导体等领域芯片制造环节。报告期内，该系列产品的市场拓展顺利，已获得先进封装领域重要客户订单。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "advanced_packaging_customer_order_obtained",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "Order is explicit; delivery, acceptance, production-line introduction and HBM use are not stated. Physical p13 separately labels the series '产业化验证', defined on physical p14 as a signed contract being performed, but this proposal preserves the more specific p24 order milestone.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2025-itronix-pe-advanced-packaging-customer-order",
+        "source_id": "leadmicro_annual_2025",
+        "page": 24,
+        "excerpt": "目前，该系列产品可沉积多种薄膜材料，广泛应用于逻辑、存储、先进封装、显示器件及化合物半导体等领域芯片制造环节。报告期内，该系列产品的市场拓展顺利，已获得先进封装领域重要客户订单。",
+        "as_of": "2026-04-29",
+        "reported_maturity": "advanced_packaging_customer_order_obtained",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Order obtained during the reporting period; no exact order date, customer identity, delivery, validation, acceptance or production use stated. Review: Physical PDF p.24 supports an advanced-packaging important-customer order for the named PECVD series. It does not state delivery, acceptance, production use or HBM deployment.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F019",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTronix PE 系列                 半导体领域 PECVD 设备，可沉积 SiO2、\n                                                                    产业化\n等离子体增强化学                       SiN、SiON、SiCN、a-Si 等不同种类薄\n                                                                     验证\n  气相沉积系统                       膜，涵盖的工艺温度范围 200~700℃",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage; preserve alongside existing independently reviewed narrative history without replacing it."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_source_native_advanced_packaging_deposition_family",
+    "entity_id": "leadmicro",
+    "category_id": "deposition",
+    "record_kind": "source_native_family",
+    "name": "Unnamed advanced-packaging thin-film deposition equipment family",
+    "aliases": [
+      "先进封装领域相关设备",
+      "advanced-packaging thin-film deposition equipment"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2025-advanced-packaging-deposition-customer-validation-and-hbm-fit",
+      "source_id": "leadmicro_annual_2025",
+      "page": 23,
+      "excerpt": "先进封装领域：公司相关设备已在客户端进行验证，并与多家潜在客户开展技术交流。产品采用独特低温控制技术，在保证薄膜高质量沉积的同时，满足先进封装技术低热预算、高晶圆翘曲度、厚膜沉积等低温高质量薄膜需求，适配 HBM、Chiplet、2.5D/3D 封装等先进封装技术对薄膜沉积设备提出的全新技术要求。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "customer_site_validation; technical_exchange_with_potential_customers; stated_hbm_fit",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "Generic source-native family because the passage does not identify an ALD or PECVD series. It may overlap iTomic MeT, iTomic PE, iTronix PE, or iTronix LTP and must not be counted as an additional distinct tool. Client-side validation and suitability for HBM requirements do not establish an HBM customer, order, acceptance or production deployment.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2025-advanced-packaging-deposition-customer-validation-and-hbm-fit",
+        "source_id": "leadmicro_annual_2025",
+        "page": 23,
+        "excerpt": "先进封装领域：公司相关设备已在客户端进行验证，并与多家潜在客户开展技术交流。产品采用独特低温控制技术，在保证薄膜高质量沉积的同时，满足先进封装技术低热预算、高晶圆翘曲度、厚膜沉积等低温高质量薄膜需求，适配 HBM、Chiplet、2.5D/3D 封装等先进封装技术对薄膜沉积设备提出的全新技术要求。",
+        "as_of": "2026-04-29",
+        "reported_maturity": "customer_site_validation; technical_exchange_with_potential_customers; stated_fit_to_hbm_requirements",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Generic family claim with unresolved named-series identity. Validation, technical exchange and stated process fit are separate and do not establish an HBM order or production deployment. Review: Physical PDF p.23 supports unnamed related-equipment client validation, technical exchanges, and stated technical fit to HBM/Chiplet/2.5D/3D requirements. It does not identify a series or establish HBM-specific validation, order, acceptance or deployment.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2025-Q023",
+        "source_id": "leadmicro_annual_2025",
+        "page": 22,
+        "excerpt": "公司该领域\n         产品已经在部分先进封装客户端进行验证。\n         同时，公司设备针对半导体领域 2.5D 和 3D 先进封装技术的工艺特殊需求而设\n         计，能够在 50~200°C",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "advanced packaging client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_source_native_itomic_ald_family",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "iTomic semiconductor ALD equipment family",
+    "aliases": [
+      "iTomic 系列 ALD 设备",
+      "iTomic series atomic-layer deposition systems"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2023-itomic-family-customer-acceptance-industrialisation-and-repeat-orders",
+      "source_id": "leadmicro_annual_2023",
+      "page": 18,
+      "excerpt": "iTomic 系列原子层沉积镀膜系统，适用于沉积多种氧化物和氮化物、互相掺杂沉积工艺等薄膜材料，可用于逻辑芯片、传统及新型存储芯片的电容介质层、高 k 栅介质覆盖层、掺杂介质层、芯片制造电极及阻挡层、化合物半导体钝化和过渡层等多个应用领域。该系列部分产品已取得客户验收，实现产业化应用，并取得重复订单。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "some_family_products_customer_accepted_industrialised_and_repeat_ordered",
+    "maturity_as_reported_in": "leadmicro_annual_2023",
+    "notes": "New generic family record with explicit overlap: it may include later named iTomic HiK, MeT, MW or other series, but the FY2023 passage does not identify which products reached acceptance, industrialisation and repeat-order stages. Do not count this family as an additional distinct tool or map the milestone to iTomic MeT.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2023-itomic-family-customer-acceptance-industrialisation-and-repeat-orders",
+        "source_id": "leadmicro_annual_2023",
+        "page": 18,
+        "excerpt": "iTomic 系列原子层沉积镀膜系统，适用于沉积多种氧化物和氮化物、互相掺杂沉积工艺等薄膜材料，可用于逻辑芯片、传统及新型存储芯片的电容介质层、高 k 栅介质覆盖层、掺杂介质层、芯片制造电极及阻挡层、化合物半导体钝化和过渡层等多个应用领域。该系列部分产品已取得客户验收，实现产业化应用，并取得重复订单。",
+        "as_of": "2024-04-29",
+        "reported_maturity": "some_family_products_customer_accepted_industrialised_and_repeat_ordered",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Group-qualified claim covering only some unnamed family products. It must not be propagated to each later named iTomic series. Review: Leadmicro FY2023 physical p18 supports the claim only for some unnamed iTomic family products; it must not be mapped to a later named series.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2023-F001",
+        "source_id": "leadmicro_annual_2023",
+        "page": 17,
+        "excerpt": "iTomic 系列\n                      品凭借原子级别的精确控制、沉积薄膜的高覆        产业化\n原子层沉积\n                      盖率和超薄膜厚的均匀性，可为逻辑芯片、存         应用\n 镀膜系统\n                      储芯片提供介质层等关键工艺解决方案，技术\n                      和设备指标达到国内一流、国际先进水平。\n\n                      采用创新的批量型（mini-batch）腔体设计，可\n                      一次处理 25 片 12 英寸晶圆，适用于成膜镀率",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage; preserve alongside existing independently reviewed narrative history without replacing it."
+      },
+      {
+        "claim_id": "LEADMICRO-2023-Q005",
+        "source_id": "leadmicro_annual_2023",
+        "page": 14,
+        "excerpt": "iTomic 系列 ALD 设备继\n续保持行业领先优势，在逻辑、存储领域内均新增行业重要客户的订单，尤其在新型存储领域已\n取得批量重复订单。iTronix 系列 CVD 设备加速推广，在 2023 年 7 月首次出货至客户端进行产业\n化验证后，获得了半导体集成电路行业内重要客户的批量重复订单，并加速拓展开发客户需求的\n工艺设备。iTomic MW 设备和 iTomic Lite",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTomic repeat orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_source_native_itronix_cvd_family",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "iTronix semiconductor CVD equipment family",
+    "aliases": [
+      "iTronix 系列 CVD 设备",
+      "iTronix series chemical-vapour deposition systems"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2023-itronix-first-shipment-and-batch-repeat-orders",
+      "source_id": "leadmicro_annual_2023",
+      "page": 14,
+      "excerpt": "iTronix 系列 CVD 设备加速推广，在 2023 年 7 月首次出货至客户端进行产业化验证后，获得了半导体集成电路行业内重要客户的批量重复订单，并加速拓展开发客户需求的工艺设备。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "first_customer_shipment_for_industrial_validation_in_2023_07; subsequent_batch_repeat_orders",
+    "maturity_as_reported_in": "leadmicro_annual_2023",
+    "notes": "New generic family record with explicit overlap: it may include later named iTronix MTP, PE or other series, but the source does not identify the model. Do not count this family as an additional distinct tool or map the milestone specifically to iTronix PE. The July 2023 month is source-reported.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2023-itronix-first-shipment-and-batch-repeat-orders",
+        "source_id": "leadmicro_annual_2023",
+        "page": 14,
+        "excerpt": "iTronix 系列 CVD 设备加速推广，在 2023 年 7 月首次出货至客户端进行产业化验证后，获得了半导体集成电路行业内重要客户的批量重复订单，并加速拓展开发客户需求的工艺设备。",
+        "as_of": "2024-04-29",
+        "reported_maturity": "first_customer_shipment_for_industrial_validation_in_2023_07; subsequent_batch_repeat_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source explicitly states July 2023 for the first shipment. Model, customer, order quantity, completed validation, acceptance and production use are not stated. Review: Leadmicro FY2023 physical p14 confirms the July 2023 first shipment for industrialisation validation and subsequent important-customer batch repeat orders; no model-specific mapping or completed validation is stated.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2023-F005",
+        "source_id": "leadmicro_annual_2023",
+        "page": 18,
+        "excerpt": "iTronix                  成化服务，在逻辑、存储、先进封装、显示器\n系列化学气                     件等芯片制造领域具有广泛应用，可满足多种           产业化\n相沉积镀膜                     功能性薄膜沉积工艺的开发和应用需求。搭载            验证\n  系统                      新型平台可安装更多反应腔以满足高产能需\n                          求。\n\n                          公司独立研发的、适用于高产能半导体制程设",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage; preserve alongside existing independently reviewed narrative history without replacing it."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itomic_spx",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic SPX series",
+    "aliases": [
+      "iTomic SPX 系列",
+      "iTomic SPX spatial ALD equipment"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-2025-itomic-spx-customer-order-and-industrial-validation",
+      "source_id": "leadmicro_annual_2025",
+      "page": 24,
+      "excerpt": "目前，公司是国内少数具备空间型 ALD 设备研发和生产能力的厂商之一。该系列产品可为逻辑芯片、存储芯片的生产提供高效的工艺技术方案。报告期内，该系列产品已获得重要客户订单，进入产业化验证阶段。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "important_customer_order_obtained_and_entered_industrial_validation",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "Named-series milestone. The source separately defines industrial validation as a signed contract being performed; it does not establish delivery, completed qualification, acceptance, sale recognition or production use.",
+    "maturity_history": [
+      {
+        "claim_id": "leadmicro-2025-itomic-spx-customer-order-and-industrial-validation",
+        "source_id": "leadmicro_annual_2025",
+        "page": 24,
+        "excerpt": "目前，公司是国内少数具备空间型 ALD 设备研发和生产能力的厂商之一。该系列产品可为逻辑芯片、存储芯片的生产提供高效的工艺技术方案。报告期内，该系列产品已获得重要客户订单，进入产业化验证阶段。",
+        "as_of": "2026-04-29",
+        "reported_maturity": "important_customer_order_obtained_and_entered_industrial_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; exact order or validation-entry dates and customer are not stated. Industrial validation is not completed qualification, acceptance or production use. Review: Leadmicro FY2025 physical p24 confirms important-customer orders and entry into industrialisation validation, without delivery, acceptance, or production-use evidence.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F017",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTomic SPX 系列\n                               次处理多片晶圆，前驱体空间独立，颗                    产业化\n空间型原子层沉积\n                               粒表现优越，节省化学源消耗，提升产                     验证\n     系统\n                               能\n\n\n\n\n                               半导体领域 PECVD 设备，可在多种温",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage; preserve alongside existing independently reviewed narrative history without replacing it."
+      },
+      {
+        "claim_id": "leadmicro-placement-2026-spx-pes-orders",
+        "source_id": "leadmicro_placement_plan_20261012",
+        "page": 26,
+        "excerpt": "iTomic SPX、iTronix PES 系列设备也已取得重要客户订单并进入产业化验证阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Important customer orders obtained; entered 产业化验证 stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "Consistent with the FY2025 产业化验证 table stage."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itomic_hik",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic HiK series",
+    "aliases": [
+      "iTomic HiK"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 12,
+      "excerpt": "iTomic HiK 系列半导体 ALD 设备和 KF\n系列光伏 ALD 设备入选江苏省首台（套）重大装备产品目录，iTronix 系列半导体 CVD 设备入选\n江苏省“两新”技术产品，多款半导体设备荣获“中国半导体创新产品和技术奖”及“集成电路产业技\n术创新奖”。\n  公司生产研发的主要设备，具体如下：\n  （1）公司半导体领域主要产品\n                                                产业化\n   产品系列        产品图示              简介\n                                                 阶段\n\n\n\n                              半导体领域 ALD 设备，适用于高介电\n iTomic HiK 系列                                                 产业化\n                              常 数 （ High-k ） 栅 氧 层 、 N/P-MOS\n 原子层沉积系统                                                        应用\n                              Dipole、MIM 电容器层等薄膜工艺需求\n\n\n\n\n                              半导体领域 ALD 设备，适用于栅极金",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "semiconductor High-k ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F012",
+        "source_id": "leadmicro_annual_2025",
+        "page": 12,
+        "excerpt": "iTomic HiK 系列半导体 ALD 设备和 KF\n系列光伏 ALD 设备入选江苏省首台（套）重大装备产品目录，iTronix 系列半导体 CVD 设备入选\n江苏省“两新”技术产品，多款半导体设备荣获“中国半导体创新产品和技术奖”及“集成电路产业技\n术创新奖”。\n  公司生产研发的主要设备，具体如下：\n  （1）公司半导体领域主要产品\n                                                产业化\n   产品系列        产品图示              简介\n                                                 阶段\n\n\n\n                              半导体领域 ALD 设备，适用于高介电\n iTomic HiK 系列                                                 产业化\n                              常 数 （ High-k ） 栅 氧 层 、 N/P-MOS\n 原子层沉积系统                                                        应用\n                              Dipole、MIM 电容器层等薄膜工艺需求\n\n\n\n\n                              半导体领域 ALD 设备，适用于栅极金",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2023-Q001",
+        "source_id": "leadmicro_annual_2023",
+        "page": 12,
+        "excerpt": "iTomic HiK 系列 ALD 设备被认定为江苏省\n首台（套）重大装备，iTomic MW 系列批量式 ALD 设备荣获第七届“集成电路产业技术创新奖”。\n  （一）报告期内经营情况概述\n   随着摩尔定律不断演化，逻辑制程不断缩",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTomic HiK named model",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-Q027",
+        "source_id": "leadmicro_annual_2025",
+        "page": 23,
+        "excerpt": "iTomic HiK 系列 ALD 设备\n   该系列作为国内最早成功应用于集成电路制造前道生产线的量产型 High-k ALD 设备，攻克\n了高端芯片栅氧层工艺壁垒，是公司 ALD 设备核心产品之一，历经多次迭代和技术升级，核心技\n术指标已达到国际先进同类水平。\n   目前，该系列产品可为逻辑芯片、存储芯片提供介质层等关键工艺解决方案。报告期内，公\n司该系列产品保持竞争优势，部分关键工艺产品成功导入到多个国产领先厂商产线。\n   （2）iTomic MeT 系列 ALD 设备\n   该系列为针对逻辑芯片、存储芯片及先进",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTomic HiK line entry",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itomic_mw",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic MW series",
+    "aliases": [
+      "iTomic MW"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 17,
+      "excerpt": "iTomic MW\n                      低，厚度要求高，以及产能要求高的关键工艺\n系列批量式                                            产业化\n                      及应用。产品利用特有的流场设计，具有成膜\n原子层沉积                                             应用\n                      速度快，占地面积小，产能高、使用成本低等\n 镀膜系统\n                      优势，为存储芯片以及 Micro-OLED 显示器、\n                      MEMS 等提供定制化量产的解决方案。\n                      产品采用原创设计开发的自动化平台与模块\n                      化 ALD 反应腔相结合，可以按需配置 PEALD",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_h1_2026",
+    "notes": "semiconductor batch ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F002",
+        "source_id": "leadmicro_annual_2023",
+        "page": 17,
+        "excerpt": "iTomic MW\n                      低，厚度要求高，以及产能要求高的关键工艺\n系列批量式                                            产业化\n                      及应用。产品利用特有的流场设计，具有成膜\n原子层沉积                                             应用\n                      速度快，占地面积小，产能高、使用成本低等\n 镀膜系统\n                      优势，为存储芯片以及 Micro-OLED 显示器、\n                      MEMS 等提供定制化量产的解决方案。\n                      产品采用原创设计开发的自动化平台与模块\n                      化 ALD 反应腔相结合，可以按需配置 PEALD",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F014",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTomic MW 系列\n                               一次处理 25 片 12 英寸晶圆，适用于成               产业化\n批量式原子层沉积\n                               膜速率低，厚度厚，以及产能要求高的                     应用\n     系统\n                               关键工艺及应用",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-H126-ITOMIC-MW-TABLE-STAGE",
+        "source_id": "leadmicro_h1_2026",
+        "page": 11,
+        "excerpt": "iTomic MW 系列\n批量式原子层沉积\n系统\n半导体领域 ALD 设备，每个工艺腔可\n一次处理 25 片 12 英寸晶圆，适用于成\n膜速率低，厚度厚，以及产能要求高的\n关键工艺及应用\n产业化\n应用",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Root inspected rendered original physical p11. Batch wafer capacity is per process chamber, not per whole tool, shipment quantity or installed base. Source stage is an as-reported table classification, not a dated transition or HBM qualification."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itomic_lite",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic Lite series",
+    "aliases": [
+      "iTomic Lite"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 17,
+      "excerpt": "iTomic Lite           或 Thermal ALD 等工艺需求。产品具有强大\n系列轻型原                 的兼容性，其硬件配置在保持量产机型强大功 产业化\n子层沉积镀                 能的前提下，可满足各类晶圆尺寸（6、8 英       应用\n  膜系统                 寸）量产工艺需求，同时也可满足客户高端研\n                      发和新工艺试量产需求，可广泛应用于\n                      MEMS、光电器件等泛半导体器件领域。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "semiconductor light ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F003",
+        "source_id": "leadmicro_annual_2023",
+        "page": 17,
+        "excerpt": "iTomic Lite           或 Thermal ALD 等工艺需求。产品具有强大\n系列轻型原                 的兼容性，其硬件配置在保持量产机型强大功 产业化\n子层沉积镀                 能的前提下，可满足各类晶圆尺寸（6、8 英       应用\n  膜系统                 寸）量产工艺需求，同时也可满足客户高端研\n                      发和新工艺试量产需求，可广泛应用于\n                      MEMS、光电器件等泛半导体器件领域。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F015",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTomic Lite 系列                 半导体领域 ALD 设备，可满足 6、8 英\n                                                                    产业化\n轻型原子层沉积系                       寸晶圆制造量产工艺需求，同时也可满\n                                                                     应用\n      统                        足客户高端研发和新工艺试量产需求",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2023-Q017",
+        "source_id": "leadmicro_annual_2023",
+        "page": 28,
+        "excerpt": "iTomic Lite 系列轻型 ALD 设备产品已获得多个客户订单，部分已\n取得客户验收，实现产业化应用。\n\n                         28 / 241",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "compound Lite multiple customer orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itomic_pe",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iTomic PE series",
+    "aliases": [
+      "iTomic PE"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 18,
+      "excerpt": "iTomic PE\n                          准快速控制成膜速度、低反应温度、材料配比\n系列等离子\n                          等技术，完美实现材料厚度均匀性、膜应力， 产业化\n体增强原子\n                          热过程，以及阶梯覆盖率等极具挑战的工艺需  验证\n层沉积镀膜\n                          求。可为逻辑芯片、存储芯片、先进封装等提\n   系统\n                          供客制化掩膜层、介质层、图案化等关键工艺\n                          解决方案。\n\n                          产品采用自主研发的反应腔室和电气软件集",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "semiconductor PEALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F004",
+        "source_id": "leadmicro_annual_2023",
+        "page": 18,
+        "excerpt": "iTomic PE\n                          准快速控制成膜速度、低反应温度、材料配比\n系列等离子\n                          等技术，完美实现材料厚度均匀性、膜应力， 产业化\n体增强原子\n                          热过程，以及阶梯覆盖率等极具挑战的工艺需  验证\n层沉积镀膜\n                          求。可为逻辑芯片、存储芯片、先进封装等提\n   系统\n                          供客制化掩膜层、介质层、图案化等关键工艺\n                          解决方案。\n\n                          产品采用自主研发的反应腔室和电气软件集",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F016",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTomic PE 系列                  半导体领域 PEALD 设备，可为逻辑芯\n                                                                    产业化\n等离子体增强原子                       片、存储芯片、先进封装等提供掩膜层、\n                                                                     应用\n   层沉积系统                       介质层、图案化等关键工艺解决方案\n\n\n\n\n                               半导体领域空间型 ALD 设备，可单批",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2023-Q014",
+        "source_id": "leadmicro_annual_2023",
+        "page": 18,
+        "excerpt": "iTomic PE 系列等离子体增强沉积镀膜系统，适用于沉积多种氧化物和氮化物、互相掺杂沉积\n工艺等薄膜材料；可用于 MEMS、逻辑、存储、CMOS 芯片的多重图案化和间隔层。该系列部分\n产品已发往客户处进行试样验证。\n  iTronix 系列化学气相沉积镀膜系统，可应用于逻辑、存储、先进封装、显示器件等镀膜领域。\n该系列部分产品在 2",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTomic PE sample validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itronix_mtp",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "iTronix MTP series",
+    "aliases": [
+      "iTronix MTP"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 13,
+      "excerpt": "iTronix MTP 系列等                度，尤其是高温工艺条件下沉积的具有\n                                                                    产业化\n 离子体增强化学气                      高硬度和高刻蚀比等特性的含碳介电\n                                                                     应用\n    相沉积系统                      层薄膜，为逻辑和存储等领域芯片制造\n                               提供特殊工艺及解决方案",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "semiconductor hard-mask PECVD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F018",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTronix MTP 系列等                度，尤其是高温工艺条件下沉积的具有\n                                                                    产业化\n 离子体增强化学气                      高硬度和高刻蚀比等特性的含碳介电\n                                                                     应用\n    相沉积系统                      层薄膜，为逻辑和存储等领域芯片制造\n                               提供特殊工艺及解决方案",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-Q030",
+        "source_id": "leadmicro_annual_2025",
+        "page": 24,
+        "excerpt": "iTronix MTP 系列 CVD 设备\n   该系列作为国内首批成功应用于产业链核心厂商量产线的硬掩模 PECVD 设备，是公司 CVD\n设备核心产品之一。该设备成功突破我国半导体设备领域关键技术，实现了高蚀刻选择比、高深\n宽比孔硬掩模沉积设备的研发、制造与产业化，进一步巩固了公司在高端薄膜沉积设备领域的优\n势。\n   目前，该系列产品可用于存储、逻辑等领域的硬掩模工艺，具备沉积无定形碳薄膜的能力。\n无定形碳作为高端硬掩模材料之一，具有多项先进特性，如高度的蚀刻选择性、低反射性、热稳\n定性和机械强度，这些特性使得碳硬掩模成为半导体制造技术中不可或缺的材料，能够满足高图\n形密度、高深宽比等复杂结构薄膜沉积的需求。报告期内，公司该系列产品保持竞争优势，持续\n获得量产批量订单，部分关键工艺产品成功导入到国产领先厂商先进制程产线。\n   （2）iTronix PE 系列 CVD 设备\n   该系列为针对 SiO2、",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTronix MTP continued production-volume orders and partial advanced-process line adoption",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itronix_lp",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_lpcvd",
+    "record_kind": "named_platform_family",
+    "name": "iTronix LP series",
+    "aliases": [
+      "iTronix LP"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 13,
+      "excerpt": "iTronix LP 系列                 半导体领域 LPCVD 设备可满足 SiGe、\n                                                                    产业化\n低压化学气相沉积                       p-Si、doped a-Si、monocrystal-Si 等薄膜\n                                                                     验证\n      系统                       沉积工艺的开发和量产需求",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_h1_2026",
+    "notes": "semiconductor LPCVD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F020",
+        "source_id": "leadmicro_annual_2025",
+        "page": 13,
+        "excerpt": "iTronix LP 系列                 半导体领域 LPCVD 设备可满足 SiGe、\n                                                                    产业化\n低压化学气相沉积                       p-Si、doped a-Si、monocrystal-Si 等薄膜\n                                                                     验证\n      系统                       沉积工艺的开发和量产需求",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-Q032",
+        "source_id": "leadmicro_annual_2025",
+        "page": 24,
+        "excerpt": "iTronix LP 系列 CVD 设备\n   该系列为针对 SiGe、poly-Si、a-Si、Monocrystal Si 等关键工艺沉积需求的 LPCVD 设备。\nLPCVD 是 CVD 设备中应用较多的设备类型之一，其与常压的 CVD 相比，具有较佳的阶梯覆盖\n能力，成膜质量好，依靠加热设备作为热源来维持反应的进行，降低了颗粒污染源等特点，在特\n定关键工艺环节具有不可替代的作用。报告期内，公司该系列产品实现多项关键工艺的突破，并\n获得产业链核心客户的重复订单。\n   未来，公司将依托在高端 CVD 设备领域已构建的技术积累与先发优势，持续拓宽 CVD 产品",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iTronix LP repeat orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      },
+      {
+        "claim_id": "LEADMICRO-H126-ITRONIX-LP-TABLE-STAGE",
+        "source_id": "leadmicro_h1_2026",
+        "page": 11,
+        "excerpt": "iTronix LP 系列\n低压化学气相沉积\n系统\n半导体领域 LPCVD 设备，可满足\nSiGe、p-Si、doped a-Si、monocrystal-Si\n等薄膜沉积工艺的开发和量产需求\n产业化\n应用",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Original physical p11 product row independently visually verified. H1 2026 report-context stage; no exact transition date, shipment count, installed base or HBM qualification inferred. Earlier FY2025 industrial-validation entry retained."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_itronix_ltp",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "iTronix LTP series",
+    "aliases": [
+      "iTronix LTP"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 14,
+      "excerpt": "iTronix LTP 系列\n                              装制造领域提供薄膜沉积解决方案，满           开发\n低温等离子体增强\n                              足 SiO2、SiN、SiCN 等薄膜工艺的应用    实现\n化学气相沉积系统\n                              需求\n\n\n\n\n                              公司针对不同处理站的工艺腔独立研",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_开发实现",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "advanced-packaging low-temperature PECVD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F021",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "iTronix LTP 系列\n                              装制造领域提供薄膜沉积解决方案，满           开发\n低温等离子体增强\n                              足 SiO2、SiN、SiCN 等薄膜工艺的应用    实现\n化学气相沉积系统\n                              需求\n\n\n\n\n                              公司针对不同处理站的工艺腔独立研",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_开发实现",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_trancendor",
+    "entity_id": "leadmicro",
+    "category_id": "wafer_handling_vacuum_transfer",
+    "record_kind": "named_platform_family",
+    "name": "Trancendor series",
+    "aliases": [
+      "Trancendor"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 18,
+      "excerpt": "Trancendor                备的晶圆传输系统。该系统可根据客户工艺需\n                                                         产业化\n系列晶圆真                     要，灵活挂载一至多个工艺腔体（每个工艺腔\n                                                          应用\n空传输系统                     体可配备一至多个工作站）在真空环境下进行\n                          快速高效晶圆传输。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "semiconductor vacuum wafer transfer; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F006",
+        "source_id": "leadmicro_annual_2023",
+        "page": 18,
+        "excerpt": "Trancendor                备的晶圆传输系统。该系统可根据客户工艺需\n                                                         产业化\n系列晶圆真                     要，灵活挂载一至多个工艺腔体（每个工艺腔\n                                                          应用\n空传输系统                     体可配备一至多个工作站）在真空环境下进行\n                          快速高效晶圆传输。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F022",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "Trancendor 系列                                            产业化\n                              发的、适用于高产能半导体制程设备的\n晶圆真空传输系统                                                   应用\n                              晶圆传输系统\n\n\n  注：1、随着公司产品种类的不断丰富，公司持续完善产品型号命名规则；\n  2、产业化应用是指已实现销售，产业化验证是指已签署合同并正在履行，开发实现是指已\n形成研发样机，虽未与客户签署销售合同但已进行试样验证，下同。\n  （2）公司光伏领域主要产品\n                                      产业化阶\n   产品系列      产品图示           简介\n                                        段\n\n\n                              光伏领域 ALD 设备，可用于 PERC、",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_kf",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "夸父 series",
+    "aliases": [
+      "夸父"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 19,
+      "excerpt": "夸父              表面钝化提供高质量超薄钝化膜的制备，确保电池\n（KF）             光电转换效率的进一步提升。基于成功量产机型的\n                                                       产业化\n系列批量             设计原理，该产品是公司原创设计的第七代产品，\n                                                        应用\n式 ALD            代表了光伏行业国产创新设备的先进技术，在提供\n 系统              超高产能的同时，最大程度降低设备的运营成本，\n                 为客户提供可靠的量产解决方案，引领光伏产业化\n                 高效电池智能化制造。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic batch ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F007",
+        "source_id": "leadmicro_annual_2023",
+        "page": 19,
+        "excerpt": "夸父              表面钝化提供高质量超薄钝化膜的制备，确保电池\n（KF）             光电转换效率的进一步提升。基于成功量产机型的\n                                                       产业化\n系列批量             设计原理，该产品是公司原创设计的第七代产品，\n                                                        应用\n式 ALD            代表了光伏行业国产创新设备的先进技术，在提供\n 系统              超高产能的同时，最大程度降低设备的运营成本，\n                 为客户提供可靠的量产解决方案，引领光伏产业化\n                 高效电池智能化制造。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F023",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "夸父（KF）系列                                                  产业化\n                              TOPCon、XBC、HJT、钙钛矿等光伏电\n批量式 ALD 系统                                                 应用\n                              池技术路线",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_zr",
+    "entity_id": "leadmicro",
+    "category_id": "deposition",
+    "record_kind": "named_platform_family",
+    "name": "祝融 series",
+    "aliases": [
+      "祝融"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 19,
+      "excerpt": "祝融系列（ZR5000×1）管式 PECVD 系统突破性解\n                 决传统管式 PECVD 的产能瓶颈，可与公司 ALD 钝\n                 化技术无缝对接，确保 PERC、TOPCon、XBC 等高\n                 效电池生产。以先进技术和装备高度集成，形成高\n                 质量、高产能、低成本的产业化量产。\n                 祝融系列（ZR5000×2）管式 PEALD/PECVD 集成\n                 系统利用公司原创设计的工业级等离子体增强原\n                 子 层 沉 积 (PEALD) 技 术 ， 以 及 行 业 创 新 的\n  祝融             PEALD/PECVD 同管技术，实现了超高产能的批量\n（ZR)系            型 PEALD 镀膜，是 ALD 领域量产化技术又一次突\n 列管式             破，专为接触钝化技术(TOPCon、HPBC、SHJ、POLO       产业化\nPEALD/P          和 TBC)量身定制，为后 PERC 高效电池技术提供            应用\nECVD 系           可靠的量产解决方案，引领光伏产业化高效电池智\n  统              能化制造。\n                 祝融系列（ZR5000×3）管式 PEALD/PECVD 集成\n                 系统一体式设计实现氮化硅正膜、氧化铝/背膜、氧\n                 化硅/多晶硅钝化膜一站式完成，可实现单道产能翻\n                 倍，节省占地面积。同时兼具先进的制造执行管理\n                 系统（MES）和自动导引车（AGV）对接功能。在\n                 提供超高产能的同时，最大程度降低设备的运营成\n                 本，为后 PERC 高效电池技术提供理想可靠的量产\n                 解决方案，引领光伏产业化高效电池智能化制造。\n                 采用原创设计的高温热场控制技术，真正实现了兼\n                 容磷、硼两种扩散工艺，其中硼扩散工艺又兼容",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic PECVD/PEALD integrated family; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F008",
+        "source_id": "leadmicro_annual_2023",
+        "page": 19,
+        "excerpt": "祝融系列（ZR5000×1）管式 PECVD 系统突破性解\n                 决传统管式 PECVD 的产能瓶颈，可与公司 ALD 钝\n                 化技术无缝对接，确保 PERC、TOPCon、XBC 等高\n                 效电池生产。以先进技术和装备高度集成，形成高\n                 质量、高产能、低成本的产业化量产。\n                 祝融系列（ZR5000×2）管式 PEALD/PECVD 集成\n                 系统利用公司原创设计的工业级等离子体增强原\n                 子 层 沉 积 (PEALD) 技 术 ， 以 及 行 业 创 新 的\n  祝融             PEALD/PECVD 同管技术，实现了超高产能的批量\n（ZR)系            型 PEALD 镀膜，是 ALD 领域量产化技术又一次突\n 列管式             破，专为接触钝化技术(TOPCon、HPBC、SHJ、POLO       产业化\nPEALD/P          和 TBC)量身定制，为后 PERC 高效电池技术提供            应用\nECVD 系           可靠的量产解决方案，引领光伏产业化高效电池智\n  统              能化制造。\n                 祝融系列（ZR5000×3）管式 PEALD/PECVD 集成\n                 系统一体式设计实现氮化硅正膜、氧化铝/背膜、氧\n                 化硅/多晶硅钝化膜一站式完成，可实现单道产能翻\n                 倍，节省占地面积。同时兼具先进的制造执行管理\n                 系统（MES）和自动导引车（AGV）对接功能。在\n                 提供超高产能的同时，最大程度降低设备的运营成\n                 本，为后 PERC 高效电池技术提供理想可靠的量产\n                 解决方案，引领光伏产业化高效电池智能化制造。\n                 采用原创设计的高温热场控制技术，真正实现了兼\n                 容磷、硼两种扩散工艺，其中硼扩散工艺又兼容",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F024",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "祝融（ZR）管式\n                              光伏领域 PECVD/PEALD 设备，可用\n  PECVD 系统                                                产业化\n                              于 PERC、XBC、TOPCon、HJT 等技术\nPEALD/PECVD 集                                              应用\n                              路线\n    成系统\n\n\n\n\n                              光伏领域扩散/退火设备，兼容磷、硼两",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_xh",
+    "entity_id": "leadmicro",
+    "category_id": "thermal_furnace",
+    "record_kind": "named_platform_family",
+    "name": "羲和 series",
+    "aliases": [
+      "羲和"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 19,
+      "excerpt": "羲和              BBr3 和 BCl3 两种工艺源。独创的冷却技术可提升\n（XH）             设备与零件的使用寿命，同时缩短了工艺时间，为                产业化\n系列高温             PERC+和 TOPCon 等下一代量产高效电池的提效降           应用\n低压系统             本，提供了全套的主机及先进的工艺解决方案。此\n                 外，羲和系统也提供退火，氧化和低压化学气相沉\n                 （LPCVD）功能。\n                 采用自主知识产权的真空腔内温场和流场设计，实",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic diffusion, anneal and LPCVD furnace; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F009",
+        "source_id": "leadmicro_annual_2023",
+        "page": 19,
+        "excerpt": "羲和              BBr3 和 BCl3 两种工艺源。独创的冷却技术可提升\n（XH）             设备与零件的使用寿命，同时缩短了工艺时间，为                产业化\n系列高温             PERC+和 TOPCon 等下一代量产高效电池的提效降           应用\n低压系统             本，提供了全套的主机及先进的工艺解决方案。此\n                 外，羲和系统也提供退火，氧化和低压化学气相沉\n                 （LPCVD）功能。\n                 采用自主知识产权的真空腔内温场和流场设计，实",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F025",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "羲和（XH）系列                                                  产业化\n                              种扩散工艺，同时提供退火，氧化和\n 高温低压系统                                                    应用\n                              LPCVD 功能\n\n\n\n\n                              光伏领域 ALD 设备，通过制备 Al2O3",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_hy",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "后羿 series",
+    "aliases": [
+      "后羿"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 19,
+      "excerpt": "后羿              现空间型原子层沉积镀膜工艺方式，为钙钛矿薄膜\n（HY）             太阳能电池组件产线提供高质量氧化物功能薄膜\n                                                       产业化\n系列板式             材料，以确保量产组件的高效率和长寿命。面向平\n                                                        验证\nALD 系            米级玻璃衬底，高速镀膜解决方案，适配线型产线\n  统              的生产节拍，集成成熟的上下料自动化方案，为客\n                 户提供可靠的大规模量产解决方案。\n\n                       19 / 241",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic spatial ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F010",
+        "source_id": "leadmicro_annual_2023",
+        "page": 19,
+        "excerpt": "后羿              现空间型原子层沉积镀膜工艺方式，为钙钛矿薄膜\n（HY）             太阳能电池组件产线提供高质量氧化物功能薄膜\n                                                       产业化\n系列板式             材料，以确保量产组件的高效率和长寿命。面向平\n                                                        验证\nALD 系            米级玻璃衬底，高速镀膜解决方案，适配线型产线\n  统              的生产节拍，集成成熟的上下料自动化方案，为客\n                 户提供可靠的大规模量产解决方案。\n\n                       19 / 241",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F027",
+        "source_id": "leadmicro_annual_2025",
+        "page": 15,
+        "excerpt": "后羿（HY）系列                                          产业化\n                            式或反式、单结或叠层的钙钛矿光伏电\n板式 ALD 系统                                          应用\n                            池技术路线\n\n\n\n\n                            光伏领域 PVD 设备，适用于制备钙钛",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_jw",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "精卫 series",
+    "aliases": [
+      "精卫"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 14,
+      "excerpt": "精卫（JW）系列                                                  产业化\n                              钝化膜实现电池切割面钝化，进一步提\n管式边缘钝化系列                                                   验证\n                              高 TOPCon 等高效电池的效率",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化验证",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic edge passivation ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F026",
+        "source_id": "leadmicro_annual_2025",
+        "page": 14,
+        "excerpt": "精卫（JW）系列                                                  产业化\n                              钝化膜实现电池切割面钝化，进一步提\n管式边缘钝化系列                                                   验证\n                              高 TOPCon 等高效电池的效率",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_suir_eva",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pvd",
+    "record_kind": "named_platform_family",
+    "name": "SuiR EVA series",
+    "aliases": [
+      "SuiR EVA"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 15,
+      "excerpt": "SuiR EVA 系列                                      产业化\n                            矿电子传输层、钝化层等功能薄膜，技\n  卧式蒸镀系统                                           验证\n                            术与设备指标达到国内一流水平\n\n\n\n                            光伏领域 PVD 设备，针对钙钛矿太阳",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化验证",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic evaporation; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F028",
+        "source_id": "leadmicro_annual_2025",
+        "page": 15,
+        "excerpt": "SuiR EVA 系列                                      产业化\n                            矿电子传输层、钝化层等功能薄膜，技\n  卧式蒸镀系统                                           验证\n                            术与设备指标达到国内一流水平\n\n\n\n                            光伏领域 PVD 设备，针对钙钛矿太阳",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_suir_ms",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pvd",
+    "record_kind": "named_platform_family",
+    "name": "SuiR MS series",
+    "aliases": [
+      "SuiR MS"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2025",
+      "page": 15,
+      "excerpt": "SuiR MS 系列                 能电池器件开发的空穴传输层制备工      产业化\n立式磁控溅射系统                    艺，也可用于钝化层、电极层的制备工      验证\n                            艺，技术与设备指标达到国内一流水平\n\n  （3）其他新兴应用领域主要产品\n                                                  产业化\n   产品系列         产品图示                简介\n                                                  阶段\n\n\n                            柔性电子领域卷对卷 ALD 镀膜平台，",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化验证",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "photovoltaic magnetron sputtering; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-F029",
+        "source_id": "leadmicro_annual_2025",
+        "page": 15,
+        "excerpt": "SuiR MS 系列                 能电池器件开发的空穴传输层制备工      产业化\n立式磁控溅射系统                    艺，也可用于钝化层、电极层的制备工      验证\n                            艺，技术与设备指标达到国内一流水平\n\n  （3）其他新兴应用领域主要产品\n                                                  产业化\n   产品系列         产品图示                简介\n                                                  阶段\n\n\n                            柔性电子领域卷对卷 ALD 镀膜平台，",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化验证",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_isparol",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "iSparol series",
+    "aliases": [
+      "iSparol"
+    ],
+    "evidence": {
+      "source_id": "leadmicro_annual_2023",
+      "page": 20,
+      "excerpt": "iSparol 系               层沉积镀膜平台。其中平台集成超大型平面原\n                                                产业化\n 列 卷对卷                   子层沉积(ALD)系统，并开发满足产业化量产\n                                                 应用\n ALD 系统                  的成熟工艺材料体系，实现在超大宽幅柔性基\n                         材上制备高阻隔膜的整体解决方案。经过多年\n                         产业化验证和装备升级已经迭代到二代产品。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_table_产业化应用",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "flexible-electronics roll-to-roll ALD; a source-named family, with overlapping generic family records not an additional counted tool.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2023-F011",
+        "source_id": "leadmicro_annual_2023",
+        "page": 20,
+        "excerpt": "iSparol 系               层沉积镀膜平台。其中平台集成超大型平面原\n                                                产业化\n 列 卷对卷                   子层沉积(ALD)系统，并开发满足产业化量产\n                                                 应用\n ALD 系统                  的成熟工艺材料体系，实现在超大宽幅柔性基\n                         材上制备高阻隔膜的整体解决方案。经过多年\n                         产业化验证和装备升级已经迭代到二代产品。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2025-F030",
+        "source_id": "leadmicro_annual_2025",
+        "page": 15,
+        "excerpt": "iSparol 系列                                       产业化\n                            适配于大面积柔性衬底实现连续卷对\n卷对卷 ALD 系统                                         应用\n                            卷镀膜",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_table_产业化应用",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Source table stage only. Industrial application means realized sale; validation means signed contract under performance; development means prototype/sample validation. No unit count, installation or completed qualification inferred."
+      },
+      {
+        "claim_id": "LEADMICRO-2023-Q018",
+        "source_id": "leadmicro_annual_2023",
+        "page": 30,
+        "excerpt": "iSparol 系列卷对卷产品已经出货国内知名 FPD 面板制造商。\n  （3）新增“薄膜封装技术”\n  随着业态的发展，在高质量薄膜制造工艺方面，公司逐渐生成“薄膜",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "iSparol domestic FPD shipment",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "notes": "Pending first-party narrative; preserve source wording, stage and event dates. Do not infer model units, completed validation or installed base."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_source_native_highk_gate_oxide_ald",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "Unnamed High-k gate-oxide ALD equipment",
+    "aliases": [
+      "High-k ALD 设备"
+    ],
+    "evidence": {
+      "claim_id": "LEADMICRO-2025-Q038-NODE",
+      "source_id": "leadmicro_annual_2025",
+      "page": 62,
+      "excerpt": "在半导体领域，公司开发的国内首台成功应用于前道生产线的量产型 High-k ALD 设备，解决\n了国内集成电路突破 28nm 制程节点关键工艺难题—高介电常数（High-k）栅氧层薄膜工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "process_node": "28nm",
+      "process_node_context": "高介电常数（High-k）栅氧层薄膜工艺"
+    },
+    "reported_maturity": "company_claim_of_highk_gate_oxide_process_breakthrough_and_frontend_line_application",
+    "maturity_as_reported_in": "leadmicro_annual_2025",
+    "notes": "Unnamed High-k ALD equipment in this passage. The node qualifies the gate-oxide process claim only, not all ALD equipment or any revenue/shipment population. Do not count as an additional distinct commercial model.",
+    "maturity_history": [
+      {
+        "claim_id": "LEADMICRO-2025-Q038-NODE",
+        "source_id": "leadmicro_annual_2025",
+        "page": 62,
+        "excerpt": "在半导体领域，公司开发的国内首台成功应用于前道生产线的量产型 High-k ALD 设备，解决\n了国内集成电路突破 28nm 制程节点关键工艺难题—高介电常数（High-k）栅氧层薄膜工艺。",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "process_node": "28nm",
+        "process_node_context": "高介电常数（High-k）栅氧层薄膜工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_claim_of_highk_gate_oxide_process_breakthrough_and_frontend_line_application",
+        "claim_kind": "company_reported",
+        "notes": "Unnamed High-k ALD equipment in this passage. The node qualifies the gate-oxide process claim only, not all ALD equipment or any revenue/shipment population. Do not count as an additional distinct commercial model."
+      }
+    ]
+  },
+  {
+    "platform_id": "leadmicro_imagtron",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_pvd",
+    "record_kind": "named_platform_family",
+    "name": "iMagtron series",
+    "aliases": [
+      "iMagtron 系列磁控溅射设备"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-q3-2026-imagtron-two-tools",
+      "source_id": "leadmicro_q3_2026",
+      "page": 6,
+      "excerpt": "PVD 方面，公司已发布两款 iMagtron 系列磁控溅射设备，分别为后道铜阻挡层/种子层集成工艺系统与金属硬掩模工艺系统，面向集成电路制造后道金属互连的工艺需求。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "released_two_models_no_shipment_stated",
+    "maturity_as_reported_in": "leadmicro_q3_2026",
+    "notes": "First PVD product line for integrated circuits in the Atlas for Leadmicro; SuiR series are PV. The source says 取得突破进展 for core processes; nothing on orders or customers.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "leadmicro_itronix_pes",
+    "entity_id": "leadmicro",
+    "category_id": "deposition_cvd",
+    "record_kind": "named_platform_family",
+    "name": "iTronix PES series",
+    "aliases": [
+      "iTronix PES 系列"
+    ],
+    "evidence": {
+      "claim_id": "leadmicro-placement-2026-pes-orders",
+      "source_id": "leadmicro_placement_plan_20261012",
+      "page": 26,
+      "excerpt": "iTomic SPX、iTronix PES 系列设备也已取得重要客户订单并进入产业化验证阶段。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "important_customer_orders_and_industrial_validation_stage",
+    "maturity_as_reported_in": "leadmicro_placement_plan_20261012",
+    "notes": "Filed at deposition_cvd because the plan treats PES under its CVD upgrades (p23-24) without stating the film or chamber type. Candidates were deposition_pecvd and deposition_cvd; the broader node wins until a table row states it.",
+    "maturity_history": []
+  }
+]

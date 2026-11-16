@@ -1,0 +1,294 @@
+[
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-product_definitions",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Named catalogues, model and project families have canonical source-vintage histories. Generic source-native families are not distinct model counts; uncertain cross-report identities remain held. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Preserve held model/family identities; reopen only when another original resolves the identity or a new registered source appears."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-shipments_installations",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Cumulative shipments and installations, preserving equipment units across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "FY2025 p24 cumulative equipment shipments are already canonical. FY2023/24 first deliveries, repeat orders and project stages remain qualitative; units 台套 are not chamber counts or installed-line counts. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Retain source-defined 台套 and first-delivery wording; do not treat purchase orders as installations."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-product_volumes",
+    "entity_id": "jingce",
+    "status": "unresolved",
+    "scope": "All sibling per-product production, sales and inventory rows across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "All 435 populated monetary sales/cost/margin/share/growth table cells resolve to 366 accepted observations plus 69 exact aliases. The separate physical production/sales/inventory grids use mixed 台、套、片 and remain held; no unit conversion or zero is inferred. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Resolve each mixed 台、套、片 physical grid row's homogeneous population before any physical-volume observation; monetary cells are complete."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-orders_backlog",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Orders and backlog, tax and conditional status across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Backlog and signed-contract disclosures have source-exact canonical records. Disclosure-date backlog is not annual revenue; signed contracts are not necessarily backlog. The USD 19,890,000 contract is held for exact time/scope and same-economic-event review against the approximate CNY counterpart, not because USD cannot be a monetary observation. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Review USD 19,890,000 source time/scope and possible duplication with approximate CNY same-deal value; USD denomination itself is not a mapping barrier."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-customers",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Customer counts and named customers without identity inference across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Named semiconductor/display/battery relationships are accepted original-located source-native company claims. Anonymous top-five rank is not a stable named identity, but each annual table's 13 amounts/shares is valid numeric evidence pending separate mapping. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Map 39 original-located annual top-five customer sales/share cells with period-specific anonymous ranks; retain named relationship rosters without rank-to-name or unique-customer inference."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-qualification_validation",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Accepted source-vintage platform histories retain client testing, validation, delivery and mass-production wording at the stated group/model level. Identity and scope holds remain explicit. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Reopen held project/model stage assignments only with source-specific identity proof; preserve historical vintages."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-production_capacity",
+    "entity_id": "jingce",
+    "status": "unresolved",
+    "scope": "Actual versus planned capacity across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Originals describe production bases, construction, customer lines and R&D work; no supported numerical Jingce factory equipment-output capacity is established. FY2025 湖北星辰's future mass-production-line construction is not current installed capacity. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Seek source-defined actual factory equipment-output capacity in a newly registered original; retain qualitative construction separately."
+  },
+  {
+    "coverage_id": "jingce-operational-sweep-20260923-process_nodes",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across jingce_annual_2023, jingce_annual_2024, jingce_annual_2025",
+    "reviewed_source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Only product/capability-paired process-node claims are attached to platform histories; broad 1xnm company wording and nearby 12-inch wafer diameter are not inherited by every model or financial row. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Do not inherit broad company nodes, wafer diameters or neighboring project claims; preserve paired platform claims."
+  },
+  {
+    "coverage_id": "jingce_2024_2025_overlay_geometry_gap_check",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "Semiconductor overlay/alignment metrology equipment claim in the named FY2024/FY2025 product sections",
+    "reviewed_source_ids": [
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "notes": "Original-text term search and product-section review: FY2024 physical pp16/20/23/29/30 and FY2025 pp11/12/13/21/24/25/31/32. No semiconductor overlay-equipment claim found. Battery stacking/alignment terminology is unrelated. Existing jingce_tg_wafer_geometry_family and jingce_source_native_wafer_stress describe wafer geometry/stress and remain valid; they do not establish overlay capability. FY2025 p25 batch shipments and wafer-maker delivery/acceptance are already in TG maturity history. Independent original review confirmed no new platform or numeric claim from this bounded pass.",
+    "next_action": "Reopen overlay only for a new original or specific located passage; retain geometry evidence under its existing category."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-named_equipment",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "named_equipment in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "Existing families; JH5520 launch p6",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-cumulative_shipments_installations",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments_installations in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "reviewed_not_found vendor tool fleet in full 12-page original",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-per_product_volumes",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "per_product_volumes in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "reviewed_not_found system-unit table",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-orders_backlog",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "orders_backlog in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "p6 disclosure-date segment backlog; no model orders",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-customers",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "customers in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "no named semiconductor customer/count",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-qualification",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "qualification in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "p6 some film/OCD/e-beam 7nm accepted, more advanced verifying",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-capacity",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "capacity in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "reviewed_not_found tools/year or utilization",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_q1_2026-operational-nodes_HBM",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "nodes_HBM in jingce_q1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_q1_2026"
+    ],
+    "notes": "JH5520 HBM BI launched, no HBM qualification or installed base",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-named_equipment",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "named_equipment in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "pp10-15 existing semiconductor roster; no new identity",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-cumulative_shipments_installations",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments_installations in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "reviewed_not_found refreshed numeric tool fleet; FY2025 cumulative counts remain prior evidence",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-per_product_volumes",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "per_product_volumes in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "reviewed_not_found counts; qualitative batch/few shipments p20-21",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-orders_backlog",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "orders_backlog in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "p18-19 disclosure-date business backlog; p20 BFI 14nm new order and below-28nm share; p21 UFS FT first leading-customer order; p65-66 major contracts: Shanghai Jingce 515,905,342 CNY same-counterparty multi-contract cumulative film/OCD/e-beam advanced-memory basket (2025-12-12 to 2026-05-29) and separate 135,000,000 CNY brightfield sales contract. Do not add rolling totals to individual contracts or equate contract face values to backlog.",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-customers",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "customers in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "p24 four company relationships, no model bridge or count",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-qualification",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "qualification in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "p20 distinct node and FIB mode stages; p21 generic memory and packaging inspection",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-capacity",
+    "entity_id": "jingce",
+    "status": "reviewed_not_found",
+    "scope": "capacity in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "p24 production bases qualitative only, no tools/year or utilization",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  },
+  {
+    "coverage_id": "jingce_h1_2026-operational-nodes_HBM",
+    "entity_id": "jingce",
+    "status": "reviewed_found",
+    "scope": "nodes_HBM in jingce_h1_2026, source-bounded operational review",
+    "reviewed_source_ids": [
+      "jingce_h1_2026"
+    ],
+    "notes": "some 7nm accepted, eMetric 1Xnm delivered, BFI14nm delivered, Vega28nm development; JH5520 package BI without HBM qualification",
+    "next_action": "Retain this source-specific disposition; numeric leads remain pending original and metric review. Reopen on a new source or specific located passage."
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "series_id": "wave3_secote_10",
+    "version": 1,
+    "title": "secote: company / revenue",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "SECOTE2023-CR",
+      "SECOTE2024-CR",
+      "SECOTE2025-CR"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  },
+  {
+    "series_id": "wave3_secote_11",
+    "version": 1,
+    "title": "secote: secote_semiconductor_business / revenue",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "SECOTE2023-SEMI-REV",
+      "SECOTE2024-SEMI-REV",
+      "SECOTE2025-SEMI-REV"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  },
+  {
+    "series_id": "wave3_secote_13",
+    "version": 1,
+    "title": "secote: secote_semiconductor_business / cost_of_revenue",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "SECOTE2023-SEMI-COST",
+      "SECOTE2024-SEMI-COST",
+      "SECOTE2025-SEMI-COST"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  },
+  {
+    "series_id": "wave3_secote_14",
+    "version": 1,
+    "title": "secote: secote_semiconductor_business / gross_margin",
+    "mode": "comparable",
+    "definition": "Original-verified source-native measurements with explicit scope, period and dimensions.",
+    "observation_ids": [
+      "SECOTE2023-SEMI-GM",
+      "SECOTE2024-SEMI-GM",
+      "SECOTE2025-SEMI-GM"
+    ],
+    "limitations": "Do not equate semiconductor business with pure M&I or HBM. Parent/subsidiary rows overlap; backlog is a stock, not new orders or realized revenue."
+  }
+]

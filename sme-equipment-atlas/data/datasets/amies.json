@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "amies_disclosures",
+    "title": "AMIES public product/company pages and company-sourced press",
+    "kind": "company_filings",
+    "publisher": "amies",
+    "version": "2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; originals held locally. AMIES files no prospectus or periodic report of its own; this dataset covers its public website and company-sourced press relays only.",
+    "market_definitions": {}
+  }
+]

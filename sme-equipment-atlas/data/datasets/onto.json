@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "onto_disclosures",
+    "title": "Onto Innovation Inc. SEC EDGAR annual reports on Form 10-K",
+    "kind": "company_filings",
+    "publisher": "onto",
+    "version": "w11-foreign-incumbent-intake-2026-10-02",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages only; original EDGAR HTML filings held locally under the maintainer's local archive (not distributed): Financial reports/Onto filings/, downloaded directly from SEC EDGAR (www.sec.gov/Archives/edgar/data/704532/) with a descriptive User-Agent, sha256-hashed locally. Both are the full Form 10-K annual report as filed (HTML, not PDF): onto_10k_fy2025.htm (filed 2026-02-24, covers fiscal years 2025/2024/2023) and onto_10k_fy2023.htm (filed 2024-02-26, covers fiscal years 2023/2022/2021), registered locator_kind html with page_count 1 per the atlas's established HTML pattern (see data/sources/smee.json) -- the automated check-pages page check does not reach HTML sources, so every row's excerpt was read and transcribed directly against the live downloaded file. IMPORTANT FISCAL-YEAR FINDING: through fiscal 2025 Onto Innovation operated on a 52/53-week fiscal year ending on the Saturday closest to 31 December, NOT a literal 31 December year-end -- confirmed in both filings ('Fiscal Year' notes). Exact fiscal-year dates used in this packet's periods: FY2021 2020-12-27 to 2022-01-01 (53 weeks); FY2022 2022-01-02 to 2022-12-31 (52 weeks); FY2023 2023-01-01 to 2023-12-30 (52 weeks); FY2024 2023-12-31 to 2024-12-28 (52 weeks); FY2025 2024-12-29 to 2026-01-03 (53 weeks). On 2026-02-18 Onto's board changed the fiscal year-end prospectively to a true 31 December calendar year beginning with the fiscal year ending 2026-12-31; that change does not affect any period registered here, all of which predate it.",
+    "market_definitions": {}
+  }
+]

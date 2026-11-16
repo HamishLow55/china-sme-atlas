@@ -1,0 +1,38 @@
+[
+  {
+    "link_id": "guangli_3330_advanced_packaging_ir_20260712",
+    "claim_id": "GUANGLI-3330-ADVANCED-PACKAGING-IR-20260712",
+    "entity_id": "guangli",
+    "category_id": "thinning",
+    "platform_id": "guangli_3330",
+    "application_id": "advanced_packaging",
+    "source_id": "guangli_ir_20260712",
+    "page": 2,
+    "excerpt": "全自动研磨抛光一体机可以实现晶圆的背面研磨和抛光加工，可用于 12 寸超薄晶圆减薄、抛光加工，适配 SDBG、DBG 等工艺；可满足 2.5D/3DIC、Chiplet 等先进封装工艺的晶圆背面研磨、应力消除等。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "A purpose statement for a tool still in R&D prototype functional test. 可满足 is a capability claim, not use.",
+    "notes": "Combined grinding and polishing tool, identified as 3330 in guangli_h1_2026 p15 and p26. It belongs at thinning under the current combined-tool definition. Integration must move the existing guangli_3330 platform and all affected dependent records consistently; the link category cannot be changed in isolation."
+  },
+  {
+    "link_id": "guangli_3230_advanced_packaging_ir_20260712",
+    "claim_id": "GUANGLI-3230-ADVANCED-PACKAGING-IR-20260712",
+    "entity_id": "guangli",
+    "category_id": "thinning_grinding",
+    "platform_id": "guangli_3230",
+    "application_id": "advanced_packaging",
+    "source_id": "guangli_ir_20260712",
+    "page": 2,
+    "excerpt": "公司的全自动晶圆研磨机设备可用于 6/8/12 英寸硅、碳化硅等晶圆的研磨减薄工艺，晶圆级 Fan-out（扇出）研磨工艺等",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "A use statement for a tool at customer validation. Fan-out is named; 2.5D/3DIC is claimed only for the grind-polish tool in the next clause, not for this grinder.",
+    "notes": ""
+  }
+]

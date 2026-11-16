@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "asmpt",
+    "name": "ASMPT Limited",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "ASMPT",
+      "ASM Pacific Technology",
+      "ASM Pacific Technology Limited",
+      "00522",
+      "0522.HK"
+    ],
+    "evidence": {
+      "source_id": "asmpt_annual_2025",
+      "page": 1,
+      "excerpt": "ASMPT LIMITED Annual Report 2025",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. ASMPT is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Incorporated in the Cayman Islands, headquartered in Singapore and listed on the Hong Kong Stock Exchange under code 00522; formerly ASM Pacific Technology Limited. It is here because it is the incumbent against which Chinese thermo-compression bonding capability is measured: ASMPT describes itself as the current TCB market leader and reports advanced-packaging revenue separately, which makes it the one comparator in this step with a published number rather than an analyst estimate. Reporting currency is the Hong Kong dollar for statutory figures and the US dollar in management discussion; both are recorded as printed and never converted. Financial year ends 31 December, so periods line up with the Chinese issuers in the atlas without the fiscal-year offset that the Japanese comparators carry. Note the segment boundary: roughly half of group revenue is Surface Mount Technology, which is electronics assembly rather than semiconductor equipment.\n\nNO CHINESE NAME IS CLAIMED for ASMPT Limited itself: none of the three registered filings gives one, and an earlier version of this record carried a fabricated Chinese alias that appears nowhere in any of them. It has been removed. What the filings DO name are PRC subsidiaries, which are not aliases of the parent and must never be matched as such: 先進半導體設備（深圳）有限公司 (ASMPT Equipment (Shenzhen) Co., US$47,835,000, manufacture of semiconductor equipment), 奧芯明半導體設備技術（上海）有限公司 (ASMPT SEMI Equipment (Shanghai) Co., RMB714,000,000, research and development), 先域微電子技術服務（上海）有限公司 (ASMPT SEMI China Ltd., RMB724,000,000, trading) and 奧芯明半導體貿易（上海）有限公司 (ASMPT SEMI Trading (Shanghai) Co., RMB1,000,000, trading), all wholly owned per the FY2025 subsidiary schedule. That the TCB incumbent manufactures equipment in Shenzhen and runs a wholly-owned Shanghai R&D company capitalised at RMB714m is material context for any indigenisation argument and is recorded here rather than inferred later."
+  }
+]

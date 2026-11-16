@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "besi",
+    "name": "BE Semiconductor Industries N.V.",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "Besi",
+      "BE Semiconductor Industries",
+      "BESI",
+      "BESIY"
+    ],
+    "evidence": {
+      "source_id": "besi_annual_2025",
+      "page": 8,
+      "excerpt": "Besi was incorporated under the laws of the Netherlands in May 1995 and had an initial public offering in December 1995. Our ordinary shares are listed on Euronext Amsterdam (symbol: BESI) and are included in the Euronext AEX Index. Our level 1 ADRs trade on the OTC markets (symbol: BESIY).",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. Besi is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Incorporated under the laws of the Netherlands in May 1995 (statutory seat Amsterdam, Chamber of Commerce number 09092395), headquartered in Duiven, the Netherlands, with principal operations also in Switzerland, Austria, Singapore, Malaysia, China and Vietnam. Listed on Euronext Amsterdam (symbol: BESI) and included in the Euronext AEX Index since its December 1995 IPO; Level 1 ADRs trade OTC under BESIY. Financial year ends 31 December, so periods line up with the Chinese issuers in the atlas without the fiscal-year offset the Japanese comparators carry. Reporting currency is the euro (EUR, EUR_thousand and EUR_million all used, taken from the cell/table actually cited, never converted between scales or into another currency); Besi also quotes US dollars in its advanced-packaging-market management discussion in some filings, recorded as printed where cited. It is here because it is the hybrid-bonding incumbent: the path HBM4 and beyond are expected to take, and the comparator against which the atlas's Chinese hybrid-bonding entries (Piotech and Maxwell, at bonding_hybrid_w2w and bonding_hybrid_d2w) are measured. Besi discloses NO hybrid-bonding-specific REVENUE anywhere in the four annual reports reviewed (FY2022-FY2025): hybrid bonding revenue is bundled, unsplit, inside the company's 'Die Attach' operating/product-group line alongside TCB, flip chip, conventional die bonding and fan-out WLP. What it does disclose, at the operating-milestone level, are cumulative hybrid-bonding order counts (150+ systems since 2021, FY2025), cumulative installed-system counts (130+, FY2025) and adopting-customer counts (18, FY2025) -- see this entity's observations. NO CHINESE NAME IS CLAIMED for Besi: none of the four filings reviewed (all English-language, Dutch-issuer disclosures) gives one."
+  }
+]

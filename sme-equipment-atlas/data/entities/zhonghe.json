@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "zhonghe",
+    "name": "Zhonghe",
+    "aliases": [
+      "安徽众合半导体科技有限公司",
+      "众合半导体",
+      "Zhonghe Semiconductor"
+    ],
+    "parent_entity_id": "sanjia",
+    "evidence": {
+      "source_id": "sanjia_zhonghe_acquisition_2025",
+      "page": 6,
+      "excerpt": "（二）标的公司基本情况 名称：安徽众合半导体科技有限公司 类型：有限责任公司 统一社会信用代码：91340111MA8P6RNH6F 注册地址：安徽省合肥市经济技术开发区青龙潭路3435号",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Verified from Sanjia's own acquisition announcement (sanjia_zhonghe_acquisition_2025, physical p6): legal name 安徽众合半导体科技有限公司, an unlisted limited-liability company registered in Hefei, Anhui, founded 2022-06-28 (p7/p8 of the same announcement; run by former Anhui Dahua Semiconductor general manager 纵雷 since). Not itself listed; no own filings found (cninfo full-text search, 2026-10-01: zero results for 众合半导体 or 安徽众合半导体科技有限公司). MAIN BUSINESS, in the acquiring issuer's own words (p8): '标的公司主营半导体封装设备（自动塑封机、自动切筋机）及配套模具' -- automatic transfer-molding machines (120/180/200-ton), automatic trim-and-form machines, and supporting molds; a single-segment semiconductor packaging-equipment maker, unlike its two listed peers. Sanjia bought 51% for CNY 121.38m, completing in 2025; consolidated into Sanjia's financial statements from August 2025 (sanjia_annual_2025 p25/p26). parent_entity_id set to sanjia per the same convention as kingsemi->naura after majority-control consolidation (data/entities/kingsemi.json).\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Zhonghe Semiconductor'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

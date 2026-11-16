@@ -1,0 +1,53 @@
+[
+  {
+    "link_id": "jinhaitong_rigel_hbm_thermal_2026",
+    "claim_id": "JINHAITONG_RIGEL_HBM_THERMAL_2026",
+    "entity_id": "jinhaitong",
+    "category_id": "test_prober_handler",
+    "platform_id": "jinhaitong_rigel",
+    "application_id": "hbm",
+    "source_id": "jinhaitong_inquiry_reply_20260916",
+    "page": 30,
+    "excerpt": "RIGEL 系列及 EIGER 系列可应用于 AI、HBM 等有温控需求的高端芯片测试场景。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Capability statement only. 可应用于 is what the product could serve, and RIGEL is a prototype in customer validation that targets lab test, not volume. No HBM customer, shipment or qualification. The sentence starts at the foot of physical p29; the word HBM is the first line of p30."
+  },
+  {
+    "link_id": "jinhaitong_exceed_9000_hbm_market_2026",
+    "claim_id": "JINHAITONG_EXCEED_9000_HBM_MARKET_2026",
+    "entity_id": "jinhaitong",
+    "category_id": "test_prober_handler",
+    "platform_id": "jinhaitong_exceed_9000",
+    "application_id": "hbm",
+    "source_id": "jinhaitong_inquiry_reply_20260916",
+    "page": 57,
+    "excerpt": "产品系列：EXCEED-9000 系列（EXCEED-9032 系列、EXCEED-9800 系列）；供需格局：针对 AI 芯片、HBM、车规芯片等高端市场需求，下游需求旺盛，报告期内整体呈现高速增长的趋势",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Market-purpose wording in a merged cell spanning both sub-series, read on the rendered page. The EXCEED-9000 validation and batch-supply claim elsewhere is not tied to HBM, and these handlers are general package-test tools. Not a qualification or production claim. Its H1 2026 share of main-business revenue fell to 26.06% from 39.10% in FY2025."
+  },
+  {
+    "link_id": "jinhaitong_advanced_packaging_ai_thermal_2026",
+    "claim_id": "JINHAITONG_ADVANCED_PACKAGING_AI_THERMAL_2026",
+    "entity_id": "jinhaitong",
+    "category_id": "test_prober_handler",
+    "platform_id": "",
+    "application_id": "advanced_packaging",
+    "source_id": "jinhaitong_inquiry_reply_20260916",
+    "page": 10,
+    "excerpt": "研发课题/项目：AI 芯片温度控制研发；技术储备：已满足当前先进封装芯片的高功率测试需求，已批量出货",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Thermal-control function for high-power chips in advanced packages. 已批量出货 is shipment, not stated production use, so the tier stays at capability. Advanced packaging here means package type of the device under test, not a packaging step. Not HBM."
+  }
+]

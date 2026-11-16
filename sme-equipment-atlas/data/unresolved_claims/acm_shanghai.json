@@ -1,0 +1,130 @@
+[
+  {
+    "claim": "8.2% global ECP share and >30% China single-wafer cleaning share",
+    "source_id": "acm_shanghai_h1_2025",
+    "page": 18,
+    "reason": "Company repeats external market estimate but measurement year and denominator/methodology absent. Register as unresolved lead, not usable share series.",
+    "claim_id": "tsv-hold-2"
+  },
+  {
+    "claim": "H1 2026 ECP-only, TSV-only, or equipment-product revenue",
+    "source_id": "acm_shanghai_h1_2026",
+    "pages_reviewed": [
+      9,
+      35,
+      153,
+      191
+    ],
+    "reason": "The filing discloses consolidated total and main-business revenue, plus geography and transfer-timing splits, but no reviewed product-category revenue split. Do not allocate company/main-business revenue to ECP or TSV.",
+    "claim_id": "wave1-acm-hold-1"
+  },
+  {
+    "claim": "ECP project planned total investment as a new H1 observation",
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "pages_reviewed": [
+      28,
+      29
+    ],
+    "reason": "11.41亿元 is unchanged from the existing FY2025 observation ACMS2025-ECP-RDP. Omitted to avoid a duplicate value/vintage row; H1 source can serve as a confirming source if the integrator models confirmations.",
+    "claim_id": "wave1-acm-hold-2"
+  },
+  {
+    "claim": "Panel ECP mass-production adoption count",
+    "source_id": "acm_shanghai_h1_2026",
+    "page": 29,
+    "reason": "The phrase '通过国内大量产客户产线工艺验证' means validation on a domestic mass-production customer line; 大量产 modifies the customer/line context, not a disclosed large customer count. No numeric adoption observation created.",
+    "claim_id": "wave1-acm-hold-3"
+  },
+  {
+    "claim": "ECP global market share 9.6%",
+    "source_id": "acm_shanghai_h1_2026",
+    "page": 20,
+    "reason": "Company attributes the figure to Gartner, but denominator, exact measurement period, and underlying Gartner original were not available in this bounded local source set. Retained as a lead, not an observation.",
+    "claim_id": "wave1-acm-hold-4"
+  },
+  {
+    "claim": "Ultra ECP 3d application/platform duplicate",
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "pages_reviewed": [
+      15
+    ],
+    "reason": "FY2025 platform and TSV application are already canonical. H1 2026 repeats the same capability narrative without a distinct quantitative milestone, so no duplicate platform or application-link proposal was made.",
+    "claim_id": "wave1-acm-hold-5"
+  },
+  {
+    "claim_id": "wave1-acm-2000-chambers",
+    "source_id": "acm_shanghai_h1_2026",
+    "page": 20,
+    "claim": "报告期内，公司ECP设备2000电镀腔完成交付",
+    "reason": "Original does not explicitly say 第2000 or 累计. Period deliveries versus cumulative milestone remains unresolved; proposed cumulative numeric row held. Do not infer TSV-only count, systems, accepted sales or installed base."
+  },
+  {
+    "claim_id": "ACMS-HOLD-PEALD-TWO-FABS-H12025",
+    "claim": "found_numeric_customer_or_fab_entry_count_held_for_metric_scope_review",
+    "reason": "PEALD furnaces entered two Chinese IC wafer manufacturers/fabs while being optimized for production. This counts neither systems nor accepted installations, and the broader furnace group's production stage does not apply.",
+    "next_action": "Independent native quantity review and exact customer/fab-count metric/scope mapping; retain Chinese unit 家 and interim source context.",
+    "review_record": "docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json",
+    "source_id": "acm_shanghai_h1_2025",
+    "source_excerpt": "其中等离子\n体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂，正在做更新优化和为量产准备。",
+    "page": 14,
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution": "Source-native two manufacturer-or-fab entry count integrated; corporate-customer/site identity remains unresolved, and no tool count or acceptance is inferred.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_acm_shanghai_technical_capture.json"
+  },
+  {
+    "claim_id": "ACMS-HOLD-TECHNICAL-NUMERICS",
+    "claim": "found_numeric_technical_claims_held_no_compatible_metric_or_unit",
+    "reason": "50 wafers/batch, 300 and >200 wafers/hour and 28/40nm source-bound capabilities are technical tool/project measures, not firm factory tools/year output; platform node annotations preserve only expressly paired claims.",
+    "next_action": "Map only after compatible generic metric/unit definitions and source-bound scope review; do not treat them as absent or attach to product revenue.",
+    "review_record": "docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json",
+    "source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "native_candidate_ids": [
+      "ACMS-N052",
+      "ACMS-N053",
+      "ACMS-N054",
+      "ACMS-N055",
+      "ACMS-N056",
+      "ACMS-N057",
+      "ACMS-N058",
+      "ACMS-N059",
+      "ACMS-N060",
+      "ACMS-N061",
+      "ACMS-N062",
+      "ACMS-N063",
+      "ACMS-N064"
+    ],
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution": "Four technical/customer observations integrated; nine source-bound node claims resolve to existing platform histories and one KrF later-source statement is an alias. No factory output conversion.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_acm_shanghai_technical_capture.json"
+  },
+  {
+    "claim_id": "ACMS-HOLD-RD-NODE-TABLE-ROW-BINDING",
+    "claim": "found_project_table_node_claims_held_for_row_binding",
+    "reason": "R&D project-table targets/stages contain adjacent node text; no generic revenue or platform subtype inherits a numeric node without reconstructing each row and its project identity.",
+    "next_action": "Independently inspect rendered project-table grid and preserve row-specific stage/target before any mapping.",
+    "review_record": "docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json",
+    "source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "qualitative_route_ids": [
+      "ACMS-Q014",
+      "ACMS-Q015",
+      "ACMS-Q041",
+      "ACMS-Q042"
+    ],
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution": "Eight R&D rows visually reconstructed across four original pages. Target columns retained as project goals; no transfer to named-product achieved node capability.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_acm_shanghai_technical_capture.json"
+  }
+]

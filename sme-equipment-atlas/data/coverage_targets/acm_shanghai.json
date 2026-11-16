@@ -1,0 +1,264 @@
+[
+  {
+    "target_id": "tsv_local-44",
+    "task_id": "tsv_local",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_project_rd_spending",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_2025"
+    ],
+    "observation_ids": [
+      "ACMS2025-ECP-RDC"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-45",
+    "task_id": "tsv_local",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025"
+    ],
+    "observation_ids": [
+      "ACMS2025H1-ECP-DELIVERIES"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-46",
+    "task_id": "tsv_local",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "planned_project_rd_investment",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_2025"
+    ],
+    "observation_ids": [
+      "ACMS2025-ECP-RDP"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-47",
+    "task_id": "tsv_local",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "project_rd_spending",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_2025"
+    ],
+    "observation_ids": [
+      "ACMS2025-ECP-RD"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-1",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2025H1-TOT-REV-COMP",
+      "ACMS2026H1-TOT-REV"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-2",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "acm_shanghai_main_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2025H1-MAIN-REV-COMP",
+      "ACMS2026H1-MAIN-REV"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-3",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2025H1-RD-INV-COMP",
+      "ACMS2026H1-RD-INV"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-4",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "project_rd_spending",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2026H1-ECP-RD"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-5",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_project_rd_spending",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2026H1-ECP-RDC"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-6",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "mainland_china"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2026H1-CN-REV"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-7",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "outside_mainland_china"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [
+      "ACMS2026H1-EXCN-REV"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_acm_h1_2026-category-revenue-gap",
+    "task_id": "wave1_acm_h1_2026",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "reporting_scope_id": "acm_ecp_all",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No CMP-only/ECP-only revenue found in reviewed consolidated notes; do not allocate company revenue."
+  }
+]

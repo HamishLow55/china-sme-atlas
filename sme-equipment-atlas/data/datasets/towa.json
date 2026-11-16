@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "towa_disclosures",
+    "title": "TOWA Corporation IR disclosures (English)",
+    "kind": "company_filings",
+    "publisher": "towa",
+    "version": "w8-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/TOWA filings/. IMPORTANT UNIT-SCHEMA GAP found during this intake: TOWA's formal 'Information on net sales, profit or loss...by reportable segment' note tables in the FY2024 and FY2025 Annual Securities Reports, and the equivalent table in both Kessan Tanshin, are denominated in THOUSANDS of yen (e.g. '48,959,043'). The atlas's x-atlas-units table has no 'JPY_thousand' entry (only JPY, JPY_million and JPY_100m), so a thousands-of-yen token can only be registered as a native JPY (base, scale 1) excerpt-matched value -- which would misstate the true magnitude by a factor of 1000 if simply copied -- or left unregistered. This packet works around the gap by sourcing revenue from each filing's own narrative prose and/or the FY2023 excerpt's whole-millions-of-yen note tables, which match an allowed unit (JPY_million) exactly with no scale arithmetic. The precise thousands-of-yen figures remain in this dataset's filings but are not independently registered as observations; see per-observation notes for the more precise figure where found. The same JPY-unit gap blocks registering TOWA's segment operating profit, R&D expense, production value and order/backlog value under the non-revenue metrics that would otherwise fit them (operating_profit, rd_expense, rd_investment, reported_production_amount, new_orders, order_backlog), none of which have JPY/JPY_million/JPY_100m in their declared metrics.json unit lists -- only the revenue metric does. Those figures are held, not registered; see the handback report.",
+    "market_definitions": {}
+  }
+]

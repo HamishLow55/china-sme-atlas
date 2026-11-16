@@ -1,0 +1,152 @@
+[
+  {
+    "reporting_scope_id": "leuven_ion_beam_equipment",
+    "category_id": "multi_equipment",
+    "label": "Leuven 离子束设备 product line",
+    "definition": "Issuer product line 离子束设备 across FY2023-FY2025. The issuer defines it as ion-beam-shaping centred, and it contains BOTH material-removal ion-beam tools (12-inch Pangea ion-beam shaping, the LMEC-300 emerging-memory platform, 8-inch Lorem) AND the 8-inch Ganister ion-beam DEPOSITION (IBD) family. It therefore spans ion_beam_etch_milling and deposition_ion_beam and must not be read as an ion-beam-etch-only figure. Sales and production are counted in process chambers (腔), which the issuer states are the separately priced functional units, not whole systems."
+  },
+  {
+    "reporting_scope_id": "leuven_icp_etch_equipment",
+    "category_id": "etch_icp",
+    "label": "Leuven ICP 刻蚀设备 product line",
+    "definition": "Issuer product line ICP 刻蚀设备 across FY2023-FY2025: 12-inch Chimera and 8-inch Pishow inductively-coupled-plasma etchers. The issuer states that every plasma etcher it sold in the reporting period was ICP, not CCP. Counted in process chambers (腔), not systems."
+  },
+  {
+    "reporting_scope_id": "leuven_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "Leuven 其他设备 product line",
+    "definition": "Issuer residual product line 其他设备 = CVD equipment plus VPD equipment. A mixed basket; the issuer reports its CVD and VPD volumes separately but not its revenue separately."
+  },
+  {
+    "reporting_scope_id": "leuven_cvd_equipment",
+    "category_id": "deposition_cvd",
+    "label": "Leuven CVD 设备 product line",
+    "definition": "Issuer CVD equipment (8-inch Shale series, 1-3 PECVD chambers) for SiC/GaN third-generation semiconductor and optoelectronic device films. Volume is counted in process chambers (腔)."
+  },
+  {
+    "reporting_scope_id": "leuven_vpd_equipment",
+    "category_id": "metrology_metal_contamination_vpd",
+    "label": "Leuven VPD 设备 product line",
+    "definition": "Issuer VPD equipment (Seehund series, one chamber) for 8-inch and 12-inch IC manufacturing, 12-inch large-silicon-wafer production and reclaimed wafers. The ONLY Leuven line counted in whole systems (台); the issuer states VPD is sold per system while all other lines are sold and counted per process chamber."
+  },
+  {
+    "reporting_scope_id": "leuven_main_business",
+    "category_id": "multi_equipment",
+    "label": "Leuven 主营业务 total",
+    "definition": "Issuer main-business total across all equipment lines. Smaller than total operating revenue, which also contains 其他业务收入."
+  },
+  {
+    "reporting_scope_id": "leuven_consolidated_company",
+    "category_id": "all_businesses",
+    "label": "Leuven consolidated company",
+    "definition": "Company-wide consolidated figures from the prospectus summary financial table."
+  },
+  {
+    "reporting_scope_id": "leuven_direct_sales_main_business",
+    "category_id": "multi_equipment",
+    "label": "Leuven 直接销售 main business",
+    "definition": "Issuer sales-mode row 直接销售: direct sales to industrial wafer-fab and display customers."
+  },
+  {
+    "reporting_scope_id": "leuven_trader_sales_main_business",
+    "category_id": "multi_equipment",
+    "label": "Leuven 贸易商销售 main business",
+    "definition": "Issuer sales-mode row 贸易商销售: buy-out trader sales, mainly to universities and research institutes and their designated traders."
+  },
+  {
+    "reporting_scope_id": "leuven_domestic_main_business",
+    "category_id": "multi_equipment",
+    "label": "Leuven 境内 main business",
+    "definition": "Issuer geography row 境内 (domestic)."
+  },
+  {
+    "reporting_scope_id": "leuven_overseas_main_business",
+    "category_id": "multi_equipment",
+    "label": "Leuven 境外 main business",
+    "definition": "Issuer geography row 境外 (overseas). Non-zero only in FY2024."
+  },
+  {
+    "reporting_scope_id": "leuven_core_technology_products",
+    "category_id": "multi_equipment",
+    "label": "Leuven 核心技术产品 revenue",
+    "definition": "Issuer-defined core-technology product revenue, which for this issuer equals main-business revenue in every reporting year."
+  },
+  {
+    "reporting_scope_id": "leuven_pangea_12inch_ion_beam_shaping",
+    "category_id": "ion_beam_etch_milling",
+    "label": "Leuven Pangea 12-inch ion-beam shaping equipment",
+    "definition": "Named 12 英寸离子束塑形设备 (Pangea series) for advanced-logic and memory wafer pattern shaping and wafer-surface ultra-planarisation. Issuer states industrialised application status, sold to 客户 B and 中科院, under validation at 客户 H and 客户 F."
+  },
+  {
+    "reporting_scope_id": "leuven_lmec_300_emerging_memory_platform",
+    "category_id": "ion_beam_etch_milling",
+    "label": "Leuven LMEC-300 12-inch special metal-film etch platform",
+    "definition": "Named 12 英寸特种金属膜层刻蚀设备 (LMEC-300) for MRAM and other emerging-memory patterning. A combined platform whose chamber complement mixes ion-beam shaping, ICP etch and PECVD on one vacuum transfer platform; classified here by its ion-beam milling core function."
+  },
+  {
+    "reporting_scope_id": "leuven_lorem_8inch_ion_beam",
+    "category_id": "ion_beam_etch_milling",
+    "label": "Leuven Lorem 8-inch ion-beam equipment",
+    "definition": "Named 8 英寸离子束设备 (Lorem series) for MEMS noble-metal layers, AR/VR micro-display gratings, optoelectronic and power-device shaping."
+  },
+  {
+    "reporting_scope_id": "leuven_ganister_8inch_ibd",
+    "category_id": "deposition_ion_beam",
+    "label": "Leuven Ganister 8-inch IBD equipment",
+    "definition": "Named 8 英寸 IBD 设备 (Ganister series) for hard-disk heads, hard-magnetic bias layers and Bragg reflectors. Ion-beam deposition, not ion-beam etch."
+  },
+  {
+    "reporting_scope_id": "leuven_chimera_12inch_icp_etch",
+    "category_id": "etch_icp",
+    "label": "Leuven Chimera 12-inch ICP etch equipment",
+    "definition": "Named 12 英寸 ICP 刻蚀设备 (Chimera series) for silicon, metal-film and hard-mask etch in advanced logic and memory."
+  },
+  {
+    "reporting_scope_id": "leuven_pishow_8inch_icp_etch",
+    "category_id": "etch_icp",
+    "label": "Leuven Pishow 8-inch ICP etch equipment",
+    "definition": "Named 8 英寸 ICP 刻蚀设备 (Pishow series) for silicon-based power devices and SiC/GaN third-generation semiconductor etch."
+  },
+  {
+    "reporting_scope_id": "leuven_shale_8inch_cvd",
+    "category_id": "deposition_cvd",
+    "label": "Leuven Shale 8-inch CVD equipment",
+    "definition": "Named 8 英寸 CVD 设备 (Shale series) with PECVD chambers for SiC/GaN and optoelectronic devices."
+  },
+  {
+    "reporting_scope_id": "leuven_seehund_vpd",
+    "category_id": "metrology_metal_contamination_vpd",
+    "label": "Leuven Seehund VPD equipment",
+    "definition": "Named VPD 设备 (Seehund series), single chamber, for metal-contamination detection on 8-inch and 12-inch IC lines, 12-inch large silicon wafers and reclaimed wafers."
+  },
+  {
+    "reporting_scope_id": "leuven_generic_ion_beam_tool_configuration",
+    "category_id": "ion_beam_etch_milling",
+    "label": "Leuven generic single ion-beam tool chamber configuration",
+    "definition": "Issuer statement of how many process chambers a single ion-beam tool can currently carry, given as a platform capability in the core-technology section. A product-design capability, not chambers shipped or installed."
+  },
+  {
+    "reporting_scope_id": "leuven_generic_icp_tool_configuration",
+    "category_id": "etch_icp",
+    "label": "Leuven generic single ICP etch tool chamber configuration",
+    "definition": "Issuer statement of how many process chambers a single ICP etch tool can currently carry. A product-design capability, not chambers shipped or installed."
+  },
+  {
+    "reporting_scope_id": "leuven_ip_patents_total",
+    "category_id": "all_businesses",
+    "label": "Leuven total domestic and overseas patents",
+    "definition": "Issuer count of held domestic and overseas patents as of the reporting period end."
+  },
+  {
+    "reporting_scope_id": "leuven_ip_invention_patents",
+    "category_id": "all_businesses",
+    "label": "Leuven invention patents",
+    "definition": "Issuer count of held invention patents; also cited as the STAR-Market industrialisable invention-patent criterion as of 2025-12-31."
+  },
+  {
+    "reporting_scope_id": "leuven_rd_personnel",
+    "category_id": "all_businesses",
+    "label": "Leuven R&D personnel",
+    "definition": "Issuer R&D headcount and its share of total employees as of 2025-12-31."
+  }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "category_id": "all_businesses",
+    "parent_category_id": "",
+    "name": "Company-wide",
+    "definition": "A reported figure that is not attributable to any single equipment category. Two uses, both established: a company-wide or legal-entity total (revenue, headcount, profit, cash flow, customer concentration), which is the large majority; and a disclosed non-equipment business line such as software licensing, EDA or a service, filed here so it cannot be mistaken for tool revenue.",
+    "scope_note": "Never sum an all_businesses row into an equipment total: it is either the total those rows roll up to, or explicitly not equipment. Prefer a resolved category whenever the source attributes the figure to one tool class."
+  },
+  {
+    "category_id": "multi_equipment",
+    "parent_category_id": "",
+    "name": "Multiple equipment categories",
+    "definition": "A reported figure covering a basket of two or more equipment categories that the source does not split. Typical cases are an issuer's reported segment spanning several tool types, and a production or sales-volume row whose unit total mixes distinct tool classes.",
+    "scope_note": "Never allocate a multi_equipment basket across child categories: the split is not in the source, and inventing one is the error this node exists to prevent. State in the reporting scope's definition which tool types the basket contains and which it excludes."
+  },
+  {
+    "category_id": "etch",
+    "parent_category_id": "",
+    "name": "Etching",
+    "definition": "Equipment that removes material from a wafer to transfer a pattern, at the level the source discloses when it does not name a plasma source or a wet/dry distinction. Parent of the plasma-source children; a basket disclosed only as 刻蚀设备 belongs here rather than being allocated among them.",
+    "scope_note": "Do not allocate an unsplit etch basket across children. Etch removes material to transfer a pattern; it is not a strip or ash step, which removes an entire resist layer and has its own subtree."
+  },
+  {
+    "category_id": "etch_ccp",
+    "parent_category_id": "etch",
+    "name": "CCP etching",
+    "definition": "Capacitively coupled plasma etch equipment, where the source names CCP or 电容耦合等离子体, including the dual-frequency dielectric etchers used for high-aspect-ratio memory features.",
+    "scope_note": "Station count (single or dual station) is a configuration recorded in the reporting scope, not a separate category."
+  },
+  {
+    "category_id": "etch_icp",
+    "parent_category_id": "etch",
+    "name": "ICP etching",
+    "definition": "Inductively coupled plasma etch equipment, where the source names ICP or 电感耦合等离子体. A high-density remote-source plasma, typically for conductor and shallow-feature etch.",
+    "scope_note": "Distinguished from CCP by the plasma generation scheme the issuer names, not by application. Where a filing gives one figure covering both, it belongs at the etch parent."
+  },
+  {
+    "category_id": "deposition",
+    "parent_category_id": "",
+    "name": "Deposition",
+    "definition": "Equipment that adds a film to a wafer, at the level the source discloses when it does not name a deposition mechanism. Parent of the mechanism children; a basket disclosed only as 薄膜沉积设备 belongs here.",
+    "scope_note": "Do not allocate an unsplit deposition basket across children."
+  },
+  {
+    "category_id": "deposition_pvd",
+    "parent_category_id": "deposition",
+    "name": "PVD",
+    "definition": "Physical vapour deposition equipment — sputtering and evaporation — where the source names PVD or 物理气相沉积."
+  },
+  {
+    "category_id": "thermal",
+    "parent_category_id": "",
+    "name": "Thermal processing",
+    "definition": "Equipment that processes wafers by controlled heating, at the level the source discloses when it does not name a furnace or rapid-anneal mechanism. Parent of the thermal children."
+  },
+  {
+    "category_id": "thermal_furnace",
+    "parent_category_id": "thermal",
+    "name": "Furnaces",
+    "definition": "Batch thermal processing furnaces, including vertical diffusion and oxidation furnaces and the high-temperature sintering and graphitisation furnaces some issuers report in the same family.",
+    "scope_note": "Some furnaces in this node are not wafer-processing tools: sintering and graphitisation furnaces serve materials production. The reporting scope states which, so check it before reading this node as wafer-fab capacity."
+  },
+  {
+    "category_id": "cmp",
+    "parent_category_id": "",
+    "name": "Chemical mechanical planarisation",
+    "definition": "Chemical mechanical planarisation equipment, which polishes a wafer flat between process steps.",
+    "scope_note": "A tool that integrates CMP with grinding or cleaning modules is a combined tool: file it where the issuer's own product naming puts it and state the modules in the reporting scope."
+  },
+  {
+    "category_id": "cleaning",
+    "parent_category_id": "",
+    "name": "Cleaning",
+    "definition": "Wafer cleaning equipment, at the level the source discloses when it does not distinguish single-wafer from batch architecture. Parent of the architecture children, and the right node for a 湿法设备 or 清洗设备 basket.",
+    "scope_note": "Most issuers partition cleaning revenue by application — silicon, compound, photovoltaic — rather than by tool architecture, so the children are often correctly empty while this node carries the figures."
+  },
+  {
+    "category_id": "deposition_ecp",
+    "parent_category_id": "deposition",
+    "name": "Electrochemical plating",
+    "definition": "Electrochemical plating equipment for semiconductor metallisation, where the source names ECP, 电镀 or electrochemical deposition. A wet metal-fill tool, not a vacuum deposition tool."
+  },
+  {
+    "category_id": "deposition_cvd",
+    "parent_category_id": "deposition",
+    "name": "CVD",
+    "definition": "Chemical vapour deposition equipment where the source names CVD without a plasma, pressure or flowable qualifier that maps to a child, and the parent of the CVD variants."
+  },
+  {
+    "category_id": "deposition_pecvd",
+    "parent_category_id": "deposition_cvd",
+    "name": "PECVD",
+    "definition": "Plasma-enhanced chemical vapour deposition equipment. Where an issuer reports by process chamber rather than by system, the chamber is the unit and must not be converted to systems."
+  },
+  {
+    "category_id": "deposition_sacvd",
+    "parent_category_id": "deposition_cvd",
+    "name": "SACVD",
+    "definition": "Sub-atmospheric chemical vapour deposition equipment, where the source names SACVD."
+  },
+  {
+    "category_id": "deposition_lpcvd",
+    "parent_category_id": "deposition_cvd",
+    "name": "LPCVD",
+    "definition": "Low-pressure chemical vapour deposition equipment, where the source names LPCVD or 低压化学气相沉积."
+  },
+  {
+    "category_id": "deposition_ald",
+    "parent_category_id": "deposition",
+    "name": "ALD",
+    "definition": "Atomic layer deposition equipment, where the source names ALD or 原子层沉积, including plasma-enhanced ALD and batch furnace ALD configurations.",
+    "scope_note": "The configuration, such as a vertical furnace or a batch chamber count, belongs in the reporting scope; ALD reported inside a CVD product series stays under the series the issuer names."
+  },
+  {
+    "category_id": "inspection",
+    "parent_category_id": "",
+    "name": "Defect inspection",
+    "definition": "Equipment that finds defects on a wafer or package, at the level the source discloses when it does not name an illumination mode, a beam type or an inspection stage. Parent of the inspection children, and the right node for a multi-mode tool that covers more than one child.",
+    "scope_note": "Distinguished from metrology by what the tool answers: inspection asks whether there is a defect, metrology measures a dimension or material property. Some issuers report one combined 检测与量测 figure, which belongs at multi_equipment rather than here."
+  },
+  {
+    "category_id": "inspection_brightfield",
+    "parent_category_id": "inspection",
+    "name": "Brightfield patterned-wafer inspection",
+    "definition": "Brightfield patterned-wafer defect inspection, which images a patterned wafer under direct illumination and compares against a reference to find defects.",
+    "scope_note": "A tool the issuer describes as multi-mode bright and dark belongs at the inspection parent, not split between this node and darkfield."
+  },
+  {
+    "category_id": "inspection_darkfield",
+    "parent_category_id": "inspection",
+    "name": "Darkfield patterned-wafer inspection",
+    "definition": "Darkfield patterned-wafer defect inspection, which collects scattered rather than directly reflected light to find small defects on a patterned wafer.",
+    "scope_note": "Empty because the issuers held describe their patterned-wafer inspectors as multi-mode bright and dark illumination in one tool, which belongs at the inspection parent under the combined-tool rule."
+  },
+  {
+    "category_id": "inspection_unpatterned",
+    "parent_category_id": "inspection",
+    "name": "Unpatterned-wafer inspection",
+    "definition": "Unpatterned-wafer defect inspection, which counts and classifies particles and surface defects on a bare or filmed wafer with no circuit pattern. Used for incoming substrate quality control and for monitoring process and tool contamination.",
+    "scope_note": "The measured object is a wafer without a pattern, which is why the detection limits are far finer than patterned-wafer or packaging inspection. Do not compare a detection limit here against one from a patterned or macro tool without saying so."
+  },
+  {
+    "category_id": "inspection_macro",
+    "parent_category_id": "inspection",
+    "name": "Macro / packaging optical inspection",
+    "definition": "Macro and packaging optical inspection, which images a whole wafer or package at micron-scale sensitivity, typically for outgoing quality control after packaging.",
+    "scope_note": "SETTLED BY USE, after reading as 'deliberately empty' while nine platforms sat in it. The node means inspection at macro or appearance scale — a whole wafer, panel or package imaged for defects — as distinct from patterned-defect inspection resolving individual die features, which belongs at the inspection parent or a patterned child. Two issuers settled it independently in their own words: Onto calls its Dragonfly G3, F30 and NSX 'Macro Defect Inspection' and its Firefly series 'panel level macro inspection tools', while Jingce's 晶圆外观检测设备 inspect patterned silicon and unpatterned glass wafers across FOWLP, WLCSP, bumping and chiplet processes. Both are appearance-scale inspection, one at wafer and one at panel and package scale, so the node covers both rather than being reserved for a dedicated macro inspector. The original caution still stands and is the reason this node stayed empty at first: do NOT move a model here when the issuer presents it as an upgrade within its own patterned-wafer inspection series and reports its units as a subset of that series, because the parent already counts it and placing it here would double-count."
+  },
+  {
+    "category_id": "inspection_ebeam",
+    "parent_category_id": "inspection",
+    "name": "Electron-beam defect inspection",
+    "definition": "Electron-beam defect inspection, which scans a wafer with an electron beam to find defects optical inspection cannot resolve, including buried and electrical defects."
+  },
+  {
+    "category_id": "inspection_review_sem",
+    "parent_category_id": "inspection",
+    "name": "SEM defect review",
+    "definition": "Scanning-electron defect review: re-imaging defects an inspection tool has already located, at higher resolution, to classify them.",
+    "scope_note": "A review tool does not find defects on its own; it revisits coordinates from an inspector. It is not a CD-SEM, which measures dimensions."
+  },
+  {
+    "category_id": "inspection_edge",
+    "parent_category_id": "inspection",
+    "name": "Wafer edge / bevel / backside inspection",
+    "definition": "Wafer edge, bevel and backside inspection, which finds defects outside the patterned front surface.",
+    "scope_note": "Empty, and possibly structurally so. The issuer held has the capability — front, back and edge defect detection catching bonding-edge and backside CMP defects — but integrates it into its unpatterned and patterned inspectors rather than selling it as a separate product, so there is no product and no figure."
+  },
+  {
+    "category_id": "inspection_mask",
+    "parent_category_id": "inspection",
+    "name": "Mask / reticle inspection",
+    "definition": "Mask and reticle inspection, which finds defects on the photomask rather than on the wafer.",
+    "scope_note": "Empty. No issuer in the atlas sells a mask inspector: one issuer's product grid marks the class absent, and another's mask-related work is optical-proximity-correction software, not an inspection tool. The only appearance of the class is a line in a third-party market table."
+  },
+  {
+    "category_id": "inspection_xray",
+    "parent_category_id": "inspection",
+    "name": "X-ray / CT subsurface inspection",
+    "definition": "X-ray and computed-tomography inspection, which images subsurface structure in packages, solder joints and assemblies non-destructively.",
+    "scope_note": "Much of this equipment serves electronics assembly rather than wafer fabrication; the reporting scope states the disclosed application."
+  },
+  {
+    "category_id": "inspection_acoustic",
+    "parent_category_id": "inspection",
+    "name": "Acoustic bond / void inspection",
+    "definition": "Acoustic inspection of bond interfaces and voids, which uses ultrasound to find delamination and voids inside a bonded or packaged part.",
+    "scope_note": "Assign this node only where the source states an acoustic or ultrasonic principle. A post-bond strength or void test of unstated physical principle belongs at the inspection parent."
+  },
+  {
+    "category_id": "metrology",
+    "parent_category_id": "",
+    "name": "Dimensional / material metrology",
+    "definition": "Equipment that measures a dimension, a film property or a surface on a wafer, at the level the source discloses when it does not name the measurand or the technique. Parent of the metrology children, and the right node for a tool that measures several of them.",
+    "scope_note": "Distinguished from inspection by what the tool answers: metrology measures, inspection detects. An issuer's reported 量测设备 class may include non-semiconductor products, so check the reporting scope before using this node as a semiconductor proxy."
+  },
+  {
+    "category_id": "metrology_cd_sem",
+    "parent_category_id": "metrology",
+    "name": "CD-SEM",
+    "definition": "Critical-dimension scanning electron microscopy: measuring printed feature dimensions on a patterned wafer with an electron beam.",
+    "scope_note": "A CD-SEM measures dimensions; a defect-review SEM re-images located defects. Both are electron-beam tools and issuers sell both, so read the product name rather than the beam type."
+  },
+  {
+    "category_id": "metrology_ocd",
+    "parent_category_id": "metrology",
+    "name": "Optical critical-dimension metrology",
+    "definition": "Optical critical-dimension metrology, which infers feature dimensions and profiles from scatterometry or reflectometry rather than direct imaging."
+  },
+  {
+    "category_id": "metrology_film_dielectric",
+    "parent_category_id": "metrology",
+    "name": "Dielectric film thickness",
+    "definition": "Measurement of dielectric film thickness and related optical properties, including through high-aspect-ratio structures.",
+    "scope_note": "The measurand is the film, not the structure. A tool that measures film thickness inside a high-aspect-ratio feature belongs here and does not populate the high-aspect-ratio structure node."
+  },
+  {
+    "category_id": "metrology_film_metal",
+    "parent_category_id": "metrology",
+    "name": "Metal film thickness",
+    "definition": "Measurement of metal film thickness and sheet resistance on a wafer.",
+    "scope_note": "Empty. The issuers held describe metal film metrology in words but publish their numeric product tables only at a combined 量测设备 level, and their one quantified film figure is for ultra-thin film thickness without stating whether the film is metal or dielectric."
+  },
+  {
+    "category_id": "metrology_overlay",
+    "parent_category_id": "metrology",
+    "name": "Lithographic / bonding overlay",
+    "definition": "Overlay metrology: measuring the registration error between two patterned layers, whether printed by lithography or created by wafer bonding.",
+    "scope_note": "Bonding overlay belongs here as well as lithographic overlay. Empty although at least one issuer sells a named bond-overlay metrology pair, compatible with both wafer-to-wafer and die-to-wafer routes, that carries no figure in any of its four filings."
+  },
+  {
+    "category_id": "metrology_topography",
+    "parent_category_id": "metrology",
+    "name": "3D topography / bump dimensions",
+    "definition": "Three-dimensional topography and bump-dimension metrology, which measures surface height, step heights, recesses and bump geometry on a wafer.",
+    "scope_note": "The figure of merit issuers publish for this class is repeatability precision, where smaller is better, so never rank it as though larger were better."
+  },
+  {
+    "category_id": "metrology_geometry",
+    "parent_category_id": "metrology",
+    "name": "Wafer geometry / thickness / TTV / warpage",
+    "definition": "Wafer geometry metrology: overall thickness, total thickness variation, flatness, bow and warpage of the wafer as a whole.",
+    "scope_note": "Distinct from the thinning node's total-thickness-variation capability, which is what a grinder achieves; this node is the instrument that measures it. Empty of observations although platform records for the class exist."
+  },
+  {
+    "category_id": "metrology_har",
+    "parent_category_id": "metrology",
+    "name": "HAR / TSV structure metrology",
+    "definition": "Metrology of high-aspect-ratio structures: measuring the depth, width, profile and tilt of deep features such as through-silicon vias and deep trenches, non-destructively.",
+    "scope_note": "The measurand is the structure itself. A tool that measures film thickness inside a high-aspect-ratio feature belongs under the film-thickness node instead. Empty despite an issuer selling an X-ray-based series of exactly this class and reporting it in production at a leading domestic memory customer: not one number is printed about it in five sources. Quantifying it needs a different document class — investor-relations records or a placement prospectus — not more reading of annual reports."
+  },
+  {
+    "category_id": "lithography",
+    "parent_category_id": "",
+    "name": "Lithography exposure",
+    "definition": "Lithography exposure equipment, at the level the source discloses when it does not distinguish front-end wafer exposure from packaging or direct-imaging exposure. Parent of the lithography children.",
+    "scope_note": "A precision stage, workpiece table or other subsystem sold to a lithography toolmaker is out of scope for the atlas and must never be filed here: it is not an exposure tool."
+  },
+  {
+    "category_id": "lithography_frontend",
+    "parent_category_id": "lithography",
+    "name": "Front-end exposure",
+    "definition": "Front-end wafer exposure equipment: the projection scanners and steppers that pattern circuit layers on a wafer.",
+    "scope_note": "Empty. This is the node an analyst most often expects to be populated, and its emptiness is a real finding about the atlas's holdings rather than about China's industry: the firms held sell packaging and printed-circuit exposure, or subsystems to exposure-tool builders, which are out of scope."
+  },
+  {
+    "category_id": "lithography_packaging",
+    "parent_category_id": "lithography",
+    "name": "Packaging / RDL exposure",
+    "definition": "Exposure equipment for advanced packaging and redistribution layers, including wafer-level and panel-level packaging lithography.",
+    "scope_note": "Exposure equipment for advanced packaging and redistribution layers, including wafer-level and panel-level packaging lithography. Empty of observations. The annual report the atlas holds describes repeat orders, shipments and acceptances for its packaging exposure series without attaching a figure to any of them, and its only quantified product split is a two-line printed-circuit versus pan-semiconductor partition. The microbump_litho step report notes that the same issuer's H-share prospectus does give a packaging unit share; that document is not yet registered, so this node stays empty until it is."
+  },
+  {
+    "category_id": "track",
+    "parent_category_id": "",
+    "name": "Lithography tracks",
+    "definition": "Lithography tracks: the coat, develop and bake platform that prepares and develops wafers around the exposure step. Parent of the track children.",
+    "scope_note": "A track is not an exposure tool. Currently empty because the disclosures the atlas holds resolve to the coating-and-developing child rather than to this parent."
+  },
+  {
+    "category_id": "track_coat_develop",
+    "parent_category_id": "track",
+    "name": "Coating / developing",
+    "definition": "Photoresist coating and developing equipment — the track that prepares and develops wafers around the exposure step.",
+    "scope_note": "A track is not an exposure tool. Throughput quoted for a track at a named lithography wavelength describes the track's capability, not an exposure capability."
+  },
+  {
+    "category_id": "implant",
+    "parent_category_id": "",
+    "name": "Ion implantation",
+    "definition": "Ion implantation equipment, which drives dopant ions into the wafer, at the level the source discloses when it does not name a beam-current or energy class. Parent of the implant children."
+  },
+  {
+    "category_id": "implant_high_current",
+    "parent_category_id": "implant",
+    "name": "High-current implantation",
+    "definition": "High-current ion implantation equipment, where the source names 大束流, including the low-energy high-current class used for shallow junctions."
+  },
+  {
+    "category_id": "implant_medium_current",
+    "parent_category_id": "implant",
+    "name": "Medium-current implantation",
+    "definition": "Medium-current ion implantation equipment, where the source names 中束流."
+  },
+  {
+    "category_id": "implant_high_energy",
+    "parent_category_id": "implant",
+    "name": "High-energy implantation",
+    "definition": "High-energy ion implantation equipment, where the source names 高能."
+  },
+  {
+    "category_id": "bonding",
+    "parent_category_id": "",
+    "name": "Bonding and debonding",
+    "definition": "Equipment that joins two wafers, or dies to a wafer, and equipment that releases them again, at the level the source discloses when it does not name a bonding mechanism. Parent of the bonding children, and the right node for a combined basket or a platform that performs more than one bonding process.",
+    "scope_note": "Do not allocate a combined 键合设备 basket across children: several issuers bundle a wafer-to-wafer bonder with a die-to-wafer surface-preparation tool that is not a bonder at all."
+  },
+  {
+    "category_id": "bonding_tcb",
+    "parent_category_id": "bonding",
+    "name": "Thermocompression bonding",
+    "definition": "Thermocompression bonding: joining parts under simultaneous heat and pressure, including eutectic and anodic process variants run on the same platform.",
+    "scope_note": "Placement accuracy for this class is published in micrometres, three orders coarser than hybrid bonding, and the atlas treats micrometre and nanometre as separate unit dimensions, so the two are not directly comparable."
+  },
+  {
+    "category_id": "bonding_hybrid_w2w",
+    "parent_category_id": "bonding",
+    "name": "Wafer-to-wafer hybrid bonding",
+    "definition": "Wafer-to-wafer hybrid bonding: joining two patterned wafers dielectric-to-dielectric and metal-to-metal in one step, at low temperature, after plasma activation.",
+    "scope_note": "The published figures of merit are alignment accuracy before bonding, placement accuracy surviving the bond, and induced wafer distortion; issuers print them as separate values for the same tool, so they are separate metrics."
+  },
+  {
+    "category_id": "bonding_hybrid_d2w",
+    "parent_category_id": "bonding",
+    "name": "Die-to-wafer hybrid bonding",
+    "definition": "Die-to-wafer hybrid bonding: placing singulated dies onto a wafer with a hybrid dielectric-and-metal interface. The process route most directly relevant to high-density memory stacking.",
+    "scope_note": "Throughput for this class is normally published in units per hour counting die placements, which is a different unit dimension from wafers per hour and must never be recorded as a wafer throughput. A surface-activation or preparation tool for this route is not itself a bonder."
+  },
+  {
+    "category_id": "bonding_fusion",
+    "parent_category_id": "bonding",
+    "name": "Fusion bonding",
+    "definition": "Fusion bonding: joining wafers by hydrophilic direct contact and a low-temperature anneal, without an intervening metal layer.",
+    "scope_note": "Whether direct bonding of engineered substrates, such as silicon-on-insulator or piezo-on-insulator, belongs here or in its own node is an open registry question; issuers sometimes present such a series as distinct from their fusion bonders."
+  },
+  {
+    "category_id": "bonding_temporary",
+    "parent_category_id": "bonding",
+    "name": "Temporary carrier bonding",
+    "definition": "Temporary carrier bonding, which attaches a device wafer to a carrier for thinning and handling, and is later released. The bond is intended to be undone.",
+    "scope_note": "Often sold and disclosed alongside the debonding tool that releases it; the reporting scope states whether a figure covers one or both."
+  },
+  {
+    "category_id": "bonding_debond",
+    "parent_category_id": "bonding",
+    "name": "Debonding / laser release",
+    "definition": "Debonding equipment, which releases a device wafer from its temporary carrier, including laser-release tools.",
+    "scope_note": "Empty despite a named three-model laser-release family in one issuer's filings across three years: it reports development complete and customer orders won, but prints no order count, order value, unit count, shipment, wafer size or throughput anywhere. Patents and software copyrights naming debonding are not quantified evidence."
+  },
+  {
+    "category_id": "thinning",
+    "parent_category_id": "",
+    "name": "Wafer thinning",
+    "definition": "Equipment that reduces wafer thickness, at the level the source discloses when it does not name a grinding or stress-relief step. Parent of the thinning children, and the right node for a combined tool that integrates thinning with polishing, cleaning or taping.",
+    "scope_note": "Combined tools dominate this class: a grind-plus-CMP-plus-clean tool or a grind-plus-taping tool belongs here rather than under a child, and the reporting scope names the integrated modules."
+  },
+  {
+    "category_id": "thinning_grinding",
+    "parent_category_id": "thinning",
+    "name": "Backgrinding / precision thinning",
+    "definition": "Backgrinding and precision thinning equipment that removes wafer material mechanically by grinding, sold as a standalone grinder rather than integrated with a polishing module.",
+    "scope_note": "The published figure of merit is total thickness variation across the wafer. A result achieved on a combined grind-and-polish tool is not attributable to a standalone grinder and belongs at the parent."
+  },
+  {
+    "category_id": "thinning_stress_relief",
+    "parent_category_id": "thinning",
+    "name": "Post-grind stress relief / polishing",
+    "definition": "Post-grind stress relief and polishing, which removes the damaged layer grinding leaves behind, by dry polish, CMP or etch.",
+    "scope_note": "Empty for a reason worth knowing: the issuers the atlas holds sell stress relief only inside combined tools — a grind-and-taping machine, or a grind-and-polish machine — so the capability is real but the figures sit at the thinning parent. A dry-polish packaging thinner appeared once as a plan and did not recur."
+  },
+  {
+    "category_id": "dicing",
+    "parent_category_id": "",
+    "name": "Dicing / singulation",
+    "definition": "Equipment that separates a processed wafer into individual dies, at the level the source discloses when it does not name a cutting mechanism. Parent of the dicing children.",
+    "scope_note": "Edge trimming is not singulation. At least one issuer prints a 划切装备 heading over text that describes wafer edge and chamfer shaping, and lists dicing among the downstream processes that tool protects, so read the text under the heading rather than the heading."
+  },
+  {
+    "category_id": "dicing_blade",
+    "parent_category_id": "dicing",
+    "name": "Blade dicing",
+    "definition": "Blade dicing equipment, which separates dies with a rotating abrasive blade.",
+    "scope_note": "Empty of observations, but not of products — a correction to this note's earlier claim. The atlas holds two registered blade-dicer platforms, Guangli 8230CF and 82WT, so it is wrong to say the held issuers do laser dicing only. What is missing is any quantified figure resolved to blade dicing: Guangli reports a semiconductor segment, not a per-tool split. Separately, do not read a 划切装备 heading as singulation evidence: one issuer prints that heading over text describing wafer edge and chamfer trimming and lists 划切 among the downstream processes that tool protects. A blade spindle is not evidence of singulation; confirm the tool separates dies."
+  },
+  {
+    "category_id": "dicing_laser",
+    "parent_category_id": "dicing",
+    "name": "Laser / stealth dicing",
+    "definition": "Laser dicing and stealth dicing equipment, which separates dies with a laser — either by cutting from the surface or by forming a subsurface modified layer that the wafer then splits along.",
+    "scope_note": "Laser processing of printed circuit boards, display panels or substrate ingots is not wafer dicing. Slicing a wafer from a crystal ingot is wafering, a different process step, and does not belong here. OPEN REGISTRY QUESTION, raised by the W13 records reviewer: laser GROOVING does not separate dies — a later blade pass does — so a grooving tool does not strictly meet this node's 'separates dies with a laser' definition, yet no other node fits either (dicing_blade is the wrong mechanism, and the dicing parent is for when no mechanism is named, which is not the case when the source says 紫外激光). JSG's 超快紫外激光开槽设备 rests here on that basis and is the only occupant in that position. Settle whether grooving belongs here, at the parent, or in its own node before a second grooving tool arrives; the precedent for parking a question rather than pre-empting it is bonding_fusion's note on engineered substrates."
+  },
+  {
+    "category_id": "dicing_plasma",
+    "parent_category_id": "dicing",
+    "name": "Plasma dicing",
+    "definition": "Plasma dicing equipment, which separates dies by plasma etching through the wafer along the street, giving a kerf-free cut.",
+    "scope_note": "Empty. No issuer in the atlas discloses a plasma dicing product; the dicing firms held are laser-only."
+  },
+  {
+    "category_id": "test",
+    "parent_category_id": "",
+    "name": "Electrical test and test interfaces",
+    "definition": "Electrical test equipment and the interfaces that connect a tester to the device under test, at the level the source discloses when it does not name a tester class, a handling class or an interface. Parent of the test children.",
+    "scope_note": "This subtree spans three different things — testers, handling and positioning equipment, and consumable interfaces such as probe cards — so a figure at this node is not a tester figure. Read the reporting scope before comparing across firms."
+  },
+  {
+    "category_id": "test_memory_ate",
+    "parent_category_id": "test",
+    "name": "Memory electrical test / ATE",
+    "definition": "Automated test equipment for memory devices: the tester that generates and measures signals in functional memory test, where the source identifies memory or a memory data-rate class.",
+    "scope_note": "Membership asserts memory functional test, which is a far harder capability than parametric or process-monitoring test. Do not place a wafer-acceptance or parametric tool here."
+  },
+  {
+    "category_id": "test_prober_handler",
+    "parent_category_id": "test",
+    "name": "Wafer probers / handlers",
+    "definition": "Wafer probers and test handlers: the equipment that positions a wafer or a singulated device against a test interface and moves parts through test. Not the tester that generates and measures signals, and not the probe card.",
+    "scope_note": "Issuers name these differently — 探针台 for wafer probers, 分选机 for handlers — and some sell only one. The reporting scope records which, since a combined unit count may mix them."
+  },
+  {
+    "category_id": "test_probe_card",
+    "parent_category_id": "test",
+    "name": "Probe cards",
+    "definition": "Probe cards: the consumable interface that makes temporary electrical contact between a tester and a wafer. A device-specific interface, not test equipment and not a prober.",
+    "scope_note": "A probe card is consumed and replaced, so its unit economics are unlike a capital tool's. Never sum probe-card revenue into an equipment total."
+  },
+  {
+    "category_id": "thermal_rtp",
+    "parent_category_id": "thermal",
+    "name": "Rapid thermal processing / annealing",
+    "definition": "Rapid thermal processing and rapid annealing equipment, where the source names RTP, 快速热处理 or an anneal step measured in seconds rather than a furnace cycle.",
+    "scope_note": "Laser annealing has its own node: a laser-anneal tool is not RTP even though both anneal."
+  },
+  {
+    "category_id": "cleaning_single_wafer",
+    "parent_category_id": "cleaning",
+    "name": "Single-wafer cleaning",
+    "definition": "Single-wafer cleaning equipment, which processes one wafer at a time, where the source names 单片 or a single-wafer configuration."
+  },
+  {
+    "category_id": "cleaning_batch",
+    "parent_category_id": "cleaning",
+    "name": "Batch / wet-bench cleaning",
+    "definition": "Batch and wet-bench cleaning equipment, which processes a cassette of wafers in a bath, where the source names 槽式 or a batch configuration."
+  },
+  {
+    "category_id": "strip",
+    "parent_category_id": "",
+    "name": "Resist strip / ashing",
+    "definition": "Resist strip and ashing equipment, which removes an entire photoresist or residue layer. Parent of the strip children.",
+    "scope_note": "Strip removes a whole layer; etch removes material to transfer a pattern. Empty because holdings resolve to the dry-strip child."
+  },
+  {
+    "category_id": "strip_dry",
+    "parent_category_id": "strip",
+    "name": "Dry strip / ashing",
+    "definition": "Dry strip and ashing equipment that removes an entire photoresist or residue layer by plasma, where the source names 去胶 or ashing.",
+    "scope_note": "Strip removes a whole layer; etch removes material to transfer a pattern. Keep them apart even when one issuer sells both from one platform."
+  },
+  {
+    "category_id": "metrology_tsv_void",
+    "parent_category_id": "metrology",
+    "name": "TSV copper-fill void metrology",
+    "definition": "Through-silicon-via copper-fill void metrology: detecting and measuring voids in the copper filling of TSVs, non-destructively.",
+    "scope_note": "The most directly HBM-relevant node in the taxonomy and empty for the same reason as the high-aspect-ratio node: an issuer sells a series described as serving advanced packaging and HBM manufacturing, already running at a leading domestic memory customer, and publishes no figure. Its resolution claim is written as 亚微米级, which prints no digit and so stays qualitative."
+  },
+  {
+    "category_id": "etch_dry",
+    "parent_category_id": "etch",
+    "name": "Dry etching",
+    "definition": "Dry etch equipment disclosed as 干法刻蚀 without an ICP or CCP plasma source being named. A source-wording node: it records that the issuer said dry rather than which plasma scheme it used.",
+    "scope_note": "Not a superset of etch_icp and etch_ccp. A row sits here because the disclosure stopped at 干法, so summing this node with the plasma-source children may double-count the same tools."
+  },
+  {
+    "category_id": "etch_and_plasma_surface_treatment",
+    "parent_category_id": "multi_equipment",
+    "name": "Dry etching and plasma surface treatment",
+    "definition": "An issuer-reported basket combining dry etch equipment with plasma surface-treatment equipment, disclosed as one figure. Filed under multi_equipment because the two belong to different process families and the source does not split them.",
+    "scope_note": "Never allocate this basket to etch. It exists to hold a combined disclosure without asserting a split."
+  },
+  {
+    "category_id": "deposition_epitaxy",
+    "parent_category_id": "deposition",
+    "name": "Epitaxial deposition",
+    "definition": "Equipment that grows an epitaxial semiconductor layer on a substrate, including atmospheric-pressure and reduced-pressure/selective epitaxy when the source identifies those processes.",
+    "scope_note": "Classify source-identified EPI/epitaxy equipment here. Preserve silicon, SiGe, SiC, compound-semiconductor and pressure/process variants in reporting scope, platform, or dimensions rather than assuming interchangeability."
+  },
+  {
+    "category_id": "deposition_mocvd",
+    "parent_category_id": "deposition_cvd",
+    "name": "Metal-organic chemical vapour deposition",
+    "definition": "Chemical vapour deposition using metal-organic precursors; material system and epitaxial versus other film growth remain source-specific.",
+    "scope_note": "Keep MOCVD distinct from generic CVD and silicon epitaxy because its precursor chemistry, reactor use and common LED/power-device applications are source-specific. Category membership does not allocate a broad deposition revenue line."
+  },
+  {
+    "category_id": "ion_beam_etch_milling",
+    "parent_category_id": "etch",
+    "name": "Ion-beam etching and milling",
+    "definition": "Directed-ion-beam equipment for material removal, including source-identified ion-beam etching and ion milling; physical and chemically assisted variants remain source-specific.",
+    "scope_note": "Preserve IBE versus milling terminology in source-native scope. Do not infer chemistry-based dry etch, implant dose, or deposition capability from the beam source."
+  },
+  {
+    "category_id": "deposition_ion_beam",
+    "parent_category_id": "deposition",
+    "name": "Ion-beam deposition",
+    "definition": "Thin-film deposition equipment in which an ion beam directly or indirectly supplies energy/material for film formation, when the source explicitly identifies ion-beam deposition.",
+    "scope_note": "Keep separate from ion-beam etch/milling and ion implantation. The current local lead is a competitor-product list, sufficient to define the boundary but not to assert capability for an atlas entity."
+  },
+  {
+    "category_id": "etch_wet",
+    "parent_category_id": "etch",
+    "name": "Wet etching",
+    "definition": "Equipment that removes wafer material through a liquid-phase chemical etch process.",
+    "scope_note": "A combined wet clean/strip/etch platform may enter this category only for an explicitly wet-etch-scoped observation or platform identity. Do not allocate a broad wet-processing revenue basket among cleaning, strip and wet etch."
+  },
+  {
+    "category_id": "thermal_laser_anneal",
+    "parent_category_id": "thermal",
+    "name": "Laser annealing",
+    "definition": "Equipment that anneals semiconductor material using laser energy; pulse or exposure duration remains source-specific.",
+    "scope_note": "Do not restrict laser anneal to millisecond processes. Distinguish laser heating from flash-lamp heating; require direct product wording before capability mapping."
+  },
+  {
+    "category_id": "thermal_flash_lamp_anneal",
+    "parent_category_id": "thermal",
+    "name": "Flash-lamp millisecond annealing",
+    "definition": "Millisecond annealing equipment that uses an explicitly identified flash lamp or arc-lamp energy source.",
+    "scope_note": "Separate from laser anneal even when both are described as millisecond processes. Platform evidence should retain the actual lamp architecture and applications."
+  },
+  {
+    "category_id": "wafer_handling",
+    "parent_category_id": "",
+    "name": "Wafer handling and factory interface",
+    "definition": "Equipment and modules whose primary function is clean wafer loading, unloading, atmospheric transfer or factory interface rather than wafer processing.",
+    "scope_note": "This parent separates handling modules from process chambers and metrology/inspection. Integrated handling inside a process tool does not establish standalone handling-equipment sales."
+  },
+  {
+    "category_id": "wafer_handling_efem",
+    "parent_category_id": "wafer_handling",
+    "name": "Equipment front-end modules (EFEM)",
+    "definition": "Atmospheric equipment front-end modules that load/unload and transfer wafers between factory carriers and the equipment interface under controlled cleanliness.",
+    "scope_note": "Classify a standalone EFEM product or an explicitly scoped EFEM module here. EFEM embedded in a deposition, CMP, cleaning or inspection platform remains component evidence unless the source reports it separately."
+  },
+  {
+    "category_id": "subfab",
+    "parent_category_id": "",
+    "name": "Subfab vacuum and exhaust management",
+    "definition": "Fab vacuum and process-exhaust support outside process chambers; physical installation floor is not a defining requirement.",
+    "scope_note": "This parent covers standalone dry vacuum pumps and point-of-use/process exhaust abatement. It is distinct from gases/chemicals delivered into the process and from a process chamber’s integrated pumping hardware."
+  },
+  {
+    "category_id": "subfab_dry_vacuum_pump",
+    "parent_category_id": "subfab",
+    "name": "Subfab dry vacuum pumps",
+    "definition": "Standalone dry vacuum pump equipment supplying vacuum for semiconductor process tools; installation location remains source-specific.",
+    "scope_note": "A process-tool description saying that chambers share a vacuum pump does not establish a pump product. Current held evidence is third-party competitor context only."
+  },
+  {
+    "category_id": "subfab_exhaust_abatement",
+    "parent_category_id": "subfab",
+    "name": "Subfab process-exhaust abatement",
+    "definition": "Point-of-use or process exhaust treatment equipment that destroys, captures or neutralises hazardous gases downstream of semiconductor process tools.",
+    "scope_note": "Require a sold semiconductor process-exhaust/tail-gas treatment product. Do not classify a supplier’s own factory pollution-control installation as an equipment offering."
+  },
+  {
+    "category_id": "fab_facilities_support",
+    "parent_category_id": "",
+    "name": "Fab gas and chemical supply support",
+    "definition": "Fab support equipment that stores, conditions, mixes or delivers gases, chemicals, slurry or precursors toward process tools.",
+    "scope_note": "Separate the incoming process-material supply path from downstream subfab vacuum/exhaust treatment. This is equipment taxonomy, not systems-integration services or materials revenue."
+  },
+  {
+    "category_id": "fab_gas_chemical_delivery",
+    "parent_category_id": "fab_facilities_support",
+    "name": "Fab gas and chemical delivery equipment",
+    "definition": "Source-scoped equipment that stores, conditions, mixes or delivers high-purity gases and/or chemicals toward semiconductor process tools.",
+    "scope_note": "Use a combined category where the source does not allocate gas versus chemical equipment. Do not split a combined disclosed basket, and do not mix it with system integration, material sales, bulk-gas supply or exhaust abatement."
+  },
+  {
+    "category_id": "lithography_mask_writing",
+    "parent_category_id": "lithography",
+    "name": "Photomask writing",
+    "definition": "Pattern-generation equipment that writes integrated-circuit mask or reticle patterns, including electron-beam mask writers when explicitly identified.",
+    "scope_note": "Mask writing creates the mask pattern. It is separate from wafer lithography exposure, computational lithography/OPC software, photomask manufacturing as a business, and mask/reticle inspection. No current held source directly establishes a mask-writer product for an atlas entity."
+  },
+  {
+    "category_id": "display_device_inspection",
+    "parent_category_id": "",
+    "name": "Display-device inspection and test",
+    "definition": "Inspection, electrical/optical test, aging, correction and signal-generation equipment for flat-panel, OLED/AMOLED, Micro-LED, AR/VR and related display-device manufacturing. Excludes semiconductor wafer/mask defect-inspection taxonomy and semiconductor ATE unless separately evidenced."
+  },
+  {
+    "category_id": "electronic_components",
+    "parent_category_id": "",
+    "name": "Electronic components (non-equipment)",
+    "definition": "Electronic components an equipment maker sells as a separate reported business, such as precision components, modules and instruments. Not semiconductor manufacturing equipment.",
+    "scope_note": "Never sum this node into an equipment total. It exists so a diversified issuer's non-equipment segment can be recorded without contaminating equipment figures."
+  },
+  {
+    "category_id": "edge_polishing",
+    "parent_category_id": "",
+    "name": "Wafer edge polishing",
+    "definition": "Wafer edge polishing equipment, which finishes the wafer bevel and apex to remove damage and particle sources.",
+    "scope_note": "Distinct from edge trimming, which shapes the edge of a bonded or thinned wafer, and from wafer-edge inspection, which looks at it. At least one issuer reports an 边缘抛光装备 line the atlas has not yet mined."
+  },
+  {
+    "category_id": "wafer_handling_vacuum_transfer",
+    "parent_category_id": "wafer_handling",
+    "name": "Vacuum wafer transfer systems",
+    "definition": "Standalone or separately source-named systems that move wafers between process chambers under vacuum, without themselves performing deposition, etch or other wafer processing.",
+    "scope_note": "A vacuum transfer module integrated inside a process platform is component evidence unless the supplier identifies it as a separate product. Do not infer standalone unit sales from its listing."
+  },
+  {
+    "category_id": "photoresist_uv_cure",
+    "parent_category_id": "",
+    "name": "Photoresist ultraviolet curing equipment",
+    "definition": "Equipment whose source-defined primary operation is ultraviolet curing or stabilization of photoresist after lithography-related processing; distinct from exposure and from coating/developing.",
+    "scope_note": "Do not classify as a lithography exposure platform merely because the source discusses pattern fidelity or process-node miniaturization."
+  },
+  {
+    "category_id": "electrochemical_stress_free_polishing",
+    "parent_category_id": "",
+    "name": "Electrochemical stress-free polishing",
+    "definition": "Equipment whose source-defined operation includes stress-free electrochemical copper polishing for planarisation, including source-described integrated sequences with low-pressure CMP.",
+    "scope_note": "Preserve whether a source describes an integrated SFP/CMP sequence; this category does not imply that electrochemical polishing is chemical mechanical planarisation or that all stages use abrasive slurry, polishing head or pad."
+  },
+  {
+    "category_id": "fib_sem_dual_beam",
+    "parent_category_id": "",
+    "name": "FIB-SEM dual-beam analysis and microfabrication",
+    "definition": "Combined focused-ion-beam and scanning-electron-microscope equipment used for failure analysis, circuit repair, TEM sample preparation or in-situ micro/nano fabrication; not automatically wafer-wide defect inspection.",
+    "scope_note": "Preserve offline acceptance and online dual-beam delivery/acceptance status separately. A broad FIB-SEM operating group is not identified as the named iView/AeroScan catalogue series without an explicit source link."
+  },
+  {
+    "category_id": "implant_cryogenic",
+    "parent_category_id": "implant",
+    "name": "Cryogenic implantation",
+    "definition": "Cryogenic (超低温) ion implantation, reported by Chinese suppliers as a distinct product line alongside low-energy high-current, high-energy and medium-current implanters. A taxonomy node, not evidence of capability."
+  },
+  {
+    "category_id": "process_temperature_control",
+    "parent_category_id": "",
+    "name": "Process temperature control units (chillers)",
+    "definition": "Semiconductor process temperature-control units, commonly called chillers: units that hold a process tool, principally its reaction chamber, at a precisely controlled temperature. A supporting utility tool for a process chamber rather than a chamber itself, and not part of the subfab vacuum, exhaust or gas and chemical delivery families.",
+    "scope_note": "Semiconductor process temperature-control units (chillers). Source wording (Jingyi Automation 释义): 半导体专用温控设备（Chiller）指主要用于对半导体制程中半导体工艺设备温度进行精准控制的温度控制设备; the issuer adds 在制程中主要对反应腔进行温度控制，主要应用于 12 英寸晶圆前道刻蚀、化学气相沉积等工艺. A standalone tool sold to process-equipment makers and to fabs, which circulates temperature-conditioned fluid to a process chamber. It is NOT a process chamber, not subfab vacuum or exhaust treatment (which is subfab), and not gas or chemical delivery toward the process (which is fab_facilities_support), so no existing category fits without a near-miss."
+  },
+  {
+    "category_id": "wafer_handling_sorter",
+    "parent_category_id": "wafer_handling",
+    "name": "Wafer sorters",
+    "definition": "Standalone wafer sorters: freestanding atmospheric tools that transfer, align, sort and where required flip wafers between carriers, used at line-out, for inter-process cassette control, and for outgoing verification and sequencing. Distinct from an equipment front-end module, which is bolted onto a process tool, and from vacuum transfer inside a cluster platform.",
+    "scope_note": "Standalone wafer sorters. Source wording (Jingyi Automation 释义): 晶圆传片设备（WaferSorter、Sorter）指主要用于半导体制程中晶圆的传送、定位和排序的设备; applications given as 晶圆的下线、制程间倒片的卡控和产品出厂校验、排序以及有翻片需求的工艺. Distinct from wafer_handling_efem (an equipment front-end module bolted to a process tool) and from wafer_handling_vacuum_transfer (vacuum transfer between chambers): a sorter is a freestanding atmospheric tool that reads, re-orders and re-cassettes wafers between process steps."
+  },
+  {
+    "category_id": "fab_automation",
+    "parent_category_id": "",
+    "name": "Fab automated material handling (AMHS)",
+    "definition": "Fab-level automated material handling systems (AMHS): the infrastructure that moves, stores and purges wafer and reticle carriers between process tools across a fab, together with the software that controls it. The issuer's own definition gives the system as transport equipment, storage equipment, purge equipment and the accompanying software. Parent of the AMHS children, and the right node for a whole-fab order or an unsplit basket.",
+    "scope_note": "Fab automated material handling systems (AMHS). Source wording (Mifei prospectus): 半导体 AMHS（Automated Material Handling System）由传送设备、存储设备、净化设备及配套软件系统组成，是保障晶圆厂自动化运转、提升产线效率所必需的核心基础设施. Fab-level carrier logistics — moving, storing and purging FOUPs and reticle pods between process tools — as distinct from wafer-level handling inside or at the face of a single tool, which is wafer_handling. Use this parent for whole-fab (整厂) orders and for mixed baskets the source does not allocate."
+  },
+  {
+    "category_id": "fab_automation_transport",
+    "parent_category_id": "fab_automation",
+    "name": "AMHS transport equipment",
+    "definition": "AMHS transport equipment: the systems that move carriers between tools and floors, principally overhead hoist transport vehicles and rail or roller conveyors, and also automated guided and rail-guided vehicles, mobile robots and lifters. Movement, not storage.",
+    "scope_note": "AMHS transport equipment. Source wording: 传送设备，主要包括天车传送系统和辊道传送系统; OHT = Overhead Hoist Transport，即天车. Also covers AGV, RGV, AMR, Lifter and Conveyor as the source defines them. The issuer states 天车传送系统占整厂 AMHS 的价值量为 50%."
+  },
+  {
+    "category_id": "fab_automation_storage",
+    "parent_category_id": "fab_automation",
+    "name": "AMHS storage equipment",
+    "definition": "AMHS storage equipment: the buffers and stockers that hold wafer and reticle carriers between process steps, including wafer stockers, reticle stockers, cross-floor tower stockers, overhead buffers and near-tool buffers. Storage capacity, not movement: a unit here holds carriers rather than transporting them.",
+    "scope_note": "AMHS storage equipment. Source wording: 存储设备 — Stocker/STK (半导体存储设备，半导体制程中被使用来保护并储存晶圆盒的设备), Wafer Stocker, Reticle Stocker, Tower Stocker (跨楼存储设备), OHB (Over Head Buffer，空中缓存单元), NTB (Near Tool Buffer，缓冲存储设备) and E-Rack (电子货架)."
+  },
+  {
+    "category_id": "fab_automation_purge",
+    "parent_category_id": "fab_automation",
+    "name": "AMHS carrier purge equipment",
+    "definition": "AMHS carrier purge equipment: tool loadport and front-end purge units that flow inert gas through a wafer carrier to suppress cross-contamination and oxidation between process steps. It conditions the carrier's internal atmosphere and does not clean the wafer, so it is not cleaning equipment.",
+    "scope_note": "AMHS carrier purge equipment. Source wording: 净化设备 — TLP = Tool Loadport Purge，即上下料口净化设备; FPS/Front Purge System 指设备前端传送净化装置，该设备用于 FOUP、POD 的净化，减少工序之间的晶圆交叉污染和氧化. Inert-gas purge of wafer carriers, not cleanroom air filtration and not wafer cleaning equipment."
+  },
+  {
+    "category_id": "fab_automation_control_software",
+    "parent_category_id": "fab_automation",
+    "name": "AMHS material control software",
+    "definition": "The material control system software that schedules and drives an AMHS installation, together with the dispatch, storage and process-control modules an issuer sells alongside it. Software, not a tool: a figure here must never aggregate into an equipment total, which is why the node exists separately from the hardware children.",
+    "scope_note": "AMHS material-control software. Source wording: MCS = Material Control System，物料管理控制系统，系 AMHS 核心全自动控制软件，晶圆厂通过该软件全自动控制数量庞大的传送、存储、净化设备; the issuer also names MSTC (天车智能调度系统), MSSC, MSPC and AMS. Software licences, not equipment; proposed so that separately disclosed software revenue is not booked against a hardware category."
+  },
+  {
+    "category_id": "test_prober_die",
+    "parent_category_id": "test",
+    "name": "Die probers",
+    "definition": "Die-level probe stations: probe testers that contact bare dies after the wafer has been diced, as opposed to probing a whole wafer. Typical applications are optoelectronic devices such as photodiodes, avalanche photodiodes and LEDs on smaller wafer sizes.",
+    "scope_note": "Die-level probe stations. Source wording (Sidea annual report): 晶粒探针台是对晶圆划片后的裸晶粒进行检测的探针测试设备…适用于 4-6 英寸 PD、APD、LED 等光电芯片的自动测试. Placed under test rather than under test_prober_handler because the existing category is named and defined for wafer probers and handlers, and a die prober probes singulated dies after dicing, not wafers. If the registry owner prefers, the alternative is to broaden test_prober_handler and make this its child; the observations would move unchanged. Distinct from test_probe_card (the consumable interface) and from ATE testers."
+  },
+  {
+    "category_id": "test_wafer_parametric",
+    "parent_category_id": "test",
+    "name": "Wafer-level parametric / WAT test equipment",
+    "definition": "Wafer-level parametric test equipment — wafer acceptance test — which measures device and process parameters on test structures to monitor the process line.",
+    "scope_note": "Parametric test monitors the process; it is not functional device test and not known-good-die test. A row here asserts nothing about memory or HBM test capability even where the tool's device coverage list names DRAM or flash."
+  },
+  {
+    "category_id": "test_wafer_level_burn_in",
+    "parent_category_id": "test",
+    "name": "Wafer-level burn-in / reliability screening equipment",
+    "definition": "Wafer-level burn-in and reliability screening equipment, which stresses devices at temperature and voltage to precipitate early failures.",
+    "scope_note": "A reliability screen, not a functional test. Membership asserts nothing about memory test capability."
+  },
+  {
+    "category_id": "lithography_direct_imaging_pcb",
+    "parent_category_id": "lithography",
+    "name": "PCB / substrate direct-imaging exposure",
+    "definition": "Maskless direct-imaging (LDI / DI) exposure equipment that writes circuit-layer and solder-mask patterns onto printed circuit boards, flexible circuits, HDI, substrate-like PCB and IC package substrates (IC 载板). Source wording: 「PCB 直接成像设备」.",
+    "scope_note": "Printed-circuit and package-substrate exposure, NOT semiconductor wafer lithography. Do not merge with lithography_frontend, lithography_packaging (wafer/panel-level packaging RDL and bumping) or lithography_mask_writing. An issuer product basket labelled with this category may also carry laser blind-via drilling tools where the issuer itself groups them there; the reporting scope states that."
+  },
+  {
+    "category_id": "metrology_metal_contamination_vpd",
+    "parent_category_id": "metrology",
+    "name": "Vapour-phase-decomposition metal contamination collection",
+    "definition": "Vapour phase decomposition (VPD) equipment that decomposes the wafer surface oxide and collects trace metallic contamination for off-tool analysis, used as an in-line metallic contamination monitor on wafer-fab, large-silicon-wafer and reclaim lines. Source wording: 气相分解金属沾污收集设备 / 金属沾污监控设备.",
+    "scope_note": "A sample-preparation and contamination-monitoring tool, not a cleaning tool and not an unpatterned-surface optical inspector. It does not measure dimensions or film thickness."
+  },
+  {
+    "category_id": "molding",
+    "parent_category_id": "",
+    "name": "Molding / encapsulation",
+    "definition": "Equipment that seals an already-stacked or already-attached die (or a leadframe strip of dies) in epoxy molding compound (EMC) by melting, pressing and curing resin around it, at the level the source discloses when it does not name transfer or compression as the mechanism. Parent of the molding children, and the right node for a combined tool, a basket revenue line spanning both mechanisms, or a reported line whose own text does not say which process its press uses: Naike's own filings state that 'the semiconductor plastic packaging process divides into two: the transfer molding process and the compression molding process, with correspondingly different equipment' (半导体塑料封装工艺分为转注成型工艺和压缩成型工艺两种，对应的工艺设备也有所不同, naike_interim_2026h1 p10), so a figure naming neither sits at this parent rather than being guessed into a child.",
+    "scope_note": "Molded underfill is in scope only where a compression mold tool performs it in the same step that seals the stack (an MR-MUF-style flow). Covers both package-level molding of leadframe and substrate packages, and the molded/liquid underfill a compression mold tool places between already-stacked dies in an MR-MUF-style flow (the mold both seals the stack and fills the inter-die gaps in one step). Excludes: (1) capillary or jetted underfill dispensed by a separate post-bond dispenser (e.g. a jet-dispensing or cure-oven tool), which is not itself a molding press and is out of scope for this packet; (2) die attach and thermocompression bonding, which places and joins the die (with or without a pre-applied non-conductive film, as in TC-NCF) before any mold closes -- the atlas carries that step at bonding/bonding_tcb, and a molding figure never absorbs it; (3) trim-and-form (切筋成型) equipment, which cuts and shapes a leadframe strip after it leaves the mold -- a distinct downstream mechanical step both issuers in this packet report as a separate revenue line from their molding presses, with no equipment category of its own yet in the atlas; (4) the mold tooling itself (the steel/ceramic cavity insert, sold as a spare or standalone product under a issuer's own '模具' product line) -- tooling, not equipment, even when sold by a molding-press maker alongside its presses."
+  },
+  {
+    "category_id": "molding_transfer",
+    "parent_category_id": "molding",
+    "name": "Transfer molding",
+    "definition": "Transfer molding, in the issuer's own words: 'a solid cylindrical plastic raw material is placed in the mold barrel; under high temperature and pressure it melts and flows through runners and gates into the mold cavity, filling it until it cures into the product' (塑料转注成型是将圆柱状塑料固态原料放入模具料筒，塑料原料在高温高压的作用下使其熔融流动经过流道和浇口进入成型型腔并充满直至固化成产品的过程, naike_ipo_2022 p136/'1-1-135'). A plunger pushes the pre-heated, softened pellet of epoxy molding compound through runners and gates into the closed cavity in roughly ten seconds, encapsulating the chip, wires and leadframe in one shot; the long-established mechanism behind most leadframe and substrate-strip packages (DIP, SOT, SOP, LQFP, TSOP, MSOP, DFN, QFN, BGA strips).",
+    "scope_note": "Includes manual as well as automatic transfer presses, and the automated multi-cavity systems both issuers in this packet sell in volume today (Naike's 120-ton and 180-ton automatic packaging equipment, later carried under the NTAMS brand; Sanjia/Zhonghe's FSAM/FSPM/FSDM and 120/180/200/280-ton systems) -- neither issuer's filings name this product line anything other than a molding press or automatic packaging system, so no sub-split by tonnage model is implied. Excludes compression molding (molding_compression) and the trim-and-form equipment both issuers disclose as a separate product line from their molding presses."
+  },
+  {
+    "category_id": "molding_compression",
+    "parent_category_id": "molding",
+    "name": "Compression molding",
+    "definition": "Compression molding, in the issuer's own words: 'powdered or liquid plastic raw material is scattered directly into the mold cavity; under high temperature and pressure it melts and flows to fill the whole cavity until it cures into the product; this method's material utilisation approaches 100%' (塑料压塑成型是将粉状或液态的塑料原料直接撒入模具成型型腔，塑料原料在高温高压的作用下使其熔融流动充满整个型腔直至固化成产品的过程。该成型方法的塑料利用率接近100%, naike_ipo_2022 p136/'1-1-135'). The compound barely flows, which is why both issuers describe it as the mechanism for wafer- and panel-level work: Sanjia calls its wafer-level product 'dedicated compression-molding equipment, suited to wafer-level WLP/panel-level PLP compression molding, comprising press, film-lamination, high-vacuum and precision-mold core units' (压缩成型塑封专用装备，适配晶圆级WLP/面板级PLP等形式的压缩成型塑封，含压机、覆膜、高真空、精密模具等核心单元, sanjia_annual_2025 p12).",
+    "scope_note": "Covers strip-level, wafer-level and panel-level compression tools taking granular, powder or liquid EMC, including a molded-underfill (MUF) function where the source states one (neither issuer in this packet makes an MUF claim; HBM/MUF capability is a forward-look question, not a fact either issuer's filings support). Both issuers describe compression as their newer, not-yet-in-volume line, distinct from their established transfer presses: Naike's own FY2025 report states domestic compression equipment 'is still blank' nationally and names its own compression tools as prototypes under in-house testing or design (naike_annual_2025 p21, p29); Sanjia's wafer-level machine is listed without a production stage and its H1 2026 report still describes it as new-product R&D 'progressing smoothly' (sanjia_annual_2025 p12; sanjia_interim_2026h1 p12). Excludes transfer molding (molding_transfer) and trim-and-form equipment."
+  },
+  {
+    "category_id": "plating",
+    "parent_category_id": "",
+    "name": "Plating",
+    "definition": "Back-end packaging/assembly plating: tin, copper, precious-metal and solar plating systems and related process chemicals, applied as a lead-finish or interconnect-finish step after die attach/packaging (Besi's own wording: 'Tin, copper, precious metal and solar plating systems and related process chemicals', besi_annual_2025 p7). Opened for Besi's 'Plating' operating/product group, which is already a single, undivided disclosure line (not a basket) at Besi's own granularity. Distinct from deposition_ecp, which is FRONT-END wafer-level electrochemical plating (e.g. copper damascene interconnect) in a different process context and a different equipment market; do not conflate the two or allocate deposition_ecp evidence here or vice versa.",
+    "scope_note": "Top-level branch, opened because nothing in the existing taxonomy fits and forcing a back-end plating line into deposition_ecp would misrepresent both processes. Note what the category does NOT promise: the only line populating it, Besi's Plating product group, is by the issuer's own wording 'systems and related process chemicals' including SOLAR plating, so it mixes equipment with consumable chemicals and semiconductor with non-semiconductor end markets. That is recorded in the scope rather than hidden, and it means this category's revenue is not a clean semiconductor-plating-equipment figure and must not be presented as one. Watch for a Chinese back-end plating-equipment maker to register here, which would make the comparator pairing complete the way bonding_tcb's already is."
+  }
+]

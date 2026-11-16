@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "hiwave_2025",
+    "dataset_id": "hiwave_disclosures",
+    "title": "Shanghai Hiwave Precision Instrument FY2025 annual report",
+    "publication_date": null,
+    "publication_date_precision": "unknown",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604231821510099_1.pdf",
+    "sha256": "18b2ea731669e93a03b6f50c4d993fd9dddcbf256fc441dc52ebf562770f40ac",
+    "source_type": "company_annual_report",
+    "original_document_id": "hiwave_2025",
+    "page_count": 112,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored filing held from public Eastmoney PDF mirror, not asserted an exchange-hosted original. Cover and identity verified locally; filename/PDF creation date alone not proof of release date, which remains unknown. Registration is not extraction completeness."
+  },
+  {
+    "source_id": "hiwave_h1_2026",
+    "dataset_id": "hiwave_disclosures",
+    "title": "Shanghai Hiwave Precision Instrument H1 2026 semi-annual report",
+    "publication_date": null,
+    "publication_date_precision": "unknown",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202608261828490459_1.pdf",
+    "sha256": "7ee841d9f414b859db70d70e67701f55fa09cb8fdcbf7cc55130348c6798eb3b",
+    "source_type": "company_interim_report",
+    "original_document_id": "hiwave_h1_2026",
+    "page_count": 106,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored full report retrieved from public filing mirror for identified local interim gap. Cover legal identity, NEEQ837263 and H1 2026 visually verified. URL/PDF creation date are not treated as verified publication date. Report states unaudited. Registration does not establish extraction coverage."
+  }
+]

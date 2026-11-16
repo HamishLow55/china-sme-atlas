@@ -1,0 +1,168 @@
+[
+  {
+    "target_id": "wave3_secote_10",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [
+      "SECOTE2023-CR",
+      "SECOTE2024-CR",
+      "SECOTE2025-CR"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_secote_11",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [
+      "SECOTE2023-SEMI-REV",
+      "SECOTE2024-SEMI-REV",
+      "SECOTE2025-SEMI-REV"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_secote_13",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [
+      "SECOTE2023-SEMI-COST",
+      "SECOTE2024-SEMI-COST",
+      "SECOTE2025-SEMI-COST"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_secote_14",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [
+      "SECOTE2023-SEMI-GM",
+      "SECOTE2024-SEMI-GM",
+      "SECOTE2025-SEMI-GM"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  },
+  {
+    "target_id": "wave3_secote_missing_sales_volume",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [],
+    "next_action": "No comparable annual semiconductor equipment unit/new-order series found in the targeted financial and operating sections. Whole-group units, cumulative family shipments, backlog and overlapping customer contracts do not supply it; see section checklists for the search boundary."
+  },
+  {
+    "target_id": "wave3_secote_missing_new_orders",
+    "task_id": "wave3_secote",
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "secote_semiconductor_business",
+    "platform_id": "",
+    "metric_id": "new_orders",
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "secote_fy2023",
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [],
+    "next_action": "No comparable annual semiconductor equipment unit/new-order series found in the targeted financial and operating sections. Whole-group units, cumulative family shipments, backlog and overlapping customer contracts do not supply it; see section checklists for the search boundary."
+  }
+]

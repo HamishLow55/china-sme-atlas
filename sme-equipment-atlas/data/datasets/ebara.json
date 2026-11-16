@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "ebara_disclosures",
+    "title": "Ebara Corporation IR disclosures (Japanese annual securities reports and half-year reports, EDINET)",
+    "kind": "company_filings",
+    "publisher": "ebara",
+    "version": "w11-foreign-incumbent-intake-2026-10-02",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/Ebara filings/. ACQUISITION: Ebara's own IR site (ebara.com, and ebara.co.jp which redirects to it) returned HTTP 403 Forbidden (Akamai bot protection) for every index page and direct PDF link tested, via both curl and this harness's WebFetch tool; nothing could be downloaded from the issuer's own site. All seven filings held for this packet were instead downloaded directly from EDINET (disclosure2.edinet-fsa.go.jp / disclosure2dl.edinet-fsa.go.jp), Japan's statutory electronic-disclosure system, which hosts the identical 有価証券報告書 (annual securities report) and 半期報告書 (half-year report) filings as primary documents in their own right (per the brief's own fallback ordering). FISCAL YEAR: confirmed from the cover sheet of every filing held ('事業年度... 自 YYYY年1月1日 至 YYYY年12月31日') as ending 31 December -- Ebara does NOT carry the April-start fiscal year of TOWA/DISCO/Advantest/SCREEN/Accretech; all periods in this packet are calendar years or calendar half-years. PAGE OFFSET: none in any of the seven PDFs -- the printed page number in the footer equals the physical PDF page throughout (confirmed by direct search for distinctive table values on the candidate physical page, not assumed from the footer alone, for every citation in this packet). UNIT: all monetary figures in this packet are printed in whole millions of yen (百万円) at the table/statement level actually cited; no thousands-of-yen table was used (unlike the W8 TOWA intake, which hit a JPY_thousand schema gap -- that gap no longer exists, as JPY_thousand is now a declared unit on every metric this packet uses, but it was not needed here regardless because Ebara's own segment and statement tables are already in millions). SCOPE: Ebara's Precision & Electronics segment is the only line in any filing reviewed that discloses CMP or plating equipment, and it bundles both together with vacuum pumps and exhaust-gas treatment equipment with no finer split anywhere -- see the entity note for the full finding. NOT OBTAINED: no 決算短信 (kessan tanshin) and no English Integrated Report/Financial Report -- Ebara's site blocking prevented both, and the annual securities reports already supply everything the brief asked for.",
+    "market_definitions": {}
+  }
+]

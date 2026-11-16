@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "xinhuilianxin_f9zt_investors_20250123",
+    "dataset_id": "xinhuilianxin_disclosures",
+    "title": "九方智投 (转载财联社) — 百傲化学1亿元增资芯慧联新，多家半导体巨头现身标的企业最新股东榜",
+    "publication_date": "2025-01-23",
+    "publication_date_precision": "day",
+    "url": "https://www.9fzt.com/cls_1279/topic_1175a0995d4092dd0c3c1bad50c7ae37.html",
+    "sha256": "df30a5f17462fce4efff48df0f8ca0b12f989aea5e8f2ae01d00255a000e612e",
+    "source_type": "third_party_press_report",
+    "original_document_id": "xinhuilianxin_f9zt_investors_20250123",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07; 转载财联社 (China Securities Journal e-Company wire), dated 2025-01-23 20:34, reporting on the same Baiao/Xinhuilianxin capital-increase deal as xinhuilianxin_cnstock_baiao_announcement_20250124. Reporter adds: 芯慧联新 split from 苏州芯慧联半导体科技有限公司 (芯慧联); as of around May 2024 芯慧联's wafer-bonding equipment was '仍处于研发阶段' (still at R&D stage) while its other businesses were already profitable, which is given as the reason for the derivative split; names investors in this round as including 中芯国际/SMIC (688981.SH), 兆易创新/GigaDevice (603986.SH) and 长鑫/CXMT — the last via an affiliated investment vehicle, 合肥启航恒鑫投资基金合伙企业（有限合伙）, described as 长鑫科技集团股份有限公司的关联投资主体, not a direct 长鑫 holding."
+  },
+  {
+    "source_id": "xinhuilianxin_ljzfin_rollout_20241106",
+    "dataset_id": "xinhuilianxin_disclosures",
+    "title": "陆家嘴金融网 (新华金融信息中心) — 半导体设备国产化又一重大突破！芯慧联新首台混合键合设备出货",
+    "publication_date": "2024-11-06",
+    "publication_date_precision": "day",
+    "url": "http://www.ljzfin.com/info/80882.jspx",
+    "sha256": "9ebc2ecf3d54fde99a7e5640770c532b46e96e1b7fbc8f88c90e8ce1b12175e2",
+    "source_type": "third_party_press_report",
+    "original_document_id": "xinhuilianxin_ljzfin_rollout_20241106",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Archived 2026-10-07; article dated 2024-11-06 17:32:49, sourced '本文来源：中国金融信息中心 陆家嘴金融网' (Xinhua's financial information centre). Reports a 2024-11-06 出机仪式 (equipment roll-out ceremony) in Changshu, Jiangsu for Xinhuilianxin's D2W hybrid bonder SIRIUS RT300 and its first (首台) W2W hybrid bonder CANOPUS RT300; states the pre-split parent 芯慧联's wafer-bonding business was '主要应用于HBM、3D闪存生产制造等3D化IC应用领域'; and attributes to the company a broad, non-numeric ranking claim that its W2W/D2W bonders rank among the top of all tested manufacturers on bond strength, interface-defect rate, alignment accuracy and micro-distortion."
+  }
+]

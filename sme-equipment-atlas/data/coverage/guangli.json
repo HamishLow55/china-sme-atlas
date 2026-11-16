@@ -1,0 +1,136 @@
+[
+  {
+    "coverage_id": "guangli_2025_installed_base",
+    "entity_id": "guangli",
+    "metric_id": "cumulative_installations",
+    "category_id": "multi_equipment",
+    "period": "2025",
+    "status": "reviewed_not_found",
+    "scope": "Numerical installed base in named original operating sections",
+    "reviewed_source_ids": [
+      "guangli_2025"
+    ],
+    "notes": "Sol and Terra reviewed original physical pp9-29, including installed/fleet/cumulative/delivery wording. No numerical installed-base count found in this bounded source set. Sales/production/inventory, batch orders and customer validation are separate claims, not installations.",
+    "next_action": "Reopen for a new original or a located installed-base passage; never infer zero or deployed stock from sales."
+  },
+  {
+    "coverage_id": "guangli_h1_2026_installed_base",
+    "entity_id": "guangli",
+    "metric_id": "cumulative_installations",
+    "category_id": "multi_equipment",
+    "period": "H1 2026",
+    "status": "reviewed_not_found",
+    "scope": "Numerical installed base in named original operating sections",
+    "reviewed_source_ids": [
+      "guangli_h1_2026"
+    ],
+    "notes": "Sol and Terra reviewed original physical pp10-26, including installed/fleet/cumulative/delivery wording. No numerical installed-base count found in this bounded source set. Sales/production/inventory, batch orders and customer validation are separate claims, not installations.",
+    "next_action": "Reopen for a new original or a located installed-base passage; never infer zero or deployed stock from sales."
+  },
+  {
+    "coverage_id": "guangli_2025_physical_volumes",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "Source semiconductor business physical volumes and printed growth FY2025/FY2024",
+    "reviewed_source_ids": [
+      "guangli_2025"
+    ],
+    "notes": "Original physical p29: all three semiconductor business rows and both year columns plus printed growth integrated. Counted product mix and domestic/overseas split not disclosed; safety-monitoring sibling excluded from HBM scope.",
+    "next_action": "Do not allocate these counts to dicing subtypes or component populations; preserve source basket."
+  },
+  {
+    "coverage_id": "guangli_recent_product_definitions",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "Named tool families and domestic/overseas production boundaries",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "FY2025pp11-13 and H1pp12-15 explicitly describe mechanical/laser dicing and grinding products. Six named models and H1 stages canonical; source-listed remaining mechanical variants are uncounted product identities, not additional sales. Domestic/Israel product lists retained as separate evidence; UK/Israel technology sharing does not establish domestic origin for every tool.",
+    "next_action": "Capture remaining source-defined mechanical models only when needed for category coverage; exclude component-only products."
+  },
+  {
+    "coverage_id": "guangli_recent_qualification",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "Orders, trials and qualification stages",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "FY2025p27 and H1p26: 8230CF/82WT batch orders, 9130/3230 customer validation, 9320 sample trials, 3330 prototype function testing captured. FY2025 reports 8231 formal sales orders while H1 includes it among products in validation; these are different source-vintage claims and not proof of completed qualification.",
+    "next_action": "Keep dates and model-specific stages; no HBM qualification or installed-base inference."
+  },
+  {
+    "coverage_id": "guangli_recent_orders_backlog",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "Qualitative order evidence; numerical order/backlog disclosure limit",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "FY2025pp19,27 and H1pp18,26,32 state orders growing and identify selected models with orders. No numerical new-order/backlog stock found in those operating passages. Contract liabilities, shipment volume and sales are not backlog.",
+    "next_action": "Retain model order histories; do not fabricate order quantities."
+  },
+  {
+    "coverage_id": "guangli_recent_customers",
+    "entity_id": "guangli",
+    "status": "unresolved",
+    "scope": "Named customers and customer counts",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "Operating product passages FY2025pp11-13,19,27 and H1pp12-18,26 describe unnamed customer tests/order activity. FY2025p30 top-customer table uses ranked anonymous labels; this is not an issuer customer count or named model qualification. No customer identity resolved from these passages.",
+    "next_action": "Hold identity mapping; retain anonymous customer/qualification descriptions without guessing names."
+  },
+  {
+    "coverage_id": "guangli_recent_production_capacity",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "Qualitative factory utilization versus numerical capacity",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "FY2025p27 describes existing production-line optimization and second-phase factory construction. H1p26 states domestic semiconductor business operated at full capacity, without numerical annual tools/year capacity. This is a business-level assertion, not each product in mass production.",
+    "next_action": "Preserve qualitative capacity claim; no numerical capacity observation or model-level stage inheritance."
+  },
+  {
+    "coverage_id": "guangli_recent_process_nodes",
+    "entity_id": "guangli",
+    "status": "unresolved",
+    "scope": "Source low-k linewidth claim versus process-node qualification",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "FY2025p13 and H1p14 describe 9130 for low-k wafer surface grooving at 40nm and below line widths. Preserve source wording: it does not establish qualified fabrication node or model production use. Wafer diameters, tool axes and grinding thickness are not process nodes.",
+    "next_action": "Hold numerical node mapping until source exact linewidth context is represented; do not attach this claim to business volumes/revenue."
+  },
+  {
+    "coverage_id": "guangli_recent_h126_product_volumes",
+    "entity_id": "guangli",
+    "status": "reviewed_not_found",
+    "scope": "H1 2026 physical product sales/production/inventory",
+    "reviewed_source_ids": [
+      "guangli_h1_2026"
+    ],
+    "notes": "H1 operating sections pp10-27 reviewed: qualitative product/order stages but no counterpart to the FY2025p29 physical-volume table. Annual counts cannot be carried forward as interim values.",
+    "next_action": "Retain named-source absence; reopen for a new source."
+  },
+  {
+    "coverage_id": "guangli_recent_key_financials",
+    "entity_id": "guangli",
+    "status": "reviewed_found",
+    "scope": "FY2024/FY2025 and H1 2026 key financials with source-printed comparatives and changes",
+    "reviewed_source_ids": [
+      "guangli_2025",
+      "guangli_h1_2026"
+    ],
+    "notes": "Annual physical pp8/28/32 and H1 pp8/27 (header p26) independently reviewed for company revenue, attributable profit, operating cash flow, R&D investment and distinct semiconductor industry/product revenue. Annual p49 year-end consolidated employee total included. No derived comparative segment levels or unsupported dicing allocation.",
+    "next_action": "Recent key pass complete; prioritize other HBM gaps over financial depth. Reopen only for a new relevant original or a specific missing claim."
+  }
+]

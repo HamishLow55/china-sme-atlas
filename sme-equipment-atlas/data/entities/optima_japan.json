@@ -1,0 +1,13 @@
+[
+  {
+    "entity_id": "optima_japan",
+    "name": "OPTIMA Corporation",
+    "aliases": [
+      "OPTIMA株式会社",
+      "Optima 株式会社"
+    ],
+    "parent_entity_id": "secote",
+    "notes": "Japan-based subsidiary acquired by Secote; not a Chinese-origin supplier. Year-specific ownership percentages remain in source-located evidence and notes rather than the entity identity.\n\nentity_class is china_supply_base by GROUP attribution: this company's results consolidate into a Chinese-controlled parent, and the atlas counts it on that side of the indigenisation comparison. The field says which side of that comparison the entity sits on; it is not a statement about where the company is domiciled or where its technology originated.",
+    "entity_class": "china_supply_base"
+  }
+]

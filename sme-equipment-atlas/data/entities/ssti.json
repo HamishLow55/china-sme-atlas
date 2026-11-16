@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "ssti",
+    "name": "SCPL Semiconductor Test & Inspection Pte. Ltd.",
+    "aliases": [
+      "SSTI",
+      "SCPL SEMICONDUCTOR TEST & INSPECTION PTE. LTD."
+    ],
+    "parent_entity_id": "unicomp",
+    "evidence": {
+      "source_id": "unicomp_h1_2026",
+      "page": 4,
+      "excerpt": "SCPL SEMICONDUCTOR TEST & INSPECTION PTE. LTD.，\nSSTI          指\n                  公司控股孙公司",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24"
+    },
+    "notes": "Singapore controlled grandson, acquired early January 2026; 66% acquisition disclosed p49. Do not backdate or infer Chinese-origin technology.\n\nentity_class is china_supply_base by GROUP attribution: this company's results consolidate into a Chinese-controlled parent, and the atlas counts it on that side of the indigenisation comparison. The field says which side of that comparison the entity sits on; it is not a statement about where the company is domiciled or where its technology originated.",
+    "entity_class": "china_supply_base"
+  }
+]

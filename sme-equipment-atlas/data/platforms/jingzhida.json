@@ -1,0 +1,404 @@
+[
+  {
+    "platform_id": "jingzhida_9_gbps_high_speed_ft_tester",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_product",
+    "name": "9 Gbps high-speed FT tester",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-005",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "公司在高速芯片测试领域取得关键突破，向客户交付首台自主研发的 9 Gbps 高速 FT 测试机，同时稳步推进 18 Gbps 高速 FT 测试机项目。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "first_unit_delivered",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated.",
+    "maturity_history": [
+      {
+        "claim_id": "jingzhida-ann-005-006",
+        "source_id": "jingzhida_voluntary_rd_progress_2025",
+        "page": 1,
+        "excerpt": "该产品已完成公司内部测试，测试结果均达到设计要求。截至本公告日，本公司已向客户提供该产品样机进行验证。",
+        "as_of": "2025-01-06",
+        "reported_maturity": "internal_test_completed_and_prototype_provided_for_customer_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-22",
+        "claim_kind": "company_reported",
+        "notes": "As-of uses the source-supported board signature date only as document context; exact internal-test/prototype dates and exchange publication date are unknown. Customer validation is underway, not complete."
+      },
+      {
+        "claim_id": "jingzhida-ann-007",
+        "source_id": "jingzhida_voluntary_rd_progress_2025",
+        "page": 2,
+        "excerpt": "该产品研发取得重大进展到实现大规模量产尚需一定的周期和验证流程，目前主要客户尚未完成最终验证工作，且存在市场环境变化、竞争加剧等因素导致产品效益不及预期的风险，对公司收入及盈利的影响尚存在不确定性。",
+        "as_of": "2025-01-06",
+        "reported_maturity": "major_customers_final_validation_incomplete_and_large_scale_production_not_established",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-22",
+        "claim_kind": "company_reported",
+        "notes": "Explicit negative maturity boundary. Document signature date is context, not event or publication date."
+      }
+    ]
+  },
+  {
+    "platform_id": "jingzhida_18_gbps_high_speed_ft_tester_project",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_project",
+    "name": "18 Gbps high-speed FT tester project",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-005",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "公司在高速芯片测试领域取得关键突破，向客户交付首台自主研发的 9 Gbps 高速 FT 测试机，同时稳步推进 18 Gbps 高速 FT 测试机项目。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "project_in_progress",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated.",
+    "maturity_history": [
+      {
+        "claim_id": "jingzhida-h126-18g-advance",
+        "source_id": "jingzhida_h1_2026",
+        "page": 13,
+        "excerpt": "报告期内，公司重点推进存力赛道核心技术攻关，取得 18Gbps 超高速 FT 测试设备关键技术突破。通过升级 32 Way 交织技术，依托自研架构输出高频 ALPG 信号，精准匹配下一代 DRAM 高速率、大容量的测试需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "key_technology_breakthrough_project_advancing",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Project-level statement: 有序推进 and 核心技术指标达到预期目标 (pp12-13). No prototype, shipment, customer validation or delivery of an 18 Gbps tester is stated in the H1 report, and the 18 Gbps project is absent from the p23 table of projects above 1,000 万元."
+      }
+    ]
+  },
+  {
+    "platform_id": "jingzhida_xr_inspection_equipment_family",
+    "entity_id": "jingzhida",
+    "category_id": "display_device_inspection",
+    "record_kind": "source_native_family",
+    "name": "XR inspection equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-006",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "在 XR 检测设备领域，公司已实现系列设备批量交付，产品线全面覆盖晶圆检测、老化设备、模组检测、信号发生器、光学仪器等核心品类。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "batch_delivery_reported_for_series_equipment",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_g8_6_amoled_inspection_solution",
+    "entity_id": "jingzhida",
+    "category_id": "display_device_inspection",
+    "record_kind": "source_native_solution",
+    "name": "G8.6 AMOLED inspection solution",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-008",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "报告期内，公司已获得国内头部面板厂批量订单，并助力客户 G8.6 AMOLED 生产线首款产品点亮。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "batch_order_and_first_product_light_up_reported",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_wide_temperature_probe_card",
+    "entity_id": "jingzhida",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_product",
+    "name": "Wide-temperature probe card",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-013",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "针对高温测试场景，研发支持 125 度高温的探针卡，采用新型合金材料与优化结构设计，可在-40℃至 125℃宽温度范围内稳定工作，有效适配芯片老化测试等严苛场景。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "in_development",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_ccc_high_current_probe_card",
+    "entity_id": "jingzhida",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_product",
+    "name": "CCC high-current probe card",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-014",
+      "source_id": "jingzhida_annual_2025",
+      "page": 22,
+      "excerpt": "针对大电流测试需求，打造 CCC 支持 1A 以上大电流的探针卡，可稳定承载大电流传输。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "capability_reported_maturity_not_stated",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_2_4_gbps_high_speed_probe_card_project",
+    "entity_id": "jingzhida",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_project",
+    "name": "2.4 Gbps high-speed probe card project",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-015",
+      "source_id": "jingzhida_annual_2025",
+      "page": 23,
+      "excerpt": "公司重点推进 2.4Gbps 高速探针卡研发围绕 PCB 多层板一分多高速性能、陶瓷基板高速性能开展系统性研究，优化信号完整性与阻抗匹配，进一步夯实核心技术竞争力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "rd_in_progress",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_micro_led_cp2",
+    "entity_id": "jingzhida",
+    "category_id": "display_device_inspection",
+    "record_kind": "source_native_product",
+    "name": "Micro-LED wafer-probe optical test equipment (CP2)",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-016",
+      "source_id": "jingzhida_annual_2025",
+      "page": 23,
+      "excerpt": "在 XR 检测设备方面，公司在研的 Micro-LED 晶圆探针光学测试设备（CP2）可在晶圆环节完成数千颗 Die 的电学与光学性能的同步量检测。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "in_development",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_micro_led_mt",
+    "entity_id": "jingzhida",
+    "category_id": "display_device_inspection",
+    "record_kind": "source_native_product",
+    "name": "Module test equipment (MT)",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-017",
+      "source_id": "jingzhida_annual_2025",
+      "page": 23,
+      "excerpt": "同时，自主研发的模组测试设备（MT）已完成部分核心指标验证及关键技术方案验证，该研发项目旨在解决 Micro-LED 模组级检测中产品色亮度波动大、测量速度慢、产品光谱偏移等关键问题。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "partial_core_indicator_and_technical_solution_validation",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_memory_back_end_test_products",
+    "entity_id": "jingzhida",
+    "category_id": "test",
+    "record_kind": "source_native_family",
+    "name": "Semiconductor-memory back-end test product family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "jingzhida2025-narrative-020",
+      "source_id": "jingzhida_annual_2025",
+      "page": 23,
+      "excerpt": "公司核心产品已获得国内头部半导体存储厂商的广泛认可并实现批量交付，积累了丰富的量产经验。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "batch_delivery_and_production_experience_reported",
+    "maturity_as_reported_in": "jingzhida_annual_2025",
+    "notes": "Maturity is source-qualified and applies only to this record. Related application wording does not establish customer qualification or production use unless explicitly stated."
+  },
+  {
+    "platform_id": "jingzhida_unnamed_high_speed_tester_first_delivery_2025",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_product",
+    "name": "Unnamed high-speed tester first delivered in 2025 notice",
+    "aliases": [
+      "高速测试机"
+    ],
+    "evidence": {
+      "claim_id": "jingzhida-ann-029",
+      "source_id": "jingzhida_voluntary_first_high_speed_tester_2025",
+      "page": 1,
+      "excerpt": "公司近日向国内重点客户交付首台高速测试机。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "first_unit_delivered_to_unnamed_domestic_key_customer",
+    "maturity_as_reported_in": "jingzhida_voluntary_first_high_speed_tester_2025",
+    "notes": "Source-native unnamed product record. The notice places it in semiconductor-memory testing but does not state 9 Gbps, model identity, exact delivery date, acceptance, qualification, production use or batch orders. Identity with the existing 9 Gbps platform remains unresolved.",
+    "maturity_history": [
+      {
+        "claim_id": "jingzhida-prosp-first-tester-adv-pkg",
+        "source_id": "jingzhida_placement_prospectus_20260810",
+        "page": 52,
+        "excerpt": "在先进封装测试领域，公司已向国内重点客户交付首台高速测试机，持续深化对前沿场景的产品覆盖。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_unit_delivered_to_domestic_key_customer_placed_in_advanced_packaging_test_field",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Restates the first delivery and adds the 先进封装测试领域 placement. No speed, acceptance, repeat order or HBM use is stated. Identity with the 9 Gbps tester stays unresolved."
+      }
+    ]
+  },
+  {
+    "platform_id": "jingzhida_memory_burn_in_repair_equipment",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_family",
+    "name": "半导体存储老化测试及修复设备",
+    "aliases": [],
+    "evidence": {
+      "source_id": "jingzhida_refinancing_inquiry_reply_2026",
+      "page": 13,
+      "excerpt": "半导体存储老化测试及修复设备已实现规模量产，并在国内头部客户批量应用",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24"
+    },
+    "reported_maturity": "mass_production_and_batch_application_at_leading_domestic_customer",
+    "maturity_as_reported_in": "jingzhida_refinancing_inquiry_reply_2026",
+    "notes": "Specific burn-in/repair family within existing broad back-end test portfolio; no count, HBM qualification or named client. Do not transfer stage to CP/FT or next-generation R&D. Excerpt transcribes the single existing-business cell on physical p13, visually checked; PDF text interleaves adjacent project columns. No transfer of this stage to HBM R&D.",
+    "maturity_history": [
+      {
+        "claim_id": "jingzhida-h126-burnin-import-substitution",
+        "source_id": "jingzhida_h1_2026",
+        "page": 11,
+        "excerpt": "公司与国内头部半导体存储厂商、新型显示制造厂商建立长期稳定的深度合作关系，核心产品规模化应用于国内头部厂商生产线。其中老化测试及修复设备、探针卡等产品成功实现进口替代，成为国内头部半导体存储厂商主力供应商。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "import_substitution_achieved_main_supplier_to_leading_domestic_memory_makers",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Company claim; customers unnamed. Prospectus p52 adds 已实现规模量产，出货量稳步提升 for probe cards and burn-in. Applies to burn-in and probe cards, not to CP or FT testers or HBM."
+      }
+    ]
+  },
+  {
+    "platform_id": "jingzhida_memory_cp_tester_family",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_family",
+    "name": "半导体存储晶圆（CP）测试机",
+    "aliases": [],
+    "evidence": {
+      "source_id": "jingzhida_refinancing_inquiry_reply_2026",
+      "page": 11,
+      "excerpt": "公司现有业务已实现半导体存储老化测试及修复设备产品的产业化布局，前\n次募投项目主要聚焦产品研发，未涉及产品产业化布局。随着公司自主研发进程\n的顺利推进和研发成果的逐步转化落地，本次募投项目将全面布局半导体存储老\n化测试及修复设备、半导体存储晶圆（CP）测试机、半导体存储成品（FT）测试\n机等产品的产业化建设，在现有业务基础上进一步拓展半导体测试设备领域的产\n品版图，提升公司在晶圆测试、封装测试等产业链环节的产品产业化能力，构建\n起覆盖半导体存储测试全流程的产业化产品矩阵。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24"
+    },
+    "reported_maturity": "planned_industrialization_current_progress_withheld",
+    "maturity_as_reported_in": "jingzhida_refinancing_inquiry_reply_2026",
+    "notes": "Whole CP tester family named in industrialization project. Current progress explicitly withheld on p21. No evidence of CP shipment, acceptance, production use or HBM qualification."
+  },
+  {
+    "platform_id": "jingzhida_nand_flash_hsft_project",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_project",
+    "name": "NAND FLASH HSFT project",
+    "aliases": [
+      "NAND FLASH HSFT"
+    ],
+    "evidence": {
+      "claim_id": "jingzhida-h126-rd-nand",
+      "source_id": "jingzhida_h1_2026",
+      "page": 23,
+      "excerpt": "项目名称：NAND FLASH HSFT；进展或阶段性成果：样机研发阶段；拟达到目标：支持测试接口：ONFI 6.0/5.x/4.x；并行测试能力：256DUT；测试速率：9Gbps；支持编程/擦除验证；支持读取验证。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "prototype_rd_stage",
+    "maturity_as_reported_in": "jingzhida_h1_2026",
+    "notes": "Target specification at 样机研发阶段, not a delivered tool. Excerpt names the table columns; cells read from rendered p23. Identity with the FY2024 S6680 row is not stated."
+  },
+  {
+    "platform_id": "jingzhida_soc_ate_project",
+    "entity_id": "jingzhida",
+    "category_id": "test",
+    "record_kind": "source_native_project",
+    "name": "SoC ATE project",
+    "aliases": [
+      "SoC ATE"
+    ],
+    "evidence": {
+      "claim_id": "jingzhida-h126-rd-soc",
+      "source_id": "jingzhida_h1_2026",
+      "page": 23,
+      "excerpt": "项目名称：SoC ATE；进展或阶段性成果：样机试制阶段；拟达到目标：整机支持最大 3 个 cage 共 27 个槽位；数字通道最大支持 6,912 个，最高频率 1.6Gbps；支持不低于 2,000 个 DPS 电源通道，支持单组 3,000A 以上大电流供电能力；支持整机大于 64 通道微波射频/高速/精密混合信号收发检测。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "prototype_trial_production_stage",
+    "maturity_as_reported_in": "jingzhida_h1_2026",
+    "notes": "Logic and SoC tester project, not memory; the category stays at test because no SoC ATE child exists. Identity with the FY2024 S8930 row is not stated."
+  },
+  {
+    "platform_id": "jingzhida_mems_probe_card_family",
+    "entity_id": "jingzhida",
+    "category_id": "test_probe_card",
+    "record_kind": "source_native_family",
+    "name": "MEMS 探针卡",
+    "aliases": [
+      "MEMS 探针卡"
+    ],
+    "evidence": {
+      "claim_id": "jingzhida-h126-probe-volume",
+      "source_id": "jingzhida_h1_2026",
+      "page": 13,
+      "excerpt": "探针卡是半导体晶圆测试（CP）环节的核心硬件接口，承担自动测试设备（ATE）与待测晶圆微米级焊盘之间电气信号连通功能，是实现芯片功能及性能筛选的关键载体。伴随 AI 与高性能计算（HPC）产业快速发展，高带宽内存（HBM）市场需求持续上行，DRAM 晶圆测试对测试速率、测试精度、并行度及运行稳定性的要求不断提升。报告期内，该产品量产交付规模持续扩大。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "volume_delivery_scale_expanding",
+    "maturity_as_reported_in": "jingzhida_h1_2026",
+    "notes": "HBM appears here as market context. 量产交付 attaches to the probe-card product generally and is not stated to be an HBM probe card: no application link is filed, and it must not be read as HBM production. Product name MEMS 探针卡 from H1 p17 and prospectus p26."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "reporting_scope_id": "wuxi_shangji_pvd_equipment",
+    "category_id": "deposition_pvd",
+    "label": "PVD 设备",
+    "definition": "Wuxi Shangji PVD equipment class in the Piotech restructuring draft. Includes small stand-alone chamber sales in revenue, not in units."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_dry_etch_equipment",
+    "category_id": "etch_dry",
+    "label": "干法刻蚀设备",
+    "definition": "Wuxi Shangji dry-etch equipment class in the Piotech restructuring draft."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_cvd_equipment",
+    "category_id": "deposition_cvd",
+    "label": "CVD 设备",
+    "definition": "Wuxi Shangji CVD equipment class in the Piotech restructuring draft."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_other_main_business",
+    "category_id": "all_businesses",
+    "label": "其他",
+    "definition": "其他 row under 主营业务收入 in the Piotech restructuring draft; composition not stated."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_main_business",
+    "category_id": "multi_equipment",
+    "label": "主营业务收入小计",
+    "definition": "主营业务收入 subtotal in the Piotech restructuring draft."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_spare_parts",
+    "category_id": "all_businesses",
+    "label": "备品备件",
+    "definition": "备品备件 row under 其他业务收入."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_other_other_business",
+    "category_id": "all_businesses",
+    "label": "其他业务其他",
+    "definition": "其他 row under 其他业务收入."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_other_business",
+    "category_id": "all_businesses",
+    "label": "其他业务收入小计",
+    "definition": "其他业务收入 subtotal."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_frontier_rd_project_2026",
+    "category_id": "multi_equipment",
+    "label": "高端半导体设备前沿技术研发项目",
+    "definition": "Project funded by the supporting fundraise, conditional on the deal."
+  },
+  {
+    "reporting_scope_id": "wuxi_shangji_production_base_project_2026",
+    "category_id": "multi_equipment",
+    "label": "高端半导体设备生产基地项目",
+    "definition": "Wuxi Shangji production-base project funded by the supporting fundraise in the Piotech restructuring draft p262. Conditional on the deal."
+  }
+]

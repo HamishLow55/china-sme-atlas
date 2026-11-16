@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "laipu",
+    "name": "Chengdu LasTop Technology",
+    "aliases": [
+      "成都莱普科技股份有限公司",
+      "莱普科技",
+      "莱普",
+      "Chengdu LasTop Tech Co.,Ltd.",
+      "LasTop"
+    ],
+    "evidence": {
+      "source_id": "laipu_prospectus_2026",
+      "page": 40,
+      "excerpt": "中文名称                  成都莱普科技股份有限公司\n英文名称                  Chengdu LasTop Tech Co.,Ltd.\n注册资本                  4,818.00 万元\n法定代表人                 叶向明\n有限公司成立日期              2003 年 12 月 22 日\n股份公司成立日期              2021 年 9 月 1 日\n公司住所                  成都高新区康强三路 179 号\n邮政编码                  611730\n联系电话                  028-88556028\n传真号码                  028-85222347\n互联网网址                 http://www.la-ap.com\n电子邮箱                  dshbgs@la-ap.com\n负责信息披露和投资者关系的部门       董事会办公室\n信息披露和投资者关系负责人、电话      唐昊、028-88556028",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Applicant for a first-time public offering on the SSE STAR Market (上海证券交易所科创板); prospectus is a draft for filing (申报稿), SSE disclosure-portal date 24 September 2026, not yet listed and so has no stock code (p5/printed 1-1-4: 拟上市的证券交易所和板块 上海证券交易所科创板; confirmed by 招股说明书签署日期【】年【】月【】日 -- signature date still blank). Legal name, registered capital and founding dates are from its own 公司信息 table (p40/printed 1-1-39, quoted in evidence): limited company founded 2003-12-22, converted to a joint-stock company 2021-09-01. Business scope as the filing states it (p3/printed 1-1-2, p23-24/printed 1-1-22 to 1-1-23, p151-152/printed 1-1-150 to 1-1-151): two product lines, BOTH squarely semiconductor equipment -- 激光热处理设备 (laser thermal processing equipment: LIC, LIEG, USJLA, DALA plus unnamed IGBT/SiC/BSI-CCD laser-anneal tools, sold into 12-inch IC wafer fab) and 专用激光加工设备 (specialized laser processing equipment: dicing/marking/debonding/deflash tools for IC front-end and back-end/advanced-packaging lines; p152/printed 1-1-151 names its customers as 华天科技, 长电科技, 达迩科技, 比亚迪半导体, 佰维存储, 菲尼克斯 -- all semiconductor OSAT/packaging/device firms, not PV or other non-semiconductor buyers). No PV or other non-semiconductor-equipment business was identified in the business-description sections read; the filing names 精密电子 and MLED as a forward strategic extension (p94/printed 1-1-93 area) but these are not a separate disclosed revenue line in FY2023-H1 2026 (see the three-line 主营业务收入 table, p24/printed 1-1-23). The firm therefore reads as essentially all-semiconductor-equipment by revenue across both named product lines. 'Customer A/B/C/D/E' etc. in this filing are the issuer's own anonymised, period-specific labels; they are NOT persistent cross-filing identities and must not be matched to any named firm (including CXMT) without independent, separately-sourced evidence -- the base_die_thermal analysis-layer step report's own speculation that 'Customer C' might be CXMT is analyst conjecture about this filing, not a statement the filing itself makes.\n\nCUSTOMER CONCENTRATION, and what the filing does and does not establish about it. The prospectus (physical p163) states that 客户A, together with 客户B and 客户A1 which it says are under common control, bought CNY 8,177.49万, 19,068.95万, 15,443.59万 and 6,605.68万 of equipment across 2023, 2024, 2025 and H1 2026 -- 42.87%, 67.86%, 44.07% and 49.56% of company revenue. So within THIS filing 客户A is explicitly one continuing party across all four periods, not a rank label that happens to recur, and the concentration is severe: two thirds of 2024 revenue came from a single customer group. The filing also says that group's tools went into both its wafer-manufacturing and its packaging-and-test lines. No equivalent continuity statement exists for 客户C or 客户E, and none of these labels is resolved to a named company anywhere in the atlas -- anonymised labels are never matched across different issuers' filings, and the 'period-specific' wording in the customer rows' notes means exactly that cross-filing caution, not that 客户A changes identity between years.",
+    "entity_class": "china_supply_base"
+  }
+]

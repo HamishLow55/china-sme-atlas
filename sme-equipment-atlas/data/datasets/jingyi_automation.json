@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "jingyi_automation_annual_disclosures",
+    "title": "Jingyi Automation annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "jingyi_automation",
+    "version": "w3-automation-probe-2026-09-28",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Values and short excerpts only; originals local",
+    "market_definitions": {}
+  }
+]

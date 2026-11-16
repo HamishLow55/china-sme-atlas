@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "amies",
+    "name": "AMIES",
+    "aliases": [
+      "上海芯上微装科技股份有限公司",
+      "芯上微装",
+      "AMIES Technology Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "amies_company_intro",
+      "page": 1,
+      "excerpt": "上海芯上微装科技股份有限公司（英文名称： AMIES Technology Co., Ltd. ）成立于2025年2月，是一家专注于高端半导体装备研发、生产和服务的创新型科技企业。",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Spun out of SMEE (entity_id smee) in February 2025 as an independent company, taking over SMEE's stepper product lines: wafer-level and panel-level advanced-packaging exposure tools, LED/compound-semiconductor lithography, flat-panel-display exposure and related packaging metrology/bonding/alignment tools (amies_company_intro nav menu). AMIES builds packaging and panel-level exposure tools only -- it does not build front-end wafer scanners, which stayed with SMEE. Unlisted; no prospectus, bond disclosure or shareholder-filing disclosure of AMIES's own financials was found in this packet (it is too recently founded to appear in Shanghai Electric Holdings Group's audited associate notes, the route used for SMEE -- see shanghai_electric_holdings entity notes, which confirm neither AMIES nor SMEE is named in SE Holdings' FY2024/FY2025 disclosures). All financial figures for AMIES circulating in secondary research (e.g. a 2025 packaging-stepper-revenue estimate of roughly CNY 0.9bn) are analyst judgement, not a reported figure, and are NOT registered as Atlas observations in this packet.\n\nAMIES publishes no resolution, overlay, field-size or throughput specification for either of its two packaging exposure product lines (amies_product_wlp, amies_product_panel -- qualitative claims only). It claims (unattributed, no stated method) 35% global and 90% domestic share of advanced-packaging lithography. A STCN/人民财讯 article (2025-08-08) reports AMIES delivering its 500th cumulative stepper to SJ Semiconductor; this cumulative count explicitly spans 'lithography tools of any kind' delivered historically by SMEE/AMIES combined (the same undifferentiated framing SMEE used for its own 2018 '100th tool' milestone), so it is registered at the lithography PARENT category as a company-wide ordinal-delivery-milestone observation, not attached to either packaging platform's maturity history -- see coverage.",
+    "entity_class": "china_supply_base"
+  }
+]

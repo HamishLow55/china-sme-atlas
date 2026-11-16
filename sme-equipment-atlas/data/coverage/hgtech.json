@@ -1,0 +1,145 @@
+[
+  {
+    "coverage_id": "hgtech_annual_2025_pdf_wafer_dicing_identity",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "wafer_dicing_identity",
+    "reviewed_source_ids": [
+      "hgtech_annual_2025"
+    ],
+    "notes": "reviewed_not_found in annual; p17 SiC series production validation is unnamed and cannot be assigned to dicing",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_annual_2025_pdf_shipments_installed_base",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "shipments_installed_base",
+    "reviewed_source_ids": [
+      "hgtech_annual_2025"
+    ],
+    "notes": "reviewed_not_found for semiconductor dicing",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_annual_2025_pdf_nodes_hbm",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "nodes_hbm",
+    "reviewed_source_ids": [
+      "hgtech_annual_2025"
+    ],
+    "notes": "reviewed_not_found",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_picosecond_product_html_models",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "models",
+    "reviewed_source_ids": [
+      "hgtech_picosecond_dicing_product_20260924"
+    ],
+    "notes": "LUD3200 and LUD3210 named in 技术参数, same source-native UV picosecond dicing family",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_picosecond_product_html_application",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "application",
+    "reviewed_source_ids": [
+      "hgtech_picosecond_dicing_product_20260924"
+    ],
+    "notes": "silicon and compound semiconductor wafer precision half/full cutting",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_picosecond_product_html_maturity",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "maturity",
+    "reviewed_source_ids": [
+      "hgtech_picosecond_dicing_product_20260924"
+    ],
+    "notes": "offered product page only; no source-stated release, customer validation, shipment or mass-production date",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_picosecond_product_html_quantities",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "quantities",
+    "reviewed_source_ids": [
+      "hgtech_picosecond_dicing_product_20260924"
+    ],
+    "notes": "reviewed_not_found for sales/installed base; UPH≥10 is a bounded 3-inch silicon diode sample throughput, not units",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_picosecond_product_html_hbm_nodes",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "hbm_nodes",
+    "reviewed_source_ids": [
+      "hgtech_picosecond_dicing_product_20260924"
+    ],
+    "notes": "reviewed_not_found; no HBM, DRAM, node or 12-inch qualification",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_news_html_2025_02_07_high_end_cutting",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "high_end_cutting",
+    "reviewed_source_ids": [
+      "hgtech_wafer_cutting_news_20250207"
+    ],
+    "notes": "June 2023 launch, typical application at Jiufeng laboratory and others, 2024 Q3 second-generation launch; no commercial installed-base count or LUD model binding",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_news_html_2025_02_07_stealth_dicing",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "stealth_dicing",
+    "reviewed_source_ids": [
+      "hgtech_wafer_cutting_news_20250207"
+    ],
+    "notes": "August 2023 developed full-automatic laser internal-modification/stealth dry dicer; no model or unit count",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_news_html_2025_02_07_ownership",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "ownership",
+    "reviewed_source_ids": [
+      "hgtech_wafer_cutting_news_20250207"
+    ],
+    "notes": "News speaks of 华工科技 group and is hosted on wholly owned subsidiary HG Laser site; exact product factory attribution not asserted",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_news_html_2025_02_07_hbm_nodes_capacity",
+    "entity_id": "hgtech",
+    "status": "reviewed_not_found",
+    "scope": "hbm_nodes_capacity",
+    "reviewed_source_ids": [
+      "hgtech_wafer_cutting_news_20250207"
+    ],
+    "notes": "reviewed_not_found for HBM qualification, process node, dicer manufacturing capacity or wafer size beyond product-page 3-inch example",
+    "next_action": "Reopen on a new product-specific original; do not infer HBM qualification or sales/installed quantities."
+  },
+  {
+    "coverage_id": "hgtech_fy2025_bounded_key_financials",
+    "entity_id": "hgtech",
+    "status": "reviewed_found",
+    "scope": "Selected FY2023–25 headline financials; FY2024–25 broad equipment revenue and R&D; FY2025 active workforce",
+    "reviewed_source_ids": [
+      "hgtech_annual_2025"
+    ],
+    "notes": "33 accepted observations from original pp8,17,18,22,42, two exact repeats aliased and one ambiguous margin-change unit held. FY2024 source product-share discrepancy preserved. Broad industrial equipment figures are not semiconductor/dicing/HBM revenue.",
+    "next_action": "Bounded baseline complete; prioritize remaining HBM equipment gaps rather than deeper financial detail."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "coverage_id": "delphi_laser_2025_semiconductor_equipment_families_and_definition",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "semiconductor equipment families and definition",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 12, 16, 18, 22, 26, 28, 29. Source-defined equipment families and process labels reviewed; distinct maturity and component boundaries retained.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_named_equipment_models",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "named equipment models",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 19. LSD-6130 is the only explicit semiconductor equipment model token found; SDBG/SDAG are process labels, not separate model IDs.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_maturity_orders_customer_validation",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "maturity orders customer validation",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 16, 19, 26, 28, 29, 30, 96. Commercial validation/order/sale applies to silicon stealth dicer; R&D statuses are family/project-specific.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_product_units",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "product units",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 38. No semiconductor/SDBG-specific production, sales or inventory units disclosed.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_cumulative_shipments_installed_base",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments installed base",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 38. Named source: Delphi Laser FY2025 annual report, physical pp1–266; explicit text search for 装机、保有量、累计销售、累计交付、累计出货、设备累计、安装, plus operating tables and equipment sections. No cumulative system/chamber/installation quantity. Do not substitute annual sales or validated order.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_capacity",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 96. Broad capacity-expansion project completion, no annual/tool-family rated capacity or utilization.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_orders_and_backlog",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "orders and backlog",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 16, 19, 35. Head domestic memory-customer first production order and model market sale; no quantity, buyer identity or backlog.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_named_customers",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_not_found",
+    "scope": "named customers",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 16, 35. Head domestic memory maker anonymous; no named semiconductor buyer tied to equipment.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_nodes_and_hbm_qualification",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_not_found",
+    "scope": "nodes and hbm qualification",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 16, 19. 12-inch substrate and 35–85 μm wafer thickness are application specs, not process nodes or HBM qualification. No node-specific or HBM-qualified equipment claim found.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_debonding",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "debonding",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original operational sweep independently checked; physical pages 12. No standalone debonder name, model, sales, validation or shipment volume.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  },
+  {
+    "coverage_id": "delphi_laser_2025_financial_keys",
+    "entity_id": "delphi_laser",
+    "status": "reviewed_found",
+    "scope": "FY2023-2025 company headline keys and FY2025 broad precision-laser equipment grid",
+    "reviewed_source_ids": [
+      "delphi_laser_2025"
+    ],
+    "notes": "Original physical pp8/38 independently checked: revenue, attributable profit, operating cash flow and printed growth; equipment revenue/cost/margin, production/sales/inventory and changes. Whole-equipment basket spans industries. Printed margin decrease kept signed; gross margin reconciles to printed precision. Original-reviewed supplement pp8/25/61 adds R&D investment and printed ratios/changes and parent-plus-major-subsidiary employee total. FY2024 and FY2025 R&D component sums reconcile exactly.",
+    "next_action": "Bounded annual-report sweep dispositioned; prioritize remaining HBM category gaps. Reopen only for a specific claim or new original."
+  }
+]

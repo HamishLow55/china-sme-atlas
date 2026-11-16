@@ -1,0 +1,442 @@
+[
+  {
+    "coverage_id": "secote_fy2023-operational-named_equipment",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "named_equipment in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "existing_platform_aliases_or_broad_roster. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-installed_base",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "installed_base in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-cumulative_shipments",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-semiconductor_tool_units",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_tool_units in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "reviewed_not_found_mixed_automation_table_only. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-orders_backlog",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "orders_backlog in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "unquantified_edge_batch_orders. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-customers",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "customers in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "named_portfolio_customers_no_per_model_allocation. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-qualification",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "qualification in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "existing_platform_stage_or_portfolio_claim_only. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-semiconductor_capacity",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_capacity in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-numeric_nodes",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "numeric_nodes in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2023-operational-hbm",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "hbm in secote_fy2023; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2023"
+    ],
+    "notes": "edge_system_specific. Full-original topic search and operational sections reviewed; relevant physical pages 11,12,13,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-named_equipment",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "named_equipment in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "existing_platform_aliases_or_broad_roster. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-installed_base",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "installed_base in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-cumulative_shipments",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-semiconductor_tool_units",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_tool_units in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found_mixed_automation_table_only. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-orders_backlog",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "orders_backlog in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found_semiconductor_specific. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-customers",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "customers in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "named_portfolio_customers_no_per_model_allocation. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-qualification",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "qualification in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "existing_platform_stage_or_portfolio_claim_only. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-semiconductor_capacity",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_capacity in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-numeric_nodes",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "numeric_nodes in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2024-operational-hbm",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "hbm in secote_fy2024; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2024"
+    ],
+    "notes": "portfolio_only_or_industry_context. Full-original topic search and operational sections reviewed; relevant physical pages 10,17. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-named_equipment",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "named_equipment in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "existing_platform_aliases_or_broad_roster. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-installed_base",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "installed_base in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-cumulative_shipments",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-semiconductor_tool_units",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_tool_units in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found_mixed_automation_table_only. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-orders_backlog",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "orders_backlog in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found_semiconductor_specific. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-customers",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "customers in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "named_portfolio_customers_no_per_model_allocation. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-qualification",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "qualification in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "existing_platform_stage_or_portfolio_claim_only. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-semiconductor_capacity",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_capacity in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-numeric_nodes",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "numeric_nodes in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_fy2025-operational-hbm",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "hbm in secote_fy2025; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_fy2025"
+    ],
+    "notes": "portfolio_only_or_industry_context. Full-original topic search and operational sections reviewed; relevant physical pages 10,13,14,18. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-named_equipment",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "named_equipment in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "existing_platform_aliases_or_broad_roster. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-installed_base",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "installed_base in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-cumulative_shipments",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "cumulative_shipments in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-semiconductor_tool_units",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_tool_units in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-orders_backlog",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "orders_backlog in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "unquantified_group_orders. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-customers",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "customers in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "named_portfolio_customers_no_per_model_allocation. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-qualification",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "qualification in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "existing_platform_stage_or_portfolio_claim_only. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-semiconductor_capacity",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "semiconductor_capacity in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-numeric_nodes",
+    "entity_id": "secote",
+    "status": "reviewed_not_found",
+    "scope": "numeric_nodes in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "reviewed_not_found. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  },
+  {
+    "coverage_id": "secote_h1_2026-operational-hbm",
+    "entity_id": "secote",
+    "status": "reviewed_found",
+    "scope": "hbm in secote_h1_2026; semiconductor whole-equipment scope",
+    "reviewed_source_ids": [
+      "secote_h1_2026"
+    ],
+    "notes": "company_portfolio_repeat_plus_industry_context. Full-original topic search and operational sections reviewed; relevant physical pages 9,10,11,12. Annual automation units: see secote_annual_automation_volumes_not_semiconductor. Portfolio customers/HBM statements are not per-model qualification or numerical counts.",
+    "next_action": "Reopen on a new original or specifically located disclosure; no tool-count, installed-base or monetary allocation inferred."
+  }
+]

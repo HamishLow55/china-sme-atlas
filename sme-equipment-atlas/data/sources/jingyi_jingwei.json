@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "jingyi_inquiry_2024",
+    "title": "Jingyi Jingwei second-round STAR IPO inquiry reply",
+    "publication_date": "2024-01-05",
+    "publication_date_precision": "day",
+    "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202401/001976_20240105_QZ4A.pdf",
+    "dataset_id": "jingyi_disclosures",
+    "sha256": "7987d6ab584dabf41d678b000c5892043c501db69dfc652ac0fb920ca41de308",
+    "source_type": "company_ipo_filing",
+    "original_document_id": "jingyi_inquiry_2024",
+    "notes": "January2024 disclosure metadata from local source trail/URL; remove unrelated PwC March2026/April2026 notes. Status statements apply at this historical filing.",
+    "page_count": 282,
+    "locator_kind": "pdf"
+  }
+]

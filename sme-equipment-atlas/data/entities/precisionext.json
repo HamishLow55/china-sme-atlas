@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "precisionext",
+    "name": "PrecisioNext",
+    "aliases": [
+      "东莞普莱信智能技术有限公司",
+      "普莱信智能",
+      "普莱信",
+      "Dongguan Precision Intelligent Technology Co.,Limited",
+      "Precision Intelligent Technology Co., Ltd",
+      "PrecisioNext"
+    ],
+    "evidence": {
+      "source_id": "precisionext_36kr_pitchhub_20261007",
+      "page": 1,
+      "excerpt": "法定代表人 孟晋辉 成立时间 2017-11-15 注册地址 广东省东莞市东坑镇兴国路东坑段11号1号楼401室 股东（发起人） 持股比例 认缴出资额 认缴出资日期 东莞汉驰企业管理合伙企业（有限合伙） 38.28%",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Unlisted Chinese semiconductor-packaging-equipment maker. Legal Chinese name 东莞普莱信智能技术有限公司 (Dongguan Precision Intelligent Technology Co., Ltd) from a 36氪 PitchHub registry-style company panel (source precisionext_36kr_pitchhub_20261007): legal representative 孟晋辉, established 2017-11-15, registered in Dongshi, Dongguan, Guangdong, led shareholder 东莞汉驰企业管理合伙企业（有限合伙） at 38.2%+. Corroborated by the company's own English-language site (precisionext_about_20261007), which independently states founding 'in November 2017' and headquarters/production in Dongguan with R&D and sales centres in Suzhou, Shenzhen and Hong Kong — consistent on month/year and city. A single secondary source (the 36氪 page's own shareDesc metadata) instead gives '2017年12月' (December 2017); this one-month discrepancy against the registry panel and the company's own site is noted, not resolved.\n\nLISTING STATUS: unlisted. Funding history (A round 2018 led by CDH/鼎晖 and Yunqi/云启; Pre-B round led by Blue Lake Capital/蓝图创投; B round Feb 2021, CNY ~100m, led by Oriza Houwang/元禾厚望) is all venture/PE capital; no IPO filing (STAR Market, ChiNext or Beijing Stock Exchange) was found, and none of the named investors is itself a listed operating company whose filings could disclose PrecisioNext's financials by the SMEE/Shanghai-Electric-Holdings route. No acquisition of, or by, a listed company was found either. CONFIDENT NULL: no product-line revenue, company revenue or any other financial figure for PrecisioNext is registered here; none was found in any held source, and this is reported as a real finding rather than a gap to paper over.\n\nWhat IS registered: entity identity (above); a named TCB platform family ('Loong', with sub-series Loong WS and Loong F) at category_id bonding_tcb, which the company's own site lists under 'Advanced Packaging Equipment' alongside a second named platform 'Phoenix 350 Lite Thermal Compression Bonder' (not separately registered as a platform record here — no specification or maturity wording was found for it in any held source, so registering it as more than a bare name would pad the result); one capability-spec numeric observation (chip-placement accuracy); and two application links (advanced_packaging, hbm) from third-party trade-press relaying the company's own CoWoS-L test-sampling milestone and HBM-stacking capability claim. See platform precisionext_loong_tcb for the HBM/CoWoS maturity detail.",
+    "entity_class": "china_supply_base"
+  }
+]

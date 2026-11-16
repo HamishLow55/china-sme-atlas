@@ -1,0 +1,50 @@
+[
+ {
+  "reporting_scope_id": "zhichun_systems_integration_and_materials_fy2023",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2023 systems integration and materials",
+  "definition": "FY2023 source-native mixed basket 系统集成及材料; includes disclosed bulk-gas-station subset."
+ },
+ {
+  "reporting_scope_id": "zhichun_bulk_gas_station_business_fy2023_subset",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2023 bulk gas station subset",
+  "definition": "FY2023 source-native subset 其中：大宗气站业务 within systems integration and materials."
+ },
+ {
+  "reporting_scope_id": "zhichun_equipment_business",
+  "category_id": "multi_equipment",
+  "label": "Zhichun equipment business",
+  "definition": "Zhichun source-native equipment business; broad basket, not wet-clean-only."
+ },
+ {
+  "reporting_scope_id": "zhichun_systems_integration_fy2025",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2025 systems integration",
+  "definition": "FY2025 source-native systems integration basket."
+ },
+ {
+  "reporting_scope_id": "zhichun_electronic_materials_fy2025",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2025 electronic materials",
+  "definition": "FY2025 source-native electronic materials basket."
+ },
+ {
+  "reporting_scope_id": "zhichun_high_purity_gas_and_chemical_support_equipment",
+  "category_id": "fab_gas_chemical_delivery",
+  "label": "Zhichun high-purity gas and chemical support equipment",
+  "definition": "Combined source-native high-purity specialty-gas and high-purity-chemical support-equipment shipment basket. Fab gas and chemical delivery equipment, not wafer process tools; the 台 count must not be read as process-tool shipments."
+ },
+ {
+  "reporting_scope_id": "zhichun_systems_integration_fy2024",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2024 systems integration",
+  "definition": "FY2024 source-native 系统集成 basket."
+ },
+ {
+  "reporting_scope_id": "zhichun_electronic_materials_fy2024",
+  "category_id": "all_businesses",
+  "label": "Zhichun FY2024 electronic materials",
+  "definition": "FY2024 source-native 电子材料 basket; excludes separately discussed services unless included in source row."
+ }
+]

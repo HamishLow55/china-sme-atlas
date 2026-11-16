@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "hgtech",
+    "name": "HGTech",
+    "aliases": [
+      "华工科技产业股份有限公司",
+      "华工科技",
+      "HGTECH COMPANY LIMITED",
+      "000988"
+    ],
+    "evidence": {
+      "source_id": "hgtech_annual_2025",
+      "page": 6,
+      "excerpt": "股票简称               华工科技                           股票代码                  000988\n股票上市证券交易所          深圳证券交易所\n公司的中文名称            华工科技产业股份有限公司\n公司的中文简称            华工科技\n公司的外文名称            HGTECH COMPANY LIMITED\n公司的外文名称缩写          HGTECH\n",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "Listed issuer identity and Shenzhen exchange as disclosed in FY2025 annual report. HG Laser is the wholly-owned operating subsidiary named on physical p54; whole-group optical communications and sensors are not semiconductor-equipment revenue.",
+    "entity_class": "china_supply_base"
+  }
+]

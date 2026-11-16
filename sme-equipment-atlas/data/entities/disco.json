@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "disco",
+    "name": "DISCO Corporation",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "DISCO",
+      "DISCO CORPORATION",
+      "DISCO Corporation",
+      "株式会社ディスコ",
+      "6146"
+    ],
+    "evidence": {
+      "source_id": "disco_fy2025_yuho_jp",
+      "page": 3,
+      "excerpt": "【表紙】 【提出書類】 有価証券報告書 【会社名】 株式会社ディスコ 【英訳名】 DISCO CORPORATION 【代表者の役職氏名】 代表執行役社長 関家 一馬 【本店の所在の場所】 東京都大田区大森北二丁目13番11号",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. DISCO is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Headquartered in Tokyo (Omorikita 2-13-11, Ota-ku), listed on the Tokyo Stock Exchange Prime Market under code 6146. It is registered here because it is the global incumbent for wafer dicing and backgrinding -- the step where HBM stacks are singulated and ground to single-digit microns -- against which the atlas's Chinese dicing_blade/dicing_laser/dicing_plasma/thinning entries (Maxwell, HGTech, Delphi Laser, Han's Laser, GL Tech, Hwatsing) are measured. Fiscal year ends 31 March: DISCO's own 'term' numbering (87th term = 1 April 2025 to 31 March 2026, this packet's most recent filing) is translated into actual start/end dates in every observation's period, never the issuer's own FY label. Reporting currency is the Japanese yen, recorded as printed in JPY_million and never converted to CNY, USD or any other currency. DISCO is legally and functionally a SINGLE reportable segment ('精密加工システム事業', Precision Processing Systems Business): every 有価証券報告書 reviewed for this packet states explicitly that segment-information disclosure is omitted because the Group has only one segment. The finest split DISCO discloses anywhere is a product-group revenue note (IFRS15/J-GAAP revenue disaggregation) splitting Precision Processing Machines (精密加工装置) from Precision Processing Tools (精密加工ツール, consumable blades and grinding wheels) and an unexplained Other (その他) residual; DISCO's own business-description table (§3 事業の内容) lists dicing saws, laser saws, grinders, polishers and surface planers all together under the Machines line, with no mechanism-level revenue split anywhere in the five annual securities reports reviewed. The Tools line is a consumables annuity (dicing blades, grinding wheels, dry polishing wheels) and must never be read as equipment/tool revenue.\n\nWHERE EACH ALIAS COMES FROM. The entity's evidence block cites the FY2025 Annual Securities Report cover sheet (physical p3), which prints 株式会社ディスコ and DISCO CORPORATION and so supports those names and their case variants. It does NOT print the stock code: 6146 appears nowhere in that filing, and is found instead on physical p1 of disco_fy2025_kessan_eng, which states 'Stock code number: 6146 (TSE Prime Market)'. The alias is therefore real and locatable in a source the atlas holds, but it was riding on another document's evidence until an independent review noticed. Recorded here because an entity record carries a single evidence block and cannot attach a page to each alias separately; until it can, an alias drawn from a different source than the evidence block says so in these notes."
+  }
+]

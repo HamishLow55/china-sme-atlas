@@ -1,0 +1,25 @@
+[
+  {
+    "entity_id": "liandong",
+    "name": "PowerTECH Co., Ltd.",
+    "aliases": [
+      "佛山市联动科技股份有限公司",
+      "联动科技",
+      "PowerTECH Co., Ltd.",
+      "Powertech Semi",
+      "Foshan Liandong Technology",
+      "301369",
+      "Foshan Powertech Technology Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "liandong_annual_2025",
+      "page": 6,
+      "excerpt": "第二节 公司简介和主要财务指标 一、公司信息 股票简称 联动科技 股票代码 301369 公司的中文名称 佛山市联动科技股份有限公司 公司的中文简称 联动科技 公司的外文名称（如有） PowerTECH Co., Ltd. 公司的外文名称缩写（如 PowerTECH Co., Ltd. 有） 公司的法定代表人 张赤梅",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Shenzhen Stock Exchange ChiNext issuer, code 301369. Legal Chinese name 佛山市联动科技股份有限公司, short name 联动科技, reported foreign name PowerTECH Co., Ltd. IDENTITY WARNING: this is NOT Powertech Technology Inc. / 力成科技, the Taiwanese memory OSAT, despite the similar English name and the local filename powertech_annual_2025.pdf. Its overseas arms are Powertech Semi Hongkong Company Limited and POWERTECH SEMI SDN.BHD. Business scope as the filing states it: R&D, manufacture and sale of back-end packaging-and-test equipment - semiconductor automated test systems (QT-4000/3000 and QT-8400 power device, QT-6000 small-signal discrete, QT-8100/8200/8600 analog and mixed-signal, QT-9800 SoC), semiconductor laser marking equipment, and other electromechanical equipment including a self-developed wafer prober. What it does NOT cover: no memory test system, no handler product line of its own, no probe cards, no front-end equipment. The filing's KGD references are SiC/power-device known-good-die test, not memory KGD. origin/main staged this firm independently as entity 'powertech' with pending observations; that staging was superseded by this branch's verified coverage and its identifying names are folded into the aliases above. Match on the Chinese name or the stock code, not the entity id.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Foshan Liandong Technology'; 'Foshan Powertech Technology Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "formfactor_10k_fy2025",
+    "dataset_id": "formfactor_disclosures",
+    "title": "FormFactor, Inc. Form 10-K for the Fiscal Year Ended December 27, 2025",
+    "publication_date": "2026-02-20",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/1039399/000103939926000009/form-20251227.htm",
+    "sha256": "c2560ee985a7d1935a645726f06651df6c9662b2cb42d61824ebd97c8097222c",
+    "source_type": "annual_report",
+    "original_document_id": "formfactor_10k_fy2025",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR primary filing document (accession 0001039399-26-000009), downloaded directly from www.sec.gov with a descriptive User-Agent and hashed locally as fetched; original bytes kept. Single continuous inline-XBRL HTML document -- locator 1 denotes this one document, not a PDF physical page, following the established HTML pattern (see data/sources/smee.json). The filing itself prints its own page numbers in running footers (e.g. a standalone '30', '31' between table blocks); evidence.printed_page records that printed number where legible, as a navigation aid for a reviewer opening the HTML and using the browser's find function or print-preview pagination -- it is not a physical-page check input. Covers fiscal years 2025, 2024 and 2023 (2024 and 2023 as comparative columns); no restatement of any prior-year segment or market figure was found anywhere in this filing."
+  },
+  {
+    "source_id": "formfactor_10k_fy2024",
+    "dataset_id": "formfactor_disclosures",
+    "title": "FormFactor, Inc. Form 10-K for the Fiscal Year Ended December 28, 2024",
+    "publication_date": "2025-02-21",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/1039399/000103939925000023/form-20241228.htm",
+    "sha256": "e52add473090997c75f87bbc2b4ba2f452e6813810a84079edcea3353c858305",
+    "source_type": "annual_report",
+    "original_document_id": "formfactor_10k_fy2024",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR primary filing document (accession 0001039399-25-000023), downloaded directly from www.sec.gov with a descriptive User-Agent and hashed locally as fetched; original bytes kept. Single continuous inline-XBRL HTML document; locator 1 denotes this one document (see data/sources/smee.json for the established pattern). Used in this packet for its own fiscal-year-end headcount disclosure ('As of December 28, 2024...') and as corroboration for the HBM probe-card competitive-capability passage that recurs in the FY2025 filing; covers fiscal years 2024 and 2023."
+  },
+  {
+    "source_id": "formfactor_10k_fy2023",
+    "dataset_id": "formfactor_disclosures",
+    "title": "FormFactor, Inc. Form 10-K for the Fiscal Year Ended December 30, 2023",
+    "publication_date": "2024-02-23",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/1039399/000103939924000007/form-20231230.htm",
+    "sha256": "8bef6e80ef735080c05a48659beb35b9a3ce750da553129297ded6d1cc6d0666",
+    "source_type": "annual_report",
+    "original_document_id": "formfactor_10k_fy2023",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR primary filing document (accession 0001039399-24-000007), downloaded directly from www.sec.gov with a descriptive User-Agent and hashed locally as fetched; original bytes kept. Single continuous inline-XBRL HTML document; locator 1 denotes this one document (see data/sources/smee.json for the established pattern). The only source held for FY2022 and FY2021 figures (as comparative columns); also the filing's own headline (current) disclosure for FY2023."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "platform_id": "semitronix_t4000_series",
+    "entity_id": "semitronix",
+    "category_id": "test_wafer_parametric",
+    "record_kind": "named_series_family",
+    "name": "T4000 series",
+    "aliases": [
+      "T4000 系列"
+    ],
+    "evidence": {
+      "claim_id": "semitronix-h126-t4000",
+      "source_id": "semitronix_h1_2026",
+      "page": 26,
+      "excerpt": "类型：晶圆级 WAT 测试设备；产品型号：T4000 系列；介绍：通用型 WAT 测试设备，适用于大部分 WAT 电性测试场景；可覆盖 LOGIC、CIS、DRAM、SRAM、FLASH、BCD 等产品的测试需求，支持第三代化合物半导体（SiC/GaN）的参数测试",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "named_product_series_disclosed",
+    "maturity_as_reported_in": "semitronix_h1_2026",
+    "notes": "WAT measures process parameters on any wafer. DRAM, SRAM and FLASH are listed as coverable product types, which is parametric test of memory wafers, not memory functional test, and says nothing of HBM. T4000 Max is a further named tester, launched 2024 (pp26-27). Series stage is not separately stated; p26 says the WAT equipment has been in stable volume production since 2020."
+  },
+  {
+    "platform_id": "semitronix_t4100s_series",
+    "entity_id": "semitronix",
+    "category_id": "test_wafer_parametric",
+    "record_kind": "named_series_family",
+    "name": "T4100S series",
+    "aliases": [
+      "T4100S 系列"
+    ],
+    "evidence": {
+      "claim_id": "semitronix-h126-t4100s",
+      "source_id": "semitronix_h1_2026",
+      "page": 27,
+      "excerpt": "产品型号：T4100S 系列；介绍：并行测试设备，适合先进工艺中更繁杂多样的测试要求；该系列机型在产业化系统整合和测试标准上更具优势，常被用于测试量较大且对测试效率要求较高的 12 寸晶圆厂",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "named_product_series_disclosed",
+    "maturity_as_reported_in": "semitronix_h1_2026",
+    "notes": "Issuer claims 1.4 to 5 times the efficiency of comparable tools at equivalent accuracy, against unnamed comparators. Memory is not stated for this series."
+  },
+  {
+    "platform_id": "semitronix_wlbi_family",
+    "entity_id": "semitronix",
+    "category_id": "test_wafer_level_burn_in",
+    "record_kind": "source_native_family",
+    "name": "WLBI wafer-level burn-in family",
+    "aliases": [
+      "WLBI",
+      "B5260M",
+      "B5280"
+    ],
+    "evidence": {
+      "claim_id": "semitronix-h126-wlbi",
+      "source_id": "semitronix_h1_2026",
+      "page": 26,
+      "excerpt": "晶圆级老化测试设备 WLBI 产线验证顺利，2026 年 1-6 月已出货 3 台。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "production_line_validation_proceeding_units_shipped",
+    "maturity_as_reported_in": "semitronix_h1_2026",
+    "notes": "SiC and GaN burn-in per p27, not memory burn-in. 验证顺利 is not validation complete; 3 shipped is not acceptance. Models B5260M and B5280 are printed on p27."
+  }
+]

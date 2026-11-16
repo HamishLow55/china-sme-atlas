@@ -1,0 +1,267 @@
+[
+  {
+    "target_id": "wave2_skyverse_16",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2025H1-CR-COMP",
+      "SV2026H1-CR"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_17",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "reporting_scope_id": "skyverse_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-INS-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_18",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "metrology",
+    "reporting_scope_id": "skyverse_metrology_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "equipment_only",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-MET-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_19",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "skyverse_software",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "software",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-SW-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_20",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "skyverse_services_other",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "services_and_other",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-SVC-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_21",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "domestic_china",
+      "geography_basis": "source_defined_operating_region_not_fab_location",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-DOM-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_22",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "overseas",
+      "geography_basis": "source_defined_operating_region_not_fab_location",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [
+      "SV2026H1-OVS-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_skyverse_missing_inspection_sales_volume",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "reporting_scope_id": "skyverse_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No numerical units/order amount in assigned reviewed sections; product validation and sales-growth wording cannot supply a count."
+  },
+  {
+    "target_id": "wave2_skyverse_missing_inspection_new_orders",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "inspection",
+    "reporting_scope_id": "skyverse_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "new_orders",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No numerical units/order amount in assigned reviewed sections; product validation and sales-growth wording cannot supply a count."
+  },
+  {
+    "target_id": "wave2_skyverse_missing_metrology_sales_volume",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "metrology",
+    "reporting_scope_id": "skyverse_metrology_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No numerical units/order amount in assigned reviewed sections; product validation and sales-growth wording cannot supply a count."
+  },
+  {
+    "target_id": "wave2_skyverse_missing_metrology_new_orders",
+    "task_id": "wave2_skyverse",
+    "entity_id": "skyverse",
+    "category_id": "metrology",
+    "reporting_scope_id": "skyverse_metrology_equipment",
+    "platform_id": "",
+    "metric_id": "new_orders",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "skyverse_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No numerical units/order amount in assigned reviewed sections; product validation and sales-growth wording cannot supply a count."
+  }
+]

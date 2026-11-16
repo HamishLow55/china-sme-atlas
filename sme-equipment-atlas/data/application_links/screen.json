@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "screen_dw3100_advanced_packaging",
+    "entity_id": "screen",
+    "category_id": "lithography_packaging",
+    "platform_id": "screen_dw3100",
+    "application_id": "advanced_packaging",
+    "source_id": "screen_fy2025_yuho_jp",
+    "page": 33,
+    "excerpt": "半導体製造装置事業では、近年のAI半導体の急速な進化を背景に需要が拡大している半導体先端パッケージ市場向けに、世界最高水準の高解像度を実現した直接描画露光装置「DW-3100」を開発いたしました。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "scope_note": "Filed at advanced_packaging, not hbm or tsv: the Japanese yuho states DW-3100 was developed '半導体先端パッケージ市場向けに' (FOR the advanced-semiconductor-packaging market) -- a direct tool-to-market statement, not a generic AI/HBM backdrop sentence the way TOWA's CPM1080 record reads. HBM is never named in connection with DW-3100 in either source reviewed; do not upgrade. This is a development announcement (no revenue, shipment or order figure attached), consistent with the platform record's own maturity wording. link_kind is supplier_capability: the filing states the tool was developed for that market, which is more than process relevance and less than a production claim — no shipment, order or customer is attached. An earlier draft used product_development_claim, which is not one of the three values the validator accepts (process_relevance, supplier_capability, production_claim).",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed against screen_fy2025_yuho_jp p.33: \"半導体先端パッケージ市場向けに...開発いたしました\" ties the tool directly to the advanced-packaging market in the issuer's own words. link_kind supplier_capability is correct (development/design-purpose claim; 開発いたしました = 'developed', no shipment or order language). application_id advanced_packaging correct; no HBM wording anywhere in the passage."
+  }
+]

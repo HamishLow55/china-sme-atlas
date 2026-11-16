@@ -1,0 +1,96 @@
+[
+  {
+    "observation_id": "naura_h1_2026_max_process_temperature_001",
+    "dataset_id": "naura_interim_disclosures",
+    "source_id": "naura_h1_2026",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "reporting_scope_id": "naura_hot_press_sintering_furnace",
+    "platform_id": "naura_h1_2026_hot_press_sintering_furnace",
+    "metric_id": "maximum_process_temperature",
+    "value": "2200",
+    "relation": "eq",
+    "unit": "Celsius",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "not_applicable",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_h1_2026_report"
+    },
+    "evidence": {
+      "page": 16,
+      "printed_page": 16,
+      "original_label": "热压烧结炉最高工艺温度",
+      "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "2200",
+      "reported_unit": "Celsius"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Native claim NAURA_H1_2026-OPS-048; p16 reports the furnace maximum process temperature; specification, not factory capacity or actual operating temperature. Report-period context is a measurement anchor only; no exact specification-release date stated.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "naura_h1_2026_max_process_temperature_002",
+    "dataset_id": "naura_interim_disclosures",
+    "source_id": "naura_h1_2026",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "reporting_scope_id": "naura_continuous_graphitization_furnace",
+    "platform_id": "naura_h1_2026_continuous_graphitization_furnace",
+    "metric_id": "maximum_process_temperature",
+    "value": "2400",
+    "relation": "eq",
+    "unit": "Celsius",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "not_applicable",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "naura_h1_2026_report"
+    },
+    "evidence": {
+      "page": 16,
+      "printed_page": 16,
+      "original_label": "连续高温石墨化炉最高工艺温度",
+      "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "2400",
+      "reported_unit": "Celsius"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Native claim NAURA_H1_2026-OPS-048; p16 reports the graphitization-furnace maximum process temperature; specification, not factory capacity or actual operating temperature. Report-period context is a measurement anchor only; no exact specification-release date stated.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

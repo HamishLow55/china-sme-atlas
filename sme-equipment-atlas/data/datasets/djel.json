@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "djel_ipo_disclosures",
+    "title": "Dongfang Jingyuan IPO prospectus disclosures",
+    "kind": "company_filings",
+    "publisher": "djel",
+    "version": "2026-06-30-application-draft",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF remains local.",
+    "market_definitions": {}
+  }
+]

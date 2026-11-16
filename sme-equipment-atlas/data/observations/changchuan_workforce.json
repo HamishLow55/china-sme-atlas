@@ -1,0 +1,100 @@
+[
+  {
+    "observation_id": "changchuan_2024_employee_total",
+    "dataset_id": "changchuan_annual_disclosures",
+    "source_id": "changchuan_annual_2024",
+    "entity_id": "changchuan",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "changchuan_parent_major_subsidiaries_workforce",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "value": "3800",
+    "relation": "eq",
+    "unit": "person",
+    "period": {
+      "start": "",
+      "end": "2024-12-31",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "consolidation_basis": "parent_and_major_subsidiaries",
+      "reporting_vintage": "changchuan_annual_2024",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "报告期末母公司及主要子公司在职员工"
+    },
+    "evidence": {
+      "page": 56,
+      "original_label": "报告期末在职员工的数量合计（人）",
+      "excerpt": "报告期末母公司在职员工的数量（人）                                       1,961\n报告期末主要子公司在职员工的数量（人）                                     1,839\n报告期末在职员工的数量合计（人）                                        3,800",
+      "reported_value": "3800",
+      "reported_unit": "person",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Reported year-end parent and major-subsidiary active employee total; not FTE, period payees or necessarily every consolidated group entity. No product-level headcount allocation."
+  },
+  {
+    "observation_id": "changchuan_2025_employee_total",
+    "dataset_id": "changchuan_annual_disclosures",
+    "source_id": "changchuan_annual_2025",
+    "entity_id": "changchuan",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "changchuan_parent_major_subsidiaries_workforce",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "value": "4457",
+    "relation": "eq",
+    "unit": "person",
+    "period": {
+      "start": "",
+      "end": "2025-12-31",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "consolidated_company",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "consolidation_basis": "parent_and_major_subsidiaries",
+      "reporting_vintage": "changchuan_annual_2025",
+      "workforce_group": "active_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "报告期末母公司及主要子公司在职员工"
+    },
+    "evidence": {
+      "page": 50,
+      "original_label": "报告期末在职员工的数量合计（人）",
+      "excerpt": "报告期末母公司在职员工的数量（人）                                   1,941\n报告期末主要子公司在职员工的数量（人）                                 2,516\n报告期末在职员工的数量合计（人）                                    4,457",
+      "reported_value": "4457",
+      "reported_unit": "person",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Reported year-end parent and major-subsidiary active employee total; not FTE, period payees or necessarily every consolidated group entity. No product-level headcount allocation."
+  }
+]

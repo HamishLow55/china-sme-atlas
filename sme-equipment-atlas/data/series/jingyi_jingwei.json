@@ -1,0 +1,96 @@
+[
+  {
+    "series_id": "jingyi_inquiry_2024_revenue",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: revenue",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-001",
+      "jingyi2024-financial-002",
+      "jingyi2024-financial-003",
+      "jingyi2024-financial-004",
+      "jingyi2024-financial-013",
+      "jingyi2024-financial-014",
+      "jingyi2024-financial-030",
+      "jingyi2024-financial-032",
+      "jingyi2024-financial-034"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  },
+  {
+    "series_id": "jingyi_inquiry_2024_operating_cash_flow",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-005",
+      "jingyi2024-financial-006",
+      "jingyi2024-financial-007",
+      "jingyi2024-financial-008",
+      "jingyi2024-financial-017",
+      "jingyi2024-financial-018"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  },
+  {
+    "series_id": "jingyi_inquiry_2024_rd_expense",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: rd expense",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-009",
+      "jingyi2024-financial-010",
+      "jingyi2024-financial-011",
+      "jingyi2024-financial-012"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  },
+  {
+    "series_id": "jingyi_inquiry_2024_net_profit",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: net profit",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-015",
+      "jingyi2024-financial-016"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  },
+  {
+    "series_id": "jingyi_inquiry_2024_order_backlog",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: order backlog",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-019",
+      "jingyi2024-financial-020",
+      "jingyi2024-financial-021",
+      "jingyi2024-financial-022",
+      "jingyi2024-financial-023",
+      "jingyi2024-financial-024",
+      "jingyi2024-financial-025",
+      "jingyi2024-financial-026",
+      "jingyi2024-financial-027",
+      "jingyi2024-financial-028"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  },
+  {
+    "series_id": "jingyi_inquiry_2024_sales_volume",
+    "version": 1,
+    "title": "Jingyi January 2024 inquiry: sales volume",
+    "mode": "evidence_collection",
+    "definition": "Original issuer disclosures across historical annual/interim financials, dated CMP backlog and explicitly grouped multi-year sales.",
+    "observation_ids": [
+      "jingyi2024-financial-029",
+      "jingyi2024-financial-031",
+      "jingyi2024-financial-033"
+    ],
+    "limitations": "Different periods and scopes overlap. Backlog is not shipments. Product components and total eight-inch sales are not additive. Company figures are not allocated to platforms."
+  }
+]

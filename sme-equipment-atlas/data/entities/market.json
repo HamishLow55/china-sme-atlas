@@ -1,0 +1,8 @@
+[
+  {
+    "entity_id": "market",
+    "name": "Market aggregate",
+    "aliases": [],
+    "entity_class": "reference_aggregate"
+  }
+]

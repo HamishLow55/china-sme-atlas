@@ -1,0 +1,102 @@
+[
+  {
+    "platform_id": "unicomp_advanced_packaging_xray_ct_family",
+    "entity_id": "unicomp",
+    "category_id": "inspection_xray",
+    "record_kind": "source_native_family",
+    "name": "面向半导体先进封装场景的 X 射线智能检测设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "UNICOMP-2025-P28-ADV-PACK-XRAY-FAMILY",
+      "source_id": "unicomp_2025",
+      "page": 28,
+      "excerpt": "公司面向半导体先进封装场景研发的 X 射线智能检测设备，依托亚微米级分辨率微焦点 X 射线源\n与 CT 层析成像技术，实现半导体先进封装内部结构的三维可视化与微小缺陷精准识别，适配产\n线在线集成需求，是保障先进封装良率的重要设备。目前，公司正在积极推进先进封装检测设备\n的客户验证及导入。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation_and_introduction",
+    "maturity_as_reported_in": "unicomp_h1_2026",
+    "notes": "Source says X-ray inspection equipment based on microfocus X-ray and CT tomography for advanced packaging TSV/3D integration/flip-chip/Chiplet defects. The family is at customer validation and introduction, with no completed qualification, shipment count or named model. CT technology is in this family; no separate CT machine is inferred. HBM is not expressly attached. May overlap the issuer’s broader online 3D/CT equipment family; do not sum as distinct tools. SSTI was acquired after FY2025 and is excluded.",
+    "maturity_history": [
+      {
+        "claim_id": "UNICOMP-2025-P28-ADV-PACK-VALIDATION",
+        "source_id": "unicomp_2025",
+        "page": 28,
+        "excerpt": "公司面向半导体先进封装场景研发的 X 射线智能检测设备，依托亚微米级分辨率微焦点 X 射线源\n与 CT 层析成像技术，实现半导体先进封装内部结构的三维可视化与微小缺陷精准识别，适配产\n线在线集成需求，是保障先进封装良率的重要设备。目前，公司正在积极推进先进封装检测设备\n的客户验证及导入。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_and_introduction",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 annual-report context only; exact validation start, customer, qualification result and shipment date are not stated."
+      },
+      {
+        "claim_id": "UNICOMP-H126-P26-VALIDATION",
+        "source_id": "unicomp_h1_2026",
+        "page": 26,
+        "excerpt": "公司面向半导体先进封装场景研发的 X 射线智能检测设备，依托亚微米级分辨率微焦点 X 射线源 与 CT 层析成像技术，实现半导体先进封装内部结构的三维可视化与微小缺陷精准识别，适配产 线在线集成需求，是保障先进封装良率的重要设备。目前，公司正在积极推进先进封装检测设备 的客户验证及导入，报告期内，相关设备在静态测试、检测影像效果等方面反馈良好，正加速推 进产业化及商业化进程。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_and_introduction",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "Positive static-test and image feedback; no completed acceptance, delivery count or HBM qualification."
+      }
+    ]
+  },
+  {
+    "platform_id": "unicomp_online_electronics_3d_ct_family",
+    "entity_id": "unicomp",
+    "category_id": "inspection_xray",
+    "record_kind": "source_native_family",
+    "name": "系列化在线式 3D/CT 智能检测设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "UNICOMP-2025-P24-ONLINE-3D-CT-FAMILY",
+      "source_id": "unicomp_2025",
+      "page": 24,
+      "excerpt": "公司系国内少数在集成电路及电子制造领域具备在线 3D/CT 智能检测\n设备研发设计、生产能力的供应商，系列化在线式 3D/CT 智能检测设备已批量交付至国内电子制\n造领域领先企业。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_delivered_to_electronics_manufacturing_customers",
+    "maturity_as_reported_in": "unicomp_h1_2026",
+    "notes": "Company describes R&D/design/production capability in the combined integrated-circuit and electronic-manufacturing area, then batch delivery specifically to leading domestic electronic-manufacturing firms. Do not infer semiconductor-only deliveries, HBM qualification, named models, system count or installed base. This broad family may overlap the advanced-packaging X-ray/CT family; no additive distinct-tool count. SSTI excluded.",
+    "maturity_history": [
+      {
+        "claim_id": "UNICOMP-2025-P24-ONLINE-3D-CT-DELIVERY",
+        "source_id": "unicomp_2025",
+        "page": 24,
+        "excerpt": "公司系国内少数在集成电路及电子制造领域具备在线 3D/CT 智能检测\n设备研发设计、生产能力的供应商，系列化在线式 3D/CT 智能检测设备已批量交付至国内电子制\n造领域领先企业。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_to_electronics_manufacturing_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Annual-report context; recipient industry is electronic manufacturing, without named customers, unit count or shipment/install date."
+      },
+      {
+        "claim_id": "UNICOMP-H126-P18-ELECTRONICS-DELIVERY",
+        "source_id": "unicomp_h1_2026",
+        "page": 18,
+        "excerpt": "在集成电路及电子制造领域，公司系最早进入该领域的国内厂商之一，深耕近二十年，系国 内龙头企业，积累了丰富的集成电路 SOP/QFP/BGA/CSP/IGBT 封装以及电子制造 PCB、PCBA、 电子元器件检测解决方案。公司系国内少数在集成电路及电子制造领域具备在线 3D/CT 智能检测 设备研发设计、生产能力的供应商，系列化在线式 3D/CT 智能检测设备已批量交付至国内电子制 造领域领先企业。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_to_electronics_manufacturing_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "Delivery recipients are electronic manufacturers, not a semiconductor-only or HBM-qualified fleet."
+      }
+    ]
+  }
+]

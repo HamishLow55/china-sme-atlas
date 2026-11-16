@@ -1,0 +1,137 @@
+[
+  {
+    "observation_id": "piotech_fy2024_w2w_hybrid_bonding_supported_wafer_diameter",
+    "dataset_id": "piotech_annual_disclosures",
+    "source_id": "piotech_annual_2024",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "reporting_scope_id": "piotech_wafer_to_wafer_hybrid_bonding_products",
+    "metric_id": "reported_supported_wafer_diameter_range",
+    "platform_id": "",
+    "value": "12",
+    "relation": "eq",
+    "unit": "inch_wafer",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 25,
+      "original_label": "① 晶圆对晶圆混合键合产品｜12 英寸晶圆对晶圆多材料表面的键合工艺",
+      "excerpt": "① 晶圆对晶圆混合键合产品｜晶圆对晶圆键合产品可以在常温下实现复杂的 12 英寸晶圆对晶圆多材料表面的键合工艺。公司晶圆对晶圆混合键合产品 Dione 300 是公司最早推出的混合键合产品，已实现产业化，可实现百纳米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量产水平。",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "12",
+      "reported_unit": "inch_wafer"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer 三维集成领域系列产品 section. The sentence sits under the 晶圆对晶圆混合键合产品 heading and describes that product series (Dione 300 / Dione 200 / Dione 300 eX), not the issuer's 晶圆对晶圆熔融键合, 芯片对晶圆混合键合, 芯片对晶圆熔融键合 or supporting bond-overlay / bond-strength / laser-release products. A single stated diameter, recorded with relation eq. Capability spec only: it is not a shipment, order, validation or revenue claim, and no part of the combined 混合键合设备 revenue basket or the 半导体专用设备 production/sales perimeter is allocated to it. The 百纳米级 bonding-precision wording in the same passage is a magnitude phrase with no digit and is held.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "piotech_fy2025_w2w_hybrid_bonding_supported_wafer_diameter",
+    "dataset_id": "piotech_annual_disclosures",
+    "source_id": "piotech_annual_2025",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "reporting_scope_id": "piotech_wafer_to_wafer_hybrid_bonding_products",
+    "metric_id": "reported_supported_wafer_diameter_range",
+    "platform_id": "",
+    "value": "12",
+    "relation": "eq",
+    "unit": "inch_wafer",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 23,
+      "original_label": "① 晶圆对晶圆混合键合产品｜12 英寸晶圆对晶圆多材料表面的键合工艺",
+      "excerpt": "① 晶圆对晶圆混合键合产品｜晶圆对晶圆键合产品可以在常温下实现复杂的 12 英寸晶圆对晶圆多材料表面的键合工艺，公司晶圆对晶圆键合产品具体情况如下：｜产品型号 Dione 300：主要应用于晶圆级三维集成、存储芯片领域和图像传感器领域，可实现晶圆对晶圆的高精度混合键合。",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "12",
+      "reported_unit": "inch_wafer"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer 三维集成领域系列产品 section. The sentence sits under the 晶圆对晶圆混合键合产品 heading and describes that product series (Dione 300 / Dione 200 / Dione 300 eX), not the issuer's 晶圆对晶圆熔融键合, 芯片对晶圆混合键合, 芯片对晶圆熔融键合 or supporting bond-overlay / bond-strength / laser-release products. A single stated diameter, recorded with relation eq. Capability spec only: it is not a shipment, order, validation or revenue claim, and no part of the combined 混合键合设备 revenue basket or the 半导体专用设备 production/sales perimeter is allocated to it. The 百纳米级 bonding-precision wording in the same passage is a magnitude phrase with no digit and is held. FY2025 vintage; the FY2025 series adds Dione 300 eX beside Dione 300.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "piotech_h1_2026_w2w_hybrid_bonding_supported_wafer_diameter",
+    "dataset_id": "piotech_interim_disclosures",
+    "source_id": "piotech_h1_2026",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "reporting_scope_id": "piotech_wafer_to_wafer_hybrid_bonding_products",
+    "metric_id": "reported_supported_wafer_diameter_range",
+    "platform_id": "",
+    "value": "12",
+    "relation": "eq",
+    "unit": "inch_wafer",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 31,
+      "original_label": "1 晶圆对晶圆混合键合产品｜12 英寸晶圆对晶圆多材料表面的键合工艺",
+      "excerpt": "1 晶圆对晶圆混合键合产品｜晶圆对晶圆键合产品可以在常温下实现复杂的 12 英寸晶圆对晶圆多材料表面的键合工艺，公司晶圆对晶圆键合产品具体情况如下：",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "12",
+      "reported_unit": "inch_wafer"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Issuer 三维集成领域系列产品 section. The sentence sits under the 晶圆对晶圆混合键合产品 heading and describes that product series (Dione 300 / Dione 200 / Dione 300 eX), not the issuer's 晶圆对晶圆熔融键合, 芯片对晶圆混合键合, 芯片对晶圆熔融键合 or supporting bond-overlay / bond-strength / laser-release products. A single stated diameter, recorded with relation eq. Capability spec only: it is not a shipment, order, validation or revenue claim, and no part of the combined 混合键合设备 revenue basket or the 半导体专用设备 production/sales perimeter is allocated to it. The 百纳米级 bonding-precision wording in the same passage is a magnitude phrase with no digit and is held. H1 2026 vintage; the series is listed as Dione 300 / Dione 200 / Dione 300 eX on physical pp31-32 and p43. First bonding observation from this source, which previously held none.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

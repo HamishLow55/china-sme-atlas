@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "jingzhida",
+    "name": "Shenzhen SEICHI Technologies Co., Ltd.",
+    "aliases": [
+      "深圳精智达技术股份有限公司",
+      "精智达",
+      "Jingzhida",
+      "SEICHI",
+      "SEICHITECH",
+      "688627"
+    ],
+    "evidence": {
+      "source_id": "jingzhida_annual_2025",
+      "page": 8,
+      "excerpt": "公司的中文名称 深圳精智达技术股份有限公司；公司的中文简称 精智达；公司的外文名称 Shenzhen SEICHI Technologies Co., Ltd.；公司的外文名称缩写 SEICHITECH；股票简称 精智达；股票代码 688627",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "notes": "Listed issuer. FY2025 business spans semiconductor test solutions and new-display-device inspection solutions. Semiconductor offerings include wafer test, burn-in/repair, FT testers, MEMS probe cards and accessories; display offerings include optical inspection/correction, aging and signal-generation systems. Do not classify all company financials as ATE, semiconductor test, display inspection, or any one platform without a source-native table boundary.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Jingzhida'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

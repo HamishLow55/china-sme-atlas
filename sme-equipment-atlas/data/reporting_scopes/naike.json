@@ -1,0 +1,191 @@
+[
+  {
+    "reporting_scope_id": "naike_molding_transfer_120t",
+    "category_id": "molding_transfer",
+    "label": "FY2019-H1 2022 半导体全自动封装设备（120吨） revenue/units/price",
+    "definition": "Source-native 2019-2021 annual and H1 2022 interim rows for Naike's '半导体全自动封装设备（120吨）' (120-ton automatic transfer-molding equipment), from the IPO prospectus's model-level sales breakdown (naike_ipo_2022, physical p247). Partitions the broader '半导体封装设备' (semiconductor packaging equipment) product line, which the prospectus's own table (p246) also splits into the 180-ton line, automatic trim-and-form equipment and manual molding presses -- none of those other lines are included here. A single-model revenue/unit/price series, not a basket."
+  },
+  {
+    "reporting_scope_id": "naike_molding_transfer_180t",
+    "category_id": "molding_transfer",
+    "label": "FY2019-H1 2022 半导体全自动封装设备（180吨） revenue/units/price",
+    "definition": "Source-native 2019-2021 annual and H1 2022 interim rows for Naike's '半导体全自动封装设备（180吨）' (180-ton automatic transfer-molding equipment), from the IPO prospectus's model-level sales breakdown (naike_ipo_2022, physical p247). Partitions the broader '半导体封装设备' product line alongside the 120-ton line, trim-and-form equipment and manual presses; this scope covers only the 180-ton model. A single-model revenue/unit/price series, not a basket."
+  },
+  {
+    "reporting_scope_id": "naike_molding_manual_press",
+    "category_id": "molding_transfer",
+    "label": "FY2019-H1 2022 半导体塑料封装压机 (manual molding press) revenue/units/price",
+    "definition": "Source-native 2019-2021 annual and H1 2022 interim rows for Naike's '半导体塑料封装压机' (manual plastic packaging press, 450-ton and 250-ton hydraulically driven models per naike_annual_2022 p17), from the IPO prospectus's model-level sales breakdown (naike_ipo_2022, physical p247). Carried at molding_transfer, not at the molding parent: the prospectus's own comparison of the two machines (physical pp125-126) states that the manual press performs the encapsulation step 合模注塑→开模 -- the identical phrase it uses for the automatic press's 封装 step -- and gives its clamping range as 250T-450T, matching the model names. The two differ in automation and in the ancillary machines a manual line needs, not in mechanism, and molding_transfer's own scope note admits manual as well as automatic transfer presses. An earlier version of this record sat at the parent on the grounds that no mechanism was named; that was read off a short product blurb rather than off the prospectus's dedicated comparison section. Partitions the broader '半导体封装设备' product line; excludes the 120-ton and 180-ton automatic lines and trim-and-form equipment, reported separately in the same table."
+  },
+  {
+    "reporting_scope_id": "naike_packaging_equipment_basket",
+    "category_id": "multi_equipment",
+    "label": "FY2022-FY2025 半导体封装设备 (combined packaging-equipment basket) revenue/units/margin",
+    "definition": "Naike's '半导体封装设备' main-business product-line row from each annual report's 主营业务分产品情况 table (FY2022: naike_annual_2022 p38; FY2023: naike_annual_2023 p38; FY2024: naike_annual_2024 p39; FY2025: naike_annual_2025 p38). From FY2022 the annual reports stop giving the model-level split the IPO prospectus gave for 2019-2021/H1 2022 (verified: no 120-ton/180-ton/manual-press/trim-and-form breakdown found in any of the four annual reports' MD&A or notes); the issuer's own prospectus (naike_ipo_2022 p139) states this product line's own composition is '半导体全自动塑料封装设备、半导体全自动切筋成型设备以及半导体手动塑封压机' -- fully automatic transfer-molding equipment (120/180-ton, from FY2024 also the next-generation NTAMS180-X1), fully automatic trim-and-form equipment, and manual molding presses, combined and not split in this line. Trim-and-form is not a molding process, so this basket mixes a molding-equipment category with a non-molding one and cannot be allocated; it is filed at multi_equipment, never at molding or any molding child. Excludes '半导体封装模具' (packaging molds/tooling), reported as its own separate line in the same table and out of scope for this packet (tooling, not equipment)."
+  },
+  {
+    "reporting_scope_id": "naike_company",
+    "category_id": "all_businesses",
+    "label": "Naike company-wide totals (R&D investment)",
+    "definition": "Naike's company-wide '研发投入合计' (total R&D investment) from each filing's dedicated R&D-investment table. Covers the whole company, including the plastic extrusion mould/equipment segment, which the issuer's own FY2025 report confirms is still the larger of its two segments by main-business revenue; not resolved to the semiconductor packaging-equipment business, let alone to molding specifically. Never to be read as molding R&D."
+  },
+  {
+    "reporting_scope_id": "naike_ntams180x1_project",
+    "category_id": "molding_transfer",
+    "label": "NTAMS180-X1 next-generation 180-ton transfer-molding system R&D project",
+    "definition": "Naike's named in-progress R&D project '新一代180吨全自动封装系统开发NTAMS180-X1' (next-generation 180-ton fully automatic packaging-system development, NTAMS180-X1), from the FY2024 annual report's 在研项目情况 table (naike_annual_2024, physical page with the project table; the project's own stated application is '满足用于SOP、SOT、LQFP、SMA、QFN、DFN等产采用transfer molding封装形式的产品封装' -- explicitly a transfer-molding product). Project budget and cumulative spend only; concluded ('项目结题') within FY2024."
+  },
+  {
+    "reporting_scope_id": "naike_compression_ntcms40v1_project",
+    "category_id": "molding_compression",
+    "label": "NTCMS40-V1 strip-level compression-molding tool R&D project",
+    "definition": "Naike's named R&D project and product 'NTCMS40-V1' (压缩成型封装设备NTCMS40-V1), a strip-level compression molder for substrates up to 100mm x 300mm, from the FY2025 annual report's and H1 2026 interim report's 在研项目情况 tables (naike_annual_2025 pp29/31-32; naike_interim_2026h1 pp16/25). Project budget and period/cumulative spend only; the platform record (naike_ntcms40v1) carries the stage evidence."
+  },
+  {
+    "reporting_scope_id": "naike_compression_wafer_panel_project",
+    "category_id": "molding_compression",
+    "label": "Large wafer/panel-level compression-molding R&D project",
+    "definition": "Naike's named in-progress R&D project '大尺寸晶圆级集成电路智能封装关键技术研究及智能装备产业化' (large-size wafer-level IC smart packaging key-technology research and smart-equipment industrialisation), a 12-inch-wafer/300mm-and-above-panel compression tool for TSV, IPD and fan-in/fan-out WLP work, from the FY2025 annual report's and H1 2026 interim report's 在研项目情况 tables (naike_annual_2025 pp29/32; naike_interim_2026h1 p25). No model number given by the issuer; project-level budget and period/cumulative spend only, no platform record."
+  },
+  {
+    "reporting_scope_id": "naike_source_defined_domestic_main_business",
+    "category_id": "all_businesses",
+    "label": "国内",
+    "definition": "Naike source-native 主营业务分地区情况 row 国内 (main-business revenue partitioned by region, FY2022-FY2025 annual reports). Table boundary is preserved; no allocation beyond the disclosed row. Naike's semiconductor-packaging segment is the minority of this company-wide total -- see entity notes on the plastic-extrusion segment being the larger business line in most years."
+  },
+  {
+    "reporting_scope_id": "naike_source_defined_overseas_main_business",
+    "category_id": "all_businesses",
+    "label": "国外",
+    "definition": "Naike source-native 主营业务分地区情况 row 国外 (main-business revenue partitioned by region, FY2022-FY2025 annual reports). Table boundary is preserved; no allocation beyond the disclosed row. Naike's overseas revenue is overwhelmingly the plastic-extrusion-mould/equipment segment (see issuer narrative); this is a company total, not a semiconductor-equipment figure."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_jiangsu",
+    "category_id": "all_businesses",
+    "label": "江苏",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 江苏 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_anhui",
+    "category_id": "all_businesses",
+    "label": "安徽",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 安徽 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_shandong",
+    "category_id": "all_businesses",
+    "label": "山东",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 山东 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_zhejiang",
+    "category_id": "all_businesses",
+    "label": "浙江",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 浙江 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_hunan",
+    "category_id": "all_businesses",
+    "label": "湖南",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 湖南 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_gansu",
+    "category_id": "all_businesses",
+    "label": "甘肃",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 甘肃 (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_domestic_other",
+    "category_id": "all_businesses",
+    "label": "其他（注）",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 其他（注） (国内小计 domestic sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_north_america",
+    "category_id": "all_businesses",
+    "label": "北美洲",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 北美洲 (国外小计 overseas sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_europe",
+    "category_id": "all_businesses",
+    "label": "欧洲",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 欧洲 (国外小计 overseas sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_asia",
+    "category_id": "all_businesses",
+    "label": "亚洲",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 亚洲 (国外小计 overseas sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_ipo_source_region_overseas_other",
+    "category_id": "all_businesses",
+    "label": "其他",
+    "definition": "Naike IPO prospectus source-native 主营业务收入按地区构成分析 row 其他 (国外小计 overseas sub-bucket), FY2019-FY2021 and H1 2022. Main-business revenue partitioned by customer region; table boundary preserved, no allocation beyond the disclosed row. Distinct from the later annual-report 主营业务分地区情况 国内/国外 binary split, which covers different (non-overlapping) fiscal periods (FY2022 onward) at coarser (binary) granularity."
+  },
+  {
+    "reporting_scope_id": "naike_note61_main_business",
+    "label": "主营业务",
+    "category_id": "all_businesses",
+    "definition": "Main-business revenue from the H1 2026 note 61. Company-wide, including the plastic-extrusion business.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_packaging_molds_product_line",
+    "label": "半导体封装模具",
+    "category_id": "all_businesses",
+    "definition": "Note 61 商品类型 row 半导体封装模具: packaging moulds and tooling, sold as their own line. Tooling, not equipment, so it sits outside naike_packaging_equipment_basket.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_extrusion_molds_and_devices_product_line",
+    "label": "塑料挤出成型模具、挤出成型装置",
+    "category_id": "all_businesses",
+    "definition": "Note 61 商品类型 row for the plastic-extrusion business. Not semiconductor.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_extrusion_downstream_equipment_product_line",
+    "label": "塑料挤出成型下游设备",
+    "category_id": "all_businesses",
+    "definition": "Note 61 商品类型 row for the plastic-extrusion business. Not semiconductor.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_extrusion_industry",
+    "label": "塑料挤出成型模具、挤出成型装置及下游设备",
+    "category_id": "all_businesses",
+    "definition": "Note 61 按行业分类 row for the plastic-extrusion business. Not semiconductor.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_other_main_business_industry",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "Note 61 按行业分类 row 其他.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_advanced_packaging_equipment_upgrade_project",
+    "label": "基于先进封装的半导体封装装备制造升级技改项目",
+    "category_id": "multi_equipment",
+    "definition": "Raised-funds manufacturing upgrade project listed in the H1 2026 募投项目明细 table (p52). The filing does not state a tool mix or capacity, so it is not allocated to molding.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_ntams240_project",
+    "label": "NTAMS240 全自动封装系统",
+    "category_id": "molding_transfer",
+    "definition": "Row 6 of the H1 2026 在研项目情况 table. Named 240-ton double-pot transfer-moulding system project. Project budget and spend only.",
+    "entity_id": "naike"
+  },
+  {
+    "reporting_scope_id": "naike_ntams180xt_project",
+    "label": "新型自动封装冲切集成系统开发 NTAMS180-XT",
+    "category_id": "molding_transfer",
+    "definition": "Row 3 of the H1 2026 在研项目情况 table. Transfer-moulding system with integrated runner punching. Project budget and spend only.",
+    "entity_id": "naike"
+  }
+]

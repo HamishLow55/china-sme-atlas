@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "bojiexin_company_pages",
+    "title": "Bojiexin (BJCORE) public product/company website pages",
+    "kind": "company_filings",
+    "publisher": "bojiexin",
+    "version": "w13_2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Short evidence passages from the company's own website; originals held locally as archived HTML. Bojiexin files no periodic report of its own (it is a non-listed consolidated subsidiary of Bojay/002975); this dataset covers its public website only and carries no financial figures.",
+    "market_definitions": {}
+  }
+]

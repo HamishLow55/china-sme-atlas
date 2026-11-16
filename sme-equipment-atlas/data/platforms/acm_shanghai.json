@@ -1,0 +1,3563 @@
+[
+  {
+    "platform_id": "acm_ultra_ecp_3d",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "name": "Ultra ECP 3d",
+    "aliases": [
+      "Ultra ECP 3d"
+    ],
+    "evidence": {
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "应用于填充 3d 硅通孔 TSV 和 2.5D 转接板的三维电镀设备 Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于 10:1）铜应用提供高性能、无孔洞的镀铜功能。",
+      "status": "source_checked",
+      "reviewer": "tsv_cross_review",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "supplier_capability",
+    "maturity_as_reported_in": "acm_shanghai_2025",
+    "notes": "Supplier application/capability claim in FY2025 annual report; no inference of independent HBM qualification, TSV-only revenue or dated product launch. Aspect ratio >10:1 is a capability specification, not installed-base/adoption metric.",
+    "maturity_history": [
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-01",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "报告期内，已实现客户端设备量产验证并量产：完成4台半导体电镀设备，其中，3台Ultra ECP map电镀设备，1台Ultra ECP 3d电镀设备量产验证并进入量产，应用于28nm，40nm，55nm，65nm技术节点和TSV A:R=10:10工艺。",
+        "notes": "Earliest located Ultra ECP 3d maturity datapoint: FY2021 reports 1 of 4 period-delivered plating systems was Ultra ECP 3d, having completed customer mass-production verification and entered mass production, applied to named logic nodes and TSV AR=10:10. This is a unit-count + production-stage claim, not a cumulative shipment/installed-base series; do not merge with cumulative_shipments.",
+        "page": 17,
+        "reported_maturity": "one_unit_customer_mass_production_verification_completed_entered_mass_production_fy2021_28_40_55_65nm_tsv_ar10to10",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2021",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-02",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "B.三维堆叠电镀设备\n应用于填充3d硅通孔TSV和2.5d转接板的三维电镀设备Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于10:1）铜应用提供高性能、无孔洞的镀铜功能。为提高产能而做的堆叠式腔体设计，该设备还能减少消耗品的使用，降低成本，节省设备使用面积。",
+        "notes": "FY2022 reverts to a plain capability/listing description with no production-stage or order sentence, unlike the FY2021 and FY2023/H1-2024 vintages either side of it.",
+        "page": 16,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2022",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-03",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "B.三维堆叠电镀设备\n应用于填充3d硅通孔TSV和2.5d转接板的三维电镀设备Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于10:1）铜应用提供高性能、无孔洞的镀铜功能。为提高产能而做的堆叠式腔体设计，该设备还能减少消耗品的使用，降低成本，节省设备使用面积。",
+        "notes": "H1 2023 still capability-only; the mass-production/repeat-orders sentence first appears in the following annual report (FY2023).",
+        "page": 14,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_h1_2023",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-04",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "B.三维堆叠电镀设备\n应用于填充3d硅通孔TSV和2.5D转接板的三维电镀设备Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于10:1）铜应用提供高性能、无孔洞的镀铜功能。该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面积。2023年该设备在客户端量产并继续取得批量重复订单，开发出针对20200µm深的电镀工艺。",
+        "notes": "First dated production/order milestone for Ultra ECP 3d since the FY2021 first-unit claim: 2023 mass production at customer plus continuing repeat/batch orders, process developed for a 20-200µm depth range (printed '20200µm' in the source; hyphen not rendered by pdftotext, preserved verbatim). Excerpt note: the source prints the depth range with a private-use glyph (U+F0CD) from a symbol font between 20 and 200, which pdftotext cannot render. It is reproduced verbatim here so the excerpt verifies against the page; read it as a range separator.",
+        "page": 17,
+        "reported_maturity": "mass_production_and_repeat_orders_2023_process_depth_20_200um",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2023",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-05",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "B.三维堆叠电镀设备\n应用于填充3d硅通孔TSV和2.5D转接板的三维电镀设备Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于10:1）铜应用提供高性能、无孔洞的镀铜功能。该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面积。该设备已在客户端量产并继续取得批量重复订单，开发出针对20200µm深的电镀工艺。",
+        "notes": "H1 2024 repeats the FY2023 mass-production/repeat-orders/20-200µm claim verbatim in substance (tense changed to '已在客户端量产'). Treated as its own vintage, not a duplicate of ACMS-F-HIST-04, per the atlas convention of recording each filing's own repetition. Excerpt note: the source prints the depth range with a private-use glyph (U+F0CD) from a symbol font between 20 and 200, which pdftotext cannot render. It is reproduced verbatim here so the excerpt verifies against the page; read it as a range separator.",
+        "page": 14,
+        "reported_maturity": "mass_production_and_repeat_orders_repeated_h1_2024_process_depth_20_200um",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_h1_2024",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-06",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "B.三维堆叠电镀设备\n应用于填充3d硅通孔TSV和2.5D转接板的三维电镀设备Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于10:1）铜应用提供高性能、无孔洞的镀铜功能。该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面积。",
+        "notes": "FY2024 drops the mass-production/repeat-orders sentence present in FY2023 and H1 2024, reverting to plain capability wording. The same drop recurs in FY2025/H1-2025/H1-2026 (already registered), so the mass-production claim is confined to FY2023 and H1 2024 only -- a genuine appear/disappear pattern worth flagging to Hamish rather than a steady maturity progression.",
+        "page": 18,
+        "reported_maturity": "source_product_listed_capability_milestone_sentence_dropped",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2024",
+        "status": "pending"
+      },
+      {
+        "claim_id": "ACMS-F050",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "B.三维堆叠电镀设备\n  应用于填充 3d 硅通孔 TSV 和 2.5D 转接板的三维电镀设备 Ultra ECP 3d。基于盛美半导体电\n镀设备的平台，该设备可为高深宽比（深宽比大于 10:1）铜应用提供高性能、无孔洞的镀铜功\n能。该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面\n积。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source row explicitly names Ultra ECP 3d; this is a capability/listing history for the existing platform, not a new 3D ECP model or customer installation."
+      },
+      {
+        "claim_id": "ACMS-F012",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "B.三维堆叠电镀设备\n    应用于填充 3d 硅通孔 TSV 和 2.5D 转接板的三维电镀设备 Ultra ECP 3d。基于盛美半导体电\n镀设备的平台，该设备可为高深宽比（深宽比大于 10:1）铜应用提供高性能、无孔洞的镀铜功能。\n该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面积。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source row explicitly names Ultra ECP 3d; this is a capability/listing history for the existing platform, not a new 3D ECP model or customer installation."
+      },
+      {
+        "claim_id": "ACMS-F085",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "B.三维堆叠电镀设备\n  应用于填充 3d 硅通孔 TSV 和 2.5D 转接板的三维电镀设备 Ultra ECP 3d。基于盛美半导体电\n镀设备的平台，该设备可为高深宽比（深宽比大于 10:1）铜应用提供高性能、无孔洞的镀铜功能。\n该设备为提高产能而设计了堆叠式腔体，能减少消耗品的使用，降低成本，节省设备使用面积。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source row explicitly names Ultra ECP 3d; this is a capability/listing history for the existing platform, not a new 3D ECP model or customer installation."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_01",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_group",
+    "name": "清洗设备",
+    "aliases": [
+      "清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F001",
+      "source_id": "acm_shanghai_2025",
+      "page": 14,
+      "excerpt": "①清洗设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F039",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 12,
+        "excerpt": "①清洗设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F001",
+        "source_id": "acm_shanghai_2025",
+        "page": 14,
+        "excerpt": "①清洗设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F074",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 12,
+        "excerpt": "①清洗设备\n\n                        12 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_02",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "SAPS 兆声波单片清洗设备",
+    "aliases": [
+      "SAPS 兆声波单片清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F002",
+      "source_id": "acm_shanghai_2025",
+      "page": 14,
+      "excerpt": "A.SAPS 兆声波单片清洗设备\n   晶圆表面的兆声波能量与晶圆和兆声波发生器之间的距离呈现周期性的变化。在传统的兆声\n波清洗工艺中，不同工序后应力带来的晶圆翘曲，使得晶圆上不同点到兆声波发生器的距离不同，\n因此晶圆上不同位置的兆声波能量也不相同，无法实现兆声波能量在晶圆表面的均匀分布。而且\n由于硬件位置控制的误差，也会造成兆声波能量在晶圆表面分布的不均匀。\n   公司自主研发的 SAPS 兆声波技术采用扇形兆声波发生器，通过精确匹配晶圆旋转速度、液\n膜厚度、兆声波发生器的位置、交变位移及能量等关键工艺参数，通过在工艺中控制兆声波发生\n器和晶圆之间的半波长范围的相对运动，使晶圆上每一点在工艺时间内接收到的兆声波能量都相\n同，从而很好的控制了兆声波能量在晶圆表面的均匀分布。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F040",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 12,
+        "excerpt": "A.SAPS 兆声波单片清洗设备\n  晶圆表面的兆声波能量与晶圆和兆声波发生器之间的距离呈现周期性的变化。在传统的兆声\n波清洗工艺中，不同工序后应力带来的晶圆翘曲，使得晶圆上不同点到兆声波发生器的距离不\n同，因此晶圆上不同位置的兆声波能量也不相同，无法实现兆声波能量在晶圆表面的均匀分布。\n而且由于硬件位置控制的误差，也会造成兆声波能量在晶圆表面分布的不均匀。\n  公司自主研发的 SAPS 兆声波技术采用扇形兆声波发生器，通过精确匹配晶圆旋转速度、液\n膜厚度、兆声波发生器的位置、交变位移及能量等关键工艺参数，通过在工艺中控制兆声波发生\n器和晶圆之间的半波长范围的相对运动，使晶圆上每一点在工艺时间内接收到的兆声波能量都相\n同，从而很好的控制了兆声波能量在晶圆表面的均匀分布。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F002",
+        "source_id": "acm_shanghai_2025",
+        "page": 14,
+        "excerpt": "A.SAPS 兆声波单片清洗设备\n   晶圆表面的兆声波能量与晶圆和兆声波发生器之间的距离呈现周期性的变化。在传统的兆声\n波清洗工艺中，不同工序后应力带来的晶圆翘曲，使得晶圆上不同点到兆声波发生器的距离不同，\n因此晶圆上不同位置的兆声波能量也不相同，无法实现兆声波能量在晶圆表面的均匀分布。而且\n由于硬件位置控制的误差，也会造成兆声波能量在晶圆表面分布的不均匀。\n   公司自主研发的 SAPS 兆声波技术采用扇形兆声波发生器，通过精确匹配晶圆旋转速度、液\n膜厚度、兆声波发生器的位置、交变位移及能量等关键工艺参数，通过在工艺中控制兆声波发生\n器和晶圆之间的半波长范围的相对运动，使晶圆上每一点在工艺时间内接收到的兆声波能量都相\n同，从而很好的控制了兆声波能量在晶圆表面的均匀分布。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q008",
+        "source_id": "acm_shanghai_2025",
+        "page": 25,
+        "excerpt": "①SAPS 兆声波清洗技术\n     针对传统兆声波清洗工艺中兆声波能量无法均匀控制的问题，公司开发了 SAPS 兆声波清洗\n技术。兆声波的工艺频率范围为 1-3MHz，最大功率可达 3W/cm²。SAPS 兆声波清洗技术通过控\n制工艺过程中兆声波发生器和晶圆之间的相对运动，使得晶圆上每一点在工艺时间内接收到的兆\n声波能量都相同，不受晶圆翘曲的影响，并确保晶圆上每点所承受的能量在安全范围内。实验证\n明，SAPS 兆声波清洗技术可控制晶圆表面的能量非均匀度在 2%以内，实现了兆声波能量的安全\n可控。\n  2025 年，依托该技术的 RCA 产品工艺在客户端高端工艺验证中取得系列突破，已正式列为\n公司标准方案并全面推广应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "rca_customer_process_verification",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Verification, not source-bound node adoption. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-F075",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 13,
+        "excerpt": "A.SAPS 兆声波单片清洗设备\n  晶圆表面的兆声波能量与晶圆和兆声波发生器之间的距离呈现周期性的变化。在传统的兆声\n波清洗工艺中，不同工序后应力带来的晶圆翘曲，使得晶圆上不同点到兆声波发生器的距离不同，\n因此晶圆上不同位置的兆声波能量也不相同，无法实现兆声波能量在晶圆表面的均匀分布。而且\n由于硬件位置控制的误差，也会造成兆声波能量在晶圆表面分布的不均匀。\n  公司自主研发的 SAPS 兆声波技术采用扇形兆声波发生器，通过精确匹配晶圆旋转速度、液\n膜厚度、兆声波发生器的位置、交变位移及能量等关键工艺参数，通过在工艺中控制兆声波发生\n器和晶圆之间的半波长范围的相对运动，使晶圆上每一点在工艺时间内接收到的兆声波能量都相\n同，从而很好的控制了兆声波能量在晶圆表面的均匀分布。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "acmr_2024_saps_model_names",
+        "source_id": "acmr_us_2024",
+        "page": 11,
+        "excerpt": "We offer two principal models of wet wafer cleaning equipment based on our SAPS technology, Ultra C SAPS II and Ultra C SAPS V. Each of these\nmodels is a single-wafer, serial-processing tool that can be configured to customer specifications and, in conjunction with appropriate dilute chemicals,\nused to remove random defects from wafer surfaces or interconnects and barrier metals as part of the chip front-end fabrication process or for recycling test\nwafers. By combining our megasonic and chemical cleaning technologies, we have designed these tools to remove random defects with greater efficacy\nand efficiency than conventional wafer cleaning processes, with enhanced process flexibility and reduced quantities of chemicals. Each of our SAPS\nmodels was initially built to meet specific requirements of a key customer.",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_group_model_names",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "US consolidated filing names models within this technology family. Family-level cross-source history only; does not establish separate Shanghai-owned model records, individual model maker, customer qualification or distinct tool counts. Model/family populations overlap."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_03",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "TEBO 兆声波单片清洗设备",
+    "aliases": [
+      "TEBO 兆声波单片清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F003",
+      "source_id": "acm_shanghai_2025",
+      "page": 14,
+      "excerpt": "B.TEBO 兆声波单片清洗设备\n   公司自主研发的 TEBO 清洗设备，可适用于 28nm 及以下的图形晶圆清洗，通过一系列快速\n（频率达到每秒一百万次）的压力变化，使得气泡在受控的温度下保持尺寸和形状振荡，将气泡\n控制在稳定震荡状态，而不会内爆，从而保持晶圆微结构不被破坏，对晶圆表面图形结构进行无\n损伤清洗。公司 TEBO 清洗设备，在器件结构从 2D 转换为 3D 的技术转移中，可应用于更为精细\n的具有 3D 结构的 FinFET、DRAM 和新兴 3D NAND 等产品，以及未来新型纳米器件和量子器件\n等，在提高客户产品良率方面发挥越来越重要的作用。\n   公司通过自主研发并具有全球知识产权保护的 SAPS 和 TEBO 兆声波清洗技术，解决了兆声\n波技术在集成电路单片清洗设备上应用时，兆声波能量如何在晶圆上均匀分布及如何实现图形结\n构无损伤的全球性难题。为实现产能最大化，公司单片清洗设备可根据客户需求配置多个工艺腔\n体，最高可单台配置 18 腔体，有效提升客户的生产效率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "process_node": "28nm 及以下",
+      "process_node_context": "图形晶圆清洗"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F041",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 12,
+        "excerpt": "B.TEBO 兆声波单片清洗设备\n  公司自主研发的 TEBO 清洗设备，可适用于 28nm 及以下的图形晶圆清洗，通过一系列快速\n（频率达到每秒一百万次）的压力变化，使得气泡在受控的温度下保持尺寸和形状振荡，将气泡\n控制在稳定震荡状态，而不会内爆，从而保持晶圆微结构不被破坏，对晶圆表面图形结构进行无\n损伤清洗。公司 TEBO 清洗设备，在器件结构从 2D 转换为 3D 的技术转移中，可应用于更为精\n细的具有 3D 结构的 FinFET、DRAM 和新兴 3D NAND 等产品，以及未来新型纳米器件和量子\n器件等，在提高客户产品良率方面发挥越来越重要的作用。\n  公司通过自主研发并具有全球知识产权保护的 SAPS 和 TEBO 兆声波清洗技术，解决了兆声\n波技术在集成电路单片清洗设备上应用时，兆声波能量如何在晶圆上均匀分布及如何实现图形结\n构无损伤的全球性难题。为实现产能最大化，公司单片清洗设备可根据客户需求配置多个工艺腔\n体，最高可单台配置 18 腔体，有效提升客户的生产效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group.",
+        "process_node": "28nm 及以下",
+        "process_node_context": "图形晶圆清洗"
+      },
+      {
+        "claim_id": "ACMS-F003",
+        "source_id": "acm_shanghai_2025",
+        "page": 14,
+        "excerpt": "B.TEBO 兆声波单片清洗设备\n   公司自主研发的 TEBO 清洗设备，可适用于 28nm 及以下的图形晶圆清洗，通过一系列快速\n（频率达到每秒一百万次）的压力变化，使得气泡在受控的温度下保持尺寸和形状振荡，将气泡\n控制在稳定震荡状态，而不会内爆，从而保持晶圆微结构不被破坏，对晶圆表面图形结构进行无\n损伤清洗。公司 TEBO 清洗设备，在器件结构从 2D 转换为 3D 的技术转移中，可应用于更为精细\n的具有 3D 结构的 FinFET、DRAM 和新兴 3D NAND 等产品，以及未来新型纳米器件和量子器件\n等，在提高客户产品良率方面发挥越来越重要的作用。\n   公司通过自主研发并具有全球知识产权保护的 SAPS 和 TEBO 兆声波清洗技术，解决了兆声\n波技术在集成电路单片清洗设备上应用时，兆声波能量如何在晶圆上均匀分布及如何实现图形结\n构无损伤的全球性难题。为实现产能最大化，公司单片清洗设备可根据客户需求配置多个工艺腔\n体，最高可单台配置 18 腔体，有效提升客户的生产效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group.",
+        "process_node": "28nm 及以下",
+        "process_node_context": "图形晶圆清洗"
+      },
+      {
+        "claim_id": "ACMS-F076",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 13,
+        "excerpt": "B.TEBO 兆声波单片清洗设备\n  公司自主研发的 TEBO 清洗设备，可适用于 28nm 及以下的图形晶圆清洗，通过一系列快速\n（频率达到每秒一百万次）的压力变化，使得气泡在受控的温度下保持尺寸和形状振荡，将气泡\n控制在稳定震荡状态，而不会内爆，从而保持晶圆微结构不被破坏，对晶圆表面图形结构进行无\n损伤清洗。公司 TEBO 清洗设备，在器件结构从 2D 转换为 3D 的技术转移中，可应用于更为精细\n的具有 3D 结构的 FinFET、DRAM 和新兴 3D NAND 等产品，以及未来新型纳米器件和量子器件\n等，在提高客户产品良率方面发挥越来越重要的作用。\n  公司通过自主研发并具有全球知识产权保护的 SAPS 和 TEBO 兆声波清洗技术，解决了兆声\n波技术在集成电路单片清洗设备上应用时，兆声波能量如何在晶圆上均匀分布及如何实现图形结\n构无损伤的全球性难题。为实现产能最大化，公司单片清洗设备可根据客户需求配置多个工艺腔\n体，最高可单台配置 18 腔体，有效提升客户的生产效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group.",
+        "process_node": "28nm 及以下",
+        "process_node_context": "图形晶圆清洗"
+      },
+      {
+        "claim_id": "acmr_2024_tebo_model_names",
+        "source_id": "acmr_us_2024",
+        "page": 12,
+        "excerpt": "We offer two models of wet wafer cleaning equipment based on our TEBO technology, Ultra C TEBO II and Ultra C TEBO V. Each of these models is a\nsingle-wafer, serial-processing tool that can be configured to customer specifications and, in conjunction with appropriate dilute chemicals, used at\nnumerous manufacturing processing steps for effective, damage-free cleaning of chips at process nodes of 28nm or less.",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_group_model_names",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "US consolidated filing names models within this technology family. Family-level cross-source history only; does not establish separate Shanghai-owned model records, individual model maker, customer qualification or distinct tool counts. Model/family populations overlap. Source application capability only, not qualification; separate 1xnm technology tests are not inherited.",
+        "process_node": "28nm or less",
+        "process_node_context": "chips at process nodes of 28nm or less"
+      },
+      {
+        "claim_id": "acmr_2024_tebo_group_evaluation",
+        "source_id": "acmr_us_2024",
+        "page": 13,
+        "excerpt": "TEBO equipment is being evaluated by a select group of leading memory and logic chip\ncustomers.",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "equipment_under_customer_evaluation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Generic TEBO equipment evaluation claim at family/group level only. Does not establish evaluation or qualification of either named model individually, customer identity, installation or production use."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_04",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "高温单片 SPM 设备",
+    "aliases": [
+      "高温单片 SPM 设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F004",
+      "source_id": "acm_shanghai_2025",
+      "page": 14,
+      "excerpt": "C.高温单片 SPM 设备\n   随着技术节点推进，工艺温度要求在 150 摄氏度以上，甚至超过 200 摄氏度的 SPM 工艺步骤\n逐渐增加。高剂量离子注入后的光刻胶去除、无灰化步骤的纯湿法去胶工艺，以及特殊的金属膜\n层刻蚀或剥离，都对 SPM 的温度提出了更高的要求。公司的新型单片高温 SPM 设备使用独特的\n多级梯度加热系统来预热硫酸，然后将硫酸与过氧化氢混合以达到超高温。同时，公司的腔体支\n持配置其他多种化学品，并配备在线化学品混酸（CIM）系统，可用于动态设置工艺中的化学品\n配比及温度。该腔体配置还可支持更多的化学品和灵活的辅助清洗方案，比如公司独有的专利技\n术 SAPS 和 TEBO 兆声波技术。该设备可支持 300mm 晶圆单片 SPM（硫酸和过氧化氢混合酸）\n工艺，可广泛应用于逻辑、DRAM 和 3D-NAND 等集成电路制造中的湿法清洗和刻蚀工艺，尤其\n适合处理高剂量离子注入后的光刻胶（PR）去除工艺，以及金属刻蚀和剥离工艺。单片中低温 SPM\n清洗设备在多家客户端实现量产 26nm 颗粒数量少于 10 颗，平均颗粒数量少于 5 颗。高温（硫酸\n温度大于 170 摄氏度）SPM 设备装入盛美上海的专利申请保护的喷嘴技术，可以有效改善清洗腔\n的氛围，大幅减少清洗",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_customer_batch_orders",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F042",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 12,
+        "excerpt": "C.高温单片 SPM 设备\n  随着技术节点推进，工艺温度要求在 150 摄氏度以上，甚至超过 200 摄氏度的 SPM 工艺步\n骤逐渐增加。高剂量离子注入后的光刻胶去除、无灰化步骤的纯湿法去胶工艺，以及特殊的金属\n膜层刻蚀或剥离，都对 SPM 的温度提出了更高的要求。公司的新型单片高温 SPM 设备使用独特\n的多级梯度加热系统来预热硫酸，然后将硫酸与过氧化氢混合以达到超高温。同时，公司的腔体\n                         12 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q021",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 18,
+        "excerpt": "单晶圆高温 SPM 设备已成功通过关键客户验证，该工艺对下一代\n半导体器件制造具备重要价值。在半导体电镀设备领域，公司全球市场占有率达 8.2%（位列全球\n第三）。报告期内，公司 ECP 设备第 1500 电镀腔完成交付，实现电镀技术全",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "key_customer_verified_2025_03",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Reported March 2025 customer verification, no installed count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-F004",
+        "source_id": "acm_shanghai_2025",
+        "page": 14,
+        "excerpt": "C.高温单片 SPM 设备\n   随着技术节点推进，工艺温度要求在 150 摄氏度以上，甚至超过 200 摄氏度的 SPM 工艺步骤\n逐渐增加。高剂量离子注入后的光刻胶去除、无灰化步骤的纯湿法去胶工艺，以及特殊的金属膜\n层刻蚀或剥离，都对 SPM 的温度提出了更高的要求。公司的新型单片高温 SPM 设备使用独特的\n多级梯度加热系统来预热硫酸，然后将硫酸与过氧化氢混合以达到超高温。同时，公司的腔体支\n持配置其他多种化学品，并配备在线化学品混酸（CIM）系统，可用于动态设置工艺中的化学品\n配比及温度。该腔体配置还可支持更多的化学品和灵活的辅助清洗方案，比如公司独有的专利技\n术 SAPS 和 TEBO 兆声波技术。该设备可支持 300mm 晶圆单片 SPM（硫酸和过氧化氢混合酸）\n工艺，可广泛应用于逻辑、DRAM 和 3D-NAND 等集成电路制造中的湿法清洗和刻蚀工艺，尤其\n适合处理高剂量离子注入后的光刻胶（PR）去除工艺，以及金属刻蚀和剥离工艺。单片中低温 SPM\n清洗设备在多家客户端实现量产 26nm 颗粒数量少于 10 颗，平均颗粒数量少于 5 颗。高温（硫酸\n温度大于 170 摄氏度）SPM 设备装入盛美上海的专利申请保护的喷嘴技术，可以有效改善清洗腔\n的氛围，大幅减少清洗",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F077",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 13,
+        "excerpt": "C.高温单片 SPM 设备\n  随着技术节点推进，工艺温度要求在 150 摄氏度以上，甚至超过 200 摄氏度的 SPM 工艺步骤\n逐渐增加。高剂量离子注入后的光刻胶去除、无灰化步骤的纯湿法去胶工艺，以及特殊的金属膜\n层刻蚀或剥离，都对 SPM 的温度提出了更高的要求。公司的新型单片高温 SPM 设备使用独特的\n多级梯度加热系统来预热硫酸，然后将硫酸与过氧化氢混合以达到超高温。同时，公司的腔体支\n持配置其他多种化学品，并配备在线化学品混酸（CIM）系统，可用于动态设置工艺中的化学品\n配比及温度。该腔体配置还可支持更多的化学品和灵活的辅助清洗方案，比如公司独有的专利技\n术 SAPS 和 TEBO 兆声波技术。该设备可支持 300mm 晶圆单片 SPM（硫酸和过氧化氢混合酸）\n工艺，可广泛应用于逻辑、DRAM 和 3D-NAND 等集成电路制造中的湿法清洗和刻蚀工艺，尤其\n适合处理高剂量离子注入后的光刻胶（PR）去除工艺，以及金属刻蚀和剥离工艺。单片中低温 SPM\n清洗设备在多家客户端实现量产 26nm 颗粒数量少于 10 颗，平均颗粒数量少于 5 颗。高温（硫酸\n温度大于 170 摄氏度）SPM 设备装入盛美上海的专利申请保护的喷嘴技术，可以有效改善清洗腔\n的氛围，大幅减少清洗腔的",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q033",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 25,
+        "excerpt": "④单晶圆高温 SPM 清洗技术\n  公司自主研发的单晶圆高温 SPM（硫酸过氧化氢混合物）清洗设备，采用全球独有的专利喷\n嘴设计（全球专利申请保护中），可有效避免高温 SPM 气体残留物造成的污染问题，无需周期性\nDI 水清洗腔体即可实现稳定高效的清洗效果。\n  截至 2026 年 6 月，公司在高温单片 SPM 清洗设备上取得重大技术突破，颗粒控制性能显著\n          该产品已在临港 mini-line 与主要客户完成数月联合测试及工艺参数优化，\n优于当前市场主流方案。\n完成性能验证后已成功获得多家客户批量订单。2026 年 5 月，公司在全球半导体表面制备与清洗\n会议 SPCC 2026 上公布该技术重大突破，\n                       被认为是单片高温硫酸清洗市场十余年来的重要里程碑。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_customer_batch_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "After joint mini-line and key-customer testing; no exact order value/count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_05",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "单片槽式组合清洗设备",
+    "aliases": [
+      "单片槽式组合清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F005",
+      "source_id": "acm_shanghai_2025",
+      "page": 14,
+      "excerpt": "D.单片槽式组合清洗设备\n   公司自主研发的具有全球知识产权保护的 Tahoe 清洗设备在单个湿法清洗设备中集成了两个\n模块：槽式模块和单片模块。Tahoe 清洗设备可被应用于光刻胶去除、刻蚀后清洗、离子注入后\n清洗和机械抛光后清洗等几十道关键清洗工艺中。Tahoe 清洗设备的清洗效果与工艺适用性可与\n                         14/248",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F043",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 13,
+        "excerpt": "D.单片槽式组合清洗设备\n  公司自主研发的具有全球知识产权保护的 Tahoe 清洗设备在单个湿法清洗设备中集成了两个\n模块：槽式模块和单片模块。Tahoe 清洗设备可被应用于光刻胶去除、刻蚀后清洗、离子注入后\n清洗和机械抛光后清洗等几十道关键清洗工艺中。Tahoe 清洗设备的清洗效果与工艺适用性可与\n单片中低温 SPM 清洗设备相媲美。该设备通过减少高达 75%的硫酸消耗量，仅硫酸一项每年就\n可节省高达数十万美元的成本，帮助客户降低生产成本又能更好符合国家节能减排政策。该设备\n具备强大的清洗能力，在 26nm 颗粒测试中实现了平均颗粒个位数的标准，可满足高端制造的严\n格要求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F005",
+        "source_id": "acm_shanghai_2025",
+        "page": 14,
+        "excerpt": "D.单片槽式组合清洗设备\n   公司自主研发的具有全球知识产权保护的 Tahoe 清洗设备在单个湿法清洗设备中集成了两个\n模块：槽式模块和单片模块。Tahoe 清洗设备可被应用于光刻胶去除、刻蚀后清洗、离子注入后\n清洗和机械抛光后清洗等几十道关键清洗工艺中。Tahoe 清洗设备的清洗效果与工艺适用性可与\n                         14/248",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F078",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "D.单片槽式组合清洗设备\n  公司自主研发的具有全球知识产权保护的 Tahoe 清洗设备在单个湿法清洗设备中集成了两个\n模块：槽式模块和单片模块。Tahoe 清洗设备可被应用于光刻胶去除、刻蚀后清洗、离子注入后清\n洗和机械抛光后清洗等几十道关键清洗工艺中。Tahoe 清洗设备的清洗效果与工艺适用性可与单\n片中低温 SPM 清洗设备相媲美。该设备通过减少高达 75%的硫酸消耗量，仅硫酸一项每年就可\n节省高达数十万美元的成本，帮助客户降低生产成本又能更好符合国家节能减排政策。该设备具\n备强大的清洗能力，在 26nm 颗粒测试中实现了平均颗粒个位数的标准，可满足高端制造的严格\n要求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_06",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "单片背面清洗设备",
+    "aliases": [
+      "单片背面清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F006",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "E.单片背面清洗设备\n    公司研发的单片背面清洗设备采用伯努利卡盘，应用空气动力学悬浮原理，使用机械手将晶\n圆送入腔体后，使晶背朝上，晶圆正面朝下，在工艺过程中，精准流量控制的高纯氮气通过晶圆\n与卡具之间的空隙。同时，该设备还可精准控制晶圆边缘回刻宽度，做到 zero undercut 控制。该\n设备可用于背面金属污染清洗及背面刻蚀等核心工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F044",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 13,
+        "excerpt": "E.单片背面清洗设备\n  公司研发的单片背面清洗设备采用伯努利卡盘，应用空气动力学悬浮原理，使用机械手将晶\n圆送入腔体后，使晶背朝上，晶圆正面朝下，在工艺过程中，精准流量控制的高纯氮气通过晶圆\n与卡具之间的空隙。同时，该设备还可精准控制晶圆边缘回刻宽度，做到 zero undercut 控制。该\n设备可用于背面金属污染清洗及背面刻蚀等核心工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F006",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "E.单片背面清洗设备\n    公司研发的单片背面清洗设备采用伯努利卡盘，应用空气动力学悬浮原理，使用机械手将晶\n圆送入腔体后，使晶背朝上，晶圆正面朝下，在工艺过程中，精准流量控制的高纯氮气通过晶圆\n与卡具之间的空隙。同时，该设备还可精准控制晶圆边缘回刻宽度，做到 zero undercut 控制。该\n设备可用于背面金属污染清洗及背面刻蚀等核心工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F079",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "E.单片背面清洗设备\n  公司研发的单片背面清洗设备采用伯努利卡盘，应用空气动力学悬浮原理，使用机械手将晶\n圆送入腔体后，使晶背朝上，晶圆正面朝下，在工艺过程中，精准流量控制的高纯氮气通过晶圆\n与卡具之间的空隙。同时，该设备还可精准控制晶圆边缘回刻宽度，做到 zero undercut 控制。该\n设备可用于背面金属污染清洗及背面刻蚀等核心工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_07",
+    "entity_id": "acm_shanghai",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "边缘湿法刻蚀设备",
+    "aliases": [
+      "边缘湿法刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F007",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "F.边缘湿法刻蚀设备\n    该设备支持多种器件和工艺，包括 3D NAND、DRAM 和逻辑工艺，使用湿法刻蚀方法去除\n晶圆边缘的各种电介质、金属和有机材料薄膜，以及颗粒污染物。这种方法最大限度地减少了边\n缘污染对后续工艺步骤的影响，提高了芯片制造的良率，同时整合背面晶圆清洗的功能，进一步\n优化了工艺和产品结构。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F045",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 13,
+        "excerpt": "F.边缘湿法刻蚀设备\n  该设备支持多种器件和工艺，包括 3D NAND、DRAM 和逻辑工艺，使用湿法刻蚀方法去除\n晶圆边缘的各种电介质、金属和有机材料薄膜，以及颗粒污染物。这种方法最大限度地减少了边\n缘污染对后续工艺步骤的影响，提高了芯片制造的良率，同时整合背面晶圆清洗的功能，进一步\n优化了工艺和产品结构。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F007",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "F.边缘湿法刻蚀设备\n    该设备支持多种器件和工艺，包括 3D NAND、DRAM 和逻辑工艺，使用湿法刻蚀方法去除\n晶圆边缘的各种电介质、金属和有机材料薄膜，以及颗粒污染物。这种方法最大限度地减少了边\n缘污染对后续工艺步骤的影响，提高了芯片制造的良率，同时整合背面晶圆清洗的功能，进一步\n优化了工艺和产品结构。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F080",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "F.边缘湿法刻蚀设备\n  该设备支持多种器件和工艺，包括 3D NAND、DRAM 和逻辑工艺，使用湿法刻蚀方法去除\n晶圆边缘的各种电介质、金属和有机材料薄膜，以及颗粒污染物。这种方法最大限度地减少了边\n缘污染对后续工艺步骤的影响，提高了芯片制造的良率，同时整合背面晶圆清洗的功能，进一步\n优化了工艺和产品结构。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_08",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "前道刷洗设备",
+    "aliases": [
+      "前道刷洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F008",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "G.前道刷洗设备\n    设备采用单片腔体对晶圆正背面依工序清洗，可进行包括晶圆背面刷洗、晶圆边缘刷洗、正\n背面二流体清洗等清洗工序；设备占地面积小，产能高，稳定性强，多种清洗方式灵活可选。该\n设备可用于集成电路制造流程中前段至后段各道刷洗工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F046",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 13,
+        "excerpt": "G.前道刷洗设备\n  设备采用单片腔体对晶圆正背面依工序清洗，可进行包括晶圆背面刷洗、晶圆边缘刷洗、正\n背面二流体清洗等清洗工序；设备占地面积小，产能高，稳定性强，多种清洗方式灵活可选。该\n设备可用于集成电路制造流程中前段至后段各道刷洗工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F008",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "G.前道刷洗设备\n    设备采用单片腔体对晶圆正背面依工序清洗，可进行包括晶圆背面刷洗、晶圆边缘刷洗、正\n背面二流体清洗等清洗工序；设备占地面积小，产能高，稳定性强，多种清洗方式灵活可选。该\n设备可用于集成电路制造流程中前段至后段各道刷洗工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F081",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "G.前道刷洗设备\n  设备采用单片腔体对晶圆正背面依工序清洗，可进行包括晶圆背面刷洗、晶圆边缘刷洗、正\n背面二流体清洗等清洗工序；设备占地面积小，产能高，稳定性强，多种清洗方式灵活可选。该\n设备可用于集成电路制造流程中前段至后段各道刷洗工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_09",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "全自动槽式清洗设备",
+    "aliases": [
+      "全自动槽式清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F009",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "H.全自动槽式清洗设备\n    公司开发的全自动槽式清洗设备广泛应用于集成电路领域和先进封装领域的清洗、刻蚀、光\n刻胶去除等工艺，采用纯水、碱性药液、酸性药液作为清洗剂，与喷淋、热浸、溢流和鼓泡等清\n洗方式组合，再配以常压 IPA 干燥技术及低压 IPA 干燥技术，能够同时清洗 50 片晶圆。该设备\n自动化程度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "process_node": "40nm 及以上",
+      "process_node_context": "清洗工艺步骤"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F047",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 13,
+        "excerpt": "H.全自动槽式清洗设备\n  公司开发的全自动槽式清洗设备广泛应用于集成电路领域和先进封装领域的清洗、刻蚀、光\n刻胶去除等工艺，采用纯水、碱性药液、酸性药液作为清洗剂，与喷淋、热浸、溢流和鼓泡等清\n                         13 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-N063_NODE_CONTEXT",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "告\n\n\n洗方式组合，再配以常压 IPA 干燥技术及低压 IPA 干燥技术，能够同时清洗 50 片晶圆。该设备\n自动化程度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。\n  ②半导体电镀设备\n  A.前道铜互连电镀铜设备\n  公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "claimed_process_suitability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "process_node": "40nm 及以上",
+        "process_node_context": "清洗工艺步骤",
+        "notes": "H1 2025 p14 continuation explicitly gives the full-auto bath-cleaning 40nm-and-above suitability. This is a company technical claim, not customer validation or an additional product."
+      },
+      {
+        "claim_id": "ACMS-F009",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "H.全自动槽式清洗设备\n    公司开发的全自动槽式清洗设备广泛应用于集成电路领域和先进封装领域的清洗、刻蚀、光\n刻胶去除等工艺，采用纯水、碱性药液、酸性药液作为清洗剂，与喷淋、热浸、溢流和鼓泡等清\n洗方式组合，再配以常压 IPA 干燥技术及低压 IPA 干燥技术，能够同时清洗 50 片晶圆。该设备\n自动化程度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group.",
+        "process_node": "40nm 及以上",
+        "process_node_context": "清洗工艺步骤"
+      },
+      {
+        "claim_id": "ACMS-F082",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "H.全自动槽式清洗设备\n  公司开发的全自动槽式清洗设备广泛应用于集成电路领域和先进封装领域的清洗、刻蚀、光\n刻胶去除等工艺，采用纯水、碱性药液、酸性药液作为清洗剂，与喷淋、热浸、溢流和鼓泡等清\n洗方式组合，再配以常压 IPA 干燥技术及低压 IPA 干燥技术，能够同时清洗 50 片晶圆。该设备\n自动化程度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group.",
+        "process_node": "40nm 及以上",
+        "process_node_context": "清洗工艺步骤"
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_10",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_group",
+    "name": "半导体电镀设备",
+    "aliases": [
+      "半导体电镀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F010",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "②半导体电镀设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F048",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "②半导体电镀设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F010",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "②半导体电镀设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F083",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "②半导体电镀设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_11",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "前道铜互连电镀铜设备",
+    "aliases": [
+      "前道铜互连电镀铜设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F011",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "A.前道铜互连电镀铜设备\n    公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n薄籽晶层上完成无空穴填充，同时通过对不同阳极的电流调整，在无空穴填充后实现更好的片内\n薄膜沉积均匀性，可满足各种工艺的镀铜需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F049",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "A.前道铜互连电镀铜设备\n  公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n薄籽晶层上完成无空穴填充，同时通过对不同阳极的电流调整，在无空穴填充后实现更好的片内\n薄膜沉积均匀性，可满足各种工艺的镀铜需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F011",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "A.前道铜互连电镀铜设备\n    公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n薄籽晶层上完成无空穴填充，同时通过对不同阳极的电流调整，在无空穴填充后实现更好的片内\n薄膜沉积均匀性，可满足各种工艺的镀铜需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F084",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "A.前道铜互连电镀铜设备\n  公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n                         14 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_13",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "新型化合物半导体电镀设备",
+    "aliases": [
+      "新型化合物半导体电镀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F013",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "C.新型化合物半导体电镀设备\n    Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶覆\n盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F051",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "C.新型化合物半导体电镀设备\n  Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶\n覆盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F013",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "C.新型化合物半导体电镀设备\n    Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶覆\n盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F086",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "C.新型化合物半导体电镀设备\n  Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶覆\n盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_14",
+    "entity_id": "acm_shanghai",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "立式炉管系列设备",
+    "aliases": [
+      "立式炉管系列设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F014",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "③立式炉管系列设备\n    公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国集成电路晶圆制造厂，通过初步验证，为后续奠定基础。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "furnace_family_validated_mass_production_peald_only_preliminary_validation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F052",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "③立式炉管系列设备\n  公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂，正在做更新优化和为量产准备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "furnace_family_validated_mass_production_peald_optimization_preproduction",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry explicitly reports furnace-family validation and mass production, with PEALD at a narrower optimization/preproduction stage. No system count, acceptance count or transfer to ALD variants; company first-party claim pending review."
+      },
+      {
+        "claim_id": "ACMS-F014",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "③立式炉管系列设备\n    公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国集成电路晶圆制造厂，通过初步验证，为后续奠定基础。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "furnace_family_validated_mass_production_peald_only_preliminary_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry explicitly reports furnace-family validation and mass production, with PEALD at a narrower preliminary-validation stage. No system count, acceptance count or transfer to ALD variants; company first-party claim pending review."
+      },
+      {
+        "claim_id": "ACMS-Q003",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国集成电路晶圆制造厂，通过初步验证，为后续奠定基础。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "furnace_family_production_use_ald_only_preliminary_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "PEALD furnace only preliminary validation; do not apply mature stage to that subclass. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-F087",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "③立式炉管系列设备\n  公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国集成电路晶圆制造厂，通过初步验证，为后续奠定基础。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "furnace_family_validated_mass_production_peald_only_preliminary_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry explicitly reports furnace-family validation and mass production, with PEALD at a narrower preliminary-validation stage. No system count, acceptance count or transfer to ALD variants; company first-party claim pending review."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_15",
+    "entity_id": "acm_shanghai",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "前道涂胶显影 Track 设备",
+    "aliases": [
+      "前道涂胶显影 Track 设备",
+      "Ultra Lith Track"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F015",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "④前道涂胶显影 Track 设备\n    公司的前道涂胶显影 Ultra Lith TM Track 设备是一款应用于 300 mm 前道集成电路制造工艺的\n设备，可提供均匀的下降气流、高速稳定的机械手以及强大的软件系统，从而满足客户的特定需\n求。该设备功能多样，能够降低产品缺陷率，提高产能，节约总体拥有成本（COO）。涂胶显影\nTrack 设备支持主流光刻机接口，支持包括 i-line、KrF 和 ArF 系统在内的各种光刻工艺，可确保\n满足工艺要求的同时，让晶圆在光刻设备中曝光前后的涂胶和显影步骤得到优化。公司首台高产\n能 KrF 工艺前道涂胶显影设备已于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F053",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "④前道涂胶显影 Track 设备\n  公司的前道涂胶显影 Ultra LithTM Track 设备是一款应用于 300 毫米前道集成电路制造工艺的\n设备，可提供均匀的下降气流、高速稳定的机械手以及强大的软件系统，从而满足客户的特定需\n求。该设备功能多样，能够降低产品缺陷率，提高产能，节约总体拥有成本（COO）。涂胶显\n影 Track 设备支持主流光刻机接口，支持包括 i-line、KrF 和 ArF 系统在内的各种光刻工艺，可\n确保满足工艺要求的同时，让晶圆在光刻设备中曝光前后的涂胶和显影步骤得到优化。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q026",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 24,
+        "excerpt": "涂胶显影 Track 设备已经进入客户端验证阶段，并且获得了部分工艺结果，涂胶\n工艺膜厚满足客户要求，显影关键尺寸 CD 接近工艺指标。最新研发的 KrF 工艺 300WPH Track\n设备整机内部测试完成。\n     ⑨PE",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "No accepted production-use count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-F015",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "④前道涂胶显影 Track 设备\n    公司的前道涂胶显影 Ultra Lith TM Track 设备是一款应用于 300 mm 前道集成电路制造工艺的\n设备，可提供均匀的下降气流、高速稳定的机械手以及强大的软件系统，从而满足客户的特定需\n求。该设备功能多样，能够降低产品缺陷率，提高产能，节约总体拥有成本（COO）。涂胶显影\nTrack 设备支持主流光刻机接口，支持包括 i-line、KrF 和 ArF 系统在内的各种光刻工艺，可确保\n满足工艺要求的同时，让晶圆在光刻设备中曝光前后的涂胶和显影步骤得到优化。公司首台高产\n能 KrF 工艺前道涂胶显影设备已于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q012",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "涂胶显影 Track 设备已经进入客户端验证阶段，并且获得了部分工艺结果，涂胶\n工艺膜厚满足客户要求，显影关键尺寸 CD 接近工艺指标。最新研发的 KrF 工艺 300WPH Track\n设备已经于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "First KrF customer delivery separately dated September 2025. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-F088",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "④前道涂胶显影 Track 设备\n  公司的前道涂胶显影 Ultra Lith TM Track 设备是一款应用于 300 mm 前道集成电路制造工艺的\n设备，可提供均匀的下降气流、高速稳定的机械手以及强大的软件系统，从而满足客户的特定需\n求。该设备功能多样，能够降低产品缺陷率，提高产能，节约总体拥有成本（COO）。涂胶显影\nTrack 设备支持主流光刻机接口，支持包括 i-line、KrF 和 ArF 系统在内的各种光刻工艺，可确保\n满足工艺要求的同时，让晶圆在光刻设备中曝光前后的涂胶和显影步骤得到优化。公司首台高产\n能 KrF 工艺前道涂胶显影设备已于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_16",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_pecvd",
+    "record_kind": "source_native_family",
+    "name": "等离子体增强化学气相沉积 PECVD 设备",
+    "aliases": [
+      "等离子体增强化学气相沉积 PECVD 设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F016",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "⑤等离子体增强化学气相沉积 PECVD 设备\n\n\n                            15/248",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F054",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "⑤等离子体增强化学气相沉积 PECVD 设备\n  公司的等离子体增强化学气相沉积 Ultra PmaxTM PECVD 设备配置自主知识产权的腔体、气\n体分配装置和卡盘设计，能够提供更好的薄膜均匀性、更优化的薄膜应力和更少的颗粒特性。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F016",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "⑤等离子体增强化学气相沉积 PECVD 设备\n\n\n                            15/248",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F089",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "⑤等离子体增强化学气相沉积 PECVD 设备\n  公司的等离子体增强化学气相沉积 Ultra Pmax TM PECVD 设备配置自主知识产权的腔体、气\n体分配装置和卡盘设计，能够提供更好的薄膜均匀性、更优化的薄膜应力和更少的颗粒特性。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_17",
+    "entity_id": "acm_shanghai",
+    "category_id": "electrochemical_stress_free_polishing",
+    "record_kind": "source_native_family",
+    "name": "前道无应力铜互连平坦化设备",
+    "aliases": [
+      "前道无应力铜互连平坦化设备",
+      "Ultra-SFP",
+      "无应力铜互连平坦化设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F017",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "⑥前道无应力铜互连平坦化设备\n    公司的无应力抛光设备将无应力抛光技术 SFP(Stress-Free-Polish)与低下压力化学机械平坦化\n技术 CMP 相结合，集成创新了低 k/超低 k 介电质铜互连平坦化 Ultra-SFP 抛光集成系统，集合二\n者优点，利用低下压力化学机械抛光先将铜互联结构中铜膜抛至 150nm 厚度，再采用无应力抛光\nSFP 的智能抛光控制技术将抛光进行到阻挡层，最后采用公司自主开发的热气相刻蚀技术，将阻\n挡层去除。无应力抛光设备应用于铜低 k/超低 k 互连结构有诸多优点：其一，依靠抛光自动停止\n原理，平坦化工艺后凹陷更均匀及精确可控；其二，工艺简单，采用环保的可以循环使用的电化\n学抛光液，没有抛光垫，研磨液等，耗材成本降低 50%以上；对互联结构中金属层和介质层无划\n伤及机械损伤。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F055",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "⑥无应力铜互连平坦化设备\n  公司的无应力抛光设备将无应力抛光技术 SFP(Stress-Free-Polish)与低下压力化学机械平坦化\n技术 CMP 相结合，集成创新了低 k/超低 k 介电质铜互连平坦化 Ultra-SFP 抛光集成系统，集合\n二者优点，利用低下压力化学机械抛光先将铜互联结构中铜膜抛至 150nm 厚度，再采用无应力\n                          14 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F017",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "⑥前道无应力铜互连平坦化设备\n    公司的无应力抛光设备将无应力抛光技术 SFP(Stress-Free-Polish)与低下压力化学机械平坦化\n技术 CMP 相结合，集成创新了低 k/超低 k 介电质铜互连平坦化 Ultra-SFP 抛光集成系统，集合二\n者优点，利用低下压力化学机械抛光先将铜互联结构中铜膜抛至 150nm 厚度，再采用无应力抛光\nSFP 的智能抛光控制技术将抛光进行到阻挡层，最后采用公司自主开发的热气相刻蚀技术，将阻\n挡层去除。无应力抛光设备应用于铜低 k/超低 k 互连结构有诸多优点：其一，依靠抛光自动停止\n原理，平坦化工艺后凹陷更均匀及精确可控；其二，工艺简单，采用环保的可以循环使用的电化\n学抛光液，没有抛光垫，研磨液等，耗材成本降低 50%以上；对互联结构中金属层和介质层无划\n伤及机械损伤。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F090",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "⑥前道无应力铜互连平坦化设备\n  公司的无应力抛光设备将无应力抛光技术 SFP(Stress-Free-Polish)与低下压力化学机械平坦化\n技术 CMP 相结合，集成创新了低 k/超低 k 介电质铜互连平坦化 Ultra-SFP 抛光集成系统，集合二\n者优点，利用低下压力化学机械抛光先将铜互联结构中铜膜抛至 150nm 厚度，再采用无应力抛光\nSFP 的智能抛光控制技术将抛光进行到阻挡层，最后采用公司自主开发的热气相刻蚀技术，将阻\n挡层去除。无应力抛光设备应用于铜低 k/超低 k 互连结构有诸多优点：其一，依靠抛光自动停止\n原理，平坦化工艺后凹陷更均匀及精确可控；其二，工艺简单，采用环保的可以循环使用的电化\n学抛光液，没有抛光垫，研磨液等，耗材成本降低 50%以上；对互联结构中金属层和介质层无划\n伤及机械损伤。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_18",
+    "entity_id": "acm_shanghai",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "新型化合物半导体刻蚀设备",
+    "aliases": [
+      "新型化合物半导体刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F018",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "⑦新型化合物半导体刻蚀设备\n    公司推出了 6/8 英寸化合物半导体湿法工艺产品线，以支持化合物半导体领域的工艺应用，\n包括碳化硅(SiC)、氮化镓(GaN)和砷化镓(GaAs)等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F056",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "⑦新型化合物半导体刻蚀设备\n  公司推出了 6/8 寸化合物半导体湿法工艺产品线，以支持化合物半导体领域的工艺应用，包\n括碳化硅(SiC)、氮化镓(GaN)和砷化镓(GaAs)等。\n  （2）后道先进封装工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F018",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "⑦新型化合物半导体刻蚀设备\n    公司推出了 6/8 英寸化合物半导体湿法工艺产品线，以支持化合物半导体领域的工艺应用，\n包括碳化硅(SiC)、氮化镓(GaN)和砷化镓(GaAs)等。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F091",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 15,
+        "excerpt": "⑦新型化合物半导体刻蚀设备\n\n\n                           15 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_19",
+    "entity_id": "acm_shanghai",
+    "category_id": "photoresist_uv_cure",
+    "record_kind": "source_native_family",
+    "name": "光刻胶固化设备",
+    "aliases": [
+      "光刻胶固化设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F019",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "⑧光刻胶固化设备\n    该设备专为解决光刻工艺中均匀性不足、温度漂移及临界尺寸变异等难题而设计，助力制造\n商在器件尺寸持续微缩的趋势下，维持稳定的良率与图形保真度。凭借行业领先的紫外固化均匀\n性与精密温控技术，该设备可实现高度稳定且可重复的光刻工艺，温度均匀性达±0.1°C。整机\n采用可配置设计，支持客户根据不同工艺配方与光刻胶集成需求灵活配置。\n    （2）后道晶圆级先进封装工艺设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F019",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "⑧光刻胶固化设备\n    该设备专为解决光刻工艺中均匀性不足、温度漂移及临界尺寸变异等难题而设计，助力制造\n商在器件尺寸持续微缩的趋势下，维持稳定的良率与图形保真度。凭借行业领先的紫外固化均匀\n性与精密温控技术，该设备可实现高度稳定且可重复的光刻工艺，温度均匀性达±0.1°C。整机\n采用可配置设计，支持客户根据不同工艺配方与光刻胶集成需求灵活配置。\n    （2）后道晶圆级先进封装工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F092",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "⑧光刻胶固化设备\n  该设备专为解决光刻工艺中均匀性不足、温度漂移及临界尺寸变异等难题而设计，助力制造\n商在器件尺寸持续微缩的趋势下，维持稳定的良率与图形保真度。凭借行业领先的紫外固化均匀\n性与精密温控技术，该设备可实现高度稳定且可重复的光刻工艺，温度均匀性达±0.1°C。整机\n采用可配置设计，支持客户根据不同工艺配方与光刻胶集成需求灵活配置。\n  （2）后道晶圆级先进封装工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_20",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "先进封装电镀设备",
+    "aliases": [
+      "先进封装电镀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F020",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "①先进封装电镀设备\n    公司在半导体先进封装领域进行差异化开发，解决了在更大电镀液流量下实现平稳电镀的难\n题。采用独创的第二阳极电场控制技术更好地控制晶圆平边或缺口区域的膜厚均匀性控制，实现\n高电流密度条件下的电镀，凸块产品的各项指标均满足客户要求。在针对高密度封装的电镀领域\n可以实现 2μm 超细 RDL 线的电镀以及包括铜、镍、锡、银和金在内的各种金属层电镀。自主开\n发的橡胶环密封专利技术可以实现更好的密封效果。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F057",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "①先进封装电镀设备\n  公司在半导体先进封装领域进行差异化开发，解决了在更大电镀液流量下实现平稳电镀的难\n题。采用独创的第二阳极电场控制技术更好地控制晶圆平边或缺口区域的膜厚均匀性控制，实现\n高电流密度条件下的电镀，凸块产品的各项指标均满足客户要求。在针对高密度封装的电镀领域\n可以实现 2μm 超细 RDL 线的电镀以及包括铜、镍、锡、银和金在内的各种金属层电镀。自主\n开发的橡胶环密封专利技术可以实现更好的密封效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F020",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "①先进封装电镀设备\n    公司在半导体先进封装领域进行差异化开发，解决了在更大电镀液流量下实现平稳电镀的难\n题。采用独创的第二阳极电场控制技术更好地控制晶圆平边或缺口区域的膜厚均匀性控制，实现\n高电流密度条件下的电镀，凸块产品的各项指标均满足客户要求。在针对高密度封装的电镀领域\n可以实现 2μm 超细 RDL 线的电镀以及包括铜、镍、锡、银和金在内的各种金属层电镀。自主开\n发的橡胶环密封专利技术可以实现更好的密封效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F093",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "①先进封装电镀设备\n  公司在半导体先进封装领域进行差异化开发，解决了在更大电镀液流量下实现平稳电镀的难\n题。采用独创的第二阳极电场控制技术更好地控制晶圆平边或缺口区域的膜厚均匀性控制，实现\n高电流密度条件下的电镀，凸块产品的各项指标均满足客户要求。在针对高密度封装的电镀领域\n可以实现 2μm 超细 RDL 线的电镀以及包括铜、镍、锡、银和金在内的各种金属层电镀。自主开\n发的橡胶环密封专利技术可以实现更好的密封效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_21",
+    "entity_id": "acm_shanghai",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "涂胶设备",
+    "aliases": [
+      "涂胶设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F021",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "②涂胶设备\n    公司的升级版 8/12 英寸兼容的涂胶设备，用于晶圆级封装领域的光刻胶和 Polyimide 涂布、\n软烤及边缘去除。涂胶腔内采用了公司特有的全方位无死角自动清洗技术，可缩短设备维护时间。\n涂胶腔内可兼容两种光刻胶类型。这款升级版涂胶设备对盛美原有的涂胶设备性能和外观都进行\n了优化升级，可实现热板抽屉式抽出，方便维修及更换，并且能精确复位，有效保障工序运行。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F058",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "②涂胶设备\n  公司的升级版 8/12 寸兼容的涂胶设备，用于晶圆级封装领域的光刻胶和 Polyimide 涂布、软\n烤及边缘去除。涂胶腔内采用了公司特有的全方位无死角自动清洗技术，可缩短设备维护时间。\n涂胶腔内可兼容两种光刻胶类型。这款升级版涂胶设备对盛美原有的涂胶设备性能和外观都进行\n了优化升级，可实现热板抽屉式抽出，方便维修及更换，并且能精确复位，有效保障工序运行。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F021",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "②涂胶设备\n    公司的升级版 8/12 英寸兼容的涂胶设备，用于晶圆级封装领域的光刻胶和 Polyimide 涂布、\n软烤及边缘去除。涂胶腔内采用了公司特有的全方位无死角自动清洗技术，可缩短设备维护时间。\n涂胶腔内可兼容两种光刻胶类型。这款升级版涂胶设备对盛美原有的涂胶设备性能和外观都进行\n了优化升级，可实现热板抽屉式抽出，方便维修及更换，并且能精确复位，有效保障工序运行。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F094",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "②涂胶设备\n  公司的升级版 8/12 英寸兼容的涂胶设备，用于晶圆级封装领域的光刻胶和 Polyimide 涂布、\n软烤及边缘去除。涂胶腔内采用了公司特有的全方位无死角自动清洗技术，可缩短设备维护时间。\n涂胶腔内可兼容两种光刻胶类型。这款升级版涂胶设备对盛美原有的涂胶设备性能和外观都进行\n了优化升级，可实现热板抽屉式抽出，方便维修及更换，并且能精确复位，有效保障工序运行。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_22",
+    "entity_id": "acm_shanghai",
+    "category_id": "track_coat_develop",
+    "record_kind": "source_native_family",
+    "name": "显影设备",
+    "aliases": [
+      "显影设备",
+      "Ultra C dv"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F022",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "③显影设备\n    公司的 Ultra C dv 显影设备可应用于晶圆级封装，是 WLP 光刻工艺中的步骤。设备可进行曝\n光后烘烤、显影和坚膜等关键步骤。设备具备灵活的喷嘴扫描系统，精准的药液流量和温度控制\n系统，更低的成本控制，技术领先，使用便捷。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F059",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "③显影设备\n  公司的 Ultra C dv 显影设备可应用于晶圆级封装，是 WLP 光刻工艺中的步骤。设备可进行\n曝光后烘烤、显影和坚膜等关键步骤。设备具备灵活的喷嘴扫描系统，精准的药液流量和温度控\n制系统，更低的成本控制，技术领先，使用便捷。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F022",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "③显影设备\n    公司的 Ultra C dv 显影设备可应用于晶圆级封装，是 WLP 光刻工艺中的步骤。设备可进行曝\n光后烘烤、显影和坚膜等关键步骤。设备具备灵活的喷嘴扫描系统，精准的药液流量和温度控制\n系统，更低的成本控制，技术领先，使用便捷。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F095",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "③显影设备\n  公司的 Ultra C dv 显影设备可应用于晶圆级封装，是 WLP 光刻工艺中的步骤。设备可进行曝\n光后烘烤、显影和坚膜等关键步骤。设备具备灵活的喷嘴扫描系统，精准的药液流量和温度控制\n系统，更低的成本控制，技术领先，使用便捷。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_23",
+    "entity_id": "acm_shanghai",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "湿法刻蚀设备",
+    "aliases": [
+      "湿法刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F023",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "④湿法刻蚀设备\n    公司的湿法刻蚀设备使用化学药液进行晶圆球下金属层（UBM）的刻蚀工艺。该设备具备领\n先的喷嘴扫描系统，可提供行业领先的化学温度控制、刻蚀均匀性。该设备专注安全性，并且拥\n有药液回收使用功能从而减少成本，刻蚀腔内可兼容至多三种刻蚀药液单独使用及回收，提高使\n用效率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F060",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "④湿法刻蚀设备\n  公司的湿法刻蚀设备使用化学药液进行晶圆球下金属层（UBM）的刻蚀工艺。该设备具备\n领先的喷嘴扫描系统，可提供行业领先的化学温度控制、刻蚀均匀性。该设备专注安全性，并且\n拥有药液回收使用功能从而减少成本，刻蚀腔内可兼容至多三种刻蚀药液单独使用及回收，提高\n使用效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F023",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "④湿法刻蚀设备\n    公司的湿法刻蚀设备使用化学药液进行晶圆球下金属层（UBM）的刻蚀工艺。该设备具备领\n先的喷嘴扫描系统，可提供行业领先的化学温度控制、刻蚀均匀性。该设备专注安全性，并且拥\n有药液回收使用功能从而减少成本，刻蚀腔内可兼容至多三种刻蚀药液单独使用及回收，提高使\n用效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F096",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "④湿法刻蚀设备\n  公司的湿法刻蚀设备使用化学药液进行晶圆球下金属层（UBM）的刻蚀工艺。该设备具备领\n先的喷嘴扫描系统，可提供行业领先的化学温度控制、刻蚀均匀性。该设备专注安全性，并且拥\n有药液回收使用功能从而减少成本，刻蚀腔内可兼容至多三种刻蚀药液单独使用及回收，提高使\n用效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_24",
+    "entity_id": "acm_shanghai",
+    "category_id": "strip",
+    "record_kind": "source_native_family",
+    "name": "湿法去胶设备",
+    "aliases": [
+      "湿法去胶设备",
+      "Ultra C pr"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F024",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "⑤湿法去胶设备\n    公司的 Ultra C pr 湿法去胶设备设计高效、控制精确，提升了安全性，提高了 WLP 产能。该\n设备将湿法槽式浸洗与单片晶圆清洗相结合，单片腔可实现高压去胶及常压去胶，也可单独使用。\n去胶平台能够在灵活控制清洗的同时，最大限度地提高效率，也可与公司专有的 SAPS 兆声波清\n洗设备一同使用，以清除极厚或者极难去除的光刻胶涂层。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F061",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 15,
+        "excerpt": "⑤湿法去胶设备\n  公司的 Ultra C pr 湿法去胶设备设计高效、控制精确，提升了安全性，提高了 WLP 产能。\n该设备将湿法槽式浸洗与单片晶圆清洗相结合，单片腔可实现高压去胶及常压去胶，也可单独使\n用。去胶平台能够在灵活控制清洗的同时，最大限度地提高效率，也可与公司专有的 SAPS 兆声\n波清洗设备一同使用，以清除极厚或者极难去除的光刻胶涂层。\n                           15 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F024",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "⑤湿法去胶设备\n    公司的 Ultra C pr 湿法去胶设备设计高效、控制精确，提升了安全性，提高了 WLP 产能。该\n设备将湿法槽式浸洗与单片晶圆清洗相结合，单片腔可实现高压去胶及常压去胶，也可单独使用。\n去胶平台能够在灵活控制清洗的同时，最大限度地提高效率，也可与公司专有的 SAPS 兆声波清\n洗设备一同使用，以清除极厚或者极难去除的光刻胶涂层。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F097",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "⑤湿法去胶设备\n  公司的 Ultra C pr 湿法去胶设备设计高效、控制精确，提升了安全性，提高了 WLP 产能。该\n设备将湿法槽式浸洗与单片晶圆清洗相结合，单片腔可实现高压去胶及常压去胶，也可单独使用。\n去胶平台能够在灵活控制清洗的同时，最大限度地提高效率，也可与公司专有的 SAPS 兆声波清\n洗设备一同使用，以清除极厚或者极难去除的光刻胶涂层。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_25",
+    "entity_id": "acm_shanghai",
+    "category_id": "strip",
+    "record_kind": "source_native_family",
+    "name": "金属剥离设备",
+    "aliases": [
+      "金属剥离设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F025",
+      "source_id": "acm_shanghai_2025",
+      "page": 16,
+      "excerpt": "⑥金属剥离设备\n    公司的湿法金属剥离（Metal Lift off）设备基于公司已有的湿法去胶设备平台，将槽式去胶浸\n泡模块与单片清洗腔体串联起来依序使用，在去胶的同时进行金属剥离。该设备可以在不同单片\n清洗腔中分别配置去胶功能和清洗功能，并通过优化腔体结构，实现易拆卸、清洗与维护，以解\n决金属剥离工艺中残留物累积的问题。\n\n                           16/248",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F062",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑥金属剥离设备\n  公司的湿法金属剥离（Metal Lift off）设备基于公司已有的湿法去胶设备平台，将槽式去胶\n浸泡模块与单片清洗腔体串联起来依序使用，在去胶的同时进行金属剥离。该设备可以在不同单\n片清洗腔中分别配置去胶功能和清洗功能，并通过优化腔体结构，实现易拆卸、清洗与维护，以\n解决金属剥离工艺中残留物累积的问题。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F025",
+        "source_id": "acm_shanghai_2025",
+        "page": 16,
+        "excerpt": "⑥金属剥离设备\n    公司的湿法金属剥离（Metal Lift off）设备基于公司已有的湿法去胶设备平台，将槽式去胶浸\n泡模块与单片清洗腔体串联起来依序使用，在去胶的同时进行金属剥离。该设备可以在不同单片\n清洗腔中分别配置去胶功能和清洗功能，并通过优化腔体结构，实现易拆卸、清洗与维护，以解\n决金属剥离工艺中残留物累积的问题。\n\n                           16/248",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F098",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 16,
+        "excerpt": "⑥金属剥离设备\n                          16 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_26",
+    "entity_id": "acm_shanghai",
+    "category_id": "electrochemical_stress_free_polishing",
+    "record_kind": "source_native_family",
+    "name": "后道无应力抛光先进封装平坦化设备",
+    "aliases": [
+      "后道无应力抛光先进封装平坦化设备",
+      "无应力抛光先进封装平坦化设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F026",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑦后道无应力抛光先进封装平坦化设备\n    公司拓展开发适用于先进封装 3D 硅通孔及 2.5D 转接板中金属铜层平坦化工艺应用，为了解\n决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平\n坦化 CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是\n否经过退火的影响，去除率稳定；通过与 CMP 工艺整合，先采用无应力抛光将晶圆铜膜减薄至\n小于 0.5μm - 0.2μm 厚度，再退火处理，最后 CMP 工艺的解决方案，能够有效解决 CMP 工艺\n存在的技术和成本瓶颈。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-07",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "②后道先进封装无应力抛铜设备\n公司针对先进封装中 3D TSV、2.5D 硅中介层、RDL、HD Fan-out 等金属层平坦化应用，自\n主研发了具有全球知识产权保护的无应力抛光设备，该设备具有工艺无应力、抛光电化学液可重\n复使用从而降低耗材成本和工艺环保排放少等特点。",
+        "notes": "Earliest located vintage of the packaging SFP platform, under its FY2021 product-section name 后道先进封装无应力抛铜设备 within a '半导体抛铜设备' heading that the company dropped in later filings in favour of the numbered '⑦无应力抛光先进封装平坦化设备' listing used from FY2022 onward. Same described application (3D TSV / 2.5D interposer / RDL / HD Fan-Out metal-layer planarisation); propose as an alias, not a separate platform. Capability-only, no production-stage sentence -- consistent with every later vintage. Excerpt note: the excerpt is the contiguous run beginning at this product’s own heading ②后道先进封装无应力抛铜设备. The page nests it under （3）半导体抛铜设备 alongside a sibling, ①前道铜互连抛铜设备, whose own paragraph covers front-end ruthenium removal at 5nm and 3nm and is not about this packaging product; starting at the ② heading keeps the excerpt both faithful and contiguous rather than silently skipping that sibling.",
+        "page": 17,
+        "reported_maturity": "source_product_listed_capability_under_prior_fy2021_name",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2021",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-08",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n公司拓展开发适用于先进封装3D硅通孔及2.5D转接板中金属铜层平坦化工艺应用，为了解决工艺成本高，晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平坦化CMP，没有研磨液，抛光头，和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是否经过退火的影响，去除率稳定；通过与CMP工艺整合，先采用无应力抛光将晶圆铜膜减薄至小于0.5μm-0.2μm厚度，再退火处理，最后CMP工艺的解决方案，能够有效解决CMP工艺存在的技术和成本瓶颈。",
+        "notes": "Capability-only; current product name first appears here.",
+        "page": 18,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2022",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-09",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n公司拓展开发适用于先进封装3D硅通孔及2.5D转接板中金属铜层平坦化工艺应用，为了解决工艺成本高，晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平坦化CMP，没有研磨液，抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是否经过退火的影响，去除率稳定；通过与CMP工艺整合，先采用无应力抛光将晶圆铜膜减薄至小于0.5μm-0.2μm厚度，再退火处理，最后CMP工艺的解决方案，能够有效解决CMP工艺存在的技术和成本瓶颈。",
+        "notes": "Capability-only.",
+        "page": 16,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_h1_2023",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-10",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n公司拓展开发适用于先进封装3D硅通孔及2.5D转接板中金属铜层平坦化工艺应用，为了解决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平坦化CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是否经过退火的影响，去除率稳定；通过与CMP工艺整合，先采用无应力抛光将晶圆铜膜减薄至小于0.5μm-0.2μm厚度，再退火处理，最后CMP工艺的解决方案，能够有效解决CMP工艺存在的技术和成本瓶颈。",
+        "notes": "Capability-only.",
+        "page": 19,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2023",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-11",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n公司拓展开发适用于先进封装3D硅通孔及2.5D转接板中金属铜层平坦化工艺应用，为了解决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平坦化CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是否经过退火的影响，去除率稳定；通过与CMP工艺整合，先采用无应力抛光将晶圆铜膜减薄至小于0.5μm-0.2μm厚度，再退火处理，最后CMP工艺的解决方案，能够有效解决CMP工艺存在的技术和成本瓶颈。",
+        "notes": "Capability-only.",
+        "page": 16,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_h1_2024",
+        "status": "pending"
+      },
+      {
+        "as_of": "",
+        "claim_id": "ACMS-F-HIST-12",
+        "claim_kind": "company_reported",
+        "date_basis": "source_report_context",
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n公司拓展开发适用于先进封装3D硅通孔及2.5D转接板中金属铜层平坦化工艺应用，为了解决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平坦化CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是否经过退火的影响，去除率稳定；通过与CMP工艺整合，先采用无应力抛光将晶圆铜膜减薄至小于0.5μm-0.2μm厚度，再退火处理，最后CMP工艺的解决方案，能够有效解决CMP工艺存在的技术和成本瓶颈。",
+        "notes": "Capability-only. Across all 9 vintages now located (FY2021 through H1-2026), this platform never reports a production-stage, shipment or order milestone -- a consistent negative finding, not a gap.",
+        "page": 20,
+        "reported_maturity": "source_product_listed_capability",
+        "review_date": "",
+        "reviewer": "",
+        "source_id": "acm_shanghai_2024",
+        "status": "pending"
+      },
+      {
+        "claim_id": "ACMS-F063",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑦无应力抛光先进封装平坦化设备\n  公司拓展开发适用于先进封装 3D 硅通孔及 2.5D 转接板中金属铜层平坦化工艺应用，为了\n解决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械\n平坦化 CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜\n层是否经过退火的影响，去除率稳定；通过与 CMP 工艺整合，先采用无应力抛光将晶圆铜膜减\n薄至小于 0.5μm - 0.2μm 厚度，再退火处理，最后 CMP 工艺的解决方案，能够有效解决 CMP\n工艺存在的技术和成本瓶颈。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F026",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑦后道无应力抛光先进封装平坦化设备\n    公司拓展开发适用于先进封装 3D 硅通孔及 2.5D 转接板中金属铜层平坦化工艺应用，为了解\n决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平\n坦化 CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是\n否经过退火的影响，去除率稳定；通过与 CMP 工艺整合，先采用无应力抛光将晶圆铜膜减薄至\n小于 0.5μm - 0.2μm 厚度，再退火处理，最后 CMP 工艺的解决方案，能够有效解决 CMP 工艺\n存在的技术和成本瓶颈。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F099",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑦后道无应力抛光先进封装平坦化设备\n  公司拓展开发适用于先进封装 3D 硅通孔及 2.5D 转接板中金属铜层平坦化工艺应用，为了解\n决工艺成本高和晶圆翘曲大的难点，利用无应力抛光的电化学抛光原理，相对比传统化学机械平\n坦化 CMP，没有研磨液、抛光头和抛光垫，仅使用可循环使用的电化学抛光液；并且不受铜层是\n否经过退火的影响，去除率稳定；通过与 CMP 工艺整合，先采用无应力抛光将晶圆铜膜减薄至小\n于 0.5μm - 0.2μm 厚度，再退火处理，最后 CMP 工艺的解决方案，能够有效解决 CMP 工艺存在\n的技术和成本瓶颈。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_27",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "带铁环晶圆的湿法清洗设备",
+    "aliases": [
+      "带铁环晶圆的湿法清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F027",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑧带铁环晶圆的湿法清洗设备\n    公司已经研发出可以应用于带铁环晶圆（tape-frame wafer）的湿法清洗设备，采用公司自主\n研发的 chuck 设计和腔体结构，可以支持不同尺寸铁环，可以用于清洗解键合工艺后的胶残留，\n清洗效果完全满足生产需求，提升工艺制程的良率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F064",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑧带铁环晶圆的湿法清洗设备\n  公司已经研发出可以应用于带铁环晶圆（tape-frame wafer）的湿法清洗设备，采用公司自主\n研发的 chuck 设计和腔体结构，可以支持不同尺寸铁环，可以用于清洗解键合工艺后的胶残留，\n清洗效果完全满足生产需求，提升工艺制程的良率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F027",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑧带铁环晶圆的湿法清洗设备\n    公司已经研发出可以应用于带铁环晶圆（tape-frame wafer）的湿法清洗设备，采用公司自主\n研发的 chuck 设计和腔体结构，可以支持不同尺寸铁环，可以用于清洗解键合工艺后的胶残留，\n清洗效果完全满足生产需求，提升工艺制程的良率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F100",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑧带铁环晶圆的湿法清洗设备\n  公司已经研发出可以应用于带铁环晶圆（tape-frame wafer）的湿法清洗设备，采用公司自主\n研发的 chuck 设计和腔体结构，可以支持不同尺寸铁环，可以用于清洗解键合工艺后的胶残留，\n清洗效果完全满足生产需求，提升工艺制程的良率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_28",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "聚合物清洗设备",
+    "aliases": [
+      "聚合物清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F028",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑨聚合物清洗设备\n    聚合物清洗设备使用相关有机溶剂清洗干法刻蚀后的聚合物残留，主要应用于 2.5D/3D 等先\n进封装工艺。聚合物清洗设备腔体可兼容两种有机溶剂，同时配备二流体清洗功能。聚合物清洗\n工艺过程中药液需要 Dosing 功能以保证清洗能力，该设备具有领先的 Dosing 功能，可根据工艺\n时间、药液使用时间和有机溶液浓度控制等灵活进行 Dosing 设定，保证清洗能力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F065",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑨聚合物清洗设备\n  聚合物清洗设备使用相关有机溶剂清洗干法刻蚀后的聚合物残留，主要应用于 2.5D/3D 等先\n进封装工艺。聚合物清洗设备腔体可兼容两种有机溶剂，同时配备二流体清洗功能。聚合物清洗\n工艺过程中药液需要 Dosing 功能以保证清洗能力，该设备具有领先的 Dosing 功能，可根据工艺\n时间、药液使用时间和有机溶液浓度控制等灵活进行 Dosing 设定，保证清洗能力。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F028",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑨聚合物清洗设备\n    聚合物清洗设备使用相关有机溶剂清洗干法刻蚀后的聚合物残留，主要应用于 2.5D/3D 等先\n进封装工艺。聚合物清洗设备腔体可兼容两种有机溶剂，同时配备二流体清洗功能。聚合物清洗\n工艺过程中药液需要 Dosing 功能以保证清洗能力，该设备具有领先的 Dosing 功能，可根据工艺\n时间、药液使用时间和有机溶液浓度控制等灵活进行 Dosing 设定，保证清洗能力。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F101",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑨聚合物清洗设备\n  聚合物清洗设备使用相关有机溶剂清洗干法刻蚀后的聚合物残留，主要应用于 2.5D/3D 等先\n进封装工艺。聚合物清洗设备腔体可兼容两种有机溶剂，同时配备二流体清洗功能。聚合物清洗\n工艺过程中药液需要 Dosing 功能以保证清洗能力，该设备具有领先的 Dosing 功能，可根据工艺\n时间、药液使用时间和有机溶液浓度控制等灵活进行 Dosing 设定，保证清洗能力。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_29",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "TSV 清洗设备",
+    "aliases": [
+      "TSV 清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F029",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑩TSV 清洗设备\n    TSV 清洗设备主要应用于 2.5D/3D 等先进封装工艺中，TSV 工艺中孔内会有聚合物残留，可\n选择使用高温硫酸与双氧水混合液进行清洗。TSV 清洗设备具有高效的温度控制能力，可控制\nWafer 表面清洗时温度在 170℃高温。清洗后还可搭配公司专有的 SAPS 兆声波清洗设备一同使用，\n保证 TSV 孔内的清洗效果。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F066",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑩TSV 清洗设备\n  TSV 清洗设备主要应用于 2.5D/3D 等先进封装工艺中，TSV 工艺中孔内会有聚合物残留，\n可选择使用高温硫酸与双氧水混合液进行清洗。TSV 清洗设备具有高效的温度控制能力，可控\n制 Wafer 表面清洗时温度在 170℃高温。清洗后还可搭配公司专有的 SAPS 兆声波清洗设备一同\n使用，保证 TSV 孔内的清洗效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F029",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑩TSV 清洗设备\n    TSV 清洗设备主要应用于 2.5D/3D 等先进封装工艺中，TSV 工艺中孔内会有聚合物残留，可\n选择使用高温硫酸与双氧水混合液进行清洗。TSV 清洗设备具有高效的温度控制能力，可控制\nWafer 表面清洗时温度在 170℃高温。清洗后还可搭配公司专有的 SAPS 兆声波清洗设备一同使用，\n保证 TSV 孔内的清洗效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F102",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑩TSV 清洗设备\n  TSV 清洗设备主要应用于 2.5D/3D 等先进封装工艺中，TSV 工艺中孔内会有聚合物残留，可\n选择使用高温硫酸与双氧水混合液进行清洗。TSV 清洗设备具有高效的温度控制能力，可控制\nWafer 表面清洗时温度在 170℃高温。清洗后还可搭配公司专有的 SAPS 兆声波清洗设备一同使\n用，保证 TSV 孔内的清洗效果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_30",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "背面清洗/刻蚀设备",
+    "aliases": [
+      "背面清洗/刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F030",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑪背面清洗/刻蚀设备\n  背面清洗/刻蚀设备可用于介质层清洗和刻蚀、以及常规硅刻蚀工艺。背洗和背刻设备可通过\n手臂翻转或者单独的翻转单元进行翻转，腔体使用伯努利原理通过氮气支撑 Wafer 进行工艺，在\n完美保护 Wafer 正面不受影响的情况下进行背面清洗和刻蚀工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F067",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑪背面清洗/刻蚀设备\n  背面清洗/刻蚀设备可用于介质层清洗和刻蚀、以及常规硅刻蚀工艺。背洗和背刻设备可通\n过手臂翻转或者单独的翻转单元进行翻转，腔体使用伯努利原理通过氮气支撑 Wafer 进行工艺，\n在完美保护 Wafer 正面不受影响的情况下进行背面清洗和刻蚀工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F030",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑪背面清洗/刻蚀设备\n  背面清洗/刻蚀设备可用于介质层清洗和刻蚀、以及常规硅刻蚀工艺。背洗和背刻设备可通过\n手臂翻转或者单独的翻转单元进行翻转，腔体使用伯努利原理通过氮气支撑 Wafer 进行工艺，在\n完美保护 Wafer 正面不受影响的情况下进行背面清洗和刻蚀工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F103",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑪背面清洗/刻蚀设备\n\n  背面清洗/刻蚀设备可用于介质层清洗和刻蚀、以及常规硅刻蚀工艺。背洗和背刻设备可通过\n手臂翻转或者单独的翻转单元进行翻转，腔体使用伯努利原理通过氮气支撑 Wafer 进行工艺，在\n完美保护 Wafer 正面不受影响的情况下进行背面清洗和刻蚀工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_31",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "键合胶清洗设备",
+    "aliases": [
+      "键合胶清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F031",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑫键合胶清洗设备\n  键合胶清洗设备主要用于 2.5D/3D 工艺中键合胶的去除，涉及到 Wafer 边缘键合胶去除及正\n面键合胶去除。设备配备单独的二流体 EBR 喷嘴，可用于去除 Wafer 边缘键合胶；正面只用 3\n根二流体喷嘴，可搭配组合使用或单独使用，具有高效的去除效率；同时药液可进行回收以减少\n成本。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F068",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 16,
+        "excerpt": "⑫键合胶清洗设备\n  键合胶清洗设备主要用于 2.5D/3D 工艺中键合胶的去除，涉及到 Wafer 边缘键合胶去除及正\n面键合胶去除。设备配备单独的二流体 EBR 喷嘴，可用于去除 Wafer 边缘键合胶；正面只用 3\n\n\n                          16 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F031",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑫键合胶清洗设备\n  键合胶清洗设备主要用于 2.5D/3D 工艺中键合胶的去除，涉及到 Wafer 边缘键合胶去除及正\n面键合胶去除。设备配备单独的二流体 EBR 喷嘴，可用于去除 Wafer 边缘键合胶；正面只用 3\n根二流体喷嘴，可搭配组合使用或单独使用，具有高效的去除效率；同时药液可进行回收以减少\n成本。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F104",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 17,
+        "excerpt": "⑫键合胶清洗设备\n\n  键合胶清洗设备主要用于 2.5D/3D 工艺中键合胶的去除，涉及到 Wafer 边缘键合胶去除及正\n面键合胶去除。设备配备单独的二流体 EBR 喷嘴，可用于去除 Wafer 边缘键合胶；正面只用 3 根\n\n\n                          17 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_32",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "带框晶圆清洗设备",
+    "aliases": [
+      "带框晶圆清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F032",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑬带框晶圆清洗设备\n    公司的带框晶圆清洗设备可在同一腔体中同时完成清洗和干燥工艺，实现高效清洗和干燥。\n公司自研的处理技术使该设备能够处理厚度小于 150 微米的薄晶圆。这款设备可在脱粘后的清洗\n过程中有效清洗半导体晶圆，其创新溶剂回收系统具有显著的环境与成本效益，该功能可实现近\n100%的溶剂回收和过滤效果，进而减少生产过程中化学品用量。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F069",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 17,
+        "excerpt": "⑬带框晶圆清洗设备\n  公司的带框晶圆清洗设备可在同一腔体中同时完成清洗和干燥工艺，实现高效清洗和干燥。\n公司自研的处理技术使该设备能够处理厚度小于 150 微米的薄晶圆。这款设备可在脱粘后的清洗\n过程中有效清洗半导体晶圆，其创新溶剂回收系统具有显著的环境与成本效益，该功能可实现近\n100%的溶剂回收和过滤效果，进而减少生产过程中化学品用量。\n  （3）硅材料衬底制造工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F032",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑬带框晶圆清洗设备\n    公司的带框晶圆清洗设备可在同一腔体中同时完成清洗和干燥工艺，实现高效清洗和干燥。\n公司自研的处理技术使该设备能够处理厚度小于 150 微米的薄晶圆。这款设备可在脱粘后的清洗\n过程中有效清洗半导体晶圆，其创新溶剂回收系统具有显著的环境与成本效益，该功能可实现近\n100%的溶剂回收和过滤效果，进而减少生产过程中化学品用量。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F105",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "⑬带框晶圆清洗设备\n\n     公司的带框晶圆清洗设备可在同一腔体中同时完成清洗和干燥工艺，实现高效清洗和干燥。\n公司自研的处理技术使该设备能够处理厚度小于 150 微米的薄晶圆。这款设备可在脱粘后的清洗\n过程中有效清洗半导体晶圆，其创新溶剂回收系统具有显著的环境与成本效益，该功能可实现近\n100%的溶剂回收和过滤效果，进而减少生产过程中化学品用量。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_33",
+    "entity_id": "acm_shanghai",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "化合物电化学去镀设备",
+    "aliases": [
+      "化合物电化学去镀设备",
+      "Ultra ECDP"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F033",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "⑭化合物电化学去镀设备\n    公司推出了用于化合物半导体金蚀刻工艺的 Ultra ECDP 电化学去镀设备，该新设备专为在\n晶圆图形区域外进行电化学晶圆级金（Au）蚀刻而设计，可实现更高的均匀性、更小的侧蚀和增\n强的金线外观。\n    （3）面板级先进封装设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F033",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "⑭化合物电化学去镀设备\n    公司推出了用于化合物半导体金蚀刻工艺的 Ultra ECDP 电化学去镀设备，该新设备专为在\n晶圆图形区域外进行电化学晶圆级金（Au）蚀刻而设计，可实现更高的均匀性、更小的侧蚀和增\n强的金线外观。\n    （3）面板级先进封装设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F106",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "⑭化合物电化学去镀设备\n\n     公司推出了用于化合物半导体金蚀刻工艺的 Ultra ECDP 电化学去镀设备，该新设备专为在晶\n圆图形区域外进行电化学晶圆级金（Au）蚀刻而设计，可实现更高的均匀性、更小的侧蚀和增强\n的金线外观。\n     （3）面板级先进封装设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_34",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "面板级先进封装负压清洗设备",
+    "aliases": [
+      "面板级先进封装负压清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F034",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "①面板级先进封装负压清洗设备\n    面板级先进封装负压清洗设备主要用于更小 pitch 以及更小的 SOH 芯片的助焊剂清洗，在\n2.5D/3D 封装应用效果优势明显。专为面板而设计，该面板材料可以是有机材料或者玻璃材料。\n该设备可处理 510×515 mm 和 600×600 mm 的面板以及高达 7 mm 的面板翘曲。该设备在 2025 年\n11 月荣获《Global SMT& Packaging》颁发的 2025 年度全球技术大奖清洁设备类奖项。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "overseas_order_delivery_under_validation_continuation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F072",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 17,
+        "excerpt": "①面板级先进封装负压清洗设备\n  面板级先进封装负压清洗设备主要用于更小 pitch 以及更小的 SOH 芯片的助焊剂清洗，在\n2.5D/3D 封装应用效果优势明显。专为面板而设计，该面板材料可以是有机材料或者玻璃材料。\n该设备可处理 510x515 毫米和 600x600 毫米的面板以及高达 10 毫米的面板翘曲。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F034",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "①面板级先进封装负压清洗设备\n    面板级先进封装负压清洗设备主要用于更小 pitch 以及更小的 SOH 芯片的助焊剂清洗，在\n2.5D/3D 封装应用效果优势明显。专为面板而设计，该面板材料可以是有机材料或者玻璃材料。\n该设备可处理 510×515 mm 和 600×600 mm 的面板以及高达 7 mm 的面板翘曲。该设备在 2025 年\n11 月荣获《Global SMT& Packaging》颁发的 2025 年度全球技术大奖清洁设备类奖项。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F107",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "①面板级先进封装负压清洗设备\n     面板级先进封装负压清洗设备主要用于更小 pitch 以及更小的 SOH 芯片的助焊剂清洗，在\n2.5D/3D 封装应用效果优势明显。专为面板而设计，该面板材料可以是有机材料或者玻璃材料。该\n设备可处理 510×515 mm 和 600×600 mm 的面板以及高达 7 mm 的面板翘曲。该设备在 2025 年 11\n月荣获《Global SMT&Packaging》颁发的 2025 年度全球技术大奖清洁设备类奖项。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-Q036",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 26,
+        "excerpt": "⑨面板级真空负压清洗技术\n  公司采用独创的真空负压清洗技术，有效攻克客户工艺难题。在中国大陆，该设备已于大客\n户端实现量产，并于 2026 年上半年完成最终验收；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "china_client_final_acceptance_h1_2026",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "China client accepted; overseas order/delivery distinct. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q037",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 26,
+        "excerpt": "⑨面板级真空负压清洗技术\n  公司采用独创的真空负压清洗技术，有效攻克客户工艺难题。在中国大陆，该设备已于大客\n户端实现量产，并于 2026 年上半年完成最终验收；在中国大陆以外国际市场（含中国台湾地区）\n亦凭借优异性能取得突破，获得 510×515mm 面板级负压清洗设备订单并顺利交付，目前设备验",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "international_customer_order_and_delivery_acceptance_unproven",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "International market including Taiwan; order and delivery reported, acceptance still in validation. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q037_P27_CONTINUATION",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "证进展良好。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "overseas_order_delivery_under_validation_continuation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Page-break continuation of ACMS-Q037 p26 (目前设备验 / 证进展良好). Same overseas 510×515mm negative-pressure-cleaner claim, not an additional order, delivery, unit or qualification."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_35",
+    "entity_id": "acm_shanghai",
+    "category_id": "etch_wet",
+    "record_kind": "source_native_family",
+    "name": "面板级先进封装边缘刻蚀设备",
+    "aliases": [
+      "面板级先进封装边缘刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F035",
+      "source_id": "acm_shanghai_2025",
+      "page": 17,
+      "excerpt": "②面板级先进封装边缘刻蚀设备\n    该设备专为面板衬底而设计，可与有机面板、玻璃面板和粘合面板兼容。该设备能有效管理\n面板的正面和背面，适用尺寸由 510mm×515mm 至 600mm×600mm 不等，厚度在 0.5mm 至 2mm\n之间。该设备可处理最大 10mm 的翘曲，确保最佳工艺条件。该设备专为铜相关工艺中的边缘刻\n                            17/248",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F073",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 17,
+        "excerpt": "②面板级先进封装边缘刻蚀设备\n  该设备专为面板衬底而设计，可与有机面板、玻璃面板和粘合面板兼容。该设备能有效管理\n面板的正面和背面，适用尺寸由 510mm x 515mm 至 600mm x 600mm 不等，厚度在 0.5mm 至\n2mm 之间。该设备可处理最大 10mm 的翘曲，确保最佳工艺条件。该设备专为铜相关工艺中的\n边缘刻蚀和清洗而设计，能够同时处理面板的正面和背面的边缘刻蚀，显著提升了工艺效率和产\n品可靠性。\n\n\n新增重要非主营业务情况\n□适用 √不适用\n\n\n\n\n                            17 / 192",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F035",
+        "source_id": "acm_shanghai_2025",
+        "page": 17,
+        "excerpt": "②面板级先进封装边缘刻蚀设备\n    该设备专为面板衬底而设计，可与有机面板、玻璃面板和粘合面板兼容。该设备能有效管理\n面板的正面和背面，适用尺寸由 510mm×515mm 至 600mm×600mm 不等，厚度在 0.5mm 至 2mm\n之间。该设备可处理最大 10mm 的翘曲，确保最佳工艺条件。该设备专为铜相关工艺中的边缘刻\n                            17/248",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F108",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "②面板级先进封装边缘刻蚀设备\n     该设备专为面板衬底而设计，可与有机面板、玻璃面板和粘合面板兼容。该设备能有效管理\n面板的正面和背面，适用尺寸由 510mm×515mm 至 600mm×600mm 不等，厚度在 0.5mm 至 2mm\n之间。该设备可处理最大 10mm 的翘曲，确保最佳工艺条件。该设备专为铜相关工艺中的边缘刻\n蚀和清洗而设计，能够同时处理面板的正面和背面的边缘刻蚀，显著提升了工艺效率和产品可靠\n性。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_36",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "水平式面板级先进封装电镀设备",
+    "aliases": [
+      "水平式面板级先进封装电镀设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F036",
+      "source_id": "acm_shanghai_2025",
+      "page": 18,
+      "excerpt": "③水平式面板级先进封装电镀设备\n   该设备采用公司全球专利申请保护的世界独家水平电镀技术，并支持铜、镍、锡银及金等多\n材质电镀工艺。该设备可处理 510×515 mm 和 600×600 mm 的面板。设备配备电镀腔内清洗功能\n以最大限度减少不同电镀腔之间的化学交叉污染，并采用水平电镀设计，通过同步旋转卡盘与旋\n转矩形电场实现卓越的膜厚均匀性。该设备在 2025 年 3 月获得国际 3D InCites 协会颁发的\n“Technology Enablement Award”奖项。\n   （4）硅材料衬底制造工艺设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F036",
+        "source_id": "acm_shanghai_2025",
+        "page": 18,
+        "excerpt": "③水平式面板级先进封装电镀设备\n   该设备采用公司全球专利申请保护的世界独家水平电镀技术，并支持铜、镍、锡银及金等多\n材质电镀工艺。该设备可处理 510×515 mm 和 600×600 mm 的面板。设备配备电镀腔内清洗功能\n以最大限度减少不同电镀腔之间的化学交叉污染，并采用水平电镀设计，通过同步旋转卡盘与旋\n转矩形电场实现卓越的膜厚均匀性。该设备在 2025 年 3 月获得国际 3D InCites 协会颁发的\n“Technology Enablement Award”奖项。\n   （4）硅材料衬底制造工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F109",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "③水平式面板级先进封装电镀设备\n     该设备采用公司全球专利申请保护的世界独家水平电镀技术，并支持铜、镍、锡银及金等多\n材质电镀工艺。该设备可处理 510×515 mm 和 600×600 mm 的面板。设备配备电镀腔内清洗功能\n以最大限度减少不同电镀腔之间的化学交叉污染，并采用水平电镀设计，通过同步旋转卡盘与旋\n转矩形电场实现卓越的膜厚均匀性。该设备在 2025 年 3 月获得国际 3D InCites 协会颁发的\n“Technology Enablement Award”奖项。\n     （4）硅材料衬底制造工艺设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_37",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "化学机械研磨后（Post-CMP）清洗设备",
+    "aliases": [
+      "化学机械研磨后（Post-CMP）清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F037",
+      "source_id": "acm_shanghai_2025",
+      "page": 18,
+      "excerpt": "①化学机械研磨后（Post-CMP）清洗设备\n   公司的 CMP 后清洗设备用于高质量硅衬底及碳化硅衬底的制造。这款设备在 CMP 步骤之后，\n使用稀释的化学药液对晶圆正背面及边缘进行刷洗及化学清洗，以控制晶圆的表面颗粒和金属污\n染，该设备也可以选配公司独有的兆声波清洗技术。并且这款设备有湿进干出（WIDO）和干进\n干出（DIDO）两种配置，可以选配 2、4 或 6 个腔体，以满足不同产能需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F070",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 17,
+        "excerpt": "①化学机械研磨后（Post-CMP）清洗设备\n  公司的 CMP 后清洗设备用于高质量硅衬底及碳化硅衬底的制造。这款设备在 CMP 步骤之\n后，使用稀释的化学药液对晶圆正背面及边缘进行刷洗及化学清洗，以控制晶圆的表面颗粒和金\n属污染，该设备也可以选配公司独有的兆声波清洗技术。并且这款设备有湿进干出（WIDO）和\n干进干出（DIDO）两种配置，可以选配 2、4 或 6 个腔体，以满足不同产能需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F037",
+        "source_id": "acm_shanghai_2025",
+        "page": 18,
+        "excerpt": "①化学机械研磨后（Post-CMP）清洗设备\n   公司的 CMP 后清洗设备用于高质量硅衬底及碳化硅衬底的制造。这款设备在 CMP 步骤之后，\n使用稀释的化学药液对晶圆正背面及边缘进行刷洗及化学清洗，以控制晶圆的表面颗粒和金属污\n染，该设备也可以选配公司独有的兆声波清洗技术。并且这款设备有湿进干出（WIDO）和干进\n干出（DIDO）两种配置，可以选配 2、4 或 6 个腔体，以满足不同产能需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F110",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 18,
+        "excerpt": "①化学机械研磨后（Post-CMP）清洗设备\n     公司的 CMP 后清洗设备用于高质量硅衬底及碳化硅衬底的制造。这款设备在 CMP 步骤之\n后，使用稀释的化学药液对晶圆正背面及边缘进行刷洗及化学清洗，以控制晶圆的表面颗粒和金\n                                   18 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_shanghai_source_family_38",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "Final Clean 清洗设备",
+    "aliases": [
+      "Final Clean 清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-F038",
+      "source_id": "acm_shanghai_2025",
+      "page": 18,
+      "excerpt": "②Final Clean 清洗设备\n   公司的 Final Clean 清洗设备用于高质量硅衬底及碳化硅衬底制造。这款设备在 Pre Clean 步骤\n之后，使用稀释的化学药液同时结合公司独有的兆声波清洗技术对晶圆正背面进行化学清洗，以\n控制晶圆表面颗粒和金属污染。该设备适用于 6 英寸、8 英寸或 12 英寸晶圆清洗，并且可以选配\n4 腔体、8 腔体或 12 腔体，以满足不同产能需求。\n\n新增重要非主营业务情况\n□适用 √不适用\n\n\n(二) 主要经营模式\n  1、盈利模式\n  公司作为一家面向国际科技前沿、坚持自主创新的半导体专用设备企业，遵循全球行业惯例，\n主要从事技术和工艺研发、产品设计和制造，为客户提供设备和工艺解决方案。公司根据对产品\n的设计，组织零部件外购及外协，建立了完善的供应链体系，与核心供应商建立了密切的合作关\n系，根据公司的销售预测，提前部署下一年度的产能需求，提前做好产能安排及快速交付计划，\n保障了对重要零部件的供应。作为设备厂商，公司提供验证平台，通过设备厂商带动零部件技术\n攻关，实现对零部件企业的商业赋能。公司通过长期研发积累形成的技术优势，保持较高的产品\n毛利，进而保持较高比例的研发投入及市场开拓，在报告期内实现了较高的利润率。\n  2、研发模式",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_product_listed_capability",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined generic group/family, not an additional counted distinct system. Name variants are separate proposals pending identity review; generic groups can overlap named models.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-F071",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 17,
+        "excerpt": "②Final Clean 清洗设备\n  公司的 Final Clean 清洗设备用于高质量硅衬底及碳化硅衬底制造。这款设备在 Pre Clean 步\n骤之后，使用稀释的化学药液同时结合公司独有的兆声波清洗技术对晶圆正背面进行化学清洗，\n以控制晶圆表面颗粒和金属污染。该设备适用于 6 寸、8 寸或 12 寸晶圆清洗，并且可以选配 4\n腔体、8 腔体或 12 腔体，以满足不同产能需求。\n  （4）面板级先进封装设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F038",
+        "source_id": "acm_shanghai_2025",
+        "page": 18,
+        "excerpt": "②Final Clean 清洗设备\n   公司的 Final Clean 清洗设备用于高质量硅衬底及碳化硅衬底制造。这款设备在 Pre Clean 步骤\n之后，使用稀释的化学药液同时结合公司独有的兆声波清洗技术对晶圆正背面进行化学清洗，以\n控制晶圆表面颗粒和金属污染。该设备适用于 6 英寸、8 英寸或 12 英寸晶圆清洗，并且可以选配\n4 腔体、8 腔体或 12 腔体，以满足不同产能需求。\n\n新增重要非主营业务情况\n□适用 √不适用\n\n\n(二) 主要经营模式\n  1、盈利模式\n  公司作为一家面向国际科技前沿、坚持自主创新的半导体专用设备企业，遵循全球行业惯例，\n主要从事技术和工艺研发、产品设计和制造，为客户提供设备和工艺解决方案。公司根据对产品\n的设计，组织零部件外购及外协，建立了完善的供应链体系，与核心供应商建立了密切的合作关\n系，根据公司的销售预测，提前部署下一年度的产能需求，提前做好产能安排及快速交付计划，\n保障了对重要零部件的供应。作为设备厂商，公司提供验证平台，通过设备厂商带动零部件技术\n攻关，实现对零部件企业的商业赋能。公司通过长期研发积累形成的技术优势，保持较高的产品\n毛利，进而保持较高比例的研发投入及市场开拓，在报告期内实现了较高的利润率。\n  2、研发模式",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      },
+      {
+        "claim_id": "ACMS-F111",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 19,
+        "excerpt": "②Final Clean 清洗设备\n  公司的 Final Clean 清洗设备用于高质量硅衬底及碳化硅衬底制造。这款设备在 Pre Clean 步\n骤之后，使用稀释的化学药液同时结合公司独有的兆声波清洗技术对晶圆正背面进行化学清洗，\n以控制晶圆表面颗粒和金属污染。该设备适用于 6 英寸、8 英寸或 12 英寸晶圆清洗，并且可以选\n配 4 腔体、8 腔体或 12 腔体，以满足不同产能需求。\n\n\n新增重要非主营业务情况\n□适用 √不适用\n\n二、经营情况的讨论与分析\n  2026 年半导体产业在全球范围内呈现出持续向好发展态势，同时中国半导体市场也展现出积\n极的发展趋势。随着当前中国半导体企业的大力投资与扩张，半导体产业实现了快速发展，并在\n全球半导体产业链中占据了越来越重要的地位。\n  自创立之初，公司锚定全球集成电路产业，始终践行以原始创新驱动的差异化技术发展路线。\n通过长年的技术深耕与自主攻关，公司不仅筑牢了知识产权护城河，更完成了从单一技术突破到\n全流程平台化布局的跨越，为全球客户提供极具竞争力的整体解决方案。公司现有产品包括清洗\n设备、半导体电镀设备、立式炉管系列设备、前道涂胶显影 Track 设备、等离子体增强化学气相\n沉积 PECVD 设备、无应力抛光设备、后道晶圆级先",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_product_listed_capability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source product-list entry only; no sale, shipment, installation or production-use stage inferred. Repeated interim/annual listings are source vintages of one family/group."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_ecp_giii",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "named_platform_family",
+    "name": "Ultra ECP GIII",
+    "aliases": [
+      "Ultra ECP GIII"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q002",
+      "source_id": "acm_shanghai_2025",
+      "page": 15,
+      "excerpt": "Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶覆\n盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。\n    ③立式炉管系列设备\n    公司研发的立式",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "company_reported_mass_production",
+    "maturity_as_reported_in": "acm_shanghai_2025",
+    "notes": "Compound-semiconductor ECP named model; no shipment count.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q002",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "Ultra ECP GIII 新型化合物半导体电镀设备已实现量产，在深孔镀金工艺中表现优异，台阶覆\n盖率在同样工艺参数条件下优于竞争对手水平；同时公司开发了去镀金技术并实现模块销售。\n    ③立式炉管系列设备\n    公司研发的立式",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Company first-party assertion, no unit count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_ecp_map",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "named_platform_family",
+    "name": "Ultra ECP map",
+    "aliases": [
+      "Ultra ECP map"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q009",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "company_reported_mass_production",
+    "maturity_as_reported_in": "acm_shanghai_2025",
+    "notes": "Front-end copper ECP named variant; do not combine with map+ or map++ counts.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-N061_NODE_CONTEXT",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。\n  ②半导体电镀设备\n  A.前道铜互连电镀铜设备\n  公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n薄籽晶层上完成无空穴填充，同",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "claimed_process_suitability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "process_node": "28nm 及以下",
+        "process_node_context": "IC 前道铜互连镀铜技术 Ultra ECP map",
+        "notes": "Explicit Ultra ECP map 28nm-and-below front-end copper-plating capability; does not transfer to map+ or map++, nor to ECP revenue or customer qualification."
+      },
+      {
+        "claim_id": "ACMS-Q025_1",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 24,
+        "excerpt": "Ultra ECP map ，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n     公司研发的 ECP 电化学电镀技术，主",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Company says series in production; source variants distinct. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-N060_NODE_CONTEXT",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。\n    ②半导体电镀设备\n    A.前道铜互连电镀铜设备\n    公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超\n薄籽晶层上完成无空穴填充，同",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "claimed_process_suitability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "process_node": "28nm 及以下",
+        "process_node_context": "IC 前道铜互连镀铜技术 Ultra ECP map",
+        "notes": "Explicit Ultra ECP map 28nm-and-below front-end copper-plating capability; does not transfer to map+ or map++, nor to ECP revenue or customer qualification."
+      },
+      {
+        "claim_id": "ACMS-Q009_1",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Distinct named variants but no unit count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-N062_NODE_CONTEXT",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 14,
+        "excerpt": "度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。\n  ②半导体电镀设备\n  A.前道铜互连电镀铜设备\n  公司自主开发针对 28nm 及以下技术节点的 IC 前道铜互连镀铜技术 Ultra ECP map。公司的\n多阳极局部电镀技术采用新型的电流控制方法，实现不同阳极之间毫秒级别的快速切换，可在超",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "claimed_process_suitability",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "process_node": "28nm 及以下",
+        "process_node_context": "IC 前道铜互连镀铜技术 Ultra ECP map",
+        "notes": "Explicit Ultra ECP map 28nm-and-below front-end copper-plating capability; does not transfer to map+ or map++, nor to ECP revenue or customer qualification."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_ecp_map_plus",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "named_platform_family",
+    "name": "Ultra ECP map+",
+    "aliases": [
+      "Ultra ECP map+"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q009",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "company_reported_mass_production",
+    "maturity_as_reported_in": "acm_shanghai_2025",
+    "notes": "Front-end copper ECP named variant; no separate revenue split.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q025_2",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 24,
+        "excerpt": "Ultra ECP map ，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n     公司研发的 ECP 电化学电镀技术，主",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Company says series in production; source variants distinct. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q009_2",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Distinct named variants but no unit count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_ecp_map_plus_plus",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "named_platform_family",
+    "name": "Ultra ECP map++",
+    "aliases": [
+      "Ultra ECP map++"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q009",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "company_reported_mass_production",
+    "maturity_as_reported_in": "acm_shanghai_2025",
+    "notes": "Front-end copper ECP named variant; no separate revenue split.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q025_3",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 24,
+        "excerpt": "Ultra ECP map ，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n     公司研发的 ECP 电化学电镀技术，主",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Company says series in production; source variants distinct. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q009_3",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "Ultra ECP map，Ultra ECP map+，\nUltra ECP map++，并已实现量产，确立了公司在本土 12 英寸铜互连电镀设备市场的龙头地位。\n     ⑥ECP 先进封装电化学电镀技术\n   公司研发的 ECP 电化学电",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "company_reported_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Distinct named variants but no unit count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ecp_ap_p",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "record_kind": "named_platform_family",
+    "name": "ECP ap-p",
+    "aliases": [
+      "ECP ap-p"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q010",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "ECP ap-p 取得显著进展，成功进入大客户生产线进行工艺验证，在 2025 年 3 月获得国际 3D\nInCites 协会颁发的“Technology Enablement Award”奖项。\n     ⑧面板级真空负压清洗技术",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "domestic_customer_process_validation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Panel-level horizontal ECP model under customer process validation.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q010",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "ECP ap-p 取得显著进展，成功进入大客户生产线进行工艺验证，在 2025 年 3 月获得国际 3D\nInCites 协会颁发的“Technology Enablement Award”奖项。\n     ⑧面板级真空负压清洗技术",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_line_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Validation on customer production line, not accepted sales count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q035",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 26,
+        "excerpt": "ECP ap-p 产品取得关键突破。在国内大客户工艺验证中，其工\n艺性能表现优异，尤其在大铜柱（CoWoS-L）关键工艺及 micro pad（Cu-Ni-Au）工艺中，性能全\n面优于垂直电镀设备，有效打通了客户产线瓶颈，提升了产品良率。此外，310mm 尺寸面板工艺\n验证亦获突破性进展：采用优化多阳极腔体，光片整面均匀性达 5%以",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "domestic_customer_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Production-line process validation, not industry-wide installed base. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_vertical_ald_furnace",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform_family",
+    "name": "ALD vertical furnace",
+    "aliases": [
+      "ALD vertical furnace"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q011",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "多种原子层沉\n积立式炉管（ALD）正在加大力度开发和陆续进入客户端验证，部分工艺完成小批量验证，正在\n做最后优化测试。\n  ⑩涂胶显影 Track 技术\n  公司推出前道涂胶显影 Ultra LithTM Track 设备，采用公司具有全球专利申请保",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation_some_process_small_batch_validation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Furnace subclass in validation; mature stage of other furnace products does not carry over.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q011_H12025_VINTAGE",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 24,
+        "excerpt": "能达成精确薄膜控制和高均匀度的多种原子层沉积立式炉管\n（ALD）正在加大力度开发和陆续进入客户端验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_in_progress",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source-vintage ALD furnace subclass development/customer validation only. Some-process small-batch status applies only where explicitly stated. No transfer of broad furnace production or High K/PEALD stage."
+      },
+      {
+        "claim_id": "ACMS-Q011",
+        "source_id": "acm_shanghai_2025",
+        "page": 26,
+        "excerpt": "能达成精确薄膜控制和具备良好阶梯覆盖率的多种原子层沉\n积立式炉管（ALD）正在加大力度开发和陆续进入客户端验证，部分工艺完成小批量验证，正在\n做最后优化测试。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_in_progress",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Some process small-batch validation; not all furnaces. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q011_H12026_VINTAGE",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "能达成精确薄膜控制和具备良好阶梯覆盖率的多种原子层沉\n积立式炉管（ALD）正在加大力度开发和陆续进入客户端验证，部分工艺完成小批量验证，正在\n做最后优化测试。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_some_process_small_batch_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source-vintage ALD furnace subclass development/customer validation only. Some-process small-batch status applies only where explicitly stated. No transfer of broad furnace production or High K/PEALD stage."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_krf_track_300wph",
+    "entity_id": "acm_shanghai",
+    "category_id": "track_coat_develop",
+    "record_kind": "named_platform_family",
+    "name": "KrF 300WPH Track",
+    "aliases": [
+      "KrF 300WPH Track"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q012",
+      "source_id": "acm_shanghai_2025",
+      "page": 26,
+      "excerpt": "涂胶显影 Track 设备已经进入客户端验证阶段，并且获得了部分工艺结果，涂胶\n工艺膜厚满足客户要求，显影关键尺寸 CD 接近工艺指标。最新研发的 KrF 工艺 300WPH Track\n设备已经于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "first_delivery_2025_09_under_validation_h1_2026",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "First delivery September 2025; 300 WPH is tool throughput, not factory capacity. FY2025 p26 explicitly identifies the 300WPH variant; p15 Q004 reports the same September delivery with high-throughput wording but no throughput number. These are not separate deliveries.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q004",
+        "source_id": "acm_shanghai_2025",
+        "page": 15,
+        "excerpt": "首台高产\n能 KrF 工艺前道涂胶显影设备已于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。\n    ⑤等离子体增强化学气相沉积 PECVD 设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_delivery_2025_09",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "First delivery is not acceptance or fleet. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q038",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "最新研发的 KrF 工艺 300WPH Track 设备已经于 2025 年 9 月顺利交付中国头部逻辑晶圆制\n造厂，各项工艺指标正在验证中，预计年底完成全生产流程验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_delivery_2025_09_under_validation_h1_2026",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Comparative event, still under validation H1 2026. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_pmax_pecvd",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "Ultra Pmax PECVD",
+    "aliases": [
+      "Ultra Pmax PECVD"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q013",
+      "source_id": "acm_shanghai_2025",
+      "page": 27,
+      "excerpt": "Ultra PmaxTM PECVD 设备在多工艺成膜上实现突破，在公司临港测试研发线上成功\n完成 demo 测试。\n\n国家科学技术奖项获奖情况\n□适用 √不适用\n\n国家级专精特新“小巨人”企业、制造业“单项冠军”认定情况\n√适用 □不适用\n   认定主体",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "ready_to_enter_product_wafer_validation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "PECVD family with separate internal demo and customer process-stage claims.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q024",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 22,
+        "excerpt": "其中 Ultra PmaxTM 等离子体增强化学气相沉积 PECVD 设备，2024 年第三季度向中国的一家集成\n电路客户交付其首台 PECVD 设备，验证 TEOS 及 SiN 工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_customer_delivery_2024_q3_for_teos_sin_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Comparative milestone restated in H1 2025; delivery for TEOS/SiN validation. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q013",
+        "source_id": "acm_shanghai_2025",
+        "page": 27,
+        "excerpt": "Ultra PmaxTM PECVD 设备在多工艺成膜上实现突破，在公司临港测试研发线上成功\n完成 demo 测试。\n\n国家科学技术奖项获奖情况\n□适用 √不适用\n\n国家级专精特新“小巨人”企业、制造业“单项冠军”认定情况\n√适用 □不适用\n   认定主体",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "internal_demo_process_breakthrough",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Internal Lingang demo, not customer validation. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q039",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "2025 年 Ultra PmaxTM PECVD 设备在多工艺成膜上实现突破，在公司临港测试研发线上成功\n完成 demo 测试。2026 年上半年，出机客户端的首台机台在 TEOS 和 SiN 两种工艺薄膜上均取得\n关键性突破。针对 TEOS 工艺的颗粒问题与 SiN 工艺的均匀性问题，项目团队通过 CIP 持续改善，\n使两项指标成功达到客户 Spec 要求，设备现已具备进入产品片验证阶段的条件，实现了质的飞\n跃。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "ready_to_enter_product_wafer_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Ready to enter product-wafer validation is not completion. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_pecvd_sicn",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "PECVD SiCN",
+    "aliases": [
+      "PECVD SiCN"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q030",
+      "source_id": "acm_shanghai_h1_2026",
+      "page": 20,
+      "excerpt": "首台 PECVD SiCN 设备顺利出机，该设备为公\n司自研世界首台三工位旋转沉积架构，可满足 IC 工艺后段应用及先进封装晶圆级键合应用的严\n苛工艺需求。\n  公司通过持续的研发投入和长期的技术、工艺积累，在新产品开发、生产工艺改进等方面形\n成了一系列科技成",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "first_customer_delivery_2026_04",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "SiCN tool identity kept separate from Ultra Pmax unless original proves common model.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q030",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 20,
+        "excerpt": "首台 PECVD SiCN 设备顺利出机，该设备为公\n司自研世界首台三工位旋转沉积架构，可满足 IC 工艺后段应用及先进封装晶圆级键合应用的严\n苛工艺需求。\n  公司通过持续的研发投入和长期的技术、工艺积累，在新产品开发、生产工艺改进等方面形\n成了一系列科技成",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_factory_departure_h1_2026",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "First tool out of factory, not accepted/installed. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      },
+      {
+        "claim_id": "ACMS-Q040",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "首台 PECVD SiCN 工艺设备也于 2026 年 4 月顺利交付国内头部逻辑晶圆制造厂，\n正式进入工艺验证阶段。\n                          27 / 193",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_customer_delivery_2026_04",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Delivery and process validation, not acceptance. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_tahoe_cleaning",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "named_platform_family",
+    "name": "Tahoe cleaning",
+    "aliases": [
+      "Tahoe cleaning"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-Q031",
+      "source_id": "acm_shanghai_h1_2026",
+      "page": 25,
+      "excerpt": "Tahoe 设备已在多家头部逻辑客户、头部存储客户完成工艺验证，工艺达\n到国际领先水平。\n  ④单晶圆高温 SPM 清洗技术\n  公司自主研发的单晶圆高温 SPM（硫酸过氧化氢混合物）清洗设备，采用全球独有的专利喷\n嘴设计（全球专利申请保护中），可有效",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "logic_and_memory_customer_process_validation",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Named integrated bath/single-wafer cleaning family; no numeric installed base.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-Q031",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 25,
+        "excerpt": "Tahoe 设备已在多家头部逻辑客户、头部存储客户完成工艺验证，工艺达\n到国际领先水平。\n  ④单晶圆高温 SPM 清洗技术\n  公司自主研发的单晶圆高温 SPM（硫酸过氧化氢混合物）清洗设备，采用全球独有的专利喷\n嘴设计（全球专利申请保护中），可有效",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "logic_and_memory_customer_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Multiple unnamed customers; no exact count. Company first-party claim; no independent corroboration. Source report context dates remain distinct from explicit event dates in the wording."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_source_family_ultra_high_temperature_vertical_furnace",
+    "entity_id": "acm_shanghai",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "超高温立式炉管",
+    "aliases": [
+      "超高温立式炉管"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-RECON-UHT-FURNACE-H12026",
+      "source_id": "acm_shanghai_h1_2026",
+      "page": 27,
+      "excerpt": "2026 年自主开发的超高温立式炉管和 High K 原子层沉积炉管正在公司临港测\n试研发线上进行测试调优，为后续产业化做准备。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "internal_lingang_test_and_optimization_for_future_industrialization",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined subtype, not a named commercial model or counted distinct sale. Overlaps the broader acm_shanghai_source_family_14 record; do not transfer that family's production/validation stage to this subtype.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-RECON-UHT-FURNACE-H12026",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "2026 年自主开发的超高温立式炉管和 High K 原子层沉积炉管正在公司临港测\n试研发线上进行测试调优，为后续产业化做准备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "internal_lingang_test_and_optimization_for_future_industrialization",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Two source-defined furnace subtypes share this group sentence. Testing and optimization occur at the company's Lingang R&D line; this is not a customer qualification, shipment, installation or mass-production claim."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_source_family_high_k_ald_vertical_furnace",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "High K 原子层沉积炉管",
+    "aliases": [
+      "High K 原子层沉积炉管"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-RECON-HIGHK-ALD-FURNACE-H12026",
+      "source_id": "acm_shanghai_h1_2026",
+      "page": 27,
+      "excerpt": "2026 年自主开发的超高温立式炉管和 High K 原子层沉积炉管正在公司临港测\n试研发线上进行测试调优，为后续产业化做准备。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "internal_lingang_test_and_optimization_for_future_industrialization",
+    "maturity_as_reported_in": "acm_shanghai_h1_2026",
+    "notes": "Source-defined subtype, not a named commercial model or counted distinct sale. Overlaps the broader acm_vertical_ald_furnace record; do not transfer that family's production/validation stage to this subtype.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-RECON-HIGHK-ALD-FURNACE-H12026",
+        "source_id": "acm_shanghai_h1_2026",
+        "page": 27,
+        "excerpt": "2026 年自主开发的超高温立式炉管和 High K 原子层沉积炉管正在公司临港测\n试研发线上进行测试调优，为后续产业化做准备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "internal_lingang_test_and_optimization_for_future_industrialization",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Two source-defined furnace subtypes share this group sentence. Testing and optimization occur at the company's Lingang R&D line; this is not a customer qualification, shipment, installation or mass-production claim."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_peald_vertical_furnace",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "等离子体增强原子层沉积炉管",
+    "aliases": [
+      "PEALD 立式炉管",
+      "等离子体增强原子层沉积炉管"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-TF-PEALD-2FABS",
+      "source_id": "acm_shanghai_h1_2025",
+      "page": 14,
+      "excerpt": "③立式炉管系列设备\n  公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂，正在做更新优化和为量产准备。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "entered_two_chinese_wafer_manufacturers_or_fabs_optimizing_for_mass_production",
+    "maturity_as_reported_in": "acm_shanghai_h1_2025",
+    "notes": "The PEALD subtype has entered two source-described Chinese wafer manufacturers/fabs and is being updated/optimized for future mass production. Broader furnace-family mass production does not transfer. It overlaps generic ALD/furnace records; not a distinct counted sale or installation.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-TF-PEALD-2FABS",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 14,
+        "excerpt": "③立式炉管系列设备\n  公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂，正在做更新优化和为量产准备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "entered_two_chinese_wafer_manufacturers_or_fabs_optimizing_for_mass_production",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The PEALD subtype has entered two source-described Chinese wafer manufacturers/fabs and is being updated/optimized for future mass production. Broader furnace-family mass production does not transfer. It overlaps generic ALD/furnace records; not a distinct counted sale or installation."
+      }
+    ]
+  },
+  {
+    "platform_id": "acm_ultra_c_tahoe_upgraded",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "record_kind": "named_model",
+    "name": "升级版 Ultra C Tahoe",
+    "aliases": [
+      "Ultra C Tahoe",
+      "升级版 Ultra C Tahoe"
+    ],
+    "evidence": {
+      "claim_id": "ACMS-TF-ULTRA-C-TAHOE-200WPH",
+      "source_id": "acm_shanghai_h1_2025",
+      "page": 23,
+      "excerpt": "③单片槽式组合 Tahoe 高温硫酸清洗技术\n     公司研发的单片槽式组合 Tahoe 高温硫酸清洗设备，此设备集成了单腔体清洗模块和槽式清\n洗模块，可用于 12 英寸晶圆生产线的前端和后道工艺，尤其可用于高温硫酸工艺。综合了槽式和\n单片的优势，取长补短，在同一台设备中分步完成槽式清洗和单片清洗工序，既大量节省了硫酸\n使用量，也保证的良好的清洗效果，实现了绿色工艺，成本节约，环境友好的技术突破，解决了\n困扰业界多年的硫酸消耗量大的难题。2024 年 Ultra C Tahoe 通过升级取得重要性能突破，升级版\nUltra C Tahoe 的新功能和优势如下：\n     •更强的颗粒去除性能：Tahoe 平台具备更强大的清洗能力，在 26nm 颗粒测试中实现了平均\n颗粒个位数的标准，满足高端制造的严格要求。该设备未来会增加更精密的微粒过滤系统，能够\n去除 1x 纳米的微粒，可用于行业领先的逻辑和内存应用。\n     •更高的产能：升级后的槽式模块和多个单晶圆腔体每小时产能超过 200 片晶圆，可与 12 腔\n体单片 SPM 系统媲美。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_reported_2024_upgrade_performance_breakthrough",
+    "maturity_as_reported_in": "acm_shanghai_h1_2025",
+    "notes": "The H1 2025 original describes a 2024 upgraded Ultra C Tahoe configuration with a >200 wafers/hour capability. The source-stated year is not an exact as-of date; no sale, installation, production use or factory output follows. Overlaps generic Tahoe cleaning platform.",
+    "maturity_history": [
+      {
+        "claim_id": "ACMS-TF-ULTRA-C-TAHOE-200WPH",
+        "source_id": "acm_shanghai_h1_2025",
+        "page": 23,
+        "excerpt": "③单片槽式组合 Tahoe 高温硫酸清洗技术\n     公司研发的单片槽式组合 Tahoe 高温硫酸清洗设备，此设备集成了单腔体清洗模块和槽式清\n洗模块，可用于 12 英寸晶圆生产线的前端和后道工艺，尤其可用于高温硫酸工艺。综合了槽式和\n单片的优势，取长补短，在同一台设备中分步完成槽式清洗和单片清洗工序，既大量节省了硫酸\n使用量，也保证的良好的清洗效果，实现了绿色工艺，成本节约，环境友好的技术突破，解决了\n困扰业界多年的硫酸消耗量大的难题。2024 年 Ultra C Tahoe 通过升级取得重要性能突破，升级版\nUltra C Tahoe 的新功能和优势如下：\n     •更强的颗粒去除性能：Tahoe 平台具备更强大的清洗能力，在 26nm 颗粒测试中实现了平均\n颗粒个位数的标准，满足高端制造的严格要求。该设备未来会增加更精密的微粒过滤系统，能够\n去除 1x 纳米的微粒，可用于行业领先的逻辑和内存应用。\n     •更高的产能：升级后的槽式模块和多个单晶圆腔体每小时产能超过 200 片晶圆，可与 12 腔\n体单片 SPM 系统媲美。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_reported_2024_upgrade_performance_breakthrough",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The H1 2025 original describes a 2024 upgraded Ultra C Tahoe configuration with a >200 wafers/hour capability. The source-stated year is not an exact as-of date; no sale, installation, production use or factory output follows. Overlaps generic Tahoe cleaning platform."
+      }
+    ]
+  }
+]

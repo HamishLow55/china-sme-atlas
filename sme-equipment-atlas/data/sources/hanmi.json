@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "hanmi_fy2025_annual",
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor 사업보고서 (Annual Report), 제46기 (FY ended 31 December 2025)",
+    "publication_date": "2026-03-12",
+    "publication_date_precision": "day",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260312001230",
+    "sha256": "dc18b934ee5d0b47687ff60fea657d0fdccbc367b3066f456b0cf7d9d58a7cbc",
+    "source_type": "annual_report",
+    "original_document_id": "20260312001230",
+    "page_count": 246,
+    "locator_kind": "pdf",
+    "notes": "DART rcpNo 20260312001230, main-document dcmNo 11116582 (사업보고서 body; the filing also carries six attached documents -- 감사보고서, 연결감사보고서, 정관, 영업보고서 etc. under the same rcpNo but different dcmNo values -- none of which were retrieved for this packet). Retrieved via DART's web viewer session chain (dsaf001/main.do -> pdf/download/main.do -> pdf/download/pdf.do, all under one cookie jar), not the DART Open API, and saved as a 246-page PDF with a native text layer (confirmed with pdftotext -layout and pdfinfo); sha256 computed locally against the kept file. Pages cited are PHYSICAL PDF pages. The filing's own printed page number runs BEHIND the physical page by a constant 4: printed page 16 = physical page 20; printed page 26 = physical page 30; printed page 36 = physical page 40 (confirmed by sampling the 'Page NN' DART footer across the document). Covers 1 January 2025 - 31 December 2025, filed 2026-03-12; comparative columns for 제45기 (FY2024) and 제44기 (FY2023) appear throughout. Company name on the cover page is written 한미반도체주식회사 without a space; the alias 한미반도체 used elsewhere in this packet is the issuer's own short form used pervasively inside this same document."
+  },
+  {
+    "source_id": "hanmi_fy2024_annual",
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor 사업보고서 (Annual Report), 제45기 (FY ended 31 December 2024)",
+    "publication_date": "2025-03-13",
+    "publication_date_precision": "day",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250313001171",
+    "sha256": "69a1b675acc2ce39798bf28f190b91f850ff26d259525bdf54d2ab36c21c9abe",
+    "source_type": "annual_report",
+    "original_document_id": "20250313001171",
+    "page_count": 260,
+    "locator_kind": "pdf",
+    "notes": "DART rcpNo 20250313001171, main-document dcmNo 10403755. Retrieved and saved the same way as hanmi_fy2025_annual; 260-page PDF with a native text layer. Pages cited are PHYSICAL PDF pages. Used in this packet only for the product-mix table's own current-year (제45기/2024) column, which the FY2025 report's equivalent table does not carry as a comparative, and for the FY2024 employee headcount table; the FY2024 company-revenue/profit figures used in this packet are instead cited from hanmi_fy2025_annual's comparative columns, which this filing's own current-year figures were checked against and found to match exactly (see notes on the HANMI-REV-2024 observation)."
+  },
+  {
+    "source_id": "hanmi_fy2023_annual",
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor 사업보고서 (Annual Report), 제44기 (FY ended 31 December 2023)",
+    "publication_date": "2024-03-14",
+    "publication_date_precision": "day",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240314001257",
+    "sha256": "98d1b48e7f1692434b3cdd696282bdbdaff881cb274b62acb8ed23fed9cb44c5",
+    "source_type": "annual_report",
+    "original_document_id": "20240314001257",
+    "page_count": 229,
+    "locator_kind": "pdf",
+    "notes": "DART rcpNo 20240314001257, main-document dcmNo 9716500. Retrieved and saved the same way as hanmi_fy2025_annual; 229-page PDF with a native text layer. Pages cited are PHYSICAL PDF pages. Used in this packet only for the product-mix table's own current-year (제44기/2023) column and the FY2023 employee headcount table, on the same basis as hanmi_fy2024_annual."
+  },
+  {
+    "source_id": "hanmi_h1_2026_semiannual",
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor 반기보고서 (Semiannual Report), 제47기 (half year ended 30 June 2026)",
+    "publication_date": "2026-08-14",
+    "publication_date_precision": "day",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003665",
+    "sha256": "146801ddcf7da313b9d48687864b1f8aa103bdeea2793b340ae58c336f626848",
+    "source_type": "company_interim_report",
+    "original_document_id": "20260814003665",
+    "page_count": 216,
+    "locator_kind": "pdf",
+    "notes": "DART rcpNo 20260814003665, main-document dcmNo 11538002. Retrieved and saved the same way as hanmi_fy2025_annual; 216-page PDF with a native text layer. Pages cited are PHYSICAL PDF pages. This is Hanmi's most recent filing as of the 2026-10-01 intake date (no 분기보고서 for Q3 2026 has yet been filed). Covers 1 January 2026 - 30 June 2026. The business-overview narrative (HBM TC Bonder flagship, 'WIDE TC 본더' pre-launch status, hybrid bonder under parallel development) is reprinted verbatim from the FY2025 annual report, confirming no change in any of those maturity claims between March 2026 and August 2026."
+  },
+  {
+    "source_id": "hanmi_q1_2026_quarterly",
+    "dataset_id": "hanmi_disclosures",
+    "title": "Hanmi Semiconductor 분기보고서 (Quarterly Report), 제47기 1분기 (quarter ended 31 March 2026)",
+    "publication_date": "2026-05-15",
+    "publication_date_precision": "day",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515001572",
+    "sha256": "96c546bb74280604e29362d80c013f9c71ae8b787115c61a2caaa548f4232f88",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "20260515001572",
+    "page_count": 198,
+    "locator_kind": "pdf",
+    "notes": "DART rcpNo 20260515001572, main-document dcmNo 11384601. Retrieved and saved the same way as hanmi_fy2025_annual; 198-page PDF with a native text layer. Pages cited are PHYSICAL PDF pages. Covers 1 January 2026 - 31 March 2026. Used in this packet only for the product-mix table's Q1 2026 column, which shows a markedly lower equipment-revenue share (65.6%) than every full-year or half-year period read, i.e. genuine quarter-to-quarter volatility in the Conversion Kit (consumables) share rather than an extraction artefact -- the same table structure and column headers as every other period in this packet."
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "case_id": "amec_known_milestone",
+    "query": "HD-RIEe 120",
+    "expected_source_id": "amec_h1_2025",
+    "expected_pages": [
+      24
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "cmp_known_shipment",
+    "query": "华海清科 800 台",
+    "expected_source_id": "hwatsing_cmp_800",
+    "expected_pages": [
+      1
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "acm_tsv_platform",
+    "query": "Ultra ECP 3d",
+    "expected_source_id": "acm_shanghai_2025",
+    "expected_pages": [
+      15
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "historical_plan",
+    "query": "Skylens-H 预研发",
+    "expected_source_id": "jingyi_inquiry_2024",
+    "expected_pages": [
+      237
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "sizone_platform",
+    "query": "TTAIS 独立",
+    "expected_source_id": "sizone_restructuring_2026",
+    "expected_pages": [
+      427
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "naura_revenue_bound",
+    "query": "超百亿元",
+    "expected_source_id": "naura_2025",
+    "expected_pages": [
+      19,
+      21
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "acm_chambers",
+    "query": "1500 电镀",
+    "expected_source_id": "acm_shanghai_h1_2025",
+    "expected_pages": [
+      18
+    ],
+    "limit": 10,
+    "purpose": "Recover a reviewed original passage in the bounded local corpus; not a claim of broad completeness."
+  },
+  {
+    "case_id": "hwatsing_h1_2026_s300a",
+    "query": "Universal-S300A",
+    "expected_source_id": "hwatsing_h1_2026",
+    "expected_pages": [
+      16
+    ],
+    "limit": 10,
+    "purpose": "Recover reviewed H1 platform validation milestone; tuned regression case, not unbiased recall estimate."
+  },
+  {
+    "case_id": "djel_named_sem_families",
+    "query": "SEpA HV-SEM",
+    "expected_source_id": "djel_ipo_2026",
+    "expected_pages": [
+      122
+    ],
+    "limit": 10,
+    "purpose": "Recover verified product-family table; tuned regression, not general recall."
+  },
+  {
+    "case_id": "skyverse_hbm_flatness_stage",
+    "query": "晶圆平整度 HBM",
+    "expected_source_id": "skyverse_h1_2026",
+    "expected_pages": [
+      21
+    ],
+    "limit": 10,
+    "purpose": "Recover distinct shipped/prototype wafer-flatness stages; tuned regression."
+  },
+  {
+    "case_id": "jingce_cumulative_ocd",
+    "query": "Eprofile 70",
+    "expected_source_id": "jingce_annual_2025",
+    "expected_pages": [
+      24
+    ],
+    "limit": 10,
+    "purpose": "Recover reviewed strict cumulative shipment bounds; not an annual sales count."
+  },
+  {
+    "case_id": "secote_hbm_edge",
+    "query": "晶圆边缘 HBM",
+    "expected_source_id": "secote_fy2023",
+    "expected_pages": [
+      11
+    ],
+    "limit": 10,
+    "purpose": "Recover explicit HBM/TSV process monitoring and unquantified batch orders; not HBM revenue."
+  },
+  {
+    "case_id": "piotech_pecvd_revenue",
+    "query": "PECVD 51.42",
+    "expected_source_id": "piotech_annual_2025",
+    "expected_pages": [
+      12
+    ],
+    "limit": 10,
+    "purpose": "Recover original approximate PECVD revenue, preserving reported qualifiers."
+  },
+  {
+    "case_id": "leadmicro_semiconductor_split",
+    "query": "半导体设备 880,892,591",
+    "expected_source_id": "leadmicro_annual_2025",
+    "expected_pages": [
+      35
+    ],
+    "limit": 10,
+    "purpose": "Recover semiconductor equipment financial row separately from photovoltaic equipment."
+  },
+  {
+    "case_id": "piotech_historical_units",
+    "query": "薄膜沉积 162 153",
+    "expected_source_id": "piotech_annual_2023",
+    "expected_pages": [
+      58
+    ],
+    "limit": 10,
+    "purpose": "Recover separate thin-film and hybrid-bonding systems in historical operating table."
+  },
+  {
+    "case_id": "leadmicro_historical_mixed_units",
+    "query": "696 271",
+    "expected_source_id": "leadmicro_annual_2023",
+    "expected_pages": [
+      39
+    ],
+    "limit": 10,
+    "purpose": "Recover mixed photovoltaic/semiconductor operational quantities; row label wraps across a page boundary."
+  },
+  {
+    "case_id": "kingsemi_wet_process_quantities",
+    "query": "单片式湿法设备 161 138",
+    "expected_source_id": "kingsemi_annual_2024",
+    "expected_pages": [
+      36
+    ],
+    "limit": 10,
+    "purpose": "Recover source-native mixed wet-process quantity row, not pure cleaning equipment."
+  },
+  {
+    "case_id": "skyverse_annual_warranty_reclassification",
+    "query": "43,202,588.61",
+    "expected_source_id": "skyverse_annual_2024",
+    "expected_pages": [
+      184
+    ],
+    "limit": 10,
+    "purpose": "Recover aggregate historical warranty-cost reclassification; do not allocate to product costs."
+  },
+  {
+    "case_id": "amec_h126_sizone_consolidation",
+    "query": "本报告期新纳入合并范围的子公司",
+    "expected_source_id": "amec_h1_2026",
+    "expected_pages": [
+      108
+    ],
+    "limit": 10,
+    "purpose": "Recover newly consolidated subsidiary context; avoid constant-perimeter H1 growth and parent/child double-counting."
+  },
+  {
+    "case_id": "naura_distinct_financial_note_rd_total",
+    "query": "7,946,418,055.13",
+    "expected_source_id": "naura_2025",
+    "expected_pages": [
+      203
+    ],
+    "limit": 10,
+    "purpose": "Find the financial-note R&D expenditure total, distinct from management-report R&D investment."
+  },
+  {
+    "case_id": "wanye_distinct_reportable_equipment_segment",
+    "query": "363,171,445.68",
+    "expected_source_id": "xiandao_jidian_2025",
+    "expected_pages": [
+      207
+    ],
+    "limit": 10,
+    "purpose": "Find equipment reportable-segment revenue distinct from the FY2025 main-business equipment row."
+  },
+  {
+    "case_id": "wanye_warranty_cost_comparative",
+    "query": "292,156,690.61",
+    "expected_source_id": "wanye_2024",
+    "expected_pages": [
+      28
+    ],
+    "limit": 10,
+    "purpose": "Retrieve later FY2023 equipment-cost comparative, distinct from FY2023 original before warranty reclassification."
+  },
+  {
+    "case_id": "yitang_ipo_equipment_cost_lines",
+    "query": "135,561.12",
+    "expected_source_id": "yitang_ipo_2025",
+    "expected_pages": [
+      174
+    ],
+    "limit": 10,
+    "purpose": "Find source-native IPO equipment-line costs with explicit 万元 units and warranty accounting."
+  },
+  {
+    "case_id": "yitang_h126_rd_capitalization",
+    "query": "44,641,992.01",
+    "expected_source_id": "yitang_h1_2026",
+    "expected_pages": [
+      153
+    ],
+    "limit": 10,
+    "purpose": "Find directly disclosed combined etch/plasma capitalized-development spending subset, distinct from total and expensed R&D."
+  },
+  {
+    "case_id": "zhichun_single_tool_passes",
+    "query": "单机累计产量超过 100 万片次",
+    "expected_source_id": "zhichun_annual_2025",
+    "expected_pages": [
+      24
+    ],
+    "limit": 10,
+    "purpose": "Find single-tool wafer-processing passes, distinct from equipment shipments and unique wafers."
+  },
+  {
+    "case_id": "zhichun_h126_rd_components",
+    "query": "28,589,164.68",
+    "expected_source_id": "zhichun_h1_2026",
+    "expected_pages": [
+      172
+    ],
+    "limit": 10,
+    "purpose": "Find the H125 capitalized R&D comparator beside the blank H126 cell, preserving missing data."
+  },
+  {
+    "case_id": "huafeng_sts8300_batch_installation",
+    "query": "STS8300 批量装机",
+    "expected_source_id": "huafeng_annual_2025",
+    "expected_pages": [
+      14
+    ],
+    "limit": 10,
+    "purpose": "Recover the reviewed issuer batch-installation claim without treating the product listing as a quantified installation series."
+  },
+  {
+    "case_id": "qiangyi_hbm_probe_card_application",
+    "query": "2.5D MEMS 探针卡 并测数 植针面积 HBM NAND Flash DRAM",
+    "expected_source_id": "qiangyi_annual_2025",
+    "expected_pages": [
+      15
+    ],
+    "limit": 10,
+    "purpose": "Recover the exact source-native 2.5D MEMS probe-card product-table passage that lists characteristics and application fields; the passage is not evidence of production qualification, shipment volume, or a small-batch HBM deployment."
+  },
+  {
+    "case_id": "jingzhida_9gbps_ft_platform_delivery",
+    "query": "首台 自主研发 9Gbps 高速 FT 测试机 18 Gpbs",
+    "expected_source_id": "jingzhida_annual_2025",
+    "expected_pages": [
+      22
+    ],
+    "limit": 10,
+    "purpose": "Recover the source-native semiconductor-memory test platform passage identifying delivery of the first self-developed 9Gbps high-speed FT tester and continued progress on the 18 Gpbs project; tuned retrieval case for platform identity and maturity context, not a general recall estimate."
+  }
+]

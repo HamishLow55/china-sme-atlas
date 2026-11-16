@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "jingce_shanghai_jingce_subsidiary",
+    "category_id": "multi_equipment",
+    "label": "Shanghai Jingce subsidiary",
+    "definition": "上海精测 legal-entity/subsidiary revenue as reported in the annual-report major-subsidiary table. Its stated business includes semiconductor, computer and test equipment; it is not a pure metrology revenue scope."
+  }
+]

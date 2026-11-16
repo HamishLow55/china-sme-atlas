@@ -1,0 +1,21 @@
+[
+  {
+    "entity_id": "jingyi_jingwei",
+    "name": "Beijing Jingyi Jingwei",
+    "aliases": [
+      "北京晶亦精微科技股份有限公司",
+      "晶亦精微",
+      "烁科精微"
+    ],
+    "evidence": {
+      "source_id": "jingyi_inquiry_2024",
+      "page": 2,
+      "excerpt": "北京晶亦精微科技股份有限公司（以下简称“发行人”、“晶亦精微”或“公司”）",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "notes": "Current legal name at Jan2024 filing; historical alias from analysis. No unsupported HBM qualification.",
+    "entity_class": "china_supply_base"
+  }
+]

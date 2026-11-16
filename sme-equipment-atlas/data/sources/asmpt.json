@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "asmpt_annual_2025",
+    "dataset_id": "asmpt_disclosures",
+    "title": "ASMPT Limited Annual Report 2025",
+    "publication_date": "2026-04-10",
+    "publication_date_precision": "day",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0410/2026041000019.pdf",
+    "sha256": "b08be8d56780464ae88ce1c02f14ca5c921160394f2cb4f97ef1baed0a003947",
+    "source_type": "annual_report",
+    "original_document_id": "asmpt_annual_2025",
+    "page_count": 171,
+    "locator_kind": "pdf",
+    "notes": "HKEX filing, English, downloaded from hkexnews and hashed locally. Pages cited are PHYSICAL pages; this report prints its own page number in the header and that printed number runs about two BEHIND the physical page (printed 99 sits on physical 101), so confirm the header before citing."
+  },
+  {
+    "source_id": "asmpt_annual_2024",
+    "dataset_id": "asmpt_disclosures",
+    "title": "ASMPT Limited Annual Report 2024",
+    "publication_date": "2025-03-31",
+    "publication_date_precision": "day",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0331/2025033100487.pdf",
+    "sha256": "b0d4625a5f8c483cfde15be767c3a1fed9a7d5c8a82d87deb46e7c5c2e315de1",
+    "source_type": "annual_report",
+    "original_document_id": "asmpt_annual_2024",
+    "page_count": 167,
+    "locator_kind": "pdf",
+    "notes": "HKEX filing, English, downloaded from hkexnews and hashed locally. Pages cited are PHYSICAL pages; this report prints its own page number in the header and that printed number runs about two BEHIND the physical page (printed 99 sits on physical 101), so confirm the header before citing."
+  },
+  {
+    "source_id": "asmpt_annual_2023",
+    "dataset_id": "asmpt_disclosures",
+    "title": "ASMPT Limited Annual Report 2023",
+    "publication_date": "2024-04-02",
+    "publication_date_precision": "day",
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0402/2024040204063.pdf",
+    "sha256": "5413e153121403942a987ab5d4ea4ff52ce945cadf1220fcb7504e96eecbc11f",
+    "source_type": "annual_report",
+    "original_document_id": "asmpt_annual_2023",
+    "page_count": 167,
+    "locator_kind": "pdf",
+    "notes": "HKEX filing, English, downloaded from hkexnews and hashed locally. Pages cited are PHYSICAL pages; this report prints its own page number in the header and that printed number runs about two BEHIND the physical page (printed 99 sits on physical 101), so confirm the header before citing."
+  }
+]

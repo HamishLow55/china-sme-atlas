@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "secote_disclosures",
+    "title": "Secote company disclosures",
+    "kind": "company_filings",
+    "publisher": "secote",
+    "version": "wave3-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  }
+]

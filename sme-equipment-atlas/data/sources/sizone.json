@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "sizone_restructuring_2026",
+    "title": "Sizone restructuring registration report",
+    "publication_date": "2026-04",
+    "publication_date_precision": "month",
+    "url": "https://stockmc.xueqiu.com/202604/688012_20260429_2YSG.pdf",
+    "dataset_id": "sizone_disclosures",
+    "sha256": "1c5ccf2fa8e50091b3a2f8eea09637f6f8766f951b73837edbc8d79956eac7e4",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "sizone_restructuring_2026",
+    "notes": "April2026 disclosure metadata from local source trail/URL; not PwC audit report. No independent fresh URL retrieval. Transaction document does not by itself prove acquisition completion.",
+    "page_count": 866,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "sizone_audit_2025",
+    "title": "Sizone FY2024–25 PwC audit report",
+    "publication_date": "2026-04-24",
+    "publication_date_precision": "day",
+    "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202604/688012_20260424_KBCL.pdf",
+    "dataset_id": "sizone_disclosures",
+    "sha256": "2e7fd3f2738cac7d4fc2b2eed623f4a5effc5c032b36b202261da6663eac212a",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "sizone_audit_2025",
+    "notes": "Original audit report signed2026-03-27 (first9PDF pages checked); publication2026-04-24 from archived disclosure URL/local source trail, distinct from audit signature.",
+    "page_count": 116,
+    "locator_kind": "pdf"
+  }
+]

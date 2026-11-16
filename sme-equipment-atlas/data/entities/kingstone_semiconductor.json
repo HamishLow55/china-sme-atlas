@@ -1,0 +1,17 @@
+[
+  {
+    "entity_id": "kingstone_semiconductor",
+    "name": "上海凯世通半导体股份有限公司",
+    "aliases": [
+      "上海凯世通半导体股份有限公司",
+      "凯世通",
+      "上海凯世通",
+      "Kingstone Semiconductor",
+      "Kingstone",
+      "Kaishitong"
+    ],
+    "parent_entity_id": "xiandao_jidian",
+    "notes": "Controlled non-wholly-owned subsidiary. Kingstone Semiconductor, Kingstone and Kaishitong are provisional search labels; do not borrow an English name from a separately named Hong Kong subsidiary. Financial rows are consolidated Kingstone-company scope.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Kingstone Semiconductor'; 'Kaishitong'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

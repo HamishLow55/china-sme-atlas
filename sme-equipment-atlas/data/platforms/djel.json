@@ -1,0 +1,385 @@
+[
+  {
+    "platform_id": "djel_cd_sem",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "name": "SEpA-c series",
+    "aliases": [
+      "SEpA®-c系列",
+      "SEpA-c",
+      "CD-SEM",
+      "电子束关键尺寸量测设备"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 122,
+      "excerpt": "CD-SEM；SEpA®-c 系列；产业化应用。",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "industrial_application",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Named product family; latest CD-SEM had customer-G batch orders; first CD-SEM accepted in 2022. Physical units are not split by 8/12-inch. Additional milestone locators: physical PDF p24 (orders/production-use claims), p260 (first acceptances); p122 is family identity/stage.",
+    "maturity_history": [
+      {
+        "claim_id": "DJEL-IPO-OPS-Q006",
+        "source_id": "djel_ipo_2026",
+        "page": 123,
+        "excerpt": "考验公司研发、供应链、生产制造、质量控制全体系的综合实力。\n\n  公司是目前国内领先的 CD-SEM 供应商，拥有 12 英寸、8 英寸多种机型，\n支持硅基底、化合物基底（含第三代半导体）等多种材质、多种厚度的晶圆，\n已应用于客户产线，安装基数国内领先，产品量测精度、稳定性和吞吐量均能\n较好地满足客户需求。公司持续对产品性能进行改造升级，已历经多次升级迭\n代并推出新型号机型，不断获得新增订单。公司最新型号的 CD-SEM 已取得客\n户 G 的批量订单，验证结果显示公司 CD-SEM 的精度、吞吐量、一致性、稳定\n性等指标与国际厂商主流设备相当。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Issuer reports 8-/12-inch CD-SEM models in customer production, qualitative domestic installed-base leadership, continuing orders and latest-model Customer G batch orders; no installed-base count.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q018",
+        "source_id": "djel_ipo_2026",
+        "page": 261,
+        "excerpt": "2025 年公司量检测设备实现销售收入 20,307.46 万元，较 2024 年度下降\n25.18%，主要系 12 吋 CD-SEM 收入下滑所致，主要由于 12 吋 CD-SEM 产品迭\n代导致存量订单验收节奏调整。基于未来市场需求、新一代产品力的提高等背\n景，公司决定将此前已出机正在客户处验证但尚未验收的搭载外购 EOS（电子\n光学系统）的旧型号 12 吋 CD-SEM，升级置换为搭载自研 EOS 的最新型号 12\n吋 CD-SEM，以提升客户对设备的使用体验，导致发出机台的验收节奏延后，\n进而对 2025 年度 12 吋 CD-SEM 产品的收入金额产生了阶段性影响。上述因素\n对公司量检测设备业务收入的影响具有暂时性，未来随着公司新一代 12 吋 CD-\nSEM 产品的交付验收，公司量检测设备业务收入将逐步恢复。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Old 12-inch CD-SEM already dispatched and validating but not accepted, upgraded from purchased to own EOS, delaying acceptance; no backlog quantity.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q027",
+        "source_id": "djel_ipo_2026",
+        "page": 199,
+        "excerpt": "指标。\n                为应对日益缩小的技术节点和日\n    新一代 CD-     益复杂的工艺，研发新一代 CD-\n                                    研发及产业\n2   SEM 设备研发    SEM 设备，进一步提高设备产             国内领先\n                                    化验证阶段\n    项目          能、稳定性等方面表现，并通过\n                产业化验证。\n                为应对日益缩小的技术节点和日",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Next-generation CD-SEM R&D project is in R&D and industrial validation; not a new sold model count.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q031-CDSEM-FIRST",
+        "source_id": "djel_ipo_2026",
+        "page": 260,
+        "excerpt": "4,531.59 万元及 4,842.00 万元；DR-SEM 于 2024 年度实现销售收入 2,729.89 万\n元。公司作为国内少有的集成电路量检测设备企业，产品正在逐步获取客户的\n认可，公司首台 EBI 于 2021 年通过客户验收，首台 CD-SEM 于 2022 年通过客\n户验收，首台 DR-SEM 于 2024 年通过客户验收，2023 年度至 2024 年度，公司\n\n\n                                           1-1-259",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_cdsem_customer_acceptance_in_2022",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives calendar year 2022 only; as_of remains blank. No 8-/12-inch subtype attribution."
+      }
+    ]
+  },
+  {
+    "platform_id": "djel_ebi",
+    "entity_id": "djel",
+    "category_id": "inspection_ebeam",
+    "name": "SEpA-i series",
+    "aliases": [
+      "SEpA®-i系列",
+      "SEpA-i",
+      "EBI",
+      "电子束缺陷检测设备"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 122,
+      "excerpt": "EBI；SEpA®-i 系列；产业化应用。",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "industrial_application",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Named product family. EBI had entered production-line mass production for more than five years; first EBI accepted in 2021. Additional milestone locators: physical PDF p24 (orders/production-use claims), p260 (first acceptances); p122 is family identity/stage.",
+    "maturity_history": [
+      {
+        "claim_id": "DJEL-IPO-OPS-Q024",
+        "source_id": "djel_ipo_2026",
+        "page": 124,
+        "excerpt": "流的电子光学系统，配置了基于深度学习的自动缺陷分类算法，处于国内领先\n水平。公司的 EBI 设备系境内首款成功研发并通过产业化验证的电子束缺陷检\n测设备，进入产线量产已超过 5 年，产品性能持续迭代，不断取得新客户订单。\n\n  （3）DR-SEM\n\n  DR-SEM 是集成电路前道制造工艺中的缺陷复检设备。DR-SEM 利用电子\n束扫描成像技术，对晶圆缺陷进行全自动复查及成分分析。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Issuer reports EBI in production-line mass production for more than five years and continuing new-customer orders; no installed-base count.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q029",
+        "source_id": "djel_ipo_2026",
+        "page": 199,
+        "excerpt": "化验证。\n                为应对日益缩小的技术节点和日\n                益复杂的工艺，研发新一代 EBI\n    新一代 EBI 设                       研发及产业\n4               产品，进一步提高设备产能、稳              国内领先\n    备研发项目                           化验证阶段\n                定性等方面表现，丰富设备功\n                能，并通过产业化验证。\n                针对 14nm 及以上制程，进一步",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Next-generation EBI R&D project is in R&D and industrial validation.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q031-EBI-FIRST",
+        "source_id": "djel_ipo_2026",
+        "page": 260,
+        "excerpt": "4,531.59 万元及 4,842.00 万元；DR-SEM 于 2024 年度实现销售收入 2,729.89 万\n元。公司作为国内少有的集成电路量检测设备企业，产品正在逐步获取客户的\n认可，公司首台 EBI 于 2021 年通过客户验收，首台 CD-SEM 于 2022 年通过客\n户验收，首台 DR-SEM 于 2024 年通过客户验收，2023 年度至 2024 年度，公司\n\n\n                                           1-1-259",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_ebi_customer_acceptance_in_2021",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives calendar year 2021 only; as_of remains blank. First acceptance is not a cumulative installation count."
+      }
+    ]
+  },
+  {
+    "platform_id": "djel_dr_sem",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "name": "SEpA-r series",
+    "aliases": [
+      "SEpA®-r系列",
+      "SEpA-r",
+      "DR-SEM",
+      "电子束缺陷复检设备"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 122,
+      "excerpt": "DR-SEM；SEpA®-r 系列；产业化应用。",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "industrial_application",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Named product family. Latest DR-SEM had customer-G batch orders; first DR-SEM accepted in 2024. Additional milestone locators: physical PDF p24 (orders/production-use claims), p260 (first acceptances); p122 is family identity/stage.",
+    "maturity_history": [
+      {
+        "claim_id": "DJEL-IPO-OPS-Q007",
+        "source_id": "djel_ipo_2026",
+        "page": 124,
+        "excerpt": "（3）DR-SEM\n\n  DR-SEM 是集成电路前道制造工艺中的缺陷复检设备。DR-SEM 利用电子\n束扫描成像技术，对晶圆缺陷进行全自动复查及成分分析。\n\n  DR-SEM 的应用场景贯穿集成电路前道工艺的关键环节。晶圆制造厂先使\n用明场/暗场光学缺陷检测设备或 EBI 设备对晶圆表面进行扫描检测，捕获并标\n记潜在缺陷的坐标信息，随后通过良率管理系统将缺陷坐标信息传入 DR-SEM。\nDR-SEM 根据坐标实现全自动缺陷定位，利用高分辨率、多角度探测器的电子",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "DR-SEM provides automatic defect reinspection and composition analysis after optical or EBI location.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q025",
+        "source_id": "djel_ipo_2026",
+        "page": 125,
+        "excerpt": "选配深紫外光源，进行待表征缺陷的高精度预定位。公司研制的 DR-SEM 设备\n适用 12 英寸晶圆，可满足逻辑、3D-NAND、DRAM 等不同芯片制造的缺陷复\n检需求，具备全自动复检能力，目前已通过产线验证，获得多家客户订单。公\n司最新型号的 DR-SEM 已取得客户 G 的批量订单，验证结果显示公司 DR-SEM\n的精度、吞吐量等指标与国际厂商主流设备相当。\n\n  （4）HV-SEM\n\n  HV-SEM 是一款面向先进工艺的新型高端电子束设备，主要应用于≥200 层",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "12-inch DR-SEM passed line validation and obtained multiple-customer orders, including Customer G batch orders for the latest model; no order quantity.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q028",
+        "source_id": "djel_ipo_2026",
+        "page": 199,
+        "excerpt": "产业化验证。\n                为应对日益缩小的技术节点和日\n                益复杂的工艺，研发新一代 DR-\n    新一代 DR-\n                SEM 产品，进一步提高设备图像    研发及产业\n3   SEM 设备研发                                国内领先\n                质量、产能、稳定性等方面表       化验证阶段\n    项目\n                现，丰富设备功能，并通过产业",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Next-generation DR-SEM R&D project is in R&D and industrial validation.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q031-DRSEM-FIRST",
+        "source_id": "djel_ipo_2026",
+        "page": 260,
+        "excerpt": "4,531.59 万元及 4,842.00 万元；DR-SEM 于 2024 年度实现销售收入 2,729.89 万\n元。公司作为国内少有的集成电路量检测设备企业，产品正在逐步获取客户的\n认可，公司首台 EBI 于 2021 年通过客户验收，首台 CD-SEM 于 2022 年通过客\n户验收，首台 DR-SEM 于 2024 年通过客户验收，2023 年度至 2024 年度，公司\n\n\n                                           1-1-259",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_drsem_customer_acceptance_in_2024",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives calendar year 2024 only; as_of remains blank. This is separate from batch-order and revenue milestones."
+      }
+    ]
+  },
+  {
+    "platform_id": "djel_hv_sem",
+    "entity_id": "djel",
+    "category_id": "metrology",
+    "name": "SEpA-h series",
+    "aliases": [
+      "HV-SEM",
+      "SEpA-h",
+      "SEpA®-h系列",
+      "高能电子束设备"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 122,
+      "excerpt": "HV-SEM；SEpA®-h 系列；研发及产业化验证。",
+      "status": "source_checked",
+      "reviewer": "mi_verifier_original_first",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "research_and_industrial_validation",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Source-native high-energy electron-beam family. PDF125 explicitly states equipment has shipped and is undergoing industrial validation; not acceptance or revenue. Covers dimensional/overlay and related functions; broad metrology category avoids allocating a multifunction tool into multiple revenue categories.",
+    "maturity_history": [
+      {
+        "claim_id": "DJEL-IPO-OPS-Q026",
+        "source_id": "djel_ipo_2026",
+        "page": 125,
+        "excerpt": "集成类 DR-SEM 的多通道成像技术，支持二次电子、背散射电子等多信号并行\n采集与分析；（3）搭载 EBI 大数据算力系统，可对海量检测数据开展多维度智\n能算法分析。公司 HV-SEM 已经实现出机，正在进行产业化验证。\n\n  2、集成电路制造类 EDA 软件\n\n  根据应用场景的不同，EDA 软件主要分为设计类 EDA 软件与制造类 EDA\n软件工具。设计类 EDA 软件涵盖数字与模拟电路的全流程设计，负责完成从逻\n辑综合与仿真验证的前端设计环节，到布局布线与物理验证的后端设计环节；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "HV-SEM dispatched and undergoing industrial validation; not accepted sale or revenue.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q030",
+        "source_id": "djel_ipo_2026",
+        "page": 199,
+        "excerpt": "随着存储芯片向更先进节点不断\n                演进，特征尺寸不断微缩，器件\n    HV-SEM 设备   从平面结构发展为复杂的三维结      研发及产业\n8                                           国内领先\n    研发项目        构，使得量测难度大幅上升。为      化验证阶段\n                更好地满足相关客户需求，公司\n                将基于在电子束量检测领域的积",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "HV-SEM R&D project is in R&D and industrial validation.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation."
+      },
+      {
+        "claim_id": "DJEL-IPO-OPS-Q036",
+        "source_id": "djel_ipo_2026",
+        "page": 125,
+        "excerpt": "（4）HV-SEM\n\n  HV-SEM 是一款面向先进工艺的新型高端电子束设备，主要应用于≥200 层\n3D-NAND 工艺、1z 及更先进节点 DRAM 工艺、≤14nm 逻辑工艺特定结构的\n关键尺寸量测与套刻精度量测。\n\n  HV-SEM 以超高电子束着陆能量为核心技术特征，可实现其他量检测设备\n无法实现高深宽比结构量测、晶圆层间套刻精度量测及埋层缺陷检测等功能。\n在技术架构层面，HV-SEM 融合了多类电子束量检测设备的核心能力：（1）具",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "HV-SEM dimensional/overlay and buried-defect target applications include ≥200-layer 3D NAND, 1z-or-beyond DRAM and ≤14nm logic; dispatched and undergoing industrial validation, not established accepted sales.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "History append proposal to existing family only; no family identity duplication or inferred model-unit allocation. Target node qualifies stated applications during validation, not production qualification.",
+        "process_node": "≤14nm",
+        "process_node_context": "逻辑工艺特定结构的关键尺寸量测与套刻精度量测"
+      }
+    ]
+  },
+  {
+    "platform_id": "djel_sepa_c505",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "record_kind": "named_model",
+    "name": "SEpA-c505",
+    "aliases": [
+      "SEpA-c505"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 169,
+      "excerpt": "CD-SEM 设备国内主要供应商为日立高新、应用材料和本公司。公司最新\n一代 CD-SEM 设备 SEpA-c505 已取得客户 G 的批量订单，在关键性能指标上可\n以比肩国际厂商主流设备，可以满足≥28nm Logic 和 3D NAND 产线的需求。\n\n  ②EBI",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "process_node": "≥28nm Logic",
+      "process_node_context": "Logic 和 3D NAND 产线"
+    },
+    "reported_maturity": "customer_g_batch_orders",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Specific issuer-named model under an existing SEpA family. Source performance/application claims are model specific; aggregate family revenue and physical units are not allocated to this model. IPO disclosure context, not exact event date. Root rechecked the registered original and model-specific scope; issuer assertions are not independently corroborated."
+  },
+  {
+    "platform_id": "djel_sepa_i635",
+    "entity_id": "djel",
+    "category_id": "inspection_ebeam",
+    "record_kind": "named_model",
+    "name": "SEpA-i635",
+    "aliases": [
+      "SEpA-i635"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 169,
+      "excerpt": "公司                   东方晶源                         阿斯麦-汉民微测\n    设备型号                SEpA-i635                        eScan430\n   检测像素大小               5nm-120nm                       4nm-150nm\n   复检像素大小                    5nm                           3nm\n   预扫描模式                     支持                            支持\n    检测算法                  D2D/C2C                      D2D/C2C/D2DB",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_latest_model_comparison",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Specific issuer-named model under an existing SEpA family. Source performance/application claims are model specific; aggregate family revenue and physical units are not allocated to this model. IPO disclosure context, not exact event date. Root rechecked the registered original and model-specific scope; issuer assertions are not independently corroborated.",
+    "maturity_history": [
+      {
+        "claim_id": "DJEL-IPO-OPS-Q038-i635-node",
+        "source_id": "djel_ipo_2026",
+        "page": 170,
+        "excerpt": "[physical p169]\nEBI 设备国内的主要供应商为阿斯麦-汉民微测和本公司。公司最新一代\nEBI 设备 SEpA-i635 关键性能指标可以比肩国际厂商主流设备；设备支持预扫\n[physical p170]\n描模式、多种检测算法、自动缺陷检测与分类功能等多种功能，可以满足≥\n28nm Logic 和 3D NAND 产线的需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stated_model_capability_for_28nm_or_larger_logic_and_3d_nand_lines",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "P170 first paragraph completes the explicit SEpA-i635 sentence begun on p169. Capability only; no model-specific sales, installation, or accepted-unit count.",
+        "process_node": "≥28nm Logic",
+        "process_node_context": "Logic 和 3D NAND 产线"
+      }
+    ]
+  },
+  {
+    "platform_id": "djel_sepa_r655",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "record_kind": "named_model",
+    "name": "SEpA-r655",
+    "aliases": [
+      "SEpA-r655"
+    ],
+    "evidence": {
+      "source_id": "djel_ipo_2026",
+      "page": 170,
+      "excerpt": "DR-SEM 设备国内主要供应商为应用材料、科磊半导体、上海精测和本公\n司。公司的最新一代 DR-SEM 设备 SEpA-r655 已取得客户 G 的批量订单，在关\n键 性 能 指 标 上 可 以 比 肩 国 际 厂 商 主 流 设 备 ， 可 以 满 足 ≥ 28nm Logic 和 3D\nNAND 产线的需求。\n\n   ④计算光刻软件",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "process_node": "≥28nm Logic",
+      "process_node_context": "Logic 和 3D NAND 产线"
+    },
+    "reported_maturity": "customer_g_batch_orders",
+    "maturity_as_reported_in": "djel_ipo_2026",
+    "notes": "Specific issuer-named model under an existing SEpA family. Source performance/application claims are model specific; aggregate family revenue and physical units are not allocated to this model. IPO disclosure context, not exact event date. Root rechecked the registered original and model-specific scope; issuer assertions are not independently corroborated."
+  }
+]

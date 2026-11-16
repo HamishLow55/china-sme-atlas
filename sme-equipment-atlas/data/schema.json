@@ -1,0 +1,1231 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:sme-equipment-atlas:observation:v1",
+  "title": "Equipment Atlas observation contract",
+  "description": "Closed observation contract. See x-atlas-registry-constraints for authoritative metric/unit compatibility in metrics.json. Cross-record, evidence arithmetic and source checks supplement this schema.",
+  "type": "object",
+  "properties": {
+    "observation_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "dataset_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "source_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "entity_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "category_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "reporting_scope_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "metric_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "platform_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]*$"
+    },
+    "value": {
+      "type": "string",
+      "description": "Exact signed decimal, stored as text to preserve reported precision.",
+      "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+    },
+    "upper_value": {
+      "type": "string",
+      "description": "Exact signed decimal, stored as text to preserve reported precision.",
+      "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+    },
+    "relation": {
+      "enum": [
+        "eq",
+        "gt",
+        "ge",
+        "lt",
+        "le",
+        "approx",
+        "approaching",
+        "range"
+      ]
+    },
+    "unit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "period": {
+      "type": "object",
+      "properties": {
+        "start": {
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "type": "string",
+              "format": "date"
+            }
+          ]
+        },
+        "end": {
+          "type": "string",
+          "format": "date"
+        },
+        "kind": {
+          "enum": [
+            "annual",
+            "interim",
+            "quarter",
+            "multi_year",
+            "as_of"
+          ]
+        },
+        "basis": {
+          "enum": [
+            "flow",
+            "stock_change",
+            "period_status",
+            "stock",
+            "cumulative",
+            "as_of"
+          ]
+        }
+      },
+      "required": [
+        "end",
+        "kind",
+        "basis"
+      ],
+      "additionalProperties": false
+    },
+    "dimensions": {
+      "type": "object",
+      "properties": {
+        "geography": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "geography_basis": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "revenue_basis": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "price_basis": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "equipment_condition": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "service_scope": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "tax_basis": {
+          "type": "string",
+          "description": "Required comparison boundary; use an explicit unknown where unavailable.",
+          "minLength": 1
+        },
+        "consolidation_basis": {
+          "type": "string",
+          "description": "Dated consolidation perimeter.",
+          "minLength": 1
+        },
+        "cost_basis": {
+          "type": "string",
+          "description": "Source-native cost accounting basis.",
+          "minLength": 1
+        },
+        "comparative_basis": {
+          "type": "string",
+          "description": "Source-native comparative basis.",
+          "minLength": 1
+        },
+        "business_mix": {
+          "type": "string",
+          "description": "Material business-perimeter qualification.",
+          "minLength": 1
+        },
+        "cost_accounting_basis": {
+          "type": "string",
+          "description": "Cost accounting vintage or classification.",
+          "minLength": 1
+        },
+        "accounting_vintage": {
+          "type": "string",
+          "description": "Original or corrected accounting vintage.",
+          "minLength": 1
+        },
+        "reporting_vintage": {
+          "type": "string",
+          "description": "Disclosure vintage, separate from accounting correction.",
+          "minLength": 1
+        },
+        "counterparty_bucket": {
+          "enum": [
+            "named_not_ranked",
+            "rank_1",
+            "rank_2",
+            "rank_3",
+            "rank_4",
+            "rank_5",
+            "top_five",
+            "top_five_related_parties",
+            "top_four",
+            "top_three"
+          ],
+          "description": "Source-period rank or aggregate; anonymous counterparties are not persistent identities."
+        },
+        "workforce_group": {
+          "enum": [
+            "active_employees",
+            "rd_employees",
+            "employees_receiving_compensation",
+            "retirees_cost_borne"
+          ]
+        },
+        "workforce_breakdown": {
+          "enum": [
+            "age",
+            "business_segment",
+            "education",
+            "employing_entity",
+            "function",
+            "location",
+            "total"
+          ],
+          "description": "The cut a workforce figure partitions by. business_segment is the issuer's own reportable-segment split and is distinct from function, which means job function (sales, R&D, production) and must not be used for a segment."
+        },
+        "workforce_cohort": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Source-native cohort label within the stated population and breakdown."
+        },
+        "process_node": {
+          "$ref": "#/$defs/process_node_fields/properties/process_node"
+        },
+        "process_node_context": {
+          "$ref": "#/$defs/process_node_fields/properties/process_node_context"
+        },
+        "cost_component": {
+          "enum": [
+            "direct_materials",
+            "direct_labor",
+            "manufacturing_overhead",
+            "total",
+            "labor_and_other_expenses",
+            "manufacturing_overhead_and_other",
+            "after_sales_service_expense",
+            "other_expenses"
+          ]
+        },
+        "sales_channel": {
+          "enum": [
+            "direct",
+            "non_direct"
+          ]
+        },
+        "shareholder_table": {
+          "enum": [
+            "top_ten_shareholders",
+            "top_ten_unrestricted_shareholders"
+          ],
+          "description": "Exact issuer disclosure table boundary."
+        },
+        "shareholder_rank": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10,
+          "description": "Row rank in the stated report-date table; period-specific and not persistent identity."
+        },
+        "reported_holder_name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Verbatim displayed shareholder/account holder label; does not assert beneficial ownership or persistent entity identity."
+        },
+        "holding_basis": {
+          "enum": [
+            "total_holding",
+            "restricted_holding",
+            "restricted_including_securities_lending",
+            "unrestricted_holding",
+            "share_class_quantity"
+          ],
+          "description": "Exact source column; equal values in different columns remain non-additive."
+        },
+        "share_class": {
+          "enum": [
+            "not_stated",
+            "rmb_ordinary_share"
+          ],
+          "description": "Share class explicitly stated by the mapped source column; not inferred from adjoining rows."
+        },
+        "wafer_line_size": {
+          "type": "string",
+          "enum": [
+            "8_inch",
+            "12_inch"
+          ],
+          "description": "Source-native wafer size for internal production-line counts; does not establish customer-tool or process-node capability."
+        },
+        "underlying_metric": {
+          "enum": [
+            "order_backlog",
+            "purchase_intentions"
+          ],
+          "description": "Stock measured by a source-reported equipment-stock change or component share; binding backlog and non-binding intentions remain distinct."
+        },
+        "denominator_scope_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Registered reporting scope defining the population denominator of a source-reported equipment-stock share."
+        },
+        "statistic": {
+          "enum": [
+            "mean",
+            "individual"
+          ],
+          "description": "Source-reported mean cohort or individual-machine acceptance duration."
+        },
+        "reported_counterparty_name": {
+          "type": "string",
+          "description": "Counterparty as the source names it, verbatim, including a masked label such as 客户一. Mirrors reported_holder_name. Required when counterparty_bucket is named_not_ranked, which marks a source table that names counterparties without ranking them: a leading column number there is a row index, not a rank, and must never be recorded as one."
+        }
+      },
+      "required": [
+        "geography",
+        "geography_basis",
+        "revenue_basis",
+        "price_basis",
+        "equipment_condition",
+        "service_scope",
+        "tax_basis"
+      ],
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "One-based physical PDF page, not the printed page number."
+        },
+        "original_label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "excerpt": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "enum": [
+            "pending",
+            "source_checked",
+            "rejected"
+          ]
+        },
+        "reviewer": {
+          "enum": [
+            "",
+            "Codex independent verifier",
+            "Terra independent verifier",
+            "claude_extractor_original_page_check",
+            "claude_resweep_independent_verifier",
+            "claude_w13_independent_verifier",
+            "astra_data_wave_2026_10_verifier",
+            "claude_w13_records_verifier",
+            "cmp_expansion_independent_tsv_verifier",
+            "foundation_review_independent_verifier",
+            "foundation_review_original_verifier",
+            "local_evidence + independent_verifier",
+            "mi_verifier_original_first",
+            "pilot_1_source_check",
+            "tsv_expansion_independent_verifier",
+            "wave3_independent_original_verifier"
+          ]
+        },
+        "review_date": {
+          "anyOf": [
+            {
+              "const": ""
+            },
+            {
+              "type": "string",
+              "format": "date"
+            }
+          ]
+        },
+        "independent_corroboration": {
+          "type": "boolean"
+        },
+        "review_notes": {
+          "type": "string"
+        },
+        "printed_page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "qualifier_review": {
+          "type": "object",
+          "properties": {
+            "reviewer": {
+              "enum": [
+                "cmp_expansion_qualifier_verifier"
+              ]
+            },
+            "review_date": {
+              "type": "string",
+              "format": "date"
+            },
+            "exact_quote": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "reviewer",
+            "review_date",
+            "exact_quote"
+          ],
+          "additionalProperties": false
+        },
+        "reported_value": {
+          "type": "string",
+          "description": "Exact signed decimal, stored as text to preserve reported precision.",
+          "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+        },
+        "reported_unit": {
+          "enum": [
+            "100_million_wafer",
+            "CNY",
+            "CNY_100m",
+            "CNY_10k",
+            "CNY_10k_per_person",
+            "CNY_10k_per_system",
+            "CNY_million",
+            "CNY_per_person",
+            "CNY_per_share",
+            "Celsius",
+            "EUR",
+            "EUR_million",
+            "EUR_thousand",
+            "GHz",
+            "Gbps",
+            "HKD",
+            "HKD_100m",
+            "HKD_million",
+            "HKD_thousand",
+            "JPY",
+            "JPY_100m",
+            "JPY_million",
+            "JPY_thousand",
+            "KRW",
+            "KRW_100m",
+            "KRW_million",
+            "KRW_thousand",
+            "MHz",
+            "USD",
+            "USD_10k",
+            "USD_million",
+            "USD_million_per_system",
+            "USD_per_system",
+            "USD_thousand",
+            "ampere",
+            "aspect_ratio",
+            "chamber",
+            "customer",
+            "equipment_model",
+            "inch_wafer",
+            "intellectual_property_item",
+            "micrometre",
+            "millimeter_per_second",
+            "month",
+            "multiple",
+            "nanometre",
+            "ordinary_shareholder",
+            "percent",
+            "percentage_point",
+            "person",
+            "probe_card",
+            "probe_pin_10k_per_month",
+            "probe_pin_per_month",
+            "process",
+            "production_line",
+            "reaction_station",
+            "reactor",
+            "sample_group",
+            "selectivity_ratio",
+            "share",
+            "square_meter_10k",
+            "system",
+            "system_10k",
+            "system_per_year",
+            "test_site",
+            "wafer_manufacturer_or_fab",
+            "wafer_pass",
+            "wafer_pass_10k",
+            "wafer_per_batch",
+            "wafer_per_hour",
+            "wafer_per_month",
+            "wafer_per_month_10k",
+            "wafer_processing_quantity_10k",
+            "way",
+            "year"
+          ]
+        },
+        "reported_upper_value": {
+          "type": "string",
+          "description": "Exact signed decimal, stored as text to preserve reported precision.",
+          "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+        },
+        "conversion": {
+          "type": "object",
+          "properties": {
+            "operation": {
+              "const": "multiply"
+            },
+            "factor": {
+              "type": "string",
+              "description": "Exact signed decimal, stored as text to preserve reported precision.",
+              "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+            },
+            "sign_basis": {
+              "enum": [
+                "source_reported_decrease",
+                "source_reported_loss"
+              ],
+              "description": "Explicit source wording authorizing a sign conversion: a reported decrease or loss. Each requires its own signed-metric opt-in and matching positive native magnitude; semantic source review remains necessary."
+            }
+          },
+          "required": [
+            "operation",
+            "factor"
+          ],
+          "additionalProperties": false
+        },
+        "page_wrapped_fragments": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 4,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 40
+          },
+          "description": "Ordered on-page fragments of a value the source itself line-wraps inside a narrow table cell. Declared so the physical-page check can verify a value that no flat text extraction returns contiguously. Concatenating the fragments must reproduce the thousands-separated reported value exactly; each fragment must appear on the cited page, in this order. Never a substitute for citing the page that prints the value."
+        },
+        "page_compound_scaled_parts": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 4,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "value",
+              "unit"
+            ],
+            "properties": {
+              "value": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40
+              },
+              "unit": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40
+              }
+            }
+          },
+          "description": "Ordered parts of a value the source prints as a compound of differently scaled units with the unit words between the digits, as Japanese filings do in 4,428億24百万円. Declared so the physical-page check can verify a value no flat extraction returns as one token. Every part's unit must share a base unit with reported_unit; the parts must sum to the reported value exactly once each is scaled; and each part's digits must appear on the cited page, in this order. Never a substitute for citing a page that prints the value whole, and never a way to combine figures from two places."
+        }
+      },
+      "required": [
+        "page",
+        "original_label",
+        "excerpt",
+        "status",
+        "reviewer",
+        "review_date",
+        "independent_corroboration",
+        "reported_value",
+        "reported_unit"
+      ],
+      "additionalProperties": false
+    },
+    "claim_kind": {
+      "enum": [
+        "company_reported",
+        "analyst_estimate",
+        "reported_market_statistic"
+      ]
+    },
+    "precision": {
+      "enum": [
+        "approximate",
+        "as_reported",
+        "as_reported_rounded",
+        "bounded_as_reported",
+        "reported",
+        "reported_lower_bound",
+        "reported_plan",
+        "rounded"
+      ]
+    },
+    "revision_of": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]*$"
+    },
+    "reporting_basis": {
+      "enum": [
+        "adjusted_comparative",
+        "comparative",
+        "comparative_in_h1_2026_original",
+        "conditional_plan_in_h1_narrative_date_anchor_inferred",
+        "current",
+        "current_period",
+        "h1_narrative_period_end_anchor_inferred",
+        "original",
+        "prior_year_comparative",
+        "restated",
+        "source_reported_comparative",
+        "source_reported_restated_comparative"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    },
+    "market_definition_id": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9_-]+$"
+    },
+    "date_basis": {
+      "enum": [
+        "inferred_from_reporting_period",
+        "source_document_signature_date"
+      ]
+    },
+    "conversion_audit": {
+      "type": "object",
+      "properties": {
+        "native_value": {
+          "type": "string",
+          "description": "Exact signed decimal, stored as text to preserve reported precision.",
+          "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+        },
+        "native_unit": {
+          "enum": [
+            "万元"
+          ]
+        },
+        "conversion_factor_to_CNY": {
+          "type": "string",
+          "description": "Exact signed decimal, stored as text to preserve reported precision.",
+          "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+        },
+        "converted_value_CNY": {
+          "type": "string",
+          "description": "Exact signed decimal, stored as text to preserve reported precision.",
+          "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?$"
+        }
+      },
+      "required": [
+        "native_value",
+        "native_unit",
+        "conversion_factor_to_CNY",
+        "converted_value_CNY"
+      ],
+      "additionalProperties": false,
+      "description": "Existing exact CNY conversion audit; validator checks native value × 10000 against both result fields. Not independent corroboration."
+    },
+    "intake": {
+      "type": "object",
+      "properties": {
+        "csv_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "mapping_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "csv_line": {
+          "type": "integer",
+          "minimum": 2
+        }
+      },
+      "required": [
+        "csv_sha256",
+        "mapping_sha256",
+        "csv_line"
+      ],
+      "additionalProperties": false
+    },
+    "coincident_value": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "counterpart_observation_id",
+        "basis"
+      ],
+      "properties": {
+        "counterpart_observation_id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]+$",
+          "description": "The other observation this value coincides with."
+        },
+        "basis": {
+          "enum": [
+            "same_fact_restated",
+            "distinct_fact_equal_value"
+          ],
+          "description": "same_fact_restated: one fact the filing prints in two places. An aggregation counts the counterpart and drops THIS row. distinct_fact_equal_value: separate disclosures whose values happen to be equal, such as a total that equals its only component. An aggregation keeps both; the link records that the coincidence was reviewed and is not a duplicate."
+        }
+      },
+      "description": "Declared on a row that shares entity, metric, unit, value and period with another row of the same source. The dimensions alone cannot distinguish a restatement from a coincidence, so the judgement is recorded explicitly and the duplicates report treats the pair as resolved."
+    }
+  },
+  "required": [
+    "observation_id",
+    "dataset_id",
+    "source_id",
+    "entity_id",
+    "category_id",
+    "reporting_scope_id",
+    "metric_id",
+    "platform_id",
+    "value",
+    "relation",
+    "unit",
+    "period",
+    "dimensions",
+    "evidence",
+    "claim_kind",
+    "precision",
+    "revision_of",
+    "reporting_basis",
+    "notes"
+  ],
+  "additionalProperties": false,
+  "x-atlas-registry-constraints": [
+    {
+      "field": "unit",
+      "registry": "metrics",
+      "lookup_field": "metric_id",
+      "allowed_values_field": "units"
+    },
+    {
+      "field": "period.basis",
+      "registry": "metrics",
+      "lookup_field": "metric_id",
+      "allowed_values_field": "time_bases"
+    }
+  ],
+  "x-atlas-units": {
+    "100_million_wafer": {
+      "base_unit": "wafer_processing_quantity",
+      "scale": "100000000"
+    },
+    "CNY": {
+      "base_unit": "CNY",
+      "scale": "1"
+    },
+    "CNY_100m": {
+      "base_unit": "CNY",
+      "scale": "100000000"
+    },
+    "CNY_10k": {
+      "base_unit": "CNY",
+      "scale": "10000"
+    },
+    "CNY_10k_per_person": {
+      "base_unit": "CNY_per_person",
+      "scale": "10000"
+    },
+    "CNY_10k_per_system": {
+      "base_unit": "CNY_per_system",
+      "scale": "10000"
+    },
+    "CNY_million": {
+      "base_unit": "CNY",
+      "scale": "1000000"
+    },
+    "CNY_per_person": {
+      "base_unit": "CNY_per_person",
+      "scale": "1"
+    },
+    "CNY_per_share": {
+      "base_unit": "CNY_per_share",
+      "scale": "1"
+    },
+    "Celsius": {
+      "base_unit": "Celsius",
+      "scale": "1"
+    },
+    "EUR": {
+      "base_unit": "EUR",
+      "scale": "1"
+    },
+    "EUR_million": {
+      "base_unit": "EUR",
+      "scale": "1000000"
+    },
+    "EUR_thousand": {
+      "base_unit": "EUR",
+      "scale": "1000"
+    },
+    "GHz": {
+      "base_unit": "GHz",
+      "scale": "1"
+    },
+    "Gbps": {
+      "base_unit": "Gbps",
+      "scale": "1"
+    },
+    "HKD": {
+      "base_unit": "HKD",
+      "scale": "1"
+    },
+    "HKD_100m": {
+      "base_unit": "HKD",
+      "scale": "100000000"
+    },
+    "HKD_million": {
+      "base_unit": "HKD",
+      "scale": "1000000"
+    },
+    "HKD_thousand": {
+      "base_unit": "HKD",
+      "scale": "1000"
+    },
+    "JPY": {
+      "base_unit": "JPY",
+      "scale": "1"
+    },
+    "JPY_100m": {
+      "base_unit": "JPY",
+      "scale": "100000000"
+    },
+    "JPY_million": {
+      "base_unit": "JPY",
+      "scale": "1000000"
+    },
+    "JPY_thousand": {
+      "base_unit": "JPY",
+      "scale": "1000"
+    },
+    "KRW": {
+      "base_unit": "KRW",
+      "scale": "1"
+    },
+    "KRW_100m": {
+      "base_unit": "KRW",
+      "scale": "100000000"
+    },
+    "KRW_million": {
+      "base_unit": "KRW",
+      "scale": "1000000"
+    },
+    "KRW_thousand": {
+      "base_unit": "KRW",
+      "scale": "1000"
+    },
+    "MHz": {
+      "base_unit": "GHz",
+      "scale": "0.001"
+    },
+    "USD": {
+      "base_unit": "USD",
+      "scale": "1"
+    },
+    "USD_10k": {
+      "base_unit": "USD",
+      "scale": "10000"
+    },
+    "USD_million": {
+      "base_unit": "USD",
+      "scale": "1000000"
+    },
+    "USD_million_per_system": {
+      "base_unit": "USD_per_system",
+      "scale": "1000000"
+    },
+    "USD_per_system": {
+      "base_unit": "USD_per_system",
+      "scale": "1"
+    },
+    "USD_thousand": {
+      "base_unit": "USD",
+      "scale": "1000"
+    },
+    "ampere": {
+      "base_unit": "ampere",
+      "scale": "1"
+    },
+    "aspect_ratio": {
+      "base_unit": "aspect_ratio",
+      "scale": "1"
+    },
+    "chamber": {
+      "base_unit": "chamber",
+      "scale": "1"
+    },
+    "customer": {
+      "base_unit": "customer",
+      "scale": "1"
+    },
+    "equipment_model": {
+      "base_unit": "equipment_model",
+      "scale": "1"
+    },
+    "inch_wafer": {
+      "base_unit": "inch_wafer",
+      "scale": "1"
+    },
+    "intellectual_property_item": {
+      "base_unit": "intellectual_property_item",
+      "scale": "1"
+    },
+    "micrometre": {
+      "base_unit": "micrometre",
+      "scale": "1"
+    },
+    "millimeter_per_second": {
+      "base_unit": "millimeter_per_second",
+      "scale": "1"
+    },
+    "month": {
+      "base_unit": "month",
+      "scale": "1"
+    },
+    "multiple": {
+      "base_unit": "multiple",
+      "scale": "1"
+    },
+    "nanometre": {
+      "base_unit": "nanometre",
+      "scale": "1"
+    },
+    "ordinary_shareholder": {
+      "base_unit": "ordinary_shareholder",
+      "scale": "1"
+    },
+    "percent": {
+      "base_unit": "percent",
+      "scale": "1"
+    },
+    "percentage_point": {
+      "base_unit": "percentage_point",
+      "scale": "1"
+    },
+    "person": {
+      "base_unit": "person",
+      "scale": "1"
+    },
+    "probe_card": {
+      "base_unit": "probe_card",
+      "scale": "1"
+    },
+    "probe_pin_10k_per_month": {
+      "base_unit": "probe_pin_per_month",
+      "scale": "10000"
+    },
+    "probe_pin_per_month": {
+      "base_unit": "probe_pin_per_month",
+      "scale": "1"
+    },
+    "process": {
+      "base_unit": "process",
+      "scale": "1"
+    },
+    "production_line": {
+      "base_unit": "production_line",
+      "scale": "1"
+    },
+    "reaction_station": {
+      "base_unit": "reaction_station",
+      "scale": "1"
+    },
+    "reactor": {
+      "base_unit": "reactor",
+      "scale": "1"
+    },
+    "sample_group": {
+      "base_unit": "sample_group",
+      "scale": "1"
+    },
+    "selectivity_ratio": {
+      "base_unit": "selectivity_ratio",
+      "scale": "1"
+    },
+    "share": {
+      "base_unit": "share",
+      "scale": "1"
+    },
+    "square_meter_10k": {
+      "base_unit": "square_meter",
+      "scale": "10000"
+    },
+    "system": {
+      "base_unit": "system",
+      "scale": "1"
+    },
+    "system_10k": {
+      "base_unit": "system",
+      "scale": "10000"
+    },
+    "system_per_year": {
+      "base_unit": "system_per_year",
+      "scale": "1"
+    },
+    "test_site": {
+      "base_unit": "test_site",
+      "scale": "1"
+    },
+    "wafer_manufacturer_or_fab": {
+      "base_unit": "wafer_manufacturer_or_fab",
+      "scale": "1"
+    },
+    "wafer_pass": {
+      "base_unit": "wafer_pass",
+      "scale": "1"
+    },
+    "wafer_pass_10k": {
+      "base_unit": "wafer_pass",
+      "scale": "10000"
+    },
+    "wafer_per_batch": {
+      "base_unit": "wafer_per_batch",
+      "scale": "1"
+    },
+    "wafer_per_hour": {
+      "base_unit": "wafer_per_hour",
+      "scale": "1"
+    },
+    "wafer_per_month": {
+      "base_unit": "wafer_per_month",
+      "scale": "1"
+    },
+    "wafer_per_month_10k": {
+      "base_unit": "wafer_per_month",
+      "scale": "10000"
+    },
+    "wafer_processing_quantity_10k": {
+      "base_unit": "wafer_processing_quantity",
+      "scale": "10000"
+    },
+    "way": {
+      "base_unit": "way",
+      "scale": "1"
+    },
+    "year": {
+      "base_unit": "year",
+      "scale": "1"
+    }
+  },
+  "x-atlas-registries": {
+    "entities": {
+      "id_fields": [
+        "entity_id"
+      ],
+      "storage": "entity_partitions",
+      "entity_field": "entity_id",
+      "ownership": "entity_field"
+    },
+    "datasets": {
+      "id_fields": [
+        "dataset_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "publisher"
+    },
+    "sources": {
+      "id_fields": [
+        "source_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "dataset_publisher"
+    },
+    "platforms": {
+      "id_fields": [
+        "platform_id"
+      ],
+      "storage": "entity_partitions",
+      "entity_field": "entity_id",
+      "ownership": "entity_field"
+    },
+    "reporting_scopes": {
+      "id_fields": [
+        "reporting_scope_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "scope_users"
+    },
+    "series": {
+      "id_fields": [
+        "series_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "observation_entities"
+    },
+    "coverage": {
+      "id_fields": [
+        "coverage_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "reviewed_source_publishers"
+    },
+    "application_links": {
+      "id_fields": [
+        "link_id"
+      ],
+      "storage": "entity_partitions",
+      "entity_field": "entity_id",
+      "ownership": "entity_field"
+    },
+    "coverage_targets": {
+      "id_fields": [
+        "target_id"
+      ],
+      "storage": "entity_partitions",
+      "entity_field": "entity_id",
+      "ownership": "entity_field"
+    },
+    "unresolved_claims": {
+      "id_fields": [
+        "claim_id",
+        "candidate_id"
+      ],
+      "storage": "entity_partitions",
+      "ownership": "claim_source_publishers"
+    },
+    "categories": {
+      "id_fields": [
+        "category_id"
+      ],
+      "storage": "single"
+    },
+    "metrics": {
+      "id_fields": [
+        "metric_id"
+      ],
+      "storage": "single"
+    },
+    "applications": {
+      "id_fields": [
+        "application_id"
+      ],
+      "storage": "single"
+    },
+    "reconciliations": {
+      "id_fields": [
+        "reconciliation_id"
+      ],
+      "storage": "single"
+    },
+    "research_tasks": {
+      "id_fields": [
+        "task_id"
+      ],
+      "storage": "single"
+    },
+    "retrieval_cases": {
+      "id_fields": [
+        "case_id"
+      ],
+      "storage": "single"
+    },
+    "observations": {
+      "id_fields": [
+        "observation_id"
+      ],
+      "storage": "chunks"
+    }
+  },
+  "x-atlas-metric-dimensions": {
+    "registry": "metrics",
+    "lookup_field": "metric_id",
+    "schema_field": "dimension_schema",
+    "value_field": "dimensions"
+  },
+  "$defs": {
+    "process_node_fields": {
+      "type": "object",
+      "properties": {
+        "process_node": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Exact source-native numerical/named node expression including bounds and exclusions; never infer from advanced-process prose."
+        },
+        "process_node_context": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Exact source-native device/process context, or not_stated when absent."
+        }
+      },
+      "required": [
+        "process_node",
+        "process_node_context"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "x-atlas-node-claims": {
+    "fields_schema": "#/$defs/process_node_fields",
+    "observation_location": "dimensions",
+    "platform_locations": [
+      "evidence",
+      "maturity_history"
+    ],
+    "numeric_scope_rule": "A node on a numeric observation must qualify that measurement, not adjacent capability prose.",
+    "measurement_scope_field": "node_scope"
+  },
+  "x-atlas-percent-semantics": {
+    "metric_field": "percent_semantics",
+    "unit": "percent",
+    "default_maximum": "100",
+    "unbounded_values": [
+      "relative_change",
+      "unbounded_ratio"
+    ]
+  },
+  "x-atlas-source-decrease": {
+    "metric_flag": "allow_source_decrease"
+  },
+  "x-atlas-source-loss": {
+    "metric_flag": "allow_source_loss"
+  },
+  "x-atlas-platform-maturity-date": {
+    "legacy_default": "legacy_unspecified",
+    "allowed_bases": [
+      "legacy_unspecified",
+      "source_stated_date",
+      "source_report_context"
+    ],
+    "undated_basis": "source_report_context",
+    "description": "Report-context history retains source_id and empty as_of; no event date is inferred. Existing dated records without date_basis retain legacy interpretation, not retroactive source-date verification."
+  }
+}

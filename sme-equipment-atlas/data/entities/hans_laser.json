@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "hans_laser",
+    "name": "Han's Laser",
+    "aliases": [
+      "大族激光科技产业集团股份有限公司",
+      "大族激光",
+      "Han's Laser Technology Industry Group Co., Ltd",
+      "002008"
+    ],
+    "evidence": {
+      "source_id": "hans_laser_annual_2025",
+      "page": 5,
+      "excerpt": "股票简称           大族激光                           股票代码                           002008\n股票上市证券交易所      深圳证券交易所\n公司的中文名称        大族激光科技产业集团股份有限公司\n公司的中文简称        大族激光\n公司的外文名称（如有）    Han's Laser Technology Industry Group Co., Ltd\n公司的外文名称缩写（如\n               Han's Laser\n有）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "Issuer legal identity and Shenzhen listing as disclosed on physical p5. Broad group spans many non-semiconductor businesses; semiconductor including pan-semiconductor scope does not establish wafer-fab, HBM or dicing-only revenue.",
+    "entity_class": "china_supply_base"
+  }
+]

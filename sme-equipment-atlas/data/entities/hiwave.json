@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "hiwave",
+    "name": "Hiwave Precision Instrument",
+    "aliases": [
+      "上海和伍精密仪器股份有限公司",
+      "和伍精密",
+      "Shanghai Hiwave Precision Instrument Co.,Ltd",
+      "837263"
+    ],
+    "evidence": {
+      "source_id": "hiwave_2025",
+      "page": 5,
+      "excerpt": "公司中文全称        上海和伍精密仪器股份有限公司\n股票交易场所        全国中小企业股份转让系统\n证券简称          和伍精密                           证券代码            837263",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "FY2025 annual report p5 states NEEQ basic-layer quotation; not an A-share listing or current trading-status claim. Issuer company website is ihisonic.com. Ultrasonic inspection serves semiconductor and other industries; do not infer HBM qualification or allocate company sales to semiconductor uses. Parent is not separately registered.",
+    "entity_class": "china_supply_base"
+  }
+]

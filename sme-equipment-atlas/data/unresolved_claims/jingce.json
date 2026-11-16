@@ -1,0 +1,445 @@
+[
+  {
+    "claim": "Jingce semiconductor revenue as metrology or inspection revenue",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "pages_reviewed": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      28
+    ],
+    "reason": "The issuer's broad semiconductor segment includes front-end metrology/inspection, back-end ATE/test and related semiconductor activities. No product-category revenue allocation was disclosed.",
+    "claim_id": "wave3-jingce-1"
+  },
+  {
+    "claim": "Shanghai Jingce revenue as group semiconductor revenue or pure front-end metrology revenue",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "pages_reviewed": [
+      42,
+      42,
+      41
+    ],
+    "reason": "The major-subsidiary tables report a legal-entity scope. It overlaps the consolidated group and its business description is broader than a pure metrology category.",
+    "claim_id": "wave3-jingce-2"
+  },
+  {
+    "claim": "2024 semiconductor gross-margin YoY reconciliation",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024"
+    ],
+    "pages_reviewed": [
+      24,
+      26
+    ],
+    "reason": "FY2023 original p24 reports semiconductor cost186,095,759.45 CNY and margin52.83%; FY2024 original p26 reports cost416,593,593.86 CNY and margin45.75% with -6.18pp change. The reported YoY comparison conflicts with those prior-original levels; hold reconciliation only, not independently reported annual cost/margin levels. FY2025 p28 cost663,561,069.63 CNY and margin49.65% also independently usable.",
+    "claim_id": "wave3-jingce-3",
+    "follow_up": "Six annual reported cost/margin levels integrated by lightweight pilot; YoY comparison reconciliation remains unresolved."
+  },
+  {
+    "claim": "FY2025 front-end share as market share",
+    "source_ids": [
+      "jingce_annual_2025"
+    ],
+    "pages_reviewed": [
+      23,
+      24
+    ],
+    "reason": "FY2025 p23 says front-end accounts for more than90% of both semiconductor revenue and orders. This is internal business mix, not market share, and can be represented as separate bounded internal-share observations if in scope; no exact share or external market denominator is established.",
+    "claim_id": "wave3-jingce-4"
+  },
+  {
+    "claim": "Platform-level revenue, annual shipments, accepted systems or installed base",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "pages_reviewed": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "reason": "Reviewed product sections give qualitative order/validation stages and FY2025 cumulative shipment lower bounds, but no platform-level revenue, annual tool count, retirement-adjusted installed base or exact cumulative counts.",
+    "claim_id": "wave3-jingce-5"
+  },
+  {
+    "claim": "Darkfield platform quantitative observation",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "pages_reviewed": [
+      22,
+      23,
+      25
+    ],
+    "reason": "Reports provide development/delivery maturity wording but no exact or bounded quantitative shipment/revenue figure within the assigned metrics.",
+    "claim_id": "wave3-jingce-6"
+  },
+  {
+    "claim_id": "jingce-narrative-2023-bfi-first-delivery-acceptance-order",
+    "claim": "Named platform identity for earlier brightfield family milestone",
+    "source_id": "jingce_annual_2023",
+    "page": 22,
+    "excerpt": "明场光学缺陷检测设备已完成首台套交付及验收，且已取得更先进制程订单",
+    "reason": "Physical p22 supports the stated brightfield equipment-family milestone: first-set delivery and acceptance, plus orders for more advanced process nodes. It does not name BFI or otherwise establish identity with jingce_bfi_brightfield. Hold the platform mapping; retain only as an unnamed category-level audit claim.",
+    "follow_up": "Milestone now recorded against source-native unnamed brightfield family. Mapping to named BFI remains unresolved."
+  },
+  {
+    "claim_id": "jingce-narrative-2024-bfi-formal-orders-delivery",
+    "claim": "Named platform identity for earlier brightfield family milestone",
+    "source_id": "jingce_annual_2024",
+    "page": 23,
+    "excerpt": "明场光学缺陷检测设备已取得多台正式订单，其中先进制程明场缺陷检测设备报告期内已正式交付客户",
+    "reason": "Physical p23 supports multiple formal orders for the brightfield equipment family and formal delivery of an advanced-process unit during the reporting period. It does not name BFI or state acceptance. Hold the unsupported BFI platform mapping; retain only as an unnamed category-level audit claim.",
+    "follow_up": "Milestone now recorded against source-native unnamed brightfield family. Mapping to named BFI remains unresolved."
+  },
+  {
+    "claim_id": "jingce-narrative-2025-bfi-28nm-acceptance-14nm-delivery",
+    "claim": "Duplicate of existing source-checked BFI milestone",
+    "source_id": "jingce_annual_2025",
+    "page": 24,
+    "excerpt": "BFI 系列明场光学缺陷检测设备……该系列产品累计出货超 7 台套。最新进展方面，产品已完成 28nm 制程产线的验收和 14nm 制程产线的交付（14nm 制程产线目前验收等相关工作进展顺利）",
+    "reason": "Physical p24 supports the candidate wording and BFI identity, including >7 cumulative shipments, 28nm-line acceptance, 14nm-line delivery, and 14nm acceptance work still progressing. The same source-checked BFI maturity history already exists in the registry, so this is not an integration target for this batch.",
+    "resolution_status": "excluded_duplicate",
+    "resolution": "Existing BFI history already records this passage; prior identity-question label was an integrator error."
+  },
+  {
+    "claim_id": "jingce_2025_advanced_packaging_hubei_xingchen_stage",
+    "claim": "Narrative extraction omission awaiting structured intake",
+    "source_id": "jingce_annual_2025",
+    "page": 25,
+    "excerpt": "湖北星辰已建成国内领先的 12 英寸集成电路先进封装研发线，核心工艺已全面贯通，正在进行客户导入与小批量生产。湖北星辰已启动量产产线建设。",
+    "reason": "In scope and directly stated, but not proposed. It is a company assertion about Hubei Xingchen's line and must not be recast as named Jingce-platform acceptance or HBM deployment.",
+    "next_action": "Source passage located by verifier. Structure as category/entity-level evidence; do not infer a named platform or HBM application.",
+    "resolution_status": "resolved_contextual_routing",
+    "resolution": "Source-checked contextual line-status record in docs/reviews/archive/2026-09-22_sol_narrative_context.json; deliberately excluded from equipment platform totals."
+  },
+  {
+    "claim_id": "jingce_2025_wafer_appearance_inspection_packaging_stage",
+    "claim": "Narrative extraction omission awaiting structured intake",
+    "source_id": "jingce_annual_2025",
+    "page": 26,
+    "excerpt": "公司晶圆外观检测设备主要专注于 CMOS 图像传感器、AR/VR、Logic、MEMS、Memory、RF、Power、FOWLP、WLCSP、Bumping、Chiplet 等先进封装工艺的有图形硅晶圆和无图像玻璃晶圆检测，已完成小批量出货，目前正在积极开发面向先进制程的 3D 量测，并与国内头部客户进行紧密验证测试。",
+    "reason": "In scope and directly stated, but not proposed. It is a general equipment-category claim; Memory is one item in a list and does not establish HBM linkage, a named platform, acceptance, or production use.",
+    "next_action": "Source passage located by verifier. Structure as category/entity-level evidence; do not infer a named platform or HBM application.",
+    "resolution_status": "resolved_extraction_omission",
+    "resolution": "Reviewed source-native family history and advanced-packaging capability link integrated in Sol narrative follow-up."
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-product_family_definitions",
+    "claim": "Remaining source-native mapping and identity limits: product_family_definitions",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Named catalogues, model and project families have canonical source-vintage histories. Generic source-native families are not distinct model counts; uncertain cross-report identities remain held. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Preserve held model/family identities; reopen only when another original resolves the identity or a new registered source appears.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-RD-02",
+      "JINGCE-HOLD-JC2023-RD-03",
+      "JINGCE-HOLD-JC2023-RD-04",
+      "JINGCE-HOLD-JC2023-RD-05",
+      "JINGCE-HOLD-JC2023-RD-06",
+      "JINGCE-HOLD-JC2023-RD-14",
+      "JINGCE-HOLD-JC2023-RD-16",
+      "JINGCE-HOLD-JC2023-RD-17",
+      "JINGCE-HOLD-JC2023-RD-18",
+      "JINGCE-HOLD-JC2023-RD-19",
+      "JINGCE-HOLD-JC2023-ROSTER-12",
+      "JINGCE-HOLD-JC2023-ROSTER-13",
+      "JINGCE-HOLD-JC2024-RD-03",
+      "JINGCE-HOLD-JC2024-RD-04",
+      "JINGCE-HOLD-JC2024-RD-05",
+      "JINGCE-HOLD-JC2024-RD-06",
+      "JINGCE-HOLD-JC2024-RD-07",
+      "JINGCE-HOLD-JC2024-RD-08",
+      "JINGCE-HOLD-JC2024-RD-18",
+      "JINGCE-HOLD-JC2024-RD-19",
+      "JINGCE-HOLD-JC2024-RD-20",
+      "JINGCE-HOLD-JC2024-RD-21",
+      "JINGCE-HOLD-JC2024-ROSTER-09",
+      "JINGCE-HOLD-JC2024-ROSTER-12",
+      "JINGCE-HOLD-JC2024-ROSTER-13",
+      "JINGCE-HOLD-JC2024-ROSTER-14",
+      "JINGCE-HOLD-JC2024-ROSTER-15",
+      "JINGCE-HOLD-JC2025-RD-01",
+      "JINGCE-HOLD-JC2025-RD-03",
+      "JINGCE-HOLD-JC2025-RD-04",
+      "JINGCE-HOLD-JC2025-RD-05",
+      "JINGCE-HOLD-JC2025-RD-18",
+      "JINGCE-HOLD-JC2025-RD-19",
+      "JINGCE-HOLD-JC2025-ROSTER-34",
+      "JINGCE-HOLD-JC2025-ROSTER-35",
+      "JINGCE-HOLD-JC2025-ROSTER-36",
+      "JH5800_vs_JH5520",
+      "2D_vs_2_5D_MEMS",
+      "FY2024_7nm_other_products",
+      "FY2023_1xnm_core_products",
+      "FY2025_advanced_order_mix",
+      "FY2025_CP_MicroLED_and_mixed_shipments",
+      "FY2025_EFILM_below_7nm",
+      "FY2023_e_beam_1Xnm",
+      "FIB_SEM_named_vs_operating",
+      "AOI_mixed_RD_identity",
+      "Hubei_Xingchen_12inch_investee",
+      "battery_equipment_taxonomy_2023",
+      "battery_equipment_taxonomy_2024",
+      "battery_equipment_taxonomy_2025"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-cumulative_shipments_installations",
+    "claim": "Remaining source-native mapping and identity limits: cumulative_shipments_installations",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "FY2025 p24 cumulative equipment shipments are already canonical. FY2023/24 first deliveries, repeat orders and project stages remain qualitative; units 台套 are not chamber counts or installed-line counts. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Retain source-defined 台套 and first-delivery wording; do not treat purchase orders as installations.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-RD-02",
+      "JINGCE-HOLD-JC2023-RD-04",
+      "JINGCE-HOLD-JC2023-RD-16",
+      "JINGCE-HOLD-JC2023-RD-17",
+      "JINGCE-HOLD-JC2023-RD-18",
+      "JINGCE-HOLD-JC2023-RD-19",
+      "JINGCE-HOLD-JC2024-QUAL-001",
+      "JINGCE-HOLD-JC2024-RD-04",
+      "JINGCE-HOLD-JC2024-RD-05",
+      "JINGCE-HOLD-JC2024-RD-18",
+      "JINGCE-HOLD-JC2024-RD-19",
+      "JINGCE-HOLD-JC2024-RD-20",
+      "JINGCE-HOLD-JC2024-RD-21",
+      "JINGCE-HOLD-JC2025-QUAL-010",
+      "JINGCE-HOLD-JC2025-QUAL-011",
+      "JINGCE-HOLD-JC2025-QUAL-013"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-sibling_product_sales_production_inventory",
+    "claim": "Remaining source-native mapping and identity limits: sibling_product_sales_production_inventory",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "All 435 populated monetary sales/cost/margin/share/growth table cells resolve to 366 accepted observations plus 69 exact aliases. The separate physical production/sales/inventory grids use mixed 台、套、片 and remain held; no unit conversion or zero is inferred. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Resolve each mixed 台、套、片 physical grid row's homogeneous population before any physical-volume observation; monetary cells are complete.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-VOLUME-production-1",
+      "JINGCE-HOLD-JC2023-VOLUME-production-2",
+      "JINGCE-HOLD-JC2023-VOLUME-production-3",
+      "JINGCE-HOLD-JC2023-VOLUME-sales-1",
+      "JINGCE-HOLD-JC2023-VOLUME-sales-2",
+      "JINGCE-HOLD-JC2023-VOLUME-sales-3",
+      "JINGCE-HOLD-JC2024-VOLUME-production-1",
+      "JINGCE-HOLD-JC2024-VOLUME-production-2",
+      "JINGCE-HOLD-JC2024-VOLUME-production-3",
+      "JINGCE-HOLD-JC2024-VOLUME-sales-1",
+      "JINGCE-HOLD-JC2024-VOLUME-sales-2",
+      "JINGCE-HOLD-JC2024-VOLUME-sales-3",
+      "JINGCE-HOLD-JC2025-VOLUME-production-1",
+      "JINGCE-HOLD-JC2025-VOLUME-production-2",
+      "JINGCE-HOLD-JC2025-VOLUME-production-3",
+      "JINGCE-HOLD-JC2025-VOLUME-sales-1",
+      "JINGCE-HOLD-JC2025-VOLUME-sales-2",
+      "JINGCE-HOLD-JC2025-VOLUME-sales-3"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-orders_backlog",
+    "claim": "Remaining source-native mapping and identity limits: orders_backlog",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Backlog and signed-contract disclosures have source-exact canonical records. Disclosure-date backlog is not annual revenue; signed contracts are not necessarily backlog. The USD 19,890,000 contract is held for exact time/scope and same-economic-event review against the approximate CNY counterpart, not because USD cannot be a monetary observation. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Retain period-specific anonymous ranks and remaining identity/scope limits; do not sum the two currency presentations of one contract.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-CONTRACT-05",
+      "JINGCE-HOLD-JC2024-QUAL-005"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json",
+    "resolution_status": "partially_resolved_numeric_mapping",
+    "resolution": "39 ranked customer table cells and the native USD contract amount integrated in docs/reviews/archive/2026-09-23_jingce_customer_contract.json. Named-versus-anonymous identity limits and other source-native scope holds remain. USD/CNY presentations describe one contract and are nonadditive."
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-customer_counts_names",
+    "claim": "Remaining source-native mapping and identity limits: customer_counts_names",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Named semiconductor/display/battery relationships are accepted original-located source-native company claims. Anonymous top-five rank is not a stable named identity, but each annual table's 13 amounts/shares is valid numeric evidence pending separate mapping. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Retain period-specific anonymous ranks and remaining identity/scope limits; do not sum the two currency presentations of one contract.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-QUAL-009",
+      "JINGCE-HOLD-JC2023-QUAL-010",
+      "JINGCE-HOLD-JC2023-QUAL-013",
+      "JINGCE-HOLD-JC2024-QUAL-006",
+      "JINGCE-HOLD-JC2024-QUAL-007",
+      "JINGCE-HOLD-JC2024-QUAL-010",
+      "JINGCE-HOLD-JC2025-QUAL-016",
+      "JINGCE-HOLD-JC2025-QUAL-018",
+      "JINGCE-HOLD-JC2025-QUAL-019",
+      "JINGCE-HOLD-CUSTOMER-NUMERICS-2023",
+      "JINGCE-HOLD-CUSTOMER-NUMERICS-2024",
+      "JINGCE-HOLD-CUSTOMER-NUMERICS-2025"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json",
+    "resolution_status": "partially_resolved_numeric_mapping",
+    "resolution": "39 ranked customer table cells and the native USD contract amount integrated in docs/reviews/archive/2026-09-23_jingce_customer_contract.json. Named-versus-anonymous identity limits and other source-native scope holds remain. USD/CNY presentations describe one contract and are nonadditive."
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-qualification_validation",
+    "claim": "Remaining source-native mapping and identity limits: qualification_validation",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Accepted source-vintage platform histories retain client testing, validation, delivery and mass-production wording at the stated group/model level. Identity and scope holds remain explicit. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Reopen held project/model stage assignments only with source-specific identity proof; preserve historical vintages.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-RD-02",
+      "JINGCE-HOLD-JC2023-RD-03",
+      "JINGCE-HOLD-JC2023-RD-04",
+      "JINGCE-HOLD-JC2023-RD-05",
+      "JINGCE-HOLD-JC2023-RD-06",
+      "JINGCE-HOLD-JC2023-RD-14",
+      "JINGCE-HOLD-JC2023-RD-16",
+      "JINGCE-HOLD-JC2023-RD-17",
+      "JINGCE-HOLD-JC2023-RD-18",
+      "JINGCE-HOLD-JC2023-RD-19",
+      "JINGCE-HOLD-JC2024-QUAL-001",
+      "JINGCE-HOLD-JC2024-RD-03",
+      "JINGCE-HOLD-JC2024-RD-04",
+      "JINGCE-HOLD-JC2024-RD-05",
+      "JINGCE-HOLD-JC2024-RD-06",
+      "JINGCE-HOLD-JC2024-RD-07",
+      "JINGCE-HOLD-JC2024-RD-08",
+      "JINGCE-HOLD-JC2024-RD-18",
+      "JINGCE-HOLD-JC2024-RD-19",
+      "JINGCE-HOLD-JC2024-RD-20",
+      "JINGCE-HOLD-JC2024-RD-21",
+      "JINGCE-HOLD-JC2025-QUAL-010",
+      "JINGCE-HOLD-JC2025-QUAL-011",
+      "JINGCE-HOLD-JC2025-QUAL-013",
+      "JINGCE-HOLD-JC2025-RD-01",
+      "JINGCE-HOLD-JC2025-RD-03",
+      "JINGCE-HOLD-JC2025-RD-04",
+      "JINGCE-HOLD-JC2025-RD-05",
+      "JINGCE-HOLD-JC2025-RD-18",
+      "JINGCE-HOLD-JC2025-RD-19",
+      "JH5800_vs_JH5520",
+      "2D_vs_2_5D_MEMS",
+      "FY2024_7nm_other_products",
+      "FY2023_1xnm_core_products",
+      "FY2025_advanced_order_mix",
+      "FY2025_CP_MicroLED_and_mixed_shipments",
+      "FY2025_EFILM_below_7nm",
+      "FY2023_e_beam_1Xnm",
+      "FIB_SEM_named_vs_operating",
+      "AOI_mixed_RD_identity",
+      "Hubei_Xingchen_12inch_investee",
+      "battery_equipment_taxonomy_2023",
+      "battery_equipment_taxonomy_2024",
+      "battery_equipment_taxonomy_2025"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-production_capacity",
+    "claim": "Remaining source-native mapping and identity limits: production_capacity",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Originals describe production bases, construction, customer lines and R&D work; no supported numerical Jingce factory equipment-output capacity is established. FY2025 湖北星辰's future mass-production-line construction is not current installed capacity. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Seek source-defined actual factory equipment-output capacity in a newly registered original; retain qualitative construction separately.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-QUAL-011",
+      "JINGCE-HOLD-JC2023-QUAL-012",
+      "JINGCE-HOLD-JC2024-QUAL-008",
+      "JINGCE-HOLD-JC2024-QUAL-009",
+      "JINGCE-HOLD-JC2025-QUAL-015",
+      "JINGCE-HOLD-JC2025-QUAL-017"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce-reviewed-sweep-explicit_process_nodes",
+    "claim": "Remaining source-native mapping and identity limits: explicit_process_nodes",
+    "source_ids": [
+      "jingce_annual_2023",
+      "jingce_annual_2024",
+      "jingce_annual_2025"
+    ],
+    "reason": "Only product/capability-paired process-node claims are attached to platform histories; broad 1xnm company wording and nearby 12-inch wafer diameter are not inherited by every model or financial row. See docs/reviews/archive/2026-09-23_jingce_operational_coverage.json for exact original locators, canonical links, aliases and holds.",
+    "next_action": "Do not inherit broad company nodes, wafer diameters or neighboring project claims; preserve paired platform claims.",
+    "held_record_ids": [
+      "JINGCE-HOLD-JC2023-QUAL-001",
+      "JINGCE-HOLD-JC2024-QUAL-003",
+      "JINGCE-HOLD-JC2025-QUAL-002"
+    ],
+    "review_record": "docs/reviews/archive/2026-09-23_jingce_operational_coverage.json"
+  },
+  {
+    "claim_id": "jingce_h126_backlog_growth_mapping",
+    "claim": "H1 source-printed year-on-year backlog changes: total 54.89%; semiconductor 98.00%; display 同期减少14.68%; new energy 117.22%.",
+    "source_ids": [
+      "jingce_h1_2026"
+    ],
+    "pages_reviewed": [
+      18
+    ],
+    "reason": "Original figures verified; mapping held because existing stock-change metric is absolute equipment count, not monetary backlog relative growth. Preserve disclosure-date and approximation boundaries; do not substitute revenue growth."
+  },
+  {
+    "claim_id": "jingce_h126_margin_change_unit",
+    "claim": "H1 product table 毛利率比上年同期增减: 显示2.86%, 半导体0.06%, 新能源-8.06%.",
+    "source_ids": [
+      "jingce_h1_2026"
+    ],
+    "pages_reviewed": [
+      25
+    ],
+    "reason": "Original column prints percent, not explicit percentage points. Existing gross_margin_change requires percentage points. Retain source ambiguity without silently relabelling the unit."
+  },
+  {
+    "claim_id": "jingce_h126_verbal_share_mapping",
+    "claim": "半导体领域在手订单占公司在手订单比例已近七成；前道量检测领域订单、营收占半导体领域整体九成以上；公司应用于先进制程领域（28nm以下，不含28nm）新签订单占半导体领域新签订单超七成。",
+    "source_ids": [
+      "jingce_h1_2026"
+    ],
+    "pages_reviewed": [
+      18,
+      19,
+      20
+    ],
+    "reason": "Verified source-native verbal quantitative boundaries; current numeric-evidence grammar does not normalize these phrases. Preserve literal wording without manufacturing Arabic excerpt values. Nine-tenths-or-more is inclusive; over-seven-tenths is strict; near-seven-tenths is approximate. Different order/revenue denominators cannot be combined."
+  }
+]

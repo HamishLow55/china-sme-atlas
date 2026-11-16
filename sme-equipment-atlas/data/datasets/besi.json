@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "besi_disclosures",
+    "title": "BE Semiconductor Industries N.V. (Besi) IR disclosures (English)",
+    "kind": "company_filings",
+    "publisher": "besi",
+    "version": "w9-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages only; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/Besi filings/, downloaded directly from Besi's own investor-relations PDF library (besi.com/fileadmin/data/Investor_Relations/_Semi__Annual_Reports/), sha256-hashed and page-counted locally. All four are the AUDITED Annual Report (not an integrated or sustainability-only report), each containing the full Consolidated Financial Statements with the auditor's report. Printed page numbers in these reports run 2 BEHIND the physical PDF page throughout (worked example: printed 221 = physical 223 in besi_annual_2025; printed 216 = physical 218 in besi_annual_2024; printed 167 = physical 169 in besi_annual_2023; printed 165 = physical 167 in besi_annual_2022) -- confirm the header before citing. No FY2021 standalone annual report is held locally; FY2021 product-group and company revenue are registered from the FY2021 comparative column of besi_annual_2022 only.",
+    "market_definitions": {}
+  }
+]

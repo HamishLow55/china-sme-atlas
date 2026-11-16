@@ -1,0 +1,18 @@
+[
+  {
+    "application_id": "advanced_packaging",
+    "entity_id": "qinghe_jingyuan",
+    "category_id": "bonding",
+    "platform_id": "qinghe_jingyuan_sab82cww",
+    "source_id": "qinghe_jingyuan_isabers_launch_20250311",
+    "page": 1,
+    "excerpt": "SAB 82CWW系列混合键合设备在存储器、Micro-LED显示、CMOS图像传感器、光电集成等多个领域展现了广泛的应用前景。",
+    "status": "source_checked",
+    "link_id": "qinghe-jingyuan-advanced-packaging-1",
+    "scope_note": "Company's own global-premiere product-launch statement naming target application fields for its hybrid bonder: memory (generically, '存储器', not HBM specifically), Micro-LED display, CMOS image sensors and photonic-electronic co-integration. No customer, shipment, order or qualification evidence is attached to any of these fields. HBM is NOT named in this release or any other held source about this firm; deliberately NOT filed at application_id hbm for that reason, despite the gap analysis listing this firm under stacking_hybrid. CORRECTED AT INTEGRATION from production_claim to supplier_capability. 展现了广泛的应用前景 ('shows broad application prospects') is PROSPECTIVE marketing language in the company's own launch release and is the weakest link in this packet — it asserts no current use at all. Retained only as evidence that the issuer itself names 存储器 (memory) among the target domains. Deliberately NOT linked to hbm: no held source names HBM for this tool, despite the gap-analysis table placing this firm under stacking_hybrid.",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "link_kind": "supplier_capability",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against isabersgroup_c2w_w2w.html: 'SAB 82CWW系列混合键合设备在存储器、Micro-LED显示、CMOS图像传感器、光电集成等多个领域展现了广泛的应用前景'. link_kind=supplier_capability is correct and this is exactly the Extraction Failure Modes calibration case ('展现了广泛的应用前景' asserts no current use at all, making it the weakest tier). application_id=advanced_packaging and NOT hbm is correct: 存储器 (memory) is used generically, and HBM is not named anywhere in this source or any other held Qinghe Jingyuan source -- confirmed by grepping the full extracted text of the launch article, which contains no 'HBM' string at all. This restraint matches FINDINGS.md's own assessment exactly."
+  }
+]

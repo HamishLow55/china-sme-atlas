@@ -1,0 +1,10 @@
+[
+  {
+    "coverage_id": "china-market-denominator",
+    "scope": "Analyst China etching market estimates",
+    "status": "not_searched",
+    "reviewed_source_ids": [],
+    "next_action": "Acquire dataset; register vintage, native category definition, population, method and permitted usage.",
+    "notes": "No analyst values fabricated or inferred from company-wide revenue."
+  }
+]

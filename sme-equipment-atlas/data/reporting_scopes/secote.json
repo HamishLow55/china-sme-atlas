@@ -1,0 +1,38 @@
+[
+  {
+    "reporting_scope_id": "secote_semiconductor_business",
+    "category_id": "multi_equipment",
+    "label": "Secote semiconductor-industry business",
+    "definition": "Issuer's broad 半导体 industry segment across group entities and semiconductor equipment/products; not a named platform, Optima-only scope, HBM-only scope or domestic-production scope."
+  },
+  {
+    "reporting_scope_id": "secote_h126_main_business",
+    "category_id": "all_businesses",
+    "label": "Secote H1 2026 main business",
+    "definition": "Consolidated company 主营业务 revenue/cost in H1 p122, distinct from other-business and company total; all downstream industries."
+  },
+  {
+    "reporting_scope_id": "secote_h126_other_business",
+    "category_id": "all_businesses",
+    "label": "Secote H1 2026 other business",
+    "definition": "Consolidated company 其他业务 revenue/cost in H1 p122. The 商品类型 其他 row repeats these digits and is an alias, not another additive category."
+  },
+  {
+    "reporting_scope_id": "secote_h126_technical_services",
+    "category_id": "all_businesses",
+    "label": "Secote H1 2026 technical services",
+    "definition": "Consolidated company 商品类型 技术服务 revenue/cost in H1 p122; industry and customer allocation undisclosed."
+  },
+  {
+    "reporting_scope_id": "secote_h126_automation_equipment",
+    "category_id": "all_businesses",
+    "label": "Secote H1 2026 automation equipment",
+    "definition": "Consolidated company 商品类型 自动化设备 revenue/cost in H1 p122, spanning source businesses including consumer electronics, semiconductors and new energy; not semiconductor-only, Optima-only or HBM."
+  },
+  {
+    "reporting_scope_id": "secote_h126_fixtures",
+    "category_id": "all_businesses",
+    "label": "Secote H1 2026 fixtures",
+    "definition": "Consolidated company 商品类型 夹治具 revenue/cost in H1 p122; industry and customer allocation undisclosed."
+  }
+]

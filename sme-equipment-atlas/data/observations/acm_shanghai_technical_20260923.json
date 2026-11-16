@@ -1,0 +1,182 @@
+[
+  {
+    "observation_id": "ACMS_TF_PEALD_2_FAB_ENTRIES",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_h1_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ald",
+    "reporting_scope_id": "acm_peald_vertical_furnace_chinese_wafer_fab_entries",
+    "platform_id": "acm_peald_vertical_furnace",
+    "metric_id": "reported_wafer_manufacturer_or_fab_entry_count",
+    "value": "2",
+    "relation": "eq",
+    "unit": "wafer_manufacturer_or_fab",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "China",
+      "geography_basis": "source_stated_wafer_fab_or_manufacturer_location",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "acm_shanghai_h1_2025"
+    },
+    "evidence": {
+      "page": 14,
+      "original_label": "等离子体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂",
+      "excerpt": "③立式炉管系列设备\n  公司研发的立式炉管设备主要包括低压化学气相沉积炉、氧化退火炉、合金炉和原子层沉积\n炉，公司炉管产品已经进入多个中国集成电路晶圆制造厂，已通过验证并大量量产。其中等离子\n体增强原子层沉积炉管已进入中国 2 家集成电路晶圆制造厂，正在做更新优化和为量产准备。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "2",
+      "reported_unit": "wafer_manufacturer_or_fab"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 2025 report-context entry count into source-described Chinese wafer manufacturers/fabs. The wording does not identify distinct corporate customers, physical sites, systems, accepted installations or production use. Source says optimization for future mass production. Native candidate ACMS-TF-PEALD-2FABS."
+  },
+  {
+    "observation_id": "ACMS_TF_BATH_50_WAFERS_PER_BATCH",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "reporting_scope_id": "acm_fully_automatic_bath_cleaner_batch_configuration",
+    "platform_id": "acm_shanghai_source_family_09",
+    "metric_id": "reported_tool_wafer_batch_capacity",
+    "value": "50",
+    "relation": "eq",
+    "unit": "wafer_per_batch",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "acm_shanghai_2025"
+    },
+    "evidence": {
+      "page": 15,
+      "original_label": "全自动槽式清洗设备能够同时清洗 50 片晶圆",
+      "excerpt": "H.全自动槽式清洗设备\n    公司开发的全自动槽式清洗设备广泛应用于集成电路领域和先进封装领域的清洗、刻蚀、光\n刻胶去除等工艺，采用纯水、碱性药液、酸性药液作为清洗剂，与喷淋、热浸、溢流和鼓泡等清\n洗方式组合，再配以常压 IPA 干燥技术及低压 IPA 干燥技术，能够同时清洗 50 片晶圆。该设备\n自动化程度高，设备稳定性好，清洗效率高，金属、材料及颗粒的交叉污染低。该设备主要应用\n于 40nm 及以上技术节点的几乎所有清洗工艺步骤。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "50",
+      "reported_unit": "wafer_per_batch"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "FY2025 report-context tool configuration; simultaneous batch size, not throughput, factory capacity or production volume. Separate 40nm application is not attached to this numeric field. Native candidate ACMS-N052."
+  },
+  {
+    "observation_id": "ACMS_TF_KRF_TRACK_300_WAFERS_PER_HOUR",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "track_coat_develop",
+    "reporting_scope_id": "acm_krf_300wph_track_processing_throughput",
+    "platform_id": "acm_krf_track_300wph",
+    "metric_id": "reported_tool_wafer_throughput",
+    "value": "300",
+    "relation": "eq",
+    "unit": "wafer_per_hour",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "acm_shanghai_2025"
+    },
+    "evidence": {
+      "page": 26,
+      "original_label": "最新研发的 KrF 工艺 300WPH Track 设备",
+      "excerpt": "⑩涂胶显影 Track 技术\n  公司推出前道涂胶显影 Ultra LithTM Track 设备，采用公司具有全球专利申请保护的垂直交叉\n式架构，应用于 300mm 前道集成电路制造工艺，可提供均匀的下降层流、高速稳定的机械手以及\n强大的软件系统，从而满足客户的高产出及其他特定需求。该设备支持主流光刻机接口。\n  公司研发的涂胶显影 Track 设备已经进入客户端验证阶段，并且获得了部分工艺结果，涂胶\n工艺膜厚满足客户要求，显影关键尺寸 CD 接近工艺指标。最新研发的 KrF 工艺 300WPH Track\n设备已经于 2025 年 9 月顺利交付中国头部逻辑晶圆制造厂。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "300",
+      "reported_unit": "wafer_per_hour"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "FY2025 original states September 2025 delivery of the named 300WPH Track. 300WPH is model throughput, not delivery count, customer output or factory capacity. H1 2026 repeats the same model/first-delivery statement; native N055 is an alias. Native candidate ACMS-N053."
+  },
+  {
+    "observation_id": "ACMS_TF_ULTRA_C_TAHOE_GT200_WAFERS_PER_HOUR",
+    "dataset_id": "acm_shanghai_disclosures",
+    "source_id": "acm_shanghai_h1_2025",
+    "entity_id": "acm_shanghai",
+    "category_id": "cleaning",
+    "reporting_scope_id": "acm_ultra_c_tahoe_upgraded_processing_throughput",
+    "platform_id": "acm_ultra_c_tahoe_upgraded",
+    "metric_id": "reported_tool_wafer_throughput",
+    "value": "200",
+    "relation": "gt",
+    "unit": "wafer_per_hour",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "not_applicable",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "acm_shanghai_h1_2025"
+    },
+    "evidence": {
+      "page": 23,
+      "original_label": "升级版 Ultra C Tahoe：升级后的槽式模块和多个单晶圆腔体每小时产能超过 200 片晶圆",
+      "excerpt": "③单片槽式组合 Tahoe 高温硫酸清洗技术\n     公司研发的单片槽式组合 Tahoe 高温硫酸清洗设备，此设备集成了单腔体清洗模块和槽式清\n洗模块，可用于 12 英寸晶圆生产线的前端和后道工艺，尤其可用于高温硫酸工艺。综合了槽式和\n单片的优势，取长补短，在同一台设备中分步完成槽式清洗和单片清洗工序，既大量节省了硫酸\n使用量，也保证的良好的清洗效果，实现了绿色工艺，成本节约，环境友好的技术突破，解决了\n困扰业界多年的硫酸消耗量大的难题。2024 年 Ultra C Tahoe 通过升级取得重要性能突破，升级版\nUltra C Tahoe 的新功能和优势如下：\n     •更强的颗粒去除性能：Tahoe 平台具备更强大的清洗能力，在 26nm 颗粒测试中实现了平均\n颗粒个位数的标准，满足高端制造的严格要求。该设备未来会增加更精密的微粒过滤系统，能够\n去除 1x 纳米的微粒，可用于行业领先的逻辑和内存应用。\n     •更高的产能：升级后的槽式模块和多个单晶圆腔体每小时产能超过 200 片晶圆，可与 12 腔\n体单片 SPM 系统媲美。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "200",
+      "reported_unit": "wafer_per_hour"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 2025 report describes a 2024 Ultra C Tahoe upgrade. The more-than-200 lower bound applies to the upgraded bath-plus-multiple-single-wafer-chamber configuration, not generic Tahoe or firm factory output. Native candidate ACMS-N054."
+  }
+]

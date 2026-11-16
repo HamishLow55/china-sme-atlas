@@ -1,0 +1,1314 @@
+period,group_id,province_code,name,share_of_covered,coverage
+2021,backend,11,Beijing,0.0165,0.7865
+2021,backend,12,Tianjin,0.0111,0.7865
+2021,backend,21,Liaoning,0.0030,0.7865
+2021,backend,31,Shanghai,0.1029,0.7865
+2021,backend,32,Jiangsu,0.3384,0.7865
+2021,backend,33,Zhejiang,0.0762,0.7865
+2021,backend,34,Anhui,0.0356,0.7865
+2021,backend,35,Fujian,0.1064,0.7865
+2021,backend,37,Shandong,0.0172,0.7865
+2021,backend,42,Hubei,0.0219,0.7865
+2021,backend,44,Guangdong,0.1311,0.7865
+2021,backend,50,Chongqing,0.0214,0.7865
+2021,backend,51,Sichuan,0.0556,0.7865
+2021,backend,61,Shaanxi,0.0629,0.7865
+2021,cleaning_strip,11,Beijing,0.0814,0.8909
+2021,cleaning_strip,12,Tianjin,0.0260,0.8909
+2021,cleaning_strip,21,Liaoning,0.0172,0.8909
+2021,cleaning_strip,31,Shanghai,0.1607,0.8909
+2021,cleaning_strip,32,Jiangsu,0.1253,0.8909
+2021,cleaning_strip,33,Zhejiang,0.0321,0.8909
+2021,cleaning_strip,34,Anhui,0.0866,0.8909
+2021,cleaning_strip,35,Fujian,0.0452,0.8909
+2021,cleaning_strip,37,Shandong,0.0359,0.8909
+2021,cleaning_strip,42,Hubei,0.1638,0.8909
+2021,cleaning_strip,44,Guangdong,0.0598,0.8909
+2021,cleaning_strip,50,Chongqing,0.0146,0.8909
+2021,cleaning_strip,51,Sichuan,0.0282,0.8909
+2021,cleaning_strip,61,Shaanxi,0.1233,0.8909
+2021,cmp,11,Beijing,0.0442,0.8758
+2021,cmp,12,Tianjin,0.0073,0.8758
+2021,cmp,21,Liaoning,0.0350,0.8758
+2021,cmp,31,Shanghai,0.1580,0.8758
+2021,cmp,32,Jiangsu,0.2789,0.8758
+2021,cmp,33,Zhejiang,0.0365,0.8758
+2021,cmp,34,Anhui,0.0876,0.8758
+2021,cmp,35,Fujian,0.0487,0.8758
+2021,cmp,37,Shandong,0.0333,0.8758
+2021,cmp,42,Hubei,0.0917,0.8758
+2021,cmp,44,Guangdong,0.0457,0.8758
+2021,cmp,50,Chongqing,0.0439,0.8758
+2021,cmp,51,Sichuan,0.0454,0.8758
+2021,cmp,61,Shaanxi,0.0439,0.8758
+2021,deposition,11,Beijing,0.0566,0.9315
+2021,deposition,12,Tianjin,0.0074,0.9315
+2021,deposition,21,Liaoning,0.0427,0.9315
+2021,deposition,31,Shanghai,0.1887,0.9315
+2021,deposition,32,Jiangsu,0.1331,0.9315
+2021,deposition,33,Zhejiang,0.0397,0.9315
+2021,deposition,34,Anhui,0.1180,0.9315
+2021,deposition,35,Fujian,0.0370,0.9315
+2021,deposition,37,Shandong,0.0497,0.9315
+2021,deposition,42,Hubei,0.1101,0.9315
+2021,deposition,44,Guangdong,0.0353,0.9315
+2021,deposition,50,Chongqing,0.0020,0.9315
+2021,deposition,51,Sichuan,0.0295,0.9315
+2021,deposition,61,Shaanxi,0.1500,0.9315
+2021,doping,11,Beijing,0.1370,0.9864
+2021,doping,12,Tianjin,0.0597,0.9864
+2021,doping,21,Liaoning,0.0128,0.9864
+2021,doping,31,Shanghai,0.1438,0.9864
+2021,doping,32,Jiangsu,0.0844,0.9864
+2021,doping,33,Zhejiang,0.0474,0.9864
+2021,doping,34,Anhui,0.1853,0.9864
+2021,doping,35,Fujian,0.0690,0.9864
+2021,doping,37,Shandong,0.0704,0.9864
+2021,doping,42,Hubei,0.0541,0.9864
+2021,doping,44,Guangdong,0.0606,0.9864
+2021,doping,50,Chongqing,0.0092,0.9864
+2021,doping,51,Sichuan,0.0192,0.9864
+2021,doping,61,Shaanxi,0.0471,0.9864
+2021,dry_etch,11,Beijing,0.0475,0.9736
+2021,dry_etch,12,Tianjin,0.0154,0.9736
+2021,dry_etch,21,Liaoning,0.0823,0.9736
+2021,dry_etch,31,Shanghai,0.1734,0.9736
+2021,dry_etch,32,Jiangsu,0.0940,0.9736
+2021,dry_etch,33,Zhejiang,0.0158,0.9736
+2021,dry_etch,34,Anhui,0.1035,0.9736
+2021,dry_etch,35,Fujian,0.0113,0.9736
+2021,dry_etch,37,Shandong,0.0278,0.9736
+2021,dry_etch,42,Hubei,0.1651,0.9736
+2021,dry_etch,44,Guangdong,0.0291,0.9736
+2021,dry_etch,50,Chongqing,0.0010,0.9736
+2021,dry_etch,51,Sichuan,0.0133,0.9736
+2021,dry_etch,61,Shaanxi,0.2205,0.9736
+2021,handling_unallocated,11,Beijing,0.1227,0.8556
+2021,handling_unallocated,12,Tianjin,0.0308,0.8556
+2021,handling_unallocated,21,Liaoning,0.0768,0.8556
+2021,handling_unallocated,31,Shanghai,0.0370,0.8556
+2021,handling_unallocated,32,Jiangsu,0.1588,0.8556
+2021,handling_unallocated,33,Zhejiang,0.0287,0.8556
+2021,handling_unallocated,34,Anhui,0.0738,0.8556
+2021,handling_unallocated,35,Fujian,0.1162,0.8556
+2021,handling_unallocated,37,Shandong,0.0044,0.8556
+2021,handling_unallocated,42,Hubei,0.0153,0.8556
+2021,handling_unallocated,44,Guangdong,0.1742,0.8556
+2021,handling_unallocated,50,Chongqing,0.0947,0.8556
+2021,handling_unallocated,51,Sichuan,0.0354,0.8556
+2021,handling_unallocated,61,Shaanxi,0.0314,0.8556
+2021,litho,11,Beijing,0.1324,0.9955
+2021,litho,12,Tianjin,0.0152,0.9955
+2021,litho,21,Liaoning,0.0100,0.9955
+2021,litho,31,Shanghai,0.1808,0.9955
+2021,litho,32,Jiangsu,0.1370,0.9955
+2021,litho,33,Zhejiang,0.0230,0.9955
+2021,litho,34,Anhui,0.1410,0.9955
+2021,litho,35,Fujian,0.0255,0.9955
+2021,litho,37,Shandong,0.0683,0.9955
+2021,litho,42,Hubei,0.1190,0.9955
+2021,litho,44,Guangdong,0.0300,0.9955
+2021,litho,50,Chongqing,0.0021,0.9955
+2021,litho,51,Sichuan,0.0341,0.9955
+2021,litho,61,Shaanxi,0.0818,0.9955
+2021,mask_making,11,Beijing,0.0000,0.8218
+2021,mask_making,31,Shanghai,0.1308,0.8218
+2021,mask_making,32,Jiangsu,0.0967,0.8218
+2021,mask_making,33,Zhejiang,0.0063,0.8218
+2021,mask_making,34,Anhui,0.0151,0.8218
+2021,mask_making,35,Fujian,0.0656,0.8218
+2021,mask_making,37,Shandong,0.4306,0.8218
+2021,mask_making,42,Hubei,0.0002,0.8218
+2021,mask_making,44,Guangdong,0.0105,0.8218
+2021,mask_making,50,Chongqing,0.2078,0.8218
+2021,mask_making,51,Sichuan,0.0362,0.8218
+2021,mask_making,61,Shaanxi,0.0001,0.8218
+2021,process_control,11,Beijing,0.0921,0.6973
+2021,process_control,12,Tianjin,0.0091,0.6973
+2021,process_control,21,Liaoning,0.0178,0.6973
+2021,process_control,31,Shanghai,0.1741,0.6973
+2021,process_control,32,Jiangsu,0.1781,0.6973
+2021,process_control,33,Zhejiang,0.0787,0.6973
+2021,process_control,34,Anhui,0.1469,0.6973
+2021,process_control,35,Fujian,0.0238,0.6973
+2021,process_control,37,Shandong,0.0872,0.6973
+2021,process_control,42,Hubei,0.0823,0.6973
+2021,process_control,44,Guangdong,0.0366,0.6973
+2021,process_control,50,Chongqing,0.0040,0.6973
+2021,process_control,51,Sichuan,0.0371,0.6973
+2021,process_control,61,Shaanxi,0.0323,0.6973
+2021,test,11,Beijing,0.0816,0.8024
+2021,test,12,Tianjin,0.0111,0.8024
+2021,test,21,Liaoning,0.0711,0.8024
+2021,test,31,Shanghai,0.0765,0.8024
+2021,test,32,Jiangsu,0.0845,0.8024
+2021,test,33,Zhejiang,0.0268,0.8024
+2021,test,34,Anhui,0.0754,0.8024
+2021,test,35,Fujian,0.0124,0.8024
+2021,test,37,Shandong,0.0687,0.8024
+2021,test,42,Hubei,0.1074,0.8024
+2021,test,44,Guangdong,0.0323,0.8024
+2021,test,50,Chongqing,0.0014,0.8024
+2021,test,51,Sichuan,0.2399,0.8024
+2021,test,61,Shaanxi,0.1110,0.8024
+2021,thermal,11,Beijing,0.0942,0.9926
+2021,thermal,12,Tianjin,0.0350,0.9926
+2021,thermal,21,Liaoning,0.0640,0.9926
+2021,thermal,31,Shanghai,0.0866,0.9926
+2021,thermal,32,Jiangsu,0.1056,0.9926
+2021,thermal,33,Zhejiang,0.0414,0.9926
+2021,thermal,34,Anhui,0.1405,0.9926
+2021,thermal,35,Fujian,0.0276,0.9926
+2021,thermal,37,Shandong,0.0395,0.9926
+2021,thermal,42,Hubei,0.2693,0.9926
+2021,thermal,44,Guangdong,0.0473,0.9926
+2021,thermal,50,Chongqing,0.0032,0.9926
+2021,thermal,51,Sichuan,0.0083,0.9926
+2021,thermal,61,Shaanxi,0.0375,0.9926
+2021,track_automation_other,11,Beijing,0.0577,0.8874
+2021,track_automation_other,12,Tianjin,0.0074,0.8874
+2021,track_automation_other,21,Liaoning,0.0293,0.8874
+2021,track_automation_other,31,Shanghai,0.2357,0.8874
+2021,track_automation_other,32,Jiangsu,0.2464,0.8874
+2021,track_automation_other,33,Zhejiang,0.0311,0.8874
+2021,track_automation_other,34,Anhui,0.0747,0.8874
+2021,track_automation_other,35,Fujian,0.0473,0.8874
+2021,track_automation_other,37,Shandong,0.0273,0.8874
+2021,track_automation_other,42,Hubei,0.0938,0.8874
+2021,track_automation_other,44,Guangdong,0.0380,0.8874
+2021,track_automation_other,50,Chongqing,0.0358,0.8874
+2021,track_automation_other,51,Sichuan,0.0386,0.8874
+2021,track_automation_other,61,Shaanxi,0.0367,0.8874
+2022,backend,11,Beijing,0.0203,0.7129
+2022,backend,12,Tianjin,0.0184,0.7129
+2022,backend,21,Liaoning,0.0039,0.7129
+2022,backend,31,Shanghai,0.1504,0.7129
+2022,backend,32,Jiangsu,0.3151,0.7129
+2022,backend,33,Zhejiang,0.0635,0.7129
+2022,backend,34,Anhui,0.0350,0.7129
+2022,backend,35,Fujian,0.0788,0.7129
+2022,backend,37,Shandong,0.0165,0.7129
+2022,backend,42,Hubei,0.0247,0.7129
+2022,backend,44,Guangdong,0.1183,0.7129
+2022,backend,50,Chongqing,0.0461,0.7129
+2022,backend,51,Sichuan,0.0790,0.7129
+2022,backend,61,Shaanxi,0.0299,0.7129
+2022,cleaning_strip,11,Beijing,0.1083,0.8665
+2022,cleaning_strip,12,Tianjin,0.0455,0.8665
+2022,cleaning_strip,21,Liaoning,0.0080,0.8665
+2022,cleaning_strip,31,Shanghai,0.1052,0.8665
+2022,cleaning_strip,32,Jiangsu,0.1478,0.8665
+2022,cleaning_strip,33,Zhejiang,0.0672,0.8665
+2022,cleaning_strip,34,Anhui,0.1559,0.8665
+2022,cleaning_strip,35,Fujian,0.0341,0.8665
+2022,cleaning_strip,37,Shandong,0.0745,0.8665
+2022,cleaning_strip,42,Hubei,0.1167,0.8665
+2022,cleaning_strip,44,Guangdong,0.0649,0.8665
+2022,cleaning_strip,50,Chongqing,0.0391,0.8665
+2022,cleaning_strip,51,Sichuan,0.0179,0.8665
+2022,cleaning_strip,61,Shaanxi,0.0148,0.8665
+2022,cmp,11,Beijing,0.0530,0.8322
+2022,cmp,12,Tianjin,0.0121,0.8322
+2022,cmp,21,Liaoning,0.0225,0.8322
+2022,cmp,31,Shanghai,0.2143,0.8322
+2022,cmp,32,Jiangsu,0.2906,0.8322
+2022,cmp,33,Zhejiang,0.0822,0.8322
+2022,cmp,34,Anhui,0.0415,0.8322
+2022,cmp,35,Fujian,0.0254,0.8322
+2022,cmp,37,Shandong,0.0341,0.8322
+2022,cmp,42,Hubei,0.0593,0.8322
+2022,cmp,44,Guangdong,0.0553,0.8322
+2022,cmp,50,Chongqing,0.0656,0.8322
+2022,cmp,51,Sichuan,0.0341,0.8322
+2022,cmp,61,Shaanxi,0.0097,0.8322
+2022,deposition,11,Beijing,0.0752,0.9235
+2022,deposition,12,Tianjin,0.0067,0.9235
+2022,deposition,21,Liaoning,0.0294,0.9235
+2022,deposition,31,Shanghai,0.1673,0.9235
+2022,deposition,32,Jiangsu,0.2067,0.9235
+2022,deposition,33,Zhejiang,0.0972,0.9235
+2022,deposition,34,Anhui,0.1176,0.9235
+2022,deposition,35,Fujian,0.0315,0.9235
+2022,deposition,37,Shandong,0.0524,0.9235
+2022,deposition,42,Hubei,0.1207,0.9235
+2022,deposition,44,Guangdong,0.0304,0.9235
+2022,deposition,50,Chongqing,0.0196,0.9235
+2022,deposition,51,Sichuan,0.0075,0.9235
+2022,deposition,61,Shaanxi,0.0380,0.9235
+2022,doping,11,Beijing,0.1425,0.9809
+2022,doping,12,Tianjin,0.0493,0.9809
+2022,doping,31,Shanghai,0.1852,0.9809
+2022,doping,32,Jiangsu,0.1531,0.9809
+2022,doping,33,Zhejiang,0.1371,0.9809
+2022,doping,34,Anhui,0.1018,0.9809
+2022,doping,35,Fujian,0.0380,0.9809
+2022,doping,37,Shandong,0.0377,0.9809
+2022,doping,42,Hubei,0.0450,0.9809
+2022,doping,44,Guangdong,0.0891,0.9809
+2022,doping,50,Chongqing,0.0115,0.9809
+2022,doping,51,Sichuan,0.0049,0.9809
+2022,doping,61,Shaanxi,0.0050,0.9809
+2022,dry_etch,11,Beijing,0.1066,0.9692
+2022,dry_etch,12,Tianjin,0.0211,0.9692
+2022,dry_etch,21,Liaoning,0.0447,0.9692
+2022,dry_etch,31,Shanghai,0.1784,0.9692
+2022,dry_etch,32,Jiangsu,0.1671,0.9692
+2022,dry_etch,33,Zhejiang,0.0447,0.9692
+2022,dry_etch,34,Anhui,0.0842,0.9692
+2022,dry_etch,35,Fujian,0.0043,0.9692
+2022,dry_etch,37,Shandong,0.0324,0.9692
+2022,dry_etch,42,Hubei,0.1849,0.9692
+2022,dry_etch,44,Guangdong,0.0291,0.9692
+2022,dry_etch,50,Chongqing,0.0118,0.9692
+2022,dry_etch,51,Sichuan,0.0027,0.9692
+2022,dry_etch,61,Shaanxi,0.0880,0.9692
+2022,handling_unallocated,11,Beijing,0.1423,0.8953
+2022,handling_unallocated,12,Tianjin,0.0109,0.8953
+2022,handling_unallocated,21,Liaoning,0.0452,0.8953
+2022,handling_unallocated,31,Shanghai,0.0812,0.8953
+2022,handling_unallocated,32,Jiangsu,0.1787,0.8953
+2022,handling_unallocated,33,Zhejiang,0.0302,0.8953
+2022,handling_unallocated,34,Anhui,0.0232,0.8953
+2022,handling_unallocated,35,Fujian,0.0183,0.8953
+2022,handling_unallocated,37,Shandong,0.0219,0.8953
+2022,handling_unallocated,42,Hubei,0.0305,0.8953
+2022,handling_unallocated,44,Guangdong,0.3225,0.8953
+2022,handling_unallocated,50,Chongqing,0.0541,0.8953
+2022,handling_unallocated,51,Sichuan,0.0142,0.8953
+2022,handling_unallocated,61,Shaanxi,0.0268,0.8953
+2022,litho,11,Beijing,0.1387,0.9921
+2022,litho,12,Tianjin,0.0178,0.9921
+2022,litho,21,Liaoning,0.0024,0.9921
+2022,litho,31,Shanghai,0.1841,0.9921
+2022,litho,32,Jiangsu,0.1902,0.9921
+2022,litho,33,Zhejiang,0.0538,0.9921
+2022,litho,34,Anhui,0.1865,0.9921
+2022,litho,35,Fujian,0.0241,0.9921
+2022,litho,37,Shandong,0.0255,0.9921
+2022,litho,42,Hubei,0.1056,0.9921
+2022,litho,44,Guangdong,0.0528,0.9921
+2022,litho,50,Chongqing,0.0082,0.9921
+2022,litho,61,Shaanxi,0.0026,0.9921
+2022,litho,51,Sichuan,0.0079,0.9921
+2022,mask_making,31,Shanghai,0.3771,0.9096
+2022,mask_making,32,Jiangsu,0.0379,0.9096
+2022,mask_making,34,Anhui,0.0183,0.9096
+2022,mask_making,37,Shandong,0.1753,0.9096
+2022,mask_making,42,Hubei,0.0054,0.9096
+2022,mask_making,44,Guangdong,0.3524,0.9096
+2022,mask_making,50,Chongqing,0.0112,0.9096
+2022,mask_making,51,Sichuan,0.0223,0.9096
+2022,process_control,11,Beijing,0.0761,0.7091
+2022,process_control,12,Tianjin,0.0124,0.7091
+2022,process_control,21,Liaoning,0.0064,0.7091
+2022,process_control,31,Shanghai,0.1825,0.7091
+2022,process_control,32,Jiangsu,0.1993,0.7091
+2022,process_control,33,Zhejiang,0.0607,0.7091
+2022,process_control,34,Anhui,0.0826,0.7091
+2022,process_control,35,Fujian,0.0172,0.7091
+2022,process_control,37,Shandong,0.0992,0.7091
+2022,process_control,42,Hubei,0.0918,0.7091
+2022,process_control,44,Guangdong,0.0557,0.7091
+2022,process_control,50,Chongqing,0.0172,0.7091
+2022,process_control,51,Sichuan,0.0219,0.7091
+2022,process_control,61,Shaanxi,0.0771,0.7091
+2022,test,11,Beijing,0.0556,0.8830
+2022,test,12,Tianjin,0.0187,0.8830
+2022,test,21,Liaoning,0.0346,0.8830
+2022,test,31,Shanghai,0.1197,0.8830
+2022,test,32,Jiangsu,0.1189,0.8830
+2022,test,33,Zhejiang,0.0491,0.8830
+2022,test,34,Anhui,0.0496,0.8830
+2022,test,35,Fujian,0.0026,0.8830
+2022,test,37,Shandong,0.1575,0.8830
+2022,test,42,Hubei,0.0820,0.8830
+2022,test,44,Guangdong,0.0611,0.8830
+2022,test,50,Chongqing,0.0036,0.8830
+2022,test,51,Sichuan,0.2090,0.8830
+2022,test,61,Shaanxi,0.0380,0.8830
+2022,thermal,11,Beijing,0.1661,0.9919
+2022,thermal,12,Tianjin,0.0128,0.9919
+2022,thermal,21,Liaoning,0.0307,0.9919
+2022,thermal,31,Shanghai,0.1466,0.9919
+2022,thermal,32,Jiangsu,0.1471,0.9919
+2022,thermal,33,Zhejiang,0.0887,0.9919
+2022,thermal,34,Anhui,0.1602,0.9919
+2022,thermal,35,Fujian,0.0146,0.9919
+2022,thermal,37,Shandong,0.0404,0.9919
+2022,thermal,42,Hubei,0.1126,0.9919
+2022,thermal,44,Guangdong,0.0506,0.9919
+2022,thermal,50,Chongqing,0.0147,0.9919
+2022,thermal,51,Sichuan,0.0055,0.9919
+2022,thermal,61,Shaanxi,0.0094,0.9919
+2022,track_automation_other,11,Beijing,0.0657,0.8510
+2022,track_automation_other,12,Tianjin,0.0117,0.8510
+2022,track_automation_other,21,Liaoning,0.0186,0.8510
+2022,track_automation_other,31,Shanghai,0.2455,0.8510
+2022,track_automation_other,32,Jiangsu,0.2881,0.8510
+2022,track_automation_other,33,Zhejiang,0.0657,0.8510
+2022,track_automation_other,34,Anhui,0.0624,0.8510
+2022,track_automation_other,35,Fujian,0.0237,0.8510
+2022,track_automation_other,37,Shandong,0.0281,0.8510
+2022,track_automation_other,42,Hubei,0.0543,0.8510
+2022,track_automation_other,44,Guangdong,0.0449,0.8510
+2022,track_automation_other,50,Chongqing,0.0530,0.8510
+2022,track_automation_other,51,Sichuan,0.0306,0.8510
+2022,track_automation_other,61,Shaanxi,0.0077,0.8510
+2023,backend,11,Beijing,0.0253,0.7209
+2023,backend,12,Tianjin,0.0106,0.7209
+2023,backend,21,Liaoning,0.0024,0.7209
+2023,backend,31,Shanghai,0.1215,0.7209
+2023,backend,32,Jiangsu,0.2856,0.7209
+2023,backend,33,Zhejiang,0.1493,0.7209
+2023,backend,34,Anhui,0.0516,0.7209
+2023,backend,35,Fujian,0.0287,0.7209
+2023,backend,37,Shandong,0.0289,0.7209
+2023,backend,42,Hubei,0.0263,0.7209
+2023,backend,44,Guangdong,0.1906,0.7209
+2023,backend,50,Chongqing,0.0081,0.7209
+2023,backend,51,Sichuan,0.0504,0.7209
+2023,backend,61,Shaanxi,0.0207,0.7209
+2023,cleaning_strip,11,Beijing,0.0864,0.8627
+2023,cleaning_strip,12,Tianjin,0.0231,0.8627
+2023,cleaning_strip,21,Liaoning,0.0023,0.8627
+2023,cleaning_strip,31,Shanghai,0.1068,0.8627
+2023,cleaning_strip,32,Jiangsu,0.1116,0.8627
+2023,cleaning_strip,33,Zhejiang,0.0878,0.8627
+2023,cleaning_strip,34,Anhui,0.2138,0.8627
+2023,cleaning_strip,35,Fujian,0.0119,0.8627
+2023,cleaning_strip,37,Shandong,0.0654,0.8627
+2023,cleaning_strip,42,Hubei,0.1425,0.8627
+2023,cleaning_strip,44,Guangdong,0.1311,0.8627
+2023,cleaning_strip,50,Chongqing,0.0083,0.8627
+2023,cleaning_strip,51,Sichuan,0.0043,0.8627
+2023,cleaning_strip,61,Shaanxi,0.0047,0.8627
+2023,cmp,11,Beijing,0.0198,0.9784
+2023,cmp,12,Tianjin,0.0014,0.9784
+2023,cmp,21,Liaoning,0.0069,0.9784
+2023,cmp,31,Shanghai,0.1782,0.9784
+2023,cmp,32,Jiangsu,0.1667,0.9784
+2023,cmp,33,Zhejiang,0.1109,0.9784
+2023,cmp,34,Anhui,0.0779,0.9784
+2023,cmp,35,Fujian,0.0054,0.9784
+2023,cmp,37,Shandong,0.2422,0.9784
+2023,cmp,42,Hubei,0.0128,0.9784
+2023,cmp,44,Guangdong,0.1293,0.9784
+2023,cmp,50,Chongqing,0.0112,0.9784
+2023,cmp,51,Sichuan,0.0063,0.9784
+2023,cmp,61,Shaanxi,0.0310,0.9784
+2023,deposition,11,Beijing,0.0802,0.9256
+2023,deposition,12,Tianjin,0.0105,0.9256
+2023,deposition,21,Liaoning,0.0037,0.9256
+2023,deposition,31,Shanghai,0.1506,0.9256
+2023,deposition,32,Jiangsu,0.0904,0.9256
+2023,deposition,33,Zhejiang,0.1349,0.9256
+2023,deposition,34,Anhui,0.1064,0.9256
+2023,deposition,35,Fujian,0.0213,0.9256
+2023,deposition,37,Shandong,0.1161,0.9256
+2023,deposition,42,Hubei,0.0848,0.9256
+2023,deposition,44,Guangdong,0.1735,0.9256
+2023,deposition,50,Chongqing,0.0108,0.9256
+2023,deposition,51,Sichuan,0.0036,0.9256
+2023,deposition,61,Shaanxi,0.0132,0.9256
+2023,doping,11,Beijing,0.1082,0.9694
+2023,doping,12,Tianjin,0.0240,0.9694
+2023,doping,21,Liaoning,0.0019,0.9694
+2023,doping,31,Shanghai,0.1163,0.9694
+2023,doping,32,Jiangsu,0.1350,0.9694
+2023,doping,33,Zhejiang,0.1472,0.9694
+2023,doping,34,Anhui,0.1281,0.9694
+2023,doping,35,Fujian,0.0269,0.9694
+2023,doping,37,Shandong,0.1122,0.9694
+2023,doping,42,Hubei,0.0585,0.9694
+2023,doping,44,Guangdong,0.1086,0.9694
+2023,doping,50,Chongqing,0.0293,0.9694
+2023,doping,51,Sichuan,0.0022,0.9694
+2023,doping,61,Shaanxi,0.0016,0.9694
+2023,dry_etch,11,Beijing,0.1156,0.9767
+2023,dry_etch,12,Tianjin,0.0144,0.9767
+2023,dry_etch,21,Liaoning,0.0001,0.9767
+2023,dry_etch,31,Shanghai,0.1075,0.9767
+2023,dry_etch,32,Jiangsu,0.0438,0.9767
+2023,dry_etch,33,Zhejiang,0.0755,0.9767
+2023,dry_etch,34,Anhui,0.1958,0.9767
+2023,dry_etch,35,Fujian,0.0051,0.9767
+2023,dry_etch,37,Shandong,0.1518,0.9767
+2023,dry_etch,42,Hubei,0.1337,0.9767
+2023,dry_etch,44,Guangdong,0.1205,0.9767
+2023,dry_etch,50,Chongqing,0.0121,0.9767
+2023,dry_etch,51,Sichuan,0.0008,0.9767
+2023,dry_etch,61,Shaanxi,0.0234,0.9767
+2023,handling_unallocated,11,Beijing,0.1496,0.9043
+2023,handling_unallocated,12,Tianjin,0.0101,0.9043
+2023,handling_unallocated,21,Liaoning,0.0500,0.9043
+2023,handling_unallocated,31,Shanghai,0.1086,0.9043
+2023,handling_unallocated,32,Jiangsu,0.1433,0.9043
+2023,handling_unallocated,33,Zhejiang,0.0370,0.9043
+2023,handling_unallocated,34,Anhui,0.0963,0.9043
+2023,handling_unallocated,35,Fujian,0.1233,0.9043
+2023,handling_unallocated,37,Shandong,0.0264,0.9043
+2023,handling_unallocated,42,Hubei,0.0103,0.9043
+2023,handling_unallocated,44,Guangdong,0.1875,0.9043
+2023,handling_unallocated,50,Chongqing,0.0156,0.9043
+2023,handling_unallocated,51,Sichuan,0.0108,0.9043
+2023,handling_unallocated,61,Shaanxi,0.0314,0.9043
+2023,litho,11,Beijing,0.1558,0.9942
+2023,litho,12,Tianjin,0.0103,0.9942
+2023,litho,31,Shanghai,0.1945,0.9942
+2023,litho,32,Jiangsu,0.0528,0.9942
+2023,litho,33,Zhejiang,0.0397,0.9942
+2023,litho,34,Anhui,0.1457,0.9942
+2023,litho,35,Fujian,0.0215,0.9942
+2023,litho,37,Shandong,0.0521,0.9942
+2023,litho,42,Hubei,0.1827,0.9942
+2023,litho,44,Guangdong,0.1328,0.9942
+2023,litho,50,Chongqing,0.0025,0.9942
+2023,litho,51,Sichuan,0.0077,0.9942
+2023,litho,21,Liaoning,0.0001,0.9942
+2023,litho,61,Shaanxi,0.0018,0.9942
+2023,mask_making,12,Tianjin,0.0002,0.8472
+2023,mask_making,31,Shanghai,0.2466,0.8472
+2023,mask_making,32,Jiangsu,0.0296,0.8472
+2023,mask_making,33,Zhejiang,0.0335,0.8472
+2023,mask_making,34,Anhui,0.0310,0.8472
+2023,mask_making,35,Fujian,0.0448,0.8472
+2023,mask_making,37,Shandong,0.5430,0.8472
+2023,mask_making,42,Hubei,0.0131,0.8472
+2023,mask_making,44,Guangdong,0.0442,0.8472
+2023,mask_making,50,Chongqing,0.0061,0.8472
+2023,mask_making,51,Sichuan,0.0080,0.8472
+2023,process_control,11,Beijing,0.0955,0.7171
+2023,process_control,12,Tianjin,0.0071,0.7171
+2023,process_control,21,Liaoning,0.0046,0.7171
+2023,process_control,31,Shanghai,0.1382,0.7171
+2023,process_control,32,Jiangsu,0.1262,0.7171
+2023,process_control,33,Zhejiang,0.1173,0.7171
+2023,process_control,34,Anhui,0.1047,0.7171
+2023,process_control,35,Fujian,0.0189,0.7171
+2023,process_control,37,Shandong,0.2016,0.7171
+2023,process_control,42,Hubei,0.0550,0.7171
+2023,process_control,44,Guangdong,0.1064,0.7171
+2023,process_control,50,Chongqing,0.0067,0.7171
+2023,process_control,51,Sichuan,0.0033,0.7171
+2023,process_control,61,Shaanxi,0.0147,0.7171
+2023,test,11,Beijing,0.0757,0.8311
+2023,test,12,Tianjin,0.0147,0.8311
+2023,test,21,Liaoning,0.0024,0.8311
+2023,test,31,Shanghai,0.1084,0.8311
+2023,test,32,Jiangsu,0.1252,0.8311
+2023,test,33,Zhejiang,0.0777,0.8311
+2023,test,34,Anhui,0.0406,0.8311
+2023,test,35,Fujian,0.0056,0.8311
+2023,test,37,Shandong,0.0697,0.8311
+2023,test,42,Hubei,0.0596,0.8311
+2023,test,44,Guangdong,0.1755,0.8311
+2023,test,50,Chongqing,0.0160,0.8311
+2023,test,51,Sichuan,0.1728,0.8311
+2023,test,61,Shaanxi,0.0560,0.8311
+2023,thermal,11,Beijing,0.1114,0.9840
+2023,thermal,12,Tianjin,0.0211,0.9840
+2023,thermal,21,Liaoning,0.0027,0.9840
+2023,thermal,31,Shanghai,0.1361,0.9840
+2023,thermal,32,Jiangsu,0.0829,0.9840
+2023,thermal,33,Zhejiang,0.1114,0.9840
+2023,thermal,34,Anhui,0.1158,0.9840
+2023,thermal,35,Fujian,0.0059,0.9840
+2023,thermal,37,Shandong,0.1010,0.9840
+2023,thermal,42,Hubei,0.1164,0.9840
+2023,thermal,44,Guangdong,0.1678,0.9840
+2023,thermal,50,Chongqing,0.0167,0.9840
+2023,thermal,51,Sichuan,0.0052,0.9840
+2023,thermal,61,Shaanxi,0.0057,0.9840
+2023,track_automation_other,11,Beijing,0.0831,0.8590
+2023,track_automation_other,12,Tianjin,0.0073,0.8590
+2023,track_automation_other,21,Liaoning,0.0051,0.8590
+2023,track_automation_other,31,Shanghai,0.2240,0.8590
+2023,track_automation_other,32,Jiangsu,0.1083,0.8590
+2023,track_automation_other,33,Zhejiang,0.0829,0.8590
+2023,track_automation_other,34,Anhui,0.0743,0.8590
+2023,track_automation_other,35,Fujian,0.0116,0.8590
+2023,track_automation_other,37,Shandong,0.1347,0.8590
+2023,track_automation_other,42,Hubei,0.0875,0.8590
+2023,track_automation_other,44,Guangdong,0.1546,0.8590
+2023,track_automation_other,50,Chongqing,0.0153,0.8590
+2023,track_automation_other,51,Sichuan,0.0068,0.8590
+2023,track_automation_other,61,Shaanxi,0.0045,0.8590
+2023,wafer_making,11,Beijing,0.0602,1.0000
+2023,wafer_making,12,Tianjin,0.0075,1.0000
+2023,wafer_making,21,Liaoning,0.0093,1.0000
+2023,wafer_making,31,Shanghai,0.2158,1.0000
+2023,wafer_making,32,Jiangsu,0.2275,1.0000
+2023,wafer_making,33,Zhejiang,0.1819,1.0000
+2023,wafer_making,34,Anhui,0.0094,1.0000
+2023,wafer_making,35,Fujian,0.0197,1.0000
+2023,wafer_making,37,Shandong,0.0339,1.0000
+2023,wafer_making,42,Hubei,0.0078,1.0000
+2023,wafer_making,44,Guangdong,0.1198,1.0000
+2023,wafer_making,50,Chongqing,0.0248,1.0000
+2023,wafer_making,51,Sichuan,0.0125,1.0000
+2023,wafer_making,61,Shaanxi,0.0697,1.0000
+2024,backend,11,Beijing,0.0267,0.8008
+2024,backend,12,Tianjin,0.0098,0.8008
+2024,backend,21,Liaoning,0.0008,0.8008
+2024,backend,31,Shanghai,0.1393,0.8008
+2024,backend,32,Jiangsu,0.2822,0.8008
+2024,backend,33,Zhejiang,0.0997,0.8008
+2024,backend,34,Anhui,0.0453,0.8008
+2024,backend,35,Fujian,0.0132,0.8008
+2024,backend,37,Shandong,0.0219,0.8008
+2024,backend,42,Hubei,0.0211,0.8008
+2024,backend,44,Guangdong,0.1951,0.8008
+2024,backend,50,Chongqing,0.0106,0.8008
+2024,backend,51,Sichuan,0.1023,0.8008
+2024,backend,61,Shaanxi,0.0319,0.8008
+2024,cleaning_strip,11,Beijing,0.1348,0.8613
+2024,cleaning_strip,12,Tianjin,0.0009,0.8613
+2024,cleaning_strip,21,Liaoning,0.0004,0.8613
+2024,cleaning_strip,31,Shanghai,0.1920,0.8613
+2024,cleaning_strip,32,Jiangsu,0.1231,0.8613
+2024,cleaning_strip,33,Zhejiang,0.0300,0.8613
+2024,cleaning_strip,34,Anhui,0.1529,0.8613
+2024,cleaning_strip,35,Fujian,0.0112,0.8613
+2024,cleaning_strip,37,Shandong,0.0126,0.8613
+2024,cleaning_strip,42,Hubei,0.1159,0.8613
+2024,cleaning_strip,44,Guangdong,0.1580,0.8613
+2024,cleaning_strip,50,Chongqing,0.0122,0.8613
+2024,cleaning_strip,51,Sichuan,0.0450,0.8613
+2024,cleaning_strip,61,Shaanxi,0.0110,0.8613
+2024,cmp,11,Beijing,0.0208,0.9825
+2024,cmp,31,Shanghai,0.1219,0.9825
+2024,cmp,32,Jiangsu,0.2263,0.9825
+2024,cmp,33,Zhejiang,0.0704,0.9825
+2024,cmp,34,Anhui,0.0796,0.9825
+2024,cmp,35,Fujian,0.0032,0.9825
+2024,cmp,37,Shandong,0.0735,0.9825
+2024,cmp,42,Hubei,0.0141,0.9825
+2024,cmp,44,Guangdong,0.2780,0.9825
+2024,cmp,50,Chongqing,0.0018,0.9825
+2024,cmp,51,Sichuan,0.0716,0.9825
+2024,cmp,61,Shaanxi,0.0385,0.9825
+2024,cmp,12,Tianjin,0.0003,0.9825
+2024,cmp,21,Liaoning,0.0001,0.9825
+2024,deposition,11,Beijing,0.0920,0.9433
+2024,deposition,21,Liaoning,0.0005,0.9433
+2024,deposition,31,Shanghai,0.2279,0.9433
+2024,deposition,32,Jiangsu,0.1254,0.9433
+2024,deposition,33,Zhejiang,0.0373,0.9433
+2024,deposition,34,Anhui,0.1209,0.9433
+2024,deposition,35,Fujian,0.0153,0.9433
+2024,deposition,37,Shandong,0.0592,0.9433
+2024,deposition,42,Hubei,0.0435,0.9433
+2024,deposition,44,Guangdong,0.1951,0.9433
+2024,deposition,50,Chongqing,0.0076,0.9433
+2024,deposition,51,Sichuan,0.0639,0.9433
+2024,deposition,61,Shaanxi,0.0112,0.9433
+2024,deposition,12,Tianjin,0.0001,0.9433
+2024,doping,11,Beijing,0.1023,0.9707
+2024,doping,12,Tianjin,0.0145,0.9707
+2024,doping,31,Shanghai,0.1771,0.9707
+2024,doping,32,Jiangsu,0.1270,0.9707
+2024,doping,33,Zhejiang,0.1114,0.9707
+2024,doping,34,Anhui,0.0809,0.9707
+2024,doping,35,Fujian,0.0290,0.9707
+2024,doping,37,Shandong,0.0264,0.9707
+2024,doping,42,Hubei,0.0329,0.9707
+2024,doping,44,Guangdong,0.2160,0.9707
+2024,doping,50,Chongqing,0.0086,0.9707
+2024,doping,51,Sichuan,0.0656,0.9707
+2024,doping,61,Shaanxi,0.0084,0.9707
+2024,dry_etch,11,Beijing,0.1306,0.9762
+2024,dry_etch,12,Tianjin,0.0011,0.9762
+2024,dry_etch,21,Liaoning,0.0068,0.9762
+2024,dry_etch,31,Shanghai,0.1961,0.9762
+2024,dry_etch,32,Jiangsu,0.0856,0.9762
+2024,dry_etch,33,Zhejiang,0.0247,0.9762
+2024,dry_etch,34,Anhui,0.1277,0.9762
+2024,dry_etch,35,Fujian,0.0105,0.9762
+2024,dry_etch,37,Shandong,0.0460,0.9762
+2024,dry_etch,42,Hubei,0.0537,0.9762
+2024,dry_etch,44,Guangdong,0.2586,0.9762
+2024,dry_etch,50,Chongqing,0.0067,0.9762
+2024,dry_etch,51,Sichuan,0.0433,0.9762
+2024,dry_etch,61,Shaanxi,0.0087,0.9762
+2024,handling_unallocated,11,Beijing,0.2187,0.8807
+2024,handling_unallocated,12,Tianjin,0.0015,0.8807
+2024,handling_unallocated,21,Liaoning,0.0173,0.8807
+2024,handling_unallocated,31,Shanghai,0.1101,0.8807
+2024,handling_unallocated,32,Jiangsu,0.1158,0.8807
+2024,handling_unallocated,33,Zhejiang,0.0182,0.8807
+2024,handling_unallocated,34,Anhui,0.0482,0.8807
+2024,handling_unallocated,35,Fujian,0.0426,0.8807
+2024,handling_unallocated,37,Shandong,0.0153,0.8807
+2024,handling_unallocated,42,Hubei,0.0082,0.8807
+2024,handling_unallocated,44,Guangdong,0.2907,0.8807
+2024,handling_unallocated,50,Chongqing,0.0049,0.8807
+2024,handling_unallocated,51,Sichuan,0.0812,0.8807
+2024,handling_unallocated,61,Shaanxi,0.0273,0.8807
+2024,litho,11,Beijing,0.1907,0.9977
+2024,litho,21,Liaoning,0.0004,0.9977
+2024,litho,31,Shanghai,0.2071,0.9977
+2024,litho,32,Jiangsu,0.0686,0.9977
+2024,litho,33,Zhejiang,0.0280,0.9977
+2024,litho,34,Anhui,0.1116,0.9977
+2024,litho,35,Fujian,0.0433,0.9977
+2024,litho,37,Shandong,0.0732,0.9977
+2024,litho,42,Hubei,0.0850,0.9977
+2024,litho,44,Guangdong,0.1086,0.9977
+2024,litho,50,Chongqing,0.0009,0.9977
+2024,litho,51,Sichuan,0.0788,0.9977
+2024,litho,61,Shaanxi,0.0036,0.9977
+2024,litho,12,Tianjin,0.0001,0.9977
+2024,mask_making,11,Beijing,0.0000,0.8611
+2024,mask_making,31,Shanghai,0.1717,0.8611
+2024,mask_making,32,Jiangsu,0.0624,0.8611
+2024,mask_making,33,Zhejiang,0.1248,0.8611
+2024,mask_making,34,Anhui,0.1938,0.8611
+2024,mask_making,35,Fujian,0.0000,0.8611
+2024,mask_making,37,Shandong,0.3349,0.8611
+2024,mask_making,42,Hubei,0.0033,0.8611
+2024,mask_making,44,Guangdong,0.0590,0.8611
+2024,mask_making,50,Chongqing,0.0334,0.8611
+2024,mask_making,51,Sichuan,0.0167,0.8611
+2024,process_control,11,Beijing,0.0929,0.7873
+2024,process_control,12,Tianjin,0.0072,0.7873
+2024,process_control,21,Liaoning,0.0069,0.7873
+2024,process_control,31,Shanghai,0.2253,0.7873
+2024,process_control,32,Jiangsu,0.1162,0.7873
+2024,process_control,33,Zhejiang,0.0687,0.7873
+2024,process_control,34,Anhui,0.1222,0.7873
+2024,process_control,35,Fujian,0.0128,0.7873
+2024,process_control,37,Shandong,0.0533,0.7873
+2024,process_control,42,Hubei,0.0254,0.7873
+2024,process_control,44,Guangdong,0.2082,0.7873
+2024,process_control,50,Chongqing,0.0067,0.7873
+2024,process_control,51,Sichuan,0.0396,0.7873
+2024,process_control,61,Shaanxi,0.0144,0.7873
+2024,test,11,Beijing,0.0460,0.8569
+2024,test,12,Tianjin,0.0042,0.8569
+2024,test,21,Liaoning,0.0017,0.8569
+2024,test,31,Shanghai,0.1282,0.8569
+2024,test,32,Jiangsu,0.1327,0.8569
+2024,test,33,Zhejiang,0.0488,0.8569
+2024,test,34,Anhui,0.0339,0.8569
+2024,test,35,Fujian,0.0093,0.8569
+2024,test,37,Shandong,0.0280,0.8569
+2024,test,42,Hubei,0.0555,0.8569
+2024,test,44,Guangdong,0.1996,0.8569
+2024,test,50,Chongqing,0.0078,0.8569
+2024,test,51,Sichuan,0.2766,0.8569
+2024,test,61,Shaanxi,0.0277,0.8569
+2024,thermal,11,Beijing,0.1253,0.9852
+2024,thermal,12,Tianjin,0.0048,0.9852
+2024,thermal,21,Liaoning,0.0002,0.9852
+2024,thermal,31,Shanghai,0.2484,0.9852
+2024,thermal,32,Jiangsu,0.1213,0.9852
+2024,thermal,33,Zhejiang,0.0547,0.9852
+2024,thermal,34,Anhui,0.0860,0.9852
+2024,thermal,35,Fujian,0.0193,0.9852
+2024,thermal,37,Shandong,0.0364,0.9852
+2024,thermal,42,Hubei,0.0285,0.9852
+2024,thermal,44,Guangdong,0.1766,0.9852
+2024,thermal,50,Chongqing,0.0069,0.9852
+2024,thermal,51,Sichuan,0.0866,0.9852
+2024,thermal,61,Shaanxi,0.0051,0.9852
+2024,track_automation_other,11,Beijing,0.0679,0.8885
+2024,track_automation_other,12,Tianjin,0.0043,0.8885
+2024,track_automation_other,21,Liaoning,0.0013,0.8885
+2024,track_automation_other,31,Shanghai,0.3077,0.8885
+2024,track_automation_other,32,Jiangsu,0.1138,0.8885
+2024,track_automation_other,33,Zhejiang,0.0208,0.8885
+2024,track_automation_other,34,Anhui,0.0531,0.8885
+2024,track_automation_other,35,Fujian,0.0161,0.8885
+2024,track_automation_other,37,Shandong,0.0214,0.8885
+2024,track_automation_other,42,Hubei,0.0418,0.8885
+2024,track_automation_other,44,Guangdong,0.2685,0.8885
+2024,track_automation_other,50,Chongqing,0.0090,0.8885
+2024,track_automation_other,51,Sichuan,0.0682,0.8885
+2024,track_automation_other,61,Shaanxi,0.0064,0.8885
+2024,wafer_making,11,Beijing,0.0552,1.0000
+2024,wafer_making,12,Tianjin,0.0089,1.0000
+2024,wafer_making,21,Liaoning,0.0009,1.0000
+2024,wafer_making,31,Shanghai,0.1824,1.0000
+2024,wafer_making,32,Jiangsu,0.2403,1.0000
+2024,wafer_making,33,Zhejiang,0.1519,1.0000
+2024,wafer_making,34,Anhui,0.0615,1.0000
+2024,wafer_making,35,Fujian,0.0215,1.0000
+2024,wafer_making,37,Shandong,0.0154,1.0000
+2024,wafer_making,42,Hubei,0.0173,1.0000
+2024,wafer_making,44,Guangdong,0.1443,1.0000
+2024,wafer_making,50,Chongqing,0.0224,1.0000
+2024,wafer_making,51,Sichuan,0.0272,1.0000
+2024,wafer_making,61,Shaanxi,0.0507,1.0000
+2025,backend,11,Beijing,0.0311,0.6949
+2025,backend,12,Tianjin,0.0044,0.6949
+2025,backend,21,Liaoning,0.0011,0.6949
+2025,backend,31,Shanghai,0.1518,0.6949
+2025,backend,32,Jiangsu,0.3260,0.6949
+2025,backend,33,Zhejiang,0.0696,0.6949
+2025,backend,34,Anhui,0.0448,0.6949
+2025,backend,35,Fujian,0.0202,0.6949
+2025,backend,37,Shandong,0.0039,0.6949
+2025,backend,42,Hubei,0.0242,0.6949
+2025,backend,44,Guangdong,0.1848,0.6949
+2025,backend,50,Chongqing,0.0164,0.6949
+2025,backend,51,Sichuan,0.0794,0.6949
+2025,backend,61,Shaanxi,0.0422,0.6949
+2025,cleaning_strip,11,Beijing,0.1644,0.8312
+2025,cleaning_strip,12,Tianjin,0.0015,0.8312
+2025,cleaning_strip,21,Liaoning,0.0012,0.8312
+2025,cleaning_strip,31,Shanghai,0.2292,0.8312
+2025,cleaning_strip,32,Jiangsu,0.0812,0.8312
+2025,cleaning_strip,33,Zhejiang,0.0372,0.8312
+2025,cleaning_strip,34,Anhui,0.1393,0.8312
+2025,cleaning_strip,35,Fujian,0.0056,0.8312
+2025,cleaning_strip,37,Shandong,0.0064,0.8312
+2025,cleaning_strip,42,Hubei,0.1215,0.8312
+2025,cleaning_strip,44,Guangdong,0.1332,0.8312
+2025,cleaning_strip,50,Chongqing,0.0318,0.8312
+2025,cleaning_strip,51,Sichuan,0.0212,0.8312
+2025,cleaning_strip,61,Shaanxi,0.0262,0.8312
+2025,cmp,11,Beijing,0.0661,0.9704
+2025,cmp,21,Liaoning,0.0016,0.9704
+2025,cmp,31,Shanghai,0.0805,0.9704
+2025,cmp,32,Jiangsu,0.1171,0.9704
+2025,cmp,33,Zhejiang,0.0412,0.9704
+2025,cmp,34,Anhui,0.0666,0.9704
+2025,cmp,35,Fujian,0.0009,0.9704
+2025,cmp,37,Shandong,0.0118,0.9704
+2025,cmp,42,Hubei,0.0077,0.9704
+2025,cmp,44,Guangdong,0.4842,0.9704
+2025,cmp,50,Chongqing,0.0042,0.9704
+2025,cmp,51,Sichuan,0.0395,0.9704
+2025,cmp,61,Shaanxi,0.0782,0.9704
+2025,cmp,12,Tianjin,0.0001,0.9704
+2025,deposition,11,Beijing,0.1022,0.9608
+2025,deposition,12,Tianjin,0.0002,0.9608
+2025,deposition,21,Liaoning,0.0047,0.9608
+2025,deposition,31,Shanghai,0.2413,0.9608
+2025,deposition,32,Jiangsu,0.0872,0.9608
+2025,deposition,33,Zhejiang,0.0264,0.9608
+2025,deposition,34,Anhui,0.0495,0.9608
+2025,deposition,35,Fujian,0.0066,0.9608
+2025,deposition,37,Shandong,0.0046,0.9608
+2025,deposition,42,Hubei,0.0592,0.9608
+2025,deposition,44,Guangdong,0.3002,0.9608
+2025,deposition,50,Chongqing,0.0255,0.9608
+2025,deposition,51,Sichuan,0.0485,0.9608
+2025,deposition,61,Shaanxi,0.0439,0.9608
+2025,doping,11,Beijing,0.1283,0.9589
+2025,doping,12,Tianjin,0.0248,0.9589
+2025,doping,21,Liaoning,0.0081,0.9589
+2025,doping,31,Shanghai,0.1964,0.9589
+2025,doping,32,Jiangsu,0.1391,0.9589
+2025,doping,33,Zhejiang,0.1071,0.9589
+2025,doping,34,Anhui,0.0616,0.9589
+2025,doping,35,Fujian,0.0474,0.9589
+2025,doping,37,Shandong,0.0058,0.9589
+2025,doping,42,Hubei,0.0554,0.9589
+2025,doping,44,Guangdong,0.1266,0.9589
+2025,doping,50,Chongqing,0.0437,0.9589
+2025,doping,51,Sichuan,0.0315,0.9589
+2025,doping,61,Shaanxi,0.0241,0.9589
+2025,dry_etch,11,Beijing,0.0966,0.9860
+2025,dry_etch,12,Tianjin,0.0006,0.9860
+2025,dry_etch,21,Liaoning,0.0193,0.9860
+2025,dry_etch,31,Shanghai,0.2850,0.9860
+2025,dry_etch,32,Jiangsu,0.0497,0.9860
+2025,dry_etch,33,Zhejiang,0.0094,0.9860
+2025,dry_etch,34,Anhui,0.0491,0.9860
+2025,dry_etch,35,Fujian,0.0005,0.9860
+2025,dry_etch,37,Shandong,0.0002,0.9860
+2025,dry_etch,42,Hubei,0.0176,0.9860
+2025,dry_etch,44,Guangdong,0.3918,0.9860
+2025,dry_etch,50,Chongqing,0.0103,0.9860
+2025,dry_etch,51,Sichuan,0.0349,0.9860
+2025,dry_etch,61,Shaanxi,0.0351,0.9860
+2025,handling_unallocated,11,Beijing,0.1131,0.9133
+2025,handling_unallocated,12,Tianjin,0.0010,0.9133
+2025,handling_unallocated,21,Liaoning,0.0274,0.9133
+2025,handling_unallocated,31,Shanghai,0.2024,0.9133
+2025,handling_unallocated,32,Jiangsu,0.0919,0.9133
+2025,handling_unallocated,33,Zhejiang,0.0357,0.9133
+2025,handling_unallocated,34,Anhui,0.0302,0.9133
+2025,handling_unallocated,35,Fujian,0.0250,0.9133
+2025,handling_unallocated,37,Shandong,0.0049,0.9133
+2025,handling_unallocated,42,Hubei,0.0038,0.9133
+2025,handling_unallocated,44,Guangdong,0.0954,0.9133
+2025,handling_unallocated,50,Chongqing,0.0169,0.9133
+2025,handling_unallocated,51,Sichuan,0.3413,0.9133
+2025,handling_unallocated,61,Shaanxi,0.0112,0.9133
+2025,litho,11,Beijing,0.1467,0.9917
+2025,litho,31,Shanghai,0.4051,0.9917
+2025,litho,32,Jiangsu,0.0378,0.9917
+2025,litho,33,Zhejiang,0.0294,0.9917
+2025,litho,34,Anhui,0.0401,0.9917
+2025,litho,35,Fujian,0.0035,0.9917
+2025,litho,37,Shandong,0.0034,0.9917
+2025,litho,42,Hubei,0.1073,0.9917
+2025,litho,44,Guangdong,0.1904,0.9917
+2025,litho,50,Chongqing,0.0160,0.9917
+2025,litho,51,Sichuan,0.0171,0.9917
+2025,litho,61,Shaanxi,0.0030,0.9917
+2025,litho,12,Tianjin,0.0002,0.9917
+2025,mask_making,12,Tianjin,0.0002,0.8297
+2025,mask_making,31,Shanghai,0.2089,0.8297
+2025,mask_making,32,Jiangsu,0.0750,0.8297
+2025,mask_making,33,Zhejiang,0.1209,0.8297
+2025,mask_making,34,Anhui,0.1205,0.8297
+2025,mask_making,35,Fujian,0.0292,0.8297
+2025,mask_making,37,Shandong,0.2039,0.8297
+2025,mask_making,42,Hubei,0.0053,0.8297
+2025,mask_making,44,Guangdong,0.1795,0.8297
+2025,mask_making,50,Chongqing,0.0196,0.8297
+2025,mask_making,51,Sichuan,0.0370,0.8297
+2025,process_control,11,Beijing,0.0654,0.7034
+2025,process_control,12,Tianjin,0.0010,0.7034
+2025,process_control,21,Liaoning,0.0001,0.7034
+2025,process_control,31,Shanghai,0.3171,0.7034
+2025,process_control,32,Jiangsu,0.1113,0.7034
+2025,process_control,33,Zhejiang,0.0614,0.7034
+2025,process_control,34,Anhui,0.0648,0.7034
+2025,process_control,35,Fujian,0.0031,0.7034
+2025,process_control,37,Shandong,0.0257,0.7034
+2025,process_control,42,Hubei,0.0127,0.7034
+2025,process_control,44,Guangdong,0.2316,0.7034
+2025,process_control,50,Chongqing,0.0298,0.7034
+2025,process_control,51,Sichuan,0.0476,0.7034
+2025,process_control,61,Shaanxi,0.0284,0.7034
+2025,test,11,Beijing,0.0557,0.8698
+2025,test,12,Tianjin,0.0036,0.8698
+2025,test,21,Liaoning,0.0010,0.8698
+2025,test,31,Shanghai,0.1278,0.8698
+2025,test,32,Jiangsu,0.1287,0.8698
+2025,test,33,Zhejiang,0.0554,0.8698
+2025,test,34,Anhui,0.1114,0.8698
+2025,test,35,Fujian,0.0128,0.8698
+2025,test,37,Shandong,0.0032,0.8698
+2025,test,42,Hubei,0.0600,0.8698
+2025,test,44,Guangdong,0.2241,0.8698
+2025,test,50,Chongqing,0.0285,0.8698
+2025,test,51,Sichuan,0.1793,0.8698
+2025,test,61,Shaanxi,0.0086,0.8698
+2025,thermal,11,Beijing,0.1481,0.9649
+2025,thermal,12,Tianjin,0.0070,0.9649
+2025,thermal,21,Liaoning,0.0000,0.9649
+2025,thermal,31,Shanghai,0.2451,0.9649
+2025,thermal,32,Jiangsu,0.1156,0.9649
+2025,thermal,33,Zhejiang,0.0235,0.9649
+2025,thermal,34,Anhui,0.0721,0.9649
+2025,thermal,35,Fujian,0.0182,0.9649
+2025,thermal,37,Shandong,0.0059,0.9649
+2025,thermal,42,Hubei,0.0222,0.9649
+2025,thermal,44,Guangdong,0.2639,0.9649
+2025,thermal,50,Chongqing,0.0304,0.9649
+2025,thermal,51,Sichuan,0.0288,0.9649
+2025,thermal,61,Shaanxi,0.0191,0.9649
+2025,track_automation_other,11,Beijing,0.1086,0.7928
+2025,track_automation_other,12,Tianjin,0.0022,0.7928
+2025,track_automation_other,21,Liaoning,0.0024,0.7928
+2025,track_automation_other,31,Shanghai,0.3415,0.7928
+2025,track_automation_other,32,Jiangsu,0.0917,0.7928
+2025,track_automation_other,33,Zhejiang,0.0320,0.7928
+2025,track_automation_other,34,Anhui,0.0519,0.7928
+2025,track_automation_other,35,Fujian,0.0044,0.7928
+2025,track_automation_other,37,Shandong,0.0058,0.7928
+2025,track_automation_other,42,Hubei,0.0579,0.7928
+2025,track_automation_other,44,Guangdong,0.2142,0.7928
+2025,track_automation_other,50,Chongqing,0.0332,0.7928
+2025,track_automation_other,51,Sichuan,0.0365,0.7928
+2025,track_automation_other,61,Shaanxi,0.0177,0.7928
+2025,wafer_making,11,Beijing,0.2125,1.0000
+2025,wafer_making,12,Tianjin,0.0061,1.0000
+2025,wafer_making,21,Liaoning,0.0007,1.0000
+2025,wafer_making,31,Shanghai,0.1252,1.0000
+2025,wafer_making,32,Jiangsu,0.2143,1.0000
+2025,wafer_making,33,Zhejiang,0.1887,1.0000
+2025,wafer_making,34,Anhui,0.0347,1.0000
+2025,wafer_making,37,Shandong,0.0057,1.0000
+2025,wafer_making,42,Hubei,0.0089,1.0000
+2025,wafer_making,44,Guangdong,0.0815,1.0000
+2025,wafer_making,50,Chongqing,0.0065,1.0000
+2025,wafer_making,51,Sichuan,0.0172,1.0000
+2025,wafer_making,61,Shaanxi,0.0955,1.0000
+2025,wafer_making,35,Fujian,0.0024,1.0000
+2025 Jan-Sep,backend,11,Beijing,0.0226,0.7143
+2025 Jan-Sep,backend,12,Tianjin,0.0028,0.7143
+2025 Jan-Sep,backend,21,Liaoning,0.0006,0.7143
+2025 Jan-Sep,backend,31,Shanghai,0.1582,0.7143
+2025 Jan-Sep,backend,32,Jiangsu,0.3090,0.7143
+2025 Jan-Sep,backend,33,Zhejiang,0.0763,0.7143
+2025 Jan-Sep,backend,34,Anhui,0.0468,0.7143
+2025 Jan-Sep,backend,35,Fujian,0.0153,0.7143
+2025 Jan-Sep,backend,37,Shandong,0.0047,0.7143
+2025 Jan-Sep,backend,42,Hubei,0.0252,0.7143
+2025 Jan-Sep,backend,44,Guangdong,0.1976,0.7143
+2025 Jan-Sep,backend,50,Chongqing,0.0187,0.7143
+2025 Jan-Sep,backend,51,Sichuan,0.0803,0.7143
+2025 Jan-Sep,backend,61,Shaanxi,0.0418,0.7143
+2025 Jan-Sep,cleaning_strip,11,Beijing,0.0924,0.8365
+2025 Jan-Sep,cleaning_strip,12,Tianjin,0.0004,0.8365
+2025 Jan-Sep,cleaning_strip,21,Liaoning,0.0014,0.8365
+2025 Jan-Sep,cleaning_strip,31,Shanghai,0.2332,0.8365
+2025 Jan-Sep,cleaning_strip,32,Jiangsu,0.0767,0.8365
+2025 Jan-Sep,cleaning_strip,33,Zhejiang,0.0439,0.8365
+2025 Jan-Sep,cleaning_strip,34,Anhui,0.1628,0.8365
+2025 Jan-Sep,cleaning_strip,35,Fujian,0.0036,0.8365
+2025 Jan-Sep,cleaning_strip,37,Shandong,0.0059,0.8365
+2025 Jan-Sep,cleaning_strip,42,Hubei,0.1507,0.8365
+2025 Jan-Sep,cleaning_strip,44,Guangdong,0.1324,0.8365
+2025 Jan-Sep,cleaning_strip,50,Chongqing,0.0418,0.8365
+2025 Jan-Sep,cleaning_strip,51,Sichuan,0.0241,0.8365
+2025 Jan-Sep,cleaning_strip,61,Shaanxi,0.0307,0.8365
+2025 Jan-Sep,cmp,11,Beijing,0.0080,0.9736
+2025 Jan-Sep,cmp,21,Liaoning,0.0021,0.9736
+2025 Jan-Sep,cmp,31,Shanghai,0.0752,0.9736
+2025 Jan-Sep,cmp,32,Jiangsu,0.1022,0.9736
+2025 Jan-Sep,cmp,33,Zhejiang,0.0420,0.9736
+2025 Jan-Sep,cmp,34,Anhui,0.0757,0.9736
+2025 Jan-Sep,cmp,35,Fujian,0.0011,0.9736
+2025 Jan-Sep,cmp,37,Shandong,0.0131,0.9736
+2025 Jan-Sep,cmp,42,Hubei,0.0076,0.9736
+2025 Jan-Sep,cmp,44,Guangdong,0.5377,0.9736
+2025 Jan-Sep,cmp,50,Chongqing,0.0056,0.9736
+2025 Jan-Sep,cmp,51,Sichuan,0.0502,0.9736
+2025 Jan-Sep,cmp,61,Shaanxi,0.0796,0.9736
+2025 Jan-Sep,cmp,12,Tianjin,0.0001,0.9736
+2025 Jan-Sep,deposition,11,Beijing,0.0492,0.9661
+2025 Jan-Sep,deposition,12,Tianjin,0.0002,0.9661
+2025 Jan-Sep,deposition,21,Liaoning,0.0033,0.9661
+2025 Jan-Sep,deposition,31,Shanghai,0.2633,0.9661
+2025 Jan-Sep,deposition,32,Jiangsu,0.0807,0.9661
+2025 Jan-Sep,deposition,33,Zhejiang,0.0299,0.9661
+2025 Jan-Sep,deposition,34,Anhui,0.0473,0.9661
+2025 Jan-Sep,deposition,35,Fujian,0.0055,0.9661
+2025 Jan-Sep,deposition,37,Shandong,0.0033,0.9661
+2025 Jan-Sep,deposition,42,Hubei,0.0608,0.9661
+2025 Jan-Sep,deposition,44,Guangdong,0.3113,0.9661
+2025 Jan-Sep,deposition,50,Chongqing,0.0298,0.9661
+2025 Jan-Sep,deposition,51,Sichuan,0.0605,0.9661
+2025 Jan-Sep,deposition,61,Shaanxi,0.0548,0.9661
+2025 Jan-Sep,doping,11,Beijing,0.1287,0.9607
+2025 Jan-Sep,doping,12,Tianjin,0.0109,0.9607
+2025 Jan-Sep,doping,21,Liaoning,0.0073,0.9607
+2025 Jan-Sep,doping,31,Shanghai,0.2187,0.9607
+2025 Jan-Sep,doping,32,Jiangsu,0.1104,0.9607
+2025 Jan-Sep,doping,33,Zhejiang,0.1023,0.9607
+2025 Jan-Sep,doping,34,Anhui,0.0672,0.9607
+2025 Jan-Sep,doping,35,Fujian,0.0572,0.9607
+2025 Jan-Sep,doping,42,Hubei,0.0552,0.9607
+2025 Jan-Sep,doping,44,Guangdong,0.1468,0.9607
+2025 Jan-Sep,doping,50,Chongqing,0.0334,0.9607
+2025 Jan-Sep,doping,51,Sichuan,0.0329,0.9607
+2025 Jan-Sep,doping,61,Shaanxi,0.0290,0.9607
+2025 Jan-Sep,dry_etch,11,Beijing,0.0649,0.9860
+2025 Jan-Sep,dry_etch,12,Tianjin,0.0007,0.9860
+2025 Jan-Sep,dry_etch,21,Liaoning,0.0136,0.9860
+2025 Jan-Sep,dry_etch,31,Shanghai,0.2867,0.9860
+2025 Jan-Sep,dry_etch,32,Jiangsu,0.0484,0.9860
+2025 Jan-Sep,dry_etch,33,Zhejiang,0.0101,0.9860
+2025 Jan-Sep,dry_etch,34,Anhui,0.0574,0.9860
+2025 Jan-Sep,dry_etch,35,Fujian,0.0006,0.9860
+2025 Jan-Sep,dry_etch,37,Shandong,0.0003,0.9860
+2025 Jan-Sep,dry_etch,42,Hubei,0.0208,0.9860
+2025 Jan-Sep,dry_etch,44,Guangdong,0.4068,0.9860
+2025 Jan-Sep,dry_etch,50,Chongqing,0.0129,0.9860
+2025 Jan-Sep,dry_etch,51,Sichuan,0.0344,0.9860
+2025 Jan-Sep,dry_etch,61,Shaanxi,0.0426,0.9860
+2025 Jan-Sep,handling_unallocated,11,Beijing,0.1189,0.9178
+2025 Jan-Sep,handling_unallocated,12,Tianjin,0.0011,0.9178
+2025 Jan-Sep,handling_unallocated,21,Liaoning,0.0203,0.9178
+2025 Jan-Sep,handling_unallocated,31,Shanghai,0.2323,0.9178
+2025 Jan-Sep,handling_unallocated,32,Jiangsu,0.0882,0.9178
+2025 Jan-Sep,handling_unallocated,33,Zhejiang,0.0463,0.9178
+2025 Jan-Sep,handling_unallocated,34,Anhui,0.0300,0.9178
+2025 Jan-Sep,handling_unallocated,35,Fujian,0.0151,0.9178
+2025 Jan-Sep,handling_unallocated,37,Shandong,0.0050,0.9178
+2025 Jan-Sep,handling_unallocated,42,Hubei,0.0041,0.9178
+2025 Jan-Sep,handling_unallocated,44,Guangdong,0.1125,0.9178
+2025 Jan-Sep,handling_unallocated,50,Chongqing,0.0187,0.9178
+2025 Jan-Sep,handling_unallocated,51,Sichuan,0.2969,0.9178
+2025 Jan-Sep,handling_unallocated,61,Shaanxi,0.0107,0.9178
+2025 Jan-Sep,litho,11,Beijing,0.0727,0.9932
+2025 Jan-Sep,litho,31,Shanghai,0.3425,0.9932
+2025 Jan-Sep,litho,32,Jiangsu,0.0463,0.9932
+2025 Jan-Sep,litho,33,Zhejiang,0.0120,0.9932
+2025 Jan-Sep,litho,34,Anhui,0.0589,0.9932
+2025 Jan-Sep,litho,35,Fujian,0.0056,0.9932
+2025 Jan-Sep,litho,37,Shandong,0.0031,0.9932
+2025 Jan-Sep,litho,42,Hubei,0.1362,0.9932
+2025 Jan-Sep,litho,44,Guangdong,0.2671,0.9932
+2025 Jan-Sep,litho,50,Chongqing,0.0234,0.9932
+2025 Jan-Sep,litho,51,Sichuan,0.0272,0.9932
+2025 Jan-Sep,litho,61,Shaanxi,0.0047,0.9932
+2025 Jan-Sep,litho,12,Tianjin,0.0004,0.9932
+2025 Jan-Sep,mask_making,12,Tianjin,0.0001,0.8089
+2025 Jan-Sep,mask_making,31,Shanghai,0.2968,0.8089
+2025 Jan-Sep,mask_making,32,Jiangsu,0.0684,0.8089
+2025 Jan-Sep,mask_making,33,Zhejiang,0.0920,0.8089
+2025 Jan-Sep,mask_making,34,Anhui,0.0079,0.8089
+2025 Jan-Sep,mask_making,35,Fujian,0.0435,0.8089
+2025 Jan-Sep,mask_making,37,Shandong,0.2897,0.8089
+2025 Jan-Sep,mask_making,42,Hubei,0.0031,0.8089
+2025 Jan-Sep,mask_making,44,Guangdong,0.1184,0.8089
+2025 Jan-Sep,mask_making,50,Chongqing,0.0293,0.8089
+2025 Jan-Sep,mask_making,51,Sichuan,0.0509,0.8089
+2025 Jan-Sep,process_control,11,Beijing,0.0458,0.7048
+2025 Jan-Sep,process_control,12,Tianjin,0.0012,0.7048
+2025 Jan-Sep,process_control,21,Liaoning,0.0001,0.7048
+2025 Jan-Sep,process_control,31,Shanghai,0.3410,0.7048
+2025 Jan-Sep,process_control,32,Jiangsu,0.1074,0.7048
+2025 Jan-Sep,process_control,33,Zhejiang,0.0587,0.7048
+2025 Jan-Sep,process_control,34,Anhui,0.0512,0.7048
+2025 Jan-Sep,process_control,35,Fujian,0.0039,0.7048
+2025 Jan-Sep,process_control,37,Shandong,0.0251,0.7048
+2025 Jan-Sep,process_control,42,Hubei,0.0137,0.7048
+2025 Jan-Sep,process_control,44,Guangdong,0.2601,0.7048
+2025 Jan-Sep,process_control,50,Chongqing,0.0257,0.7048
+2025 Jan-Sep,process_control,51,Sichuan,0.0472,0.7048
+2025 Jan-Sep,process_control,61,Shaanxi,0.0190,0.7048
+2025 Jan-Sep,test,11,Beijing,0.0403,0.8784
+2025 Jan-Sep,test,12,Tianjin,0.0039,0.8784
+2025 Jan-Sep,test,21,Liaoning,0.0012,0.8784
+2025 Jan-Sep,test,31,Shanghai,0.1135,0.8784
+2025 Jan-Sep,test,32,Jiangsu,0.1218,0.8784
+2025 Jan-Sep,test,33,Zhejiang,0.0599,0.8784
+2025 Jan-Sep,test,34,Anhui,0.1213,0.8784
+2025 Jan-Sep,test,35,Fujian,0.0107,0.8784
+2025 Jan-Sep,test,37,Shandong,0.0040,0.8784
+2025 Jan-Sep,test,42,Hubei,0.0595,0.8784
+2025 Jan-Sep,test,44,Guangdong,0.2136,0.8784
+2025 Jan-Sep,test,50,Chongqing,0.0294,0.8784
+2025 Jan-Sep,test,51,Sichuan,0.2103,0.8784
+2025 Jan-Sep,test,61,Shaanxi,0.0105,0.8784
+2025 Jan-Sep,thermal,11,Beijing,0.1153,0.9792
+2025 Jan-Sep,thermal,12,Tianjin,0.0088,0.9792
+2025 Jan-Sep,thermal,31,Shanghai,0.2478,0.9792
+2025 Jan-Sep,thermal,32,Jiangsu,0.1078,0.9792
+2025 Jan-Sep,thermal,33,Zhejiang,0.0268,0.9792
+2025 Jan-Sep,thermal,34,Anhui,0.0796,0.9792
+2025 Jan-Sep,thermal,35,Fujian,0.0151,0.9792
+2025 Jan-Sep,thermal,37,Shandong,0.0000,0.9792
+2025 Jan-Sep,thermal,42,Hubei,0.0159,0.9792
+2025 Jan-Sep,thermal,44,Guangdong,0.2940,0.9792
+2025 Jan-Sep,thermal,50,Chongqing,0.0380,0.9792
+2025 Jan-Sep,thermal,51,Sichuan,0.0266,0.9792
+2025 Jan-Sep,thermal,61,Shaanxi,0.0243,0.9792
+2025 Jan-Sep,track_automation_other,11,Beijing,0.0753,0.8106
+2025 Jan-Sep,track_automation_other,12,Tianjin,0.0017,0.8106
+2025 Jan-Sep,track_automation_other,21,Liaoning,0.0024,0.8106
+2025 Jan-Sep,track_automation_other,31,Shanghai,0.3346,0.8106
+2025 Jan-Sep,track_automation_other,32,Jiangsu,0.0909,0.8106
+2025 Jan-Sep,track_automation_other,33,Zhejiang,0.0331,0.8106
+2025 Jan-Sep,track_automation_other,34,Anhui,0.0609,0.8106
+2025 Jan-Sep,track_automation_other,35,Fujian,0.0049,0.8106
+2025 Jan-Sep,track_automation_other,37,Shandong,0.0066,0.8106
+2025 Jan-Sep,track_automation_other,42,Hubei,0.0554,0.8106
+2025 Jan-Sep,track_automation_other,44,Guangdong,0.2304,0.8106
+2025 Jan-Sep,track_automation_other,50,Chongqing,0.0430,0.8106
+2025 Jan-Sep,track_automation_other,51,Sichuan,0.0388,0.8106
+2025 Jan-Sep,track_automation_other,61,Shaanxi,0.0221,0.8106
+2025 Jan-Sep,wafer_making,11,Beijing,0.1522,1.0000
+2025 Jan-Sep,wafer_making,12,Tianjin,0.0049,1.0000
+2025 Jan-Sep,wafer_making,31,Shanghai,0.1428,1.0000
+2025 Jan-Sep,wafer_making,32,Jiangsu,0.2371,1.0000
+2025 Jan-Sep,wafer_making,33,Zhejiang,0.1775,1.0000
+2025 Jan-Sep,wafer_making,34,Anhui,0.0385,1.0000
+2025 Jan-Sep,wafer_making,37,Shandong,0.0054,1.0000
+2025 Jan-Sep,wafer_making,42,Hubei,0.0094,1.0000
+2025 Jan-Sep,wafer_making,44,Guangdong,0.0896,1.0000
+2025 Jan-Sep,wafer_making,50,Chongqing,0.0056,1.0000
+2025 Jan-Sep,wafer_making,51,Sichuan,0.0182,1.0000
+2025 Jan-Sep,wafer_making,61,Shaanxi,0.1163,1.0000
+2025 Jan-Sep,wafer_making,35,Fujian,0.0024,1.0000
+2025 Jan-Sep,wafer_making,21,Liaoning,0.0002,1.0000
+2026 Jan-Sep,backend,11,Beijing,0.0362,0.6871
+2026 Jan-Sep,backend,12,Tianjin,0.0012,0.6871
+2026 Jan-Sep,backend,21,Liaoning,0.0022,0.6871
+2026 Jan-Sep,backend,31,Shanghai,0.2079,0.6871
+2026 Jan-Sep,backend,32,Jiangsu,0.3534,0.6871
+2026 Jan-Sep,backend,33,Zhejiang,0.0766,0.6871
+2026 Jan-Sep,backend,34,Anhui,0.0274,0.6871
+2026 Jan-Sep,backend,35,Fujian,0.0268,0.6871
+2026 Jan-Sep,backend,37,Shandong,0.0127,0.6871
+2026 Jan-Sep,backend,42,Hubei,0.0159,0.6871
+2026 Jan-Sep,backend,44,Guangdong,0.0903,0.6871
+2026 Jan-Sep,backend,50,Chongqing,0.0144,0.6871
+2026 Jan-Sep,backend,51,Sichuan,0.0929,0.6871
+2026 Jan-Sep,backend,61,Shaanxi,0.0422,0.6871
+2026 Jan-Sep,cleaning_strip,11,Beijing,0.1686,0.8509
+2026 Jan-Sep,cleaning_strip,12,Tianjin,0.0049,0.8509
+2026 Jan-Sep,cleaning_strip,21,Liaoning,0.0054,0.8509
+2026 Jan-Sep,cleaning_strip,31,Shanghai,0.3166,0.8509
+2026 Jan-Sep,cleaning_strip,32,Jiangsu,0.1368,0.8509
+2026 Jan-Sep,cleaning_strip,33,Zhejiang,0.0200,0.8509
+2026 Jan-Sep,cleaning_strip,34,Anhui,0.0443,0.8509
+2026 Jan-Sep,cleaning_strip,35,Fujian,0.0208,0.8509
+2026 Jan-Sep,cleaning_strip,37,Shandong,0.0071,0.8509
+2026 Jan-Sep,cleaning_strip,42,Hubei,0.0990,0.8509
+2026 Jan-Sep,cleaning_strip,44,Guangdong,0.1145,0.8509
+2026 Jan-Sep,cleaning_strip,50,Chongqing,0.0065,0.8509
+2026 Jan-Sep,cleaning_strip,51,Sichuan,0.0450,0.8509
+2026 Jan-Sep,cleaning_strip,61,Shaanxi,0.0103,0.8509
+2026 Jan-Sep,cmp,11,Beijing,0.3791,0.9687
+2026 Jan-Sep,cmp,31,Shanghai,0.1815,0.9687
+2026 Jan-Sep,cmp,32,Jiangsu,0.1199,0.9687
+2026 Jan-Sep,cmp,33,Zhejiang,0.0709,0.9687
+2026 Jan-Sep,cmp,34,Anhui,0.0589,0.9687
+2026 Jan-Sep,cmp,35,Fujian,0.0082,0.9687
+2026 Jan-Sep,cmp,37,Shandong,0.0066,0.9687
+2026 Jan-Sep,cmp,42,Hubei,0.0233,0.9687
+2026 Jan-Sep,cmp,44,Guangdong,0.0784,0.9687
+2026 Jan-Sep,cmp,51,Sichuan,0.0220,0.9687
+2026 Jan-Sep,cmp,61,Shaanxi,0.0475,0.9687
+2026 Jan-Sep,cmp,12,Tianjin,0.0005,0.9687
+2026 Jan-Sep,cmp,21,Liaoning,0.0009,0.9687
+2026 Jan-Sep,cmp,50,Chongqing,0.0022,0.9687
+2026 Jan-Sep,deposition,11,Beijing,0.1885,0.9757
+2026 Jan-Sep,deposition,12,Tianjin,0.0005,0.9757
+2026 Jan-Sep,deposition,21,Liaoning,0.0341,0.9757
+2026 Jan-Sep,deposition,31,Shanghai,0.4490,0.9757
+2026 Jan-Sep,deposition,32,Jiangsu,0.0767,0.9757
+2026 Jan-Sep,deposition,33,Zhejiang,0.0334,0.9757
+2026 Jan-Sep,deposition,34,Anhui,0.0230,0.9757
+2026 Jan-Sep,deposition,35,Fujian,0.0206,0.9757
+2026 Jan-Sep,deposition,37,Shandong,0.0030,0.9757
+2026 Jan-Sep,deposition,42,Hubei,0.0319,0.9757
+2026 Jan-Sep,deposition,44,Guangdong,0.0584,0.9757
+2026 Jan-Sep,deposition,50,Chongqing,0.0077,0.9757
+2026 Jan-Sep,deposition,51,Sichuan,0.0345,0.9757
+2026 Jan-Sep,deposition,61,Shaanxi,0.0388,0.9757
+2026 Jan-Sep,doping,11,Beijing,0.2837,0.9799
+2026 Jan-Sep,doping,12,Tianjin,0.0438,0.9799
+2026 Jan-Sep,doping,21,Liaoning,0.0108,0.9799
+2026 Jan-Sep,doping,31,Shanghai,0.2759,0.9799
+2026 Jan-Sep,doping,32,Jiangsu,0.1072,0.9799
+2026 Jan-Sep,doping,33,Zhejiang,0.0411,0.9799
+2026 Jan-Sep,doping,34,Anhui,0.0215,0.9799
+2026 Jan-Sep,doping,35,Fujian,0.0465,0.9799
+2026 Jan-Sep,doping,37,Shandong,0.0053,0.9799
+2026 Jan-Sep,doping,42,Hubei,0.0365,0.9799
+2026 Jan-Sep,doping,44,Guangdong,0.0671,0.9799
+2026 Jan-Sep,doping,50,Chongqing,0.0188,0.9799
+2026 Jan-Sep,doping,51,Sichuan,0.0308,0.9799
+2026 Jan-Sep,doping,61,Shaanxi,0.0109,0.9799
+2026 Jan-Sep,dry_etch,11,Beijing,0.1989,0.9905
+2026 Jan-Sep,dry_etch,12,Tianjin,0.0041,0.9905
+2026 Jan-Sep,dry_etch,21,Liaoning,0.0722,0.9905
+2026 Jan-Sep,dry_etch,31,Shanghai,0.4203,0.9905
+2026 Jan-Sep,dry_etch,32,Jiangsu,0.0493,0.9905
+2026 Jan-Sep,dry_etch,33,Zhejiang,0.0117,0.9905
+2026 Jan-Sep,dry_etch,34,Anhui,0.0093,0.9905
+2026 Jan-Sep,dry_etch,35,Fujian,0.0014,0.9905
+2026 Jan-Sep,dry_etch,37,Shandong,0.0011,0.9905
+2026 Jan-Sep,dry_etch,42,Hubei,0.0043,0.9905
+2026 Jan-Sep,dry_etch,44,Guangdong,0.0928,0.9905
+2026 Jan-Sep,dry_etch,50,Chongqing,0.0040,0.9905
+2026 Jan-Sep,dry_etch,51,Sichuan,0.1007,0.9905
+2026 Jan-Sep,dry_etch,61,Shaanxi,0.0299,0.9905
+2026 Jan-Sep,handling_unallocated,11,Beijing,0.1875,0.8188
+2026 Jan-Sep,handling_unallocated,12,Tianjin,0.0042,0.8188
+2026 Jan-Sep,handling_unallocated,21,Liaoning,0.0588,0.8188
+2026 Jan-Sep,handling_unallocated,31,Shanghai,0.1140,0.8188
+2026 Jan-Sep,handling_unallocated,32,Jiangsu,0.1043,0.8188
+2026 Jan-Sep,handling_unallocated,33,Zhejiang,0.0266,0.8188
+2026 Jan-Sep,handling_unallocated,34,Anhui,0.2213,0.8188
+2026 Jan-Sep,handling_unallocated,35,Fujian,0.0790,0.8188
+2026 Jan-Sep,handling_unallocated,37,Shandong,0.0098,0.8188
+2026 Jan-Sep,handling_unallocated,42,Hubei,0.0016,0.8188
+2026 Jan-Sep,handling_unallocated,44,Guangdong,0.0712,0.8188
+2026 Jan-Sep,handling_unallocated,50,Chongqing,0.0090,0.8188
+2026 Jan-Sep,handling_unallocated,51,Sichuan,0.0902,0.8188
+2026 Jan-Sep,handling_unallocated,61,Shaanxi,0.0224,0.8188
+2026 Jan-Sep,litho,11,Beijing,0.1168,0.9768
+2026 Jan-Sep,litho,21,Liaoning,0.0001,0.9768
+2026 Jan-Sep,litho,31,Shanghai,0.4628,0.9768
+2026 Jan-Sep,litho,32,Jiangsu,0.0459,0.9768
+2026 Jan-Sep,litho,33,Zhejiang,0.0587,0.9768
+2026 Jan-Sep,litho,34,Anhui,0.0376,0.9768
+2026 Jan-Sep,litho,35,Fujian,0.0014,0.9768
+2026 Jan-Sep,litho,37,Shandong,0.0015,0.9768
+2026 Jan-Sep,litho,42,Hubei,0.0434,0.9768
+2026 Jan-Sep,litho,44,Guangdong,0.0875,0.9768
+2026 Jan-Sep,litho,50,Chongqing,0.0330,0.9768
+2026 Jan-Sep,litho,61,Shaanxi,0.0114,0.9768
+2026 Jan-Sep,litho,12,Tianjin,0.0022,0.9768
+2026 Jan-Sep,litho,51,Sichuan,0.0977,0.9768
+2026 Jan-Sep,mask_making,12,Tianjin,0.0006,0.7292
+2026 Jan-Sep,mask_making,31,Shanghai,0.1547,0.7292
+2026 Jan-Sep,mask_making,32,Jiangsu,0.0415,0.7292
+2026 Jan-Sep,mask_making,33,Zhejiang,0.1681,0.7292
+2026 Jan-Sep,mask_making,34,Anhui,0.1293,0.7292
+2026 Jan-Sep,mask_making,35,Fujian,0.1768,0.7292
+2026 Jan-Sep,mask_making,42,Hubei,0.0070,0.7292
+2026 Jan-Sep,mask_making,44,Guangdong,0.3092,0.7292
+2026 Jan-Sep,mask_making,51,Sichuan,0.0127,0.7292
+2026 Jan-Sep,process_control,11,Beijing,0.1828,0.7260
+2026 Jan-Sep,process_control,12,Tianjin,0.0001,0.7260
+2026 Jan-Sep,process_control,21,Liaoning,0.0020,0.7260
+2026 Jan-Sep,process_control,31,Shanghai,0.3344,0.7260
+2026 Jan-Sep,process_control,32,Jiangsu,0.1262,0.7260
+2026 Jan-Sep,process_control,33,Zhejiang,0.0438,0.7260
+2026 Jan-Sep,process_control,34,Anhui,0.0988,0.7260
+2026 Jan-Sep,process_control,35,Fujian,0.0141,0.7260
+2026 Jan-Sep,process_control,37,Shandong,0.0006,0.7260
+2026 Jan-Sep,process_control,42,Hubei,0.0278,0.7260
+2026 Jan-Sep,process_control,44,Guangdong,0.0776,0.7260
+2026 Jan-Sep,process_control,50,Chongqing,0.0040,0.7260
+2026 Jan-Sep,process_control,51,Sichuan,0.0710,0.7260
+2026 Jan-Sep,process_control,61,Shaanxi,0.0170,0.7260
+2026 Jan-Sep,test,11,Beijing,0.0868,0.8841
+2026 Jan-Sep,test,12,Tianjin,0.0082,0.8841
+2026 Jan-Sep,test,21,Liaoning,0.0051,0.8841
+2026 Jan-Sep,test,31,Shanghai,0.3602,0.8841
+2026 Jan-Sep,test,32,Jiangsu,0.0773,0.8841
+2026 Jan-Sep,test,33,Zhejiang,0.0381,0.8841
+2026 Jan-Sep,test,34,Anhui,0.0583,0.8841
+2026 Jan-Sep,test,35,Fujian,0.0137,0.8841
+2026 Jan-Sep,test,37,Shandong,0.0093,0.8841
+2026 Jan-Sep,test,42,Hubei,0.0390,0.8841
+2026 Jan-Sep,test,44,Guangdong,0.1914,0.8841
+2026 Jan-Sep,test,50,Chongqing,0.0098,0.8841
+2026 Jan-Sep,test,51,Sichuan,0.0865,0.8841
+2026 Jan-Sep,test,61,Shaanxi,0.0166,0.8841
+2026 Jan-Sep,thermal,11,Beijing,0.2259,0.9903
+2026 Jan-Sep,thermal,12,Tianjin,0.0050,0.9903
+2026 Jan-Sep,thermal,21,Liaoning,0.0187,0.9903
+2026 Jan-Sep,thermal,31,Shanghai,0.4500,0.9903
+2026 Jan-Sep,thermal,32,Jiangsu,0.0853,0.9903
+2026 Jan-Sep,thermal,33,Zhejiang,0.0247,0.9903
+2026 Jan-Sep,thermal,34,Anhui,0.0374,0.9903
+2026 Jan-Sep,thermal,35,Fujian,0.0182,0.9903
+2026 Jan-Sep,thermal,37,Shandong,0.0044,0.9903
+2026 Jan-Sep,thermal,42,Hubei,0.0197,0.9903
+2026 Jan-Sep,thermal,44,Guangdong,0.0680,0.9903
+2026 Jan-Sep,thermal,50,Chongqing,0.0095,0.9903
+2026 Jan-Sep,thermal,51,Sichuan,0.0260,0.9903
+2026 Jan-Sep,thermal,61,Shaanxi,0.0072,0.9903
+2026 Jan-Sep,track_automation_other,11,Beijing,0.1691,0.8597
+2026 Jan-Sep,track_automation_other,12,Tianjin,0.0044,0.8597
+2026 Jan-Sep,track_automation_other,21,Liaoning,0.0049,0.8597
+2026 Jan-Sep,track_automation_other,31,Shanghai,0.4257,0.8597
+2026 Jan-Sep,track_automation_other,32,Jiangsu,0.1029,0.8597
+2026 Jan-Sep,track_automation_other,33,Zhejiang,0.0184,0.8597
+2026 Jan-Sep,track_automation_other,34,Anhui,0.0127,0.8597
+2026 Jan-Sep,track_automation_other,35,Fujian,0.0323,0.8597
+2026 Jan-Sep,track_automation_other,37,Shandong,0.0069,0.8597
+2026 Jan-Sep,track_automation_other,42,Hubei,0.0474,0.8597
+2026 Jan-Sep,track_automation_other,44,Guangdong,0.0986,0.8597
+2026 Jan-Sep,track_automation_other,50,Chongqing,0.0101,0.8597
+2026 Jan-Sep,track_automation_other,51,Sichuan,0.0584,0.8597
+2026 Jan-Sep,track_automation_other,61,Shaanxi,0.0084,0.8597
+2026 Jan-Sep,wafer_making,11,Beijing,0.1271,1.0000
+2026 Jan-Sep,wafer_making,21,Liaoning,0.0011,1.0000
+2026 Jan-Sep,wafer_making,31,Shanghai,0.1489,1.0000
+2026 Jan-Sep,wafer_making,32,Jiangsu,0.2572,1.0000
+2026 Jan-Sep,wafer_making,33,Zhejiang,0.1778,1.0000
+2026 Jan-Sep,wafer_making,34,Anhui,0.0662,1.0000
+2026 Jan-Sep,wafer_making,35,Fujian,0.0040,1.0000
+2026 Jan-Sep,wafer_making,37,Shandong,0.0092,1.0000
+2026 Jan-Sep,wafer_making,42,Hubei,0.0054,1.0000
+2026 Jan-Sep,wafer_making,44,Guangdong,0.0930,1.0000
+2026 Jan-Sep,wafer_making,50,Chongqing,0.0078,1.0000
+2026 Jan-Sep,wafer_making,51,Sichuan,0.0313,1.0000
+2026 Jan-Sep,wafer_making,61,Shaanxi,0.0654,1.0000
+2026 Jan-Sep,wafer_making,12,Tianjin,0.0057,1.0000

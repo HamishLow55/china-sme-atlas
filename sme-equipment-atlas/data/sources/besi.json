@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "besi_annual_2025",
+    "dataset_id": "besi_disclosures",
+    "title": "BE Semiconductor Industries N.V. Annual Report 2025",
+    "publication_date": "2026-02-20",
+    "publication_date_precision": "day",
+    "url": "https://www.besi.com/fileadmin/data/Investor_Relations/_Semi__Annual_Reports/Annual_Report_2025.pdf",
+    "sha256": "3f0373f0b8cae60aa18706f27d71a691a2671481f839c1f5f498e49b0a68dad0",
+    "source_type": "annual_report",
+    "original_document_id": "besi_annual_2025",
+    "page_count": 266,
+    "locator_kind": "pdf",
+    "notes": "Audited Annual Report 2025 (covers fiscal year ended 31 December 2025, with FY2024 as its comparative column), downloaded directly from Besi's own English IR PDF library and hashed locally. Includes the full Consolidated Financial Statements and auditor's report (PricewaterhouseCoopers Accountants N.V.). Pages cited are PHYSICAL pages; this report prints its own page number in the header/footer and that printed number runs 2 BEHIND the physical page (printed 221 = physical 223), so confirm the header before citing. publication_date taken from the PDF's own CreationDate metadata (pdfinfo), which matches Besi's customary late-February full-year results/annual-report release timing; no more precise 'published on' statement was located in the extracted text."
+  },
+  {
+    "source_id": "besi_annual_2024",
+    "dataset_id": "besi_disclosures",
+    "title": "BE Semiconductor Industries N.V. Annual Report 2024",
+    "publication_date": "2025-02-26",
+    "publication_date_precision": "day",
+    "url": "https://www.besi.com/fileadmin/data/Investor_Relations/_Semi__Annual_Reports/Annual_Report_2024.pdf",
+    "sha256": "7b618d6306aece9061bd74918152779a3dd920d4f5272167888302eaa2ebb617",
+    "source_type": "annual_report",
+    "original_document_id": "besi_annual_2024",
+    "page_count": 261,
+    "locator_kind": "pdf",
+    "notes": "Audited Annual Report 2024 (covers fiscal year ended 31 December 2024, with FY2023 as its comparative column), downloaded directly from Besi's own English IR PDF library and hashed locally. Includes the full Consolidated Financial Statements and auditor's report (PricewaterhouseCoopers Accountants N.V.). Pages cited are PHYSICAL pages; this report prints its own page number in the header/footer and that printed number runs 2 BEHIND the physical page (printed 216 = physical 218), so confirm the header before citing. publication_date taken from the PDF's own CreationDate metadata (pdfinfo), which matches Besi's customary late-February full-year results/annual-report release timing; no more precise 'published on' statement was located in the extracted text."
+  },
+  {
+    "source_id": "besi_annual_2023",
+    "dataset_id": "besi_disclosures",
+    "title": "BE Semiconductor Industries N.V. Annual Report 2023",
+    "publication_date": "2024-02-19",
+    "publication_date_precision": "day",
+    "url": "https://www.besi.com/fileadmin/data/Investor_Relations/_Semi__Annual_Reports/Annual_Report_2023.pdf",
+    "sha256": "8366254e2f28af3f5b00313e203472724c7161d9b4a30270ff0882acdec0d3de",
+    "source_type": "annual_report",
+    "original_document_id": "besi_annual_2023",
+    "page_count": 211,
+    "locator_kind": "pdf",
+    "notes": "Audited Annual Report 2023 (covers fiscal year ended 31 December 2023, with FY2022 as its comparative column), downloaded directly from Besi's own English IR PDF library and hashed locally. Includes the full Consolidated Financial Statements and auditor's report (PricewaterhouseCoopers Accountants N.V.). Pages cited are PHYSICAL pages; this report prints its own page number in the header/footer and that printed number runs 2 BEHIND the physical page (printed 167 = physical 169), so confirm the header before citing. publication_date taken from the PDF's own CreationDate metadata (pdfinfo), which matches Besi's customary late-February full-year results/annual-report release timing; no more precise 'published on' statement was located in the extracted text."
+  },
+  {
+    "source_id": "besi_annual_2022",
+    "dataset_id": "besi_disclosures",
+    "title": "BE Semiconductor Industries N.V. Annual Report 2022",
+    "publication_date": "2023-02-23",
+    "publication_date_precision": "day",
+    "url": "https://www.besi.com/fileadmin/data/Investor_Relations/_Semi__Annual_Reports/Annual_Report_2022.pdf",
+    "sha256": "1a677dc0934580c5e1aa560ffc113040386be81156a66f74611c1a7757fb2d3e",
+    "source_type": "annual_report",
+    "original_document_id": "besi_annual_2022",
+    "page_count": 209,
+    "locator_kind": "pdf",
+    "notes": "Audited Annual Report 2022 (covers fiscal year ended 31 December 2022, with FY2021 as its comparative column), downloaded directly from Besi's own English IR PDF library and hashed locally. Includes the full Consolidated Financial Statements and auditor's report (PricewaterhouseCoopers Accountants N.V.). Pages cited are PHYSICAL pages; this report prints its own page number in the header/footer and that printed number runs 2 BEHIND the physical page (printed 165 = physical 167), so confirm the header before citing. publication_date taken from the PDF's own CreationDate metadata (pdfinfo), which matches Besi's customary late-February full-year results/annual-report release timing; no more precise 'published on' statement was located in the extracted text."
+  }
+]

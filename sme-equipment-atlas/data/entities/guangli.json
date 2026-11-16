@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "guangli",
+    "name": "GL Tech (Guangli)",
+    "aliases": [
+      "光力科技股份有限公司",
+      "光力科技",
+      "GL TECH CO.,LTD",
+      "300480"
+    ],
+    "evidence": {
+      "source_id": "guangli_h1_2026",
+      "page": 7,
+      "excerpt": "股票简称              光力科技                     股票代码               300480\n股票上市证券交易所         深圳证券交易所\n公司的中文名称           光力科技股份有限公司",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "notes": "Listed issuer verified from H1 2026 p7. Mixed semiconductor packaging equipment and safety-monitoring businesses; overseas UK/Israel subsidiaries and domestic production coexist (FY2025p5/H1p12-13). Chinese ownership is not proof of domestic manufacture/technology. No component-supplier entities or HBM qualification inferred.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "entity_id": "xiandao_jidian",
+    "name": "Shanghai Vital Deeptech Co., Ltd.",
+    "aliases": [
+      "上海先导基电科技股份有限公司",
+      "上海万业企业股份有限公司",
+      "先导基电",
+      "万业企业",
+      "Shanghai Vital Deeptech Co., Ltd.",
+      "SHANGHAI WANYE ENTERPRISES CO.,LTD",
+      "Xiandao Jidian",
+      "Wanye Enterprises",
+      "600641"
+    ],
+    "notes": "Use the two exact official English forms above. Xiandao Jidian and Wanye Enterprises are informal search labels only; do not create a second issuer entity or assert an unverified effective rename date.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Xiandao Jidian'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

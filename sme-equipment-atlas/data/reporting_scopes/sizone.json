@@ -1,0 +1,20 @@
+[
+  {
+    "reporting_scope_id": "sizone_special_equipment",
+    "label": "Sizone special equipment",
+    "category_id": "cmp",
+    "definition": "销售专用设备 in target audited statements; CMP equipment scope cross-checked restructuring pp425–427,595; do not infer platform or wafer-size split."
+  },
+  {
+    "reporting_scope_id": "sizone_mainland_china_main_business",
+    "category_id": "all_businesses",
+    "label": "中国大陆",
+    "definition": "Sizone (杭州众硅, the CMP-equipment target company in AMEC's share-and-cash acquisition report) source-native 主营业务收入按区域划分 row 中国大陆, FY2024-FY2025. Main-business revenue (table explicitly headed 主营业务收入); table boundary preserved, revenue only (no cost or margin by geography -- the filing's cost table splits only 主营业务成本/其他业务成本)."
+  },
+  {
+    "reporting_scope_id": "sizone_overseas_hkmotw_main_business",
+    "category_id": "all_businesses",
+    "label": "国外及中国港澳台地区",
+    "definition": "Sizone source-native 主营业务收入按区域划分 row 国外及中国港澳台地区, FY2025 only (FY2024 prints a dash, i.e. no disclosed non-mainland revenue that year, not a registered zero). The issuer's own compound label explicitly groups foreign countries WITH Hong Kong/Macau/Taiwan as a single non-mainland bucket -- distinct from a plain '中国大陆外' or '境外' label used elsewhere in the atlas, and not assumed equivalent without checking each issuer's own region definition."
+  }
+]

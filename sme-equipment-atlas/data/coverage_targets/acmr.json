@@ -1,0 +1,110 @@
+[
+  {
+    "target_id": "tsv_local-48",
+    "task_id": "tsv_local",
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ],
+    "observation_ids": [
+      "ACMR2021-TOT-REV",
+      "ACMR2022-TOT-REV",
+      "ACMR2023-TOT-REV",
+      "ACMR2024-TOT-REV",
+      "ACMR2025-TOT-REV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-49",
+    "task_id": "tsv_local",
+    "entity_id": "acmr",
+    "category_id": "cleaning",
+    "reporting_scope_id": "acmr_cleaning",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ],
+    "observation_ids": [
+      "ACMR2021-CL-REV",
+      "ACMR2022-CL-REV",
+      "ACMR2023-CL-REV",
+      "ACMR2024-CL-REV",
+      "ACMR2025-CL-REV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-50",
+    "task_id": "tsv_local",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_ecp_furnace_other",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ],
+    "observation_ids": [
+      "ACMR2021-EF-REV",
+      "ACMR2022-EF-REV",
+      "ACMR2023-EF-REV",
+      "ACMR2024-EF-REV",
+      "ACMR2025-EF-REV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "tsv_local-51",
+    "task_id": "tsv_local",
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "acmr_packaging_services_spares",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ],
+    "observation_ids": [
+      "ACMR2021-AP-REV",
+      "ACMR2022-AP-REV",
+      "ACMR2023-AP-REV",
+      "ACMR2024-AP-REV",
+      "ACMR2025-AP-REV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  }
+]

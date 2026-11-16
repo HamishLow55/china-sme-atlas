@@ -1,0 +1,445 @@
+[
+  {
+    "target_id": "wave2_djel_1",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-TOT-REV",
+      "DJEL2024-TOT-REV",
+      "DJEL2025-TOT-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_2",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "djel_measurement_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-EQ-REV",
+      "DJEL2024-EQ-REV",
+      "DJEL2025-EQ-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_3",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "djel_cdsem_12inch",
+    "platform_id": "djel_cd_sem",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-CD12-REV",
+      "DJEL2024-CD12-REV",
+      "DJEL2025-CD12-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_4",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "djel_cdsem_8inch",
+    "platform_id": "djel_cd_sem",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-CD8-REV",
+      "DJEL2024-CD8-REV",
+      "DJEL2025-CD8-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_5",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_ebeam",
+    "reporting_scope_id": "djel_ebi",
+    "platform_id": "djel_ebi",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-EBI-REV",
+      "DJEL2024-EBI-REV",
+      "DJEL2025-EBI-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_6",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "reporting_scope_id": "djel_drsem",
+    "platform_id": "djel_dr_sem",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2024-DRSEM-REV"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_7",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "djel_cdsem_all",
+    "platform_id": "djel_cd_sem",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-CDSEM-SALES",
+      "DJEL2024-CDSEM-SALES",
+      "DJEL2025-CDSEM-SALES"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_8",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_ebeam",
+    "reporting_scope_id": "djel_ebi",
+    "platform_id": "djel_ebi",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2024-EBI-SALES",
+      "DJEL2025-EBI-SALES"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_9",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "reporting_scope_id": "djel_drsem",
+    "platform_id": "djel_dr_sem",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2024-DRSEM-SALES"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_10",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "djel_measurement_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-EQ-SALES",
+      "DJEL2024-EQ-SALES",
+      "DJEL2025-EQ-SALES"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_11",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "djel_cdsem_all",
+    "platform_id": "djel_cd_sem",
+    "metric_id": "shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-CDSEM-DISPATCH",
+      "DJEL2024-CDSEM-DISPATCH",
+      "DJEL2025-CDSEM-DISPATCH"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_12",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_ebeam",
+    "reporting_scope_id": "djel_ebi",
+    "platform_id": "djel_ebi",
+    "metric_id": "shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-EBI-DISPATCH",
+      "DJEL2024-EBI-DISPATCH",
+      "DJEL2025-EBI-DISPATCH"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_13",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "reporting_scope_id": "djel_drsem",
+    "platform_id": "djel_dr_sem",
+    "metric_id": "shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-DRSEM-DISPATCH",
+      "DJEL2024-DRSEM-DISPATCH",
+      "DJEL2025-DRSEM-DISPATCH"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_14",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "metrology",
+    "reporting_scope_id": "djel_hvsem",
+    "platform_id": "djel_hv_sem",
+    "metric_id": "shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2025-HVSEM-DISPATCH"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  },
+  {
+    "target_id": "wave2_djel_15",
+    "task_id": "wave2_djel",
+    "entity_id": "djel",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "djel_measurement_inspection_equipment",
+    "platform_id": "",
+    "metric_id": "shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "period_start": "2023-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "observation_ids": [
+      "DJEL2023-EQ-DISPATCH",
+      "DJEL2024-EQ-DISPATCH",
+      "DJEL2025-EQ-DISPATCH"
+    ],
+    "next_action": "Source-bounded evidence; inspect remaining vintages and platform detail in separate batches."
+  }
+]

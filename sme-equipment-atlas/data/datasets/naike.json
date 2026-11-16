@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "naike_disclosures",
+    "title": "Naike company disclosures",
+    "kind": "company_filings",
+    "publisher": "naike",
+    "version": "W6_molding-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals remain local.",
+    "market_definitions": {}
+  }
+]

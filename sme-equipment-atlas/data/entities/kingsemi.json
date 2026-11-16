@@ -1,0 +1,14 @@
+[
+  {
+    "entity_id": "kingsemi",
+    "name": "Kingsemi",
+    "aliases": [
+      "沈阳芯源微电子设备股份有限公司",
+      "芯源微",
+      "688037"
+    ],
+    "notes": "NAURA FY2025 annual report (naura_2025, physical p204) reports control of KINGSEMI from 2025-06-23 and consolidation from 2025-06-30; NAURA and standalone KINGSEMI financial totals overlap after consolidation and must not be summed as independent suppliers.",
+    "parent_entity_id": "naura",
+    "entity_class": "china_supply_base"
+  }
+]

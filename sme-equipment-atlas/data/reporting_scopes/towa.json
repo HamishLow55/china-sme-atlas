@@ -1,0 +1,26 @@
+[
+  {
+    "reporting_scope_id": "towa_sme_segment",
+    "label": "Semiconductor Manufacturing Equipment segment",
+    "category_id": "multi_equipment",
+    "definition": "TOWA's Semiconductor Manufacturing Equipment reportable segment as the issuer defines it: manufacture and sale of precision molds for semiconductor manufacturing, molding equipment (both transfer and compression mechanisms, undifferentiated at this level) and singulation equipment, plus after-sales service for these products. One of the group's three reportable segments (alongside Medical Device and Laser Processing Machine, both non-semiconductor and out of scope for this atlas). The issuer states explicitly, in every annual securities report reviewed for this packet, that 'sales by product and service are omitted because the reportable segment(s) of the Company are the same as the classification by product and service' -- i.e. TOWA does not publish a finer split than this segment total anywhere in its filings, so no part of this figure may ever be allocated to molding, molding_transfer or molding_compression specifically, or to precision molds or singulation equipment on their own. Filed at multi_equipment on exactly the same discipline as ASMPT's semiconductor_solutions scope and Naike's packaging_equipment_basket scope."
+  },
+  {
+    "reporting_scope_id": "towa_company",
+    "label": "TOWA company-wide totals",
+    "category_id": "all_businesses",
+    "definition": "TOWA's consolidated group total across all three reportable segments (Semiconductor Manufacturing Equipment, Medical Device, Laser Processing Machine). Medical Device (medical plastic molded/assembled products) and Laser Processing Machine (laser trimmers for semiconductor and other applications) are both non-semiconductor-equipment businesses by the atlas's own categories and make up roughly 8-9% of group revenue in the years covered by this packet; never read this scope as semiconductor-equipment revenue."
+  },
+  {
+    "reporting_scope_id": "towa_medical_device_segment",
+    "label": "Medical Device segment",
+    "category_id": "all_businesses",
+    "definition": "TOWA's Medical Device reportable segment (medical plastic molded and assembled products; named 'Fine Plastic Molded Products Business' before a name-only change in the 47th-term/FY ended March 2025 report). A disclosed non-equipment business line, filed at all_businesses under that category's second established use ('a disclosed non-equipment business line such as software licensing, EDA or a service, filed here so it cannot be mistaken for tool revenue') -- it is not a semiconductor-equipment category and must never be read as one. Distinct from towa_company (the whole-group total, already integrated), which this segment is one part of."
+  },
+  {
+    "reporting_scope_id": "towa_laser_segment",
+    "label": "Laser Processing Machine segment",
+    "category_id": "all_businesses",
+    "definition": "TOWA's Laser Processing Machine reportable segment (laser trimmer equipment and related products/services; its own filings describe sluggish sales of laser trimmers, its main product). A disclosed non-equipment business line by this atlas's own taxonomy -- laser trimming is not a registered equipment category here -- filed at all_businesses on the same 'disclosed non-equipment business line' basis as towa_medical_device_segment, so it is never mistaken for semiconductor molding/packaging-equipment revenue, profit, R&D, production or orders. Distinct from towa_company (the whole-group total, already integrated)."
+  }
+]

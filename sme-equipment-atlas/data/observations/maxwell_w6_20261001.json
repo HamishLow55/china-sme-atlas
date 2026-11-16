@@ -1,0 +1,270 @@
+[
+  {
+    "observation_id": "W6MX-SEMIDISP-REV-2023",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_fy2024",
+    "entity_id": "maxwell",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "35600051.85",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 27,
+      "original_label": "半导体及显示行业",
+      "excerpt": "半导体及显示行业 67,075,085.52 0.68% 35,600,051.85 0.44% 88.41%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "35600051.85",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "comparative",
+    "notes": "FY2024 annual report's 营业收入构成/分行业 table (physical p27), 2023 comparative column. Combined 'semiconductor and display industry' (半导体及显示行业) line: a basket spanning Maxwell's front-end (etch/ALD) and back-end (grinding/grooving/dicing/bonding) semiconductor equipment AND its display-panel equipment (OLED laser cutting, Mini/Micro LED tools), not split between the two. Table partitions total operating revenue (营业收入): residual check against 营业收入合计 is zero (99.53%+0.44%+0.03%=100.00% for 2023), so revenue_basis=source_reported_total_operating_revenue, not a main-business-only series. Do not read this as semiconductor-only revenue -- see entity note and coverage. Earliest point in the only revenue series this filing set supports for Maxwell's non-solar equipment business; no FY2022/FY2023 annual report acquired (FY2024 is the earliest filing downloaded), so 2023 is reached only via this comparative column."
+  },
+  {
+    "observation_id": "W6MX-SEMIDISP-REV-2024",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_fy2024",
+    "entity_id": "maxwell",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "67075085.52",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 27,
+      "original_label": "半导体及显示行业",
+      "excerpt": "半导体及显示行业 67,075,085.52 0.68% 35,600,051.85 0.44% 88.41%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "67075085.52",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "FY2024 annual report's own-year column (physical p27), same combined semiconductor-and-display basket as the 2023/2025/H1 rows in this series -- see W6MX-SEMIDISP-REV-2023 for the basket definition and residual check (same table, both columns zero-residual against 营业收入合计). This exact figure (67,075,085.52) is restated identically in the FY2025 annual report's 2024-comparative column (p28); not registered a second time (same_fact_restated), recorded here as corroboration only."
+  },
+  {
+    "observation_id": "W6MX-SEMIDISP-REV-2025",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_fy2025",
+    "entity_id": "maxwell",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "662038188.80",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 28,
+      "original_label": "半导体及显示行业",
+      "excerpt": "半导体及显示行业 662,038,188.80 8.12% 67,075,085.52 0.68% 887.01%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "662038188.80",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "FY2025 annual report's own-year column (physical p28), same combined semiconductor-and-display basket -- see W6MX-SEMIDISP-REV-2023 for the basket definition. +887.01% YoY per the source's own printed growth figure. This is the year the step-report analysis layer already cites (c07/c68/c89 in the thinning, stacking_tcb and singulation draft source sheets); registering it directly in the Atlas with its own physical-page citation rather than leaving it as an analysis-layer-only figure."
+  },
+  {
+    "observation_id": "W6MX-SEMIDISP-REV-H1-2025",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_h1_2026",
+    "entity_id": "maxwell",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "127418061.61",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "半导体及显示行业",
+      "excerpt": "半导体及显示行业 248,030,166.38 8.53% 127,418,061.61 3.02% 94.66%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "127418061.61",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "comparative",
+    "notes": "H1 2026 report's H1-2025 comparative column (physical p19), same combined semiconductor-and-display basket -- see W6MX-SEMIDISP-REV-2023 for the basket definition and residual check (91.31%+8.53%+0.16%=100.00% for H1 2026; the H1 2025 comparative column carries the same zero-residual property: 96.50%+3.02%+0.47%=99.99%, rounding). No standalone H1 2025 report was downloaded; this interim figure is reached only via the H1 2026 report's comparative column."
+  },
+  {
+    "observation_id": "W6MX-SEMIDISP-REV-H1-2026",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_h1_2026",
+    "entity_id": "maxwell",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "maxwell_semiconductor_display_industry_revenue",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "248030166.38",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 19,
+      "original_label": "半导体及显示行业",
+      "excerpt": "半导体及显示行业 248,030,166.38 8.53% 127,418,061.61 3.02% 94.66%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "248030166.38",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "H1 2026 report's own-period column (physical p19), same combined semiconductor-and-display basket -- see W6MX-SEMIDISP-REV-2023 for the basket definition. +94.66% YoY per the source's own printed growth figure. Completes a 5-point series (2023, 2024, 2025, H1 2025, H1 2026) for this combined basket, the first quantified series this packet contributes for Maxwell."
+  },
+  {
+    "observation_id": "W6MX-COMPANY-REV-2025",
+    "dataset_id": "maxwell_disclosures",
+    "source_id": "maxwell_fy2025",
+    "entity_id": "maxwell",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "8151978598.86",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_reported_total_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "evidence": {
+      "page": 28,
+      "original_label": "营业收入合计",
+      "excerpt": "营业收入合计 8,151,978,598.86 100% 9,830,356,635.51 100% -17.07%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "8151978598.86",
+      "reported_unit": "CNY",
+      "page_wrapped_fragments": [
+        "8,151,978,598.8",
+        "6"
+      ]
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "FY2025 company-wide total operating revenue (营业收入合计), physical p28, same table as the semiconductor-and-display segment row. One year only, for context, per the brief's cap where the entity lacks financial depth (new entity this packet). Establishes the revenue partition the entity note relies on: solar PV (太阳能光伏行业) 91.38% of this total, the combined semiconductor-and-display basket 8.12%, other industry 0.49% (residual: 91.38+8.12+0.49=99.99%, rounding). Maxwell's dominant business is solar cell production equipment (HJT heterojunction lines and screen-printing machines); semiconductor equipment is explicitly the issuer's own 'second growth curve' (第二成长曲线), not the core business. Do not read any revenue figure in this entity's records as predominantly semiconductor-equipment revenue. The FY2025 report wraps this figure inside its narrow 金额 cell (8,151,978,598.8 on one line, the final 6 on the next); the on-page halves are declared in page_wrapped_fragments so the page check confirms them literally rather than reporting a false absence."
+  }
+]

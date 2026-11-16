@@ -1,0 +1,47 @@
+[
+  {
+    "entity_id": "secote",
+    "category_id": "inspection_edge",
+    "application_id": "hbm",
+    "source_id": "secote_fy2023",
+    "page": 11,
+    "excerpt": "针对晶圆键合工艺中 thinning、trimming、bonding、coating 制程段……完善了对 HBM、TSV 制程工艺的不良监控",
+    "claim_kind": "company_reported",
+    "link_id": "secote-hbm-1",
+    "status": "source_checked",
+    "scope_note": "Supplier-reported wafer-edge inspection capability for HBM process monitoring. The filing does not allocate HBM revenue or identify the ordered systems' customer, production origin or physical count.",
+    "reviewer": "wave3_independent_original_verifier",
+    "review_date": "2026-09-21",
+    "link_kind": "supplier_capability"
+  },
+  {
+    "entity_id": "secote",
+    "category_id": "inspection_edge",
+    "application_id": "tsv",
+    "source_id": "secote_fy2023",
+    "page": 11,
+    "excerpt": "针对晶圆键合工艺中 thinning、trimming、bonding、coating 制程段……完善了对 HBM、TSV 制程工艺的不良监控",
+    "claim_kind": "company_reported",
+    "link_id": "secote-tsv-1",
+    "status": "source_checked",
+    "scope_note": "Supplier-reported wafer-edge inspection capability for TSV process monitoring; no TSV-only revenue, tool count or separately identified qualification.",
+    "reviewer": "wave3_independent_original_verifier",
+    "review_date": "2026-09-21",
+    "link_kind": "supplier_capability"
+  },
+  {
+    "entity_id": "secote",
+    "category_id": "multi_equipment",
+    "application_id": "hbm",
+    "source_id": "secote_fy2025",
+    "page": 10,
+    "excerpt": "核心技术在HBM全制程检测、晶圆边缘全维度检测等方向已实现商业化落地与头部客户导入",
+    "claim_kind": "company_reported",
+    "link_id": "secote-hbm-2",
+    "status": "source_checked",
+    "scope_note": "Broad issuer claim of commercial deployment and leading-customer introduction for HBM full-process inspection. It is not assigned to every semiconductor platform and provides no HBM revenue or tool count.",
+    "reviewer": "wave3_independent_original_verifier",
+    "review_date": "2026-09-21",
+    "link_kind": "production_claim"
+  }
+]

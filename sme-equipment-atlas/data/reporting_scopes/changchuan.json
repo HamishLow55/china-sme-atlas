@@ -1,0 +1,44 @@
+[
+  {
+    "reporting_scope_id": "changchuan_ic_electronic_industrial_equipment",
+    "label": "集成电路电子工业专用设备",
+    "category_id": "multi_equipment",
+    "definition": "Source whole industrial IC/electronic-equipment production/sales/inventory basket; spans testers, handlers and other equipment under issuer group source vintage. No product allocation or domestic technology-origin inference."
+  },
+  {
+    "reporting_scope_id": "changchuan_parent_major_subsidiaries_workforce",
+    "label": "母公司及主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "Source year-end active-employee population of parent and major subsidiaries; no assumption of full consolidated perimeter or product allocation."
+  },
+  {
+    "reporting_scope_id": "changchuan_testers_product_all_applications",
+    "label": "测试机",
+    "category_id": "test",
+    "definition": "Issuer source-native 测试机 product revenue/cost/margin basket across all disclosed IC tester applications. Includes SoC/digital, mixed-signal, burn-in and power tester products; no memory ATE, HBM, model or geography allocation. Product share denominator is issuer company revenue."
+  },
+  {
+    "reporting_scope_id": "changchuan_handlers_product_all_applications",
+    "label": "分选机",
+    "category_id": "test_prober_handler",
+    "definition": "Issuer source-native 分选机 product revenue/cost/margin basket across all handler types and group entities including acquired EXIS where consolidated. Not a wafer prober, CP12-Memory, HBM or individual handler model allocation. Product share denominator is issuer company revenue."
+  },
+  {
+    "reporting_scope_id": "changchuan_other_product_mixed",
+    "label": "其他",
+    "category_id": "multi_equipment",
+    "definition": "Issuer source-native 其他 product revenue/cost/margin residual, mixed and undefined by the source table; no allocation to probers, AOI, metrology, components or services. Product share denominator is issuer company revenue."
+  },
+  {
+    "reporting_scope_id": "changchuan_ic_electronic_special_equipment_industry",
+    "label": "集成电路电子工业专用设备",
+    "category_id": "multi_equipment",
+    "definition": "Issuer whole-industry product/industry basket in FY2025 >10% table. It covers company IC/electronic special equipment, not a memory-ATE or prober-only segment. Company revenue equality is a reporting presentation repeat, not an additional market subtotal."
+  },
+  {
+    "reporting_scope_id": "changchuan_region_revenue_cost_margin_table",
+    "category_id": "all_businesses",
+    "label": "Changchuan 分地区 revenue/cost/margin table",
+    "definition": "Changchuan source-native 『占公司营业收入或营业利润10%以上的行业、产品、地区、销售模式的情况』 table population for its 分地区 rows (中国境内/中国境外): revenue, cost and gross margin by region. Basis is TOTAL operating revenue, not narrower main-business: the filing contains no 主营业务收入 or 其他业务收入 line anywhere, and 中国境内+中国境外 revenue and cost each cross-foot exactly to the consolidated 营业收入/营业总收入 and 营业成本 (zero residual) in both the FY2024 and FY2025 annual reports. A thinner, revenue-only 分地区 row with identical figures also appears earlier in the same section under 营业收入构成/营业收入整体情况 (item 1); it is not separately registered because it restates this table's revenue figure with no additional cells (same_fact_restated). The same table also carries 分行业/分产品/分销售模式 rows under other, non-geography scopes; this scope is for the 分地区 rows only."
+  }
+]

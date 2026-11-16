@@ -1,0 +1,74 @@
+[
+ {
+  "reporting_scope_id": "reference_asp_duv_immersion",
+  "category_id": "lithography",
+  "label": "Reference ASP band: DUVi",
+  "definition": "Third-party per-system cost band for the publisher's own 'DUVi' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to lithography as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_arf_dry",
+  "category_id": "lithography",
+  "label": "Reference ASP band: ArF",
+  "definition": "Third-party per-system cost band for the publisher's own 'ArF' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to lithography as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_ebeam_inspection",
+  "category_id": "inspection_ebeam",
+  "label": "Reference ASP band: E-beam inspection",
+  "definition": "Third-party per-system cost band for the publisher's own 'E-beam inspection' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to inspection_ebeam as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_etch",
+  "category_id": "etch",
+  "label": "Reference ASP band: Etch",
+  "definition": "Third-party per-system cost band for the publisher's own 'Etch' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to etch as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_deposition",
+  "category_id": "deposition",
+  "label": "Reference ASP band: Deposition",
+  "definition": "Third-party per-system cost band for the publisher's own 'Deposition' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to deposition as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_krf",
+  "category_id": "lithography",
+  "label": "Reference ASP band: KrF",
+  "definition": "Third-party per-system cost band for the publisher's own 'KrF' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to lithography as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_implant",
+  "category_id": "implant",
+  "label": "Reference ASP band: Ion implantation",
+  "definition": "Third-party per-system cost band for the publisher's own 'Ion implantation' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to implant as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_optical_metrology",
+  "category_id": "metrology",
+  "label": "Reference ASP band: Optical metrology",
+  "definition": "Third-party per-system cost band for the publisher's own 'Optical metrology' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to metrology as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_cmp",
+  "category_id": "cmp",
+  "label": "Reference ASP band: CMP",
+  "definition": "Third-party per-system cost band for the publisher's own 'CMP' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to cmp as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_hybrid_bonding",
+  "category_id": "bonding",
+  "label": "Reference ASP band: Hybrid bonding",
+  "definition": "Third-party per-system cost band for the publisher's own 'Hybrid bonding' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to bonding as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_tcb",
+  "category_id": "bonding_tcb",
+  "label": "Reference ASP band: TCB",
+  "definition": "Third-party per-system cost band for the publisher's own 'TCB' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to bonding_tcb as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ },
+ {
+  "reporting_scope_id": "reference_asp_ate",
+  "category_id": "test",
+  "label": "Reference ASP band: ATE",
+  "definition": "Third-party per-system cost band for the publisher's own 'ATE' category. The category boundary is the publisher's and has not been reconciled to atlas categories; it is mapped to test as the nearest node for retrieval only. Reference tier: not a verified figure and not a denominator."
+ }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "platform_id": "jingyi_automation_chiller_series",
+    "entity_id": "jingyi_automation",
+    "category_id": "process_temperature_control",
+    "record_kind": "source_native_family",
+    "name": "半导体专用温控设备（Chiller）",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JINGYI-AUTOMATION-CHILLER-SERIES",
+      "source_id": "jingyi_automation_h1_2026",
+      "page": 16,
+      "excerpt": "公司半导体专用温控设备产品主要用于 90nm 到 14nm 逻辑芯片以及 64 层到 192 层 3DNAND 等存储芯片制造中若干关键步骤的大规模量产",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "process_node": "90nm 到 14nm",
+      "process_node_context": "逻辑芯片"
+    },
+    "reported_maturity": "mass_production_use_stated",
+    "maturity_as_reported_in": "jingyi_automation_h1_2026",
+    "notes": "Issuer product family. 3D NAND and logic only; no DRAM, HBM or TSV statement in this report, so no application link.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jingyi_automation_local_scrubber_series",
+    "entity_id": "jingyi_automation",
+    "category_id": "subfab_exhaust_abatement",
+    "record_kind": "source_native_family",
+    "name": "半导体专用工艺废气处理设备（Local Scrubber）",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JINGYI-AUTOMATION-LOCAL-SCRUBBER-SERIES",
+      "source_id": "jingyi_automation_h1_2026",
+      "page": 16,
+      "excerpt": "半导体专用工艺废气处理设备产品主要用于 90nm 到 28nm 逻辑芯片以及 64 层到 192 层 3DNAND 等存储芯片制造中若干关键步骤的大规模量产",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "process_node": "90nm 到 28nm",
+      "process_node_context": "逻辑芯片"
+    },
+    "reported_maturity": "mass_production_use_stated",
+    "maturity_as_reported_in": "jingyi_automation_h1_2026",
+    "notes": "Issuer product family. 3D NAND and logic only; no DRAM, HBM or TSV statement in this report, so no application link.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jingyi_automation_sorter_series",
+    "entity_id": "jingyi_automation",
+    "category_id": "wafer_handling_sorter",
+    "record_kind": "source_native_family",
+    "name": "晶圆传片设备（Sorter）",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JINGYI-AUTOMATION-SORTER-SERIES",
+      "source_id": "jingyi_automation_h1_2026",
+      "page": 16,
+      "excerpt": "晶圆传片设备产品主要用于 90nm 到 28nm 逻辑芯片制造中若干关键步骤的大规模量产",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "process_node": "90nm 到 28nm",
+      "process_node_context": "逻辑芯片"
+    },
+    "reported_maturity": "mass_production_use_stated",
+    "maturity_as_reported_in": "jingyi_automation_h1_2026",
+    "notes": "Issuer product family; the node statement is logic-only.",
+    "maturity_history": []
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "platform_id": "delphi_lsd_6130",
+    "entity_id": "delphi_laser",
+    "category_id": "dicing_laser",
+    "record_kind": "named_model",
+    "name": "LSD-6130",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "DELPHI-2025-P19-LSD6130-IDENTITY",
+      "source_id": "delphi_laser_2025",
+      "page": 19,
+      "excerpt": "LSD-6130 硅晶圆激光隐切设备，凭借卓越的 SDBG 工艺适配能力、优异的隐切品\n质与智能化设计，为超薄晶圆加工提供了更可靠、更高效、更洁净的解决方案。设备已成功获得\n订单验证，实现了市场销售。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "order_validated_and_market_sale",
+    "maturity_as_reported_in": "delphi_laser_2025",
+    "notes": "Named silicon-wafer laser stealth-dicing equipment with SDBG capability. p16 describes the broader silicon stealth-dicing equipment as 12-inch and 35–85 μm capable, with a domestic memory-customer production order and client validation; p19 independently pins order validation and market sale to LSD-6130. p30 is an ongoing SDBG process-improvement R&D project, not the model sale stage. SDAG and SDBG are processes; no separate numerical count, shipment/installation quantity, named buyer, HBM qualification or process node is stated. No duplicate source-native family record is minted from the same silicon dicer.",
+    "maturity_history": [
+      {
+        "claim_id": "DELPHI-2025-P19-LSD6130-SALE",
+        "source_id": "delphi_laser_2025",
+        "page": 19,
+        "excerpt": "LSD-6130 硅晶圆激光隐切设备，凭借卓越的 SDBG 工艺适配能力、优异的隐切品\n质与智能化设计，为超薄晶圆加工提供了更可靠、更高效、更洁净的解决方案。设备已成功获得\n订单验证，实现了市场销售。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "order_validated_and_market_sale",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Annual-report context; market sale and order validation stated for LSD-6130, without unit count or exact event date."
+      },
+      {
+        "claim_id": "DL-H126-P14-SDBG-REPEAT",
+        "source_id": "delphi_laser_h1_2026",
+        "page": 14,
+        "excerpt": "基于该技术德龙激光推出自主研发的硅晶圆激光隐切设备，自 2025 年获得国内头部存储芯片厂商首个国产量产订单，在报告期内持续收获重复性批量订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "repeat_batch_orders_from_domestic_leading_memory_maker_h1_2026",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Source says 硅晶圆激光隐切设备, not LSD-6130; FY2025 p19 ties that name to LSD-6130. Customer is 存储芯片厂商 with no DRAM or NAND label. The nearby sentence that SDBG is mainstream for 3D NAND, DRAM, CIS and logic is about the process, not this customer. Orders, not acceptance: the filing prints no unit count, order value or delivered quantity."
+      }
+    ]
+  },
+  {
+    "platform_id": "delphi_wafer_laser_debonding",
+    "entity_id": "delphi_laser",
+    "category_id": "bonding_debond",
+    "record_kind": "source_native_family",
+    "name": "激光解键合（debonding）",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "DL-H126-P10-DEBOND",
+      "source_id": "delphi_laser_h1_2026",
+      "page": 10,
+      "excerpt": "主要提供硅/碳化硅/砷化镓/钽酸锂/铌酸锂/玻璃/金刚石等各种晶圆材料的激光划片、晶圆激光开槽、碳化硅晶锭切片、碳化硅激光退火、晶圆激光隐切设备（SDBG）；玻璃通孔（TGV）、激光开槽（low-k）、EdgeTrimming、晶圆打标、模组钻孔（TMV）、激光解键合（debonding）、辅助焊接等先进封装应用。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "delphi_laser_h1_2026",
+    "notes": "Named as an advanced-packaging application with no tool name, stage, customer or count. The prospectus p37 adhesive-release sentence sits in the Micro LED 剥离/巨量转移设备 row and is a display context, so it is not used here. Prospectus p39 describes a separate 晶圆激光环切设备 that edge-trims before debonding; no node exists for edge trim, so that tool is left in the Colour note.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "delphi_compound_wafer_stealth_dicer",
+    "entity_id": "delphi_laser",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "半导体晶圆激光隐形切割设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "DL-PROS-P38-STEALTH",
+      "source_id": "delphi_laser_placement_prospectus_20260821",
+      "page": 38,
+      "excerpt": "半导体晶圆激光隐形切割设备；利用超短脉冲激光实现硅/砷化镓/碳化硅晶圆高质量高效率的切割加工；主要应用于微波器件、射频器件、功率器件的晶圆片的切割。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "source_product_listing_or_description",
+    "maturity_as_reported_in": "delphi_laser_placement_prospectus_20260821",
+    "notes": "The older stealth-dicing line for microwave, RF and power devices. Kept apart from delphi_lsd_6130, the memory-oriented SDBG tool: prospectus p40 lists SDBG 晶圆隐切设备 as a separate product.",
+    "maturity_history": []
+  }
+]

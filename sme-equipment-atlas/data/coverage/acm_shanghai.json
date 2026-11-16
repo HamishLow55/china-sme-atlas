@@ -1,0 +1,118 @@
+[
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-product_definitions",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "All three registered originals reviewed. Canonical named families and models plus two reviewed source-defined H1 2026 p27 furnace subtypes cover the original product definitions. The new subtypes are only in internal Lingang R&D-line testing/optimization; no commercial model, counted distinct sale or inherited group production stage is asserted. Source-by-topic physical pages are in the corrected ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Retain both reviewed source-native furnace subtypes at internal testing stage; reopen for a new original or corrected source interpretation."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-shipments_installations",
+    "entity_id": "acm_shanghai",
+    "status": "unresolved",
+    "scope": "Cumulative shipments and installations, preserving equipment units across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "H1 2025 1500th ECP chamber delivery is canonical; first-tool deliveries remain platform maturity histories. H1 2026 2000-chamber wording is held because ordinal/cumulative/period interpretation is not explicit. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Keep H1 2026 2000-chamber wording as an explicit native hold until time/relation interpretation is source-supported."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-product_volumes",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "All sibling per-product production, sales and inventory rows across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "FY2025 physical pp36-37 contain the complete industry control plus three sibling product monetary rows and four-row production/sales/inventory unit grid. The two interim operating sections contain no comparable sibling grid; no zero is inferred. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Retain FY2025 full sibling grids; reopen only when a newly registered interim or annual original supplies another source-defined grid."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-orders_backlog",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "Orders and backlog, tax and conditional status across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "Qualitative orders/backlog and production-line validation are retained as company claims. Contract-liability balances and forecasts are not order backlog; no exact equipment order value or backlog stock is inferred. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Preserve qualitative orders and backlog; map an exact quantity only if a source states it, without treating contract liabilities as backlog."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-customers",
+    "entity_id": "acm_shanghai",
+    "status": "unresolved",
+    "scope": "Customer counts and named customers without identity inference across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "FY2025 top-five customer labels are anonymous and period-specific. H1 2025 PEALD entered 2 Chinese wafer manufacturers/fabs, held for exact count semantics. H1 2026 multi-customer references remain unnamed. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Resolve the H1 2025 PEALD 2-manufacturer/fab entry count under a source-exact customer-site metric; do not infer installed tool count or customer identity."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-qualification_validation",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "Canonical model/family histories retain source-vintage stages. Two reviewed H1 2026 p27 furnace subtypes are internally testing and optimizing on the Lingang R&D line, distinct from broad furnace group production and generic ALD customer validation. All three originals and corrected source-topic physical pages have been reviewed. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Preserve model/group and source-vintage stage boundaries; reopen for a new registered original with a later subtype stage."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-production_capacity",
+    "entity_id": "acm_shanghai",
+    "status": "unresolved",
+    "scope": "Actual versus planned capacity across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "Found manufacturing-center and tool-throughput/configuration statements. No source-supported numeric annual factory tools/year capacity is established; 50 wafers/batch and >200/300 wafers/hour are not firm equipment output. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Review technical throughput/batch native holds separately from firm factory tools/year capacity; retain unresolved factory output."
+  },
+  {
+    "coverage_id": "acm_shanghai-operational-sweep-20260923-process_nodes",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across acm_shanghai_2025, acm_shanghai_h1_2025, acm_shanghai_h1_2026",
+    "reviewed_source_ids": [
+      "acm_shanghai_h1_2025",
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "Only TEBO 28nm, automatic bath clean 40nm and named Ultra ECP map 28nm are source-paired platform capabilities. Numeric node metric mapping and project-table row bindings remain held; particle size, wafer diameter, copper thickness and RDL width are not process nodes. Three registered ACM Shanghai originals reviewed; source-by-topic decisions and physical pages in local sweep reconciliation ledger. See docs/reviews/archive/2026-09-23_acm_shanghai_operational_coverage.json for the reviewed source-topic ledger and holds.",
+    "next_action": "Preserve only source-paired platform nodes; inspect R&D project-table row bindings before any further numeric node mapping."
+  },
+  {
+    "coverage_id": "acm_shanghai_recent_key_financials",
+    "entity_id": "acm_shanghai",
+    "status": "reviewed_found",
+    "scope": "FY2024/FY2025/H1 2026 reported company revenue, attributable profit, OCF and R&D expense",
+    "reviewed_source_ids": [
+      "acm_shanghai_2025",
+      "acm_shanghai_h1_2026"
+    ],
+    "notes": "Annual values from FY2025 original pp125-126,128; H1 values from H1 2026 pp77-78,80-81 with company revenue already at p9. All native CNY; same-source comparative vintages retained. Existing equipment-product revenue and R&D investment stay separate. US-parent H1 original acquisition remains held; these subsidiary figures do not replace it.",
+    "next_action": "Stop deepening these covered key financials. Reopen on a new original or correction; retain equipment-product disclosure limits and operational holds."
+  }
+]

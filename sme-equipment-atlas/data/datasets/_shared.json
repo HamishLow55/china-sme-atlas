@@ -1,0 +1,79 @@
+[
+  {
+    "dataset_id": "china_analyst_market_pending",
+    "title": "Future analyst China equipment market dataset",
+    "kind": "analyst_market_data",
+    "publisher": "not_acquired",
+    "version": "pending",
+    "status": "not_acquired",
+    "claim_basis": "analyst_estimate",
+    "git_values_allowed": false,
+    "access": "unknown_until_acquired",
+    "license_notes": "Confirm permitted storage and derived-output use when acquired; no values in this pilot.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "third_party_reference_market_data",
+    "title": "Third-party reference market and price data",
+    "kind": "analyst_market_data",
+    "publisher": "third_party_various",
+    "version": "rolling",
+    "status": "reference_only",
+    "claim_basis": "analyst_estimate",
+    "git_values_allowed": true,
+    "access": "public",
+    "notes": "SEGREGATED REFERENCE TIER. Third-party market sizing and price estimates recorded for context and orientation only. These are NOT verified figures and NOT approved denominators: population, geography, product boundary and vintage are the publisher's and have not been reconciled to atlas scopes. The reconciliation engine refuses these as inputs unless a recipe explicitly sets reference_input_approved and states why the boundaries match. Do not derive a market share, localisation rate or any published figure from this dataset."
+  },
+  {
+    "dataset_id": "china_customs_portal_statistics",
+    "title": "China Customs online statistics: semiconductor equipment trade (statistics/china_customs)",
+    "kind": "official_trade_statistics",
+    "publisher": "general_administration_of_customs_prc",
+    "version": "2026-09-29",
+    "status": "available",
+    "claim_basis": "official_statistic",
+    "git_values_allowed": true,
+    "access": "public_portal_manual_captcha_queries",
+    "license_notes": "Official PRC statistics from stats.customs.gov.cn; raw exports and as-reported tables committed. Geography: mainland China customs territory (all fabs located in mainland China, including foreign-owned). Data layer only; no derived values.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "un_comtrade_china_reported",
+    "title": "UN Comtrade China-reported HS6 SME trade (statistics/comtrade)",
+    "kind": "official_trade_statistics",
+    "publisher": "un_statistics_division",
+    "version": "2026-09-29",
+    "status": "available",
+    "claim_basis": "official_statistic",
+    "git_values_allowed": true,
+    "access": "public_api",
+    "license_notes": "UN Comtrade public preview API; as-reported annual values committed. Data layer only; no derived values.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "eurostat_comext_eu_exports_china",
+    "title": "Eurostat Comext EU exports to China/Hong Kong and annual euro exchange rates (statistics/eurostat)",
+    "kind": "official_trade_statistics",
+    "publisher": "eurostat",
+    "version": "2026-09-23",
+    "status": "available",
+    "claim_basis": "official_statistic",
+    "git_values_allowed": true,
+    "access": "public_api",
+    "license_notes": "Eurostat open data (reuse permitted with attribution); as-published values committed. Data layer only; no derived values.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "cepea_industry_bulletins",
+    "title": "CEPEA semiconductor equipment industry statistics from 行业简讯 bulletins (statistics/cepea)",
+    "kind": "industry_association_statistics",
+    "publisher": "cepea",
+    "version": "2026-09-23",
+    "status": "available",
+    "claim_basis": "industry_association_reported",
+    "git_values_allowed": true,
+    "access": "member_bulletins_publicly_reposted",
+    "license_notes": "Bulletins marked 行业内交流; transcribed figures and a hash index committed, PDFs held locally and not redistributed. Survey of domestic makers (semiconductor equipment revenue >= CNY 10m); 'semiconductor equipment' includes solar-cell equipment. Data layer only; no derived values.",
+    "market_definitions": {}
+  }
+]

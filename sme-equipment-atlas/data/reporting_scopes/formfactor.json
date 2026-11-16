@@ -1,0 +1,44 @@
+[
+  {
+    "reporting_scope_id": "formfactor_probe_cards_segment",
+    "label": "Probe Cards segment",
+    "category_id": "test_probe_card",
+    "definition": "FormFactor's 'Probe Cards' reportable segment as the issuer defines it: sales of probe cards and analytical probes (FY2025 10-K physical p5: 'Sales of our probe cards and analytical probes are included in the Probe Cards segment'). This is the atlas's direct comparator figure for test_probe_card: unlike ASMPT or Besi, FormFactor's own segment boundary maps onto a single atlas category with no multi-category bundling, so the segment total is filed here rather than at multi_equipment. Within this segment FormFactor discloses a further 'Revenues by Market' split (Foundry & Logic, DRAM, Flash) -- see formfactor_dram_market, formfactor_foundry_logic_market and formfactor_flash_market -- which is the finest granularity the issuer gives; never allocated beyond it."
+  },
+  {
+    "reporting_scope_id": "formfactor_systems_segment",
+    "label": "Systems segment",
+    "category_id": "multi_equipment",
+    "definition": "FormFactor's 'Systems' reportable segment: sales of probe stations, thermal systems and cryogenic systems (FY2025 10-K physical p5), plus metrology systems through the Q4 FY2023 sale of the FRT business (FY2023 10-K note (1) to the segment table: 'During the fourth quarter of fiscal 2023, we completed the sale of our FRT business...Metrology Systems revenue will not recur in future periods'). Filed multi_equipment because the segment bundles several non-probe-card product lines with no further split published; never allocate this figure to test_prober_handler or any other single child category. FY2023 and earlier include metrology-systems revenue that FY2024 and FY2025 do not ($21.2m in FY2023, $29.0m in FY2022, $23.7m in FY2021 per the issuer's own note), so this series is not a clean like-for-like across the full five years without that caveat."
+  },
+  {
+    "reporting_scope_id": "formfactor_foundry_logic_market",
+    "label": "Foundry & Logic probe card market",
+    "category_id": "test_probe_card",
+    "definition": "FormFactor's source-native 'Foundry & Logic' market within the Probe Cards segment's 'Revenues by Market' disclosure: logic/SoC-oriented probe card demand. A subset of formfactor_probe_cards_segment, never summed on top of it."
+  },
+  {
+    "reporting_scope_id": "formfactor_dram_market",
+    "label": "DRAM probe card market",
+    "category_id": "test_probe_card",
+    "definition": "FormFactor's source-native 'DRAM' market within the Probe Cards segment's 'Revenues by Market' disclosure. THIS IS THE LINE THAT MATTERS MOST FOR HBM: FormFactor's own MD&A attributes this market's revenue growth in FY2023, FY2024 and FY2025 specifically to 'increased demand for HBM designs/chips utilized in generative artificial intelligence applications', but the issuer gives no HBM-specific revenue figure, unit count or percentage split anywhere in the three 10-Ks reviewed -- HBM sits inside this DRAM line unquantified. A subset of formfactor_probe_cards_segment, never summed on top of it."
+  },
+  {
+    "reporting_scope_id": "formfactor_flash_market",
+    "label": "Flash probe card market",
+    "category_id": "test_probe_card",
+    "definition": "FormFactor's source-native 'Flash' market within the Probe Cards segment's 'Revenues by Market' disclosure: NAND/NOR flash-oriented probe card demand. A subset of formfactor_probe_cards_segment, never summed on top of it."
+  },
+  {
+    "reporting_scope_id": "formfactor_corporate_and_other",
+    "label": "Corporate and Other (unallocated)",
+    "category_id": "all_businesses",
+    "definition": "FormFactor's 'Corporate and Other' column in its gross-profit-by-segment disclosure: unallocated stock-based compensation, intangible amortization, acquisition-related fair value adjustments and restructuring charges, net, 'which are not used in evaluating the results of, or in allocating resources to, our reportable segments' (FY2025 10-K physical p32). A disclosed non-equipment residual, filed all_businesses on the same basis as TOWA's and Advantest's non-equipment business lines; always negative (a cost residual) and never summed into either segment's own gross profit."
+  },
+  {
+    "reporting_scope_id": "formfactor_corporate_functions",
+    "label": "Corporate functions headcount (unallocated to a reportable segment)",
+    "category_id": "all_businesses",
+    "definition": "Headcount FormFactor labels 'corporate functions' in its Human Capital disclosure: regular full-time employees not assigned to the Probe Cards or Systems segment headcount totals. Not a reportable segment with its own revenue; filed all_businesses as unallocated corporate headcount, on the same basis as Advantest's 'Corporate (Common)' headcount scope."
+  }
+]

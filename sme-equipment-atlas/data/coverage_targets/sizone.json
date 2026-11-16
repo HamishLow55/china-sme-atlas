@@ -1,0 +1,44 @@
+[
+  {
+    "target_id": "sizone-company-revenue",
+    "task_id": "cmp_challengers",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "sizone_audit_2025",
+      "sizone_restructuring_2026"
+    ],
+    "observation_ids": [
+      "SIZ2024-TOTALREV",
+      "SIZ2025-TOTALREV"
+    ],
+    "next_action": "Backfill prior audited periods; do not add to parent totals without consolidation evidence."
+  },
+  {
+    "target_id": "sizone-sizone_special_equipment-revenue",
+    "task_id": "cmp_challengers",
+    "entity_id": "sizone",
+    "category_id": "cmp",
+    "reporting_scope_id": "sizone_special_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "sizone_audit_2025",
+      "sizone_restructuring_2026"
+    ],
+    "observation_ids": [
+      "SIZ2024-EQREV",
+      "SIZ2025-EQREV"
+    ],
+    "next_action": "Backfill prior audited periods; do not add to parent totals without consolidation evidence."
+  }
+]

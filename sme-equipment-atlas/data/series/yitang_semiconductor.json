@@ -1,0 +1,314 @@
+[
+  {
+    "series_id": "yitang_all_businesses_company_annual_revenue",
+    "version": 1,
+    "title": "Yitang / all businesses / revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-REVENUE",
+      "YITANG-FY2023-REVENUE",
+      "YITANG-FY2024-REVENUE",
+      "YITANG-FY2025-REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_all_businesses_company_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Yitang / all businesses / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-COST_OF_REVENUE",
+      "YITANG-FY2023-COST_OF_REVENUE",
+      "YITANG-FY2024-COST_OF_REVENUE",
+      "YITANG-FY2025-COST_OF_REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_all_businesses_company_annual_net_profit_attributable",
+    "version": 1,
+    "title": "Yitang / all businesses / net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-NET_PROFIT_ATTRIBUTABLE",
+      "YITANG-FY2023-NET_PROFIT_ATTRIBUTABLE",
+      "YITANG-FY2024-NET_PROFIT_ATTRIBUTABLE",
+      "YITANG-FY2025-NET_PROFIT_ATTRIBUTABLE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_all_businesses_company_annual_operating_cash_flow",
+    "version": 1,
+    "title": "Yitang / all businesses / operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-OPERATING_CASH_FLOW",
+      "YITANG-FY2023-OPERATING_CASH_FLOW",
+      "YITANG-FY2024-OPERATING_CASH_FLOW",
+      "YITANG-FY2025-OPERATING_CASH_FLOW"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_all_businesses_company_annual_rd_investment",
+    "version": 1,
+    "title": "Yitang / all businesses / rd investment",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-RD_INVESTMENT",
+      "YITANG-FY2023-RD_INVESTMENT",
+      "YITANG-FY2024-RD_INVESTMENT",
+      "YITANG-FY2025-RD_INVESTMENT"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_strip_dry_yitang_strip_dry_annual_revenue",
+    "version": 1,
+    "title": "Yitang / strip dry / revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-STRIP_DRY-REVENUE",
+      "YITANG-FY2023-STRIP_DRY-REVENUE",
+      "YITANG-FY2024-STRIP_DRY-REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_strip_dry_yitang_strip_dry_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Yitang / strip dry / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-STRIP_DRY-COST_OF_REVENUE",
+      "YITANG-FY2023-STRIP_DRY-COST_OF_REVENUE",
+      "YITANG-FY2024-STRIP_DRY-COST_OF_REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_strip_dry_yitang_strip_dry_annual_gross_margin",
+    "version": 1,
+    "title": "Yitang / strip dry / gross margin",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-STRIP_DRY-GROSS_MARGIN",
+      "YITANG-FY2023-STRIP_DRY-GROSS_MARGIN",
+      "YITANG-FY2024-STRIP_DRY-GROSS_MARGIN"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_thermal_rtp_yitang_thermal_rtp_annual_revenue",
+    "version": 1,
+    "title": "Yitang / thermal rtp / revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-THERMAL_RTP-REVENUE",
+      "YITANG-FY2023-THERMAL_RTP-REVENUE",
+      "YITANG-FY2024-THERMAL_RTP-REVENUE",
+      "YITANG-FY2025-THERMAL_RTP-REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_thermal_rtp_yitang_thermal_rtp_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Yitang / thermal rtp / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-THERMAL_RTP-COST_OF_REVENUE",
+      "YITANG-FY2023-THERMAL_RTP-COST_OF_REVENUE",
+      "YITANG-FY2024-THERMAL_RTP-COST_OF_REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_thermal_rtp_yitang_thermal_rtp_annual_gross_margin",
+    "version": 1,
+    "title": "Yitang / thermal rtp / gross margin",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-THERMAL_RTP-GROSS_MARGIN",
+      "YITANG-FY2023-THERMAL_RTP-GROSS_MARGIN",
+      "YITANG-FY2024-THERMAL_RTP-GROSS_MARGIN"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_etch_dry_yitang_etch_dry_annual_revenue",
+    "version": 1,
+    "title": "Yitang / etch dry / revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-ETCH_DRY-REVENUE",
+      "YITANG-FY2023-ETCH_DRY-REVENUE",
+      "YITANG-FY2024-ETCH_DRY-REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_etch_dry_yitang_etch_dry_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Yitang / etch dry / cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-ETCH_DRY-COST_OF_REVENUE",
+      "YITANG-FY2023-ETCH_DRY-COST_OF_REVENUE",
+      "YITANG-FY2024-ETCH_DRY-COST_OF_REVENUE"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_etch_dry_yitang_etch_dry_annual_gross_margin",
+    "version": 1,
+    "title": "Yitang / etch dry / gross margin",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-ETCH_DRY-GROSS_MARGIN",
+      "YITANG-FY2023-ETCH_DRY-GROSS_MARGIN",
+      "YITANG-FY2024-ETCH_DRY-GROSS_MARGIN"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang_strip_dry_yitang_strip_dry_annual_sales_volume",
+    "version": 1,
+    "title": "Yitang / strip dry / sales volume",
+    "mode": "evidence_collection",
+    "definition": "Reported financial and operating history, with source-native precision, accounting and product scope retained.",
+    "observation_ids": [
+      "YITANG-FY2022-STRIP_DRY-SALES_VOLUME",
+      "YITANG-FY2023-STRIP_DRY-SALES_VOLUME",
+      "YITANG-FY2024-STRIP_DRY-SALES_VOLUME"
+    ],
+    "limitations": "IPO FY2022/FY2023 costs and margins use retrospectively reclassified warranty accounting. FY2025 narrative equipment revenues are rounded. The combined FY2025 dry-etch/plasma-surface-treatment basket is separate from IPO dry etch. Company ownership and business history do not establish technology origin or China-market share."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_revenue",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-REVENUE",
+      "YITANG-H1-2026-REVENUE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_cost_of_revenue",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-COST_OF_REVENUE",
+      "YITANG-H1-2026-COST_OF_REVENUE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_net_profit_attributable",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-NET_PROFIT_ATTRIBUTABLE",
+      "YITANG-H1-2026-NET_PROFIT_ATTRIBUTABLE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_operating_cash_flow",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-OPERATING_CASH_FLOW",
+      "YITANG-H1-2026-OPERATING_CASH_FLOW"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_rd_investment",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim rd investment",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-RD_TOTAL",
+      "YITANG-H1-2026-RD_TOTAL"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_company_interim_rd_investment_expensed",
+    "version": 1,
+    "title": "Yitang Semiconductor / company / interim rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-H1-2025-RD_EXPENSED",
+      "YITANG-H1-2026-RD_EXPENSED"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_yitang_spare_parts_annual_revenue",
+    "version": 1,
+    "title": "Yitang Semiconductor / yitang spare parts / annual revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-FY2022-SPARE_PARTS-REVENUE",
+      "YITANG-FY2023-SPARE_PARTS-REVENUE",
+      "YITANG-FY2024-SPARE_PARTS-REVENUE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_yitang_equipment_services_annual_revenue",
+    "version": 1,
+    "title": "Yitang Semiconductor / yitang equipment services / annual revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-FY2022-SERVICES-REVENUE",
+      "YITANG-FY2023-SERVICES-REVENUE",
+      "YITANG-FY2024-SERVICES-REVENUE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  },
+  {
+    "series_id": "yitang2_yitang_semiconductor_yitang_technology_licensing_annual_revenue",
+    "version": 1,
+    "title": "Yitang Semiconductor / yitang technology licensing / annual revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "YITANG-FY2022-LICENSING-REVENUE",
+      "YITANG-FY2023-LICENSING-REVENUE",
+      "YITANG-FY2024-LICENSING-REVENUE"
+    ],
+    "limitations": "Total R&D and expensed R&D diverge with capitalization in H1 2026. Blank/dash comparators are not zero. Parts, services and licensing are separate from equipment sales. Mattson subsidiary totals overlap the issuer and do not establish customer geography or domestic technology origin."
+  }
+]

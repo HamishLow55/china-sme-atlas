@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "smee",
+    "name": "SMEE",
+    "aliases": [
+      "上海微电子装备（集团）股份有限公司",
+      "上海微电子装备(集团)股份有限公司",
+      "上海微电子",
+      "Shanghai Micro Electronics Equipment (Group) Co., Ltd.",
+      "Shanghai Micro Electronics Equipment"
+    ],
+    "evidence": {
+      "source_id": "se_holdings_fy2022_audit_report",
+      "page": 182,
+      "excerpt": "上海微电子装备（集团）股份有限公司",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "China's lithography-exposure-tool champion. Unlisted; files nothing of its own (in IPO tutoring with CITIC Securities since 2021 per press, no prospectus registered). Builds complete front-end wafer scanners -- SSX600 (step-and-scan, ArF dry, 90/110/280nm), SSB800 (i-line, >=280nm) and SSC800 (KrF, >=110nm) -- and, through Feb 2025, also built advanced-packaging, LED/compound-semiconductor and flat-panel-display exposure tools under the SSB500/SSB300/SSB245 etc. lines; those stepper lines were carved out to a new independent company, AMIES (entity_id amies), at AMIES's Feb 2025 founding (see amies entity notes; SMEE's own current product menu no longer lists a packaging stepper, consistent with the carve-out -- smee_homepage source). The Atlas therefore splits SMEE-attributed lithography platforms by the date they were reported: pre-2025 packaging-stepper milestones stay entity_id=smee; AMIES's current packaging/panel products are separate platform records under entity_id=amies.\n\nSMEE's own audited revenue is NOT filed by SMEE itself: it is disclosed only in the notes of a shareholder, Shanghai Electric Holdings Group (entity_id shanghai_electric_holdings), which carries SMEE as a significant equity-method associate (~31% stake). This is the same affiliate-disclosure pattern the Atlas already uses for Zhichun's annual report carrying facts about its affiliate Zhiwei. Three years of SMEE's whole-company revenue (2020-2022) are registered this way under category_id=all_businesses (NOT lithography_frontend or lithography_packaging), because the figure is a company total spanning front-end scanners, packaging steppers, LED/FPD exposure tools and other non-lithography product lines combined -- it cannot be read as an exposure-tool product-line revenue figure. SE Holdings' disclosure stops after FY2022: its FY2023 annual report instead shows SMEE's equity-method carrying value written down to a zero closing balance, after a further ~RMB1.245bn capital injection and a ~RMB598m equity-method loss recognised by SE Holdings on its SMEE stake in 2023 (registered here too, under category_id=all_businesses, explicitly scoped as the DISCLOSING SHAREHOLDER's proportional recognised result, not SMEE's own full-company net profit, which is not disclosed for 2023 onward). A new associate, Shanghai Aishengna Electronic Technology Group (entity_id aishengna), appears in SE Holdings' notes in SMEE's place from 2023 -- see aishengna entity notes.\n\nSMEE's current front-end catalogue reaches only a dry 90nm ArF scanner (SSX600) and a 110nm KrF scanner (SSC800); no immersion (ArFi) or EUV front-end tool is catalogued. A December 2023 claim relayed by Chinese media that SMEE had 'successfully developed a 28nm lithography machine' (model SSA/800-10W) was edited within hours by the posting shareholder (Zhangjiang Hi-Tech) to 'is committed to developing' one; that model does not appear in SMEE's current catalogue. This retracted claim is NOT registered as a platform record in this packet -- see coverage/holds. SE Holdings' FY2023 capital injection into SMEE and the equity-method loss it recognised on the stake are carried on entity shanghai_electric_holdings at scope se_holdings_equity_stake_smee, because those figures are the shareholder's, not SMEE's; only the 重要联营企业的主要财务信息 figures (FY2020-FY2022 revenue and net profit) are SMEE's own and sit here.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Shanghai Micro Electronics Equipment (Group) Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

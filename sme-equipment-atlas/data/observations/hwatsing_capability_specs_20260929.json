@@ -1,0 +1,48 @@
+[
+  {
+    "observation_id": "hwatsing_gp300_within_wafer_grinding_ttv",
+    "dataset_id": "hwatsing_disclosures",
+    "source_id": "hwatsing_2023",
+    "entity_id": "hwatsing",
+    "category_id": "thinning",
+    "reporting_scope_id": "hwatsing_versatile_gp300_thinning",
+    "metric_id": "reported_wafer_total_thickness_variation_capability",
+    "platform_id": "",
+    "value": "0.8",
+    "relation": "lt",
+    "unit": "micrometre",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "hwatsing_2023"
+    },
+    "evidence": {
+      "page": 12,
+      "original_label": "Versatile-GP300 量产机台 12 英寸晶圆片内磨削 TTV",
+      "excerpt": "公司基于自身对 CMP 设备领域的深耕和技术积累， ¦ 开发出 Versatile-GP300 减薄抛光一体机， ¦ 主要适用于先进封装领域和前道晶圆制造的背面减薄工艺，以满足 3D IC 对超精密磨削、CMP 及 ¦ 清洗的一体化工艺需求，在客户端验证顺利。报告期内，公司针对 Versatile-GP300 进行了智能 ¦ 化控制及工艺性能水平的迭代升级，推出 Versatile-GP300 量产机台，并配备了新开发的双重智 ¦ 能 TTV 控制系统，突破传统减薄机的精度限制，实现了减薄工艺全过程的稳定可控，在核心技术 ¦ 指标方面取得新突破，稳定实现了 12 英寸晶圆片内磨削 TTV＜0.8μm，达到了国内领先和国际先",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "0.8",
+      "reported_unit": "micrometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Within-wafer grinding total thickness variation, the defining figure of merit for a wafer grinder and the first such figure in the atlas. Attributed to the Versatile-GP300 量产机台 fitted with a newly developed 双重智能 TTV 控制系统. Held at the thinning parent rather than thinning_grinding because GP300 is a 减薄抛光一体机 that integrates ultra-precision grinding, chemical mechanical polishing and cleaning in one tool, so the result is not attributable to a standalone grinder. The issuer characterises the level as 国内领先和国际先进. The excerpt reproduces the source’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

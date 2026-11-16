@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "kingsemi_annual_disclosures",
+    "title": "Kingsemi annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "kingsemi",
+    "version": "kingsemi1-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals remain local.",
+    "market_definitions": {}
+  }
+]

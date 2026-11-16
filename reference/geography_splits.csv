@@ -1,0 +1,7 @@
+entity_id,year,china_share_low,china_share_base,china_share_high,method_tier,basis,source,status
+yitang_semiconductor,2025,0.65,0.7046,0.75,B,"Reported mainland share of company revenue 70.5%, applied pro rata to lines (Mattson sells RTP and strip overseas, so line shares may differ)",Atlas geographic revenue observations,proposed
+yitang_semiconductor,2024,0.6,0.7046,0.8,C,2025 mainland share carried back; no 2023-24 split in the Atlas,Atlas geographic revenue observations,proposed
+yitang_semiconductor,2023,0.6,0.7046,0.8,C,2025 mainland share carried back; no 2023-24 split in the Atlas,Atlas geographic revenue observations,proposed
+acm_shanghai,2025,0.985,0.9955,1.0,A,Reported mainland share of semiconductor-equipment revenue 99.5%,Atlas geographic revenue observations,proposed
+acm_shanghai,2024,0.98,0.9919,1.0,B,"Parent ACMR mainland share, same year",Atlas geographic revenue observations,proposed
+acm_shanghai,2023,0.95,0.97,0.99,B,"Parent ACMR mainland share, same year",Atlas geographic revenue observations,proposed

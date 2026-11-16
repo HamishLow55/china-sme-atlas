@@ -1,0 +1,112 @@
+[
+  {
+    "coverage_id": "djel_ipo_2026_installed_base",
+    "entity_id": "djel",
+    "status": "reviewed_not_found",
+    "scope": "Quantitative installed-base count",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "qualitative CD-SEM domestic-leading installation base p123 already canonical; quantitative count reviewed_not_found across full original",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_cumulative_shipments",
+    "entity_id": "djel",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "reviewed_not_found; annual dispatch series 2023–2025 exists but is not a complete lifetime cumulative total",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_annual_product_units",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "annual product units",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "accepted canonical p176–177: native 产量=dispatched systems, native 销量=accepted systems, ratios printed; no defect in shipments mapping",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_named_product_definitions",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "named product definitions",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "seven existing SEpA family/model records cover source-defined equipment; no additional independently named whole tool found",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_qualification",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "qualification",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "existing platform histories cover CD/DR Customer G batch orders, EBI production use, HV dispatched/validation, and old 12-inch CD under customer validation",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_orders_backlog",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "Major sales contracts/orders pp356–357 newly identified: selected contracts under the source criterion 单笔合同金额在3,000万元以上, including Customer G 10 consecutive IC-equipment orders tax-inclusive 12,927.20 万元. These are neither complete orders nor current backlog, nor model/HBM allocations. No comprehensive backlog amount found.",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_customers",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "2025 top customer table p177 names buyers but mixes measurement equipment and software; no customer-model unit mapping",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_vendor_manufacturing_capacity",
+    "entity_id": "djel",
+    "status": "reviewed_not_found",
+    "scope": "vendor manufacturing capacity",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "reviewed_not_found; p169 60 WPH is SEpA-c505 throughput, not production capacity",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_nodes",
+    "entity_id": "djel",
+    "status": "reviewed_found",
+    "scope": "nodes",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "model-specific ≥28nm logic/3D NAND for c505/i635/r655, HV target ≤14nm logic and advanced memory, already canonical; 7nm/5nm p168–170 refers PanGen computational lithography software, not equipment",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  },
+  {
+    "coverage_id": "djel_ipo_2026_hbm_tsv",
+    "entity_id": "djel",
+    "status": "reviewed_not_found",
+    "scope": "hbm tsv",
+    "reviewed_source_ids": [
+      "djel_ipo_2026"
+    ],
+    "notes": "reviewed_not_found as specific equipment application terms; customer G being a memory manufacturer is not HBM qualification",
+    "next_action": "Operational source set dispositioned and selected equipment contracts integrated. Revisit on a new original or specifically located missing claim."
+  }
+]

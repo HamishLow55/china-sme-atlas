@@ -1,0 +1,119 @@
+[
+  {
+    "claim": "Hwatsing >90% domestic-brand CMP share",
+    "source_id": "hwatsing_2025",
+    "page": 18,
+    "reason": "Domestic-brand sales denominator, not all China CMP demand; metric unit/value vs volume and exact year not explicit. Do not import as China market share.",
+    "claim_id": "cmp-hold-1"
+  },
+  {
+    "claim": "Versatile-GP300 cumulative shipments >20",
+    "source_id": "hwatsing_2025",
+    "page": 21,
+    "reason": "Useful adjacent thinning platform claim; exact cumulative as-of date ambiguous within annual narrative, resolve FY-end vs publication before numeric import.",
+    "claim_id": "cmp-hold-2"
+  },
+  {
+    "claim": "Hwatsing uniform CMP-only annual revenue/sales series",
+    "source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "reason": "Reporting basket changes; broader unit counts never establish CMP-only sales or CMP ASP.",
+    "claim_id": "cmp-hold-3"
+  },
+  {
+    "claim": "H1 2026 product-order, shipment, delivery and validation narratives",
+    "source_id": "hwatsing_h1_2026",
+    "pages": [
+      16,
+      17,
+      18
+    ],
+    "reason": "The report uses unquantified terms such as batch orders, first system, multiple systems and sufficient backlog across CMP, thinning, ion implantation and wet equipment. These are useful maturity leads but do not support numeric sales, shipment or installation observations. Five CMP stages are now retained in platform maturity histories; other adjacent-tool narratives remain queued.",
+    "claim_id": "wave1-hwatsing-hold-1"
+  },
+  {
+    "claim": "Hwatsing H1 2026 equipment/service segment revenue",
+    "source_id": "hwatsing_h1_2026",
+    "pages": [
+      7,
+      154,
+      155
+    ],
+    "reason": "The interim filing discloses consolidated revenue and customer-contract/rental disaggregation, but no semiconductor-equipment versus semiconductor-service revenue split comparable with the FY2025 annual table. Do not infer CMP-only or equipment-only revenue.",
+    "claim_id": "wave1-hwatsing-hold-2"
+  },
+  {
+    "claim_id": "hwatsing-two-over-20-thinning-bounds",
+    "claim": "two over 20 thinning bounds",
+    "source_ids": [
+      "hwatsing_2025"
+    ],
+    "pages_reviewed": [
+      13,
+      19,
+      21
+    ],
+    "status": "unresolved",
+    "reason": "P19 unnamed integrated thinning-polishing shipments >20 and p21 named GP300 factory shipments >20 are two supported lower bounds. P13 identifies GP300 as an integrated model, making overlap plausible, but p19 does not explicitly name its population. Both dates are inferred FY2025 report context; never add or automatically alias counts.",
+    "next_action": "Retain both source-native observations and seek an explicit source linking their counted populations or exact as-of events before aliasing."
+  },
+  {
+    "claim_id": "hwatsing-2025-midyear-reclaim-capacity",
+    "claim": "2025 midyear reclaim capacity",
+    "source_ids": [
+      "hwatsing_2025",
+      "hwatsing_h1_2026"
+    ],
+    "pages_reviewed": [
+      60,
+      104
+    ],
+    "status": "unresolved",
+    "reason": "P104 says 20万片/月 of 12-inch reclaimed-wafer processing capacity was reached in 2025年中; p60 repeats the history. No exact day is disclosed. The FY2025 p19 current Tianjin 20万片/月 observation is a separate annual-context record.",
+    "next_action": "Keep the native narrative hold; do not map to 2025-06-30 or duplicate the FY2025 annual current-capacity observation."
+  },
+  {
+    "claim_id": "hwatsing-2025-equipment-unit-bridge",
+    "claim": "2025 equipment unit bridge",
+    "source_ids": [
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "pages_reviewed": [
+      37,
+      38
+    ],
+    "status": "unresolved",
+    "reason": "FY2024 printed closing inventory 340 plus FY2025 production 400 minus FY2025 sales 418 equals 322, while FY2025 printed closing inventory is 324. The source table does not explain the two-unit residual.",
+    "next_action": "Preserve all printed figures; do not invent transfers, returns or scope changes. Resolve only from a source explanation."
+  },
+  {
+    "claim_id": "hwatsing-2023-gp300-ttv",
+    "claim": "2023 gp300 ttv",
+    "source_ids": [
+      "hwatsing_2023"
+    ],
+    "pages_reviewed": [
+      12
+    ],
+    "status": "unresolved",
+    "reason": "Source states 12-inch wafer within-wafer grinding TTV <0.8 μm for Versatile-GP300. Current metric/unit contract does not cover the specific capability; it is neither a process node nor equipment shipment.",
+    "next_action": "Review a reusable TTV capability metric and micrometre unit in a separately reviewed capability-contract extension; retain native source claim meanwhile."
+  },
+  {
+    "claim_id": "hwatsing-2025-historical-reclaim-design",
+    "claim": "2025 historical reclaim design",
+    "source_ids": [
+      "hwatsing_2025"
+    ],
+    "pages_reviewed": [
+      104
+    ],
+    "status": "unresolved",
+    "reason": "P104 retrospectively states the wafer-reclaim project was designed for 10万 12-inch reclaimed wafers/month. It supplies no exact historical stock date; FY2023 p13 has a separate annual-context 10万/month current-capacity observation.",
+    "next_action": "Retain retrospective design context without creating a duplicate dated current-capacity observation."
+  }
+]

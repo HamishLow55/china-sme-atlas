@@ -1,0 +1,44 @@
+[
+  {
+    "platform_id": "xinhuilianxin_sirius_rt300",
+    "entity_id": "xinhuilianxin",
+    "category_id": "bonding_hybrid_d2w",
+    "name": "SIRIUS RT300",
+    "aliases": [
+      "SIRIUS RT300",
+      "D2W混合键合设备SIRIUS RT300"
+    ],
+    "evidence": {
+      "source_id": "xinhuilianxin_ljzfin_rollout_20241106",
+      "page": 1,
+      "excerpt": "2024年11月6日，芯慧联新（苏州）科技有限公司（简称“芯慧联新”）在江苏常熟举办了D2W混合键合设备SIRIUS RT300及首台W2W混合键合设备CANOPUS RT300出机仪式。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "first_unit_roll_out_ceremony_2024_11_06",
+    "maturity_as_reported_in": "xinhuilianxin_ljzfin_rollout_20241106",
+    "notes": "A die-to-wafer (D2W) hybrid bonder named at a 2024-11-06 equipment roll-out ceremony (出机仪式) in Changshu, Jiangsu, held jointly with the first unit of its W2W sibling platform (platform_id xinhuilianxin_canopus_rt300). Unlike CANOPUS, this sentence does not explicitly mark SIRIUS as a '首台' (first unit); whether this specific ceremony unit was SIRIUS's first is not stated and is not assumed here. A roll-out ceremony marks completion/dispatch of a specific unit, not a customer shipment, acceptance or mass-production milestone. A separate, broad qualitative claim in the same article — that the company's W2W/D2W bonders 'rank among the top of all tested manufacturers' on bond strength, interface-defect rate, alignment accuracy and micro-distortion — carries no specific number for either named platform and is not registered as a capability-spec observation. Baiao Chemical's FY2024 annual report (source baiao_chemical_2024_ar, physical p9) separately and more authoritatively states the company's wafer-bonding equipment generally (not attributed to either named model specifically) 'has been shipped to major domestic IC manufacturing fabs for testing, with product performance reaching a domestically leading level' — registered at the entity level (application link xinhuilianxin-hbm-1), not duplicated onto this platform record, because the annual report does not distinguish which named model(s) that shipment covers. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against xinhuilianxin_ljzfin_rollout_20241106 (page 1): '...在江苏常熟举办了D2W混合键合设备SIRIUS RT300及首台W2W混合键合设备CANOPUS RT300出机仪式'. The source explicitly names both the mechanism (混合键合, hybrid bonding) and the configuration (D2W) for this specific model, so category_id=bonding_hybrid_d2w is correct under the protocol's own calibration ('D2W混合键合设备 names the mechanism and does belong at bonding_hybrid_d2w'). This is the live contrast case for jsg_w2w_high_precision_bonder: here the source actually uses 混合键合 and names the configuration per model, which JSG's filing never does. Both aliases ('SIRIUS RT300', 'D2W混合键合设备SIRIUS RT300') are verbatim substrings of the cited excerpt. reported_maturity (roll-out ceremony, not shipment/acceptance) correctly scoped; the broader 'ranks top of all tested manufacturers' claim is correctly excluded as unquantified."
+  },
+  {
+    "platform_id": "xinhuilianxin_canopus_rt300",
+    "entity_id": "xinhuilianxin",
+    "category_id": "bonding_hybrid_w2w",
+    "name": "CANOPUS RT300",
+    "aliases": [
+      "CANOPUS RT300",
+      "首台W2W混合键合设备CANOPUS RT300"
+    ],
+    "evidence": {
+      "source_id": "xinhuilianxin_ljzfin_rollout_20241106",
+      "page": 1,
+      "excerpt": "2024年11月6日，芯慧联新（苏州）科技有限公司（简称“芯慧联新”）在江苏常熟举办了D2W混合键合设备SIRIUS RT300及首台W2W混合键合设备CANOPUS RT300出机仪式。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "first_unit_roll_out_ceremony_2024_11_06",
+    "maturity_as_reported_in": "xinhuilianxin_ljzfin_rollout_20241106",
+    "notes": "A wafer-to-wafer (W2W) hybrid bonder, explicitly named by the source as the company's FIRST (首台) W2W unit, at the same 2024-11-06 roll-out ceremony as its D2W sibling (platform_id xinhuilianxin_sirius_rt300); see that record's notes for the shared broad ranking-claim caveat and the separate, more authoritative Baiao-annual-report shipped-for-testing statement, which is registered at the entity level rather than duplicated onto this platform record. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Same source and excerpt as SIRIUS, confirmed verbatim: '...首台W2W混合键合设备CANOPUS RT300出机仪式'. 混合键合 (hybrid bonding) and W2W are both explicitly named for this model, and the source additionally marks this as the company's FIRST (首台) W2W unit -- category_id=bonding_hybrid_w2w is correct. This is the clean contrast case against jsg_w2w_high_precision_bonder (see that record): same configuration label (W2W), but here the mechanism word 混合键合 is actually present in the source, there it is not."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "camtek_disclosures",
+    "title": "Camtek Ltd. SEC EDGAR annual reports on Form 20-F",
+    "kind": "company_filings",
+    "publisher": "camtek",
+    "version": "w11-foreign-incumbent-intake-2026-10-02",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages only; original EDGAR HTML filings held locally under the maintainer's local archive (not distributed): Financial reports/Camtek filings/, downloaded directly from SEC EDGAR (www.sec.gov/Archives/edgar/data/1109138/) with a descriptive User-Agent, sha256-hashed locally. Both are the full Form 20-F annual report as filed (HTML, not PDF): camtek_20f_fy2025.htm (filed 2026-03-19, covers fiscal years 2025/2024/2023) and camtek_20f_fy2023.htm (filed 2024-03-21, covers fiscal years 2023/2022/2021), registered locator_kind html with page_count 1 per the atlas's established HTML pattern (see data/sources/smee.json) -- the automated check-pages page check does not reach HTML sources (registered_source_not_pdf), so every row's excerpt was read and transcribed directly against the live downloaded file. Camtek's fiscal year is a plain calendar year ending 31 December in both filings ('fiscal year ended December 31, 2025' etc.), confirmed on the filings themselves rather than assumed.",
+    "market_definitions": {}
+  }
+]

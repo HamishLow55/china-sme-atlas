@@ -1,0 +1,94 @@
+[
+ {
+  "observation_id": "H2026H1-SERVICE-CUSTOMER-GROUPS",
+  "dataset_id": "hwatsing_disclosures",
+  "source_id": "hwatsing_h1_2026",
+  "entity_id": "hwatsing",
+  "category_id": "all_businesses",
+  "reporting_scope_id": "company",
+  "platform_id": "",
+  "metric_id": "reported_customer_count_period_status",
+  "value": "149",
+  "relation": "gt",
+  "unit": "customer",
+  "period": {
+   "start": "2026-01-01",
+   "end": "2026-06-30",
+   "kind": "interim",
+   "basis": "period_status"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "company_operating_disclosure",
+   "revenue_basis": "not_applicable",
+   "price_basis": "not_applicable",
+   "equipment_condition": "all_reported",
+   "service_scope": "after_sales_service_coverage",
+   "tax_basis": "not_applicable"
+  },
+  "evidence": {
+   "page": 22,
+   "printed_page": 22,
+   "original_label": "售后服务团队累计覆盖客户群体",
+   "excerpt": "公司组建了一支现场与远程相结合的经验丰富的技术支持和售后服务团队，累计覆盖 35 个区域超 149 个客户群体，保证 7×24 小时快速响应客户的需求。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "149",
+   "reported_unit": "customer",
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary. Verifier correction applied: SCOPE IS HONEST, DATE ANCHOR AND METRIC ARE NOT. Verified hwatsing_h1_2026 p.22, inside 核心竞争力分析 (6) 本地化的售后服务: '公司组建了一支现场与远程相结合的经验丰富的技术支持和售后服务团队，累计覆盖 35 个区域超 149 个客户群体，保证 7x24 小时快速响应客户的需求'. The excerpt"
+  },
+  "claim_kind": "company_reported",
+  "precision": "reported_lower_bound",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "After-sales service coverage perimeter for the whole company, not a CMP-only and not an equipment-purchasing customer count. Native unit is 客户群体 (customer groups), which may aggregate multiple sites or legal entities per group; it is not proven to be distinct purchasing customers, and the registry has no customer_group unit, so unit=customer is an approximation held together by this note. 超 preserved as relation gt. The source states NO 截至 cutoff, so this is recorded under reported_customer_count_period_status with basis=period_status against the H1 2026 reporting period rather than being stamped with a fabricated as-of date; do not read the period end as the date the count was struck. Directly comparable in basis with the FY2025 statement of 累计覆盖 30 个区域超 141 个客户群体 (H2025-SERVICE-CUSTOMER-GROUPS), but because neither figure is dated, the 141 -> 149 difference is not a measured flow over a known interval."
+ },
+ {
+  "observation_id": "H2025-SERVICE-CUSTOMER-GROUPS",
+  "dataset_id": "hwatsing_disclosures",
+  "source_id": "hwatsing_2025",
+  "entity_id": "hwatsing",
+  "category_id": "all_businesses",
+  "reporting_scope_id": "company",
+  "platform_id": "",
+  "metric_id": "reported_customer_count_period_status",
+  "value": "141",
+  "relation": "gt",
+  "unit": "customer",
+  "period": {
+   "start": "2025-01-01",
+   "end": "2025-12-31",
+   "kind": "annual",
+   "basis": "period_status"
+  },
+  "dimensions": {
+   "geography": "all_reported_geographies",
+   "geography_basis": "company_operating_disclosure",
+   "revenue_basis": "not_applicable",
+   "price_basis": "not_applicable",
+   "equipment_condition": "all_reported",
+   "service_scope": "after_sales_service_coverage",
+   "tax_basis": "not_applicable"
+  },
+  "evidence": {
+   "page": 27,
+   "printed_page": 27,
+   "original_label": "售后服务团队累计覆盖客户群体",
+   "excerpt": "公司组建了一支现场与远程相结合的经验丰富的技术支持和售后服务团队，累计覆盖 30 个区域超 141 个客户群体，保证 7×24 小时快速响应客户的需求。",
+   "status": "source_checked",
+   "reviewer": "claude_resweep_independent_verifier",
+   "review_date": "2026-09-24",
+   "independent_corroboration": false,
+   "reported_value": "141",
+   "reported_unit": "customer",
+   "review_notes": "Re-sweep of a page in a registered original that earlier extraction never opened. Extracted by one agent and independently verified by a separate agent that reopened the original page rather than the extractor summary. Verifier correction applied: Same finding as the H1 2026 sibling. Verified hwatsing_2025 p.27: '公司组建了一支现场与远程相结合的经验丰富的技术支持和售后服务团队，累计覆盖 30 个区域超 141 个客户群体，保证 7x24 小时快速响应客户的需求'. Excerpt faithful, 客户群体 scope honestly disclosed, 超 -> g"
+  },
+  "claim_kind": "company_reported",
+  "precision": "reported_lower_bound",
+  "revision_of": "",
+  "reporting_basis": "original",
+  "notes": "After-sales service coverage perimeter for the whole company, not a CMP-only and not an equipment-purchasing customer count. Native unit is 客户群体 (customer groups), which may aggregate multiple sites or legal entities per group; the registry has no customer_group unit, so unit=customer is an approximation held together by this note. 超 preserved as relation gt. The source states NO 截至 cutoff, so this is recorded under reported_customer_count_period_status with basis=period_status against the FY2025 reporting period rather than being stamped with a fabricated as-of date. Paired with H2026H1-SERVICE-CUSTOMER-GROUPS (超141 -> 超149, 30 -> 35 regions); since neither figure is dated, the difference is not a measured flow over a known interval."
+ }
+]

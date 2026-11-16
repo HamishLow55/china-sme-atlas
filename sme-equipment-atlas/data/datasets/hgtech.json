@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "hgtech_disclosures",
+    "title": "HGTech public company disclosures",
+    "kind": "company_filings",
+    "publisher": "hgtech",
+    "version": "2026-09-24",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Short evidence excerpts and numeric observations; originals held locally.",
+    "market_definitions": {}
+  }
+]

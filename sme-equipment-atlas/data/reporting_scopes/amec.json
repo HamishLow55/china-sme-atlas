@@ -1,0 +1,400 @@
+[
+  {
+    "reporting_scope_id": "amec_special_equipment",
+    "label": "AMEC special equipment",
+    "category_id": "multi_equipment",
+    "definition": "专用设备; multi-category equipment reporting basket."
+  },
+  {
+    "reporting_scope_id": "etch_ccp_dual_station",
+    "label": "etch ccp dual station",
+    "category_id": "etch_ccp",
+    "definition": "As defined by source passage; no inferred conversion or partition."
+  },
+  {
+    "reporting_scope_id": "etch_ccp_single_station",
+    "label": "etch ccp single station",
+    "category_id": "etch_ccp",
+    "definition": "As defined by source passage; no inferred conversion or partition."
+  },
+  {
+    "reporting_scope_id": "amec_annual_company_disclosures",
+    "category_id": "all_businesses",
+    "label": "AMEC source-native annual company disclosure tables",
+    "definition": "Company counterparty and workforce disclosure tables; preserve each table population and cohort without assuming an explicitly consolidated or parent-only financial-statement perimeter."
+  },
+  {
+    "reporting_scope_id": "amec_main_business_semiconductor_equipment",
+    "label": "AMEC main-business semiconductor equipment",
+    "category_id": "all_businesses",
+    "definition": "分行业：半导体设备; source-native main-business industry table perimeter, not automatically identical to consolidated total revenue/cost."
+  },
+  {
+    "reporting_scope_id": "amec_spare_parts",
+    "label": "AMEC spare parts",
+    "category_id": "multi_equipment",
+    "definition": "分产品：备品备件; source-native parts revenue/cost basket across equipment categories."
+  },
+  {
+    "reporting_scope_id": "amec_equipment_maintenance",
+    "label": "AMEC equipment maintenance",
+    "category_id": "multi_equipment",
+    "definition": "分产品：设备维护; source-native maintenance-service revenue/cost basket."
+  },
+  {
+    "reporting_scope_id": "amec_main_business_mainland_region",
+    "label": "AMEC mainland-region main business",
+    "category_id": "all_businesses",
+    "definition": "分地区：大陆地区; issuer-defined geographic row. Preserve label without recoding as China or domestic."
+  },
+  {
+    "reporting_scope_id": "amec_main_business_taiwan_region",
+    "label": "AMEC Taiwan-region main business",
+    "category_id": "all_businesses",
+    "definition": "分地区：台湾地区; issuer-defined geographic row. Preserve as a separate source-native geography."
+  },
+  {
+    "reporting_scope_id": "amec_main_business_other_countries_regions",
+    "label": "AMEC other-countries-and-regions main business",
+    "category_id": "all_businesses",
+    "definition": "分地区：其他国家和地区; residual issuer-defined row. Do not relabel as overseas, foreign, export, or non-China."
+  },
+  {
+    "reporting_scope_id": "amec_main_business_direct_sales",
+    "label": "AMEC direct-sales main business",
+    "category_id": "all_businesses",
+    "definition": "分销售模式：直销; source-native sales-mode partition, not additive to industry/product/geography partitions."
+  },
+  {
+    "reporting_scope_id": "amec_semiconductor_equipment_cost_analysis",
+    "label": "AMEC semiconductor-equipment cost-analysis table",
+    "category_id": "all_businesses",
+    "definition": "成本分析表分行业：半导体设备; table-bound perimeter preserving cost components and its own total/comparative values."
+  },
+  {
+    "reporting_scope_id": "amec_special_equipment_cost_analysis",
+    "label": "AMEC special-equipment cost-analysis table",
+    "category_id": "multi_equipment",
+    "definition": "成本分析表分产品：专用设备; table-bound because its total conflicts with the revenue-cost-margin table. Do not replace either source figure."
+  },
+  {
+    "reporting_scope_id": "amec_spare_parts_cost_analysis",
+    "label": "AMEC spare-parts cost-analysis table",
+    "category_id": "multi_equipment",
+    "definition": "成本分析表：备品备件; table-bound because its amount conflicts with the revenue-cost-margin table."
+  },
+  {
+    "reporting_scope_id": "amec_service_cost_analysis",
+    "label": "AMEC service cost-analysis table",
+    "category_id": "multi_equipment",
+    "definition": "成本分析表：服务成本; table-bound and not silently equated with the 设备维护 product row."
+  },
+  {
+    "reporting_scope_id": "amec_administrative_expense",
+    "label": "AMEC administrative-expense scope",
+    "category_id": "all_businesses",
+    "definition": "Functional administrative-expense bridge only."
+  },
+  {
+    "reporting_scope_id": "amec_all_equipment_products",
+    "label": "AMEC all equipment products",
+    "category_id": "multi_equipment",
+    "definition": "Issuer narrative basket covering all reported equipment products; used only for broad order/shipment claims not allocated by category."
+  },
+  {
+    "reporting_scope_id": "amec_etch_and_thin_film_equipment",
+    "label": "AMEC etch and thin-film equipment basket",
+    "category_id": "multi_equipment",
+    "definition": "Source phrase 各类等离子体刻蚀设备和薄膜设备; do not disaggregate its chamber/line threshold."
+  },
+  {
+    "reporting_scope_id": "amec_finance_expense",
+    "label": "AMEC finance-expense scope",
+    "category_id": "all_businesses",
+    "definition": "Functional finance-expense bridge only."
+  },
+  {
+    "reporting_scope_id": "amec_june_2021_equity_offering_narrative_net_proceeds",
+    "label": "AMEC June 2021 equity offering narrative net proceeds",
+    "category_id": "all_businesses",
+    "definition": "Narrative amount described as net proceeds received from the June 2021 private placement; retained separately because it conflicts with the detailed after-issuance-cost amount and the narrative does not define the deduction basis."
+  },
+  {
+    "reporting_scope_id": "amec_mocvd_equipment",
+    "label": "AMEC MOCVD equipment",
+    "category_id": "deposition_mocvd",
+    "definition": "All AMEC MOCVD products where the source provides no narrower platform allocation."
+  },
+  {
+    "reporting_scope_id": "amec_qingdao_juyuan_xinxing_investment",
+    "label": "AMEC investment in Qingdao Juyuan Xinxing",
+    "category_id": "all_businesses",
+    "definition": "Named 2020 investment scope used only for its investment amount and related listed-equity gain narrative."
+  },
+  {
+    "reporting_scope_id": "amec_rd_expense",
+    "label": "AMEC R&D-expense scope",
+    "category_id": "all_businesses",
+    "definition": "Functional income-statement R&D-expense bridge, distinct from R&D investment."
+  },
+  {
+    "reporting_scope_id": "amec_selling_expense",
+    "label": "AMEC selling-expense scope",
+    "category_id": "all_businesses",
+    "definition": "Functional selling-expense bridge only."
+  },
+  {
+    "reporting_scope_id": "amec_source_reported_cash_reserve",
+    "label": "AMEC source-reported cash reserve",
+    "category_id": "all_businesses",
+    "definition": "Company-wide narrative cash reserve (现金储备) under the issuer wording; accounting perimeter and restrictions are not stated."
+  },
+  {
+    "reporting_scope_id": "amec_unimax_annual_disclosure_system_order_threshold",
+    "label": "Prismo UniMax annual-disclosure system order threshold",
+    "category_id": "deposition_mocvd",
+    "definition": "Prismo UniMax system-denominated customer-order threshold reported in the FY2021 annual technical narrative; source does not give an as-of date."
+  },
+  {
+    "reporting_scope_id": "amec_unimax_half_year_post_launch_order_threshold",
+    "label": "Prismo UniMax half-year post-launch order threshold",
+    "category_id": "deposition_mocvd",
+    "definition": "Prismo UniMax order threshold reported as 半年内 after its June 2021 launch; source gives no launch day or window-end date."
+  },
+  {
+    "reporting_scope_id": "amec_unimax_report_period_chamber_order_threshold",
+    "label": "Prismo UniMax report-period chamber order threshold",
+    "category_id": "deposition_mocvd",
+    "definition": "Prismo UniMax chamber-denominated batch-order threshold reported in the FY2021 report-period MOCVD narrative."
+  },
+  {
+    "reporting_scope_id": "amec_unlisted_equity_investments",
+    "label": "AMEC other unlisted equity investments",
+    "category_id": "all_businesses",
+    "definition": "Source-native basket of other unlisted equity investments measured at fair value through profit or loss."
+  },
+  {
+    "reporting_scope_id": "amec_smic_and_tianyue_advanced_stock_holdings",
+    "label": "AMEC SMIC and Tianyue Advanced stock holdings",
+    "category_id": "all_businesses",
+    "definition": "Q1 2022 narrative basket explicitly covering shares held in SMIC and Tianyue Advanced for the stated fair-value loss comparison; not the company-wide fair-value-change financial-statement line or all equity investments."
+  },
+  {
+    "reporting_scope_id": "amec_fy2021_rd_investment_table",
+    "label": "AMEC FY2021 report R&D investment table",
+    "category_id": "all_businesses",
+    "definition": "Source-native R&D investment table covering FY2021 and FY2020 columns; the table does not explicitly label its perimeter as 公司, 本集团, parent-only or consolidated."
+  },
+  {
+    "reporting_scope_id": "amec_fy2021_company_rd_reconciliation",
+    "label": "AMEC FY2021 公司 R&D reconciliation",
+    "category_id": "all_businesses",
+    "definition": "FY2021 R&D expenditure reconciliation explicitly introduced with 公司. Preserve that source wording without inferring parent-only or consolidated perimeter."
+  },
+  {
+    "reporting_scope_id": "amec_fy2020_group_rd_reconciliation",
+    "label": "AMEC FY2020 本集团 R&D reconciliation",
+    "category_id": "all_businesses",
+    "definition": "FY2020 comparative R&D expenditure reconciliation explicitly introduced with 本集团. Preserve that source wording as a group perimeter and do not collapse it into the FY2021 公司 wording."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_memory_ccp_128p",
+    "label": "用于存储器刻蚀的CCP刻蚀设备（128P）",
+    "category_id": "etch_ccp",
+    "definition": "FY2021 在研项目 table row “用于存储器刻蚀的CCP刻蚀设备（128P）”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_advanced_logic_ccp",
+    "label": "先进逻辑电路的CCP刻蚀设备",
+    "category_id": "etch_ccp",
+    "definition": "FY2021 在研项目 table row “先进逻辑电路的CCP刻蚀设备”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_mini_led_high_throughput_mocvd",
+    "label": "用于Mini LED大规模生产的高输出量MOCVD设备",
+    "category_id": "deposition_mocvd",
+    "definition": "FY2021 在研项目 table row “用于Mini LED大规模生产的高输出量MOCVD设备”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_micro_led_novel_mocvd",
+    "label": "用于Micro-LED应用的新型MOCVD设备",
+    "category_id": "deposition_mocvd",
+    "definition": "FY2021 在研项目 table row “用于Micro-LED应用的新型MOCVD设备”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_silicon_gan_power_mocvd",
+    "label": "用于硅基GaN功率器件生产的MOCVD设备",
+    "category_id": "deposition_mocvd",
+    "definition": "FY2021 在研项目 table row “用于硅基GaN功率器件生产的MOCVD设备”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_logic_5_3nm_icp",
+    "label": "用于5-3纳米逻辑芯片制造的ICP刻蚀机",
+    "category_id": "etch_icp",
+    "definition": "FY2021 在研项目 table row “用于5-3纳米逻辑芯片制造的ICP刻蚀机”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability.",
+    "node_scope": {
+      "process_node": "5-3纳米",
+      "process_node_context": "逻辑芯片制造"
+    }
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_logic_7_5nm_icp",
+    "label": "7-5nm ICP刻蚀机项目",
+    "category_id": "etch_icp",
+    "definition": "FY2021 在研项目 table row “7-5nm ICP刻蚀机项目”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability.",
+    "node_scope": {
+      "process_node": "7-5nm",
+      "process_node_context": "ICP刻蚀机项目"
+    }
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_memory_icp",
+    "label": "用于存储器芯片制造的ICP刻蚀机",
+    "category_id": "etch_icp",
+    "definition": "FY2021 在研项目 table row “用于存储器芯片制造的ICP刻蚀机”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_sige_selective_epitaxy",
+    "label": "锗硅选择性外延设备研发及产业化",
+    "category_id": "deposition_epitaxy",
+    "definition": "FY2021 在研项目 table row “锗硅选择性外延设备研发及产业化”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_contact_hole_wcvd",
+    "label": "接触孔用WCVD设备的研发及产业化",
+    "category_id": "deposition_cvd",
+    "definition": "FY2021 在研项目 table row “接触孔用WCVD设备的研发及产业化”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "multi_equipment",
+    "definition": "FY2021 在研项目 table row “合计”; a source-native R&D project financial scope, not a platform identity, product shipment, installed base, production maturity or proof of commercial capability."
+  },
+  {
+    "reporting_scope_id": "amec_consolidated_periodic_company_total",
+    "category_id": "all_businesses",
+    "label": "AMEC consolidated periodic-report company total",
+    "definition": "Consolidated company perimeter for quarterly and interim financial data, non-recurring reconciliation and consolidated statements; distinct from annual disclosure-table scopes."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_company_operating_context",
+    "label": "AMEC Q1 2026 company operating context",
+    "category_id": "multi_equipment",
+    "definition": "Company-wide source passage covering reaction stations and domestic/overseas chip and LED customer production lines; the distinct counts and units are not additive."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_rd_new_equipment_portfolio",
+    "label": "AMEC Q1 2026 new-equipment R&D portfolio",
+    "category_id": "multi_equipment",
+    "definition": "Source-native grouped R&D portfolio described as 六大类、超20款; categories and equipment models remain distinct, and the lexical category count is not a staged numeric observation."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_har_memory_etch_reactors",
+    "label": "AMEC Q1 2026 ultra-high-aspect-ratio memory etch reactors",
+    "category_id": "etch",
+    "definition": "Source-native reactor cohort for independently developed ultra-high-aspect-ratio etch tools in advanced-memory manufacturing; not all AMEC etch or company equipment."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_cryo_har_ccp_validation",
+    "label": "AMEC Q1 2026 next-generation 90:1 cryogenic HAR etch validation",
+    "category_id": "etch_ccp",
+    "definition": "Unnamed next-generation 90:1 ultra-high-aspect-ratio cryogenic etch equipment shipped to a customer for validation; no platform identity or completed qualification inferred."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_angnova_3d_dram",
+    "label": "Primo Angnova 3D DRAM 140:1 result",
+    "category_id": "etch_icp",
+    "definition": "Source-native second-generation ICP Primo Angnova 3D DRAM high-aspect-ratio result and shipment for customer certification."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_domingo_sige_si",
+    "label": "Primo Domingo SiGe/Si selectivity",
+    "category_id": "etch_dry",
+    "definition": "Source-native Primo Domingo chemical-vapor-etch SiGe/Si selectivity in GAA and 3D DRAM laboratory validation."
+  },
+  {
+    "reporting_scope_id": "amec_fy2025_film_equipment",
+    "label": "AMEC FY2025 film equipment",
+    "category_id": "deposition",
+    "definition": "Source-native grouped 薄膜设备 revenue-growth scope spanning multiple deposition methods; no allocation to ALD, EPI, PVD or CVD subcategories."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_trailing_14_year_revenue_growth_claim",
+    "label": "AMEC source-reported trailing 14-year revenue-growth history",
+    "category_id": "all_businesses",
+    "definition": "Company-wide issuer claim that annual-average revenue growth exceeded 35% over the past 14 years as stated in Q1 2026; exact window endpoints and calculation method are not disclosed."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_company_narrative_rounded_financials",
+    "label": "AMEC Q1 2026 rounded company financial narrative",
+    "category_id": "all_businesses",
+    "definition": "Company-wide rounded financial narrative in AMEC Q1 2026. Retained separately from exact headline/statement cells because values and approximation qualifiers are source presentations, not exact aliases."
+  },
+  {
+    "reporting_scope_id": "amec_q1_2026_piotech_share_disposal",
+    "label": "AMEC Q1 2026 Piotech share disposal",
+    "category_id": "all_businesses",
+    "definition": "After-tax net-gain narrative from AMEC's partial disposal of shares in 拓荆科技股份有限公司 (canonical entity Piotech); not disposal proceeds or Piotech operating performance."
+  },
+  {
+    "reporting_scope_id": "amec_unimax_cumulative_chamber_shipments",
+    "label": "Prismo UniMax cumulative chamber shipments",
+    "category_id": "deposition_mocvd",
+    "definition": "Prismo UniMax platform-level cumulative chamber shipments. Kept separate from amec_mocvd_equipment, which is defined for MOCVD claims the source does not allocate to a platform: the all-MOCVD and UniMax figures appear on the same pages and would otherwise collide in one scope cell."
+  },
+  {
+    "reporting_scope_id": "amec_ip_design_patents",
+    "category_id": "all_businesses",
+    "label": "amec_ip_design_patents",
+    "definition": "外观设计专利 row of AMEC's intellectual-property table; design patents only."
+  },
+  {
+    "reporting_scope_id": "amec_ip_invention_patents",
+    "category_id": "all_businesses",
+    "label": "amec_ip_invention_patents",
+    "definition": "发明专利 row of AMEC's intellectual-property tables and narrative; invention patents only, not utility models, design patents or software copyrights."
+  },
+  {
+    "reporting_scope_id": "amec_ip_software_copyrights",
+    "category_id": "all_businesses",
+    "label": "amec_ip_software_copyrights",
+    "definition": "软件著作权 row of AMEC's intellectual-property table; software copyrights only."
+  },
+  {
+    "reporting_scope_id": "amec_ip_utility_model_patents",
+    "category_id": "all_businesses",
+    "label": "amec_ip_utility_model_patents",
+    "definition": "实用新型专利 row of AMEC's intellectual-property table; utility-model patents only."
+  },
+  {
+    "reporting_scope_id": "amec_piotech_share_disposal",
+    "category_id": "all_businesses",
+    "label": "amec_piotech_share_disposal",
+    "definition": "AMEC's disposals of its holding in Piotech (拓荆科技). A period-neutral version of the existing amec_q1_2026_piotech_share_disposal scope, needed because the H1 2023, Q3 2023 and FY2025 disclosures all report gains on this same holding."
+  },
+  {
+    "reporting_scope_id": "amec_rd_new_equipment_portfolio",
+    "category_id": "multi_equipment",
+    "label": "amec_rd_new_equipment_portfolio",
+    "definition": "AMEC's recurring narrative statement of the new-equipment R&D portfolio (在研项目涵盖六类/六大类设备，超二十款新设备的开发). A reusable, period-neutral version of the existing amec_q1_2026_rd_new_equipment_portfolio scope, since the same clause recurs in Q3 2024, Q1 2025, Q3 2025, both 提质增效 reports and the Sizone plan."
+  },
+  {
+    "reporting_scope_id": "amec_rd_project_sic_epitaxy",
+    "category_id": "deposition_epitaxy",
+    "label": "amec_rd_project_sic_epitaxy",
+    "definition": "R&D project 'SIC 材料外延生长设备研发' in the AMEC 在研项目 table; silicon-carbide epitaxial growth equipment development. Completes the ten-project H1 2023 table alongside the nine existing amec_rd_project_* scopes."
+  },
+  {
+    "reporting_scope_id": "amec_spare_parts_and_services",
+    "category_id": "multi_equipment",
+    "label": "amec_spare_parts_and_services",
+    "definition": "Source phrase 备品备件及服务 as used in AMEC quarterly and interim narrative; a combined parts-plus-service revenue basket. Distinct from the annual-report tables' separate 备品备件 (amec_spare_parts) and 设备维护 (amec_equipment_maintenance) baskets and not comparable with either alone."
+  },
+  {
+    "reporting_scope_id": "amec_q3_2026_company_operating_context",
+    "category_id": "multi_equipment",
+    "label": "AMEC Q3 2026 company operating context",
+    "definition": "Company-wide passage on p1 of the Q3 2026 report covering reaction stations in mass production on domestic and overseas production lines. Source wording is 实现量产. This report prints no line count, unlike the Q1 passage."
+  }
+]

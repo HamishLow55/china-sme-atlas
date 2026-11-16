@@ -1,0 +1,98 @@
+[
+  {
+    "reporting_scope_id": "huazhuo_bonding_equipment",
+    "label": "晶圆键合设备",
+    "category_id": "bonding",
+    "definition": "Huazhuo source product-table wafer bonding equipment basket; no allocation among permanent, hybrid, fusion or temporary subtypes. Physical sales defined as shipments in this source, not acceptance. Not HBM-only."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_anneal_equipment",
+    "label": "激光退火设备",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Huazhuo source product-table laser annealing equipment basket; not allocated to individual process/application/model. Source physical sales are dispatches, not accepted tools."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_advanced_equipment",
+    "label": "先进制程激光退火设备",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Source advanced-process laser annealing equipment revenue/sales basket, not assigned to an individual model, node or HBM application."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_power_equipment",
+    "label": "功率激光退火设备",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Source power laser annealing equipment revenue/sales basket. Table-reported average selling price preserved; conflicting narrative has distinct scope."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_service_other",
+    "label": "激光退火业务技术服务及其他",
+    "category_id": "all_businesses",
+    "definition": "Technical services/other within the laser annealing business; not equipment-only sales."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_business",
+    "label": "激光退火设备业务合计",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Broad laser annealing business total includes advanced-process and power equipment plus technical services/other. Not equipment-only or additive with components."
+  },
+  {
+    "reporting_scope_id": "huazhuo_bonding_service_other",
+    "label": "晶圆键合业务技术服务及其他",
+    "category_id": "all_businesses",
+    "definition": "Technical services/other within wafer bonding business, not equipment sales."
+  },
+  {
+    "reporting_scope_id": "huazhuo_bonding_business",
+    "label": "晶圆键合设备业务合计",
+    "category_id": "bonding",
+    "definition": "Source broad bonding business includes equipment and technical services/other. Not equipment-only, overlaps its product rows."
+  },
+  {
+    "reporting_scope_id": "huazhuo_laser_power_price_narrative",
+    "label": "功率激光退火设备叙述均价",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Same power laser equipment population as the source table, but distinct narrative price presentation. FY2025 conflicts with table and must not silently replace or be combined with it."
+  },
+  {
+    "reporting_scope_id": "huazhuo_bonding_contract_ab_2025",
+    "category_id": "bonding",
+    "label": "2025年公司AB晶圆键合设备销售合同",
+    "definition": "Single major wafer-bonding sales contract with source-anonymized Company AB signed in 2025, physical p329 row14; tax-inclusive face value and ongoing status in prospectus. Not aggregate backlog, annual orders, accepted tools or equipment revenue. No counterparty identity inference."
+  },
+  {
+    "reporting_scope_id": "huazhuo_wafer_hybrid_bonding_equipment",
+    "label": "晶圆混合键合设备",
+    "category_id": "bonding_hybrid_w2w",
+    "definition": "Huazhuo source-native 晶圆混合键合设备 product series, the issuer's wafer-to-wafer hybrid bonder: room-temperature, atmospheric-pressure Mark-aligned dielectric-to-dielectric and metal-to-metal pre-bonding of two patterned wafers after plasma activation and cleaning, strengthened by a low-temperature anneal (prospectus physical p110); benchmark model UP HB UMA® (physical pp159-160). Holds this series' wafer-diameter and throughput capability cells. DISTINCT from the issuer's 芯片-晶圆混合键合设备 (die-to-wafer, model UP D2W HBS), 晶圆熔融键合设备 (UP FB UMA), 晶圆热压键合设备 (UP TC) and 晶圆 SOI/POI 键合设备 (UP SOI/POI) series. NOT the aggregate 晶圆键合设备 basket that carries the p165 production/shipment volumes and the p233 revenue rows, and not an HBM-only or process-node scope."
+  },
+  {
+    "reporting_scope_id": "huazhuo_wafer_fusion_bonding_equipment",
+    "label": "晶圆熔融键合设备",
+    "category_id": "bonding_fusion",
+    "definition": "Huazhuo source-native 晶圆熔融键合设备 product series: 12-inch room-temperature, atmospheric-pressure edge-mark-aligned hydrophilic bonding of one patterned to one unpatterned wafer after plasma activation and cleaning (prospectus physical p110); benchmark model UP FB UMA (physical p160). Holds this series' wafer-diameter and throughput capability cells. DISTINCT from the issuer's separately presented 晶圆 SOI/POI 键合设备 series, which also performs hydrophilic bonding, and from its hybrid, die-to-wafer and thermocompression series. NOT the aggregate 晶圆键合设备 revenue or volume basket."
+  },
+  {
+    "reporting_scope_id": "huazhuo_wafer_thermocompression_bonding_equipment",
+    "label": "晶圆热压键合设备",
+    "category_id": "bonding_tcb",
+    "definition": "Huazhuo source-native 晶圆热压键合设备 product series: 6/8/12-inch Mark-aligned thermocompression bonding under high temperature, high pressure and high vacuum, covering both wafers needing plasma activation and cleaning (cavity and fusion processes) and wafers needing none (eutectic and anodic) (prospectus physical p111); benchmark model UP TC (physical p160). Commercialisation stage is 小批量销售. Holds this series' wafer-diameter and maximum-temperature capability cells. NOT the aggregate 晶圆键合设备 revenue or volume basket, and not an HBM or advanced-packaging scope: the issuer states its applications as MEMS, RF devices and LEDs."
+  },
+  {
+    "reporting_scope_id": "huazhuo_wafer_soi_poi_bonding_equipment",
+    "label": "晶圆 SOI/POI 键合设备",
+    "category_id": "bonding",
+    "definition": "Huazhuo source-native 晶圆 SOI/POI 键合设备 product series: 6/8/12-inch hydrophilic bonding of homogeneous and heterogeneous material wafers under vacuum, aligned on the flat or wafer edge after plasma activation and cleaning, with a low-temperature anneal (prospectus physical p111); benchmark model UP SOI/POI (physical p160). Applications stated as third-generation compound semiconductor substrate materials, RF devices and LEDs. Deliberately filed at the bonding parent: the issuer presents this as a series distinct from its 晶圆熔融键合设备, so the atlas cannot place it under bonding_fusion without contradicting the source, and no substrate-bonding child exists. NOT the aggregate 晶圆键合设备 revenue or volume basket."
+  },
+  {
+    "reporting_scope_id": "huazhuo_die_to_wafer_hybrid_bonding_equipment",
+    "category_id": "bonding_hybrid_d2w",
+    "label": "芯片-晶圆混合键合设备",
+    "definition": "Huazhuo’s die-to-wafer hybrid bonding equipment series, the issuer’s own 芯片-晶圆混合键合设备 product family (model UP D2W HBS). Distinct from the wafer-to-wafer hybrid bonding series: the issuer benchmarks the two against different competitors and prints different accuracy figures for each. Covers the named model only; no revenue, unit count or shipment figure is disclosed for this series anywhere in the prospectus."
+  },
+  {
+    "reporting_scope_id": "huazhuo_main_business_region_table",
+    "category_id": "all_businesses",
+    "label": "Huazhuo 主营业务收入按区域构成 table",
+    "definition": "Issuer source-native 『主营业务收入按区域构成分析』 table (2026 IPO prospectus, covering FY2023-FY2025): main-business revenue split 境内销售/境外销售. MAIN-BUSINESS basis confirmed by residual: 境内销售+境外销售 falls short of the issuer's own 营业总收入 by exactly its separately disclosed 其他业务收入 (废料收入) in all three years (FY2025: 65,671.83 + 27.82 = 65,699.65; FY2024: 62,660.33 + 11.42 = 62,671.75; FY2023: 32,024.23 + 3.06 = 32,027.29万元). The table prints 金额 and 占比 only; no cost or margin cells are given by region."
+  }
+]

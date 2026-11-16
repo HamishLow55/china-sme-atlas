@@ -1,0 +1,56 @@
+[
+  {
+    "reporting_scope_id": "hans_laser_semiconductor_pansemiconductor_equipment_business",
+    "label": "半导体设备（含泛半导体）业务",
+    "category_id": "multi_equipment",
+    "definition": "Issuer source-native semiconductor-equipment business including pan-semiconductor LED/display equipment. Group business revenue includes relevant subsidiary activity; not silicon wafer, dicing, debonding or HBM equipment revenue. Do not sum with 大族半导体 subcompany revenue."
+  },
+  {
+    "reporting_scope_id": "hans_laser_hans_semiconductor_subcompany_business",
+    "label": "大族半导体营业收入",
+    "category_id": "multi_equipment",
+    "definition": "Issuer-reported revenue of 大族半导体, a named consolidated subcompany/business, reported within the parent issuer perimeter. It overlaps the broader semiconductor/pan-semiconductor equipment business and is not an additional standalone market total; no dicing or HBM allocation."
+  },
+  {
+    "reporting_scope_id": "hans_laser_parent_major_subsidiaries_employees",
+    "label": "报告期末母公司和主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "Year-end active employee total for Han’s Laser parent and principal subsidiaries as explicitly labelled; not automatically every entity in the consolidated group."
+  },
+  {
+    "reporting_scope_id": "hans_laser_reported_product_pcb_intelligent_equipment",
+    "category_id": "all_businesses",
+    "label": "PCB 智能制造装备",
+    "definition": "Source 分产品 row for PCB intelligent-manufacturing equipment. Outside semiconductor equipment, so it sits in all_businesses and cannot roll into an SME category. H1 2026 amount equals the PCB reportable segment and the listed subsidiary 大族数控."
+  },
+  {
+    "reporting_scope_id": "hans_laser_reported_product_other_intelligent_equipment",
+    "category_id": "all_businesses",
+    "label": "其他智能制造装备",
+    "definition": "Source 分产品 residual after PCB: holds semiconductor, consumer-electronics, new-energy and general laser equipment together. The filing does not allocate it, so it is never a semiconductor numerator."
+  },
+  {
+    "reporting_scope_id": "hans_laser_reported_revenue_region_domestic",
+    "category_id": "all_businesses",
+    "label": "境内",
+    "definition": "Source 分地区 row 境内 in the 营业收入构成 table; partitions total operating revenue. Parallel to 分产品, never crossed with it."
+  },
+  {
+    "reporting_scope_id": "hans_laser_reported_revenue_region_overseas",
+    "category_id": "all_businesses",
+    "label": "境外",
+    "definition": "Source 分地区 row 境外 in the 营业收入构成 table; partitions total operating revenue. Parallel to 分产品, never crossed with it."
+  },
+  {
+    "reporting_scope_id": "hans_laser_laser_reportable_segment",
+    "category_id": "all_businesses",
+    "label": "报告分部：激光",
+    "definition": "H1 2026 p177 reportable segment 激光, before 分部间抵销. Includes semiconductor equipment but is not semiconductor-only and does not partition reported revenue without the elimination column."
+  },
+  {
+    "reporting_scope_id": "hans_laser_dazu_semiconductor_equipment_legal_entity",
+    "category_id": "multi_equipment",
+    "label": "深圳市大族半导体装备科技有限公司",
+    "definition": "Legal-entity row in the principal-subsidiaries table. Kept apart from hans_laser_hans_semiconductor_subcompany_business, whose 大族半导体 narrative figure differs for the same half, so the two perimeters are not the same. Not additive to group revenue."
+  }
+]

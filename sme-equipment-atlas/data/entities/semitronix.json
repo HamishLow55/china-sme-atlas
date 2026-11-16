@@ -1,0 +1,26 @@
+[
+  {
+    "entity_id": "semitronix",
+    "name": "Semitronix Corporation",
+    "aliases": [
+      "杭州广立微电子股份有限公司",
+      "广立微",
+      "Semitronix Corporation",
+      "SMTX",
+      "Hangzhou Semitronix",
+      "301095",
+      "Semitronix",
+      "Semitronix Corporation (Hangzhou Guangli Microelectronics)"
+    ],
+    "evidence": {
+      "source_id": "semitronix_annual_2025",
+      "page": 8,
+      "excerpt": "第二节 公司简介和主要财务指标 一、公司信息 股票简称 广立微 股票代码 301095 公司的中文名称 杭州广立微电子股份有限公司 公司的中文简称 广立微 公司的外文名称（如有） Semitronix Corporation 公司的外文名称缩写（如 无 有） 公司的法定代表人 郑勇军",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Shenzhen Stock Exchange ChiNext issuer, code 301095. Legal Chinese name 杭州广立微电子股份有限公司, short name 广立微, foreign name Semitronix Corporation. The issuer classifies itself under 软件和信息技术服务业 (I65), sub-industry 集成电路设计 (I6520) - it is not classified as an equipment maker. Business scope as the filing states it: EDA software (test-chip design, DFM, DFT), PDA software via the acquired Belgian subsidiary LUCEDA NV, semiconductor big-data analysis and management systems (DATAEXP), wafer-level electrical test equipment (WAT testers T4000/T4000 Max/T4100S, WLR reliability testers, WLBI wafer burn-in systems B5260M/B5280), and software technical services. MIXED SOFTWARE/EQUIPMENT FIRM: in FY2025 only 61.68% of revenue was 测试设备及配件; 37.84% was software licensing and development and 0.48% test services. Only the equipment line belongs in an equipment ledger. What it does NOT cover: no memory ATE, no probers, no handlers, no probe cards, no front-end process equipment. WAT is process-monitoring/wafer-acceptance parametric test, not device functional test or known-good-die test. DISTINCT FROM the atlas entity 'guangli' (光力科技股份有限公司 / GL Tech, SZSE 300480): different characters (广立微 vs 光力), different issuer, different exchange code. Both romanise near 'Guangli', so match on the Chinese name or the stock code, not the romanisation.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Hangzhou Semitronix'; 'Semitronix Corporation (Hangzhou Guangli Microelectronics)'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

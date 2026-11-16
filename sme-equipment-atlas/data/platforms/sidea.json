@@ -1,0 +1,98 @@
+[
+  {
+    "platform_id": "sidea_wafer_prober_family",
+    "entity_id": "sidea",
+    "name": "晶圆探针台",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_family",
+    "aliases": [
+      "晶圆探针台"
+    ],
+    "evidence": {
+      "claim_id": "SD-H12026-P11-WAFER-PROBER",
+      "source_id": "sidea_h1_2026",
+      "page": 11,
+      "excerpt": "晶圆探针台是对未切割晶圆上的器件进行特性或故障检测而使用的测试设备，主要应用在集成电路、功率器件、分立器件等领域。公司是中国大陆首家实现产业化应用的 12 英寸晶圆探针台设备厂商。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product_family",
+    "maturity_as_reported_in": "sidea_h1_2026",
+    "notes": "Family spanning 12/8/6 inch IC, discrete and sensor wafers; ±1.3μm positioning, Taiko and ultra-thin wafers, overhead-transport compatible (H1 p12). Overlaps the 12-inch record. No memory wafer sale is stated."
+  },
+  {
+    "platform_id": "sidea_12inch_high_end_wafer_prober",
+    "entity_id": "sidea",
+    "name": "12 吋高端晶圆探针台",
+    "category_id": "test_prober_handler",
+    "record_kind": "source_native_product",
+    "aliases": [
+      "12 吋高端晶圆探针台"
+    ],
+    "evidence": {
+      "claim_id": "SD-IR0804-P2-12INCH",
+      "source_id": "sidea_ir_20260804",
+      "page": 2,
+      "excerpt": "12 吋高端晶圆探针台已推出两代机型，能够在集成电路领域实现对进口高端机型的国产替代",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "customer_trial_validation",
+    "maturity_as_reported_in": "sidea_ir_20260804",
+    "notes": "Two generations launched, unnamed. The stage is 试机验证 at several domestic IC makers since 2025, and the issuer warns that validation is long. The substitution wording is a capability statement, not a customer result. 存储 appears only as one target of trial projects. Also sold for silicon photonics wafer test (IR p2).",
+    "maturity_history": [
+      {
+        "claim_id": "SD-IR0804-P2-TRIAL",
+        "source_id": "sidea_ir_20260804",
+        "page": 2,
+        "excerpt": "2025 年至今公司已进入多家国内集成电路主要厂商开展试机验证，目前试机验证环节在有序推进之中。",
+        "as_of": "2026-07-29",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "trial_validation_in_progress",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Window of visits ended 2026-07-29."
+      },
+      {
+        "claim_id": "SD-H12026-P16-TRIAL-MEMORY",
+        "source_id": "sidea_h1_2026",
+        "page": 16,
+        "excerpt": "公司重点开拓 12 吋全自动晶圆探针台应用市场，持续提升客户项目覆盖面，加快推进在逻辑/存储等集成电路晶圆制造、晶圆级/面板级封装等重点试机项目的验证进程，尽快实现验证突破。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "trial_projects_validation_breakthrough_not_yet_achieved",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "尽快实现验证突破 means no breakthrough yet. Memory is a target of trial projects, with no customer or wafer type named. No HBM wording anywhere in this firm's documents."
+      }
+    ]
+  },
+  {
+    "platform_id": "sidea_die_prober_family",
+    "entity_id": "sidea",
+    "name": "晶粒探针台",
+    "category_id": "test_prober_die",
+    "record_kind": "source_native_family",
+    "aliases": [
+      "晶粒探针台"
+    ],
+    "evidence": {
+      "claim_id": "SD-H12026-P12-DIE-PROBER",
+      "source_id": "sidea_h1_2026",
+      "page": 12,
+      "excerpt": "晶粒探针台是对晶圆划片后的裸晶粒进行检测的探针测试设备，公司晶粒探针台已达到行业领先水平。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "reported_product_family",
+    "maturity_as_reported_in": "sidea_h1_2026",
+    "notes": "For 4-6 inch PD, APD and LED optoelectronic chips. Not a memory or HBM product. Note the H1 report also prints 探针测试一体机 as a combination with a current source."
+  }
+]

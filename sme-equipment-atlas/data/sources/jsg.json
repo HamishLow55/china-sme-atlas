@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "jsg_fy2025_annual_report",
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "浙江晶盛机电股份有限公司 2025 年年度报告全文",
+    "source_type": "company_annual_report",
+    "publication_date": "2026-04-11",
+    "publication_date_precision": "day",
+    "reporting_period_end": "2025-12-31",
+    "locator_kind": "pdf",
+    "page_count": 159,
+    "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-11/abdb4926-b75d-4c90-b255-4efcc37ad6f8.PDF",
+    "sha256": "12e7e79eea6589b461b1b1030a2cf2e00257dba8051d9491200469b837317163",
+    "notes": "Acquired directly from the SZSE disclosure static-file host, per the local-first rule, into 'the maintainer's local archive (not distributed): Financial reports/JSG (Jingsheng Mechanical & Electrical) filings/jsg_fy2025_annual_report.pdf'. sha256 and the 159-page count were both computed locally (shasum -a 256; pdfinfo). Printed page numbers match physical page numbers throughout (no offset); confirmed directly against pp7, 11, 20, 22 and 24 (each prints its own physical page number as footer)."
+  },
+  {
+    "source_id": "jsg_q3_2026",
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "jsg Q3 2026 report: 2026年三季度报告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225644825.PDF",
+    "sha256": "101310fef9fdeeff0862aabb966eb1475b9757243dcf3544edb0db260b4b3e17",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "jsg_q3_2026",
+    "page_count": 11,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jsg_h1_2026",
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "jsg H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-22",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-22/1225491885.PDF",
+    "sha256": "9c8b65012f5a6e96bb46c9294e25b0e6dc33cb3361ee9278ecec6337f383c194",
+    "source_type": "company_interim_report",
+    "original_document_id": "jsg_h1_2026",
+    "page_count": 146,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "jsg_ir_20260824",
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "jsg: 300316晶盛机电投资者关系管理信息20260824",
+    "publication_date": "2026-08-24",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-24/1225496047.PDF",
+    "sha256": "cbff0d93b6b0f01bd9ed4765db77bc3501cc16f15804620a91230a791eb97269",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "jsg_ir_20260824",
+    "page_count": 8,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  },
+  {
+    "source_id": "jsg_ir_20260709",
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "jsg: 300316晶盛机电投资者关系管理信息20260709",
+    "publication_date": "2026-07-09",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-07-09/1225417113.PDF",
+    "sha256": "f9c64ea5a7d50d846855950e01e25858b8a01bdc6059cceec8596de695afb79c",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "jsg_ir_20260709",
+    "page_count": 5,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  }
+]

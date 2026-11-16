@@ -1,0 +1,24 @@
+[
+  {
+    "entity_id": "towa",
+    "name": "TOWA Corporation",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "TOWA",
+      "株式会社TOWA",
+      "TOWA株式会社",
+      "TOWA Corp",
+      "6315",
+      "6315.T"
+    ],
+    "evidence": {
+      "source_id": "towa_fy2025_asr_eng",
+      "page": 1,
+      "excerpt": "Annual Securities Report From April 1, 2025 to March 31, 2026 (The 48th term) TOWA CORPORATION 5 Kamichoshi-cho, Kamitoba, Minami-ku, Kyoto-shi, Kyoto Japan",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. TOWA is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. Headquartered in Kyoto, Japan (5 Kamichoshi-cho, Kamitoba, Minami-ku), listed on the Tokyo Stock Exchange Prime Market under code 6315 (moved there from the TSE First Section in April 2022). It is registered here because it is the global compression-moulding leader and the incumbent against which the atlas's newly opened molding / molding_transfer / molding_compression category tree (populated by the Chinese firms Naike and Sanjia) is measured. Fiscal year ends 31 March: the issuer's own 'term' numbering (this packet's most recent filing is the 48th term, 1 April 2025 to 31 March 2026) is translated into actual start/end dates in every observation's period, never the issuer's fiscal-year label. Reporting currency is the Japanese yen, recorded as printed in JPY_million and never converted to CNY, USD or any other currency. TOWA's own Semiconductor Manufacturing Equipment segment bundles precision molds, molding equipment (both transfer and compression mechanisms) and singulation equipment into one reportable segment; the issuer states explicitly that product/service-level revenue 'is omitted because the reportable segment... is the same as the classification by product and service', so no mechanism-level split is ever available from this segment figure and it must never be allocated to molding_transfer or molding_compression alone.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: '株式会社TOWA'; '6315.T'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source. Of those, '6315.T' is a market-data ticker form — the exchange suffix is a convention of quote systems, not something any filing prints — so it is a derived identifier rather than a name claim, and its absence from the corpus is expected rather than a gap to close."
+  }
+]

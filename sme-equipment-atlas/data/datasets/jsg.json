@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "jsg_annual_disclosures",
+    "title": "JSG (Zhejiang Jingsheng Mechanical & Electrical) periodic disclosures",
+    "kind": "company_filings",
+    "publisher": "jsg",
+    "version": "w13_2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF held locally.",
+    "market_definitions": {}
+  }
+]

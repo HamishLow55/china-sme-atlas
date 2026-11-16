@@ -1,0 +1,261 @@
+[
+  {
+    "coverage_id": "kingsemi-financial-baseline-2023-2025",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "2023-2025",
+    "status": "reviewed_found",
+    "scope": "Company annual financial panel and source-native FY2024/FY2025 product financials and equipment quantities",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025"
+    ],
+    "notes": "37 original-checked observations; all 36 original-first numerical priorities covered, plus qualified temporary/debonding backlog. FY2025 product classification is a reporting break.",
+    "next_action": "FY2023 original historical products and H1 2026 original; inventory/capacity and additional financial statement measures remain outside this bounded intake."
+  },
+  {
+    "coverage_id": "kingsemi-held-corpus-metadata",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023 annual, Q1 2026 and H1 2026",
+    "status": "reviewed_found",
+    "scope": "FY2023 annual, Q1 2026 and H1 2026 registered-original revenue and operational-source review",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_h1_2026",
+      "kingsemi_q1_2026"
+    ],
+    "notes": "Identity, hash, page count and report period verified. FY2023 publication metadata unknown; Q1/H1 dates and URLs are tracker-supported metadata, not original-page or remote-byte verification. The initial metadata-only queue was subsequently checked against all three originals. FY2023 financial/disclosure/operating and Q1/H1 financial records are canonical; source-wide operational topics are separately bounded by the eight 2026-09-23 operational sweep guards. FY2023 publication metadata remains unknown.",
+    "next_action": "See the eight KINGSEMI operational sweep guards for source-topic limits and residual holds. Reopen only for a new original or a bounded unresolved measurement."
+  },
+  {
+    "coverage_id": "kingsemi-fy2023-consolidated-financials",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023 original and printed 2021–2022 comparatives",
+    "status": "reviewed_found",
+    "scope": "295 original populated financial cells: 280 observations and 15 exact aliases after distinct operating-revenue subtotal recovery.",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023"
+    ],
+    "notes": "Physical pp9,11,122–124,126–128,130–131. Parent-only continuations excluded. Source publication date remains unknown. Initial mappings were held and reconstructed before integration. Two previously aliased total-operating-revenue cells recovered after original-row review; sales component cells remain exact aliases.",
+    "next_action": "Continue remaining source-specific operating narratives, parent statements and financial-note tables."
+  },
+  {
+    "coverage_id": "kingsemi-fy2023-operating-quantities",
+    "entity_id": "kingsemi",
+    "category_id": "track_coat_develop",
+    "metric_id": "sales_volume",
+    "period": "FY2023 annual-report disclosure",
+    "status": "reviewed_found",
+    "scope": "40 numerical observations from pp14,29–30,40: backlog, customer cohort, 18 product-volume cells and 20 IP cells.",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023"
+    ],
+    "notes": "Source groups remain separate. No allocation of wet-process or other equipment into narrower categories. Four IP totals reconcile to their classes.",
+    "next_action": "Integrate separately staged R&D disclosures and review platform identities, capabilities and dated maturity claims."
+  },
+  {
+    "coverage_id": "kingsemi-q1-2026-financial-statements",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "Q1 2026 report including comparative columns",
+    "status": "reviewed_found",
+    "scope": "264 original populated financial cells: 248 observations and 16 exact aliases after distinct operating-revenue subtotal recovery.",
+    "reviewed_source_ids": [
+      "kingsemi_q1_2026"
+    ],
+    "notes": "Original row/column semantics reviewed after rejecting the initial native packet; 33 exact accounting identities and 246 original-page token checks pass. Two previously aliased total-operating-revenue cells recovered after original-row review; sales component cells remain exact aliases.",
+    "next_action": "Continue remaining source-specific operating narratives, parent statements and financial-note tables."
+  },
+  {
+    "coverage_id": "kingsemi-fy2023-rd-depth",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "rd_investment",
+    "period": "FY2023 with source 2022 comparisons",
+    "status": "reviewed_found",
+    "scope": "52 observations on original pp30–32; 20 repeated IP cells link to existing operating observations.",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023"
+    ],
+    "notes": "Source project perimeters retained; wet-equipment project is broader than cleaning-only. Patent-only total and all-IP total remain distinct.",
+    "next_action": "Continue annual business breakdowns, concentration and asset tables, and platform maturity disclosures."
+  },
+  {
+    "coverage_id": "kingsemi-h1-2026-financial-statements",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "H1 2026 with source comparative columns",
+    "status": "reviewed_found",
+    "scope": "274 original populated financial cells: 258 observations and 16 exact aliases after distinct operating-revenue subtotal recovery.",
+    "reviewed_source_ids": [
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Original pages6–8,60–62,64–66,68–70; parent-company statements excluded. Initial220-cell extraction superseded after original-grid reconstruction. Two previously aliased total-operating-revenue cells recovered after original-row review; sales component cells remain exact aliases.",
+    "next_action": "Continue remaining source-specific operating narratives, parent statements and financial-note tables."
+  },
+  {
+    "coverage_id": "kingsemi-fy2023-disclosure-depth",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023 with source comparative columns",
+    "status": "reviewed_found",
+    "scope": "304 native cells across pp37–48:196 new observations and108 explicit aliases.",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023"
+    ],
+    "notes": "Retains track and wet-process groups, main-business geography/channel boundaries, table-wide cost denominators, counterparty concentration and asset carrying values.",
+    "next_action": "Continue separate platform/technical disclosures, parent statements and remaining financial-note tables."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-product_families",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: product families",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Annual and H1 source-native families, named series, variants and technology-stage histories; Q1 original has no roster. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_not_found, h1_2026:reviewed_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Operational evidence in this source set is now canonical where mapped. Preserve source-native aliases, model/group scope limits and explicit holds; reopen on a new registered original."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-cumulative_shipments_installations",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_not_found",
+    "scope": "KINGSEMI operational sweep: cumulative shipments installations",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Qualitative batch application and annual physical sales found; no cumulative supplier shipment or installed-base count in these originals. Source-topic statuses: annual_2023:reviewed_not_found, annual_2024:reviewed_not_found, annual_2025:reviewed_not_found, q1_2026:reviewed_not_found, h1_2026:reviewed_not_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "No source-supported cumulative system shipment/install count in this five-original set. Retain qualitative batch application and annual physical sales as separate evidence; reopen only for a new registered original or a specific count question."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-product_sales_production_inventory",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: product sales production inventory",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Annual product monetary and physical sibling grids; Q1/H1 have no comparable product grid. Physical sales are not shipment or install counts. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_not_found, h1_2026:reviewed_not_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Operational evidence in this source set is now canonical where mapped. Preserve source-native aliases, model/group scope limits and explicit holds; reopen on a new registered original."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-orders_backlog",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: orders backlog",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "FY2023/24 quantified orders/backlog, FY2025 and Q1/H1 2026 qualitative orders; no inferred quantity from repeat-order wording. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_found, h1_2026:reviewed_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Operational evidence in this source set is now canonical where mapped. Preserve source-native aliases, model/group scope limits and explicit holds; reopen on a new registered original."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-customers",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: customers",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Annual named operating-customer examples and anonymous top-five monetary/share cells; H1 2026 anonymous cohorts. No rank-to-name identity inference. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_not_found, h1_2026:reviewed_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Operational evidence in this source set is now canonical where mapped. Preserve source-native aliases, model/group scope limits and explicit holds; reopen on a new registered original."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-qualification_validation",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: qualification validation",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Annual/H1 source-scoped customer validation and production-run stages; do not spread group stages to every model. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_not_found, h1_2026:reviewed_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Operational evidence in this source set is now canonical where mapped. Preserve source-native aliases, model/group scope limits and explicit holds; reopen on a new registered original."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-production_capacity",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "unresolved",
+    "scope": "KINGSEMI operational sweep: production capacity",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "Machine configuration/throughput and facility/project descriptions found; no quantified factory tools/year output. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_found, q1_2026:reviewed_not_found, h1_2026:unresolved. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "No quantified factory tools/year capacity in these originals. Retain the explicitly recorded technical date, publication-status, requirement and semantic-overlap holds; 600 WPH describes tool mechanical capacity, not factory output."
+  },
+  {
+    "coverage_id": "kingsemi-operational-sweep-20260923-explicit_process_nodes",
+    "entity_id": "kingsemi",
+    "category_id": "all_businesses",
+    "metric_id": null,
+    "period": "FY2023–H1 2026",
+    "status": "reviewed_found",
+    "scope": "KINGSEMI operational sweep: explicit process nodes",
+    "reviewed_source_ids": [
+      "kingsemi_annual_2023",
+      "kingsemi_annual_2024",
+      "kingsemi_annual_2025",
+      "kingsemi_q1_2026",
+      "kingsemi_h1_2026"
+    ],
+    "notes": "FY2023/24 equipment-bound 28nm claims; FY2025 and 2026 interims lack equipment-bound node disclosure. Source-topic statuses: annual_2023:reviewed_found, annual_2024:reviewed_found, annual_2025:reviewed_not_found, q1_2026:reviewed_not_found, h1_2026:reviewed_not_found. Canonical rebase at ad2f362: 59 annual operating observations, 77 exact aliases, 26 newly accepted overlapping platform/family records with 51 source histories including six bounded node histories, and 22 distinct technical observations across FY2024/FY2025/H1 2026. Original source-topic locators, aliases and residual holds are in docs/reviews/archive/2026-09-23_kingsemi_operational_coverage.json.",
+    "next_action": "Six broad-family FY2023/24 node histories are canonical. Keep FY2024 technology-table subtechnology node rows at their exact row scope; do not spread claims to named models or numeric sales."
+  }
+]

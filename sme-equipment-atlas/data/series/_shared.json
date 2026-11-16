@@ -1,0 +1,25 @@
+[
+  {
+    "series_id": "platform_milestones",
+    "version": 1,
+    "title": "New platform and equipment milestones",
+    "mode": "evidence_collection",
+    "definition": "Explicit observation selection; revisions remain in the underlying ledger.",
+    "observation_ids": [
+      "A2025H1-HD-INST",
+      "A2025H1-UD-INST",
+      "A2025H1-CCP-INST",
+      "A2025H1-CCP-DELTA",
+      "A2025H1-CCP-DUAL",
+      "A2025H1-CCP-SINGLE",
+      "A2025H1-ICP-INST",
+      "A2025H1-ICP-CUSTOMERS",
+      "A2024H1-CCP-SHIP",
+      "A2024H1-ICP-LINES",
+      "N2025H1-ETCH-SHIP",
+      "N2025H1-PVD-SHIP",
+      "N2025H1-FURNACE-SHIP"
+    ],
+    "limitations": "An evidence collection, not an additive or directly comparable series. Customer counts, production lines, systems and reaction stations remain distinct."
+  }
+]

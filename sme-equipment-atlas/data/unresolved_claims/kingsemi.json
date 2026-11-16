@@ -1,0 +1,156 @@
+[
+  {
+    "hold_id": "kingsemi-operational-technical-kingsemi-2023-technical-operating-137",
+    "claim_id": "kingsemi_2023_technical_operating_137",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual report describes the product as released in March 2024 while registered publication date is unknown. Assigning this capability to the 2023 reporting interval would misdate retrospective technical content; obtain publication/as-of support before promotion.",
+    "claim": "80 percent; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-kingsemi-2023-technical-operating-138",
+    "claim_id": "kingsemi_2023_technical_operating_138",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual report describes the product as released in March 2024 while registered publication date is unknown. Assigning this capability to the 2023 reporting interval would misdate retrospective technical content; obtain publication/as-of support before promotion.",
+    "claim": "16 chamber; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-kingsemi-2023-technical-operating-139",
+    "claim_id": "kingsemi_2023_technical_operating_139",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual report describes the product as released in March 2024 while registered publication date is unknown. Assigning this capability to the 2023 reporting interval would misdate retrospective technical content; obtain publication/as-of support before promotion.",
+    "claim": "26 nm; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-kingsemi-2023-technical-operating-140",
+    "claim_id": "kingsemi_2023_technical_operating_140",
+    "source_id": "kingsemi_annual_2023",
+    "page": 26,
+    "excerpt": "2023 年年度报告\n\n\n  公司通过抑制结晶、消除摩擦、优化密封、应用超高洁净度零部件多个方式进行系统设计，\n使用流场精密控制、高密封性、低产尘性及数据系统监测等方法，持续提升机台内部的干湿颗粒\n与温湿度控制等级，成功实现了保证产品稳定量产、工艺持续稳定的技术目标,解决了长期困扰\nTrack 设备良率的颗粒问题，微环境控制精度可满足客户更高工艺等级要求。\n  ②高产能 HEFEM 技术\n  高产能 HEFEM 是新一代高产能小型化设备架构首要模块，公司新一代高产能 HEFEM 在原有堆\n叠式双工架构基础上，开发出了新型紧凑型 Load port 结构，实现了堆叠式 Load port 设计方案，\n技术上采用两手与四手机械手相结合的方式，具备速度更快、产能更高、晶圆传送更流畅的特点。\n同时开发了与之配套的调度系统，致力于突破超高产能的技术难题。该技术已成功应用在公司高\n端 offline 机台上，实现了超高产能标准的快速传送，达到世界一流水平。\n  ③高精热盘快速降温技术\n  快速降温技术主要应用于前道 Track 中热盘单元烘烤温度切换过程，目的为缩短温度切换所\n需时间，从而提高机台产能。公司通过传热仿真计算及研发实验测试，研发的一体式快速降温加\n热结构，可以实现极短时间内工艺温度的快速切换，在狭小空间内配合单元降温控制逻辑，实现\n加热腔体分区间高效一致性的降温效果，在保证高水平控温的同时降低了工艺时间，有效提升了\n整机生产效率。\n  2、前道清洗设备技术\n  （1）前道化学清洗设备技术\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式公开发布，机台具有高\n工艺覆盖性、高稳定性、高洁净度、高产能等核心优势，适用于沉积前清洗、蚀刻后清洗、离子\n注入后清洗、CMP 后清洗等多种前段工艺(FEOL)和后段工艺(BEOL)清洗进程，可适配高温 SPM 工\n艺，整体工艺覆盖率达 80%以上。机台搭载独立开发的新一代高清洗效率低损伤射流喷嘴，洁净\n度已达到先进制程所需水平，在低损伤射流清洗技术、内部微环境精确控制技术、高产能设备架\n构及机械手优化调度技术等核心技术上已达到国际先进水平。截至报告期末，机台已获得国内重\n要客户验证性订单。目前，机台已在司内完成多家客户的 wafer demo 测试，工艺水平表现优秀。\n  ①低损伤射流清洗技术\n  低损伤射流清洗技术搭载新一代自研二流体喷嘴，液体雾化更集中、更均匀，清洗性能更优\n异，同时极大降低了对 wafer 表面图形损伤的风险。\n  ②内部微环境精确控制技术\n  公司内部微环境精确控制技术对设备内部环境风速、风压、风流的精确控制，设备内部微环\n境可覆盖 28nm 及以上技术节点颗粒指标要求。\n  ③高产能设备架构及机械手优化调度技术\n  公司化学清洗 16 腔标配设备机械产能达到 600WPH，同时拥有领先的清洗工艺控制技术，工\n艺产能可对标国际知名品牌设备，达到国际先进水平。\n                         26 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual report describes the product as released in March 2024 while registered publication date is unknown. Assigning this capability to the 2023 reporting interval would misdate retrospective technical content; obtain publication/as-of support before promotion. The 600 WPH figure is explicitly mechanical capacity of a standard 16-chamber chemical cleaner, not wafer process throughput; it would additionally require a separate absolute mechanical-throughput metric if its date is resolved.",
+    "claim": "600 wafer_per_hour; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-kingsemi-2023-technical-operating-141",
+    "claim_id": "kingsemi_2023_technical_operating_141",
+    "source_id": "kingsemi_annual_2023",
+    "page": 17,
+    "excerpt": "2023 年年度报告\n\n\n发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键合、\n解键合全流程解决方案。\n  2021 年，公司获得国内重要存储客户支持，开始系统性研发临时键合、解键合设备，目前\n公司临时键合机、解键合机整体技术已达到国际先进水平，陆续获得国内多家头部客户订单，进\n入小批量销售阶段。此外，公司在 2.5D/3D 先进封装领域布局的新产品 Frame 清洗设备，目前也\n已进入小批量销售阶段。\n  （3）全自动 SiC 划片裂片一体机\n  2024 年 3 月，公司发布了全自动 SiC 划裂片一体机 KS-S200-2H1L，该款机台由公司日本子\n公司与合作伙伴联合研发，借助独有的 SnB 划裂片技术，可以有效解决传统砂轮式切割方法所面\n临的崩边大、切割损失多、生产效率低、切割水处理等问题。机台对 SiC 晶圆切割速度约为\n100mm/s，相比传统划片机切割速度大幅提升，产能效率得到大幅提升，同时拥有零切口损失、\n断面平整、崩边裂痕少等优势，可助力客户在同等尺寸晶圆下切出更多晶粒，同时有效提升客户\n产品良率。\n               全自动 SiC 划裂片一体机 KS-S200-2H1L\n\n\n\n\n  该产品的推出将进一步丰富公司在小尺寸领域的产品布局，助力公司从现有的涂胶显影、单\n片湿法等领域拓展至划片领域，为客户提供更丰富优质的产品选择，将进一步提升公司在小尺寸\n领域的综合竞争优势。\n  4、人才团队建设情况\n  人才是企业发展的基石，公司高度重视优秀人才的引进、培养和研发团队的建设。报告期内，\n公司持续引进外部优秀人才，公司员工人数由 880 人增加至 1118 人。公司拥有高水平的研发团\n队，研发人员中硕士研究生及以上学历占比超过 50%。团队激励方面，公司在 2020、2021 年两期\n限制性股票激励计划的基础上，于 2023 年 8 月发布了新一期限制性股票激励计划，以 50 元/股\n的授予价格向 160 名激励对象授予 126 万股限制性股票，授予对象以核心技术骨干为主，同时明\n确了公司和员工业绩考核指标，有助于调动核心员工积极性，有利于公司长期稳定可持续发展。\n  5、厂区及子公司布局情况\n\n                          17 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual report describes the product as released in March 2024 while registered publication date is unknown. Assigning this capability to the 2023 reporting interval would misdate retrospective technical content; obtain publication/as-of support before promotion.",
+    "claim": "100 mm/s; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ks26h1-n007",
+    "claim_id": "KS26H1-N007",
+    "source_id": "kingsemi_h1_2026",
+    "page": 19,
+    "excerpt": "沈阳芯源微电子设备股份有限公司2026 年半年度报告\n\n\n  公司前道物理清洗技术较为成熟，多项核心技术已达到国际先进水平，已成为国内逻辑、功\n率客户主力机型。报告期内，公司在物理清洗机产能提升和 26nm 颗粒控制能力等核心指标上持\n续取得突破和进步。\n  （3）后道先进封装设备技术\n  公司后道先进封装涂胶显影设备及单片式湿法设备技术较为成熟，整体已达到国际先进水平，\n部分核心技术已达到国际领先水平，已成为国内先进封装客户首选品牌，近年来，公司在各项技\n术指标上继续巩固领先优势，产品竞争力不断增强。\n  公司后道新产品临时键合机具有业内领先的键合胶旋涂均匀性、键合 TTV 工艺指标，集成高\n精视觉校准功能/真空传送的键合腔体，机台搭载 TTV 检测技术，可实现键合片组闭环检测。解\n键合机采用平顶化光斑技术，独创的拉力保持+位移保持技术使载片分离更安全高效，搭载的真空\n吸嘴、Frame Cover 等使机台对于不同胶材都具有良好的适配性。临时键/解键合机台整体已达到\n国际先进水平。\n  （4）化合物等小尺寸设备技术\n  公司化合物等小尺寸涂胶显影设备及单片式湿法设备技术较为成熟，多项核心技术已达到国\n际先进水平。公司新产品高产能涂胶显影机，应用成熟的涂胶显影腔体技术，并配置高精度的烘\n烤热板以及公司自主研发的高速、高精度传送机械手，机台占地面积小、产能高。\n                      核心技术情况表\n  应用设备           技术名称                技术先进性\n           光刻工艺胶膜均匀涂敷技术      整体已达到国际先进水平\n           精细化显影技术           整体已达到国际先进水平\n           高产能设备架构及机械手优\n                             整体已达到国际先进水平\n           化调度技术\n1、前道涂胶显    内部微环境精确控制技术       公司颗粒控制指标达到国际先进水平\n影设备技术      光刻机联机调度技术         达到与全球主流光刻机 inline 联机量产能力\n           超高温度与超高精度烘烤固\n                             整体已达到国际先进水平\n           化技术\n           自动光学缺陷检测技术        通过客户验证，达到量产运用能力\n           WEE 边缘曝光升级技术      通过客户验证，达到量产运用能力\n           工艺单元射流清洗技术        整体已达到国际先进水平\n           高产能设备架构及机械手优\n                             同种工艺条件下，产能不低于国际知名品牌设备\n           化调度技术\n           内部微环境精确控制技术       公司颗粒控制指标达到国际先进水平\n           工艺单元化学液动态混合技\n                             精度及稳定性达到国际先进水平\n2-1、前道化学   术\n清洗设备技术     工艺腔体自动清洗技术        自动化程度高，减少 PM 时间，达到国际先进水平\n           工艺单元化学液防反溅技术      整体已达到国际先进水平\n           晶圆表面干燥技术          整体已达到国际先进水平\n                             部分达到国际先进水平，如化学药品流量控制精\n           化学液精确供给及回收技术      度、温度控制精度、浓度控制精度等；化学药品回\n                             收种类方面目前弱于国际先进水平\n2-2、前道物理   机台架构、传送调度、工艺控\n                             整体已达到国际先进水平\n清洗设备技术     制技术\n\n                          19 / 213",
+    "status": "pending",
+    "issue": "26nm 颗粒控制能力 is not proven identical to 26nm 颗粒去除能力 (N006).",
+    "claim": "26 nm_particle_size; hold_semantic_overlap",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv23-001",
+    "claim_id": "KSV23-001",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "Chemical cleaner is described in the FY2023 annual as released March 2024, and registered publication date is unknown; a FY2023 period-status observation would misdate this claim.",
+    "claim": "100 sample_group; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv23-002",
+    "claim_id": "KSV23-002",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "Chemical cleaner is described in the FY2023 annual as released March 2024, and registered publication date is unknown; a FY2023 period-status observation would misdate this claim.",
+    "claim": "2 percent; hold_retrospective_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv23-003",
+    "claim_id": "KSV23-003",
+    "source_id": "kingsemi_annual_2023",
+    "page": 16,
+    "excerpt": "2023 年年度报告\n\n\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，\n达到国际先进水平。\n  相比于前道涂胶显影设备，前道清洗类设备标准化程度相对较高，验证周期较短，通过验证\n后有望快速提升市场份额。公司于 2018 年发布前道物理清洗设备后，在两年的时间内迅速成为\n了客户端主力量产机型。公司将借助前道物理清洗设备的成功经验，力争在前道化学清洗赛道实\n现跨越式发展，未来与前道涂胶显影设备一道形成两大主打优势产品，为公司长期发展提供稳定\n的业绩增长点。\n  （2）临时键合、解键合设备\n  在 Chiplet 技术中，需要将器件晶圆进行减薄处理，由于超薄晶圆具有高柔性、高脆性、易\n翘曲、易起伏等特点，在减薄过程中极易产生碎裂、变形等缺陷，良品率极低。为了降低减薄工\n艺中的碎片率，提高芯片制造的良率、加工精度和封装精度，通常采用临时键合及解键合技术，\n在背面减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其\n他背面工艺后进行解键合。\n        临时键合机 KS-C300-TB                解键合机 KS-S300-DBL\n\n\n\n\n  目前，国内高精度临时键合设备市场长期被海外厂商高度垄断，针对 Chiplet 技术解决方案，\n公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、3D\n技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实现\n高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应开\n                             16 / 267",
+    "status": "pending",
+    "issue": "FY2023 annual uses current-product wording alongside post-period releases; registered publication date is unknown. Hold compatibility status until an exact as-of basis is established.",
+    "claim": "60 micrometre; hold_publication_status_date",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv23-004",
+    "claim_id": "KSV23-004",
+    "source_id": "kingsemi_annual_2023",
+    "page": 25,
+    "excerpt": "2023 年年度报告\n\n\n减薄前，采用临时键合的方式将晶圆转移到载片上为其提供强度支撑，完成背面减薄及其他背面\n工艺后进行解键合。\n                  临时键合、解键合工艺流程图\n\n\n\n\n  公司提前布局自主研发的全自动临时键合及解键合机，可应用于 InFO、CoWoS、HBM 等 2.5D、\n3D 技术路线产品，兼容国内外主流胶材工艺，能够适配 60 微米及以上超大膜厚涂胶需求，可实\n现高对准精度、高真空度环境、高温高压力键合工艺，键合后产品 TTV 及翘曲度表现优异，对应\n开发的机械、激光解键合技术，可覆盖不同客户产品及工艺需求，为客户提供稳定高效的临时键\n合、解键合全流程解决方案。\n\n(四)   核心技术与研发进展\n\n1. 核心技术及其先进性以及报告期内的变化情况\n\n  1、前道涂胶显影设备技术\n  作为国内唯一可以提供量产型前道涂胶显影设备的公司，近年来公司持续加大研发投入，对\n前道涂胶显影设备多项关键技术进行重点突破和完善升级，目前公司在光刻工艺胶膜均匀涂敷技\n术、精细化显影技术、高产能设备架构及机械手优化调度技术、内部微环境精确控制技术等多项\n关键技术上已达到国际先进水平。\n  报告期内，公司密切跟踪下游客户日益丰富的工艺需求，在超洁净微环境控制、高产能\nHEFEM、高精热盘快速降温等技术上持续取得进步和突破，可为客户提供更为丰富和先进的产品\n技术解决方案。\n  ①超洁净微环境控制技术\n\n                       25 / 267",
+    "status": "pending",
+    "issue": "Identical source-vintage capability and equipment family; passage retained as alternate evidence, not a second measurement.",
+    "claim": "60 micrometre; same_report_alias_to_hold",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv24-002",
+    "claim_id": "KSV24-002",
+    "source_id": "kingsemi_annual_2024",
+    "page": 14,
+    "excerpt": "沈阳芯源微电子设备股份有限公司2024 年年度报告\n\n\n  公司前道物理清洗机自 2018 年发布以来，凭借其高产能、高颗粒去除能力、高性价比等优势\n受到下游客户的广泛认可，产品迅速打破国外垄断并确立了市场领先优势，目前已广泛应用于中\n芯国际、上海华力、青岛芯恩、广州粤芯、上海积塔、厦门士兰等一线大厂，已成为国内逻辑、\n功率器件客户主力量产机型。\n  近年来，公司前道物理清洗机在高产能清洗架构、26nm 颗粒去除能力等方面实现了进一步的\n提升，产品竞争力不断增强。报告期内，公司前道物理清洗机获得国内领先逻辑客户批量订单，\n进一步夯实了公司在国内市场的龙头地位。\n  （3）后道先进封装设备\n  公司后道先进封装用涂胶显影设备、单片式湿法设备已连续多年作为主流机型批量应用于台\n积电、盛合晶微、长电科技、华天科技、通富微电、珠海天成等海内外一线大厂，已经成为众多\n知名客户的首选品牌。\n  2024 年，国内后道封测市场呈复苏回暖态势，下游市场景气度良好，客户下单意愿积极，公\n司后道涂胶显影机、单片式湿法设备获得国内多家客户批量重复性订单，签单同比实现良好增长。\n公司深耕先进封装领域多年，部分技术已达到国际领先水平，具有较强的全球竞争力，已获得多\n家海外客户的持续认可，报告期内，公司成功获得海外封装龙头客户批量重复性订单。\n  （4）化合物等小尺寸设备\n  公司化合物等小尺寸设备近年来已作为主流机型批量应用于三安集成、华灿光电、乾照光电、\n北京赛微等国内一线大厂，已经成为客户端的主力量产设备。报告期内，受下游市场景气度影响，\n该细分领域销售额有所下滑。\n  2、新产品产业化进展\n  （1）前道化学清洗机\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式发布，机台具有高工艺\n覆盖性、高稳定性、高洁净度、高产能等多项核心优势，机台搭载独立开发的新一代高清洗效率\n低损伤射流喷嘴，洁净度已达到先进制程所需水平，适用于沉积前清洗、蚀刻后清洗、离子注入\n后清洗、CMP 后清洗等多种前段工艺和后段工艺清洗进程，可适配高温 SPM 工艺，整体工艺覆盖\n率达 80%以上。\n  高温 SPM 清洗工艺被业界公认为 28nm/14nm 制程性能要求最高的工艺之一，也是业内最具难\n度和挑战的湿法工艺。目前高温 SPM 设备市场被日本 DNS 高度垄断，客户亟需国产替代。高温 SPM\n设备工艺复杂，客户最关心的三大核心指标为 26nm 颗粒控制、刻蚀率及均一性、金属离子控制，\n公司高温 SPM 机台经过客户端数月的量产跑片监控，在三大核心指标上可对标海外龙头。目前该\n机台已成功通过客户工艺验证，成功打破国外垄断，获得国内客户高度认可，目前公司化学清洗\n机已获得国内多家大客户订单及验证性订单。\n  前道清洗类设备标准化程度相对较高，通过验证后有望快速提升市场份额。公司于 2018 年发\n布前道物理清洗设备后，在两年的时间内迅速成为了客户端主力量产机型。公司将借助前道物理\n                         14 / 271",
+    "status": "pending",
+    "issue": "This sentence names 26 nm particle control as a customer concern for high-temperature SPM. It does not by itself state a 26 nm machine test; the separate p24 chemical-cleaner test is mapped.",
+    "claim": "26 nanometre; hold_customer_requirement_not_machine_test",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv24-008",
+    "claim_id": "KSV24-008",
+    "source_id": "kingsemi_annual_2024",
+    "page": 24,
+    "excerpt": "沈阳芯源微电子设备股份有限公司2024 年年度报告\n\n\n  报告期内，公司新一代超高产能涂胶显影机架构 FTEX 取得积极进展，FTEX 系列前道超高产\n能涂胶显影机具有高产能、高稳定性、高可靠性、高度集成化和智能化等多项核心优势，机台采\n用六层对称架构，中间布局高效的晶圆传输模组作为连接枢纽，并设计高效冷盘塔连接模块，在\n调度上应用多层并行进片回片模式，为整机产能提升奠定更先进的架构基础，可匹配未来更先进\n的光刻机产能提升需求。\n  （2）前道清洗设备技术\n  公司前道化学清洗设备具有高工艺覆盖性、高稳定性、高洁净度、高产能等多项核心优势：\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配高温 SPM 工艺，整体工艺覆盖率达到 80%以上。\n  ②高稳定性：机台 UP Time 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n通过 26nm particle 测试，达到先进制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，机台 16 腔高产能架构可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，达\n到国际先进水平。\n  公司前道物理清洗技术较为成熟，多项核心技术已达到国际先进水平，已成为国内逻辑、功\n率客户主力机型。报告期内，公司在物理清洗机产能提升和 26nm 颗粒控制能力等核心指标上持续\n取得突破和进步。\n  （3）后道先进封装设备技术\n  公司后道先进封装涂胶显影设备及单片式湿法设备技术较为成熟，整体已达到国际先进水平，\n部分核心技术已达到国际领先水平，已成为国内先进封装客户首选品牌，近年来，公司在各项技\n术指标上继续巩固领先优势，产品竞争力不断增强。报告期内，公司新产品 Frame 清洗设备也取\n得良好进展，目前已在国内多家客户通过工艺验证并成功实现验收，设备可有效去除晶圆表面的\n残胶、金属残渣以及颗粒等污染物，实现超薄片清洗，达到无损伤脱落。\n  公司临时键合机及解键合机具有业内领先的键合胶旋涂均匀性、键合 TTV 工艺指标，集成高\n精视觉校准功能/真空传送的键合腔体，机台搭载 TTV 检测技术，可实现键合片组闭环检测，机台\n整体已达到国际先进水平。\n  （4）化合物等小尺寸设备技术\n  公司化合物等小尺寸涂胶显影设备及单片式湿法设备技术较为成熟，多项核心技术已达到国\n际先进水平。公司新产品全自动 SiC 划裂片一体机应用独有的 SnB 划裂片技术，能够有效解决传\n统砂轮式切割方法所面临的崩边大、切割损失多、生产效率低、切割水处理等问题，可助力客户\n\n\n                         24 / 271",
+    "status": "pending",
+    "issue": "Physical-cleaner 26nm particle control is not proven identical to physical-cleaner removal (KSV24-001).",
+    "claim": "26 nanometre; hold_semantic_overlap",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-ksv25-006",
+    "claim_id": "KSV25-006",
+    "source_id": "kingsemi_annual_2025",
+    "page": 25,
+    "excerpt": "沈阳芯源微电子设备股份有限公司2025 年年度报告\n\n\n性。公司提前布局上游零部件国产替代，对国内供方进行长期培养和扶持。报告期内，公司通过\n批采谈判、年度框架合同等商务方式持续降低整体采购成本。\n\n\n(二) 报告期内发生的导致公司核心竞争力受到严重影响的事件、影响分析及应对措施\n□适用 √不适用\n\n(三) 核心技术与研发进展\n\n1、 核心技术及其先进性以及报告期内的变化情况\n  （1）前道涂胶显影机设备技术\n  作为国内少有的可以提供量产型前道涂胶显影设备的公司，近年来公司持续加大研发投入，\n对前道涂胶显影设备多项关键技术进行重点突破和完善升级，目前公司在光刻工艺胶膜均匀涂敷\n技术、精细化显影技术、高产能设备架构及机械手优化调度技术、内部微环境精确控制技术等多\n项关键技术上已达到国际先进水平。\n  报告期内，公司新一代涂胶显影机架构相关技术取得积极进展，该系列机台具有高产能、高\n稳定性、高可靠性、高度集成化和智能化等多项核心优势，机台通过布局高效的晶圆传输模组作\n为连接枢纽，并设计高效冷盘塔连接模块，在调度上应用多层并行进片回片模式，为整机产能提\n升奠定更先进的架构基础，可匹配未来更先进的光刻机产能提升需求。\n  （2）前道清洗设备技术\n  公司前道化学清洗设备具有高工艺覆盖性、高稳定性、高洁净度、高产能等多项核心优势：\n  ①高工艺覆盖性：设备适用于薄膜前后清洗、干法蚀刻后清洗、离子注入灰化后清洗、CMP\n后清洗等多种清洗工艺，能够适配多种 SPM 工艺，整体工艺覆盖率达到 90%以上。\n  ②高稳定性：机台 Uptime 达到高指标要求，刻蚀一致性随机抽取 100 组稳定在 2%以内，可\n以满足客户的高稳定性需求。\n  ③高洁净度：机台借鉴了公司前道涂胶显影和前道物理清洗的成熟技术，通过气体流场仿真\n优化，确保机台内部微环境均匀稳定，同时搭载了独立研发的新一代高清洗效率低损伤射流喷嘴，\n达到高端制程所需工艺水平。\n  ④高产能：通过移植前道涂胶显影设备多层堆叠的技术优势，同时搭载公司自研的高速机械\n手，可以实现清洗效率的大幅提升，整体工艺产能够对标国际主流机台，达到国际先进水平。\n  公司前道物理清洗技术较为成熟，多项核心技术已达到国际先进水平，已成为国内逻辑、功\n率客户主力机型。报告期内，公司在物理清洗机产能提升和 26nm 颗粒控制能力等核心指标上持\n续取得突破和进步。\n  （3）后道先进封装设备技术\n  公司后道先进封装涂胶显影设备及单片式湿法设备技术较为成熟，整体已达到国际先进水平，\n部分核心技术已达到国际领先水平，已成为国内先进封装客户首选品牌，近年来，公司在各项技\n术指标上继续巩固领先优势，产品竞争力不断增强。\n\n                          25 / 246",
+    "status": "pending",
+    "issue": "Physical-cleaner 26nm particle control is not proven identical to physical-cleaner removal (KSV25-002).",
+    "claim": "26 nanometre; hold_semantic_overlap",
+    "review_notes": "Retain source-native hold; resolve only with an explicit publication date, product/test identity bridge, or new original evidence."
+  },
+  {
+    "hold_id": "kingsemi-operational-technical-fy23-p26-standard-16-chamber",
+    "claim_id": "FY23-p26-standard-16-chamber",
+    "source_id": "kingsemi_annual_2023",
+    "page": 26,
+    "excerpt": "2023 年年度报告\n\n\n  公司通过抑制结晶、消除摩擦、优化密封、应用超高洁净度零部件多个方式进行系统设计，\n使用流场精密控制、高密封性、低产尘性及数据系统监测等方法，持续提升机台内部的干湿颗粒\n与温湿度控制等级，成功实现了保证产品稳定量产、工艺持续稳定的技术目标,解决了长期困扰\nTrack 设备良率的颗粒问题，微环境控制精度可满足客户更高工艺等级要求。\n  ②高产能 HEFEM 技术\n  高产能 HEFEM 是新一代高产能小型化设备架构首要模块，公司新一代高产能 HEFEM 在原有堆\n叠式双工架构基础上，开发出了新型紧凑型 Load port 结构，实现了堆叠式 Load port 设计方案，\n技术上采用两手与四手机械手相结合的方式，具备速度更快、产能更高、晶圆传送更流畅的特点。\n同时开发了与之配套的调度系统，致力于突破超高产能的技术难题。该技术已成功应用在公司高\n端 offline 机台上，实现了超高产能标准的快速传送，达到世界一流水平。\n  ③高精热盘快速降温技术\n  快速降温技术主要应用于前道 Track 中热盘单元烘烤温度切换过程，目的为缩短温度切换所\n需时间，从而提高机台产能。公司通过传热仿真计算及研发实验测试，研发的一体式快速降温加\n热结构，可以实现极短时间内工艺温度的快速切换，在狭小空间内配合单元降温控制逻辑，实现\n加热腔体分区间高效一致性的降温效果，在保证高水平控温的同时降低了工艺时间，有效提升了\n整机生产效率。\n  2、前道清洗设备技术\n  （1）前道化学清洗设备技术\n  公司战略性新产品前道化学清洗机 KS-CM300/200 于 2024 年 3 月正式公开发布，机台具有高\n工艺覆盖性、高稳定性、高洁净度、高产能等核心优势，适用于沉积前清洗、蚀刻后清洗、离子\n注入后清洗、CMP 后清洗等多种前段工艺(FEOL)和后段工艺(BEOL)清洗进程，可适配高温 SPM 工\n艺，整体工艺覆盖率达 80%以上。机台搭载独立开发的新一代高清洗效率低损伤射流喷嘴，洁净\n度已达到先进制程所需水平，在低损伤射流清洗技术、内部微环境精确控制技术、高产能设备架\n构及机械手优化调度技术等核心技术上已达到国际先进水平。截至报告期末，机台已获得国内重\n要客户验证性订单。目前，机台已在司内完成多家客户的 wafer demo 测试，工艺水平表现优秀。\n  ①低损伤射流清洗技术\n  低损伤射流清洗技术搭载新一代自研二流体喷嘴，液体雾化更集中、更均匀，清洗性能更优\n异，同时极大降低了对 wafer 表面图形损伤的风险。\n  ②内部微环境精确控制技术\n  公司内部微环境精确控制技术对设备内部环境风速、风压、风流的精确控制，设备内部微环\n境可覆盖 28nm 及以上技术节点颗粒指标要求。\n  ③高产能设备架构及机械手优化调度技术\n  公司化学清洗 16 腔标配设备机械产能达到 600WPH，同时拥有领先的清洗工艺控制技术，工\n艺产能可对标国际知名品牌设备，达到国际先进水平。\n                         26 / 267",
+    "status": "pending",
+    "issue": "p16 high-capacity 16-chamber architecture versus p26 standard 16-chamber configuration; exact same configuration not established. Both FY2023 technical candidates remain date-held.",
+    "claim": "16 chamber; hold_configuration_identity",
+    "review_notes": "Do not merge standard 16-chamber equipment with the p16 high-capacity architecture or infer 600WPH across configurations."
+  }
+]

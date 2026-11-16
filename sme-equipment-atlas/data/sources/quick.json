@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "quick_annual_2025",
+    "dataset_id": "quick_disclosures",
+    "title": "Quick Intelligent Equipment FY2025 annual report",
+    "publication_date": "2026-04-24",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225173150.PDF",
+    "sha256": "a8526267b8ef26a079784d3bf280a345d52ee4b0901f3943bf7f0e9665aa37b3",
+    "source_type": "company_annual_report",
+    "original_document_id": "quick_annual_2025",
+    "page_count": 235,
+    "locator_kind": "pdf",
+    "notes": "Official CNINFO original acquired for an identified TCB supplier gap after local source/analysis filename inventory and read-only OSINT filing search. Publication date follows dated disclosure URL. Registration alone does not establish extraction completeness."
+  },
+  {
+    "source_id": "quick_h1_2026",
+    "dataset_id": "quick_disclosures",
+    "title": "Quick Intelligent Equipment H1 2026 semi-annual report",
+    "publication_date": "2026-08-27",
+    "publication_date_precision": "day",
+    "url": "https://file.finance.sina.com.cn/211.154.219.97%3A9494/MRGG/CNSESH_STOCK/2026/2026-8/2026-08-27/12546196.PDF",
+    "sha256": "9b51bbb5d494f942b72d94bfac12e9c0c5ea801a5ed0293035bf152b764434e7",
+    "source_type": "company_interim_report",
+    "original_document_id": "quick_h1_2026",
+    "page_count": 168,
+    "locator_kind": "pdf",
+    "notes": "Issuer-authored original PDF acquired from public filing mirror after exchange endpoint returned a browser challenge; not mirror commentary. Root rendered cover verifies issuer name, stock code603203 and H1 period. Publication date follows dated filing listing and URL. Local holdings/OSINT inventory had no recent Quick filing. Registration reopens operational review."
+  },
+  {
+    "source_id": "quick_q3_2026",
+    "dataset_id": "quick_disclosures",
+    "title": "quick Q3 2026 report: 快克智能2026年第三季度报告",
+    "publication_date": "2026-10-31",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-31/1225650306.PDF",
+    "sha256": "aace5989dd53bc6a7f487bd321797aa1434c5d8bbb7098bf8c76542c19fb771d",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "quick_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave follow-up from the cninfo original. publication_date is the cninfo URL date. Registration is not extraction completeness."
+  }
+]

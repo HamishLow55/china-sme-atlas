@@ -1,0 +1,32 @@
+[
+  {
+    "reporting_scope_id": "laipu_laser_thermal_equipment",
+    "label": "激光热处理设备",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Laipu's source product-table laser thermal processing equipment basket (激光热处理设备), spanning its named LIC/LIEG/USJLA/DALA models plus unnamed IGBT, SiC and BSI-CCD laser-anneal tools; revenue, units, price and margin are disclosed only at this aggregate level, never per model. Table basis is 主营业务收入 (main-business revenue): the basket's reported total differs from company 营业收入 in every period (residual/其他业务收入 of 431.31/309.30/533.16/780.96万元 for 2023/2024/2025/H1 2026), confirming a main-business partition rather than a total-operating-revenue one. Not additive with the sibling 专用激光加工设备 (specialized, non-thermal laser processing: dicing/marking/debonding/deflash) line, which is out of scope for this category."
+  },
+  {
+    "reporting_scope_id": "laipu_consolidated_company",
+    "label": "公司整体",
+    "category_id": "all_businesses",
+    "definition": "Laipu company-wide consolidated total (营业收入, 研发投入, top-five customer concentration), covering both the 激光热处理设备 and 专用激光加工设备 product lines plus services; not equipment-specific."
+  },
+  {
+    "reporting_scope_id": "laipu_upgrade_other_services",
+    "label": "升级改造及其他技术服务",
+    "category_id": "all_businesses",
+    "definition": "Laipu's upgrade/retrofit and other technical-service revenue line within main-business revenue; a disclosed non-equipment service line, not sales of new tools."
+  },
+  {
+    "reporting_scope_id": "laipu_lieg_rd_project",
+    "label": "12寸DRAM晶圆激光诱导外延生长设备与工艺（研发项目）",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Named ongoing R&D project budget for the LIEG platform's DRAM application, distinct from recognized product revenue (which is only disclosed at the aggregate 激光热处理设备 level)."
+  },
+  {
+    "reporting_scope_id": "laipu_wafer_scale_laser_anneal_rd_project",
+    "label": "12寸晶圆整片单步激光退火设备研发（研发项目）",
+    "category_id": "thermal_laser_anneal",
+    "definition": "Named ongoing R&D project budget for a new whole-wafer single-step laser-anneal tool for logic/memory ICs; still in R&D (在研) as of this filing, not yet a commercialized platform and not in the p98-99 product table."
+  }
+]

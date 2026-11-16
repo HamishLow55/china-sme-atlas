@@ -1,0 +1,134 @@
+[
+  {
+    "coverage_id": "huazhuo_2026_named_bonding_families",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "named bonding families",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 109, 110, 111, 160. Six source-named categories; only five have source-native model/technical rows. Temporary bonding stays generic.",
+    "next_action": "Six source-native families and histories independently reviewed and integrated; no extra units from model aliases. Wafer TCB does not establish HBM-stack die-bonding capability."
+  },
+  {
+    "coverage_id": "huazhuo_2026_maturity_qualification",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "maturity qualification",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 110, 111, 120, 121, 150, 164, 234, 397. Preserve family-stage differences and specific 2025 project acceptance; no blanket mass-production qualification.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_shipments_installed_base",
+    "entity_id": "huazhuo",
+    "status": "reviewed_not_found",
+    "scope": "Cumulative installed-base counts",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 109, 110, 120, 121, 149, 150, 165, 188, 234, 329. Numerical shipments/production found, including 100th laser anneal shipment. No cumulative installed-base or active-installation figure for either tool line after full-text searches for 装机、累计、在役、保有量、已安装、已装机 and inspection of operating sections.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_product_volumes",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "product volumes",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 164, 165, 232, 233, 234. Separate manufacture, shipment and customer acceptance. No family-specific bonding production/sales grid.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_equipment_only_revenue",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "equipment only revenue",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Original physical pp232-233 independently checked. Laser advanced-process/power equipment, technical-service/other and totals separated; bonding product/services/totals separated. Financial sales quantities distinct from dispatch and acceptance. Source ASP conflict and held within-business shares/ASP changes retained.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_orders_backlog",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 261, 262, 263, 329. One selected major bonding sales contract. Broad 在手订单充裕 wording is mixed-company and unquantified; no bonding-specific backlog balance or order count.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_customers",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 110, 150, 166, 234, 397. Representative bonding customers and family delivery mapping found; no deduplicated bonding customer count.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_capacity",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 164, 393, 395, 396, 397. Company says specific production capacity cannot be quantified; 48-month IPO manufacturing project is planned, not current capacity.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_hbm_node_application",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "hbm node application",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 107, 109, 110, 111, 120, 121, 149, 150, 190. HBM cited as application; bonding stages remain validation/small-batch. Broad 40/28/14nm company wording and example 14nm logic + 28nm analog packaging are not bonding-tool node qualifications.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_thinning_liftoff_debond",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "thinning liftoff debond",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 21, 33, 149, 190, 404, 423. Laser lift-off and HBM thinning R&D described. Debond appears in IP/software lists only; no commercial debond or thinning equipment operating disclosure found.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_other_whole_equipment",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "other whole equipment",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Sol original sweep, physical pages 106, 107, 108, 119, 120, 149, 165, 232, 233. Laser anneal is a separate whole-equipment basket; do not combine counts with bonding.",
+    "next_action": "Integrate independently checked equipment evidence in bounded batches. Do not infer model or subtype allocations from broad totals."
+  },
+  {
+    "coverage_id": "huazhuo_2026_headline_keys",
+    "entity_id": "huazhuo",
+    "status": "reviewed_found",
+    "scope": "FY2023-FY2025 issuer headline chart keys and selected bonding contract",
+    "reviewed_source_ids": [
+      "huazhuo_ipo_2026"
+    ],
+    "notes": "Physical pp28-29 revenue, attributable profit, OCF and R&D investment/revenue ratios independently checked. Physical p329 Company AB bonding contract face value includes tax; signing year only, as-of provisional publication context. Does not represent recognized revenue/backlog.",
+    "next_action": "Bounded equipment/source baseline complete. Stop company financial depth and prioritize remaining HBM category gaps."
+  }
+]

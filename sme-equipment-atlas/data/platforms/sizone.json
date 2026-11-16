@@ -1,0 +1,62 @@
+[
+  {
+    "platform_id": "sizone_ttais_300",
+    "entity_id": "sizone",
+    "name": "TTAIS300 CMP",
+    "category_id": "cmp",
+    "aliases": [
+      "TTAIS300 CMP"
+    ],
+    "evidence": {
+      "source_id": "sizone_restructuring_2026",
+      "page": 427,
+      "excerpt": "12英寸CMP 装备。该装备采用6个独立研磨模组和2个独立清洗模组。主要应用于集成电路前道制造和先进封装。",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "supplier_product_description",
+    "notes": "",
+    "maturity_as_reported_in": "sizone_restructuring_2026"
+  },
+  {
+    "platform_id": "sizone_ttais_300_si",
+    "entity_id": "sizone",
+    "name": "TTAIS300 Si CMP",
+    "category_id": "cmp",
+    "aliases": [
+      "TTAIS300 Si CMP"
+    ],
+    "evidence": {
+      "source_id": "sizone_restructuring_2026",
+      "page": 427,
+      "excerpt": "12英寸硅片CMP装备。主要应用于大硅片抛光。",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "supplier_product_description",
+    "notes": "",
+    "maturity_as_reported_in": "sizone_restructuring_2026"
+  },
+  {
+    "platform_id": "sizone_tntas_ecmp",
+    "entity_id": "sizone",
+    "name": "TNTAS ECMP",
+    "category_id": "cmp",
+    "aliases": [
+      "TNTAS ECMP"
+    ],
+    "evidence": {
+      "source_id": "sizone_restructuring_2026",
+      "page": 427,
+      "excerpt": "第三代半导体材料碳化硅专用CMP装备",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "supplier_product_description",
+    "notes": "",
+    "maturity_as_reported_in": "sizone_restructuring_2026"
+  }
+]

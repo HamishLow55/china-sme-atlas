@@ -1,0 +1,44 @@
+[
+  {
+    "coverage_id": "qiangyi-fy2025-financial",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023–FY2025 source comparatives and FY2025 quarters",
+    "status": "reviewed_found",
+    "scope": "Prepared headline, quarterly, nonrecurring and consolidated financial-statement tables only.",
+    "reviewed_source_ids": [
+      "qiangyi_annual_2025"
+    ],
+    "notes": "288 source cells yield 269 observations and 19 exact same-source aliases. Parent-only and supplemental operating sections are separate.",
+    "next_action": "Map the independently reviewed supplemental operating/R&D table batch with source-native probe-card and IP units."
+  },
+  {
+    "coverage_id": "qiangyi-fy2025-operations",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "metric_id": "sales_volume",
+    "period": "FY2025 with source-labelled comparatives and cumulative context",
+    "status": "reviewed_found",
+    "scope": "Prepared financial breakdowns, production/sales/inventory, concentration, workforce/IP/R&D tables.",
+    "reviewed_source_ids": [
+      "qiangyi_annual_2025"
+    ],
+    "notes": "286 distinct cells and11 aliases; quantity units are probe cards, not systems.",
+    "next_action": "Integrate separately reviewed product-family narratives and extend historical coverage."
+  },
+  {
+    "coverage_id": "qiangyi-fy2025-product-narrative",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "metric_id": "monthly_probe_pin_shipment_capacity",
+    "period": "FY2025 annual report context",
+    "status": "reviewed_found",
+    "scope": "Five generic probe-card families and eight numerical operating disclosures.",
+    "reviewed_source_ids": [
+      "qiangyi_annual_2025"
+    ],
+    "notes": "HBM-related small-batch/client validation stays distinct from Flash/DRAM production introduction. All19 qualitative candidates preserved in the intake evidence table;30 quantity repeats link to the operating batch.",
+    "next_action": "Backfill dated family milestones in held historical originals without treating generic families as additional distinct tools."
+  }
+]

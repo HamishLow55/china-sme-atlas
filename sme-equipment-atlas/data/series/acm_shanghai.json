@@ -1,0 +1,112 @@
+[
+  {
+    "series_id": "acm_shanghai_acm_ecp_all_cumulative_project_rd_spending_all_reported_geographies",
+    "title": "ACM Research (Shanghai) — Semiconductor ECP equipment, all applications — cumulative_project_rd_spending (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMS2025-ECP-RDC",
+      "ACMS2026H1-ECP-RDC"
+    ]
+  },
+  {
+    "series_id": "acm_shanghai_acm_ecp_all_cumulative_shipments_all_reported_geographies",
+    "title": "ACM Research (Shanghai) — Semiconductor ECP equipment, all applications — cumulative_shipments (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMS2025H1-ECP-DELIVERIES"
+    ]
+  },
+  {
+    "series_id": "acm_shanghai_acm_ecp_all_planned_project_rd_investment_all_reported_geographies",
+    "title": "ACM Research (Shanghai) — Semiconductor ECP equipment, all applications — planned_project_rd_investment (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMS2025-ECP-RDP"
+    ]
+  },
+  {
+    "series_id": "acm_shanghai_acm_ecp_all_project_rd_spending_all_reported_geographies",
+    "title": "ACM Research (Shanghai) — Semiconductor ECP equipment, all applications — project_rd_spending (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMS2025-ECP-RD"
+    ]
+  },
+  {
+    "series_id": "acm_shanghai_company_revenue_all_reported_geographies_interim",
+    "version": 1,
+    "title": "acm_shanghai: company revenue (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2025H1-TOT-REV-COMP",
+      "ACMS2026H1-TOT-REV"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "acm_shanghai_acm_shanghai_main_business_revenue_all_reported_geographies_interim",
+    "version": 1,
+    "title": "acm_shanghai: acm_shanghai_main_business revenue (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2025H1-MAIN-REV-COMP",
+      "ACMS2026H1-MAIN-REV"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "acm_shanghai_company_rd_investment_all_reported_geographies_interim",
+    "version": 1,
+    "title": "acm_shanghai: company rd_investment (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2025H1-RD-INV-COMP",
+      "ACMS2026H1-RD-INV"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "acm_shanghai_acm_ecp_all_project_rd_spending_all_reported_geographies_interim",
+    "version": 1,
+    "title": "acm_shanghai: acm_ecp_all project_rd_spending (all_reported_geographies; interim)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2026H1-ECP-RD"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "acm_shanghai_company_revenue_mainland_china_interim",
+    "version": 1,
+    "title": "acm_shanghai: company revenue (mainland_china; interim)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2026H1-CN-REV"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "acm_shanghai_company_revenue_outside_mainland_china_interim",
+    "version": 1,
+    "title": "acm_shanghai: company revenue (outside_mainland_china; interim)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "ACMS2026H1-EXCN-REV"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  }
+]

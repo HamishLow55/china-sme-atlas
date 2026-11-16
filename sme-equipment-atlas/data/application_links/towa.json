@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "towa_cpm1080_generative_ai_demand_fy2023",
+    "entity_id": "towa",
+    "category_id": "molding_compression",
+    "platform_id": "towa_cpm1080",
+    "application_id": "advanced_packaging",
+    "source_id": "towa_fy2023_asr_excerpt_eng",
+    "page": 26,
+    "excerpt": "However, there has been rapid expansion in demand for server-related investments, such as High Bandwidth Memory (HBM), driven by the widespread adoption of generative AI... Under these circumstances, our group experienced significant expansion in demand for our original compression equipment, the \"CPM1080\", particularly in the field of generative AI, both order and sales of compression equipment and molds during current consolidated fiscal year reached record highs for the full fiscal year.",
+    "claim_kind": "company_reported",
+    "link_kind": "production_claim",
+    "status": "source_checked",
+    "reviewer": "claude_w13_records_verifier",
+    "review_date": "2026-10-07",
+    "scope_note": "COMPARATOR ROW. Filed at advanced_packaging, NOT hbm: the sentence that names CPM1080's own demand driver says 'generative AI', not HBM -- HBM is named one sentence earlier only as part of the general market backdrop ('server-related investments, such as High Bandwidth Memory (HBM)'), and TOWA never states that CPM1080 itself serves HBM, MUF, 2.5D/3D or fan-out. Upgrading 'generative AI' to 'HBM' here would be exactly the kind of inference the intake brief warns against. This is a production/order-volume claim (record order and sales for the full fiscal year), not a technical capability or qualification claim; no customer, unit count or yen value is attached to CPM1080 specifically. The sentence also bundles 'molds' (tooling) together with 'compression equipment' in one order/sales figure, which is preserved verbatim rather than parsed apart.",
+    "notes": " W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: This is the calibration row named in the task brief. Confirmed against towa_fy2023_asr_excerpt_eng p.26: the sentence driving CPM1080's own demand ('particularly in the field of generative AI') is one sentence removed from the HBM mention ('demand for server-related investments, such as High Bandwidth Memory (HBM)'), and the platform's own driver sentence never names HBM. The advanced_packaging (not hbm) filing is correct and the reasoning holds on direct re-check of the page. link_kind production_claim is correct: 'order and sales...reached record highs for the full fiscal year' is an actual realized-volume claim, not a capability or forward statement."
+  }
+]

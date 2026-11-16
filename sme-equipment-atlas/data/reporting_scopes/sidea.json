@@ -1,0 +1,56 @@
+[
+  {
+    "reporting_scope_id": "sidea_wafer_prober_equipment",
+    "category_id": "test_prober_handler",
+    "label": "sidea_wafer_prober_equipment",
+    "definition": "矽电股份 晶圆探针台 product line: wafer probe stations from manual to fully automatic, 4-12 inch, +/-1.3 micrometre positioning, Taiko and ultra-thin wafer probing, OHT-compatible, dual-arm auto load/unload, auto card change and auto needle alignment. Probe stations only: no ATE tester and no probe card."
+  },
+  {
+    "reporting_scope_id": "sidea_die_prober_equipment",
+    "category_id": "test_prober_die",
+    "label": "sidea_die_prober_equipment",
+    "definition": "矽电股份 晶粒探针台 product line: die probe stations for singulated dies after dicing, 4-6 inch PD/APD/LED optoelectronic chips, four-magazine dual-channel auto load/unload, Z-axis probe motion, non-destructive needle cleaning, integrating-sphere range auto-recognition, probe-mark recognition. Combined with an in-house or third-party current source it is sold as a 探针测试一体机."
+  },
+  {
+    "reporting_scope_id": "sidea_other_equipment",
+    "category_id": "multi_equipment",
+    "label": "sidea_other_equipment",
+    "definition": "矽电股份 其他 product revenue line: a mixed basket of 分选机 (three-station LED chip sorter, up to 300 BIN), 曝光机 (contact aligner for 6/4 inch diode wafers) and AOI 检测机 (sub-micron optical defect inspection for 12/8/4 inch optoelectronic and discrete devices). Not allocable between these tool classes."
+  },
+  {
+    "reporting_scope_id": "sidea_equipment_manufacturing_segment",
+    "category_id": "multi_equipment",
+    "label": "sidea_equipment_manufacturing_segment",
+    "definition": "矽电股份 设备制造业 segment as disclosed in 营业收入构成: the issuer's only industry segment, equal to total operating revenue, and also the basis for the 分地区 (境内/境外) and 分销售模式 (直销/代理) splits."
+  },
+  {
+    "reporting_scope_id": "sidea_special_equipment_manufacturing_volumes",
+    "category_id": "multi_equipment",
+    "label": "sidea_special_equipment_manufacturing_volumes",
+    "definition": "矽电股份 专用设备制造业 row of the 实物销售收入 table carrying 销售量/生产量/库存量 in 台. A single collective total across both prober families and the 其他 basket; the issuer publishes no per-product unit counts, so it cannot be allocated."
+  },
+  {
+    "reporting_scope_id": "sidea_company_disclosures",
+    "category_id": "all_businesses",
+    "label": "sidea_company_disclosures",
+    "definition": "矽电股份 company-wide annual-report disclosures: revenue and net profit for FY2023-FY2025, R&D expense, cumulative patents and software copyrights, the mandatory 员工情况 workforce table and the mandatory top-five customer and supplier tables."
+  },
+  {
+    "reporting_scope_id": "sidea_main_business_total",
+    "label": "主营业务合计",
+    "category_id": "multi_equipment",
+    "definition": "Sidea 合计 row of the H1 2026 分产品 table, equal to 主营业务 in the revenue note and below company 营业收入 by 其他业务. Spans both prober families and the 其他设备 basket."
+  },
+  {
+    "reporting_scope_id": "sidea_other_business",
+    "label": "其他业务",
+    "category_id": "all_businesses",
+    "definition": "Sidea 其他业务 row of the H1 2026 revenue note: the residual between 主营业务 and company 营业收入. Its content is not itemised."
+  },
+  {
+    "reporting_scope_id": "sidea_wafer_and_die_prober_models",
+    "label": "晶圆探针台和晶粒探针台",
+    "category_id": "test",
+    "definition": "Sidea wafer and die prober families together, as one count of models. The source gives no split, and the two sit in different atlas categories."
+  }
+]

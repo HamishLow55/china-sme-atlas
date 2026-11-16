@@ -1,0 +1,14 @@
+[
+  {
+    "entity_id": "acm_shanghai",
+    "name": "ACM Research (Shanghai)",
+    "aliases": [
+      "盛美上海",
+      "盛美半导体设备（上海）股份有限公司",
+      "688082"
+    ],
+    "parent_entity_id": "acmr",
+    "notes": "Separately listed subsidiary; consolidated parent and subsidiary figures overlap.\n\nentity_class is china_supply_base by GROUP attribution: this company's results consolidate into a Chinese-controlled parent, and the atlas counts it on that side of the indigenisation comparison. The field says which side of that comparison the entity sits on; it is not a statement about where the company is domiciled or where its technology originated.",
+    "entity_class": "china_supply_base"
+  }
+]

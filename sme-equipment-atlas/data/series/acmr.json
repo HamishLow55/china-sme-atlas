@@ -1,0 +1,58 @@
+[
+  {
+    "series_id": "acmr_acmr_cleaning_revenue_all_reported_geographies",
+    "title": "ACM Research, Inc. — Single wafer cleaning, Tahoe and semi-critical cleaning — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMR2021-CL-REV",
+      "ACMR2022-CL-REV",
+      "ACMR2023-CL-REV",
+      "ACMR2024-CL-REV",
+      "ACMR2025-CL-REV"
+    ]
+  },
+  {
+    "series_id": "acmr_acmr_ecp_furnace_other_revenue_all_reported_geographies",
+    "title": "ACM Research, Inc. — ECP (front-end and packaging), furnace and other technologies — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMR2021-EF-REV",
+      "ACMR2022-EF-REV",
+      "ACMR2023-EF-REV",
+      "ACMR2024-EF-REV",
+      "ACMR2025-EF-REV"
+    ]
+  },
+  {
+    "series_id": "acmr_acmr_packaging_services_spares_revenue_all_reported_geographies",
+    "title": "ACM Research, Inc. — Advanced packaging (excluding ECP), services & spares — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMR2021-AP-REV",
+      "ACMR2022-AP-REV",
+      "ACMR2023-AP-REV",
+      "ACMR2024-AP-REV",
+      "ACMR2025-AP-REV"
+    ]
+  },
+  {
+    "series_id": "acmr_company_revenue_all_reported_geographies",
+    "title": "ACM Research, Inc. — Company total — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "ACMR2021-TOT-REV",
+      "ACMR2022-TOT-REV",
+      "ACMR2023-TOT-REV",
+      "ACMR2024-TOT-REV",
+      "ACMR2025-TOT-REV"
+    ]
+  }
+]

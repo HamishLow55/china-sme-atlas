@@ -1,0 +1,136 @@
+[
+  {
+    "reporting_scope_id": "delphi_precision_laser_processing_equipment_all_sectors",
+    "label": "精密激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Delphi FY2025 source product basket for whole precision laser-processing equipment. Includes semiconductor, consumer/automotive electronics, new energy and display applications; excludes separately reported lasers, processing services and component processing/repair. The p38 financial product row and physical production/sales/inventory row share the source-native basket label, but no model-specific, dicing-only or semiconductor-only allocation is justified. Unit sales are not installed systems."
+  },
+  {
+    "reporting_scope_id": "delphi_parent_and_major_subsidiaries_employees",
+    "label": "报告期末母公司和主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "FY2025 report workforce table population: active employees of Delphi Laser parent and major subsidiaries at reporting year-end, all businesses. Not asserted to include every consolidated subsidiary."
+  },
+  {
+    "reporting_scope_id": "delphi_sdbg_laser_stealth_dicing_rd_project",
+    "category_id": "dicing_laser",
+    "label": "Delphi Laser in-progress project: SDBG laser stealth-dicing process improvement",
+    "definition": "Row 12 of the 在研项目情况 table in the FY2025 annual report: SDBG 激光隐切工艺提升研发项目, stage 研发中. The filing glosses SDBG as 研磨前隐切 (stealth dicing before grinding) and gives the application as 应用在存储芯片的 SDBG（研磨前隐切）工艺制程 plus 其它材料（如：磷化铟，碳化硅，硅，玻璃等）的隐切制程. Wafer-internal laser modification for die singulation, i.e. laser/stealth dicing. Scope is this one R&D project, not a product revenue line."
+  },
+  {
+    "reporting_scope_id": "delphi_compound_material_laser_stealth_dicing_rd_project",
+    "category_id": "dicing_laser",
+    "label": "Delphi Laser in-progress project: compound-material laser stealth-dicing process research",
+    "definition": "Row 16 of the 在研项目情况 table in the FY2025 annual report: 化合物材料激光隐切工艺研究, stage 研发中. Stated application 第三代半导体晶圆加工 SiC、GaN 激光隐切/内部改质, stated problem 小尺寸 DIE 顶不起、崩边、良率低, stated compatibility 兼容 6/8 寸、大小尺寸 DIE、不同厚度晶圆. Die singulation of compound-semiconductor wafers by internal laser modification. The filing places the work at 实验室测试结束向中试/小规模客户现场量产过渡, so nothing here is a shipped-product specification."
+  },
+  {
+    "reporting_scope_id": "delphi_semiconductor_related_laser_processing_equipment",
+    "category_id": "multi_equipment",
+    "label": "Delphi Laser semiconductor-related laser processing equipment, FY2025 narrative revenue line",
+    "definition": "Issuer's own 半导体相关激光加工设备 revenue line (FY2025 annual report p18), a narrative split of the 精密激光加工设备 product line that the 分产品 table does not carry. The basket is MULTI-PROCESS: the issuer's semiconductor product list (p12) contains 激光划片, 晶圆激光开槽, 碳化硅晶锭切片, 碳化硅激光退火, 晶圆激光隐切设备（SDBG）, 玻璃通孔（TGV）, 激光开槽（low-k）, Edge Trimming, 晶圆打标, 模组钻孔（TMV）, 激光解键合（debonding） and 辅助焊接. It therefore mixes dicing with annealing, drilling, marking and debonding and must not be read as dicing revenue. It is a component of the wider delphi_precision_laser_processing_equipment_all_sectors line and is not additive with it."
+  },
+  {
+    "reporting_scope_id": "delphi_silicon_wafer_laser_stealth_dicing_equipment",
+    "category_id": "dicing_laser",
+    "label": "Delphi Laser silicon-wafer laser stealth-dicing equipment, FY2025 narrative description",
+    "definition": "Source-native 硅晶圆激光隐切设备 as described in the FY2025 annual report p16: 该设备针对 12 英寸硅存储芯片研发，全面支持 SDAG（Stealth Dicing After Grinding）与 SDBG 工艺，特别适用于厚度 35～85μm 的超薄晶圆隐切与减薄前加工. Silicon memory-wafer stealth dicing, both after-grinding and before-grinding process routes. Kept separate from the named model LSD-6130 (delphi_lsd_6130 platform, p19) because the existing verified platform record states p16 describes the broader silicon stealth-dicing equipment and only p19 pins order validation and market sale to that model. The 首个国产量产订单 from a leading domestic memory maker on this page prints no digit, customer name or amount and is not recorded as a quantity."
+  },
+  {
+    "reporting_scope_id": "delphi_lasers_product_line",
+    "label": "激光器",
+    "category_id": "all_businesses",
+    "definition": "Product row 激光器 in the H1 2026 note 61 商品类型 block: lasers sold externally. A product line of the issuer, not an equipment category.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_laser_processing_services_product_line",
+    "label": "激光加工服务",
+    "category_id": "all_businesses",
+    "definition": "Product row 激光加工服务 in the H1 2026 note 61 商品类型 block.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_parts_and_repair_product_line",
+    "label": "零部件销售及维修",
+    "category_id": "all_businesses",
+    "definition": "Product row 零部件销售及维修 in the H1 2026 note 61 商品类型 block.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_other_main_business_product_line",
+    "label": "其他主营",
+    "category_id": "all_businesses",
+    "definition": "Product row 其他主营 in the H1 2026 note 61 商品类型 block.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_note61_domestic_main_business",
+    "label": "按经营地区分类 境内",
+    "category_id": "all_businesses",
+    "definition": "Row 境内 of the H1 2026 note 61 disaggregation. Partitions main-business revenue with 境外.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_note61_overseas_main_business",
+    "label": "按经营地区分类 境外",
+    "category_id": "all_businesses",
+    "definition": "Row 境外 of the H1 2026 note 61 disaggregation. Partitions main-business revenue with 境内.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_backlog_semiconductor_electronics_display_lasers",
+    "label": "半导体、新型电子、面板显示、激光器等",
+    "category_id": "all_businesses",
+    "definition": "Row of the inquiry-reply table on realised revenue and orders on hand by R&D direction (p48). Lumps semiconductor with electronics, display and lasers. No semiconductor-only backlog can be derived from it.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_backlog_new_energy",
+    "label": "新能源",
+    "category_id": "all_businesses",
+    "definition": "Row of the inquiry-reply table on realised revenue and orders on hand by R&D direction (p48).",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_precision_laser_equipment_excl_non_laser_units",
+    "label": "精密激光加工设备（销量不包含非激光类设备销售）",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply unit population for 精密激光加工设备 (pp78, 82): the footnote excludes non-laser equipment, which is why FY2025 reads 642 here against 664 in the annual report. Spans all downstream sectors; not a semiconductor count.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_semiconductor_and_optics_laser_equipment",
+    "label": "半导体及光学相关激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply downstream row (p81) of 精密激光加工设备. Wider than the annual report 半导体相关激光加工设备 label because it adds optics. Multi-process; not dicing revenue.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_semiconductor_optics_research_laser_equipment",
+    "label": "半导体、光学及科研相关激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply price row (p23). Wider again, adding research tools, so it is not merged with the p81 row.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_display_laser_equipment",
+    "label": "显示（相关）激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply downstream rows (pp23, 81) of 精密激光加工设备 for display panels.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_new_electronics_laser_equipment",
+    "label": "新型电子（相关）激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply downstream rows (pp23, 81) of 精密激光加工设备 for consumer and automotive electronics.",
+    "entity_id": "delphi_laser"
+  },
+  {
+    "reporting_scope_id": "delphi_new_energy_laser_equipment",
+    "label": "新能源激光加工设备",
+    "category_id": "multi_equipment",
+    "definition": "Inquiry-reply downstream row (p81) of 精密激光加工设备 for lithium battery and photovoltaic tools.",
+    "entity_id": "delphi_laser"
+  }
+]

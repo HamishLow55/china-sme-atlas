@@ -1,0 +1,28 @@
+[
+  {
+    "dataset_id": "piotech_annual_disclosures",
+    "title": "Piotech annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "piotech",
+    "version": "deposition1-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF remains local.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "piotech_interim_disclosures",
+    "title": "Piotech interim company disclosures",
+    "kind": "company_filings",
+    "publisher": "piotech",
+    "version": "local-staged-2026-09-23",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  }
+]

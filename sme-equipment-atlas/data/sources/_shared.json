@@ -1,0 +1,16 @@
+[
+ {
+  "source_id": "duv_report_asp_by_category_2026",
+  "dataset_id": "third_party_reference_market_data",
+  "title": "Chart data: semiconductor equipment system cost by category, DUV report (2026-09-28)",
+  "publication_date": "2026-09-28",
+  "publication_date_precision": "day",
+  "url": "",
+  "sha256": "3a20a7ed3b1c447a4ae74e0cb07d32eb6827958a8ce59b0d3f147d052d1c5719",
+  "source_type": "third_party_chart_data",
+  "original_document_id": "duv_report_asp_by_category_2026",
+  "page_count": 1,
+  "locator_kind": "chart_data",
+  "notes": "Chart-underlying data downloaded by the user from a DUV report published 2026-09-28. THE UNDERLYING REPORT IS NOT HELD LOCALLY, only this extracted series, so the usual page-locator and original-passage checks cannot be run and the publisher's own methodology, vintage and category definitions are unverified. Locator 1 denotes this single file. Citation needs confirming against the published report before any use."
+ }
+]

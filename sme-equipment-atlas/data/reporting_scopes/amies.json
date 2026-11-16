@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "amies_all_lithography_tools_milestone",
+    "category_id": "lithography",
+    "label": "AMIES cumulative lithography tools of any type, company-counted delivery milestone",
+    "definition": "AMIES's own cumulative count of lithography/exposure tools of any type (wafer-level and panel-level advanced-packaging steppers, LED/compound-semiconductor and flat-panel-display exposure tools) delivered to customers, continuing the milestone series SMEE began before AMIES's Feb 2025 spin-off; not separable by product family or category child."
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "observation_id": "precisionext_loong_placement_accuracy_cowos_2025",
+    "dataset_id": "precisionext_disclosures",
+    "source_id": "precisionext_cfol_cowos_20250314",
+    "entity_id": "precisionext",
+    "category_id": "bonding_tcb",
+    "reporting_scope_id": "precisionext_loong_tcb_platform",
+    "metric_id": "reported_bonding_placement_accuracy",
+    "platform_id": "precisionext_loong_tcb",
+    "value": "1",
+    "relation": "le",
+    "unit": "micrometre",
+    "period": {
+      "start": "2025-03-14",
+      "end": "2025-03-14",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "precisionext_cfol_cowos_20250314"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "Loong系列TCB设备 芯片贴装精度",
+      "excerpt": "其与客户联合开发的Loong系列TCB设备，采用自研“超精密高温纳米运动平台”和“多光谱视觉定位系统”，实现在450度高温，升温速率150度，降温速率50度，±1μm的芯片贴装精度，支持130×130mm超大芯片键合，较国际同行同级别设备效率提升25%；",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "1",
+      "reported_unit": "micrometre",
+      "review_notes": "Confirmed against c-fol_cowos_test_20250314.html (光繌在线/c-fol.net, 2025-03-14), sentence “…实现在450度高温，升温速率150度，降温速率50度，±1μm的芯片贴装精度…” read directly from the live HTML (PDF checker correctly reports this HTML source unavailable). ±1μm is a bound — le/bounded_as_reported (as corrected at integration) is right. Confirmed in the same article that the forward-looking “目标将精度提升至±0.3μm” (next-gen Fluxless TCB target) and the “国内唯一” marketing superlative are both present in the source but correctly NOT registered under this actual-flow metric."
+    },
+    "claim_kind": "company_reported",
+    "precision": "bounded_as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Third-party trade press (光纤在线/c-fol.net, article dated 2025-03-14) relaying PrecisioNext's own stated chip-placement ('芯片贴装') precision for its Loong-platform TCB tool, in the context of the platform's completed CoWoS-L test-sampling milestone for a domestic AI chip. '实现...±1μm' (achieves ±1μm) is a flat achieved-value statement with no inequality wording, mapped to relation eq per the 达到/为=eq convention. This is a post-bond placement/mounting accuracy, distinct from pre-bond alignment accuracy; no alignment-accuracy figure for this platform was found in any held source. Independently corroborated (not merged, to avoid treating two differently-dated press pieces as one row) by precisionext_fsemi_loong_hbm_20240527, which separately states the Loong WS sub-series' 'highest precision' as the same ±1μm figure nine months earlier. The same c-fol article separately states a forward target of ±0.3μm for a next-generation Fluxless TCB tool still in development — a plan, not an achieved value, and NOT registered. No company or product-line revenue is disclosed in this or any other held source for PrecisioNext. CORRECTED AT INTEGRATION: the source states a ± tolerance (±1μm 的芯片贴装精度), which bounds the error magnitude rather than asserting a point value, so relation is le and precision bounded_as_reported. The original extraction recorded eq under the 达到/为 convention, but that convention is for a point figure. The atlas's five pre-existing accuracy rows all read lt from a printed ＜, including one '＜±50nm' recorded as lt on the magnitude, so recording the magnitude with the comparator the source implies is the established treatment.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "qinghe_jingyuan_sab82cww_alignment_accuracy",
+    "dataset_id": "qinghe_jingyuan_disclosures",
+    "source_id": "qinghe_jingyuan_isabers_launch_20250311",
+    "entity_id": "qinghe_jingyuan",
+    "category_id": "bonding",
+    "reporting_scope_id": "qinghe_jingyuan_sab82cww_platform",
+    "metric_id": "reported_bonding_alignment_accuracy",
+    "platform_id": "qinghe_jingyuan_sab82cww",
+    "value": "30",
+    "relation": "le",
+    "unit": "nanometre",
+    "period": {
+      "start": "2025-03-11",
+      "end": "2025-03-11",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "qinghe_jingyuan_isabers_launch_20250311"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "SAB 82CWW系列 C2W和W2W键合技术 对准精度",
+      "excerpt": "C2W和W2W键合技术实现±30nm的对准精度和±100nm的键合精度，C2W单键合头UPH最高可达1000片/小时。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "30",
+      "reported_unit": "nanometre",
+      "review_notes": "Confirmed against isabersgroup_c2w_w2w.html (isaber-s.com product-launch release, 2025-03-11), sentence “高精度、高效率： C2W和W2W键合技术实现±30nm的对准精度和±100nm的键合精度…” read directly from the live HTML text (not the PDF checker, correctly flagged unavailable for this HTML source). ±30nm is a bound not a point — le/bounded_as_reported (as corrected at integration) is right, matching the atlas's existing ±-tolerance convention. Confirmed the earlier, separate sentence in the SAME release — “提供片间同轴和红外穿透两种对准方式，对准精度优于±300nm（同轴）和±100nm（红外）” — describes the two alignment-DETECTION methods' own precision, a different quantity, and is correctly NOT the sentence this row cites."
+    },
+    "claim_kind": "company_reported",
+    "precision": "bounded_as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "From the company's own official-site product-launch release (isaber-s.com, 2025-03-11) for the dual-mode SAB 82CWW hybrid bonder. '实现±30nm的对准精度' (achieves ±30nm alignment accuracy) mapped eq per the 达到/为 convention. The SAME release separately states two alignment-DETECTION-method precision figures earlier in the text — '±300nm（同轴）' and '±100nm（红外）' — which describe the coaxial and infrared alignment-sensing methods' own precision, not the tool's achieved bonding performance; those two figures are deliberately NOT registered under this metric to avoid conflating two differently-scoped 'precision' statements from one release (see platform notes). Independently corroborated as to product name, launch date and dual-mode description (not as to this specific number) by news.qq.com's parallel relay, qinghe_jingyuan_qq_relay_20250312. No company or product-line revenue is disclosed for Qinghe Jingyuan in any held source. CORRECTED AT INTEGRATION: the source states a ± tolerance (±30nm), which bounds the error magnitude rather than asserting a point value, so relation is le and precision bounded_as_reported. The original extraction recorded eq under the 达到/为 convention, but that convention is for a point figure; 实现±X is 'achieves within X'. The atlas's five pre-existing accuracy rows all read lt from a printed ＜, including one '＜±50nm' recorded as lt on the magnitude, so recording the magnitude with the comparator the source implies is the established treatment. These are the atlas's first rows from a bare ± spec with no comparator.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "qinghe_jingyuan_sab82cww_placement_accuracy",
+    "dataset_id": "qinghe_jingyuan_disclosures",
+    "source_id": "qinghe_jingyuan_isabers_launch_20250311",
+    "entity_id": "qinghe_jingyuan",
+    "category_id": "bonding",
+    "reporting_scope_id": "qinghe_jingyuan_sab82cww_platform",
+    "metric_id": "reported_bonding_placement_accuracy",
+    "platform_id": "qinghe_jingyuan_sab82cww",
+    "value": "100",
+    "relation": "le",
+    "unit": "nanometre",
+    "period": {
+      "start": "2025-03-11",
+      "end": "2025-03-11",
+      "kind": "interim",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "qinghe_jingyuan_isabers_launch_20250311"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "SAB 82CWW系列 C2W和W2W键合技术 键合精度",
+      "excerpt": "C2W和W2W键合技术实现±30nm的对准精度和±100nm的键合精度，C2W单键合头UPH最高可达1000片/小时。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "100",
+      "reported_unit": "nanometre",
+      "review_notes": "Confirmed against the same HTML and the same sentence, ±100nm的键合精度 clause — bound to 键合精度 (post-bond), not to the earlier, separate ±100nm（红外） detection-method figure in the same release. Verified directly in the live page text that the two ±100nm occurrences sit in two different sentences describing two different things, and this row cites the correct (second) one. le/bounded_as_reported is the right treatment of the bare ± spec."
+    },
+    "claim_kind": "company_reported",
+    "precision": "bounded_as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Same release and same sentence as qinghe_jingyuan_sab82cww_alignment_accuracy; '键合精度' (bonding/post-bond placement precision) ±100nm is the post-bond figure, distinct from the ±30nm pre-bond alignment figure recorded on the sibling observation. See that record's notes for the separate, unregistered alignment-detection-method figures from earlier in the same release. No company or product-line revenue is disclosed for Qinghe Jingyuan in any held source. CORRECTED AT INTEGRATION: the source states a ± tolerance (±100nm), which bounds the error magnitude rather than asserting a point value, so relation is le and precision bounded_as_reported. The original extraction recorded eq under the 达到/为 convention, but that convention is for a point figure; 实现±X is 'achieves within X'. The atlas's five pre-existing accuracy rows all read lt from a printed ＜, including one '＜±50nm' recorded as lt on the magnitude, so recording the magnitude with the comparator the source implies is the established treatment. These are the atlas's first rows from a bare ± spec with no comparator.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

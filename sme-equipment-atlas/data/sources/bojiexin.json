@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "bojiexin_homepage",
+    "dataset_id": "bojiexin_company_pages",
+    "title": "博捷芯 BJCORE 官网首页 (Bojiexin homepage)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "https://www.bojiexin.com/",
+    "sha256": "fc975382247833320ea66be6b99b923c93aff67279a894fe859f679572586dc2",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. Carries the company's own schema.org Organization markup (name 博捷芯（深圳）半导体有限公司, alternateName 博捷芯 BJCORE, foundingDate 2017, industry 半导体器件专用设备制造) and its precision-dicing-saw product list (BJX8160, BJX3666A/P, BJX6366, BJX3356, BJX3352, BJX3252), each described as driven by '金刚石砂轮划切刀具' (diamond abrasive-wheel dicing blade) -- confirms blade/wheel dicing, not laser."
+  },
+  {
+    "source_id": "bojiexin_about_page",
+    "dataset_id": "bojiexin_company_pages",
+    "title": "博捷芯 BJCORE 官网「关于博捷芯」页 (Bojiexin about page)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "https://www.bojiexin.com/list-7.html",
+    "sha256": "386a5a02b40180433472b6003e88e9e9587e8eab704ea3622e6fd1615b7ccc56",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. States the company's own business description ('专业从事半导体材料划片设备及配件耗材的研发、生产、销售') and that BJX3252/BJX3352/BJX3356/BJX6366/BJX3666 have each completed R&D and reached mass production ('已完成...研发与量产'), compatible with 6-12 inch material cutting."
+  },
+  {
+    "source_id": "bojiexin_news_blade_dicing_article",
+    "dataset_id": "bojiexin_company_pages",
+    "title": "博捷芯精密划片机：国产半导体晶圆切割机的领航者，刀轮切割技术的标杆企业 (Bojiexin company news article)",
+    "source_type": "company_product_page",
+    "publication_date": "2026-01-30",
+    "publication_date_precision": "day",
+    "url": "https://www.bojiexin.com/show-27-275.html",
+    "sha256": "889f5d29fb54725382307158af418bdac5c6e529646b4755b913fda75867ccde",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07; dated company news/press article on Bojiexin's own site. States the mechanism explicitly ('完全摒弃激光切割路线，专注于刀轮切割技术的深度研发' -- completely rejects the laser-cutting route, focuses on blade/wheel-cutting), ties the dicing-saw line to named advanced-packaging steps ('先进封装领域：在DFN/QFN封装、BGA封装、Fan-out封装等切割环节表现卓越'), and names SMIC/CXMT/BOE as customers with 2025 breakeven -- promotional company prose, not a structured/ranked disclosure, so customer and breakeven claims are kept qualitative only (entity notes), not registered as metric observations."
+  }
+]

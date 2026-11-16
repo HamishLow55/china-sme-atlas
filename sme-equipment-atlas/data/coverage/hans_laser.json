@@ -1,0 +1,123 @@
+[
+  {
+    "coverage_id": "hans_laser_2025_dicing_laser_named_families",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "dicing laser named families",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "p12 laser surface/full cutting and laser internal-modification cutting equipment; no model names",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_dicing_maturity",
+    "entity_id": "hans_laser",
+    "status": "reviewed_not_found",
+    "scope": "dicing maturity",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "reviewed_not_found after whole-file searches for 激光表切/全切/内部改质/晶圆切割 plus 量产/验证/销售/交付; p12 is product roster only",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_dicing_shipments_sales_installed_base",
+    "entity_id": "hans_laser",
+    "status": "reviewed_not_found",
+    "scope": "dicing shipments sales installed base",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "reviewed_not_found; no dicing-specific unit count, cumulative shipment or active installed-base disclosure",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_dicing_customer_orders",
+    "entity_id": "hans_laser",
+    "status": "reviewed_not_found",
+    "scope": "dicing customer orders",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "reviewed_not_found; p14 memory-site validation/reorders leave products unspecified and cannot be assigned to dicing",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_dicing_nodes_and_capacity",
+    "entity_id": "hans_laser",
+    "status": "reviewed_not_found",
+    "scope": "dicing nodes and capacity",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "reviewed_not_found; no wafer diameter, process node, accuracy, throughput or named product manufacturing capacity for dicing tools",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_hbm_direct_equipment_link",
+    "entity_id": "hans_laser",
+    "status": "reviewed_not_found",
+    "scope": "hbm direct equipment link",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "reviewed_not_found; HBM appears only in p34 industry market discussion, not an issuer dicing/debond tool application claim",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_laser_debond",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "laser debond",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "p14 names wafer-/panel-level laser debonding and cleaning series with unquantified domestic market-presence claim; no HBM application or units",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_bonding_test_tape",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "bonding test tape",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "p12 general wire-bonding, die-bonding and test-tape whole-tool roster; p14 H582/H58X identified in LED/display context, power-device model unnamed; no HBM qualification",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_display_pv_exclusion",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "display pv exclusion",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "p14 display laser drilling first accepted tool, 1亿元 per unit, AMOLED and oxide-display wins excluded from wafer/HBM; p12 PV module 无损划片机 excluded from semiconductor wafer dicing",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_company_subsidiary_perimeter",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "company subsidiary perimeter",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "p14 parent semi/pan-semi and 大族半导体 figures overlap; p14 大族封测 LED/power packaging, p15 大族富创得 automation kept separate",
+    "next_action": "Keep named tool families separate from broad business and unspecified memory-product claims. Reopen on a new original or specific source passage."
+  },
+  {
+    "coverage_id": "hans_laser_2025_bounded_key_financials",
+    "entity_id": "hans_laser",
+    "status": "reviewed_found",
+    "scope": "FY2025 annual-vintage selected headline financials, semiconductor business revenue, R&D and active workforce",
+    "reviewed_source_ids": [
+      "hans_laser_annual_2025"
+    ],
+    "notes": "Original pp6,14,24,67: 29 source cells, including FY2023/FY2024 headline comparatives. Source-defined semiconductor baskets overlap and are not dicing/HBM revenue. Printed ratio changes retained without pp interpretation.",
+    "next_action": "Bounded annual baseline complete; prioritize uncovered HBM equipment families rather than additional financial depth."
+  }
+]

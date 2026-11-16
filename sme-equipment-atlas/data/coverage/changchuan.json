@@ -1,0 +1,360 @@
+[
+  {
+    "coverage_id": "changchuan-held-financial-corpus-metadata",
+    "entity_id": "changchuan",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2024 annual, FY2025 annual and H1 2026",
+    "status": "not_searched",
+    "scope": "Three newly acquired official CNINFO full reports; metadata and document identity review only. Financial, operating, R&D and product disclosures have not yet been extracted.",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024",
+      "changchuan_annual_2025",
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original covers, legal issuer/ticker, official-source provenance, SHA-256 and physical page counts independently checked. Extraction has not started; source registration is not numerical or product-evidence coverage.",
+    "next_action": "Operational topics now dispositioned in the source-specific records below; numerical and model-level integrations follow independent review. Original metadata record retains its historical scope."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_wafer_probers_CP12_Memory",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "wafer probers CP12 Memory",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_specific_model_and_client_certification_small_promotion. Relevant evidence pages 34, 35, 36. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_wafer_probers_CP12_Memory",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "wafer probers CP12 Memory",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: project_concluded_but_model_stage_unresolved. Relevant evidence pages 81, 83. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_wafer_probers_CP12_Memory",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "wafer probers CP12 Memory",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found_specific_CP12_Memory_update. Relevant evidence pages see named original product/operating sections and whole-text term review. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_test_handlers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "test handlers",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_model_roster_and_EXIS_ownership. Relevant evidence pages see named original product/operating sections and whole-text term review. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_test_handlers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "test handlers",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_model_roster_and_EXIS_ownership. Relevant evidence pages 10, 11, 12. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_test_handlers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "test handlers",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_model_roster_and_R_and_D_stage_updates. Relevant evidence pages 29. Distinct product and source-vintage claims retained; quantitative and platform candidates need separate final review.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_memory_ATE",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "memory ATE",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. D9000 is digital SoC tester; no explicit DRAM/HBM or memory ATE whole-machine claim in any of three originals. The H1 product list expressly omits undisclosed high-end products; absence is bounded, not proof of nonexistence.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_memory_ATE",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "memory ATE",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages 11. D9000 is digital SoC tester; no explicit DRAM/HBM or memory ATE whole-machine claim in any of three originals. The H1 product list expressly omits undisclosed high-end products; absence is bounded, not proof of nonexistence.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_memory_ATE",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "memory ATE",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: disclosure_limit_plus_reviewed_not_found_in_disclosed_roster. Relevant evidence pages 13. D9000 is digital SoC tester; no explicit DRAM/HBM or memory ATE whole-machine claim in any of three originals. The H1 product list expressly omits undisclosed high-end products; absence is bounded, not proof of nonexistence.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_adjacent_whole_equipment_inspection_and_metrology",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "adjacent whole equipment inspection and metrology",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_HEXA_ifocus_NanoX6000_roster. Relevant evidence pages see named original product/operating sections and whole-text term review. NanoX-6000 covers source-listed dimensional/overlay/pillar measures; HEXA/ifocus are optical inspection; NanoX-8000 is PCB substrate profiler. Adjacent whole machines are not memory ATE or HBM-qualified. Parent/STI technology-origin attribution unresolved.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_adjacent_whole_equipment_inspection_and_metrology",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "adjacent whole equipment inspection and metrology",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_HEXA_ifocus_NanoX6000_roster. Relevant evidence pages see named original product/operating sections and whole-text term review. NanoX-6000 covers source-listed dimensional/overlay/pillar measures; HEXA/ifocus are optical inspection; NanoX-8000 is PCB substrate profiler. Adjacent whole machines are not memory ATE or HBM-qualified. Parent/STI technology-origin attribution unresolved.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_adjacent_whole_equipment_inspection_and_metrology",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "adjacent whole equipment inspection and metrology",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_same_named_roster. Relevant evidence pages 12, 13. NanoX-6000 covers source-listed dimensional/overlay/pillar measures; HEXA/ifocus are optical inspection; NanoX-8000 is PCB substrate profiler. Adjacent whole machines are not memory ATE or HBM-qualified. Parent/STI technology-origin attribution unresolved.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_product_quantities",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "product quantities",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_all_industry_basket_only. Relevant evidence pages 21. 2024/2025 units cover all 集成电路电子工业专用设备, not CP12/handler/memory-specific.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_product_quantities",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "product quantities",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_all_industry_basket_only. Relevant evidence pages 21. 2024/2025 units cover all 集成电路电子工业专用设备, not CP12/handler/memory-specific.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_product_quantities",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "product quantities",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found_physical_units. Relevant evidence pages see named original product/operating sections and whole-text term review. 2024/2025 units cover all 集成电路电子工业专用设备, not CP12/handler/memory-specific.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_cumulative_installed_base",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "cumulative installed base",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. Named source set all three registered originals searched for 装机、累计出货、累计交付、累计销售、保有量 and related sales/unit tables. 装机服务报告 on accounting pages is an installation service/acceptance document, not cumulative installed systems.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_cumulative_installed_base",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "cumulative installed base",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages 146. Named source set all three registered originals searched for 装机、累计出货、累计交付、累计销售、保有量 and related sales/unit tables. 装机服务报告 on accounting pages is an installation service/acceptance document, not cumulative installed systems.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_cumulative_installed_base",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "cumulative installed base",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. Named source set all three registered originals searched for 装机、累计出货、累计交付、累计销售、保有量 and related sales/unit tables. 装机服务报告 on accounting pages is an installation service/acceptance document, not cumulative installed systems.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_capacity",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_utilization_not_rated_capacity. Relevant evidence pages see named original product/operating sections and whole-text term review. No systems/year product-level nameplate capacity for CP12-Memory, handlers or memory ATE.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_capacity",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_capacity_project_completion_not_model_capacity. Relevant evidence pages 83. No systems/year product-level nameplate capacity for CP12-Memory, handlers or memory ATE.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_capacity",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "capacity",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_industry_utilization_only. Relevant evidence pages 20. No systems/year product-level nameplate capacity for CP12-Memory, handlers or memory ATE.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_orders_and_customers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "orders and customers",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_parent_and_STI_customers_only. Relevant evidence pages see named original product/operating sections and whole-text term review. Named parent and acquired-STI customers not tied to CP12-Memory, specific handler model, memory ATE or HBM procurement. No model-specific order quantity/backlog.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_orders_and_customers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "orders and customers",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_parent_and_STI_customers_only. Relevant evidence pages 10, 18. Named parent and acquired-STI customers not tied to CP12-Memory, specific handler model, memory ATE or HBM procurement. No model-specific order quantity/backlog.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_orders_and_customers",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "orders and customers",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found_broad_parent_and_STI_customers_only. Relevant evidence pages see named original product/operating sections and whole-text term review. Named parent and acquired-STI customers not tied to CP12-Memory, specific handler model, memory ATE or HBM procurement. No model-specific order quantity/backlog.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_nodes_and_HBM_qualification",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "nodes and HBM qualification",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. No semiconductor process-node or HBM-qualified CP12/handler/ATE statement; GPU/AI and named Micron as STI customer do not establish HBM.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_nodes_and_HBM_qualification",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "nodes and HBM qualification",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. No semiconductor process-node or HBM-qualified CP12/handler/ATE statement; GPU/AI and named Micron as STI customer do not establish HBM.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_nodes_and_HBM_qualification",
+    "entity_id": "changchuan",
+    "status": "reviewed_not_found",
+    "scope": "nodes and HBM qualification",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: reviewed_not_found. Relevant evidence pages see named original product/operating sections and whole-text term review. No semiconductor process-node or HBM-qualified CP12/handler/ATE statement; GPU/AI and named Micron as STI customer do not establish HBM.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2024_operational_foreign_acquired_technology_origin",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "foreign acquired technology origin",
+    "reviewed_source_ids": [
+      "changchuan_annual_2024"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found. Relevant evidence pages see named original product/operating sections and whole-text term review. STI acquired in 2019 and Malaysian EXIS in 2023; ownership is separate from technology origin.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_annual_2025_operational_foreign_acquired_technology_origin",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "foreign acquired technology origin",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found. Relevant evidence pages 10, 12. STI acquired in 2019 and Malaysian EXIS in 2023; ownership is separate from technology origin.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_h1_2026_operational_foreign_acquired_technology_origin",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "foreign acquired technology origin",
+    "reviewed_source_ids": [
+      "changchuan_h1_2026"
+    ],
+    "notes": "Original sweep independently reviewed. Disposition: found. Relevant evidence pages see named original product/operating sections and whole-text term review. STI acquired in 2019 and Malaysian EXIS in 2023; ownership is separate from technology origin.",
+    "next_action": "Integrate original-verified models/quantities without projecting group or sibling claims onto individual tools; reopen absence only for a located passage or new source."
+  },
+  {
+    "coverage_id": "changchuan_recent_key_financials",
+    "entity_id": "changchuan",
+    "status": "reviewed_found",
+    "scope": "FY2025 annual headline FY2023–2025 keys, FY2024–FY2025 sibling product financials; H1 2026 current/comparative headline keys and current product financials; current reported R&D.",
+    "reviewed_source_ids": [
+      "changchuan_annual_2025",
+      "changchuan_h1_2026"
+    ],
+    "notes": "67 original-verified numerical observations. FY2025 pp7,19–21 and H1 2026 pp8,20. Seven margin-change cells held for unit interpretation; repeated presentations aliased. Product baskets do not establish HBM exposure.",
+    "next_action": "Bounded recent financial baseline complete; prioritize remaining HBM equipment gaps over additional financial detail."
+  }
+]

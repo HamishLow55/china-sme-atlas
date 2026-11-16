@@ -1,0 +1,48 @@
+[
+  {
+    "platform_id": "angstrom_e_fusionview",
+    "entity_id": "angstrom_e",
+    "category_id": "metrology_overlay",
+    "record_kind": "source_native_family",
+    "name": "Angstrom InspecX® FusionView系列 (光学键合缺陷检测产品)",
+    "aliases": [
+      "FusionView"
+    ],
+    "evidence": {
+      "claim_id": "ANGSTROME-FUSIONVIEW-IDENTITY",
+      "source_id": "angstrom_e_product_fusionview",
+      "page": 1,
+      "excerpt": "光学键合缺陷检测产品Ångstrom InspecX® FusionView系列 ● 支持晶圆键合工艺中气泡等缺陷检测 ● 具备高速探测与高分辨率能力，实现键合缺陷精准识别 ● 支持晶圆键合套刻（Overlay）量测",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "catalogued_product_capability; commercial_stage_not_stated",
+    "maturity_as_reported_in": "angstrom_e_product_fusionview",
+    "notes": "Product page states capability only (bonding-defect/bubble detection plus wafer-bonding overlay metrology); no shipment, customer, qualification or revenue status is given anywhere on the company's site for this specific series. Filed at category_id=metrology_overlay on the issuer's own third bullet, '支持晶圆键合套刻（Overlay）量测', which uses 量测 (metrology) rather than 检测 (inspection) and matches this node's definition — registration error between two patterned layers, including layers created by wafer bonding — and its scope note, which admits bonding overlay alongside lithographic overlay. The same tool's optical bond-void/bubble detection function is a second function this record does NOT category-tag, because a platform carries exactly one category_id and the atlas has no precedent for registering one physical tool twice. The nearest existing nodes for that second function are inspection_macro (macro and packaging OPTICAL inspection) and inspection_acoustic (bond-interface and void inspection, but by ultrasound, so the wrong modality for an optical tool). An earlier version of this note claimed that function had 'no dedicated node in the current taxonomy', which was false and is corrected here: it has candidate nodes, and the choice of metrology_overlay rests on the issuer's own 量测 wording, not on their absence. No financial figures exist for Angstrom-e (unlisted, files nothing -- see entity notes), so this platform carries no revenue. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against angstrom_e_product_fusionview_3894.html (product page, page 1): '光学键合缺陷检测产品Angstrom InspecX(R) FusionView系列 ... 支持晶圆键合套刻（Overlay）量测'. category_id=metrology_overlay is justified by the issuer's own 量测 (metrology) wording on the overlay bullet specifically, matching metrology_overlay's definition ('measuring the registration error between two patterned layers ... created by wafer bonding') almost verbatim; confirmed against data/categories.json. The optical bond-void/bubble-detection function (first two bullets, 检测/识别 wording) is correctly left untagged in notes rather than forcing a second category_id, consistent with the one-category-per-platform rule. Verified via grep over data/categories.json that the rewritten note's claim -- that inspection_xray, inspection_acoustic and inspection_macro all exist -- is accurate (all three present with matching definitions). Alias 'FusionView' confirmed verbatim on the same page. No shipment/maturity overclaim; reported_maturity correctly states capability-only with no commercial stage."
+  },
+  {
+    "platform_id": "angstrom_e_xrayview",
+    "entity_id": "angstrom_e",
+    "category_id": "inspection_xray",
+    "record_kind": "source_native_family",
+    "name": "Angstrom InspecX® XRayView系列 (X射线2D/3D缺陷检测产品)",
+    "aliases": [
+      "XRayView"
+    ],
+    "evidence": {
+      "claim_id": "ANGSTROME-XRAYVIEW-IDENTITY",
+      "source_id": "angstrom_e_product_xrayview",
+      "page": 1,
+      "excerpt": "X射线2D/3D缺陷检测产品Ångstrom InspecX® XRayView系列 ● 采用高分辨率 X 射线成像技术，支持 2D/2.5D/3D 多模式成像 ● 面向晶圆级先进封装，支持 TSV Cu 填充及 Bump 内金属填充孔隙等缺陷检测 ● 支持无损式缺陷检测与关键尺寸精准测量",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "catalogued_product_capability; commercial_stage_not_stated",
+    "maturity_as_reported_in": "angstrom_e_product_xrayview",
+    "notes": "Direct, explicit, first-party match to the atlas's metrology_tsv_void node definition (TSV copper-fill void metrology, non-destructive): the issuer's own wording names 'TSV Cu 填充...缺陷检测' and 无损式 verbatim, and the node's definition and the bullet agree down to the non-destructive qualifier. The same bullet also covers 'Bump内金属填充孔隙' (bump internal metal-fill voids), a related but distinct application this record does NOT category-tag, because a platform carries exactly one category_id. An earlier version of this note claimed that second application had 'no dedicated node in the current taxonomy', which was false and is corrected here: inspection_xray exists and is defined as X-ray and CT inspection imaging subsurface structure in packages, solder joints and assemblies non-destructively, which would cover this tool's whole product family by modality, and metrology_topography covers bump dimensions though not bump internal voids. metrology_tsv_void is preferred as the most specific node whose definition the issuer's own words match verbatim, and because it is the most HBM-relevant node in the taxonomy; a reviewer who thinks the modality node is the better home should say so. No shipment, customer, qualification or revenue status is given anywhere on the company's site for this series; no financial figures exist for Angstrom-e at all (unlisted, files nothing -- see entity notes). W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Identity, page and excerpt confirmed verbatim against angstrom_e_product_xrayview_3897.html: 'X射线2D/3D缺陷检测产品...面向晶圆级先进封装，支持 TSV Cu 填充及 Bump 内金属填充孔隙等缺陷检测...支持无损式缺陷检测'. Rewritten note's taxonomy claim verified true via grep over data/categories.json: inspection_xray, inspection_acoustic and inspection_macro all exist, as does metrology_topography; the earlier 'no dedicated node' framing was correctly identified as false and corrected. My independent verdict on the invited category_id question: inspection_xray is the better home, not metrology_tsv_void. Reasoning: the single cited bullet names TWO applications (TSV Cu-fill voids AND bump internal-metal-fill voids) with EQUAL weight and uses 检测 (detection) wording for both, never 量测 (measurement) for either -- unlike FusionView's overlay bullet, which earns metrology_overlay specifically because it uses 量测. metrology_tsv_void's own definition is narrower and privileges the TSV application over the bump application the same bullet names with equal prominence; inspection_xray's definition ('X-ray and CT inspection, imaging subsurface structure in packages, solder joints and assemblies non-destructively') covers both named defect types by modality without picking a winner. This is the same principle the batch itself applies to jsg_sic_implanter, where a row naming two child-level classifications (中束流 and 高能) is filed at the implant PARENT rather than either child, 'because choosing either would assert a classification the source does not make.' The integrator's counter-case (specificity + HBM relevance) is real but is an editorial preference, not something the source text supports more than the alternative. Correcting category_id to inspection_xray; the record's substance (identity, maturity, aliases) is otherwise accept-worthy."
+  }
+]

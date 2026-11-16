@@ -1,0 +1,29 @@
+[
+  {
+    "claim_id": "quick_h126_eutectic_orders_native_chinese_bound",
+    "claim": "High-speed eutectic-bonder H1 order threshold as a numeric observation",
+    "source_id": "quick_h1_2026",
+    "pages_reviewed": [
+      13
+    ],
+    "reason": "Verified source says 上半年订单突破亿元 and 上半年订单金额破亿. Preserve this lower-bound order claim in the platform evidence. Current numeric-evidence grammar does not support this Chinese-number expression; do not append Arabic digits to the excerpt or substitute revenue, backlog, TCB or HBM scope."
+  },
+  {
+    "claim_id": "quick_h126_rd_expense_growth",
+    "claim": "Source-printed R&D expense year-on-year change",
+    "source_id": "quick_h1_2026",
+    "pages_reviewed": [
+      15
+    ],
+    "reason": "Native candidate quick_h1_2026_native_012 retains the printed change. Existing rd_investment_year_on_year_growth and rd_investment_expensed_year_on_year_growth describe R&D-investment-table perimeters, not income-statement expense; held rather than mislabeled. Expense levels integrated; no new metric minted."
+  },
+  {
+    "claim_id": "quick_h126_product_financial_disclosure_limit",
+    "claim": "Semiconductor-packaging product revenue, cost or gross margin",
+    "source_id": "quick_h1_2026",
+    "pages_reviewed": [
+      129
+    ],
+    "reason": "Consolidated note 61 explicitly marks revenue/cost decomposition not applicable. It only reports main/other totals. Company amounts cannot be allocated to TCB, eutectic bonding or HBM. Standalone-parent note p166 is not group product revenue."
+  }
+]

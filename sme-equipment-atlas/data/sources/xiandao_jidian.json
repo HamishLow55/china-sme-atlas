@@ -1,0 +1,70 @@
+[
+  {
+    "source_id": "wanye_2023",
+    "dataset_id": "xiandao_jidian_annual_disclosures",
+    "title": "上海万业企业股份有限公司2023年年度报告",
+    "publication_date": "2024-04-27",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202404261631431669_1.pdf",
+    "sha256": "d932d45acc1994e559e9f6436b2120eca20789298faeced8543400464c814156",
+    "source_type": "company_annual_report",
+    "original_document_id": "wanye_2023",
+    "notes": "Local original; evidence page numbers are physical PDF pages.",
+    "page_count": 175,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "xiandao_jidian_2025",
+    "dataset_id": "xiandao_jidian_annual_disclosures",
+    "title": "上海先导基电科技股份有限公司2025年年度报告",
+    "publication_date": "2026-04-10",
+    "publication_date_precision": "day",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604091821101932_1.pdf",
+    "sha256": "9d36f5bf910b3f478382653bbc3773caf02baeb93eb611c771f32a45e0468193",
+    "source_type": "company_annual_report",
+    "original_document_id": "xiandao_jidian_2025",
+    "notes": "Local original; evidence page numbers are physical PDF pages.",
+    "page_count": 217,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "wanye_2024",
+    "dataset_id": "xiandao_jidian_annual_disclosures",
+    "title": "上海万业企业股份有限公司2024年年度报告",
+    "publication_date": "2025-04-26",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2025-04-26/1223325940.PDF",
+    "sha256": "199bceb2335ce1206905f025d28c764eef0ad234aa6c4c9cddfd3f7090533c92",
+    "source_type": "company_annual_report",
+    "original_document_id": "wanye_2024",
+    "page_count": 200,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "xiandao_jidian_h1_2026",
+    "dataset_id": "xiandao_jidian_interim_disclosures",
+    "title": "上海先导基电科技股份有限公司2026年半年度报告",
+    "publication_date": "2026-08-01",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-01/1225452109.PDF",
+    "sha256": "f0bb86058f22e95fe3dd7fa7af67a4d6e8f556c07d70bd6e0f04ece4c408e0e4",
+    "source_type": "company_interim_report",
+    "original_document_id": "xiandao_jidian_h1_2026",
+    "page_count": 202,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "xiandao_jidian_q3_2026",
+    "dataset_id": "xiandao_jidian_interim_disclosures",
+    "title": "xiandao_jidian Q3 2026 report: 上海先导基电科技股份有限公司2026年第三季度报告",
+    "publication_date": "2026-10-30",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-30/1225643176.PDF",
+    "sha256": "40eca760d289c15678fcf5aa1fd1b172592e6509ab4ede98883df1194cfb1c9c",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "xiandao_jidian_q3_2026",
+    "page_count": 13,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

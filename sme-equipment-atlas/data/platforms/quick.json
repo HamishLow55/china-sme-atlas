@@ -1,0 +1,88 @@
+[
+  {
+    "platform_id": "quick_advanced_packaging_tcb_bonder",
+    "entity_id": "quick",
+    "category_id": "bonding_tcb",
+    "record_kind": "source_native_family",
+    "name": "先进封装 TCB 热压键合设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "QUICK-FY2025-P16-TCB-IDENTITY",
+      "source_id": "quick_annual_2025",
+      "page": 16,
+      "excerpt": "先进封装设备领域，公司围绕先进封装 TCB 热压键合设备持续开展技术攻关，包括高精度对位系统、超薄芯片顶针机构、高精度 BondHead、分区域共面性调整算法、Flux-less 键合、高速脉冲加热器以及超大尺寸脉冲加热器等技术，设备可适配 HBM 堆叠、CoWoS 封装、CPO 光电共封等前沿场景。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_sample_validation_in_progress",
+    "maturity_as_reported_in": "quick_h1_2026",
+    "notes": "Whole advanced-packaging TCB tool family. Issuer reports a completed prototype and sample validation with several unnamed customers, not commercial shipment or HBM customer qualification. Generic semiconductor die-bonding mass production and 106 basket sales do not establish TCB sales. No model identifier is given.",
+    "maturity_history": [
+      {
+        "claim_id": "QUICK-FY2025-P16-TCB-STAGE",
+        "source_id": "quick_annual_2025",
+        "page": 16,
+        "excerpt": "目前，该设备已完成样机开发并与多家客户推进打样验证工作。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "prototype_completed_customer_sample_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 annual report context. Several customers are unnamed; sample validation is in progress. No event date inferred."
+      },
+      {
+        "claim_id": "QUICK-H12026-P13-TCB-STAGE",
+        "source_id": "quick_h1_2026",
+        "page": 13,
+        "excerpt": "先进封装设备技术攻关有序开展。TCB 热压键合设备聚焦 AI 芯片先进封装核心工艺，面向 HBM 3D 堆叠、CoWoS（晶圆级）/CoPoS（面板级）2.5D 封装以及 CPO 光电共封装等前沿应用，致 力于提供高精度、高可靠性的先进键合解决方案。设备已攻克高精度对位、精准温控、精密压力 控制及 Plasma 无助焊剂键合等核心关键技术，针对 AI 芯片先进封装过程中微米级间距凸点互联、 大尺寸芯片翘曲控制、超薄芯片无损伤处理等行业难题形成了系统化解决方案。公司与多家客户 持续开展打样验证工作。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_sample_validation_in_progress",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 report context: continued sample validation with multiple unnamed customers; no inferred event date or production acceptance. Physical p14 identifies the wholly owned 快克芯装备 development portfolio."
+      }
+    ]
+  },
+  {
+    "platform_id": "quick_high_speed_eutectic_bonder",
+    "entity_id": "quick",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "高速共晶机",
+    "aliases": [],
+    "evidence": {
+      "source_id": "quick_h1_2026",
+      "page": 13,
+      "excerpt": "高速共晶机上半年订单突破亿元，头部车载功率芯片客户批量复购。报告期内，公司自主研 发的高速共晶机凭借优异的速度和稳定性，在分立器件芯片封装市场获得重大突破，上半年订单 金额破亿，并实现大批量复购和出货。该设备共晶效率、贴装精度等核心指标达到国际领先水平， 有效满足客户大规模量产需求，标志着公司半导体共晶封装设备已具备与国际厂商同台竞争的实 力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24",
+      "claim_id": "QUICK-H12026-P13-EUTECTIC-IDENTITY"
+    },
+    "reported_maturity": "bulk_repeat_orders_and_shipments",
+    "maturity_as_reported_in": "quick_h1_2026",
+    "notes": "Distinct from TCB: H1 orders >RMB100m and bulk repeat purchases/shipments for discrete-device chip packaging including automotive power-chip customers. No HBM qualification, installation count, exact shipment count or named model. Generic bonding category, no eutectic subtype in current taxonomy.",
+    "maturity_history": [
+      {
+        "source_id": "quick_h1_2026",
+        "page": 13,
+        "excerpt": "高速共晶机上半年订单突破亿元，头部车载功率芯片客户批量复购。报告期内，公司自主研 发的高速共晶机凭借优异的速度和稳定性，在分立器件芯片封装市场获得重大突破，上半年订单 金额破亿，并实现大批量复购和出货。该设备共晶效率、贴装精度等核心指标达到国际领先水平， 有效满足客户大规模量产需求，标志着公司半导体共晶封装设备已具备与国际厂商同台竞争的实 力。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "bulk_repeat_orders_and_shipments",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 report context. Exact physical units and installation status undisclosed.",
+        "claim_id": "QUICK-H12026-P13-EUTECTIC-STAGE"
+      }
+    ]
+  }
+]

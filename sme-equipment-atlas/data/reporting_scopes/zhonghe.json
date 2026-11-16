@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "zhonghe_company_basket",
+    "category_id": "multi_equipment",
+    "label": "FY2023-FY2024 Zhonghe company revenue (equipment-and-molds basket)",
+    "definition": "Zhonghe's whole-company '营业收入' for FY2023 and FY2024, from Sanjia's own acquisition announcement disclosing the target's audited financial data (sanjia_zhonghe_acquisition_2025, physical p9; header row on p8). Zhonghe, per the same announcement (p8), 'mainly sells semiconductor packaging equipment (automatic transfer-molding machines, automatic trim-and-form machines) and supporting molds' (标的公司主营半导体封装设备（自动塑封机、自动切筋机）及配套模具) -- unlike Naike/Sanjia, it has no disclosed non-equipment business, but its total revenue is not split between transfer-molding equipment, trim-and-form equipment and mold tooling. Filed at multi_equipment, composition stated here, never allocated to molding or any molding child."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "entity_id": "yadian",
+    "name": "Jiangsu Asia Electronics Technology",
+    "aliases": [
+      "江苏亚电科技股份有限公司",
+      "亚电科技",
+      "亚电有限",
+      "Jiangsu Asia Electronics Technology Co., Ltd.",
+      "Jiangsu Yadian Technology Co., Ltd."
+    ],
+    "notes": "Applicant for a first-time public offering on the SSE STAR Market; not yet listed at the date of this filing draft, so it has no stock code. Business scope as the filing states it (p23, p110): R&D, manufacture and sale of WET CLEANING equipment for silicon-based semiconductor, compound-semiconductor and photovoltaic applications, used in the wet cleaning step of front-end wafer manufacturing. It makes BOTH batch/bath (槽式) and single-wafer (单片式) cleaners: the issuer states batch cleaners serve 40 nm and above and single-wafer cleaners below 40 nm, that its process coverage satisfies all wet processes for batch tools and for single-wafer tools at 28 nm and above, and that it has only an R&D footprint at 14 nm. It does NOT make etch, deposition, lithography or test equipment. A material and growing part of its revenue is photovoltaic cell wet-process equipment, which is not semiconductor equipment.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Jiangsu Yadian Technology Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

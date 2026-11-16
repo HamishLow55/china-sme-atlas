@@ -1,0 +1,26 @@
+[
+  {
+    "entity_id": "bojiexin",
+    "name": "Bojiexin",
+    "parent_entity_id": "bojay",
+    "aliases": [
+      "博捷芯（深圳）半导体有限公司",
+      "博捷芯",
+      "深圳博捷芯公司",
+      "Bojiexin",
+      "BJCORE (SHENZHEN) SEMICONDUCTOR CO., LTD",
+      "BJCORE"
+    ],
+    "evidence": {
+      "source_id": "bojay_fy2025_annual_report",
+      "page": 6,
+      "excerpt": "博捷芯、深圳博捷芯公司      指   博捷芯（深圳）半导体有限公司，本公司控股子公司",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": "",
+      "independent_corroboration": false
+    },
+    "notes": "Identity resolved from the romanisation 'Bojiexin' named in the analysis-layer hbm_tool_stack.csv singulation row. Legal Chinese name 博捷芯（深圳）半导体有限公司 confirmed by Bojay's (002975) own FY2025 annual-report glossary (p6, quoted in evidence) and by the entity-composition table (p225): registered capital 4,081,898.80元, Bojay's direct stake 56.00%, acquired via 非同一控制下企业合并 (a business combination not under common control, i.e. bought in, not founded) -- so unlisted, consolidated, majority-owned subsidiary, analogous to the existing Sizone-under-AMEC/KINGSEMI-under-NAURA parent links, not an equity-method associate like SMEE. 44.00% of Bojiexin is minority-held (p226: 本期归属于少数股东的损益 3,668,502.28元, 期末少数股东权益余额 15,362,734.73元). English name 'BJCORE' and alternate name '博捷芯 BJCORE' are confirmed only by Bojiexin's OWN website (bojiexin_homepage, schema.org Organization markup: name 博捷芯（深圳）半导体有限公司, alternateName 博捷芯 BJCORE, foundingDate 2017, industry 半导体器件专用设备制造), not by any filing this atlas holds -- flagged here as company-self-published rather than filing-sourced, per the alias-evidence convention used for SMEE's unevidenced-alias note.\n\nMAIN BUSINESS, in Bojiexin's own words (bojiexin_about_page): '博捷芯（深圳）半导体有限公司，是一家专业从事半导体材料划片设备及配件耗材的研发、生产、销售于一体的高新技术企业' -- a dicing-EQUIPMENT and accessories/consumables (配件耗材, e.g. dicing blades, listed separately in its own product nav as 配件耗材/划片刀) maker; equipment and consumables are not separated in Bojay's subsidiary-level revenue disclosure, so the registered revenue/net-profit figures below are filed at category_id=all_businesses (Bojiexin's own company total), not allocated to the dicing category, following the same convention used for SMEE's shareholder-disclosed company revenue. Mechanism is explicitly BLADE/wheel dicing, not laser: Bojiexin's own news article (bojiexin_news_blade_dicing_article, dated 2026-01-30) states '完全摒弃激光切割路线，专注于刀轮切割技术的深度研发' (completely rejects the laser-cutting route, focuses on blade/wheel-cutting technology) -- this resolves the hbm_tool_stack.csv's blade/laser/plasma uncertainty to BLADE only. The same article names SMIC (中芯国际), CXMT (长鑫存储) and BOE (京东方) as customers and says the dicing business reached breakeven with fast growth in 2025 -- promotional-page prose, not a ranked/structured customer-concentration disclosure, so NOT registered as a counterparty observation; kept here as qualitative context only. Bojiexin's own site also lists a '晶圆减薄机' (wafer thinning machine) product category, a SEPARATE, UNEXPLORED product line (thinning, not dicing) -- noted as a discovery lead for a future pass, not pursued or registered here.",
+    "entity_class": "china_supply_base"
+  }
+]

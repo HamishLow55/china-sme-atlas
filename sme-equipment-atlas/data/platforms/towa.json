@@ -1,0 +1,38 @@
+[
+  {
+    "platform_id": "towa_cpm1080",
+    "entity_id": "towa",
+    "category_id": "molding_compression",
+    "record_kind": "named_model",
+    "name": "CPM1080",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "TOWA-FY23ASR-P26-CPM1080",
+      "source_id": "towa_fy2023_asr_excerpt_eng",
+      "page": 26,
+      "excerpt": "Under these circumstances, our group experienced significant expansion in demand for our original compression equipment, the \"CPM1080\", particularly in the field of generative AI, both order and sales of compression equipment and molds during current consolidated fiscal year reached record highs for the full fiscal year.",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "reported_record_orders_and_sales",
+    "maturity_as_reported_in": "towa_fy2023_asr_excerpt_eng",
+    "notes": "TOWA's own named compression-molding platform ('our original compression equipment, the \"CPM1080\"'), the only named model found anywhere in the five filings read for this packet. The maturity label is the source's own claim and not a stage inference: TOWA says order and sales of compression equipment and molds 'reached record highs for the full fiscal year' in the 46th term (year ended March 2024), which establishes that the tool sells in volume but is not TOWA using the atlas's lab/trial/production vocabulary, which it never uses. An earlier draft of this record read mass_production; that was an inference and has been replaced. The name CPM1080 does NOT appear in the FY2024 or FY2025 Annual Securities Reports or either Kessan Tanshin (all four full-text searched for 'CPM'); those later filings keep discussing an unnamed 'compression equipment' line with its own margin dynamics -- the FY2025 ASR attributes a profit decline partly to 'temporary additional costs associated with initial deliveries of compression equipment' (p27) -- but never re-use the name. This record does not assume that later passage refers to CPM1080: it could equally be a newer tool or a first qualification unit at a new customer. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Confirmed against towa_fy2023_asr_excerpt_eng p.26: the quoted sentence names \"our original compression equipment, the \\\"CPM1080\\\"\" verbatim, and full-text search of all five TOWA filings held (FY2023 excerpt, FY2024 ASR, FY2024 kessan, FY2025 ASR, FY2025 kessan) confirms CPM1080 appears exactly once, unhyphenated, only in the FY2023 excerpt. Category molding_compression and the conservative reported_maturity (quoting 'reached record highs' rather than upgrading to mass_production) are both correct and consistent with the category's own scope_note on compression being the newer, not-yet-established line for comparator issuers. DEFECT: the alias \"CPM-1080\" (hyphenated) occurs in no held source -- grepped all five TOWA filings (both pdftotext -layout and default rendering) and the string never appears hyphenated, only as \"CPM1080\". This is the exact failure mode the protocol flags under aliases: an alias needs a page like a value does, and this one has none. Not declared as unevidenced anywhere in the record.",
+    "maturity_history": [
+      {
+        "claim_id": "TOWA-FY23ASR-P26-CPM1080",
+        "source_id": "towa_fy2023_asr_excerpt_eng",
+        "page": 26,
+        "excerpt": "Under these circumstances, our group experienced significant expansion in demand for our original compression equipment, the \"CPM1080\", particularly in the field of generative AI, both order and sales of compression equipment and molds during current consolidated fiscal year reached record highs for the full fiscal year.",
+        "as_of": "2024-03-31",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "order and sales of compression equipment and molds...reached record highs for the full fiscal year",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "46th term (FY ended March 31, 2024) Annual Securities Report excerpt, Operating Results and Analysis narrative. Record order and sales volumes for the named platform in that fiscal year; no unit count or yen value is attached specifically to CPM1080 (the segment-level revenue figures registered separately in this packet cover the whole SME segment, not this platform alone)."
+      }
+    ]
+  }
+]

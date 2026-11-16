@@ -1,0 +1,46 @@
+[
+  {
+    "observation_id": "H2024-CMP500",
+    "dataset_id": "hwatsing_disclosures",
+    "source_id": "hwatsing_cmp_500",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "hwatsing_cmp_12inch",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "value": "500",
+    "relation": "ge",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2024-07-15",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "第 500 台",
+      "excerpt": "近日，华海清科股份有限公司（以下简称“公司”）第 500 台 12 英寸化学机械抛光（CMP）装备出机，交付国内某先进集成电路制造商。",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21",
+      "independent_corroboration": false,
+      "reported_value": "500",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Ordinal shipment milestone reached recently by announcement date, not exact shipment-day or closing total; explicitly 12-inch only. Independently checked against local original; supplier claim remains uncorroborated."
+  }
+]

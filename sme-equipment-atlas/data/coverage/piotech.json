@@ -1,0 +1,214 @@
+[
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-product_definitions",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for product_definitions. 0 source-checked canonical observations, 0 exact same-claim aliases, 3 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain integrated named families and source-vintage histories; preserve Peione/Pleione printed-spelling uncertainty and generic family overlap."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-shipments_installations",
+    "entity_id": "piotech",
+    "status": "unresolved",
+    "scope": "Cumulative shipments and installations, preserving equipment units across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for shipments_installations. 23 source-checked canonical observations, 0 exact same-claim aliases, 0 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain scoped chamber histories and disclosure-dated FY2024 HDPCVD 100; investigate FY2025 >400 pX/Supra-D versus Stack/ACHM overlap without inferring installed systems."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-product_volumes",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "All sibling per-product production, sales and inventory rows across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for product_volumes. 41 source-checked canonical observations, 16 exact same-claim aliases, 0 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain integrated 72-row reviewed batch, exact aliases and two corrected FY2024 evidence labels; preserve FY2023 hybrid comparative dashes and blank."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-orders_backlog",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Orders and backlog, tax and conditional status across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for orders_backlog. 1 source-checked canonical observations, 3 exact same-claim aliases, 0 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain company backlog aliases and pX/Supra-D chamber orders separately; keep contract liabilities and unbound customer forecasts out of backlog."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-customers",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Customer counts and named customers without identity inference across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for customers. 0 source-checked canonical observations, 0 exact same-claim aliases, 0 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain rank-pseudonym customer evidence; no real buyer names or distinct company-wide customer count found in these originals."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-qualification_validation",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for qualification_validation. 3 source-checked canonical observations, 0 exact same-claim aliases, 4 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain claim-specific maturity histories and >90% reported uptime; keep shipment, validation, industrialization, repeat orders and acceptance distinct."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-production_capacity",
+    "entity_id": "piotech",
+    "status": "unresolved",
+    "scope": "Actual versus planned capacity across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for production_capacity. 4 source-checked canonical observations, 0 exact same-claim aliases, 9 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Retain all chamber/station/batch and approximate mechanical-gain holds as native claims; annual factory systems/year output not found in this three-original set."
+  },
+  {
+    "coverage_id": "piotech-operational-sweep-20260923-process_nodes",
+    "entity_id": "piotech",
+    "status": "reviewed_not_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across piotech_annual_2023, piotech_annual_2024, piotech_annual_2025",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024",
+      "piotech_annual_2025"
+    ],
+    "notes": "All three registered Piotech annual originals (FY2023–FY2025) were sourcewide indexed and original-context reviewed for explicit_process_nodes. 0 source-checked canonical observations, 0 exact same-claim aliases, 0 native-only numeric holds. See docs/reviews/archive/2026-09-23_piotech_operational_coverage.json for physical pages and source-bound limits; company claims remain uncorroborated. New originals reopen this coverage.",
+    "next_action": "Record source-set reviewed_not_found. Generic 90nm CMOS and bonding accuracy are not Piotech equipment-bound process-node claims."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Full operational sweep of piotech_q1_2026 and piotech_h1_2026; new registrations reopen the firm source-selection gate",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "All 16 source/topic cells across Q1 and H1 2026 are dispositioned in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Five numeric observations and 37 platforms plus 18 existing-history updates are integrated. Technical measurements remain explicit mapping holds; source-selection coverage is complete for these two originals, not exhaustive numerical capture.",
+    "next_action": "Review the separate technical packet, retaining explicit two-source absence findings and family/model stage boundaries. New originals reopen affected coverage."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-families",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Named product definitions, catalogue models and process-application breadth across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Retain source-native definitions and catalogue-only stages; process-application count awaits technical mapping."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-shipments",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Cumulative chamber shipments and installations across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Preserve chamber subgroup overlap; do not infer installed systems or subtract lower bounds."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-product_volumes_revenue",
+    "entity_id": "piotech",
+    "status": "reviewed_not_found",
+    "scope": "Sibling per-product production, sales, inventory and monetary grids across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "No sibling product grid in these two originals; cumulative chambers and all-business revenue are separate evidence, not zero product activity."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-orders_backlog",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Product orders and backlog across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Retain family-specific orders and qualitative backlog; no backlog amount or system count stated."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-customers",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Customer counts, names and production-line entry across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Retain new/overseas customer context; approximately 100 production lines is not a customer count."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-qualification",
+    "entity_id": "piotech",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and industrialisation across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Keep group and named-model stages distinct; mixed R&D project stages cannot be allocated to every member."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-capacity",
+    "entity_id": "piotech",
+    "status": "unresolved",
+    "scope": "Factory capacity and tool configuration across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Technical mapping remains pending for fleet wafer processing, configurations and planned factory area. No current annual factory output rate was found."
+  },
+  {
+    "coverage_id": "piotech-interim-operational-sweep-20260923-explicit_process_nodes",
+    "entity_id": "piotech",
+    "status": "reviewed_not_found",
+    "scope": "Explicit equipment-bound numerical process nodes across piotech_q1_2026 and piotech_h1_2026",
+    "reviewed_source_ids": [
+      "piotech_q1_2026",
+      "piotech_h1_2026"
+    ],
+    "notes": "Original pages, native claims, integrated evidence links and explicit mapping holds are in docs/reviews/archive/2026-09-23_piotech_interim_operational_coverage.json. Absence is source/topic bounded; issuer assertions remain uncorroborated.",
+    "next_action": "Advanced-process wording, wafer sizes, bonding accuracy and film thickness do not establish an equipment process node."
+  }
+]

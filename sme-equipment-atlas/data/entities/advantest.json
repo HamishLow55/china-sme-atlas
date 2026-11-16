@@ -1,0 +1,22 @@
+[
+  {
+    "entity_id": "advantest",
+    "name": "Advantest Corporation",
+    "entity_class": "foreign_incumbent",
+    "aliases": [
+      "Advantest Corporation",
+      "ADVANTEST CORPORATION",
+      "Kabushiki Kaisha Advantest",
+      "E01950"
+    ],
+    "evidence": {
+      "source_id": "advantest_84th_asr_fy2025_eng",
+      "page": 1,
+      "excerpt": "Annual Securities Report and Business Report ... From April 1, 2025 to March 31, 2026 (The 84th term) Advantest Corporation (E01950)",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "COMPARATOR ENTITY. Advantest is registered as a foreign incumbent, not as part of the Chinese equipment supply base: its revenue must never be totalled into a domestic figure, and entity_class foreign_incumbent is what the analysis layer filters on to prevent that. It is registered here because it is the incumbent against which the atlas's memory-test comparison is measured: six Chinese entities already sit at test / test_memory_ate (Changchuan, Jingzhida, Huafeng Test & Control, Jinhaitong, Liandong, Semitronix), Jingce carries a named HBM burn-in tester (jingce_jh5520_hbm_bi), and Advantest is the global ATE incumbent whose own disclosure explicitly ties test-equipment revenue growth to 'high-performance DRAM, particularly HBM' (83rd-term Annual Securities Report). Headquartered at 1-6-2, Marunouchi, Chiyoda-ku, Tokyo; listed on the Tokyo Stock Exchange Prime Market (moved there from the First Section in April 2022, having first listed on the TSE Second Section in February 1983 and the First Section in September 1985). Fiscal year ends 31 March: the issuer's own 'term' numbering (this packet holds the 82nd term [1 Apr 2023-31 Mar 2024, this packet's FY2023], 83rd term [FY2024] and 84th term [FY2025]) is translated into actual start/end dates in every observation's period, never the issuer's fiscal-year label. Reporting currency is the Japanese yen, recorded as printed in JPY_million and never converted to CNY, USD or any other currency. RESTATEMENT: from the fiscal year ended 31 March 2026 (this packet's FY2025), Advantest collapsed its previous three reportable segments ('Semiconductor and Component Test System Business', 'Mechatronics System Business' and 'Services, Support and Others') into two ('Test System Business' and 'Services and Others'); both vintages are registered here, distinguished by reporting_vintage, because the segment boundary genuinely changed (the new 'Test System Business' total absorbs what was the old Mechatronics segment plus roughly JPY11.5bn reclassified out of the old Services segment) even though the underlying SoC and Memory test-system revenue figures themselves are unchanged between vintages. No Japanese-script name (e.g. a kanji/katakana rendering of the company name) was located in any of the five filings held for this packet -- all are English translations and none embeds the native-script name in extractable text -- so none is supplied here; EDINET code E01950 and stock code TSE 6857 were sought but only the former was found printed in a held filing (84th-term Annual Securities Report cover, physical p1), so '6857' is deliberately NOT registered as an alias despite being well known, consistent with the brief's 'every alias needs a page' rule."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "observation_id": "AMIES-LITHO-500TH-DELIVERY-2025",
+    "dataset_id": "amies_disclosures",
+    "source_id": "amies_stcn_500th",
+    "entity_id": "amies",
+    "category_id": "lithography",
+    "reporting_scope_id": "amies_all_lithography_tools_milestone",
+    "platform_id": "",
+    "metric_id": "reported_delivery_milestone_ordinal",
+    "value": "500",
+    "relation": "eq",
+    "unit": "system",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_reported_customer_locations",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "amies_stcn_500th"
+    },
+    "evidence": {
+      "page": 1,
+      "original_label": "第500台步进光刻机交付仪式",
+      "excerpt": "8月8日，上海芯上微装科技股份有限公司（简称：AMIES）举办了第500台步进光刻机交付仪式。此次发运的第500台步进光刻机将交付给盛合晶微，后者是集成电路晶圆级先进封测企业。",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-01",
+      "independent_corroboration": false,
+      "reported_value": "500",
+      "reported_unit": "system"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "AMIES's own company-counted cumulative-delivery milestone: its 500th 'step lithography machine' ('第500台步进光刻机'), delivered 2025-08-08 to SJ Semiconductor (盛合晶微), a wafer-level advanced-packaging/test firm. Exact event date (article byline 2025-08-08 18:27) is stated in the source. SCOPE WARNING: continues SMEE's pre-2025 lithography-tool delivery count (see SMEE-LITHO-100TH-DELIVERY-2018) across both front-end and packaging/LED/FPD product lines combined -- not attributable to a single platform; sits at the lithography PARENT category and is deliberately not attached to either amies_wafer_level_packaging_stepper's or amies_panel_level_packaging_stepper's maturity_history."
+  }
+]

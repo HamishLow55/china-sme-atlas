@@ -1,0 +1,910 @@
+[
+  {
+    "entity_id": "piotech",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "piotech_piotech_annual_2025_company_total",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_1",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-REV",
+      "PIOTECH2024-REV",
+      "PIOTECH2025-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "reporting_scope_id": "piotech_piotech_annual_2025_pecvd",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_product_sales_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_2",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-PECVD-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "reporting_scope_id": "piotech_piotech_annual_2025_ald",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_product_sales_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_3",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-ALD-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2025_hybrid_bonding_basket",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_product_operating_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_4",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-HYBRID-BOND-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "piotech_piotech_annual_2025_company_total",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_orders",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_5",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-BACKLOG"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_special_equipment",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition1_piotech_6",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-PRODUCTION"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_special_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition1_piotech_7",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-SALES"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_equipment_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_18",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-REV"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_equipment_business",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_19",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-COST"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_equipment_business",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition1_piotech_20",
+    "task_id": "deposition1_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2026-04-29",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-GM"
+    ],
+    "next_action": "Backfill product series from earlier originals; retain scope/qualification distinctions."
+  },
+  {
+    "target_id": "deposition1_missing_piotech_piotech_annual_2025_pecvd_units",
+    "task_id": "deposition1_piotech",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "reporting_scope_id": "piotech_piotech_annual_2025_pecvd",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "Targeted operating tables report a broader equipment basket, not this product scope. No quantity allocation from revenue shares; review earlier filings for source-native product quantities."
+  },
+  {
+    "target_id": "deposition1_missing_piotech_piotech_annual_2025_ald_units",
+    "task_id": "deposition1_piotech",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "reporting_scope_id": "piotech_piotech_annual_2025_ald",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "Targeted operating tables report a broader equipment basket, not this product scope. No quantity allocation from revenue shares; review earlier filings for source-native product quantities."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2023_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_1",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-MAIN-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2023_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_2",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-MAIN-COST"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2023_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_3",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-MAIN-GM"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_4",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-MAIN-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_5",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-MAIN-COST"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_equipment_industry",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_6",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-MAIN-GM"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "reporting_scope_id": "piotech_piotech_annual_2025_thin_film_deposition",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_7",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-THIN-REV",
+      "PIOTECH2024-THIN-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "reporting_scope_id": "piotech_piotech_annual_2025_pecvd",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_product_sales_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_8",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-PECVD-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_advanced_bonding_metrology_basket",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "source_product_sales_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_9",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-HYBRID-REV"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "piotech_piotech_annual_2025_company_total",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_orders",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_10",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-BACKLOG",
+      "PIOTECH2024-BACKLOG"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "reporting_scope_id": "piotech_piotech_annual_2023_thin_film_deposition_systems",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_11",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-THINFILM-PRODUCTION"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "reporting_scope_id": "piotech_piotech_annual_2023_thin_film_deposition_systems",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_12",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-THINFILM-SALES"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_systems",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_13",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-PRODUCTION"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_systems",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_14",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-SALES"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_special_equipment_systems",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_production",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_15",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-THINFILM-PRODUCTION"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_special_equipment_systems",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_sales",
+      "revenue_basis": "not_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "operational_table"
+    },
+    "target_id": "deposition2_piotech_16",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2024"
+    ],
+    "observation_ids": [
+      "PIOTECH2024-THINFILM-SALES"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "reporting_scope_id": "piotech_piotech_annual_2025_thin_film_deposition",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_23",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-THIN-COST"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "reporting_scope_id": "piotech_piotech_annual_2025_thin_film_deposition",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_24",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-THIN-GM"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_25",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-REV-SUP"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_equipment",
+    "platform_id": "",
+    "metric_id": "cost_of_revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "corresponding_reported_operating_cost",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_26",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-COST-SUP"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  },
+  {
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_equipment",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "company_main_business_sales",
+      "revenue_basis": "issuer_reported_gross_margin",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "target_id": "deposition2_piotech_27",
+    "task_id": "deposition2_piotech",
+    "period_start": "2023-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "piotech_annual_2023"
+    ],
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-GM-SUP"
+    ],
+    "next_action": "Reconcile reporting breaks before combining distinct scopes or vintages."
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "reporting_scope_id": "qinghe_jingyuan_sab82cww_platform",
+    "label": "SAB 82CWW系列混合键合设备",
+    "category_id": "bonding",
+    "definition": "Qinghe Jingyuan's source-native SAB 82CWW series, a dual C2W/W2W-mode hybrid bonder launched 2025-03-11 on the company's own site. Registered at the parent 'bonding' category node per that category's own scope note (the right node for a platform performing more than one bonding process), because the issuer's own description is explicitly dual-mode and does not separate C2W(die-to-wafer)-only or W2W-only performance. Holds this platform's alignment-accuracy and placement-accuracy capability specs only ('±30nm对准精度' and '±100nm键合精度'); does NOT hold the separate, earlier-stated '±300nm（同轴）/±100nm（红外）' pre-bond alignment-DETECTION-method precision figures from the same release, which describe the alignment sensing methods rather than the tool's achieved bonding performance and are kept in platform notes only to avoid metric conflation. Carries no company-wide revenue and no HBM-specific application claim."
+  }
+]

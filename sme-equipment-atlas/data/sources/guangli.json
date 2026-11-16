@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "guangli_2025",
+    "dataset_id": "guangli_disclosures",
+    "title": "GL Tech FY2025 annual report",
+    "publication_date": "2026-04-24",
+    "publication_date_precision": "day",
+    "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-24/c4389744-76fc-41f1-a6bd-7b60e4a46436.PDF",
+    "sha256": "e3b35805ea9a0570f306ec29856d2b39cd1dddf3c47f7f54cafe5a32d13f5cbd",
+    "source_type": "company_annual_report",
+    "original_document_id": "guangli_2025",
+    "page_count": 207,
+    "locator_kind": "pdf",
+    "notes": "Exchange-hosted original acquired for identified local gap. Cover and company identity verified; publication date from exchange-hosted disclosure path. Registration is not complete extraction."
+  },
+  {
+    "source_id": "guangli_h1_2026",
+    "dataset_id": "guangli_disclosures",
+    "title": "GL Tech H1 2026 report",
+    "publication_date": "2026-08-19",
+    "publication_date_precision": "day",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480511.PDF",
+    "sha256": "08fffe0424e1531716dfe80ece55cb45a768ce0b9aa99c170c83c072062d7ae6",
+    "source_type": "company_interim_report",
+    "original_document_id": "guangli_h1_2026",
+    "page_count": 184,
+    "locator_kind": "pdf",
+    "notes": "Exchange-hosted original acquired for identified local gap. Cover and company identity verified; publication date from exchange-hosted disclosure path. Registration is not complete extraction."
+  },
+  {
+    "source_id": "guangli_q3_2026",
+    "dataset_id": "guangli_disclosures",
+    "title": "guangli Q3 2026 report: 2026年三季度报告",
+    "publication_date": "2026-10-22",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-22/1225613658.PDF",
+    "sha256": "dc5b453bf988972c05eb3e56bf1447731c6414e75555522648516678d78de465",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "guangli_q3_2026",
+    "page_count": 11,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "guangli_ir_20260712",
+    "dataset_id": "guangli_disclosures",
+    "title": "guangli: 300480光力科技投资者关系管理信息20260710",
+    "publication_date": "2026-07-12",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-07-12/1225420581.PDF",
+    "sha256": "489c18c3edd144f6c3da099cef5a1c17bb86a406de5fe958210f393b374d63ad",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "guangli_ir_20260712",
+    "page_count": 2,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  },
+  {
+    "source_id": "guangli_ir_20260703",
+    "dataset_id": "guangli_disclosures",
+    "title": "guangli: 300480光力科技投资者关系管理信息20260702",
+    "publication_date": "2026-07-03",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-07-03/1225410192.PDF",
+    "sha256": "12c0f1eb1c24c24b2b0955e7df00b44ff22682d6170a37d9c8ee60fc188fac9b",
+    "source_type": "company_investor_relations_record",
+    "original_document_id": "guangli_ir_20260703",
+    "page_count": 2,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified."
+  }
+]

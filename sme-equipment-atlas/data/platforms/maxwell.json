@@ -1,0 +1,401 @@
+[
+  {
+    "platform_id": "maxwell_grind_polish_integrated",
+    "entity_id": "maxwell",
+    "category_id": "thinning",
+    "record_kind": "source_native_family",
+    "name": "Wafer grind-polish integrated machine (晶圆研抛一体机)",
+    "aliases": [
+      "研抛一体机",
+      "研磨抛光一体设备",
+      "12寸晶圆研抛一体机",
+      "干抛式晶圆研抛一体设备"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 48,
+      "excerpt": "4、半导体制造设备\n（1）半导体封装设备\n通过自主研发创新，公司重点攻关了高精密气浮平台、高功率高效率激光、SLM 空间光调制等关键技术，作为行业首创“磨划+键合整体解决方案”的设备供应商，迈为股份可提供封装成套工艺设备解决方案。经过持续的技术积累与工艺迭代，当前，公司晶圆磨划设备优势持续巩固。多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。\n在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "stable_mass_production_number_one_domestic_market_share_fy2025",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "Combined grind-plus-polish tool; filed at the thinning parent per the category's own scope note ('the right node for a combined tool that integrates thinning with polishing, cleaning or taping'), not at thinning_grinding. No model number given in any of the three filings -- the issuer never names a 'GP-' or similar product code for this tool, unlike e.g. Hwatsing's Versatile-GP300. FY2024's R&D-project table (p35) and its own-report narrative (p47) disagree on stage in the same way the FY2025 bonding equipment does (R&D table: 样机阶段/prototype; narrative, a different sentence about a 'domestic-first dry-polish' variant: nearing mass production at a named memory-packaging customer) -- both preserved below, unreconciled. By FY2025 the R&D table no longer lists a grind-polish project at all (checked: zero hits for 研抛/研磨/减薄 anywhere in the FY2025 R&D-project table, pp.33-38), consistent with the narrative's claim that the tool has since reached stable mass production and the number-one domestic market-share position. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Shared evidence excerpt (maxwell_fy2025 p48) confirmed to contain '晶圆研抛一体机' verbatim (non-layout, stripped), supporting this platform's name. category_id thinning (parent, not thinning_grinding) is correct per thinning's own scope_note: 'a grind-plus-polish-plus-clean tool... belongs here rather than under a child.' Row/stage alignment for the FY2024 R&D-table entry ('12寸晶圆研抛一体机开发' -> 样机阶段) and the H1 2026/FY2025 narrative market-share claim were independently re-verified with pdftotext -layout on maxwell_fy2024 p35 -- default-mode extraction genuinely shifts the 研发阶段 column, confirming the record's own stated methodology was necessary and correctly applied. One alias note: '研磨抛光一体设备' is not found as a contiguous string in any of the three held Maxwell filings; the actual text is '研磨抛光inline一体设备' (maxwell_fy2024 p35) -- a trivial paraphrase dropping the inserted English word 'inline' from the middle of an otherwise-verbatim phrase, not a fabrication (same tool, no new claim). Worth tightening to the verbatim form but not a defect that blocks acceptance.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_gp_fy24_p35_rd_table",
+        "source_id": "maxwell_fy2024",
+        "page": 35,
+        "excerpt": "12寸晶圆研抛一体机开发 ... 研发阶段：样机阶段 ... 针对封装前道产品薄片化工艺要求，迈为自主开发制造主流的研磨抛光inline一体设备，来应对常规的DAG工艺以及SDBG，DBG工艺，满足市场要求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "prototype_stage_rd_table_fy2024",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 R&D-project table (physical p35), row '12寸晶圆研抛一体机开发'. Row/stage alignment confirmed with pdftotext -layout after the default-mode extraction shifted the 研发阶段 column by one row relative to the project-name column; -layout mode shows '样机阶段' sits directly beside this row, not the neighbouring 晶圆热压键合设备开发 row. Target process coverage: DAG, SDBG and DBG (dice-before-grind) flows."
+      },
+      {
+        "claim_id": "w6mx_gp_fy24_p47_narrative",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "与此同时，公司自主研发的国内首台干抛式晶圆研抛一体设备取得关键进展，在存储器封装企业的工艺验证已进入尾声，即将量产应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validation_nearing_completion_at_named_memory_packaging_customer_fy2024",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47), describing a 'domestic-first dry-polish wafer grind-polish integrated device' (国内首台干抛式晶圆研抛一体设备) specifically. Process validation at a memory-packaging customer (存储器封装企业, unnamed) is described as nearly complete, with mass production application imminent -- the clearest HBM-adjacent evidence point among the six Maxwell platforms in this packet. Not confirmed to be the same physical tool as the R&D table's '12寸晶圆研抛一体机' project on the same page set (both plausible references to the same development effort, but the source does not say so explicitly); kept as a separate maturity entry rather than merged."
+      },
+      {
+        "claim_id": "w6mx_gp_fy25_p48_narrative",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_mass_production_number_one_domestic_market_share_fy2025",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48). Collective claim: '多款半导体装备' (several semiconductor devices) delivered to leading industry customers achieving stable mass production, applying to this tool together with the laser-groover and other back-end tools in the same sentence. The trailing market-share clause ('在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位') is specific to wafer laser-grooving equipment and wafer grind-polish integrated machines by name -- #1 domestic market share claimed for both."
+      },
+      {
+        "claim_id": "w6mx_gp_h126_p14_collective",
+        "source_id": "maxwell_h1_2026",
+        "page": 14,
+        "excerpt": "公司率先实现激光开槽、激光改质切割、刀轮切割、研磨、研抛一体设备以及键合等半导体装备的国产化，多款设备已批量交付国内头部封装企业，并实现稳定量产，在封装设备领域占据了重要的市场地位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_domestic_packaging_customers_collective_claim_h1_2026",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 narrative (physical p14; a near-identical sentence also appears at physical p12). Collective claim naming six tool types in one list (laser grooving, laser stealth/modification cutting, blade cutting, grinding, grind-polish integrated devices, and bonding); the 'batch delivered ... stable mass production' outcome is not isolated to any one of them. No tool-specific market-share clause this period (contrast FY2025 p48, which named this tool specifically for the #1-share claim)."
+      }
+    ]
+  },
+  {
+    "platform_id": "maxwell_d2w_tcb_bonder",
+    "entity_id": "maxwell",
+    "category_id": "bonding_tcb",
+    "record_kind": "source_native_family",
+    "name": "D2W TCB bonding equipment (D2W TCB 键合设备)",
+    "aliases": [
+      "D2W TCB键合设备",
+      "热压倒装键合设备",
+      "热压倒转键合设备",
+      "晶圆热压键合设备"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 48,
+      "excerpt": "4、半导体制造设备\n（1）半导体封装设备\n通过自主研发创新，公司重点攻关了高精密气浮平台、高功率高效率激光、SLM 空间光调制等关键技术，作为行业首创“磨划+键合整体解决方案”的设备供应商，迈为股份可提供封装成套工艺设备解决方案。经过持续的技术积累与工艺迭代，当前，公司晶圆磨划设备优势持续巩固。多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。\n在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "conflicting_fy2025_claims_see_notes",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "STAGE CONFLICT (the finding the W6 dispatch specifically asks for). The FY2025 annual report contains two internally inconsistent statements about this equipment, both preserved below as separate maturity_history entries, NOT reconciled: (1) the business-review narrative (p48) says the company 'has successfully developed wafer hybrid bonding, wafer temporary bonding, D2W TCB bonding equipment ... now delivered to multiple customers' (已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB键合等设备 ...现已交付多家客户); (2) the same report's own R&D-project table (p36), under the project name '热压倒转键合设备开发' (a differently-named but equivalent TCB development project, explicitly glossed in the table's own purpose text as '自主研发热压倒装键合（TCB）设备'), reports 研发阶段：样机阶段 (prototype stage), with a stated forward target of only 1-2 standardized prototype units completing testing, reliability validation and customer trial, targeting a yield of >=99.9%. 'Delivered to multiple customers' and 'prototype stage, target 1-2 units, still at customer-trial' describe materially different points in the development cycle. I independently verified the same shape of conflict recurs in the FY2024 report (p47 narrative vs p35 R&D table, project name '晶圆热压键合设备开发', also 样机阶段) -- registered below as two further entries, making this a two-year-running inconsistency, not a one-off drafting slip. Row/stage alignment on both R&D tables was confirmed with pdftotext -layout; the default (non-layout) extraction mode shifts the 研发阶段 column by one row for the FY2024 table and would misattribute 样机阶段/试产阶段 to the wrong project if used directly. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name 'D2W TCB 键合' confirmed verbatim within the shared p48 excerpt (maxwell_fy2025, non-layout, stripped). category_id bonding_tcb is correct and appropriately specific: TCB is explicitly named ('自主研发热压倒装键合（TCB）设备', maxwell_fy2025 p36, confirmed via -layout row/stage pairing with 样机阶段), and bonding_tcb has no d2w/w2w children, so no further specificity is available or warranted. Two aliases are near-misses rather than fabrications: '热压倒装键合设备' drops the '（TCB）' parenthetical from the verbatim '热压倒装键合（TCB）设备'; '热压倒转键合设备' is a trivial truncation of the verbatim project name '热压倒转键合设备开发' (maxwell_fy2025 p36). Neither asserts anything the source doesn't; '晶圆热压键合设备' (FY2024's project-name variant) and 'D2W TCB键合设备' are both directly confirmed verbatim/near-verbatim as well.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_tcb_fy24_p47_narrative",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2024_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47); same combined sentence repeated verbatim in FY2025 (p48)."
+      },
+      {
+        "claim_id": "w6mx_tcb_fy24_p35_rd_table",
+        "source_id": "maxwell_fy2024",
+        "page": 35,
+        "excerpt": "晶圆热压键合设备开发 ... 研发阶段：样机阶段 ... 努力推出更高效能、更高精度的晶圆键合设备，支持大尺寸晶圆键合、多层堆叠、超薄晶圆处理等复杂工艺；通过自主研发和国际合作不断提升技术水平，努力打破国际垄断，实现高端装备的国产化替代。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "prototype_stage_rd_table_fy2024",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 R&D-project table (physical p35), row '晶圆热压键合设备开发'. Conflicts with the same report's p47 narrative claim of delivery to multiple customers (w6mx_tcb_fy24_p47_narrative); not reconciled. Row/stage alignment confirmed via pdftotext -layout: the default extraction mode shifts this row's stage value down by one position, which would otherwise misread this project as 试产阶段 (trial production, the next row's true value) rather than 样机阶段."
+      },
+      {
+        "claim_id": "w6mx_tcb_fy25_p48_narrative",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2025_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48), same combined sentence as FY2024's p47. Conflicts with the same report's p36 R&D-table entry (w6mx_tcb_fy25_p36_rd_table); not reconciled. This is the FY2025 stage conflict the W6 dispatch specifically names."
+      },
+      {
+        "claim_id": "w6mx_tcb_fy25_p36_rd_table",
+        "source_id": "maxwell_fy2025",
+        "page": 36,
+        "excerpt": "热压倒转键合设备开发 ... 研发阶段：样机阶段 ... 自主研发热压倒装键合（TCB）设备，突破国外核心技术垄断，破解国内封装领域进口设备依赖难题，填补公司在该领域的产品空白 ... 产品目标为研发1-2款标准化TCB设备样机，适配高端封装场景及相关高端系列产品需求，完成样机测试、可靠性验证及客户试用，优化模块化设计，降低使用门槛，实现设备良率≥99.9%，满足规模化生产。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "prototype_stage_target_1_2_standardized_units_customer_trial_fy2025",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 R&D-project table (physical p36), row '热压倒转键合设备开发', explicitly glossed in its own purpose text as TCB ('自主研发热压倒装键合（TCB）设备'). Conflicts with the same report's p48 narrative claim of delivery to multiple customers (w6mx_tcb_fy25_p48_narrative); not reconciled -- this is the finding. Row/stage alignment confirmed via pdftotext -layout."
+      }
+    ]
+  },
+  {
+    "platform_id": "maxwell_wafer_hybrid_bonder",
+    "entity_id": "maxwell",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "Wafer hybrid bonding equipment (晶圆混合键合设备)",
+    "aliases": [
+      "晶圆混合键合设备"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 48,
+      "excerpt": "4、半导体制造设备\n（1）半导体封装设备\n通过自主研发创新，公司重点攻关了高精密气浮平台、高功率高效率激光、SLM 空间光调制等关键技术，作为行业首创“磨划+键合整体解决方案”的设备供应商，迈为股份可提供封装成套工艺设备解决方案。经过持续的技术积累与工艺迭代，当前，公司晶圆磨划设备优势持续巩固。多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。\n在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "delivered_to_multiple_customers_fy2025_narrative",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "CLASSIFICATION JUDGEMENT CALL: filed at bonding_hybrid_w2w (wafer-to-wafer), not bonding_hybrid_d2w. The source's own sentence structure distinguishes '晶圆混合键合' (wafer hybrid bonding) from 'D2W TCB 键合' (explicitly D2W) in the same list, which I read as implying the hybrid-bonding tool is wafer-level (W2W) rather than die-to-wafer -- but the filings never use the letters 'W2W' anywhere, so this is an inference from contrast, not a direct statement. Flagging for a future reviewer to correct if better evidence surfaces.\n\nDELIBERATELY NOT MERGED: a same-FY2024-report R&D-project table (p35) lists a separate '熔融混合键合设备开发' (fusion/molten hybrid-bonding equipment development) project at 试产阶段 (trial production), but that project's own purpose text ties it explicitly to new display applications ('泛半导体行业目前对键合工艺需求加大，键合为主的工艺路线成为新型显示发展的热点...公司拟开发全自动熔融/混合键合设备') -- i.e. it is a DISPLAY-context hybrid/fusion bonding project, not this semiconductor-packaging platform. Not registered here. Likewise, FY2025 p12's '...针对 Micro LED 自主研发了...D2D 键合、混合键合等全套设备' names 'hybrid bonding' again but explicitly under the Micro LED display tool list, not the semiconductor-packaging section (p48) this platform draws on; also not merged in. Both exclusions follow the W6 dispatch's trap warning about the issuer's combined semiconductor-and-display business: the word 混合键合 recurs in both contexts in this issuer's own filings, and conflating them would misattribute a display-tool claim to a semiconductor platform. INTEGRATOR CORRECTION (1 October): moved from bonding_hybrid_w2w to the bonding parent. The reasoning for W2W was sound — the filing lists 晶圆混合键合 beside an explicitly die-to-wafer D2W TCB 键合 item, and Huazhuo’s filings do use 晶圆混合键合设备 for its wafer-to-wafer product against 芯片-晶圆混合键合设备 for die-to-wafer — but the inference was flagged as an inference, and this repository does not resolve a child category on one. Huazhuo’s SOI/POI series sits at this same parent for the same reason. The cost is that \"hybrid\" is lost at the parent, which is the actual finding: the taxonomy has bonding_hybrid_w2w and bonding_hybrid_d2w as siblings under bonding with no intermediate node for hybrid bonding whose side the source leaves unstated. That node is worth adding deliberately rather than mid-wave, and this platform should move under it when it exists. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Name/category/maturity are all well-supported and I confirm the integrator's 1 October correction (bonding_hybrid_w2w -> bonding parent) is sound: I independently grepped data/categories.json and confirmed no 'bonding_hybrid' intermediate parent node exists above bonding_hybrid_w2w/bonding_hybrid_d2w, so 'bonding' is genuinely the only available node for 'hybrid bonding, side unstated' -- the record's own reasoning is checkable and correct. Alias finding: '晶圆混合键合设备' is a list-elision construction (source reads '晶圆混合键合、晶圆临时键合、D2W TCB键合等设备', sharing one trailing 等设备 across three items) -- acceptable, paralleling the name field's own construction. But alias '混合键合设备' is a genuine mis-sourced alias: the ONLY place this exact 6-character string appears contiguously in any of the three held Maxwell filings is inside '熔融混合键合设备开发' (maxwell_fy2024 p35, non-layout confirmed), which is the FY2024 R&D table's FUSION/molten hybrid-bonding project for Micro LED DISPLAY applications -- the exact project this record's own notes say is 'DELIBERATELY NOT MERGED' because it is a display-context, not semiconductor-packaging, claim. Keeping '混合键合设备' as an alias of this semiconductor platform borrows its only textual basis from the platform the notes themselves exclude. Removing it; '晶圆混合键合设备' alone is sufficient and properly sourced.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_hybrid_fy24_p47_narrative",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2024_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47); collective claim covering hybrid, temporary and D2W TCB bonding together -- not isolated to the hybrid bonder alone."
+      },
+      {
+        "claim_id": "w6mx_hybrid_fy25_p48_narrative",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2025_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48); same collective claim repeated from FY2024."
+      }
+    ]
+  },
+  {
+    "platform_id": "maxwell_wafer_temporary_bonder",
+    "entity_id": "maxwell",
+    "category_id": "bonding_temporary",
+    "record_kind": "source_native_family",
+    "name": "Wafer temporary bonding equipment (晶圆临时键合设备)",
+    "aliases": [
+      "晶圆临时键合设备",
+      "临时键合设备"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 48,
+      "excerpt": "4、半导体制造设备\n（1）半导体封装设备\n通过自主研发创新，公司重点攻关了高精密气浮平台、高功率高效率激光、SLM 空间光调制等关键技术，作为行业首创“磨划+键合整体解决方案”的设备供应商，迈为股份可提供封装成套工艺设备解决方案。经过持续的技术积累与工艺迭代，当前，公司晶圆磨划设备优势持续巩固。多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。\n在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "delivered_to_multiple_customers_fy2025_narrative",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "Addresses the temp_bond_debond HBM step report's finding that Maxwell was absent from the Atlas. Narrative-only evidence: no R&D-project-table entry, no debonding/release-tool pairing, and no unit count or customer name anywhere in the three filings checked (FY2024, FY2025, H1 2026 -- confirmed by full-text search; H1 2026 drops this term entirely, see maxwell_h1_2026 source notes). This tool is always named inside the same three-tool collective sentence as the hybrid bonder and D2W TCB bonder; no sentence isolates a temporary-bonding-specific claim (stage, order, or customer) anywhere found. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '晶圆临时键合设备' is a list-elision construction (source: '晶圆混合键合、晶圆临时键合、D2W TCB键合等设备', shared trailing 等设备 -- confirmed via non-layout grep, no single item in the list carries its own 设备 suffix), parallel to the accepted construction on the sibling bonding platforms -- not a fabrication, since every component word is drawn from this tool's own list item and no attribute is imported from elsewhere. Aliases '晶圆临时键合设备'/'临时键合设备' are the same construction, consistently applied. category_id bonding_temporary matches the category definition exactly. reported_maturity is honestly scoped: notes correctly state no R&D-table entry, no debonding pairing, and no isolated customer/unit claim exists anywhere in the three filings for this tool specifically -- it is always inside the same three-tool collective sentence, and the record does not pretend otherwise.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_temp_fy24_p47_narrative",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2024_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47); collective claim covering hybrid, temporary and D2W TCB bonding together -- not isolated to the temporary bonder alone."
+      },
+      {
+        "claim_id": "w6mx_temp_fy25_p48_narrative",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "delivered_to_multiple_customers_fy2025_narrative",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48); same collective claim repeated from FY2024."
+      }
+    ]
+  },
+  {
+    "platform_id": "maxwell_laser_groover",
+    "entity_id": "maxwell",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "Wafer laser grooving equipment (晶圆激光开槽设备)",
+    "aliases": [
+      "晶圆激光开槽设备",
+      "激光开槽设备"
+    ],
+    "evidence": {
+      "source_id": "maxwell_fy2025",
+      "page": 48,
+      "excerpt": "4、半导体制造设备\n（1）半导体封装设备\n通过自主研发创新，公司重点攻关了高精密气浮平台、高功率高效率激光、SLM 空间光调制等关键技术，作为行业首创“磨划+键合整体解决方案”的设备供应商，迈为股份可提供封装成套工艺设备解决方案。经过持续的技术积累与工艺迭代，当前，公司晶圆磨划设备优势持续巩固。多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。\n在半导体产业链中，先进的晶圆键合技术是推动器件微型化和更高集成度的关键环节。公司已成功开发了晶圆混合键合、晶圆临时键合、D2W TCB 键合等设备，不断提升产品在精度、稳定性、可靠性与智能化方面的水平，现已交付多家客户。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "stable_mass_production_number_one_domestic_market_share_fy2025",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "Laser grooving (激光开槽): cuts a groove from the wafer surface, fitting dicing_laser's definition ('separates dies with a laser -- either by cutting from the surface or by forming a subsurface modified layer'). Kept distinct from '晶圆隐切' (wafer stealth dicing), which this issuer uses only in its Mini LED display-tool list (FY2025 p12/47/48), not in its semiconductor back-end-packaging list -- not merged into this platform or into maxwell_stealth_dicer (see that platform's notes). Also kept distinct from 激光改质切割 (laser modification/stealth cutting), named separately in the same source sentence; see maxwell_stealth_dicer. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Name '晶圆激光开槽设备' confirmed verbatim within the shared p48 excerpt ('...在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位', non-layout, stripped). category_id dicing_laser is the existing taxonomy precedent (JSG's 超快紫外激光开槽设备 already occupies this node on the same 'grooving uses a laser, even though a later blade pass actually separates dies' reasoning) -- correct under current taxonomy, though I flag for the integrator that dicing_laser's own scope_note calls JSG 'the only occupant in that position' and explicitly asks to 'settle whether grooving belongs here... before a second grooving tool arrives' -- this record is that second grooving tool, so the open question is now live and the scope_note is stale (not something I can fix from this batch). Alias finding: '激光开槽机' (using 机/machine rather than 设备/equipment) does not appear anywhere, in any form, across all three held Maxwell filings -- confirmed by a full-corpus grep for the bare fragment '开槽机' as well as the full string. The nearest text is '晶圆开槽机' (maxwell_fy2025 p207, a generic equipment-category list with no 激光 qualifier) -- '激光开槽机' appears to blend '激光' from this platform's own name with '开槽机' from that unrelated list, producing a string printed nowhere. This is the two-cells-assembled pattern applied to an alias rather than a name; removing it.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_groover_fy24_p47_narrative",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "多款半导体装备已交付长电科技、华天科技、三安光电等客户并实现稳定量产，在国内晶圆激光开槽设备市场的占有率已稳居行业首位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_mass_production_number_one_domestic_market_share_named_customers_fy2024",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47). The customer names (长电科技/JCET, 华天科技/Huatian, 三安光电/San'an) attach to the preceding collective '多款半导体装备' (several semiconductor devices) clause, not confirmed specific to the laser groover alone -- only the trailing market-share clause ('在国内晶圆激光开槽设备市场的占有率已稳居行业首位') is groover-specific. Both clauses kept in one excerpt because they are the same sentence, but the customer-name attribution is not claimed as groover-specific in this record."
+      },
+      {
+        "claim_id": "w6mx_groover_fy25_p48_narrative",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_mass_production_number_one_domestic_market_share_fy2025",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48); #1 domestic market-share claim restated, named alongside the grind-polish integrated machine."
+      },
+      {
+        "claim_id": "w6mx_groover_h126_p14_collective",
+        "source_id": "maxwell_h1_2026",
+        "page": 14,
+        "excerpt": "公司率先实现激光开槽、激光改质切割、刀轮切割、研磨、研抛一体设备以及键合等半导体装备的国产化，多款设备已批量交付国内头部封装企业，并实现稳定量产，在封装设备领域占据了重要的市场地位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_domestic_packaging_customers_collective_claim_h1_2026",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 narrative (physical p14); collective claim, no tool-specific market-share clause this period."
+      }
+    ]
+  },
+  {
+    "platform_id": "maxwell_stealth_dicer",
+    "entity_id": "maxwell",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "Laser modification (stealth) dicing equipment (激光改质切割设备)",
+    "aliases": [
+      "激光改质切割设备",
+      "激光改质切割"
+    ],
+    "evidence": {
+      "source_id": "maxwell_h1_2026",
+      "page": 14,
+      "excerpt": "公司率先实现激光开槽、激光改质切割、刀轮切割、研磨、研抛一体设备以及键合等半导体装备的国产化，多款设备已批量交付国内头部封装企业，并实现稳定量产，在封装设备领域占据了重要的市场地位。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "batch_delivered_stable_mass_production_collective_claim_fy2025",
+    "maturity_as_reported_in": "maxwell_fy2025",
+    "notes": "激光改质切割 (laser modification/stealth cutting): forms a subsurface modified layer the wafer then splits along, fitting dicing_laser's stealth-dicing branch. DELIBERATELY KEPT SEPARATE from 晶圆隐切 (also translatable as 'wafer stealth dicing'), which this issuer uses only inside its Mini LED display-tool list (FY2025 p12/47/48: '...针对 Mini LED 自主研发了晶圆隐切、裂片、刺晶巨转、激光键合等全套设备') -- a different business context (display) from the semiconductor back-end-packaging section (p48) this platform draws on. Conflating the two terms because they are both 'stealth dicing' in English would misattribute a display-tool claim to a semiconductor platform, the exact trap the W6 dispatch warns about. No individual stage, market-share or customer clause names this tool alone anywhere found; always inside the same multi-tool collective sentence as the laser groover, blade dicer, grind-polish machine and bonding tools. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: The record's PRIMARY evidence block (maxwell_fy2025 p48, the same shared paragraph cited for all six Maxwell platforms in this packet) does NOT contain '激光改质切割' anywhere -- confirmed by grepping the full p48 excerpt text and the full non-layout extraction of maxwell_fy2025 p48. That paragraph is about grinding/bonding ('晶圆磨划设备', '晶圆激光开槽设备、晶圆研抛一体机', '晶圆混合键合、晶圆临时键合、D2W TCB键合'); it never names laser-modification/stealth cutting. The only place in any of the three held Maxwell filings where '激光改质切割' is actually named is maxwell_h1_2026 p14 (confirmed verbatim, non-layout, stripped): '公司率先实现激光开槽、激光改质切割、刀轮切割、研磨、研抛一体设备以及键合等半导体装备的国产化，多款设备已批量交付国内头部封装企业，并实现稳定量产'. This is the record's OWN maturity_history entry w6mx_stealth_h126_p14_collective -- so the tool genuinely exists under this name in a held source, and I do not recommend remove, but the primary identity-establishing evidence block was copy-pasted from a sibling platform's citation and points at a page that does not support this platform's name at all. Category_id dicing_laser is correct (laser modification/stealth cutting matches the category's own 'subsurface modified layer' branch directly, no ambiguity). Alias '激光改质切割设备' is the same list-elision construction as the sibling bonding platforms (source list shares one trailing collective term across several items) -- acceptable once the evidence citation above is corrected to the source where the term actually appears.",
+    "maturity_history": [
+      {
+        "claim_id": "w6mx_stealth_fy24_p47_collective",
+        "source_id": "maxwell_fy2024",
+        "page": 47,
+        "excerpt": "多款半导体装备已交付长电科技、华天科技、三安光电等客户并实现稳定量产，在国内晶圆激光开槽设备市场的占有率已稳居行业首位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_stable_mass_production_collective_claim_fy2024",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 narrative (physical p47); collective claim, no tool-specific isolate for stealth cutting (the market-share clause on this page names only laser grooving)."
+      },
+      {
+        "claim_id": "w6mx_stealth_fy25_p48_collective",
+        "source_id": "maxwell_fy2025",
+        "page": 48,
+        "excerpt": "多款半导体装备已交付行业头部客户并实现稳定量产，在国内晶圆激光开槽设备、晶圆研抛一体机市场的占有率已稳居行业首位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_stable_mass_production_collective_claim_fy2025",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 narrative (physical p48); collective claim, no tool-specific isolate for stealth cutting."
+      },
+      {
+        "claim_id": "w6mx_stealth_h126_p14_collective",
+        "source_id": "maxwell_h1_2026",
+        "page": 14,
+        "excerpt": "公司率先实现激光开槽、激光改质切割、刀轮切割、研磨、研抛一体设备以及键合等半导体装备的国产化，多款设备已批量交付国内头部封装企业，并实现稳定量产，在封装设备领域占据了重要的市场地位。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_domestic_packaging_customers_collective_claim_h1_2026",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 narrative (physical p14); collective claim."
+      }
+    ]
+  }
+]

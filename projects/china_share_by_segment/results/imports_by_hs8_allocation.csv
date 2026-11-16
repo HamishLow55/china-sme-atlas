@@ -1,0 +1,370 @@
+year,hs8,origin_rule,group_id,allocation,case,usd,source_table
+2021,84862031,all,litho,full,low,1141313706.0,imports_hs8_monthly
+2021,84862031,all,litho,full,base,1141313706.0,imports_hs8_monthly
+2021,84862031,all,litho,full,high,1141313706.0,imports_hs8_monthly
+2022,84862031,all,litho,full,low,1415534785.0,imports_hs8_monthly
+2022,84862031,all,litho,full,base,1415534785.0,imports_hs8_monthly
+2022,84862031,all,litho,full,high,1415534785.0,imports_hs8_monthly
+2023,84862031,all,litho,full,low,1655879456.0,imports_hs8_monthly
+2023,84862031,all,litho,full,base,1655879456.0,imports_hs8_monthly
+2023,84862031,all,litho,full,high,1655879456.0,imports_hs8_monthly
+2024,84862031,all,litho,full,low,809572319.0,imports_hs8_monthly
+2024,84862031,all,litho,full,base,809572319.0,imports_hs8_monthly
+2024,84862031,all,litho,full,high,809572319.0,imports_hs8_monthly
+2025,84862031,all,litho,full,low,528751457.0,imports_hs8_monthly
+2025,84862031,all,litho,full,base,528751457.0,imports_hs8_monthly
+2025,84862031,all,litho,full,high,528751457.0,imports_hs8_monthly
+2021,84862039,all,litho,full,low,3555469252.0,imports_hs8_monthly
+2021,84862039,all,litho,full,base,3555469252.0,imports_hs8_monthly
+2021,84862039,all,litho,full,high,3555469252.0,imports_hs8_monthly
+2022,84862039,all,litho,full,low,2547572430.0,imports_hs8_monthly
+2022,84862039,all,litho,full,base,2547572430.0,imports_hs8_monthly
+2022,84862039,all,litho,full,high,2547572430.0,imports_hs8_monthly
+2023,84862039,all,litho,full,low,7080478606.0,imports_hs8_monthly
+2023,84862039,all,litho,full,base,7080478606.0,imports_hs8_monthly
+2023,84862039,all,litho,full,high,7080478606.0,imports_hs8_monthly
+2024,84862039,all,litho,full,low,9913856238.0,imports_hs8_monthly
+2024,84862039,all,litho,full,base,9913856238.0,imports_hs8_monthly
+2024,84862039,all,litho,full,high,9913856238.0,imports_hs8_monthly
+2025,84862039,all,litho,full,low,10092614756.0,imports_hs8_monthly
+2025,84862039,all,litho,full,base,10092614756.0,imports_hs8_monthly
+2025,84862039,all,litho,full,high,10092614756.0,imports_hs8_monthly
+2021,84862021,all,deposition,full,low,4234229113.0,imports_hs8_monthly
+2021,84862021,all,deposition,full,base,4234229113.0,imports_hs8_monthly
+2021,84862021,all,deposition,full,high,4234229113.0,imports_hs8_monthly
+2022,84862021,all,deposition,full,low,3718209504.0,imports_hs8_monthly
+2022,84862021,all,deposition,full,base,3718209504.0,imports_hs8_monthly
+2022,84862021,all,deposition,full,high,3718209504.0,imports_hs8_monthly
+2023,84862021,all,deposition,full,low,4884643557.0,imports_hs8_monthly
+2023,84862021,all,deposition,full,base,4884643557.0,imports_hs8_monthly
+2023,84862021,all,deposition,full,high,4884643557.0,imports_hs8_monthly
+2024,84862021,all,deposition,full,low,5443480955.0,imports_hs8_monthly
+2024,84862021,all,deposition,full,base,5443480955.0,imports_hs8_monthly
+2024,84862021,all,deposition,full,high,5443480955.0,imports_hs8_monthly
+2025,84862021,all,deposition,full,low,6220373700.0,imports_hs8_monthly
+2025,84862021,all,deposition,full,base,6220373700.0,imports_hs8_monthly
+2025,84862021,all,deposition,full,high,6220373700.0,imports_hs8_monthly
+2021,84862022,all,deposition,full,low,1054140292.0,imports_hs8_monthly
+2021,84862022,all,deposition,full,base,1054140292.0,imports_hs8_monthly
+2021,84862022,all,deposition,full,high,1054140292.0,imports_hs8_monthly
+2022,84862022,all,deposition,full,low,1102403397.0,imports_hs8_monthly
+2022,84862022,all,deposition,full,base,1102403397.0,imports_hs8_monthly
+2022,84862022,all,deposition,full,high,1102403397.0,imports_hs8_monthly
+2023,84862022,all,deposition,full,low,1406950500.0,imports_hs8_monthly
+2023,84862022,all,deposition,full,base,1406950500.0,imports_hs8_monthly
+2023,84862022,all,deposition,full,high,1406950500.0,imports_hs8_monthly
+2024,84862022,all,deposition,full,low,1796229139.0,imports_hs8_monthly
+2024,84862022,all,deposition,full,base,1796229139.0,imports_hs8_monthly
+2024,84862022,all,deposition,full,high,1796229139.0,imports_hs8_monthly
+2025,84862022,all,deposition,full,low,1502930719.0,imports_hs8_monthly
+2025,84862022,all,deposition,full,base,1502930719.0,imports_hs8_monthly
+2025,84862022,all,deposition,full,high,1502930719.0,imports_hs8_monthly
+2021,84862029,all,deposition,full,low,213003933.0,imports_hs8_monthly
+2021,84862029,all,deposition,full,base,213003933.0,imports_hs8_monthly
+2021,84862029,all,deposition,full,high,213003933.0,imports_hs8_monthly
+2022,84862029,all,deposition,full,low,251545511.0,imports_hs8_monthly
+2022,84862029,all,deposition,full,base,251545511.0,imports_hs8_monthly
+2022,84862029,all,deposition,full,high,251545511.0,imports_hs8_monthly
+2023,84862029,all,deposition,full,low,528180604.0,imports_hs8_monthly
+2023,84862029,all,deposition,full,base,528180604.0,imports_hs8_monthly
+2023,84862029,all,deposition,full,high,528180604.0,imports_hs8_monthly
+2024,84862029,all,deposition,full,low,477580899.0,imports_hs8_monthly
+2024,84862029,all,deposition,full,base,477580899.0,imports_hs8_monthly
+2024,84862029,all,deposition,full,high,477580899.0,imports_hs8_monthly
+2025,84862029,all,deposition,full,low,632430764.0,imports_hs8_monthly
+2025,84862029,all,deposition,full,base,632430764.0,imports_hs8_monthly
+2025,84862029,all,deposition,full,high,632430764.0,imports_hs8_monthly
+2021,84862041,all,dry_etch,full,low,4288643598.0,imports_hs8_monthly
+2021,84862041,all,dry_etch,full,base,4288643598.0,imports_hs8_monthly
+2021,84862041,all,dry_etch,full,high,4288643598.0,imports_hs8_monthly
+2022,84862041,all,dry_etch,full,low,3749159330.0,imports_hs8_monthly
+2022,84862041,all,dry_etch,full,base,3749159330.0,imports_hs8_monthly
+2022,84862041,all,dry_etch,full,high,3749159330.0,imports_hs8_monthly
+2023,84862041,all,dry_etch,full,low,4396747733.0,imports_hs8_monthly
+2023,84862041,all,dry_etch,full,base,4396747733.0,imports_hs8_monthly
+2023,84862041,all,dry_etch,full,high,4396747733.0,imports_hs8_monthly
+2024,84862041,all,dry_etch,full,low,5210458721.0,imports_hs8_monthly
+2024,84862041,all,dry_etch,full,base,5210458721.0,imports_hs8_monthly
+2024,84862041,all,dry_etch,full,high,5210458721.0,imports_hs8_monthly
+2025,84862041,all,dry_etch,full,low,6423753414.0,imports_hs8_monthly
+2025,84862041,all,dry_etch,full,base,6423753414.0,imports_hs8_monthly
+2025,84862041,all,dry_etch,full,high,6423753414.0,imports_hs8_monthly
+2021,84862049,all,cleaning_strip,full,low,1278848335.0,imports_hs8_monthly
+2021,84862049,all,cleaning_strip,full,base,1278848335.0,imports_hs8_monthly
+2021,84862049,all,cleaning_strip,full,high,1278848335.0,imports_hs8_monthly
+2022,84862049,all,cleaning_strip,full,low,874580353.0,imports_hs8_monthly
+2022,84862049,all,cleaning_strip,full,base,874580353.0,imports_hs8_monthly
+2022,84862049,all,cleaning_strip,full,high,874580353.0,imports_hs8_monthly
+2023,84862049,all,cleaning_strip,full,low,784643235.0,imports_hs8_monthly
+2023,84862049,all,cleaning_strip,full,base,784643235.0,imports_hs8_monthly
+2023,84862049,all,cleaning_strip,full,high,784643235.0,imports_hs8_monthly
+2024,84862049,all,cleaning_strip,full,low,1218576018.0,imports_hs8_monthly
+2024,84862049,all,cleaning_strip,full,base,1218576018.0,imports_hs8_monthly
+2024,84862049,all,cleaning_strip,full,high,1218576018.0,imports_hs8_monthly
+2025,84862049,all,cleaning_strip,full,low,1075236237.0,imports_hs8_monthly
+2025,84862049,all,cleaning_strip,full,base,1075236237.0,imports_hs8_monthly
+2025,84862049,all,cleaning_strip,full,high,1075236237.0,imports_hs8_monthly
+2021,84862050,all,doping,full,low,912774208.0,imports_hs8_monthly
+2021,84862050,all,doping,full,base,912774208.0,imports_hs8_monthly
+2021,84862050,all,doping,full,high,912774208.0,imports_hs8_monthly
+2022,84862050,all,doping,full,low,1062868294.0,imports_hs8_monthly
+2022,84862050,all,doping,full,base,1062868294.0,imports_hs8_monthly
+2022,84862050,all,doping,full,high,1062868294.0,imports_hs8_monthly
+2023,84862050,all,doping,full,low,1331632472.0,imports_hs8_monthly
+2023,84862050,all,doping,full,base,1331632472.0,imports_hs8_monthly
+2023,84862050,all,doping,full,high,1331632472.0,imports_hs8_monthly
+2024,84862050,all,doping,full,low,1810347163.0,imports_hs8_monthly
+2024,84862050,all,doping,full,base,1810347163.0,imports_hs8_monthly
+2024,84862050,all,doping,full,high,1810347163.0,imports_hs8_monthly
+2025,84862050,all,doping,full,low,1352862005.0,imports_hs8_monthly
+2025,84862050,all,doping,full,base,1352862005.0,imports_hs8_monthly
+2025,84862050,all,doping,full,high,1352862005.0,imports_hs8_monthly
+2021,84862010,all,thermal,full,low,1908345438.0,imports_hs8_monthly
+2021,84862010,all,thermal,full,base,1908345438.0,imports_hs8_monthly
+2021,84862010,all,thermal,full,high,1908345438.0,imports_hs8_monthly
+2022,84862010,all,thermal,full,low,1743162981.0,imports_hs8_monthly
+2022,84862010,all,thermal,full,base,1743162981.0,imports_hs8_monthly
+2022,84862010,all,thermal,full,high,1743162981.0,imports_hs8_monthly
+2023,84862010,all,thermal,full,low,1809181003.0,imports_hs8_monthly
+2023,84862010,all,thermal,full,base,1809181003.0,imports_hs8_monthly
+2023,84862010,all,thermal,full,high,1809181003.0,imports_hs8_monthly
+2024,84862010,all,thermal,full,low,2091523850.0,imports_hs8_monthly
+2024,84862010,all,thermal,full,base,2091523850.0,imports_hs8_monthly
+2024,84862010,all,thermal,full,high,2091523850.0,imports_hs8_monthly
+2025,84862010,all,thermal,full,low,1631865622.0,imports_hs8_monthly
+2025,84862010,all,thermal,full,base,1631865622.0,imports_hs8_monthly
+2025,84862010,all,thermal,full,high,1631865622.0,imports_hs8_monthly
+2021,90314100,all,process_control,full,low,2668096524.0,imports_hs8_monthly
+2021,90314100,all,process_control,full,base,2668096524.0,imports_hs8_monthly
+2021,90314100,all,process_control,full,high,2668096524.0,imports_hs8_monthly
+2022,90314100,all,process_control,full,low,3302772441.0,imports_hs8_monthly
+2022,90314100,all,process_control,full,base,3302772441.0,imports_hs8_monthly
+2022,90314100,all,process_control,full,high,3302772441.0,imports_hs8_monthly
+2023,90314100,all,process_control,full,low,4120640364.0,imports_hs8_monthly
+2023,90314100,all,process_control,full,base,4120640364.0,imports_hs8_monthly
+2023,90314100,all,process_control,full,high,4120640364.0,imports_hs8_monthly
+2024,90314100,all,process_control,full,low,4393358493.0,imports_hs8_monthly
+2024,90314100,all,process_control,full,base,4393358493.0,imports_hs8_monthly
+2024,90314100,all,process_control,full,high,4393358493.0,imports_hs8_monthly
+2025,90314100,all,process_control,full,low,4481665826.0,imports_hs8_monthly
+2025,90314100,all,process_control,full,base,4481665826.0,imports_hs8_monthly
+2025,90314100,all,process_control,full,high,4481665826.0,imports_hs8_monthly
+2023,84861040,exclude:304,cmp,full,low,567778896.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861040,exclude:304,cmp,full,base,567778896.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861040,exclude:304,cmp,full,high,567778896.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861040,exclude:304,cmp,full,low,514182346.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861040,exclude:304,cmp,full,base,514182346.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861040,exclude:304,cmp,full,high,514182346.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861040,exclude:304,cmp,full,low,633853679.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861040,exclude:304,cmp,full,base,633853679.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861040,exclude:304,cmp,full,high,633853679.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861040,only:304,wafer_making,excluded,low,95147210.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861040,only:304,wafer_making,excluded,base,95147210.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861040,only:304,wafer_making,excluded,high,95147210.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2021,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,low,0.0,imports_hs8_monthly
+2021,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,low,129182551.15,imports_hs8_monthly
+2021,84862090,all,backend,share:A-BACKEND-IN-84862090,low,77509530.69,imports_hs8_monthly
+2021,84862090,all,track_automation_other,residual,low,2376958941.16,imports_hs8_monthly
+2021,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,base,100000000.0,imports_hs8_monthly
+2021,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,base,387547653.45,imports_hs8_monthly
+2021,84862090,all,backend,share:A-BACKEND-IN-84862090,base,206692081.84,imports_hs8_monthly
+2021,84862090,all,track_automation_other,residual,base,1889411287.71,imports_hs8_monthly
+2021,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,high,260000000.0,imports_hs8_monthly
+2021,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,high,775095306.9,imports_hs8_monthly
+2021,84862090,all,backend,share:A-BACKEND-IN-84862090,high,516730204.6,imports_hs8_monthly
+2021,84862090,all,track_automation_other,residual,high,1031825511.4999999,imports_hs8_monthly
+2022,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,low,0.0,imports_hs8_monthly
+2022,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,low,112004792.65,imports_hs8_monthly
+2022,84862090,all,backend,share:A-BACKEND-IN-84862090,low,67202875.59,imports_hs8_monthly
+2022,84862090,all,track_automation_other,residual,low,2060888184.76,imports_hs8_monthly
+2022,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,base,100000000.0,imports_hs8_monthly
+2022,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,base,336014377.95,imports_hs8_monthly
+2022,84862090,all,backend,share:A-BACKEND-IN-84862090,base,179207668.24,imports_hs8_monthly
+2022,84862090,all,track_automation_other,residual,base,1624873806.81,imports_hs8_monthly
+2022,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,high,260000000.0,imports_hs8_monthly
+2022,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,high,672028755.9,imports_hs8_monthly
+2022,84862090,all,backend,share:A-BACKEND-IN-84862090,high,448019170.6,imports_hs8_monthly
+2022,84862090,all,track_automation_other,residual,high,860047926.4999999,imports_hs8_monthly
+2023,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,low,0.0,imports_hs8_monthly
+2023,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,low,176569192.9,imports_hs8_monthly
+2023,84862090,all,backend,share:A-BACKEND-IN-84862090,low,105941515.74,imports_hs8_monthly
+2023,84862090,all,track_automation_other,residual,low,3248873149.36,imports_hs8_monthly
+2023,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,base,100000000.0,imports_hs8_monthly
+2023,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,base,529707578.7,imports_hs8_monthly
+2023,84862090,all,backend,share:A-BACKEND-IN-84862090,base,282510708.64,imports_hs8_monthly
+2023,84862090,all,track_automation_other,residual,base,2619165570.6600003,imports_hs8_monthly
+2023,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,high,260000000.0,imports_hs8_monthly
+2023,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,high,1059415157.4,imports_hs8_monthly
+2023,84862090,all,backend,share:A-BACKEND-IN-84862090,high,706276771.6,imports_hs8_monthly
+2023,84862090,all,track_automation_other,residual,high,1505691929.0,imports_hs8_monthly
+2024,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,low,0.0,imports_hs8_monthly
+2024,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,low,236898346.25,imports_hs8_monthly
+2024,84862090,all,backend,share:A-BACKEND-IN-84862090,low,142139007.75,imports_hs8_monthly
+2024,84862090,all,track_automation_other,residual,low,4358929571.0,imports_hs8_monthly
+2024,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,base,100000000.0,imports_hs8_monthly
+2024,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,base,710695038.75,imports_hs8_monthly
+2024,84862090,all,backend,share:A-BACKEND-IN-84862090,base,379037354.0,imports_hs8_monthly
+2024,84862090,all,track_automation_other,residual,base,3548234532.25,imports_hs8_monthly
+2024,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,high,260000000.0,imports_hs8_monthly
+2024,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,high,1421390077.5,imports_hs8_monthly
+2024,84862090,all,backend,share:A-BACKEND-IN-84862090,high,947593385.0,imports_hs8_monthly
+2024,84862090,all,track_automation_other,residual,high,2108983462.5,imports_hs8_monthly
+2025,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,low,0.0,imports_hs8_monthly
+2025,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,low,261568658.0,imports_hs8_monthly
+2025,84862090,all,backend,share:A-BACKEND-IN-84862090,low,156941194.79999998,imports_hs8_monthly
+2025,84862090,all,track_automation_other,residual,low,4812863307.2,imports_hs8_monthly
+2025,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,base,100000000.0,imports_hs8_monthly
+2025,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,base,784705974.0,imports_hs8_monthly
+2025,84862090,all,backend,share:A-BACKEND-IN-84862090,base,418509852.8,imports_hs8_monthly
+2025,84862090,all,track_automation_other,residual,base,3928157333.2,imports_hs8_monthly
+2025,84862090,all,cmp,amount_usd:A-CMP-IN-84862090,high,260000000.0,imports_hs8_monthly
+2025,84862090,all,cleaning_strip,share:A-CLEAN-IN-84862090,high,1569411948.0,imports_hs8_monthly
+2025,84862090,all,backend,share:A-BACKEND-IN-84862090,high,1046274632.0,imports_hs8_monthly
+2025,84862090,all,track_automation_other,residual,high,2355686580.0,imports_hs8_monthly
+2023,84861020,all,wafer_making,excluded,low,427952412.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861020,all,wafer_making,excluded,base,427952412.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861020,all,wafer_making,excluded,high,427952412.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861020,all,wafer_making,excluded,low,375077470.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861020,all,wafer_making,excluded,base,375077470.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861020,all,wafer_making,excluded,high,375077470.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861020,all,wafer_making,excluded,low,420636195.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861020,all,wafer_making,excluded,base,420636195.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861020,all,wafer_making,excluded,high,420636195.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861030,all,wafer_making,excluded,low,259338868.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861030,all,wafer_making,excluded,base,259338868.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861030,all,wafer_making,excluded,high,259338868.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861030,all,wafer_making,excluded,low,195310262.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861030,all,wafer_making,excluded,base,195310262.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861030,all,wafer_making,excluded,high,195310262.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861030,all,wafer_making,excluded,low,179746504.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861030,all,wafer_making,excluded,base,179746504.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861030,all,wafer_making,excluded,high,179746504.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861090,all,wafer_making,excluded,low,267879392.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861090,all,wafer_making,excluded,base,267879392.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2023,84861090,all,wafer_making,excluded,high,267879392.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861090,all,wafer_making,excluded,low,160775400.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861090,all,wafer_making,excluded,base,160775400.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2024,84861090,all,wafer_making,excluded,high,160775400.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861090,all,wafer_making,excluded,low,129232268.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861090,all,wafer_making,excluded,base,129232268.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2025,84861090,all,wafer_making,excluded,high,129232268.0,imports_hs8_partner_province_monthly (8 origins x 14 provinces)
+2021,84864031,all,track_automation_other,full,low,398061992.0,imports_hs8_monthly
+2021,84864031,all,track_automation_other,full,base,398061992.0,imports_hs8_monthly
+2021,84864031,all,track_automation_other,full,high,398061992.0,imports_hs8_monthly
+2022,84864031,all,track_automation_other,full,low,441705269.0,imports_hs8_monthly
+2022,84864031,all,track_automation_other,full,base,441705269.0,imports_hs8_monthly
+2022,84864031,all,track_automation_other,full,high,441705269.0,imports_hs8_monthly
+2023,84864031,all,track_automation_other,full,low,496259635.0,imports_hs8_monthly
+2023,84864031,all,track_automation_other,full,base,496259635.0,imports_hs8_monthly
+2023,84864031,all,track_automation_other,full,high,496259635.0,imports_hs8_monthly
+2024,84864031,all,track_automation_other,full,low,451057255.0,imports_hs8_monthly
+2024,84864031,all,track_automation_other,full,base,451057255.0,imports_hs8_monthly
+2024,84864031,all,track_automation_other,full,high,451057255.0,imports_hs8_monthly
+2025,84864031,all,track_automation_other,full,low,410291820.0,imports_hs8_monthly
+2025,84864031,all,track_automation_other,full,base,410291820.0,imports_hs8_monthly
+2025,84864031,all,track_automation_other,full,high,410291820.0,imports_hs8_monthly
+2021,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,low,0.0,imports_hs8_monthly
+2021,84864039,all,handling_unallocated,residual,low,1388417561.0,imports_hs8_monthly
+2021,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,base,0.0,imports_hs8_monthly
+2021,84864039,all,handling_unallocated,residual,base,1388417561.0,imports_hs8_monthly
+2021,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,high,694208780.5,imports_hs8_monthly
+2021,84864039,all,handling_unallocated,residual,high,694208780.5,imports_hs8_monthly
+2022,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,low,0.0,imports_hs8_monthly
+2022,84864039,all,handling_unallocated,residual,low,1644695280.0,imports_hs8_monthly
+2022,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,base,0.0,imports_hs8_monthly
+2022,84864039,all,handling_unallocated,residual,base,1644695280.0,imports_hs8_monthly
+2022,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,high,822347640.0,imports_hs8_monthly
+2022,84864039,all,handling_unallocated,residual,high,822347640.0,imports_hs8_monthly
+2023,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,low,0.0,imports_hs8_monthly
+2023,84864039,all,handling_unallocated,residual,low,1260883424.0,imports_hs8_monthly
+2023,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,base,0.0,imports_hs8_monthly
+2023,84864039,all,handling_unallocated,residual,base,1260883424.0,imports_hs8_monthly
+2023,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,high,630441712.0,imports_hs8_monthly
+2023,84864039,all,handling_unallocated,residual,high,630441712.0,imports_hs8_monthly
+2024,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,low,0.0,imports_hs8_monthly
+2024,84864039,all,handling_unallocated,residual,low,1639064386.0,imports_hs8_monthly
+2024,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,base,0.0,imports_hs8_monthly
+2024,84864039,all,handling_unallocated,residual,base,1639064386.0,imports_hs8_monthly
+2024,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,high,819532193.0,imports_hs8_monthly
+2024,84864039,all,handling_unallocated,residual,high,819532193.0,imports_hs8_monthly
+2025,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,low,0.0,imports_hs8_monthly
+2025,84864039,all,handling_unallocated,residual,low,1384534192.0,imports_hs8_monthly
+2025,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,base,0.0,imports_hs8_monthly
+2025,84864039,all,handling_unallocated,residual,base,1384534192.0,imports_hs8_monthly
+2025,84864039,all,track_automation_other,share:A-WAFER-HANDLING-IN-84864039,high,692267096.0,imports_hs8_monthly
+2025,84864039,all,handling_unallocated,residual,high,692267096.0,imports_hs8_monthly
+2021,84864010,all,mask_making,full,low,281125754.0,imports_hs8_monthly
+2021,84864010,all,mask_making,full,base,281125754.0,imports_hs8_monthly
+2021,84864010,all,mask_making,full,high,281125754.0,imports_hs8_monthly
+2022,84864010,all,mask_making,full,low,378375375.0,imports_hs8_monthly
+2022,84864010,all,mask_making,full,base,378375375.0,imports_hs8_monthly
+2022,84864010,all,mask_making,full,high,378375375.0,imports_hs8_monthly
+2023,84864010,all,mask_making,full,low,569009170.0,imports_hs8_monthly
+2023,84864010,all,mask_making,full,base,569009170.0,imports_hs8_monthly
+2023,84864010,all,mask_making,full,high,569009170.0,imports_hs8_monthly
+2024,84864010,all,mask_making,full,low,856054462.0,imports_hs8_monthly
+2024,84864010,all,mask_making,full,base,856054462.0,imports_hs8_monthly
+2024,84864010,all,mask_making,full,high,856054462.0,imports_hs8_monthly
+2025,84864010,all,mask_making,full,low,1027669416.0,imports_hs8_monthly
+2025,84864010,all,mask_making,full,base,1027669416.0,imports_hs8_monthly
+2025,84864010,all,mask_making,full,high,1027669416.0,imports_hs8_monthly
+2021,84864021,all,backend,full,low,173576704.0,imports_hs8_monthly
+2021,84864021,all,backend,full,base,173576704.0,imports_hs8_monthly
+2021,84864021,all,backend,full,high,173576704.0,imports_hs8_monthly
+2022,84864021,all,backend,full,low,135409652.0,imports_hs8_monthly
+2022,84864021,all,backend,full,base,135409652.0,imports_hs8_monthly
+2022,84864021,all,backend,full,high,135409652.0,imports_hs8_monthly
+2023,84864021,all,backend,full,low,91941711.0,imports_hs8_monthly
+2023,84864021,all,backend,full,base,91941711.0,imports_hs8_monthly
+2023,84864021,all,backend,full,high,91941711.0,imports_hs8_monthly
+2024,84864021,all,backend,full,low,63345511.0,imports_hs8_monthly
+2024,84864021,all,backend,full,base,63345511.0,imports_hs8_monthly
+2024,84864021,all,backend,full,high,63345511.0,imports_hs8_monthly
+2025,84864021,all,backend,full,low,88780028.0,imports_hs8_monthly
+2025,84864021,all,backend,full,base,88780028.0,imports_hs8_monthly
+2025,84864021,all,backend,full,high,88780028.0,imports_hs8_monthly
+2021,84864022,all,backend,full,low,1585434081.0,imports_hs8_monthly
+2021,84864022,all,backend,full,base,1585434081.0,imports_hs8_monthly
+2021,84864022,all,backend,full,high,1585434081.0,imports_hs8_monthly
+2022,84864022,all,backend,full,low,920211882.0,imports_hs8_monthly
+2022,84864022,all,backend,full,base,920211882.0,imports_hs8_monthly
+2022,84864022,all,backend,full,high,920211882.0,imports_hs8_monthly
+2023,84864022,all,backend,full,low,509432868.0,imports_hs8_monthly
+2023,84864022,all,backend,full,base,509432868.0,imports_hs8_monthly
+2023,84864022,all,backend,full,high,509432868.0,imports_hs8_monthly
+2024,84864022,all,backend,full,low,618532797.0,imports_hs8_monthly
+2024,84864022,all,backend,full,base,618532797.0,imports_hs8_monthly
+2024,84864022,all,backend,full,high,618532797.0,imports_hs8_monthly
+2025,84864022,all,backend,full,low,623912283.0,imports_hs8_monthly
+2025,84864022,all,backend,full,base,623912283.0,imports_hs8_monthly
+2025,84864022,all,backend,full,high,623912283.0,imports_hs8_monthly
+2021,84864029,all,backend,full,low,1584297763.0,imports_hs8_monthly
+2021,84864029,all,backend,full,base,1584297763.0,imports_hs8_monthly
+2021,84864029,all,backend,full,high,1584297763.0,imports_hs8_monthly
+2022,84864029,all,backend,full,low,1252578502.0,imports_hs8_monthly
+2022,84864029,all,backend,full,base,1252578502.0,imports_hs8_monthly
+2022,84864029,all,backend,full,high,1252578502.0,imports_hs8_monthly
+2023,84864029,all,backend,full,low,896421569.0,imports_hs8_monthly
+2023,84864029,all,backend,full,base,896421569.0,imports_hs8_monthly
+2023,84864029,all,backend,full,high,896421569.0,imports_hs8_monthly
+2024,84864029,all,backend,full,low,866409143.0,imports_hs8_monthly
+2024,84864029,all,backend,full,base,866409143.0,imports_hs8_monthly
+2024,84864029,all,backend,full,high,866409143.0,imports_hs8_monthly
+2025,84864029,all,backend,full,low,1034767765.0,imports_hs8_monthly
+2025,84864029,all,backend,full,base,1034767765.0,imports_hs8_monthly
+2025,84864029,all,backend,full,high,1034767765.0,imports_hs8_monthly
+2021,90308200,all,test,full,low,776207491.0,imports_hs8_monthly
+2021,90308200,all,test,full,base,776207491.0,imports_hs8_monthly
+2021,90308200,all,test,full,high,776207491.0,imports_hs8_monthly
+2022,90308200,all,test,full,low,640938009.0,imports_hs8_monthly
+2022,90308200,all,test,full,base,640938009.0,imports_hs8_monthly
+2022,90308200,all,test,full,high,640938009.0,imports_hs8_monthly
+2023,90308200,all,test,full,low,754959408.0,imports_hs8_monthly
+2023,90308200,all,test,full,base,754959408.0,imports_hs8_monthly
+2023,90308200,all,test,full,high,754959408.0,imports_hs8_monthly
+2024,90308200,all,test,full,low,610081754.0,imports_hs8_monthly
+2024,90308200,all,test,full,base,610081754.0,imports_hs8_monthly
+2024,90308200,all,test,full,high,610081754.0,imports_hs8_monthly
+2025,90308200,all,test,full,low,503928547.0,imports_hs8_monthly
+2025,90308200,all,test,full,base,503928547.0,imports_hs8_monthly
+2025,90308200,all,test,full,high,503928547.0,imports_hs8_monthly

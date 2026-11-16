@@ -1,0 +1,48 @@
+[
+  {
+    "observation_id": "ssti_h126_subsidiary_revenue",
+    "dataset_id": "unicomp_disclosures",
+    "source_id": "unicomp_h1_2026",
+    "entity_id": "ssti",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "47223187.77",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2026-01-01",
+      "end": "2026-06-30",
+      "kind": "interim",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_subsidiary",
+      "revenue_basis": "source_reported",
+      "price_basis": "not_applicable",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "source_reported",
+      "consolidation_basis": "ssti_subsidiary_as_reported_in_unicomp_h126",
+      "reporting_vintage": "unicomp_h1_2026"
+    },
+    "evidence": {
+      "page": 51,
+      "original_label": "营业收入",
+      "excerpt": "单位：元 币种：人民币\n公司名称    公司类型       主要业务       注册资本          总资产             净资产            营业收入            营业利润     净利润\n               新能源电池、集成电路及\n               电子制造领域X射线智能 150,000,000元\n深圳日联    子公司                               446,541,997.95 175,305,820.66 233,387,392.52     13,105,431.43   13,450,724.95\n               检测设备的研发、生产、     人民币\n                  销售和服务\n               铸件焊件、新能源电池领\n                           300,000,000元\n重庆日联    子公司    域X射线智能检测设备的                519,417,299.35 374,151,342.60 130,945,294.18     22,385,908.57   21,004,718.31\n                               人民币\n               研发、生产、销售和服务\n               专注于半导体器件的检测\n                           3,161,221元新\n SSTI   子公司    诊断与失效分析设备的设                111,737,395.36   94,283,440.31   47,223,187.77   24,750,828.46   20,994,013.91\n                                 币\n                 计、制造与服务\n\n                                            ",
+      "reported_value": "47223187.77",
+      "reported_unit": "CNY",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24",
+      "independent_corroboration": false
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Subsidiary revenue from issuer interim principal-subsidiary table, in CNY despite SGD registered capital column. Includes equipment design/manufacture/services, not equipment-only revenue. Singapore-origin acquired entity; do not sum with Unicomp parent or infer constant ownership perimeter/exact consolidation start."
+  }
+]

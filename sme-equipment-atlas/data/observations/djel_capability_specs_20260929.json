@@ -1,0 +1,94 @@
+[
+  {
+    "observation_id": "djel_sepa_c505_imaging_resolution",
+    "dataset_id": "djel_ipo_disclosures",
+    "source_id": "djel_ipo_2026",
+    "entity_id": "djel",
+    "category_id": "metrology_cd_sem",
+    "reporting_scope_id": "djel_sepa_c505_model",
+    "metric_id": "reported_tool_imaging_resolution",
+    "platform_id": "djel_sepa_c505",
+    "value": "1.4",
+    "relation": "eq",
+    "unit": "nanometre",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "djel_ipo_2026"
+    },
+    "evidence": {
+      "page": 169,
+      "original_label": "SEpA-c505 分辨率（公司 东方晶源）",
+      "excerpt": "公司 东方晶源 日立高新 应用材料 ¦ 设备型号 SEpA-c505 CG 6300 Verity 6i ¦ 分辨率 1.4nm 1.35nm 1.45nm ¦ 重复测量精度 <0.15nm or 1% <0.15nm or 1% <0.1nm or 1% ¦ 产能 60 WPH 66 WPH 63WPH ¦ 单点量测时间 1.5s 1.6s 1.5s ¦ 机台同一性 <0.1nm or 1% <0.1nm or 1% <0.15nm or 1%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "1.4",
+      "reported_unit": "nanometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Imaging resolution of the issuer’s latest-generation CD-SEM, printed as a point value. Distinct from a detection limit: this is the resolving power of the electron-optical system. The same table gives 重复测量精度 <0.15nm or 1% and 机台同一性 <0.1nm or 1%, both compound specifications combining an absolute bound with a relative one, which the metric vocabulary cannot express and which are therefore not recorded. The issuer states the model has taken a volume order from 客户 G and meets the needs of ≥28nm logic and 3D NAND lines. Benchmarks are 1.35nm for Hitachi High-Tech CG 6300 and 1.45nm for Applied Materials Verity 6i, so the issuer sits between the two rather than ahead. Issuer benchmark table: the 东方晶源 column is the first value column and only it is recorded as evidence about the issuer; the competitor columns are not evidence about those competitors. The excerpt reproduces the page’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  },
+  {
+    "observation_id": "djel_sepa_r655_imaging_resolution",
+    "dataset_id": "djel_ipo_disclosures",
+    "source_id": "djel_ipo_2026",
+    "entity_id": "djel",
+    "category_id": "inspection_review_sem",
+    "reporting_scope_id": "djel_drsem",
+    "metric_id": "reported_tool_imaging_resolution",
+    "platform_id": "djel_sepa_r655",
+    "value": "1.4",
+    "relation": "le",
+    "unit": "nanometre",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "djel_ipo_2026"
+    },
+    "evidence": {
+      "page": 170,
+      "original_label": "SEpA-r655 分辨率（公司 东方晶源）",
+      "excerpt": "公司 东方晶源 应用材料 科磊半导体 ¦ 设备型号 SEpA-r655 G6 eDR 7380 ¦ 分辨率 ≤1.4 nm ≤1.4 nm ≤1.2nm ¦ 运动平台停止精度 ≤±0.5μm ≤±0.35μm ≤±0.1μm ¦ 缺陷捕获率 ≥95% ≥95% ≥95% ¦ 是否支持光学检测 支持 支持 支持",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "1.4",
+      "reported_unit": "nanometre"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Imaging resolution of the issuer’s latest-generation defect-review SEM, printed as an upper bound. Equal to the Applied Materials G6 benchmark at ≤1.4nm and coarser than KLA eDR 7380 at ≤1.2nm. The same table gives 运动平台停止精度 ≤±0.5μm and 缺陷捕获率 ≥95%, for which no metric exists. Issuer benchmark table: the 东方晶源 column is the first value column and only it is recorded as evidence about the issuer; the competitor columns are not evidence about those competitors. The excerpt reproduces the page’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "entity_id": "jingce_shanghai",
+    "name": "Shanghai Jingce Semiconductor Technology Co., Ltd.",
+    "aliases": [
+      "上海精测",
+      "上海精测半导体技术有限公司"
+    ],
+    "parent_entity_id": "jingce",
+    "entity_class": "china_supply_base"
+  }
+]

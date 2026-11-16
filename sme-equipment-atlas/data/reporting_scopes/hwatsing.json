@@ -1,0 +1,212 @@
+[
+  {
+    "reporting_scope_id": "hwatsing_cmp_12inch",
+    "category_id": "cmp",
+    "label": "12-inch CMP equipment only",
+    "definition": "12-inch CMP equipment only"
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_thinning",
+    "category_id": "multi_equipment",
+    "label": "Hwatsing CMP and thinning equipment combined, FY2024 revenue label",
+    "definition": "Hwatsing CMP and thinning equipment combined, FY2024 revenue label"
+  },
+  {
+    "reporting_scope_id": "hwatsing_semiconductor_equipment",
+    "category_id": "multi_equipment",
+    "label": "Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only",
+    "definition": "Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only"
+  },
+  {
+    "reporting_scope_id": "hwatsing_other_2023",
+    "category_id": "all_businesses",
+    "label": "Other FY2023: wafer reclaim, consumables and maintenance etc.",
+    "definition": "Other FY2023: wafer reclaim, consumables and maintenance etc."
+  },
+  {
+    "reporting_scope_id": "hwatsing_other_2024",
+    "category_id": "all_businesses",
+    "label": "Other FY2024: wafer reclaim, consumables, maintenance, CDS and SDS etc.",
+    "definition": "Other FY2024: wafer reclaim, consumables, maintenance, CDS and SDS etc."
+  },
+  {
+    "reporting_scope_id": "hwatsing_services_2025",
+    "category_id": "all_businesses",
+    "label": "Semiconductor services FY2025 reporting classification",
+    "definition": "Semiconductor services FY2025 reporting classification"
+  },
+  {
+    "reporting_scope_id": "hwatsing_wafer_reclaim_service",
+    "category_id": "all_businesses",
+    "label": "Hwatsing wafer-reclaim service capacity",
+    "definition": "Wafer-reclaim processing capacity only; excludes equipment production and other semiconductor services."
+  },
+  {
+    "reporting_scope_id": "hwatsing_integrated_thinning_polishing_unnamed",
+    "category_id": "thinning",
+    "label": "Unnamed Hwatsing integrated thinning-polishing family",
+    "definition": "FY2025 p19 source-native integrated thinning-polishing equipment family with >20 cumulative shipments. The passage does not name GP300. The FY2025 report endpoint is only an inferred context anchor; exact event date and model identity are unstated. It may overlap the p21 GP300 lower bound and is not an additional distinct tool count."
+  },
+  {
+    "reporting_scope_id": "hwatsing_versatile_gp300_thinning",
+    "category_id": "thinning",
+    "label": "Versatile-GP300 thinning equipment",
+    "definition": "FY2025 p21 source-named Versatile-GP300 12-inch precision thinning equipment. Its >20 cumulative 出机 claim has an inferred FY2025 report-context endpoint, not an exact event date. Keep separate from the p19 unnamed integrated-family lower bound; identity may overlap and counts cannot be added."
+  },
+  {
+    "reporting_scope_id": "hwatsing_wafer_reclaim_kunshan_total",
+    "category_id": "all_businesses",
+    "label": "Kunshan wafer-reclaim expansion, total planned capacity",
+    "definition": "FY2025 plan for 400,000 wafers/month at Kunshan after full expansion. Service-processing capacity, not current production or equipment-manufacturing capacity; includes the first phase."
+  },
+  {
+    "reporting_scope_id": "hwatsing_wafer_reclaim_kunshan_first_phase",
+    "category_id": "all_businesses",
+    "label": "Kunshan wafer-reclaim expansion, first-phase planned capacity",
+    "definition": "FY2025 plan for 200,000 wafers/month in Kunshan first phase, a subset of the Kunshan 400,000/month total plan and of future company aggregate capacity."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_8inch",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_8inch",
+    "definition": "Hwatsing 200-series 8-inch CMP equipment only (Universal-200, Universal-200Plus). Counterpart of the existing hwatsing_cmp_12inch scope. First revenue recognised June 2020."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_consumables_sales",
+    "category_id": "all_businesses",
+    "label": "hwatsing_cmp_consumables_sales",
+    "definition": "耗材销售 sub-line of Hwatsing 配套材料及技术服务: sales of CMP consumables, mainly general consumables such as retaining rings and air membranes."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_named_fab_public_tender_sample",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_named_fab_public_tender_sample",
+    "definition": "Publicly tendered CMP equipment purchases of four named mainland fabs only (YMTC, Hua Hong Wuxi, Shanghai Huali phases 1-2, Shanghai Jita) as published on the China International Tendering website for 2019-2021, used by Hwatsing to evidence win rate. A sampled sub-market, not a national market and not Hwatsing's own order book."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_universal_200plus",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_universal_200plus",
+    "definition": "Hwatsing Universal-200Plus 8-inch CMP tool: four polishing units, single cleaning unit, derived from the 300Plus design. First sale accepted June 2020."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_universal_300b",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_universal_300b",
+    "definition": "Hwatsing 300B: the small single-platen low-price 12-inch CMP tool sold once in FY2020 (CNY 2,601,800) and excluded from the prospectus 300-series average-price calculation."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_universal_300dual",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_universal_300dual",
+    "definition": "Hwatsing Universal-300Dual 12-inch CMP tool: four polishing units, dual cleaning units, 28-65nm logic and 2xnm memory."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_universal_300plus",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_universal_300plus",
+    "definition": "Hwatsing Universal-300Plus 12-inch CMP tool: four polishing units, single cleaning unit, 45-130nm Oxide/STI/Poly/Cu/W. First sale 2017."
+  },
+  {
+    "reporting_scope_id": "hwatsing_cmp_universal_300x",
+    "category_id": "cmp",
+    "label": "hwatsing_cmp_universal_300x",
+    "definition": "Hwatsing Universal-300X 12-inch CMP tool: 8-zone independent pneumatic polishing head, 14-45nm logic and 1xnm memory. Released 2020."
+  },
+  {
+    "reporting_scope_id": "hwatsing_materials_and_technical_services_2019_2021",
+    "category_id": "all_businesses",
+    "label": "hwatsing_materials_and_technical_services_2019_2021",
+    "definition": "Hwatsing 配套材料及技术服务 as reported in the 2022 IPO prospectus for FY2019-FY2021: consumables sales, polishing-head and other maintenance/technical services, and wafer-regeneration service. The non-equipment half of the prospectus product split; must never be read as CMP equipment."
+  },
+  {
+    "reporting_scope_id": "hwatsing_technical_services_and_other",
+    "category_id": "all_businesses",
+    "label": "hwatsing_technical_services_and_other",
+    "definition": "技术服务及其他 sub-line of Hwatsing 配套材料及技术服务: technical services including 7-zone polishing-head maintenance, the wafer-regeneration service business, and minor small-equipment and parts sales."
+  },
+  {
+    "reporting_scope_id": "hwatsing_tianjin_cmp_industrialisation_project",
+    "category_id": "multi_equipment",
+    "label": "hwatsing_tianjin_cmp_industrialisation_project",
+    "definition": "Hwatsing IPO-funded high-end semiconductor equipment (CMP) industrialisation project at Hai He Science Park, Jinnan District, Tianjin: 53,000 sqm, design capacity 100 chemical mechanical polishers per year explicitly including thinning equipment, 15-month build, total planned investment CNY 540.44m."
+  },
+  {
+    "reporting_scope_id": "hwatsing_versatile_gh300_grinder",
+    "category_id": "thinning_grinding",
+    "label": "Hwatsing Versatile-GH300 12-inch wafer grinder for advanced memory",
+    "definition": "Source-named Versatile-GH300, described in hwatsing_2025 p13 as 面向先进存储的高性能减薄机 that 集成了业界领先的超精密磨削技术 and on p21 as 面向先进存储的新型 12 英寸晶圆减薄装备. The issuer names only ultra-precision grinding for this model; unlike Versatile-GP300 no CMP/polishing or cleaning module is attributed to it, which is why it is placed at thinning_grinding rather than at the thinning parent. Scope covers the named model only and asserts nothing about shipments, orders, acceptances or installed base."
+  },
+  {
+    "reporting_scope_id": "hwatsing_versatile_gr200_grinder",
+    "category_id": "thinning_grinding",
+    "label": "Hwatsing Versatile-GR200 8-inch ring-retained wafer grinder",
+    "definition": "Source-named Versatile-GR200, described in hwatsing_h1_2026 p17 as 首台 8 英寸留环式晶圆减薄机 — a ring-retained (TAIKO-style) wafer grinder that leaves a support ring at the wafer edge. A standalone grinder: no polishing, CMP or stress-relief module is attributed to it in the source, hence thinning_grinding. Scope covers the named model only."
+  },
+  {
+    "reporting_scope_id": "hwatsing_versatile_gm300_thinning_taping",
+    "category_id": "thinning",
+    "label": "Hwatsing Versatile-GM300 combined thinning-and-taping machine",
+    "definition": "Source-named Versatile-GM300, 晶圆减薄贴膜一体机. A COMBINED tool: hwatsing_2023 p17 and hwatsing_2025 p13 both state one machine performs 薄型晶圆背面超精密磨削与应力去除 (ultra-precision backside grinding AND stress removal) plus film lamination, ring mounting and back-film peeling. The basket therefore spans thinning_grinding and thinning_stress_relief and is held at the thinning parent; it must not be allocated across the children."
+  },
+  {
+    "reporting_scope_id": "hwatsing_thinning_equipment_rd_project_ipo2022",
+    "category_id": "thinning",
+    "label": "Hwatsing 减薄设备研发项目, 2022 IPO prospectus project table",
+    "definition": "The single thinning-equipment R&D project listed in the 公司正在研发的项目 table of the 2022 STAR-market prospectus (PDF p215, printed p214). Stated goal: 研发先进制程 IC 后道工序中的晶圆背面超精密减薄设备并建立减薄工艺体系，通过大生产线考核验证; stated application 集成电路制造减薄工艺; stage 已完成、待验收. Kept at the thinning parent because at the prospectus date the only thinning machine the company had built was the combined 12-inch 减薄抛光一体机 Versatile-GP300 (grinding + CMP + post-clean, prospectus p139), so the budget cannot be resolved to grinding alone."
+  },
+  {
+    "reporting_scope_id": "hwatsing_thinning_thickness_sensor_integration_rd_project",
+    "category_id": "thinning",
+    "label": "Hwatsing in-progress project: thickness sensor integration into 12-inch wafer thinning equipment",
+    "definition": "Row 9 of the 在研项目情况 table in the FY2024 and FY2025 annual reports: 膜厚探测器在 12 英寸晶圆减薄装备的集成应用. Stated deliverable 研制 12 英寸晶圆高精度减薄验证平台，实现膜厚传感器在减薄装备上的集成与应用，满足产业化应用要求. The spending is resolved to thinning equipment, not to CMP and not to a standalone metrology product. Held at the thinning parent because the project names 减薄装备 generically and does not separate grinding from stress relief."
+  },
+  {
+    "reporting_scope_id": "hwatsing_300mm_automatic_trimming_tool_rd_project",
+    "category_id": "dicing",
+    "label": "Hwatsing in-progress project: 300mm fully automatic wafer Trimming tool",
+    "definition": "Row 7 of the 在研项目情况 table in the FY2024 and FY2025 annual reports: 300mm 晶圆超精密全自动 Trimming 机台, goal 研制出关键集成电路设备 Trimming 机台，满足产业化应用要求, stage 客户端验证. This is the programme behind the registered Versatile-DT300 platform. IMPORTANT SCOPE BOUNDARY: Hwatsing's 划切装备 family is edge trimming, not die singulation — the FY2025 report's 4、划切装备 section (p14-15) describes 边缘修整装备 that 通过精准切割、磨削等工艺，对晶圆边缘及倒角区域进行整形处理, and the DT300 platform record quotes 12 英寸晶圆边缘切割需求. Membership of dicing records the issuer's own 划切 labelling only and asserts nothing about wafer singulation, so no dicing_blade claim is made."
+  },
+  {
+    "reporting_scope_id": "hwatsing_thinning_gp300_gm300_gh300_combined",
+    "category_id": "thinning",
+    "label": "Hwatsing Versatile-GP300 + Versatile-GM300 + Versatile-GH300 combined",
+    "definition": "Combined cumulative factory-shipment count for Versatile-GP300, Versatile-GM300 and Versatile-GH300 together, as named as one group in Hwatsing's June 2026 placement-inquiry reply ('目前...主要量产机型包括...①GP300...②GM300...③GH300...累计出货超过20台'). GH300 is registered at the thinning_grinding child category (standalone grinder) while GP300 and GM300 sit at the thinning parent (combined grind+CMP+clean / grind+taping tools); this scope deliberately spans both because the source counts them together. Do not treat this total as thinning-parent-exclusive, split it across the three models, or add it to either hwatsing_integrated_thinning_polishing_unnamed or hwatsing_versatile_gp300_thinning (FY2025 single/narrower populations) without an explicit source linking the exact counted populations."
+  },
+  {
+    "reporting_scope_id": "hwatsing_xinyu_subsidiary_standalone",
+    "category_id": "implant",
+    "label": "Xinyu Semiconductor (Shanghai) standalone, pre-full-acquisition",
+    "definition": "芯嵛半导体（上海）有限公司's own standalone audited financials prior to Hwatsing's acquisition of its remaining 82% equity (2024-12-25 announcement), while Xinyu was a 参股子公司/associate, not yet consolidated into Hwatsing's own reporting. Entirely an implant-equipment business (Hwatsing's iPUMA ion-implant platforms). Not comparable to Hwatsing's own consolidated or segment revenue bases."
+  },
+  {
+    "reporting_scope_id": "hwatsing_xinyu_earnout_commitment_revenue",
+    "category_id": "implant",
+    "label": "Xinyu earn-out performance-commitment revenue (post-acquisition)",
+    "definition": "芯嵛半导体（上海）有限公司's revenue as calculated for the 2024-2026 earn-out performance-commitment test in Hwatsing's acquisition of Xinyu's remaining equity: per the 2024-12-25 acquisition announcement, the qualifying figure is the LOWER of (a) 1.25x the tax-exclusive sales revenue recognised in the year on accepted implant machines and (b) Xinyu's book 营业收入 -- a formula-driven basis distinct from Hwatsing's own recognised-revenue convention and from any plain total- or main-business-revenue label. Do not use as, or net against, a share-of-equipment-revenue percentage without restating both to the same basis."
+  },
+  {
+    "reporting_scope_id": "hwatsing_high_end_equipment_rd_project_2026",
+    "category_id": "multi_equipment",
+    "label": "高端半导体装备研发项目",
+    "definition": "2026 placement R&D project of four sub-projects; five-year programme. Plan."
+  },
+  {
+    "reporting_scope_id": "hwatsing_shanghai_base_project_new_capacity",
+    "category_id": "multi_equipment",
+    "label": "上海集成电路装备研发制造基地项目",
+    "definition": "2026 placement Shanghai base: new annual output of implant, CMP and thinning tools as one basket. Overlaps the per-product planned capacity rows."
+  },
+  {
+    "reporting_scope_id": "hwatsing_rd_subproject_front_end_advanced",
+    "category_id": "multi_equipment",
+    "label": "先进制程集成电路前道制造高端设备及工艺技术研发",
+    "definition": "Sub-project of the 2026 placement R&D project: CMP upgrades plus high-current, high-energy and medium-current implant. Stage 研究阶段."
+  },
+  {
+    "reporting_scope_id": "hwatsing_rd_subproject_advanced_packaging",
+    "category_id": "multi_equipment",
+    "label": "先进封装工艺设备及工艺技术研发",
+    "definition": "Sub-project of the 2026 placement R&D project: advanced thinning and dicing/edge-trim tools. Stage 研究阶段."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "quick_die_bonding_packaging_equipment_all_products",
+    "label": "固晶键合封装设备",
+    "category_id": "multi_equipment",
+    "definition": "Issuer source-native 固晶键合封装设备 broad product basket across die-bonding and packaging tool types. Product revenue, cost, production, sales and inventory cannot be allocated to the TCB prototype, HBM use, a named machine family or customer. 台/套 is retained as system for whole equipment; reported sales are not installed base."
+  },
+  {
+    "reporting_scope_id": "quick_parent_major_subsidiaries_employees",
+    "label": "母公司和主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "Year-end active employee total for the listed parent and major subsidiaries explicitly reported in FY2025 workforce table; not assumed to represent every consolidated entity."
+  }
+]

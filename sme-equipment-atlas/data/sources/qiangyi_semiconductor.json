@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "qiangyi_annual_2025",
+    "dataset_id": "qiangyi_annual_disclosures",
+    "title": "强一半导体（苏州）股份有限公司2025年年度报告",
+    "publication_date": null,
+    "publication_date_precision": "unknown",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604261821587768_1.pdf",
+    "sha256": "409f3fa2a1a6b2dacb1c89b802885eaffb472c5addf6029922b8f7c58c227bd0",
+    "source_type": "company_annual_report",
+    "original_document_id": "qiangyi_annual_2025",
+    "notes": "Public archival URL is Eastmoney-hosted, not asserted issuer or exchange primary. The local inventory filename says 2026-04-27, the URL identifier contains 20260426, PDF metadata is 2026-04-24, and physical p.249 states board approval/submission on 2026-04-24; none alone proves public release day, so publication date remains unknown. Held original hash and 249-page count are verified.",
+    "page_count": 249,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "qiangyi_semiconductor_q3_2026",
+    "dataset_id": "qiangyi_annual_disclosures",
+    "title": "qiangyi_semiconductor Q3 2026 report: 2026年第三季度报告",
+    "publication_date": "2026-10-27",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-27/1225626533.PDF",
+    "sha256": "9a9a0be28601226322c0fca4df059b813064a4ac0a33d86c3ac9824f52940686",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "qiangyi_semiconductor_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "qiangyi_semiconductor_h1_2026",
+    "dataset_id": "qiangyi_annual_disclosures",
+    "title": "qiangyi_semiconductor H1 2026 report: 2026年半年度报告",
+    "publication_date": "2026-08-31",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-31/1225534926.PDF",
+    "sha256": "b2eb8440da6f63bc07388f1d376c895204b3d2f03c22251176f8e14ac9da7b27",
+    "source_type": "company_interim_report",
+    "original_document_id": "qiangyi_semiconductor_h1_2026",
+    "page_count": 196,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "qiangyi_semiconductor_investment_agreement_20260930",
+    "dataset_id": "qiangyi_annual_disclosures",
+    "title": "qiangyi_semiconductor: 关于公司与江苏南通苏锡通科技产业园区管理委员会签订《投资协议书（三）》暨对外投资进展的公告",
+    "publication_date": "2026-10-01",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-01/1225590197.PDF",
+    "sha256": "3110bfbef56b0ac276fe940c167311b59aa2d96c74dbb9603ad3163760f71df5",
+    "source_type": "company_transaction_filing",
+    "original_document_id": "qiangyi_semiconductor_investment_agreement_20260930",
+    "page_count": 5,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

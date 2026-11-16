@@ -1,0 +1,38 @@
+[
+  {
+    "platform_id": "zhonghe_280t_dual_shot_system",
+    "entity_id": "zhonghe",
+    "category_id": "molding_transfer",
+    "record_kind": "named_model",
+    "name": "280T 双注塑系统 (280-ton dual-injection transfer-molding system)",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "SANJIA-H1-2026-P12-ZHONGHE-280T",
+      "source_id": "sanjia_interim_2026h1",
+      "page": 12,
+      "excerpt": "子公司众合半导体完成280T双注塑系统开发并实现首台交付验证，自动换管快拆将H单元更换时长由3小时缩短至20分钟。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "trial",
+    "maturity_as_reported_in": "sanjia_interim_2026h1",
+    "notes": "280-ton dual-injection ('双注塑', i.e. twin-shot transfer) molding system; the issuer's own H1 2026 report says the first unit was delivered for validation ('实现首台交付验证'), matching the atlas stage word 'trial' (shipped for customer validation). Zhonghe's established range is 120/180/200-ton (sanjia_zhonghe_acquisition_2025 p8); 280-ton is a step up. No memory or HBM customer or application named. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '280T 双注塑系统' confirmed contiguous in sanjia_interim_2026h1 p12 narrative using pdftotext without -layout (whitespace-stripped): '子公司众合半导体完成280T双注塑系统开发并实现首台交付验证'. category_id molding_transfer matches molding_transfer's own scope note, which names Zhonghe's 120/180/200/280-ton tonnage range explicitly as transfer-molding systems with no sub-split by tonnage. reported_maturity 'trial' correctly reflects the issuer's own '实现首台交付验证' (first unit delivered for validation), not upgraded to volume production. No aliases to check.",
+    "maturity_history": [
+      {
+        "claim_id": "SANJIA-H1-2026-P12-ZHONGHE-280T",
+        "source_id": "sanjia_interim_2026h1",
+        "page": 12,
+        "excerpt": "子公司众合半导体完成280T双注塑系统开发并实现首台交付验证。",
+        "as_of": "2026-06-30",
+        "date_basis": "source_stated_date",
+        "reported_maturity": "实现首台交付验证 (first unit delivered for validation)",
+        "status": "pending",
+        "reviewer": "",
+        "review_date": "",
+        "claim_kind": "company_reported",
+        "notes": "First disclosed mention of this model; no prior-period maturity to chain from."
+      }
+    ]
+  }
+]

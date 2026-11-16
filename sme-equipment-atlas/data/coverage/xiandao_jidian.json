@@ -1,0 +1,32 @@
+[
+  {
+    "coverage_id": "wanye-financial-intake",
+    "entity_id": "xiandao_jidian",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "scope": "Mixed issuer company financials; distinct main-business/reportable equipment baskets; consolidated Kingstone subsidiary financials; FY2025 issuer ion-implant production/sales/inventory",
+    "reviewed_source_ids": [
+      "wanye_2023",
+      "xiandao_jidian_2025"
+    ],
+    "notes": "48 source-checked numerical records. Company identity continues across rename. Financial histories are overlapping scopes, not additive suppliers. Inventory includes shipped tools pending acceptance.",
+    "next_action": "Newly acquired FY2024 annual and H1 2026 originals queued after documented local gap; fill equipment/R&D/quantity and interim financial depth. Category-market-share denominators remain absent."
+  },
+  {
+    "coverage_id": "wanye-financial-interim-and-vintages",
+    "entity_id": "xiandao_jidian",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2023-2026H1",
+    "status": "reviewed_found",
+    "scope": "FY2024 equipment/R&D and FY2023 later cost vintages; H126/H125 company/subsidiary financials, H126 equipment segment, distinct operating milestones",
+    "reviewed_source_ids": [
+      "wanye_2024",
+      "xiandao_jidian_h1_2026"
+    ],
+    "notes": "35 new source-checked records. Warranty-cost accounting and acquisition perimeters remain explicit. Neither market share nor a constant-perimeter growth panel is inferred.",
+    "next_action": "Deeper subsidiary balance sheets/orders and category/customer evidence remain; broaden first financial coverage to Yitang using locally held IPO and annual originals."
+  }
+]

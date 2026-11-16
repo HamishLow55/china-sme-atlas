@@ -1,0 +1,140 @@
+[
+  {
+    "observation_id": "JINGYI2022-CUMULATIVE-SALES-TOTAL",
+    "dataset_id": "jingyi_disclosures",
+    "source_id": "jingyi_inquiry_2024",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_equipment_sales",
+    "value": "80",
+    "relation": "eq",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2022-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_defined_domestic_overseas",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_inquiry_2024"
+    },
+    "evidence": {
+      "page": 159,
+      "original_label": "自成立至2022年末销售CMP设备 / TOTAL",
+      "excerpt": "发行人于 2019 年成立，自成立\n至 2022 年末，共销售 CMP 设备 80 台，其中，境内 67 台，境外 13 台。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "80",
+      "reported_unit": "system",
+      "review_notes": "Root directly checked the registered original hash, physical page, wording, native unit, geographic split and explicit end date. No second-agent review is claimed."
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Cumulative issuer CMP sales since its 2019 formation through explicit year-end 2022. Domestic/overseas follow source wording; do not silently substitute mainland/China-market scope. Total overlaps its two geographic components. Sales are not shipments, installations or active fleet. The adjacent competitor quantity is excluded."
+  },
+  {
+    "observation_id": "JINGYI2022-CUMULATIVE-SALES-DOMESTIC",
+    "dataset_id": "jingyi_disclosures",
+    "source_id": "jingyi_inquiry_2024",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_equipment_sales",
+    "value": "67",
+    "relation": "eq",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2022-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "source_domestic",
+      "geography_basis": "source_defined_domestic_overseas",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_inquiry_2024"
+    },
+    "evidence": {
+      "page": 159,
+      "original_label": "自成立至2022年末销售CMP设备 / DOMESTIC",
+      "excerpt": "发行人于 2019 年成立，自成立\n至 2022 年末，共销售 CMP 设备 80 台，其中，境内 67 台，境外 13 台。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "67",
+      "reported_unit": "system",
+      "review_notes": "Root directly checked the registered original hash, physical page, wording, native unit, geographic split and explicit end date. No second-agent review is claimed."
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Cumulative issuer CMP sales since its 2019 formation through explicit year-end 2022. Domestic/overseas follow source wording; do not silently substitute mainland/China-market scope. Total overlaps its two geographic components. Sales are not shipments, installations or active fleet. The adjacent competitor quantity is excluded."
+  },
+  {
+    "observation_id": "JINGYI2022-CUMULATIVE-SALES-OVERSEAS",
+    "dataset_id": "jingyi_disclosures",
+    "source_id": "jingyi_inquiry_2024",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_all",
+    "platform_id": "",
+    "metric_id": "cumulative_equipment_sales",
+    "value": "13",
+    "relation": "eq",
+    "unit": "system",
+    "period": {
+      "start": "",
+      "end": "2022-12-31",
+      "kind": "as_of",
+      "basis": "cumulative"
+    },
+    "dimensions": {
+      "geography": "source_overseas",
+      "geography_basis": "source_defined_domestic_overseas",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_inquiry_2024"
+    },
+    "evidence": {
+      "page": 159,
+      "original_label": "自成立至2022年末销售CMP设备 / OVERSEAS",
+      "excerpt": "发行人于 2019 年成立，自成立\n至 2022 年末，共销售 CMP 设备 80 台，其中，境内 67 台，境外 13 台。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23",
+      "independent_corroboration": false,
+      "reported_value": "13",
+      "reported_unit": "system",
+      "review_notes": "Root directly checked the registered original hash, physical page, wording, native unit, geographic split and explicit end date. No second-agent review is claimed."
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Cumulative issuer CMP sales since its 2019 formation through explicit year-end 2022. Domestic/overseas follow source wording; do not silently substitute mainland/China-market scope. Total overlaps its two geographic components. Sales are not shipments, installations or active fleet. The adjacent competitor quantity is excluded."
+  }
+]

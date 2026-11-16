@@ -1,0 +1,19 @@
+[
+  {
+    "link_id": "unicomp_h126_xray_hbm_rd_process_relevance",
+    "entity_id": "unicomp",
+    "category_id": "inspection_xray",
+    "platform_id": "",
+    "application_id": "hbm",
+    "source_id": "unicomp_h1_2026",
+    "page": 37,
+    "excerpt": "项目名称：集成电路 X 射线精密检测技术与系统。拟达到目标：满足集成电路传统封装及先进封装（TSV/TGV/HBM）的内部制程缺陷检测需求，匹配国际/国内客户的尖端应用需求（超高分辨率/晶圆级全域）检测设备的研发，形成系列化设备，保持产品和技术的双领先地位",
+    "claim_kind": "company_reported",
+    "link_kind": "process_relevance",
+    "status": "source_checked",
+    "reviewer": "Codex independent verifier",
+    "review_date": "2026-09-24",
+    "scope_note": "R&D project target for X-ray inspection of TSV/TGV/HBM internal-process defects; not shipment, acceptance, installed system or HBM qualification, and no named platform allocation. Root transcribed project-name and goal cells from rendered physical p37, retaining column labels to avoid interleaved progress/goal text.",
+    "claim_id": "UNICOMP-H126-P37-HBM-RD-GOAL"
+  }
+]

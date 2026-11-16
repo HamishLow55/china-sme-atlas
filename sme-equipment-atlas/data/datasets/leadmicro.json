@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "leadmicro_annual_disclosures",
+    "title": "Leadmicro annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "leadmicro",
+    "version": "deposition1-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF remains local.",
+    "market_definitions": {}
+  }
+]

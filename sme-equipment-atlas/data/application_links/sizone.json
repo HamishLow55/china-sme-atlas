@@ -1,0 +1,32 @@
+[
+  {
+    "application_id": "advanced_packaging",
+    "entity_id": "sizone",
+    "category_id": "cmp",
+    "platform_id": "sizone_ttais_300",
+    "source_id": "sizone_restructuring_2026",
+    "page": 427,
+    "excerpt": "TTAIS®300 CMP ... 主要应用于集成电路前道制造和先进封装",
+    "status": "source_checked",
+    "link_id": "cmp-landscape-1",
+    "scope_note": "Product-application description, not quantitative sales or independent qualification.",
+    "reviewer": "tsv_expansion_independent_verifier",
+    "review_date": "2026-09-21",
+    "link_kind": "supplier_capability"
+  },
+  {
+    "application_id": "hbm",
+    "entity_id": "sizone",
+    "category_id": "cmp",
+    "platform_id": "",
+    "source_id": "sizone_restructuring_2026",
+    "page": 572,
+    "excerpt": "DRAM制造 HBM 已实现产业化应用",
+    "status": "source_checked",
+    "link_id": "cmp-landscape-2",
+    "scope_note": "Transaction-filing company claim, no named customer/yield/volume; do not infer CXMT. Source does not assign row to named model.",
+    "reviewer": "tsv_expansion_independent_verifier",
+    "review_date": "2026-09-21",
+    "link_kind": "production_claim"
+  }
+]

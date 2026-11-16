@@ -1,0 +1,25 @@
+[
+  {
+    "entity_id": "sanjia",
+    "name": "Sanjia",
+    "aliases": [
+      "产投三佳（安徽）科技股份有限公司",
+      "三佳科技",
+      "文一科技",
+      "中发科技",
+      "HIIG Trinity (Anhui) Technology Co., LTD.",
+      "Trinity Technology",
+      "600520"
+    ],
+    "evidence": {
+      "source_id": "sanjia_annual_2025",
+      "page": 6,
+      "excerpt": "第二节 公司简介和主要财务指标 一、 公司信息 公司的中文名称 产投三佳（安徽）科技股份有限公司 公司的中文简称 三佳科技 公司的外文名称 HIIG Trinity (Anhui) Technology Co., LTD. 公司的外文名称缩写 Trinity Technology ... 公司股票简况 股票种类 股票上市交易所 股票简称 股票代码 变更前股票简称 A股 上海证券交易所 三佳科技 600520 文一科技",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Verified from the issuer's own 公司信息 section (FY2025 annual report, physical pp6-7, no offset): legal name 产投三佳（安徽）科技股份有限公司 (renamed to reflect new controlling shareholder Hefei Industrial Investment Group in 2025), short name 三佳科技, English name HIIG Trinity (Anhui) Technology Co., LTD., listed on the Shanghai Stock Exchange main board, code 600520, formerly named 文一科技 (Wenyi Technology; confirmed still the short name in the FY2021 annual report, wenyi_annual_2021 p5, itself formerly 中发科技/Zhongfa). MAIN BUSINESS: a diversified group, NOT primarily a semiconductor-equipment maker. Three disclosed segments in FY2025 (p25 分产品分行业): (1) semiconductor packaging equipment and molds via subsidiaries 铜陵富仕三佳机器 (molding presses/systems, automatic packaging systems) and 铜陵三佳山田 (packaging molds, trim-and-form/冲切成型 systems) plus, from Aug 2025, 安徽众合半导体 (automatic transfer-molding and trim-and-form machines) -- 塑封压机、系统 CNY 156.2m + 冲切成型系统 CNY 65.1m + other/molds within 'other' -- roughly 60% of FY2025 revenue; (2) chemical-building-materials PVC extrusion dies and downstream equipment for window/door profiles (its original business, 'Trinity' brand); (3) precision-stamped bearing seats and seals via subsidiary 建西精密. Only the molding-press/system product line (and, before 2022, the model-level transfer-molding and manual-press detail in the then-Wenyi IPO-era disclosures) carries a molding equipment category here; the trim-and-form, mold-tooling, extrusion and stamping lines do not.",
+    "entity_class": "china_supply_base"
+  }
+]

@@ -1,0 +1,147 @@
+period,hs8,usd_m,groups
+2021,84862010,1908.3,thermal
+2021,84862021,4234.2,deposition
+2021,84862022,1054.1,deposition
+2021,84862029,213.0,deposition
+2021,84862031,1141.3,litho
+2021,84862039,3555.5,litho
+2021,84862041,4288.6,dry_etch
+2021,84862049,1278.8,cleaning_strip
+2021,84862050,912.8,doping
+2021,84862090,2583.7,backend;cleaning_strip;cmp;track_automation_other
+2021,84864010,281.1,mask_making
+2021,84864021,173.6,backend
+2021,84864022,1585.4,backend
+2021,84864029,1584.3,backend
+2021,84864031,398.1,track_automation_other
+2021,84864039,1388.4,handling_unallocated;track_automation_other
+2021,90308200,776.2,test
+2021,90314100,2668.1,process_control
+2022,84862010,1743.2,thermal
+2022,84862021,3718.2,deposition
+2022,84862022,1102.4,deposition
+2022,84862029,251.5,deposition
+2022,84862031,1415.5,litho
+2022,84862039,2547.6,litho
+2022,84862041,3749.2,dry_etch
+2022,84862049,874.6,cleaning_strip
+2022,84862050,1062.9,doping
+2022,84862090,2240.1,backend;cleaning_strip;cmp;track_automation_other
+2022,84864010,378.4,mask_making
+2022,84864021,135.4,backend
+2022,84864022,920.2,backend
+2022,84864029,1252.6,backend
+2022,84864031,441.7,track_automation_other
+2022,84864039,1644.7,handling_unallocated;track_automation_other
+2022,90308200,640.9,test
+2022,90314100,3302.8,process_control
+2023,84861020,428.0,wafer_making
+2023,84861030,259.3,wafer_making
+2023,84861040,662.9,cmp;wafer_making
+2023,84861090,267.9,wafer_making
+2023,84862010,1809.2,thermal
+2023,84862021,4884.6,deposition
+2023,84862022,1407.0,deposition
+2023,84862029,528.2,deposition
+2023,84862031,1655.9,litho
+2023,84862039,7080.5,litho
+2023,84862041,4396.7,dry_etch
+2023,84862049,784.6,cleaning_strip
+2023,84862050,1331.6,doping
+2023,84862090,3531.4,backend;cleaning_strip;cmp;track_automation_other
+2023,84864010,569.0,mask_making
+2023,84864021,91.9,backend
+2023,84864022,509.4,backend
+2023,84864029,896.4,backend
+2023,84864031,496.3,track_automation_other
+2023,84864039,1260.9,handling_unallocated;track_automation_other
+2023,90308200,755.0,test
+2023,90314100,4120.6,process_control
+2024,84861020,375.1,wafer_making
+2024,84861030,195.3,wafer_making
+2024,84861040,514.2,cmp
+2024,84861090,160.8,wafer_making
+2024,84862010,2091.5,thermal
+2024,84862021,5443.5,deposition
+2024,84862022,1796.2,deposition
+2024,84862029,477.6,deposition
+2024,84862031,809.6,litho
+2024,84862039,9913.9,litho
+2024,84862041,5210.5,dry_etch
+2024,84862049,1218.6,cleaning_strip
+2024,84862050,1810.3,doping
+2024,84862090,4738.0,backend;cleaning_strip;cmp;track_automation_other
+2024,84864010,856.1,mask_making
+2024,84864021,63.3,backend
+2024,84864022,618.5,backend
+2024,84864029,866.4,backend
+2024,84864031,451.1,track_automation_other
+2024,84864039,1639.1,handling_unallocated;track_automation_other
+2024,90308200,610.1,test
+2024,90314100,4393.4,process_control
+2025,84861020,420.6,wafer_making
+2025,84861030,179.7,wafer_making
+2025,84861040,633.9,cmp
+2025,84861090,129.2,wafer_making
+2025,84862010,1631.9,thermal
+2025,84862021,6220.4,deposition
+2025,84862022,1502.9,deposition
+2025,84862029,632.4,deposition
+2025,84862031,528.8,litho
+2025,84862039,10092.6,litho
+2025,84862041,6423.8,dry_etch
+2025,84862049,1075.2,cleaning_strip
+2025,84862050,1352.9,doping
+2025,84862090,5231.4,backend;cleaning_strip;cmp;track_automation_other
+2025,84864010,1027.7,mask_making
+2025,84864021,88.8,backend
+2025,84864022,623.9,backend
+2025,84864029,1034.8,backend
+2025,84864031,410.3,track_automation_other
+2025,84864039,1384.5,handling_unallocated;track_automation_other
+2025,90308200,503.9,test
+2025,90314100,4481.7,process_control
+2025 Jan-Sep,84861020,284.8,wafer_making
+2025 Jan-Sep,84861030,131.0,wafer_making
+2025 Jan-Sep,84861040,556.4,cmp;wafer_making
+2025 Jan-Sep,84861090,102.9,wafer_making
+2025 Jan-Sep,84862010,1268.7,thermal
+2025 Jan-Sep,84862021,4979.6,deposition
+2025 Jan-Sep,84862022,1168.1,deposition
+2025 Jan-Sep,84862029,496.0,deposition
+2025 Jan-Sep,84862031,364.4,litho
+2025 Jan-Sep,84862039,6228.6,litho
+2025 Jan-Sep,84862041,5117.5,dry_etch
+2025 Jan-Sep,84862049,826.2,cleaning_strip
+2025 Jan-Sep,84862050,1118.5,doping
+2025 Jan-Sep,84862090,3860.3,backend;cleaning_strip;cmp;track_automation_other
+2025 Jan-Sep,84864010,707.0,mask_making
+2025 Jan-Sep,84864021,58.7,backend
+2025 Jan-Sep,84864022,413.0,backend
+2025 Jan-Sep,84864029,792.2,backend
+2025 Jan-Sep,84864031,323.6,track_automation_other
+2025 Jan-Sep,84864039,1054.3,handling_unallocated;track_automation_other
+2025 Jan-Sep,90308200,370.1,test
+2025 Jan-Sep,90314100,3550.7,process_control
+2026 Jan-Sep,84861020,282.8,wafer_making
+2026 Jan-Sep,84861030,133.8,wafer_making
+2026 Jan-Sep,84861040,269.9,cmp
+2026 Jan-Sep,84861090,68.6,wafer_making
+2026 Jan-Sep,84862010,1450.1,thermal
+2026 Jan-Sep,84862021,5323.3,deposition
+2026 Jan-Sep,84862022,984.7,deposition
+2026 Jan-Sep,84862029,457.2,deposition
+2026 Jan-Sep,84862031,227.3,litho
+2026 Jan-Sep,84862039,5583.8,litho
+2026 Jan-Sep,84862041,5356.9,dry_etch
+2026 Jan-Sep,84862049,501.8,cleaning_strip
+2026 Jan-Sep,84862050,1008.9,doping
+2026 Jan-Sep,84862090,3707.3,backend;cleaning_strip;cmp;track_automation_other
+2026 Jan-Sep,84864010,336.3,mask_making
+2026 Jan-Sep,84864021,48.9,backend
+2026 Jan-Sep,84864022,856.8,backend
+2026 Jan-Sep,84864029,779.6,backend
+2026 Jan-Sep,84864031,365.1,track_automation_other
+2026 Jan-Sep,84864039,820.4,handling_unallocated;track_automation_other
+2026 Jan-Sep,90308200,363.0,test
+2026 Jan-Sep,90314100,3195.7,process_control

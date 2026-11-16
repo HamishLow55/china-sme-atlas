@@ -1,0 +1,206 @@
+[
+  {
+    "coverage_id": "leadmicro-operational-packet-20260923",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Bounded FY2023/FY2025 product tables, orders, model identities and capability claims; full two-source sweep still open.",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "54 source-checked observations, 17 platform/family records including one explicitly node-scoped High-k gate-oxide claim, and seven existing-history appends. Source table stage definitions, Demo-inclusive order stock and source-vintage financial comparisons retained. Eight additional major-contract cells remain native holds in the review.",
+    "next_action": "Reconcile the full source/topic ledger and major-contract lifecycle/time bases; preserve native capability and date holds before reopening financial depth."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-product_definitions",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 12,13,14,15,17,18,19,20,28,30: Source family/model roster and stage tables; FY2023 iTomic/iTronix generic maturity is not assigned to every named subtype. | leadmicro_annual_2025 physical pp 12,13,14,15,16,21,22,23,24,62: Source-defined ALD/CVD, photovoltaics and new applications are covered; p62 High-k claim is source-native family, not automatically named HiK model.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-shipments_installations",
+    "entity_id": "leadmicro",
+    "status": "unresolved",
+    "scope": "Cumulative shipments and installations, preserving equipment units across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 12,14,15,18,22,70: First shipments and customer-line entry exist; full-original cumulative hits p12/p22 refer to photovoltaic industry installations, not Leadmicro's installed equipment fleet. | leadmicro_annual_2025 physical pp 18,21,22,23,24,26,28,62: Product shipment/installation narratives exist; p18 cumulative installed capacity is national PV industry, not Leadmicro tools.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-product_volumes",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "All sibling per-product production, sales and inventory rows across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 39,40: p39 four product revenue sibling rows and p39–40 专用设备 unit row are covered by canonical observations; 台/套 systems are not chamber counts. | leadmicro_annual_2025 physical pp 35,36: p35 full four-sibling product revenue grid and p36 broad 专用设备 211/341/472 台/套 volume row are canonical, including printed growth cells.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-orders_backlog",
+    "entity_id": "leadmicro",
+    "status": "unresolved",
+    "scope": "Orders and backlog, tax and conditional status across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 9,12,13,14,40,44,235: p12 new orders and March-2024 Demo-inclusive backlog are canonical; p40 ten contract monetary cells and p235 named Suntech litigation remain separate native holds. | leadmicro_annual_2025 physical pp 21,23,24,33,36,88,187,205: p33 qualitative backlog risk and p36 eight contract cells; p88 rounded amendment and p187 RD-project signed-order statuses are held. p205 incentive targets are not actual orders.",
+    "next_action": "Resolve named contract identity/time bases and map held major-contract cells from original source vintages; do not equate remaining fulfilment with whole-firm backlog."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-customers",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Customer counts and named customers without identity inference across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 13,14,15,42,235: p13–15 names 京东方、合肥视涯、浙江宏禧 and photovoltaic customers; p42 top-five are period-specific pseudonyms; p235 additionally names Suntech in a 2021 contract. | leadmicro_annual_2025 physical pp 22,26,38,88: p38 top-five customer ranks are anonymized and period-specific; p88 Customer A remains anonymous. No pseudonym is linked across source years or contract tables.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-qualification_validation",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 12,13,14,15,17,18,20,28,70: First-unit, customer-validation, acceptance and industrialization stages are distinct; no accepted deployment count inferred. | leadmicro_annual_2025 physical pp 21,22,23,24,62,187: Named and generic product validation stages are retained; p187 five RD-project codes have signed orders and ongoing validation but no model bridge.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-production_capacity",
+    "entity_id": "leadmicro",
+    "status": "unresolved",
+    "scope": "Actual versus planned capacity across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 16,17,18,19,28,29,30,33,36,69: Manufacturing/factory and per-tool throughput claims exist, but no source-bound annual factory tools/year output quantity was found in the complete original review. | leadmicro_annual_2025 physical pp 23,24,25,27,28,29,30,31,39,62: p25 planned semiconductor factory expansion and product throughput claims are not annual factory tools/year output; no quantitative factory capacity established.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-operational-sweep-20260923-process_nodes",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across leadmicro_annual_2023, leadmicro_annual_2025",
+    "reviewed_source_ids": [
+      "leadmicro_annual_2023",
+      "leadmicro_annual_2025"
+    ],
+    "notes": "leadmicro_annual_2023 physical pp 6,24,25,26,27,28,70: Full-original numeric-node hits p24–28 are industry/history explanatory material; p70 High-k application has no node number. No FY2023 source-bound numerical node capability is claimed. | leadmicro_annual_2025 physical pp 6,20,62: p62 ties breakthrough of the 28nm process-node difficulty to High-k ALD gate-oxide technology; does not identify the named iTomic HiK model, and generic p20 industry history is not a company capability.",
+    "next_action": "Preserve source-native holds and review any newly registered original before changing this source-set coverage."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-named_product_definitions",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Named semiconductor equipment and maturity definitions in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "H1 pp10-12 repeats existing named semiconductor ALD/CVD roster. H1 p11 iTronix LP 产业化应用 stage was integrated into existing platform leadmicro_itronix_lp; p11 iTomic MW 25 12-inch wafers is per process chamber and was integrated into leadmicro_itomic_mw. H1 p12 defines stages. Q1 has no named product roster. No additional platform identity.",
+    "next_action": "Preserve model histories without duplicating LP/MW; revisit only on later source."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-shipments_installations",
+    "entity_id": "leadmicro",
+    "status": "reviewed_not_found",
+    "scope": "Cumulative semiconductor equipment shipments and installed base in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "Explicit full-original searches of 累计出货, 累计销售, 出货量, 装机, 安装量, 已售 and operating sections found no Leadmicro semiconductor whole-tool cumulative shipment or installed-base count. H1 p15 光伏装机 is national PV industry capacity, not vendor installed tools. MW p11 25 wafers is per chamber capacity, not installed machines.",
+    "next_action": "Keep absence source-bounded; do not infer counts from sales/stage labels."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-product_volumes",
+    "entity_id": "leadmicro",
+    "status": "reviewed_not_found",
+    "scope": "Per-product semiconductor tool production, sales and inventory unit counts in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "No named-model or semiconductor-only tool-unit production, sales or inventory count in either report. H1 pp10-12 product table states maturity only; H1 p11 MW 25 wafers per chamber is a batch-capacity specification. FY2023/FY2025 annual broad 专用设备 counts remain separate existing observations.",
+    "next_action": "Do not convert H1 revenue, stage, or wafer throughput into tool units."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-orders_backlog",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Semiconductor orders and backlog in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "H1 p7 actual semiconductor share of all new orders is captured in leadmicro_recent_native_034 with strict lower bound and explicit denominator. No monetary backlog or named-model allocation. H1 pp161-162 are incentive targets, not actual orders. Q1 has no relevant actual order quantity.",
+    "next_action": "Reopen on a new source; no model/HBM allocation."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-customers_qualification",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Semiconductor customer identities and validation stages in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "H1 p17 says multiple ALD/CVD products gained key-customer validation and production introduction and advanced-packaging tools are being verified at customer sites; p20 reports commercial orders from unnamed logic, memory, advanced-packaging, compound and display companies. No named semiconductor customer or numeric customer count. Named p20 customers are PV. Q1 lacks model-specific validation.",
+    "next_action": "Retain portfolio qualifiers; no blanket model qualification or named-customer inference."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-production_capacity",
+    "entity_id": "leadmicro",
+    "status": "reviewed_not_found",
+    "scope": "Annual semiconductor equipment manufacturing capacity and utilization in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "H1 p18 says semiconductor thin-film equipment smart-factory project investment progress exceeded 60%, but states no annual tools/year output capacity or utilization. H1 p11 and p22 MW 25 wafers per chamber is per-chamber batch capacity, not factory capacity. Q1 has no equipment capacity disclosure.",
+    "next_action": "Keep factory project progress separate from realized production capacity."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-nodes_hbm",
+    "entity_id": "leadmicro",
+    "status": "reviewed_not_found",
+    "scope": "Source-bound Leadmicro HBM deployment or numbered process-node qualification in Q1/H1 2026 originals",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "H1 p14 mentions HBM and GAA-FET as industry demand drivers, without attributing a Leadmicro machine, customer deployment or qualification. H1 p17 names DRAM/3D NAND applications at portfolio level but no HBM. Neither original gives a new specific numerical process-node claim. Older FY2025 High-k/28nm family evidence remains separate. Q1 has no HBM/node claim.",
+    "next_action": "Do not add HBM application or node link from market context."
+  },
+  {
+    "coverage_id": "leadmicro-recent-2026-key_financials",
+    "entity_id": "leadmicro",
+    "status": "reviewed_found",
+    "scope": "Q1/H1 2026 company revenue, attributable profit, operating cash flow, R&D and H1 disclosed product revenue/cost; source-printed comparative/growth cells",
+    "reviewed_source_ids": [
+      "leadmicro_q1_2026",
+      "leadmicro_h1_2026"
+    ],
+    "notes": "54 checked observations in leadmicro_recent_keys.json include operating composition and chamber capability. Main-business product basket remains distinct from company revenue; PV/service/other siblings retained. Narrative precision and accounting periods preserved.",
+    "next_action": "Recent-window key baseline complete; no further financial depth planned. Reopen on a new operational or key disclosure."
+  }
+]

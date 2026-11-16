@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "yadian_prospectus_2025",
+    "dataset_id": "yadian_ipo_disclosures",
+    "entity_id": "yadian",
+    "title": "江苏亚电科技股份有限公司 首次公开发行股票并在科创板上市 招股说明书（申报稿）",
+    "source_type": "company_prospectus",
+    "publication_date": "2025-09-26",
+    "publication_date_precision": "unknown",
+    "reporting_period_end": "2025-06-30",
+    "locator_kind": "pdf",
+    "page_count": 419,
+    "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202509/002097_20250926_BC32.pdf",
+    "sha256": "3917968b9cf7f79464cc66c8b35dfb4b330e4eb72dcbcc79e9d2ac7c8f815843"
+  }
+]

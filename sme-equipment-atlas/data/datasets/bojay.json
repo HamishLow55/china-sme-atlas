@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "bojay_annual_disclosures",
+    "title": "Bojay (Zhuhai Bojay Electronics, 002975) periodic disclosures",
+    "kind": "company_filings",
+    "publisher": "bojay",
+    "version": "w13_2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF held locally. Bojay's own filing is the only located source for its subsidiary Bojiexin's financial figures (cross-entity source use: dataset/source owned by the filing entity bojay, used to support bojiexin-entity observations), following the existing shanghai_electric_holdings/smee and sanjia/zhonghe pattern.",
+    "market_definitions": {}
+  }
+]

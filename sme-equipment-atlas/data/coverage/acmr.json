@@ -1,0 +1,186 @@
+[
+  {
+    "entity_id": "acmr",
+    "category_id": "cleaning",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "notes": "Five annual observations independently checked; broad reporting segment retained.",
+    "next_action": "Complete H1 2026 public-original intake; historical depth deferred under recent-window stopping rule.",
+    "coverage_id": "acmr-revenue-21",
+    "scope": "acmr_cleaning 2021-2025",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ]
+  },
+  {
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "notes": "Five annual observations independently checked; broad reporting segment retained.",
+    "next_action": "Complete H1 2026 public-original intake; historical depth deferred under recent-window stopping rule.",
+    "coverage_id": "acmr-revenue-22",
+    "scope": "acmr_ecp_furnace_other 2021-2025",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ]
+  },
+  {
+    "entity_id": "acmr",
+    "category_id": "multi_equipment",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "notes": "Five annual observations independently checked; broad reporting segment retained.",
+    "next_action": "Complete H1 2026 public-original intake; historical depth deferred under recent-window stopping rule.",
+    "coverage_id": "acmr-revenue-23",
+    "scope": "acmr_packaging_services_spares 2021-2025",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ]
+  },
+  {
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "2021-2025",
+    "status": "reviewed_found",
+    "notes": "Five annual observations independently checked; broad reporting segment retained.",
+    "next_action": "Complete H1 2026 public-original intake; historical depth deferred under recent-window stopping rule.",
+    "coverage_id": "acmr-revenue-24",
+    "scope": "company 2021-2025",
+    "reviewed_source_ids": [
+      "acmr_us_2023",
+      "acmr_us_2025"
+    ]
+  },
+  {
+    "coverage_id": "acmr_fy2024_installed_base_sweep",
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "metric_id": "cumulative_installations",
+    "period": "2024",
+    "status": "reviewed_not_found",
+    "scope": "ACM US FY2024 annual original: numerical installed base only",
+    "reviewed_source_ids": [
+      "acmr_us_2024"
+    ],
+    "notes": "Root original-text review: physical pages 14, 17, 29, 32 and 58; full-document installed/installations/deployment search and customer delivery passages examined. No numerical installed fleet found in this named source. Customer passage reports deliveries including tools awaiting acceptance or discretionary purchase, not installations; existing cumulative delivery observations retain that distinction. Qualitative installed-base competition and growing-installations language supplies no count. This does not disposition other operational topics or other originals.",
+    "next_action": "Retain source-bounded absence; reopen for H1 2026 and other named originals, without treating delivery totals as installed stock."
+  },
+  {
+    "coverage_id": "acmr_fy2025_installed_base_sweep",
+    "entity_id": "acmr",
+    "category_id": "all_businesses",
+    "metric_id": "cumulative_installations",
+    "period": "2025",
+    "status": "reviewed_not_found",
+    "scope": "ACM US FY2025 annual original: numerical installed base only",
+    "reviewed_source_ids": [
+      "acmr_us_2025"
+    ],
+    "notes": "Root original-text review: physical pages 8, 10, 13, 15, 25, 28 and 52; full-document installed/installations/deployment search and customer delivery passages examined. No numerical installed fleet found in this named source. Customer passage reports deliveries including tools awaiting acceptance or discretionary purchase, not installations; existing cumulative delivery observations retain that distinction. Qualitative installed-base competition and growing-installations language supplies no count. This does not disposition other operational topics or other originals.",
+    "next_action": "Retain source-bounded absence; reopen for H1 2026 and other named originals, without treating delivery totals as installed stock."
+  },
+  {
+    "coverage_id": "acmr_recent_orders_backlog",
+    "entity_id": "acmr",
+    "status": "reviewed_not_found",
+    "scope": "Numerical new orders and closing backlog in FY2024/FY2025 US annual originals",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "FY2024 p15 says short delivery periods and rescheduling/cancellation make backlog unreliable as a future-revenue indicator. FY2025 p10 describes purchase orders sought four to six months before delivery and possible delay/adjustment/cancellation. No numerical order or backlog stock found in these sales sections and full-document backlog search; shipment value on FY2025 p66 is not backlog.",
+    "next_action": "Retain named-source absence for numerical backlog; no substitution of shipments, contract liabilities or forecast revenue."
+  },
+  {
+    "coverage_id": "acmr_recent_production_capacity",
+    "entity_id": "acmr",
+    "status": "reviewed_not_found",
+    "scope": "Numerical annual factory equipment output capacity in FY2024/FY2025 US annual originals",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "FY2024 pp15,51 and FY2025 pp11,46 describe manufacturing sites, expansion and floor space. FY2024 starts Lingang initial operations in Q4; FY2025 says substantially all tools built to order there. No numerical tools/year factory capacity in these manufacturing/properties passages or capacity search. Floor area and process throughput do not establish equipment output capacity.",
+    "next_action": "Retain source-bounded absence for numerical factory output; facility-area extraction is lower priority than HBM gaps."
+  },
+  {
+    "coverage_id": "acmr_recent_product_definitions",
+    "entity_id": "acmr",
+    "status": "unresolved",
+    "scope": "Source-defined product families and model identities in FY2024/FY2025 US annual originals",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Sol original review: FY2024 pp9,11-14 and FY2025 pp9-10. Existing Shanghai families cover SAPS/TEBO, Tahoe, ECP map/3d, furnace, PECVD, track and packaging. Named SAPS II/V, TEBO II/V and Ultra C VI need exact nested identity review before model creation. Do not duplicate platforms under US parent or treat family/model overlap as distinct equipment. Accepted family histories acmr_2024_saps_model_names and acmr_2024_tebo_model_names retain exact model naming under existing families; five separate model records remain held for ownership/family ambiguity.",
+    "next_action": "Hold narrower model-to-family mappings; use existing Shanghai identities where already supported."
+  },
+  {
+    "coverage_id": "acmr_recent_customers",
+    "entity_id": "acmr",
+    "status": "reviewed_found",
+    "scope": "Historical named customer lists, not model qualification in FY2024/FY2025 US annual originals",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Sol original review: FY2024 p14 names front-end Huali Huahong, SMIC, SK Hynix, YMTC, CXMT, PXW and SiEn; assembly/packaging names Jiangyin Changdian, Nantong Tongfu, Nepes and Wafer Works. Source says customers have included; neither current total customer count nor model-specific qualification is established. FY2025 p10 presents customer-type revenue shares, not new names.",
+    "next_action": "Preserve historical company-level customer names; do not attach them to individual products without source support."
+  },
+  {
+    "coverage_id": "acmr_recent_qualification_nodes",
+    "entity_id": "acmr",
+    "status": "unresolved",
+    "scope": "Technology tests, equipment evaluations and process-node claims in FY2024/FY2025 US annual originals",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Sol original review: FY2024 pp12-13 separates TEBO tests on customer 1xnm (16-19nm) patterned wafers from TEBO II/V being evaluated by unnamed memory/logic customers; 28nm-or-less equipment capability is separate. FY2025 p9 repeats TEBO technology claim and ECP map 28nm/14nm-and-beyond application context; furnace/PECVD/track evaluation/adoption language is grouped. No production qualification or HBM qualification inferred. Existing ECP 3d-to-TSV application link already covers FY2024 p9. Accepted family history acmr_2024_tebo_group_evaluation preserves generic evaluation; acmr_2024_tebo_model_names carries source-native 28nm-or-less capability context. Neither establishes named-model customer qualification.",
+    "next_action": "Hold exact node-to-model numeric mapping pending scope definitions; retain source-native technology versus equipment-stage distinction."
+  },
+  {
+    "coverage_id": "acmr_recent_product_volumes",
+    "entity_id": "acmr",
+    "status": "reviewed_not_found",
+    "scope": "FY2024/FY2025 US annual per-product physical production, sales and inventory quantities",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Reviewed product/customer sections FY2024 pp9-17 and FY2025 pp8-13, operating revenue/cost discussions FY2024 pp64-65 and FY2025 pp55-57, shipment definitions FY2024 pp76-77 and FY2025 p66, and full-document physical-sales/shipment/production wording search. No sibling physical production/sales/inventory table found. Shipment dollars and monetary inventory are not physical volumes; cumulative issuer-wide deliveries are separately captured. Shanghai product-volume evidence has a distinct reporting perimeter.",
+    "next_action": "Retain source-specific absence, not zero; do not infer physical volumes from shipment dollars."
+  },
+  {
+    "coverage_id": "acmr_recent_shipments_disposition",
+    "entity_id": "acmr",
+    "status": "reviewed_found",
+    "scope": "FY2024/FY2025 US annual cumulative deliveries and shipment-value flows",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Four cumulative delivery bounds are canonical from FY2024 p14/FY2025 p10. Nine total/repeat/first shipment-value cells are canonical from FY2025 p66 including same-passage FY2023 comparative. Installed-base absence is separately dispositioned. No annual tool count inferred by differencing lower bounds; no count conversion from USD shipment values.",
+    "next_action": "Reopen for a new recent original or source-specific correction only; stop annual financial-depth extraction."
+  },
+  {
+    "coverage_id": "acmr_recent_us_interim_acquisition_hold",
+    "entity_id": "acmr",
+    "status": "unresolved",
+    "scope": "US parent H1 2026 key financials and operational sweep: original acquisition hold",
+    "reviewed_source_ids": [
+      "acmr_us_2024",
+      "acmr_us_2025"
+    ],
+    "notes": "Reviewed source IDs name held annual originals, not the missing interim. Local workspace/OSINT/Downloads inventory did not locate the US H1 original. Issuer quarterly-results route leads to https://ir.acmr.com/sec-filings/sec-filing/10-q/0001628280-26-054832 ; official PDF https://ir.acmr.com/static-files/a551ea7a-b44d-42d7-a7cd-9b174bd53909 remains unavailable to local downloader. Alternative official Q2 results PDF https://ir.acmr.com/static-files/6457e125-6b02-4dc9-8a4c-1c7a2ba11d5a also returned HTTP403. Web-readable material is not registered without an archived original hash. No values imported from those pages. Captured Shanghai H1 keys are not a substitute for US parent results.",
+    "next_action": "Acquire a valid public original through an available download route, then hash/register and extract key financials plus operational topics. Do not repeat failed requests without a changed route; retained-source work is dispositioned, not complete US H1 coverage."
+  }
+]

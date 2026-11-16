@@ -1,0 +1,101 @@
+[
+  {
+    "coverage_id": "hiwave_2025_named_product_families_and_definitions",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "named product families and definitions",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 5, 6, 7. Ultrasonic scanning microscope is the sole named equipment family. Filing says dozens of models, 1–230 MHz probes and named scan modes, but supplies no model names or separate family breakdown. Detection services, software, leasing, probes and fixtures are distinct non-equipment or ancillary offerings. Semiconductor front-end and back-end applications are company claims within a multi-industry scope.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_cumulative_shipments_installations",
+    "entity_id": "hiwave",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments installations",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 6, 67. No cumulative shipped or installed system count disclosed. Installation and acceptance appear only as revenue-recognition steps; production-line use and existing purchasers do not quantify installed base.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_sales_production_inventory",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "sales production inventory",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 9, 11. P11 reports equipment-sales revenue of CNY 57,810,975.29 for FY2025, across the issuer’s applications. It is neither semiconductor-only sales nor a unit count. No per-product unit sales, production or inventory grid disclosed. P9 discusses increased raw material and work-in-process investment, without physical quantities.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_orders_backlog",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 9, 10, 11. Company says orders and equipment order contracts increased; no numeric order intake or backlog disclosed.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_customers_counts_names",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "customers counts names",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 12, 14. P12 has five ranked customers labeled 客户 001–005 with sales and shares, but no real customer names or total customer count. P14 claims established customer groups in several sectors and entry into a domestic new-energy vehicle supplier system; it does not identify semiconductor customers.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_qualification_validation",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "qualification validation",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 14, 67. New-energy automotive supplier-system entry is a company claim. Standard equipment acceptance is stated for revenue recognition. No named semiconductor-customer qualification, validation result, or HBM qualification disclosed.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_production_capacity",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "production capacity",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 14. P14 says capacity is gradually expanding in a procurement-risk response; no tools-per-year capacity, factory-line count or dated capacity measure disclosed.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_process_node",
+    "entity_id": "hiwave",
+    "status": "reviewed_not_found",
+    "scope": "process node",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Sol reviewed original operational topics across the 112-page source; relevant physical pages 6. No equipment-attached numeric semiconductor process-node claim disclosed. Probe frequency (MHz) is an instrument specification, not a process node.",
+    "next_action": "Retain source boundaries. Numerical equipment revenue needs separate extraction and verification; reopen absent operational claims only for a located passage or new original."
+  },
+  {
+    "coverage_id": "hiwave_2025_recent_keys",
+    "entity_id": "hiwave",
+    "status": "reviewed_found",
+    "scope": "FY2025/FY2024 company keys, FY2025 source product grid and employee totals",
+    "reviewed_source_ids": [
+      "hiwave_2025"
+    ],
+    "notes": "Original physical pp7/8/10/11/24 independently checked: company revenue, attributable profit, OCF, R&D expense, product revenue/cost/margins/printed growth, beginning/end total employees. Source product baskets span served industries; not semiconductor-only. Six source cells remain held for metric or scope ambiguity in the sweep review.",
+    "next_action": "Prioritize HBM category gaps over financial depth. Recent interim original remains a separate source gap; no interim absence inferred from annual filing."
+  }
+]

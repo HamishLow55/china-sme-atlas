@@ -1,0 +1,38 @@
+year,level,category_en,category_zh,revenue_cny_100m,revenue_yoy_pct,exports_cny_100m,exports_yoy_pct,n_firms,source_bulletin,vintage,note
+2021,total,"Semiconductor equipment, total",半导体设备总计,385.0,58.5,25.48,52.0,58,CEPEA 行业简讯 2022-06,as first reported,Headline table gives exports 31.84 (+25%) and profit 90.02; category table sums exports to 25.48
+2021,category,IC equipment,集成电路设备,173.07,78.9,15.64,18.4,58,CEPEA 行业简讯 2022-06,as first reported,
+2021,category,Solar-cell equipment,太阳能电池设备,172.76,43.1,7.89,132.7,58,CEPEA 行业简讯 2022-06,as first reported,
+2021,category,LED equipment,LED设备,18.03,101.2,1.05,1066.7,58,CEPEA 行业简讯 2022-06,as first reported,
+2021,category,Discrete-device and other equipment,分立器件设备及其他,21.14,28.3,0.9,1185.7,58,CEPEA 行业简讯 2022-06,as first reported,
+2022,total,"Semiconductor equipment, total",半导体设备总计,592.98,53.6,70.77,119.2,77,CEPEA 行业简讯 2023-06,as first reported,Profit 149.5
+2022,category,IC equipment,集成电路设备,288.92,68.5,53.51,109.6,77,CEPEA 行业简讯 2023-06,as first reported,Later CEPEA-attributed figure: 319 (+86.1%) per CSEAC Dec 2023 write-up and 2024_06 chart; revised
+2022,category,Solar-cell equipment,太阳能电池设备,238.47,37.2,16.12,152.0,77,CEPEA 行业简讯 2023-06,as first reported,
+2022,category,LED equipment,LED设备,30.66,61.0,1.1,388.8,77,CEPEA 行业简讯 2023-06,as first reported,
+2022,category,Discrete-device and other equipment,分立器件设备及其他,34.93,61.3,0.04,-72.3,77,CEPEA 行业简讯 2023-06,as first reported,
+2023,total,"Semiconductor equipment, total",半导体设备总计,887.09,49.6,77.87,10.0,84,CEPEA 行业简讯 2024-06,as first reported,Profit 219.8
+2023,category,IC equipment,集成电路设备,460.12,44.2,57.97,8.3,84,CEPEA 行业简讯 2024-06,as first reported,2026_06 chart shows 472.5 (revised)
+2023,subcategory,IC chip (wafer) manufacturing equipment,集成电路芯片制造设备,378.47,71.5,,,84,CEPEA 行业简讯 2024-06,as first reported,"From text, not table; packaging & test equipment fell 18%"
+2023,category,Solar-cell equipment,太阳能电池片设备,377.69,65.4,18.89,17.2,84,CEPEA 行业简讯 2024-06,as first reported,
+2023,category,LED equipment,LED设备,16.96,-44.7,0.86,-22.8,84,CEPEA 行业简讯 2024-06,as first reported,
+2023,category,Discrete-device and other equipment,分立器件设备及其他,32.32,115.3,0.15,294.5,84,CEPEA 行业简讯 2024-06,as first reported,
+2024,total,"Semiconductor equipment, total",半导体设备总计,1178.71,32.9,85.93,10.3,82,CEPEA 行业简讯 2025-06,as first reported,"Profit 187.56. Restated on 2025 sample (2026_06): revenue 1240.89, exports 86.23, profit 191.17"
+2024,category,IC equipment,集成电路设备,625.02,35.8,50.93,-12.2,82,CEPEA 行业简讯 2025-06,as first reported,The 2025 bulletin's 28.9% growth for 2025 is measured on the 2025 sample
+2024,subcategory,Silicon-wafer (substrate) equipment,半导体硅片设备,29.19,76.9,3.8,82.9,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,subcategory,Wafer (chip) fab equipment,晶圆(芯片)制造设备,493.64,30.4,44.94,-15.7,82,CEPEA 行业简讯 2025-06,as first reported,Text: 35 IC chip production equipment firms; 2022-24 CAGR 49.6%
+2024,subcategory,Packaging and test equipment,封装测试设备,102.18,56.8,2.19,-15.6,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,category,Solar-cell equipment,太阳能电池片设备,521.33,38.0,34.4,82.1,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,subcategory,Solar wafer equipment,太阳能硅片设备,217.55,10.9,6.6,141.4,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,subcategory,Solar cell (chip) equipment,太阳能芯片设备,303.78,67.4,27.8,72.0,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,category,LED equipment,LED设备,12.19,-28.1,0.29,-66.6,82,CEPEA 行业简讯 2025-06,as first reported,
+2024,category,Discrete-device and other equipment,分立器件设备及其他,20.17,-37.6,0.32,113.9,82,CEPEA 行业简讯 2025-06,as first reported,
+2025,total,"Semiconductor equipment, total",半导体设备总计,1261.87,1.7,112.55,30.5,87,CEPEA 行业简讯 2026-06,as first reported,Profit 182.86 (-4.3%); growth vs restated 2024
+2025,category,IC equipment,集成电路设备,891.38,28.9,70.61,37.7,87,CEPEA 行业简讯 2026-06,as first reported,2026 forecast: ~1150 (+30%)
+2025,subcategory,Silicon-wafer (substrate) equipment,半导体硅片设备,48.18,63.7,2.35,-38.1,87,CEPEA 行业简讯 2026-06,as first reported,
+2025,subcategory,Wafer (chip) fab equipment,晶圆(芯片)制造设备,728.15,31.2,61.58,36.3,87,CEPEA 行业简讯 2026-06,as first reported,Text: 32 IC chip production equipment firms 724.08 (+30.5%); 2021-25 CAGR 48.8%
+2025,subcategory,Packaging and test equipment,封装测试设备,115.05,7.7,6.68,193.0,87,CEPEA 行业简讯 2026-06,as first reported,
+2025,category,Solar-cell equipment,太阳能电池片设备,331.33,-36.4,40.95,19.0,87,CEPEA 行业简讯 2026-06,as first reported,2026 forecast ~300
+2025,subcategory,Solar wafer equipment,太阳能硅片设备,97.74,-55.1,2.58,-60.9,87,CEPEA 行业简讯 2026-06,as first reported,
+2025,subcategory,Solar cell (chip) equipment,太阳能芯片设备,233.59,-23.0,38.37,38.0,87,CEPEA 行业简讯 2026-06,as first reported,
+2025,category,Other semiconductor-device equipment,其他半导体器件设备,39.16,36.8,0.99,77.2,87,CEPEA 行业简讯 2026-06,as first reported,
+2025,subcategory,SiC device equipment,碳化硅半导体设备,19.25,,0.26,,87,CEPEA 行业简讯 2026-06,as first reported,2026 forecast +50%
+2025,subcategory,LED equipment,LED设备,6.07,,0.24,,87,CEPEA 行业简讯 2026-06,as first reported,

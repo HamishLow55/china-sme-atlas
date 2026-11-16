@@ -1,0 +1,327 @@
+[
+  {
+    "series_id": "deposition1_piotech_1",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_company_total / revenue",
+    "mode": "comparable",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2023-REV",
+      "PIOTECH2024-REV",
+      "PIOTECH2025-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_2",
+    "version": 2,
+    "title": "piotech: piotech_piotech_annual_2025_pecvd / revenue",
+    "mode": "comparable",
+    "definition": "Original-reported PECVD series sales revenue; original passages verify the matching revenue basis. FY2024 point absent; no interpolation.",
+    "observation_ids": [
+      "PIOTECH2023-PECVD-REV",
+      "PIOTECH2025-PECVD-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation. FY2025 revenue is approximate while FY2023 has finer reported precision."
+  },
+  {
+    "series_id": "deposition1_piotech_3",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_ald / revenue",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-ALD-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_4",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_hybrid_bonding_basket / revenue",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-HYBRID-BOND-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_5",
+    "version": 2,
+    "title": "piotech: piotech_piotech_annual_2025_company_total / order_backlog",
+    "mode": "comparable",
+    "definition": "Source-native measurements from identified annual-report vintages; all scope/unit/time/dimension fields match.",
+    "observation_ids": [
+      "PIOTECH2023-BACKLOG",
+      "PIOTECH2024-BACKLOG",
+      "PIOTECH2025-BACKLOG"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_6",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_semiconductor_special_equipment / production_volume",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-PRODUCTION"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_7",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_semiconductor_special_equipment / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-SALES"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_18",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_semiconductor_equipment_business / revenue",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-REV"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_19",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_semiconductor_equipment_business / cost_of_revenue",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-COST"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition1_piotech_20",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_semiconductor_equipment_business / gross_margin",
+    "mode": "evidence_collection",
+    "definition": "As reported in FY2025 original; comparative rows retain FY2025 source vintage.",
+    "observation_ids": [
+      "PIOTECH2025-MAIN-SEMI-GM"
+    ],
+    "limitations": "Native baskets overlap: company totals, product lines and mixed equipment volumes must not be summed; no inferred HBM or China-market allocation."
+  },
+  {
+    "series_id": "deposition2_piotech_1",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_semiconductor_equipment_industry / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-MAIN-REV"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_2",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_semiconductor_equipment_industry / cost_of_revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-MAIN-COST"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_3",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_semiconductor_equipment_industry / gross_margin",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-MAIN-GM"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_4",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_semiconductor_equipment_industry / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-MAIN-REV"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_5",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_semiconductor_equipment_industry / cost_of_revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-MAIN-COST"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_6",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_semiconductor_equipment_industry / gross_margin",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-MAIN-GM"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_7",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_thin_film_deposition / revenue",
+    "mode": "comparable",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-THIN-REV",
+      "PIOTECH2024-THIN-REV"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_9",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_advanced_bonding_metrology_basket / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-HYBRID-REV"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_11",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_thin_film_deposition_systems / production_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-THINFILM-PRODUCTION"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_12",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_thin_film_deposition_systems / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-THINFILM-SALES"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_13",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_hybrid_bonding_systems / production_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-PRODUCTION"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_14",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_hybrid_bonding_systems / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-SALES"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_15",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_semiconductor_special_equipment_systems / production_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-THINFILM-PRODUCTION"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_16",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2024_semiconductor_special_equipment_systems / sales_volume",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2024-THINFILM-SALES"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_23",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_thin_film_deposition / cost_of_revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-THIN-COST"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_24",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2025_thin_film_deposition / gross_margin",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-THIN-GM"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_25",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_hybrid_bonding_equipment / revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-REV-SUP"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_26",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_hybrid_bonding_equipment / cost_of_revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-COST-SUP"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  },
+  {
+    "series_id": "deposition2_piotech_27",
+    "version": 1,
+    "title": "piotech: piotech_piotech_annual_2023_hybrid_bonding_equipment / gross_margin",
+    "mode": "evidence_collection",
+    "definition": "Source-native historical observations; separate scope/vintage records are not silently harmonized.",
+    "observation_ids": [
+      "PIOTECH2023-HYBRID-GM-SUP"
+    ],
+    "limitations": "Changing equipment baskets and source-vintage cost discrepancy remain explicit. No quantity allocation from revenue mix."
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2021-REVENUE",
+      "ZHICHUN-FY2022-REVENUE",
+      "ZHICHUN-FY2023-REVENUE",
+      "ZHICHUN-FY2024-REVENUE-FY2025V",
+      "ZHICHUN-FY2025-REVENUE-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_net_profit_attributable",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2021-NET_PROFIT_ATTRIBUTABLE",
+      "ZHICHUN-FY2022-NET_PROFIT_ATTRIBUTABLE",
+      "ZHICHUN-FY2023-NET_PROFIT_ATTRIBUTABLE",
+      "ZHICHUN-FY2023-NET_PROFIT_ATTRIBUTABLE-RESTATED",
+      "ZHICHUN-FY2024-NET_PROFIT_ATTRIBUTABLE-FY2025V",
+      "ZHICHUN-FY2025-NET_PROFIT_ATTRIBUTABLE-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_operating_cash_flow",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2021-OPERATING_CASH_FLOW",
+      "ZHICHUN-FY2022-OPERATING_CASH_FLOW",
+      "ZHICHUN-FY2023-OPERATING_CASH_FLOW",
+      "ZHICHUN-FY2024-OPERATING_CASH_FLOW-FY2025V",
+      "ZHICHUN-FY2025-OPERATING_CASH_FLOW-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2022-COST_OF_REVENUE",
+      "ZHICHUN-FY2023-COST_OF_REVENUE",
+      "ZHICHUN-FY2024-COST_OF_REVENUE-FY2025V",
+      "ZHICHUN-FY2025-COST_OF_REVENUE-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_rd_investment_expensed",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2022-RD_INVESTMENT_EXPENSED",
+      "ZHICHUN-FY2023-RD_INVESTMENT_EXPENSED",
+      "ZHICHUN-FY2024-RD_INVESTMENT_EXPENSED-FY2025V",
+      "ZHICHUN-FY2025-RD_INVESTMENT_EXPENSED-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_rd_investment_capitalized",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual rd investment capitalized",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2022-RD_INVESTMENT_CAPITALIZED",
+      "ZHICHUN-FY2023-RD_INVESTMENT_CAPITALIZED",
+      "ZHICHUN-FY2024-RD_INVESTMENT_CAPITALIZED-FY2025V",
+      "ZHICHUN-FY2025-RD_INVESTMENT_CAPITALIZED-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_company_annual_rd_investment",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual rd investment",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2022-RD_INVESTMENT",
+      "ZHICHUN-FY2023-RD_INVESTMENT",
+      "ZHICHUN-FY2024-RD_INVESTMENT-FY2025V",
+      "ZHICHUN-FY2025-RD_INVESTMENT-FY2025V"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_zhichun_equipment_business_annual_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / zhichun equipment business / annual revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2023-ZHICHUN_EQUIPMENT_BUSINESS-REVENUE",
+      "ZHICHUN-FY2025-ZHICHUN_EQUIPMENT_BUSINESS-REVENUE"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_zhichun_equipment_business_annual_cost_of_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / zhichun equipment business / annual cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2023-ZHICHUN_EQUIPMENT_BUSINESS-COST_OF_REVENUE",
+      "ZHICHUN-FY2025-ZHICHUN_EQUIPMENT_BUSINESS-COST_OF_REVENUE"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun1_zhichun_pnc_zhichun_equipment_business_annual_gross_margin",
+    "version": 1,
+    "title": "Zhichun / PNC / zhichun equipment business / annual gross margin",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2023-ZHICHUN_EQUIPMENT_BUSINESS-GROSS_MARGIN",
+      "ZHICHUN-FY2025-ZHICHUN_EQUIPMENT_BUSINESS-GROSS_MARGIN"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-REVENUE",
+      "ZHICHUN-H12026-REVENUE"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_cost_of_revenue",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim cost of revenue",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-COST_OF_REVENUE",
+      "ZHICHUN-H12026-COST_OF_REVENUE"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_net_profit_attributable",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-NET_PROFIT_ATTRIBUTABLE",
+      "ZHICHUN-H12026-NET_PROFIT_ATTRIBUTABLE"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_operating_cash_flow",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim operating cash flow",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-OPERATING_CASH_FLOW",
+      "ZHICHUN-H12026-OPERATING_CASH_FLOW"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_rd_investment_expensed",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim rd investment expensed",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-RD_INVESTMENT_EXPENSED",
+      "ZHICHUN-H12026-RD_INVESTMENT_EXPENSED"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_interim_financial_note_rd_expenditure_total",
+    "version": 1,
+    "title": "Zhichun / PNC / company / interim financial note rd expenditure total",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-H12025-RD_INVESTMENT",
+      "ZHICHUN-H12026-RD_INVESTMENT"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  },
+  {
+    "series_id": "zhichun2_zhichun_pnc_company_annual_net_profit_attributable",
+    "version": 1,
+    "title": "Zhichun / PNC / company / annual net profit attributable",
+    "mode": "evidence_collection",
+    "definition": "Source-native annual or interim reported measurements, with explicit business and accounting scope.",
+    "observation_ids": [
+      "ZHICHUN-FY2021-NET_PROFIT_ATTRIBUTABLE-CORRECTED_AFTER",
+      "ZHICHUN-FY2022-NET_PROFIT_ATTRIBUTABLE-CORRECTED_AFTER",
+      "ZHICHUN-FY2024-NET_PROFIT_ATTRIBUTABLE-ORIGINAL2024"
+    ],
+    "limitations": "Original and restated historical financials are separate vintages. FY2023 systems/materials and FY2025 systems and materials baskets differ. Bulk gas station revenue is a subset. Equipment business is broader than wet-cleaning tools; operating milestones do not establish annual sales or installed base."
+  }
+]

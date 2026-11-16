@@ -1,0 +1,116 @@
+[
+  {
+    "reporting_scope_id": "skyverse_inspection_equipment",
+    "category_id": "inspection",
+    "label": "SkyVerse inspection equipment",
+    "definition": "Issuer's broad 检测设备 product classification; not a named platform or application."
+  },
+  {
+    "reporting_scope_id": "skyverse_metrology_equipment",
+    "category_id": "metrology",
+    "label": "SkyVerse metrology equipment",
+    "definition": "Issuer's broad 量测设备 product classification; not a named platform or application. CAVEAT: the issuer's 量测设备 class is not semiconductor-only. Its IPO prospectus states the class is led by both 三维形貌量测设备 and 3D 曲面玻璃量测设备, and the FY2024 and FY2025 annual reports still list 3D 曲面玻璃量测设备 among its products. Curved cover glass is precision machining, not semiconductor. In the prospectus period the curved-glass line sold 22/12/28 systems against topography's 27/28/15, so in FY2022 it was the larger of the two by unit count. The later filings do not break it out, so the overstatement cannot be quantified for FY2023 onward. Do not use this scope as a semiconductor-metrology proxy without that adjustment."
+  },
+  {
+    "reporting_scope_id": "skyverse_software",
+    "category_id": "all_businesses",
+    "label": "SkyVerse software",
+    "definition": "Issuer's software product classification."
+  },
+  {
+    "reporting_scope_id": "skyverse_services_other",
+    "category_id": "all_businesses",
+    "label": "SkyVerse services and other",
+    "definition": "Issuer's services and other classification."
+  },
+  {
+    "reporting_scope_id": "skyverse_inspection_equipment_fy2023_pre_warranty_restatement",
+    "category_id": "inspection",
+    "label": "SkyVerse inspection equipment FY2023 pre-warranty-restatement",
+    "definition": "Original FY2023 filing inspection-equipment product cost and gross-margin basis before later warranty-cost reclassification."
+  },
+  {
+    "reporting_scope_id": "skyverse_metrology_equipment_fy2023_pre_warranty_restatement",
+    "category_id": "metrology",
+    "label": "SkyVerse metrology equipment FY2023 pre-warranty-restatement",
+    "definition": "Original FY2023 filing metrology-equipment product cost and gross-margin basis before later warranty-cost reclassification. CAVEAT: the issuer's 量测设备 class is not semiconductor-only. Its IPO prospectus states the class is led by both 三维形貌量测设备 and 3D 曲面玻璃量测设备, and the FY2024 and FY2025 annual reports still list 3D 曲面玻璃量测设备 among its products. Curved cover glass is precision machining, not semiconductor. In the prospectus period the curved-glass line sold 22/12/28 systems against topography's 27/28/15, so in FY2022 it was the larger of the two by unit count. The later filings do not break it out, so the overstatement cannot be quantified for FY2023 onward. Do not use this scope as a semiconductor-metrology proxy without that adjustment."
+  },
+  {
+    "reporting_scope_id": "skyverse_unpatterned_inspection_series",
+    "category_id": "inspection_unpatterned",
+    "label": "SkyVerse 无图形晶圆缺陷检测设备系列",
+    "definition": "Issuer product series 无图形晶圆缺陷检测设备系列 (unpatterned-wafer defect inspection). Prospectus physical p77: 主要应用于硅片的出厂品质管控、晶圆的入厂质量控制、半导体制程工艺和设备的污染监控。该系列的设备能够实现无图形晶圆表面的缺陷计数，识别缺陷的类型和空间分布. Carries the series sales-volume, average-price and revenue rows in the prospectus and the cumulative produced-and-delivered counts in the FY2023 and FY2024 annual reports. Named models in the series: SPRUCE-600, SPRUCE-800. Not a model allocation and not a process-node claim."
+  },
+  {
+    "reporting_scope_id": "skyverse_patterned_inspection_series",
+    "category_id": "inspection",
+    "label": "SkyVerse 图形晶圆缺陷检测设备系列",
+    "definition": "Issuer product series 图形晶圆缺陷检测设备系列 (patterned-wafer defect inspection). Held at the inspection parent because the issuer describes one tool covering both illumination modes: 拥有多模式明/暗照明系统、多种放大倍率镜头 (prospectus physical p77), so the basket spans brightfield and darkfield and must not be allocated across them. Distinct from skyverse_inspection_equipment, which is the whole 检测设备 classification including the unpatterned series. Named models: BIRCH-60, BIRCH-100."
+  },
+  {
+    "reporting_scope_id": "skyverse_spruce_600_model",
+    "category_id": "inspection_unpatterned",
+    "label": "SkyVerse SPRUCE-600",
+    "definition": "Named unpatterned-wafer inspection model SPRUCE-600, developed 2017. Carries the issuer's model-level sales amount, unit count, average price, unit gross margin and gross-profit contribution in the IPO prospectus, plus its throughput capability. Model rows only; not the whole series."
+  },
+  {
+    "reporting_scope_id": "skyverse_spruce_800_model",
+    "category_id": "inspection_unpatterned",
+    "label": "SkyVerse SPRUCE-800",
+    "definition": "Named unpatterned-wafer inspection model SPRUCE-800, launched FY2020 as the higher-sensitivity model (检测精度更高). Model-level amounts, units, price, margin, gross profit and throughput only."
+  },
+  {
+    "reporting_scope_id": "skyverse_birch_60_model",
+    "category_id": "inspection",
+    "label": "SkyVerse BIRCH-60",
+    "definition": "Named patterned/packaging optical inspection model BIRCH-60. Model-level amounts, units, price, margin and gross profit only. The category assignment rests on the prospectus description of this equipment class as 主要应用于先进封装环节的晶圆出货检测 with micron-scale sensitivity; see the observation notes for the counter-evidence."
+  },
+  {
+    "reporting_scope_id": "skyverse_birch_100_model",
+    "category_id": "inspection",
+    "label": "SkyVerse BIRCH-100",
+    "definition": "Named packaging/macro optical inspection model BIRCH-100, launched FY2020. The issuer states 公司该型号设备主要应用于先进封装环节的晶圆出货检测，最小灵敏度可达到 0.5μm，在灵敏度为 3μm 时的吞吐量为 80wph and benchmarks it against Onto/Rudolph F30. Model-level amounts, units, price, margin, gross profit and throughput only."
+  },
+  {
+    "reporting_scope_id": "skyverse_topography_series",
+    "category_id": "metrology_topography",
+    "label": "SkyVerse 三维形貌量测设备系列",
+    "definition": "Issuer product series 三维形貌量测设备系列 (3D topography metrology). Prospectus physical p78: 主要应用于晶圆上的纳米级三维形貌测量、双/多层薄膜厚度测量、关键尺寸和偏移量测量. A multi-function optical tool sold as one series: its revenue is not evidence of topography-only demand. Named models: CYPRESS-T910, CYPRESS-U950."
+  },
+  {
+    "reporting_scope_id": "skyverse_cypress_t910_model",
+    "category_id": "metrology_topography",
+    "label": "SkyVerse CYPRESS-T910",
+    "definition": "Named 3D topography metrology model CYPRESS-T910, sold in 多功能 and 单功能 configurations. Model-level amounts, units, price, margin and gross profit only."
+  },
+  {
+    "reporting_scope_id": "skyverse_cypress_u950_model",
+    "category_id": "metrology_topography",
+    "label": "SkyVerse CYPRESS-U950",
+    "definition": "Named 3D topography metrology model CYPRESS-U950, the issuer's benchmark tool against Park Systems NX Wafer with 重复性精度 0.1nm. Model-level amounts, units, price, margin and gross profit only. FY2021 includes one R&D prototype unit."
+  },
+  {
+    "reporting_scope_id": "skyverse_curved_glass_metrology_product",
+    "category_id": "all_businesses",
+    "label": "SkyVerse 3D 曲面玻璃量测设备系列",
+    "definition": "Issuer product series 3D 曲面玻璃量测设备系列: spectral-confocal profile, arc-height, thickness and dimension measurement of 3D curved cover glass, whose application column in the prospectus reads 精密加工 (precision machining). Non-semiconductor. Held at all_businesses so that it cannot aggregate into any semiconductor metrology total, even though the issuer counts it inside its 量测设备 product class."
+  },
+  {
+    "reporting_scope_id": "skyverse_inspection_equipment_customer_row",
+    "category_id": "inspection",
+    "label": "SkyVerse top-five customer rows selling inspection equipment only",
+    "definition": "Rows of the prospectus 前五大客户 table (physical p119) whose 主要销售内容 column names 检测设备 alone, so the printed amount is inspection-equipment revenue from one named customer in one period. Excludes rows reading 检测设备、量测设备, which the filing does not split. Rank is period-specific; the customer identity is the issuer's own consolidated grouping."
+  },
+  {
+    "reporting_scope_id": "skyverse_har_dielectric_film_thickness_technology",
+    "category_id": "metrology_film_dielectric",
+    "label": "高深宽比结构的膜厚量测技术",
+    "definition": "SkyVerse core technology for measuring dielectric film thickness inside high-aspect-ratio three-dimensional structures, using aperture-limiting optics to suppress interference from non-measured regions. A disclosed technology capability, not a product line: no revenue, unit count or shipment figure is attached to it. Category follows the issuer’s own 介质膜厚 wording."
+  },
+  {
+    "reporting_scope_id": "skyverse_ultrathin_film_thickness_ellipsometry_technology",
+    "category_id": "metrology",
+    "label": "高精度宽光谱椭偏聚焦技术",
+    "definition": "SkyVerse core technology combining broadband spectroscopic ellipsometry with focus detection for ultra-thin film thickness measurement. A disclosed technology capability, not a product line. Held at the metrology parent because the passage does not state whether the films are dielectric or metal, unlike the issuer’s separate high-aspect-ratio film-thickness technology."
+  }
+]

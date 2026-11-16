@@ -1,0 +1,2860 @@
+[
+  {
+    "platform_id": "piotech_advanced_process_pecvd_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "source_native_family",
+    "name": "Advanced-process PECVD family based on PF-300T Plus / PF-300M platforms and pX / Supra-D chambers",
+    "aliases": [
+      "PF-300T Plus",
+      "PF-300M",
+      "pX",
+      "Supra-D",
+      "PECVD Stack (ONO)",
+      "ACHM",
+      "PECVD Bianca"
+    ],
+    "evidence": {
+      "claim_id": "piotech-2025-advanced-process-pecvd-industrialised-volume-and-repeat-orders",
+      "source_id": "piotech_annual_2025",
+      "page": 36,
+      "excerpt": "报告期内，基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的 PECVD Stack（ONO 叠层）、ACHM 以及 PECVD Bianca 等先进工艺设备已实现产业化放量，Lok-II、OPN、SiB 等先进工艺设备已通过客户验证，持续获得客户复购订单",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "mixed_family_maturity_industrialised_volume_and_customer_validation_with_repeat_orders",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "Source-native family bundle. Platform names, chamber names, film/process products and maturity subgroups are preserved without treating every alias as an additional distinct tool. Industrialised volume applies to Stack/ACHM/Bianca; validation and repeat orders apply to Lok-II/OPN/SiB. Identity overlap among platform, chamber and process-product labels requires integrator review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech-2023-new-pecvd-platforms-and-chambers-shipped-for-validation",
+        "source_id": "piotech_annual_2023",
+        "page": 20,
+        "excerpt": "报告期内，公司推出了两款新型设备平台（PF-300T Plus 和 PF-300M）和两款新型反应腔（pX 和 Supra-D），新型设备平台的设计进一步提升了设备产能，机械产能可提高约 20%至 60%，新型反应腔进一步提升了薄膜沉积的性能指标，包括薄膜均匀性、颗粒度等指标，可以满足客户在技术节点更新迭代的过程中对高产能及更严格的薄膜性能指标的需求，新型设备平台及反应腔均已出货至不同客户端验证。",
+        "as_of": "2024-04-30",
+        "reported_maturity": "new_platforms_and_chambers_launched_and_shipped_to_multiple_clients_for_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; exact launch and shipment dates and customer identities are not stated. Shipment for validation is not completed qualification or production use. Review: Piotech FY2023 physical p20 confirms the named platforms/chambers were shipped to multiple clients for validation; no completed qualification or production use is inferred.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech-2024-advanced-process-pecvd-large_batch_shipments-and-validation",
+        "source_id": "piotech_annual_2024",
+        "page": 19,
+        "excerpt": "开发的 PECVD Bianca 产品，以及基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）的 PECVD Stack（ONO 叠层）、ACHM 等先进工艺设备，实现了大批量出货，陆续通过客户验证",
+        "as_of": "2025-04-25",
+        "reported_maturity": "large_batch_shipments_and_progressive_customer_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Later family-level observation. Large-batch shipment and progressive validation are distinct; the passage does not state that every listed process product had completed validation or entered production use. Review: Piotech FY2024 physical p19 confirms large-batch shipments and progressive customer validation. This remains a family-level observation; the text does not establish completed validation for every listed process product.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech-2025-advanced-process-pecvd-industrialised-volume-and-repeat-orders",
+        "source_id": "piotech_annual_2025",
+        "page": 36,
+        "excerpt": "报告期内，基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的 PECVD Stack（ONO 叠层）、ACHM 以及 PECVD Bianca 等先进工艺设备已实现产业化放量，Lok-II、OPN、SiB 等先进工艺设备已通过客户验证，持续获得客户复购订单",
+        "as_of": "2026-04-27",
+        "reported_maturity": "stack_achm_bianca_industrialised_volume; lok_ii_opn_sib_customer_validated_and_repeat_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; exact milestone dates, customers and quantities are not stated. The two maturity subgroups remain distinct. Review: Physical PDF p.36 supports the two separately worded subgroups: Stack/ACHM/Bianca industrialised volume, and Lok-II/OPN/SiB customer validation with repeat orders. No individual-tool inference.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_015_advanced_process_pecvd_family",
+        "source_id": "piotech_annual_2024",
+        "page": 21,
+        "excerpt": "VD Bianca 工艺设备已通过客户验证，实现了产业化应用。截至报\n告期末, 累计超过 40 个 PECVD Bianca 工艺设备反应腔已出货至客户端。\n\n  公司基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的\nPECVD Stack（ONO 叠层）、ACHM、LoK-Ⅱ等先进工艺设备实现了批量出货，并陆续通过客\n户验证，满足客户在先进技术更新迭代过程中对高产能及更严格的薄膜性能指标的需求。截至报\n告期末，累计超过 220 个反应腔出货至客户端。\n\n  公司开发并推出了用于新型功率器件领域 SiC 器件制造中的 SiO2、SiN、TEOS、SiON 等薄\n膜工艺 PECVD 设备，已实现产业化应用，报告期内，该产品持续获得客户重复订单并出货。\n\n  公司 NF-300H 型号是高产能 PECVD 设备，可以搭载 3 个 6 站反应腔，每次可以同时最多处\n理 18 片晶圆。该设备已实现产业化应用，可以沉积超厚 TEOS 等介质材料薄膜，在三维集成领域\n具有广泛应",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD Stack/ACHM/LoK-II batch shipments and staged validations",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-023",
+        "source_id": "piotech_h1_2026",
+        "page": 38,
+        "excerpt": "报告期内，公司已出货不同工艺\n的 PECVD 设备产品至海外客户端；基于反应腔 pX 和 Supra-D 研发的 PECVD Stack（ONO 叠\n层）、ACHM 系列工艺、OPN、SiB 等多款先进工艺设备以及 PECVD Bianca 工艺设备持续扩大\n量产规模，且基于 pX 反应腔开发的α-Si 工艺设备已通过先进逻辑客户的验证；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "mixed: Stack/ACHM/OPN/SiB/Bianca volume expansion; pX alpha-Si client validated",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-057",
+        "source_id": "piotech_h1_2026",
+        "page": 15,
+        "excerpt": "尤其是应用于先进存储、先进逻辑等领域的 PECVD Stack\n（ONO 叠层）、ACHM 系列工艺等产品已进入规模化量产阶段，批量通过客户验证，同时，\nOPN、SiB 及 PECVD Bianca 等产品不断扩大量产规模，并实现收入转化；",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Stack/ACHM scaled production and batch client validation; OPN/SiB/Bianca expanding production and revenue conversion",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source p15 separates Stack/ACHM from OPN/SiB/Bianca; no listed model inherits all stages.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_ald_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "Piotech semiconductor ALD equipment family",
+    "aliases": [
+      "PE-ALD",
+      "Thermal-ALD",
+      "PE-ALD SiO2",
+      "PE-ALD SiN",
+      "PE-ALD SiCO",
+      "Thermal-ALD TiN"
+    ],
+    "evidence": {
+      "claim_id": "piotech-2025-ald-pe-volume-and-thermal-orders-shipments-validation",
+      "source_id": "piotech_annual_2025",
+      "page": 36,
+      "excerpt": "公司 ALD 设备在存储芯片、逻辑芯片制造领域量产规模快速攀升，其中，PE-ALD 多款 SiO2、SiN、SiCO 工艺设备客户端放量，Thermal-ALD 在持续拓展新工艺，并陆续获得订单、出货，其中首台 TiN 工艺产品已通过客户验证",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "pe_ald_customer_volume_growth; thermal_ald_orders_and_shipments; first_tin_product_customer_validated",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "Source-native family bundle rather than a count of distinct tools. PE-ALD client volume, Thermal-ALD orders/shipments, and first TiN-product validation are separate stages and must not be collapsed into family-wide production acceptance.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech-2023-ald-orders-validation-production-and-repeat-orders",
+        "source_id": "piotech_annual_2023",
+        "page": 24,
+        "excerpt": "报告期内，公司持续拓展 PE-ALD 薄膜种类及工艺应用，获得了原有客户及新客户订单，并出货至不同客户端进行验证，部分工艺再次获得客户重复订单，持续扩大量产应用；首台 PE-ALD（NF-300H Astra）设备（沉积 SiO2 薄膜）通过客户验证，实现了产业化应用，该设备主要应用于沉积较厚的 PE-ALD 薄膜，具有高产能和低成本的优势。",
+        "as_of": "2024-04-30",
+        "reported_maturity": "pe_ald_orders_and_multi_client_validation; some_process_repeat_orders_and_expanding_production_application; first_nf_300h_astra_validated_and_industrialised",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; exact order, shipment, validation and industrialisation dates are absent. Family-wide and NF-300H Astra-specific statements are kept distinct. Review: Piotech FY2023 physical p24 supports the qualified PE-ALD family statement and the separate NF-300H Astra validation/industrialisation milestone.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech-2025-ald-pe-volume-and-thermal-orders-shipments-validation",
+        "source_id": "piotech_annual_2025",
+        "page": 36,
+        "excerpt": "公司 ALD 设备在存储芯片、逻辑芯片制造领域量产规模快速攀升，其中，PE-ALD 多款 SiO2、SiN、SiCO 工艺设备客户端放量，Thermal-ALD 在持续拓展新工艺，并陆续获得订单、出货，其中首台 TiN 工艺产品已通过客户验证",
+        "as_of": "2026-04-27",
+        "reported_maturity": "pe_ald_customer_volume_growth; thermal_ald_orders_and_shipments; first_tin_product_customer_validated",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; no exact event dates, customer identities, shipment quantities or acceptance claims. Review: Physical PDF p.36 supports PE-ALD client volume, Thermal-ALD orders/shipments, and first TiN-product customer validation as separate statements; no family-wide acceptance inference.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_017_ald_family",
+        "source_id": "piotech_annual_2024",
+        "page": 22,
+        "excerpt": "PE-ALD 产品\n\n  PE-ALD 是利用等离子体增强反应活性，提高反应速率，具有相对较快的薄膜沉积速度、较\n低的沉积温度等特点，适用于沉积硅基介质薄膜材料。\n\n  报告期内，公司持续拓展 PE-ALD 薄膜种类及工艺应用，在新工艺拓展方面取得了突破性进\n展。公司自主研发的低介电常数 SiCO 薄膜工艺设备获得多台不同客户订单并出货，已通过客户\n验证，实现了产业化应用，该薄膜工艺设备主要用于先进逻辑芯片和存储芯片中的低介电隔离层；\nPE-ALD SiN 工艺设备（PF-300T Astra）通过客户验证，实现了产业化应用。\n\n  此外，公司研发了新型设备平台（VS-300T），该平台具有业界领先的坪效比和最低的拥有\n成本(COO)，满足客户高性能需求的同时，为客户节约成本。报告期内，基于该平台研发的 ALD\nSiO2 薄膜工艺设备已出货，可应用于先进逻辑芯片和存储芯片中的双重/多重曝光图形转移，以及\n先进封装 TSV 隔离层等，具有优异的片内均匀性等关键指标。\n\n  截至报告期末，公司 PE-ALD 设备高温、低温",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PE-ALD SiCO/SiN customer validation and industrial application",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_018_ald_family",
+        "source_id": "piotech_annual_2024",
+        "page": 23,
+        "excerpt": "拓荆科技股份有限公司2024 年年度报告\n\n\n   公司 Thermal-ALD 设备已实现产业化应用。报告期内，公司 Thermal-ALD Al2O3、AlN 等工\n艺设备持续出货至客户端，包括集成工艺设备 Thermal-ALD（TS-300 Altair），该设备不仅具有\n高产能的特点，并可以实现在同一台设备中沉积 Thermal-ALD AlN 及 PECVD ADC-II 薄膜。此外，\n公司持续拓展 Thermal-ALD 其他薄膜工艺，扩大金属及金属化合物薄膜材料应用，整体进展顺利。\n\n   （3）SACVD 系列产品研发及产业化进展情况\n\n   SACVD 设备主要应用于深宽比小于 7:1 的沟槽填充工艺，是集成电路制造的重要设备之一。\n在 集 成 电 路 结 构 中 ， 沟 槽 孔 洞 的 深 宽 比 越 来 越 大 ， SACVD 反 应",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Thermal-ALD Al2O3/AlN shipments and integrated TS-300 Altair",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_028_ald_family",
+        "source_id": "piotech_annual_2025",
+        "page": 39,
+        "excerpt": "② Thermal-ALD 产品\n\n  公司 Thermal-ALD 设备已实现产业化应用，目前可以覆盖 Al2O3、AlN、TiN、TiON 等金属\n及金属化合物等先进薄膜材料应用。报告期内，公司 Thermal-ALD 在持续拓展新工艺，并陆续获\n得订单、出货，其中 TiN 工艺产品已通过客户验证，目前已覆盖先进逻辑、先进封装客户。此外，\n公司将持续稳步拓展 Thermal-ALD 其他薄膜工艺，前瞻性开发前沿技术所需的薄膜工艺材料。\n\n  （3）SACVD 系列产品研发及产业化进展情况\n\n  公司 SACVD 系列产品主要类型如下：\n\n\n    产品系列              主要产品型号                             主要薄膜工艺\n\n                       PF-300T SA                 SA BPSG、SA TEOS 等介质薄膜材料\n    SACVD\n                       PF-3",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Thermal-ALD TiN client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_032_ald_family",
+        "source_id": "piotech_annual_2025",
+        "page": 39,
+        "excerpt": "备高温、低温、高质量 SiO2、SiN、SiCO 等介质薄膜工艺设备在\n存储芯片、逻辑芯片制造领域量产规模快速攀升, 目前在芯片填孔(Gap-fill)、侧墙（Spacer）、衬\n垫层（Liner）等工艺中已实现广泛的应用。\n\n  基于具有业界领先坪效比和最低拥有成本（COO）的平台 VS-300T 开发的 PE-ALD 设备持续\n获得多台客户订单并出货，在客户端验证进展顺利，该设备可应用于先进逻辑芯片和存储芯片中\n的双重/多重曝光图形转移，以及先进封装 TSV 隔离层等，具有优异的片内均匀性等关键指标。\n\n  ② Thermal-ALD 产品\n\n  公司 Thermal-ALD 设备已实现产业化应用，目前可以覆盖 Al2O3、AlN、TiN、TiON 等金属\n及金属化合物等先进薄膜材料应用。报告期内，公司 Thermal-ALD 在持续拓展新工艺，并陆续获\n得订单、出货，其中 TiN 工艺产品已通过客户验证，目前已覆盖先进逻辑、先进封装客户。此外，\n公司将持续稳步拓展 Thermal-ALD 其他薄膜工艺，前瞻性",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "VS-300T-based PE-ALD equipment received multiple customer orders, shipped and progressed through validation; Astra-s model attribution not established",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 source discusses VS-300T-based PE-ALD equipment generically. The p39 roster's VS-300T Astra-s label is not explicitly tied to the ordered/validated units.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-027",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "多台 PE-ALD SiO2、SiCO 等工艺设备通过客户验证，在先进存储领域的量产\n规模进一步攀升。同时，公司 PE-ALD 获得了客户批量订单，SiO2、SiN、SiCO、TiO 等工艺设备\n持续出货至客户端",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PE-ALD SiO2/SiCO validated; batch orders and continued process-equipment shipments",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-029",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "公司 Thermal-ALD 设备已实现产业化应用，可以沉积 Al2O3、AlN、TiN、TiON、LaO 等金属\n及金属化合物等先进薄膜材料，可应用于先进存储、先进逻辑、先进封装等领域，覆盖 High-K 栅\n极、电极层、金属互联等工艺需求。\n\n  报告期内，公司 Thermal-ALD 在持续拓展新工艺，多台产品出货至客户端验证，包括 AlN、\nAl2O3、LaO、TiON 等先进工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Thermal-ALD industrialized family; specified processes dispatched for validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated. Full excerpt binds industrialized Thermal-ALD family separately from named-process tools dispatched to client validation.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-058",
+        "source_id": "piotech_h1_2026",
+        "page": 15,
+        "excerpt": "公司 ALD 系列设备\n产品在先进存储领域量产规模快速攀升，多台 PE-ALD SiO2、SiCO 等工艺设备在客户端完成重\n复订单验证，并实现收入转化。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PE-ALD SiO2/SiCO repeat-order client verification and revenue conversion",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Applies to named PE-ALD process products only, not all ALD models or thermal variants.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-060",
+        "source_id": "piotech_h1_2026",
+        "page": 38,
+        "excerpt": "截至报告期末，公司\n多台 ALD 设备在客户端完成重复订单验收，量产规模持续增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple ALD tools completed repeat-order acceptance at client; production scale growing",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "ALD group assertion with no named models or number of accepted tools.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-053",
+        "source_id": "piotech_h1_2026",
+        "page": 56,
+        "excerpt": "ALD 系列产品及工",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "ALD R&D project family industrialized and advanced process applications expanding",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Project-table group status, not a production stage for each PE-ALD or Thermal-ALD model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_dione_300_w2w_hybrid_family",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "record_kind": "named_platform_family",
+    "name": "Dione 300 wafer-to-wafer hybrid bonding family",
+    "aliases": [
+      "Dione 300",
+      "Dione 300 eX",
+      "晶圆对晶圆混合键合设备"
+    ],
+    "evidence": {
+      "claim_id": "piotech-2025-w2w-hybrid-repeat-orders-production-use-and-multi-customer-validation",
+      "source_id": "piotech_annual_2025",
+      "page": 36,
+      "excerpt": "晶圆对晶圆混合键合设备获得客户复购订单并实现量产应用，同时拓展应用至不同客户并通过验证；公司研发的新一代高速高精度晶圆对晶圆混合键合产品已发货至客户端验证",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "repeat_orders_and_production_application; expanded_customer_validation; next_generation_shipped_for_validation",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "The report's product table names Dione 300 and Dione 300 eX on physical p23, but the maturity passage on physical p36 does not explicitly map the installed generation or next-generation validation unit to either model. Keep the family-level identity pending; do not assign a model-specific commercial stage.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech-2023-dione-300-validation-repurchase-and-production-application",
+        "source_id": "piotech_annual_2023",
+        "page": 26,
+        "excerpt": "报告期内，公司首台晶圆对晶圆键合产品 Dione 300 顺利通过客户验证，并获得复购订单，复购的设备再次通过验证，实现了产业化应用，成为国产首台应用于量产的混合键合设备，目前该设备的性能和产能指标均已达到国际领先水平。",
+        "as_of": "2024-04-30",
+        "reported_maturity": "first_unit_customer_validated; repeat_order_obtained; repeat_unit_validated; production_application",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; no exact event dates, customer or end-device application disclosed. Company performance claims do not provide independent corroboration. Review: Piotech FY2023 physical p26 supports validation of the first and repeat units, repeat order, and reported production application; customer and end-use are undisclosed.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech-2024-dione-300-repeat-orders-and-expanded-production-application",
+        "source_id": "piotech_annual_2024",
+        "page": 24,
+        "excerpt": "公司晶圆对晶圆混合键合产品 Dione 300 是公司最早推出的混合键合产品，已实现产业化，可实现百纳米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量产水平。报告期内，该产品持续获得客户重复订单，扩大量产应用规模。",
+        "as_of": "2025-04-25",
+        "reported_maturity": "industrialised; continuing_repeat_orders; expanding_production_application_scale",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Later named-model observation. The source does not identify customers, order quantities or exact milestone dates; technical-performance comparisons remain issuer claims. Review: Piotech FY2024 physical p24 supports the dated company-reported industrialisation, continuing repeat orders, and expansion of production application.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech-2025-w2w-hybrid-repeat-orders-production-use-and-multi-customer-validation",
+        "source_id": "piotech_annual_2025",
+        "page": 36,
+        "excerpt": "晶圆对晶圆混合键合设备获得客户复购订单并实现量产应用，同时拓展应用至不同客户并通过验证；公司研发的新一代高速高精度晶圆对晶圆混合键合产品已发货至客户端验证",
+        "as_of": "2026-04-27",
+        "reported_maturity": "repeat_orders_and_production_application; additional_customer_validation; next_generation_shipped_for_customer_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Family-level claim. Production application, validation at other customers, and next-generation shipment for validation are separate stages; no model-specific bridge or HBM deployment is stated. Review: Physical PDF p.36 supports wafer-to-wafer hybrid repeat orders, production application, other-customer validation, and next-generation shipment for validation at family level. It does not identify a model or HBM deployment.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_022_dione_300_w2w_hybrid_family",
+        "source_id": "piotech_annual_2024",
+        "page": 25,
+        "excerpt": "拓荆科技股份有限公司2024 年年度报告\n\n\n  ① 晶圆对晶圆混合键合产品\n\n  晶圆对晶圆键合产品可以在常温下实现复杂的 12 英寸晶圆对晶圆多材料表面的键合工艺。公\n司晶圆对晶圆混合键合产品 Dione 300 是公司最早推出的混合键合产品，已实现产业化，可实现\n百纳米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量产水平。\n报告期内，该产品持续获得客户重复订单，扩大量产应用规模。\n\n  ② 晶圆对晶圆熔融键合产品\n\n  晶圆级熔融键合设备可高效实现非电气连接的晶圆间键合，将两个平整的晶圆自然连接键合，\n其特点是晶圆在清洗后进行亲水性加工，相互接触并在高温下退火，晶圆在室温下接合。\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F，可实现载片晶圆和器件晶圆低应力熔融键\n合，具备优异的产能表现。报告期内，该产品已获得客户订单。\n\n  ③ 芯片对晶圆键合前表面预处理产品\n\n  芯片对晶圆的键合工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Dione 300 repeat orders and industrial use",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_035_dione_300_w2w_hybrid_family",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "拓荆科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司研发了新一代高速高精度晶圆对晶圆混合键合产品 Dione 300 eX，该产品采\n用更先进的对准技术，拥有更高的对准精度、键合精度和设备产能，可达到国际同类产品最先进\n水平，目前已出货至客户端验证，验证进展顺利。\n\n  ②晶圆对晶圆熔融键合产品\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F eX，可实现载片晶圆和器件晶圆低应力熔融\n键合，具备优异的产能表现，报告期内，该产品已完成先进逻辑领域客户的验证。\n\n  ③芯片对晶圆键合前表面预处理产品\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单。\n\n  ④芯",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Dione 300 eX next-generation variant shipped for customer validation; no eX production-use claim",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Named FY2025 Dione 300 eX clause only. Existing family record includes the eX alias; do not spread eX validation to original Dione 300 commercial maturity.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-034",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Dione 300 eX 在客户端\n验证进展顺利",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Dione 300 eX client validation progressing",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech-q3-2026-dione-300-ex-passed-validation",
+        "source_id": "piotech_q3_2026",
+        "page": 2,
+        "excerpt": "公司新一代高速高精度晶圆对晶圆混合键合产品 Dione 300 eX 已顺利通过客户验证，该产品采用更先进的对准技术，拥有更高的对准精度、键合精度和设备产能，可达到国际同类产品最先进水平。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Dione 300 eX passed customer validation (已顺利通过客户验证)",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "notes": "Step on from piotech_h1_2026 p43 (在客户端验证进展顺利). Validation, not volume: no customer, application, order or unit is stated. 国际同类产品最先进水平 is a company claim."
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_dione_300f_ex_fusion_bonding",
+    "entity_id": "piotech",
+    "category_id": "bonding_fusion",
+    "record_kind": "named_platform",
+    "name": "Dione 300F eX",
+    "aliases": [
+      "Dione 300F eX",
+      "晶圆对晶圆熔融键合设备"
+    ],
+    "evidence": {
+      "claim_id": "piotech-2025-first-w2w-fusion-bonding-unit-customer-validated",
+      "source_id": "piotech_annual_2025",
+      "page": 41,
+      "excerpt": "公司研制的晶圆对晶圆熔融键合产品 Dione 300F eX……报告期内，该产品已完成先进逻辑领域客户的验证。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "advanced_logic_customer_validation_completed",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "The product table on physical p23 identifies Dione 300F eX as the wafer-to-wafer fusion-bonding product. The maturity sentence is generic, so the model bridge remains pending integrator review. Customer validation does not establish repeat orders or production deployment.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech-2025-first-w2w-fusion-bonding-unit-customer-validated",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "公司研制的晶圆对晶圆熔融键合产品 Dione 300F eX……报告期内，该产品已完成先进逻辑领域客户的验证。",
+        "as_of": "2026-04-27",
+        "reported_maturity": "advanced_logic_customer_validation_completed",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Disclosure observation date; exact validation date and customer are not stated. Model identity relies on the sole named fusion-bonding product in the p23 table and remains pending review. Review: The p.36 generic first-unit validation sentence is supported, but physical PDF p.41 gives the direct named-product evidence for Dione 300F eX: completed advanced-logic customer validation.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-035",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Dione 300F eX，可实现载片晶圆和器件晶圆低应力熔\n融键合，具备优异的产能表现。截至报告期末，该产品已出货至不同客户验证",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "dispatched_to_different_customers_for_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_source_native_d2w_hybrid_bonding_family",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_d2w",
+    "record_kind": "source_native_family",
+    "name": "Chip-to-wafer hybrid bonding equipment family",
+    "aliases": [
+      "芯片对晶圆混合键合产品"
+    ],
+    "evidence": {
+      "claim_id": "piotech-2025-d2w-hybrid-family-listed-for-hbm",
+      "source_id": "piotech_annual_2025",
+      "page": 24,
+      "excerpt": "芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技术是在满足超高产能的同时，还需实现芯片对晶圆的高精度对准和放置技术，主要应用于高带宽存储器（HBM）、芯片三维集成领域。",
+      "status": "source_checked",
+      "reviewer": "Terra independent verifier",
+      "review_date": "2026-09-22"
+    },
+    "reported_maturity": "catalogued_product_group_capability; commercial_stage_not_stated",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "Source-native generic family to avoid inferring a model-specific commercial stage or an additional tool count. The immediately following table names Pleione 300, but this family record relies only on the explicit family-level capability statement. It does not establish launch date, shipment, customer validation, acceptance, order, or HBM production deployment.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech-2025-d2w-hybrid-family-listed-for-hbm",
+        "source_id": "piotech_annual_2025",
+        "page": 24,
+        "excerpt": "芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技术是在满足超高产能的同时，还需实现芯片对晶圆的高精度对准和放置技术，主要应用于高带宽存储器（HBM）、芯片三维集成领域。",
+        "as_of": "2026-04-27",
+        "reported_maturity": "catalogued_product_capability; commercial_stage_not_stated",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Product-table disclosure observation. No launch, R&D, shipment, qualification, order, acceptance or production stage is stated. Review: Physical PDF p.24 directly states chip-to-wafer hybrid bonding equipment is mainly applied to HBM and chip three-dimensional integration. It establishes product-family capability only, without commercial stage.",
+        "reviewer": "Terra independent verifier",
+        "review_date": "2026-09-22"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_pecvd_series_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "source_native_family",
+    "name": "Piotech PECVD series equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_002",
+      "source_id": "piotech_annual_2023",
+      "page": 22,
+      "excerpt": "Upsilon\n                                                      化后处理\n\n  ① PECVD 产品\n\n  报告期内，公司 PECVD 设备作为主打产品，已实现全系列 PECVD 薄膜材料的覆盖，并持续保\n\n持竞争优势，获得批量订单和批量验收，广泛应用于国内集成电路制造产线，为客户提供高性能\n\n的介质薄膜材料。\n\n  报告期内，公司首台 PECVD LokⅡ工艺设备、ADC II 工艺设备通过验收，实现了产业化应用。\n\n此外，公司不断拓展通用介质薄膜材料工艺及先进介质薄膜材料工艺的应用，持续获得客户订单、\n\n出货至客户端验证、扩大量产规模。截至本报告期末，PECVD 通用介质薄膜材料（包括 SiO2、SiN、\n\nTEOS、SiON、SiOC、FSG、BPSG、PSG 等）和先进介质薄膜材料（包括 ACHM、LoKⅠ、LoKⅡ、ADC\n\nⅠ、ADCⅡ、HTN、a-Si 等）均已实现产业化应用。\n\n  报告期内，公司研制并推出了新型",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "PECVD material family batch orders and acceptances",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_002_pecvd_series_family",
+        "source_id": "piotech_annual_2023",
+        "page": 22,
+        "excerpt": "Upsilon\n                                                      化后处理\n\n  ① PECVD 产品\n\n  报告期内，公司 PECVD 设备作为主打产品，已实现全系列 PECVD 薄膜材料的覆盖，并持续保\n\n持竞争优势，获得批量订单和批量验收，广泛应用于国内集成电路制造产线，为客户提供高性能\n\n的介质薄膜材料。\n\n  报告期内，公司首台 PECVD LokⅡ工艺设备、ADC II 工艺设备通过验收，实现了产业化应用。\n\n此外，公司不断拓展通用介质薄膜材料工艺及先进介质薄膜材料工艺的应用，持续获得客户订单、\n\n出货至客户端验证、扩大量产规模。截至本报告期末，PECVD 通用介质薄膜材料（包括 SiO2、SiN、\n\nTEOS、SiON、SiOC、FSG、BPSG、PSG 等）和先进介质薄膜材料（包括 ACHM、LoKⅠ、LoKⅡ、ADC\n\nⅠ、ADCⅡ、HTN、a-Si 等）均已实现产业化应用。\n\n  报告期内，公司研制并推出了新型",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD material family batch orders and acceptances",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_003_pecvd_series_family",
+        "source_id": "piotech_annual_2023",
+        "page": 22,
+        "excerpt": "化后处理\n\n  ① PECVD 产品\n\n  报告期内，公司 PECVD 设备作为主打产品，已实现全系列 PECVD 薄膜材料的覆盖，并持续保\n\n持竞争优势，获得批量订单和批量验收，广泛应用于国内集成电路制造产线，为客户提供高性能\n\n的介质薄膜材料。\n\n  报告期内，公司首台 PECVD LokⅡ工艺设备、ADC II 工艺设备通过验收，实现了产业化应用。\n\n此外，公司不断拓展通用介质薄膜材料工艺及先进介质薄膜材料工艺的应用，持续获得客户订单、\n\n出货至客户端验证、扩大量产规模。截至本报告期末，PECVD 通用介质薄膜材料（包括 SiO2、SiN、\n\nTEOS、SiON、SiOC、FSG、BPSG、PSG 等）和先进介质薄膜材料（包括 ACHM、LoKⅠ、LoKⅡ、ADC\n\nⅠ、ADCⅡ、HTN、a-Si 等）均已实现产业化应用。\n\n  报告期内，公司研制并推出了新型 PECVD 反应腔（pX 和 Supra-D），采用新型反应腔配置的\n\nLoKⅡ、ACHM、SiH4、TEOS 等薄膜工艺设备均已出货至客户端验证，可以实现更",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Lok-II and ADC-II first units accepted and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_004_pecvd_series_family",
+        "source_id": "piotech_annual_2023",
+        "page": 23,
+        "excerpt": "2023 年年度报告\n\n\n  此外，公司拓展了新型功率器件领域，开发并推出了用于 SiC 器件制造中的 SiO2、SiN、TEOS、\n\nSiON 等薄膜工艺 PECVD 设备。报告期内，首台 TEOS 设备通过了客户端的验证，实现了产业化应\n\n用，并获得了重复订单。\n\n  公司推出的 PECVD（NF-300H）型号设备已实现产业化应用，可以沉积 Thick TEOS 等介质材\n\n料薄膜。\n\n  ② UV Cure 产品\n\n  UV Cure 设备主要用于薄膜紫外线固化处理，该工序通过对薄膜进行后处理，有效改善薄膜\n\n性能，提升薄膜应力、硬度等关键性能指标。\n\n  公司 UV Cure 设备与 PECVD 设备成套使用，为 PECVD HTN、LokⅡ等薄膜沉积进行紫外线固化\n\n处理。报告期内，公司首台 UV Cure（LokⅡ工艺）设备通过客户端验收，实现产业化应用。截至\n\n本报告期末，公司 UV Cure（H",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "SiC power-device TEOS PECVD client validation and repeat order",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_027_pecvd_series_family",
+        "source_id": "piotech_annual_2025",
+        "page": 36,
+        "excerpt": "耕拓展和迭代升级，积极覆盖先进制程领域对先进薄膜工艺的需求，\n定制化开发不同类型的高产能平台和反应腔，目前在先进存储、先进逻辑领域应用的量产规模不\n断扩大。报告期内，基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-\nD）研发的 PECVD Stack（ONO 叠层）、ACHM 以及 PECVD Bianca 等先进工艺设备已实现产业\n化放量，Lok-II、OPN、SiB 等先进工艺设备已通过客户验证，持续获得客户复购订单；公司目前\n已实现对 PECVD ACHM、a-Si、SiB、高温 SiN 等多款硬掩膜工艺的覆盖，且这些工艺在先进制\n程中应用广泛，公司是国内集成电路领域硬掩膜工艺覆盖最全面的设备厂商；公司 ALD 设备在存\n储芯片、逻辑芯片制造领域量产规模快速攀升，其中，PE-ALD 多款 SiO2、SiN、SiCO 工艺设备\n客户端放量，Thermal-ALD 在持续拓展新工艺，并陆续获得订单、出货，其中首台 TiN 工艺产品\n              公司 ALD 设备累计出货超过 1",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD industrialization versus Lok-II/OPN/SiB validations",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_030_pecvd_series_family",
+        "source_id": "piotech_annual_2025",
+        "page": 38,
+        "excerpt": "拓荆科技股份有限公司2025 年年度报告\n\n\n  报告期内，公司面向先进存储领域自主研发的 PECVD Supra-D OPN、SiB、高温 SiN 等工艺\n设备且均通过客户验证，并持续获得订单，为存储领域顶部选择栅极和硬掩膜工艺提供解决方案。\n此外，公司紧跟先进存储、先进逻辑、三维集成等领域芯片需求，不断深耕拓展新工艺、新产品，\n研发高温至低温不同温度范围的多种先进薄膜，已陆续在客户端实现量产应用，满足客户不同的\n高标准需求。\n\n  公司基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的\nPECVD Stack（ONO 叠层）、ACHM 等先进工艺设备已实现产业化放量，持续获得客户复购订单。\n该等产品满足客户先进制程对高产能及更严格的薄膜性能指标的需求。截至本报告期末，对应前",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD OPN/SiB/high-temperature SiN client validations",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-052",
+        "source_id": "piotech_h1_2026",
+        "page": 56,
+        "excerpt": "PECVD 系列产品及",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD R&D project family industrialized and advanced process applications expanding",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Project-table group status, not a validation or production stage for each catalogue model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_uv_cure_family",
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "record_kind": "source_native_family",
+    "name": "Piotech UV Cure equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_005",
+      "source_id": "piotech_annual_2023",
+      "page": 23,
+      "excerpt": "UV Cure 设备主要用于薄膜紫外线固化处理，该工序通过对薄膜进行后处理，有效改善薄膜\n\n性能，提升薄膜应力、硬度等关键性能指标。\n\n  公司 UV Cure 设备与 PECVD 设备成套使用，为 PECVD HTN、LokⅡ等薄膜沉积进行紫外线固化\n\n处理。报告期内，公司首台 UV Cure（LokⅡ工艺）设备通过客户端验收，实现产业化应用。截至\n\n本报告期末，公司 UV Cure（HTN、LokⅡ工艺）均已实现产业化应用，并持续获得客户的订单、出\n\n货至客户端验证，不断扩大量产应用规模。\n\n  （2）ALD 系列产品研发及产业化进展情况\n\n  ALD 设备是一种可以将反应材料以单原子膜形式通过循环反应逐层沉积在硅片表面，形成对\n\n复杂形貌的基底表面全覆盖成膜的专用设备。由于 ALD 设备可以实现高深宽比、极窄沟槽开口的\n\n优异台阶覆盖率及精确薄膜厚度控制，实现了芯片制造工艺中关键尺寸的精度控制，在结构复杂、\n\n薄膜厚度要求精准的先进逻辑芯片、存储芯片制造中，ALD 是必不可少的核心设备之一。\n\n  公司 ALD",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "UV Cure Lok-II accepted and industrialized",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_005_uv_cure_family",
+        "source_id": "piotech_annual_2023",
+        "page": 23,
+        "excerpt": "UV Cure 设备主要用于薄膜紫外线固化处理，该工序通过对薄膜进行后处理，有效改善薄膜\n\n性能，提升薄膜应力、硬度等关键性能指标。\n\n  公司 UV Cure 设备与 PECVD 设备成套使用，为 PECVD HTN、LokⅡ等薄膜沉积进行紫外线固化\n\n处理。报告期内，公司首台 UV Cure（LokⅡ工艺）设备通过客户端验收，实现产业化应用。截至\n\n本报告期末，公司 UV Cure（HTN、LokⅡ工艺）均已实现产业化应用，并持续获得客户的订单、出\n\n货至客户端验证，不断扩大量产应用规模。\n\n  （2）ALD 系列产品研发及产业化进展情况\n\n  ALD 设备是一种可以将反应材料以单原子膜形式通过循环反应逐层沉积在硅片表面，形成对\n\n复杂形貌的基底表面全覆盖成膜的专用设备。由于 ALD 设备可以实现高深宽比、极窄沟槽开口的\n\n优异台阶覆盖率及精确薄膜厚度控制，实现了芯片制造工艺中关键尺寸的精度控制，在结构复杂、\n\n薄膜厚度要求精准的先进逻辑芯片、存储芯片制造中，ALD 是必不可少的核心设备之一。\n\n  公司 ALD",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "UV Cure Lok-II accepted and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-026",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "UV Cure（HTN、LoK-Ⅱ工艺）均已实现产业化应\n\n用，报告期内持续获得客户的订单、出货",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "industrialized_with_period_orders_and_shipments",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_sacvd_series_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_sacvd",
+    "record_kind": "source_native_family",
+    "name": "Piotech SACVD series equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_008",
+      "source_id": "piotech_annual_2023",
+      "page": 25,
+      "excerpt": "2023 年年度报告\n\n\n   报告期内，公司 SACVD 产品持续提升产品竞争力，新推出了等离子体处理优化的 SAF 薄膜工\n\n艺应用设备并出货至客户端验证，进展顺利。截至本报告期末，公司可实现 SA TEOS、SA ILD、\n\nBPSG、SAF 薄膜工艺沉积的 SACVD 设备在国内集成电路制造产线的量产规模逐步提升。\n\n   （4）HDPCVD 系列产品研发及产业化进展情况\n\n   HDPCVD 设备主要应用于深宽比小于 5:1 的沟槽填充工艺，是集成电路制造的重要设备之\n\n一。HDPCVD 设备可以同时进行薄膜沉积和溅射，所沉积的薄膜致密度更高，杂质含量更低。\n\n\n    产品系列             主要产品型号                             主要薄膜工艺\n\n\n                     PF-",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "SACVD SAF plasma treatment sent to client validation",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_008_sacvd_series_family",
+        "source_id": "piotech_annual_2023",
+        "page": 25,
+        "excerpt": "2023 年年度报告\n\n\n   报告期内，公司 SACVD 产品持续提升产品竞争力，新推出了等离子体处理优化的 SAF 薄膜工\n\n艺应用设备并出货至客户端验证，进展顺利。截至本报告期末，公司可实现 SA TEOS、SA ILD、\n\nBPSG、SAF 薄膜工艺沉积的 SACVD 设备在国内集成电路制造产线的量产规模逐步提升。\n\n   （4）HDPCVD 系列产品研发及产业化进展情况\n\n   HDPCVD 设备主要应用于深宽比小于 5:1 的沟槽填充工艺，是集成电路制造的重要设备之\n\n一。HDPCVD 设备可以同时进行薄膜沉积和溅射，所沉积的薄膜致密度更高，杂质含量更低。\n\n\n    产品系列             主要产品型号                             主要薄膜工艺\n\n\n                     PF-",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "SACVD SAF plasma treatment sent to client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_019_sacvd_series_family",
+        "source_id": "piotech_annual_2024",
+        "page": 23,
+        "excerpt": "SAF（包括等离子体处理优化的 SAF）等介质\n                   PF-300T Plus PESAF                 薄膜材料\n\n   报告期内，公司 SACVD 系列产品持续保持产品竞争优势，进一步扩大量产应用规模，同时，\n推出的等离子体增强 SAF 薄膜工艺设备在客户端验证进展顺利。截至本报告期末，公司 SACVD\n系列产品反应腔累计出货超过 100 个。\n\n   （4）HDPCVD 系列产品研发及产业化进展情况\n\n   HDPCVD 设备主要应用于深宽比小于 5:1 的沟槽填充工艺，\n                                  是集成电路制造的重要设备之一。\nHDPCVD 设备可以同时进行薄膜沉积和溅射，所沉积的薄膜致密度更高，杂质含量更低。\n\n   公司 HDPCVD 系列产品主要类型如下：\n\n\n    产品系列              主要产品型号                              主要薄膜工艺",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "SACVD PE-SAF validation progressing",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_033_sacvd_series_family",
+        "source_id": "piotech_annual_2025",
+        "page": 39,
+        "excerpt": "-300T SAF            SAF（包括等离子体处理优化的 SAF）等介质\n                   PF-300T Plus PE SAF                 薄膜材料\n\n  报告期内，公司 SACVD 系列产品持续保持产品竞争优势，推出的等离子体增强 SAF 薄膜工\n艺设备首台通过客户验证，满足先进存储领域应用需求，同时，持续获得客户订单并出货，进一\n步扩大量产应用规模。截至报告期末，公司 SACVD 系列产品已出货累计超过 150 个反应腔。\n\n  （4）HDPCVD 系列产品研发及产业化进展情况\n\n  公司 HDPCVD 系列产品主要类型如下：\n\n\n    产品系列              主要产品型号                             主要薄膜工艺\n\n    HDPCVD            TS-300S Hesper               USG、FSG、PSG 等介质薄膜材料",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "SACVD PE-SAF first client validation and shipment growth",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-030",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "PESAF 薄膜工艺设备已多台通过不同客户验证，进一步扩大量产应用\n规模，并获得客户的复购批量订单",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PESAF multi-client validation and repeat batch orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_hdpcvd_series_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "Piotech HDPCVD series equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_009",
+      "source_id": "piotech_annual_2023",
+      "page": 25,
+      "excerpt": "PF-300T Hesper\n     HDPCVD                                      SiO2、USG、FSG、PSG 等介质薄膜材料\n                     TS-300S Hesper\n\n\n   报告期内，公司首台 HDPCVD 设备（沉积 USG 薄膜）通过客户验证，实现了产业化应用,并持\n\n续获得客户订单，出货至不同应用领域的不同客户端进行产业化验证，可以沉积 SiO2、USG、FSG、\n\nPSG 等介质材料薄膜。截至报告期末，公司 HDPCVD 产品已累计出货超过 40 个反应腔。\n\n   （5）混合键合系列产品研发及产业化进展情况\n\n   混合键合设备是晶圆级三维集成应用中最前沿的核心设备之一，可以在常温下通过直接键合\n\n工艺技术实现芯片或晶圆的堆叠。通常对晶圆表面进行等离子激活和清洗之后，运用高精密对准\n\n技术和键合工艺控制技术，实现晶圆对晶圆或芯片对晶圆的键合，并将键合精度控制在亚微米\n\n级，从而有效提升芯片间的通信带宽及芯片系统性能。除此之外",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "HDPCVD USG first unit client validated and industrialized",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_009_hdpcvd_series_family",
+        "source_id": "piotech_annual_2023",
+        "page": 25,
+        "excerpt": "PF-300T Hesper\n     HDPCVD                                      SiO2、USG、FSG、PSG 等介质薄膜材料\n                     TS-300S Hesper\n\n\n   报告期内，公司首台 HDPCVD 设备（沉积 USG 薄膜）通过客户验证，实现了产业化应用,并持\n\n续获得客户订单，出货至不同应用领域的不同客户端进行产业化验证，可以沉积 SiO2、USG、FSG、\n\nPSG 等介质材料薄膜。截至报告期末，公司 HDPCVD 产品已累计出货超过 40 个反应腔。\n\n   （5）混合键合系列产品研发及产业化进展情况\n\n   混合键合设备是晶圆级三维集成应用中最前沿的核心设备之一，可以在常温下通过直接键合\n\n工艺技术实现芯片或晶圆的堆叠。通常对晶圆表面进行等离子激活和清洗之后，运用高精密对准\n\n技术和键合工艺控制技术，实现晶圆对晶圆或芯片对晶圆的键合，并将键合精度控制在亚微米\n\n级，从而有效提升芯片间的通信带宽及芯片系统性能。除此之外",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "HDPCVD USG first unit client validated and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_020_hdpcvd_series_family",
+        "source_id": "piotech_annual_2024",
+        "page": 23,
+        "excerpt": "TS-300S Hesper\n    HDPCVD                                          USG、FSG、PSG 等介质薄膜材料\n                     PF-300T Hesper\n\n       公司多台 HDPCVD FSG、STI 工艺设备通过客户验证，\n   报告期内，                             实现了产业化应用，HDPCVD\nUSG 工艺设备持续扩大量产规模，公司 HDPCVD 设备持续获得客户重复订单。截至本报告披露\n日，公司 HDPCVD USG、FSG、STI 薄膜工艺设备均已实现产业化，并持续扩大量产规模，HDPCVD\n系列产品反应腔累计出货量达到 100 个。\n\n   （5）Flowable CVD 系列产品研发及产业化进展情况\n\n\n\n\n                                        22 / 276",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "HDPCVD FSG/STI multiple tools client validated",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-031",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "HDPCVD USG、FSG 薄膜工艺设备均已实现产业化，并持续扩大量产规模",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "USG/FSG industrialized and expanding",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_flowable_cvd_series_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "Piotech Flowable CVD series equipment family",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_021",
+      "source_id": "piotech_annual_2024",
+      "page": 24,
+      "excerpt": "产品系列         主要产品型号                          主要薄膜工艺\n\n\n  Flowable CVD   PF-300T Flora                 SiO2 等介质薄膜材料。\n\n   报告期内，公司自主研发并推出的 Flowable CVD 产品多台通过客户验证，实现了产业化应\n用，并获得不同客户订单。截至本报告期末，与 Flowable CVD 设备相关的反应腔累计出货超过\n15 个。\n\n   （6）三维集成领域系列产品研发及产业化进展情况\n\n   三维集成是实现芯片高密度互连、三维堆叠及系统级集成的关键制造环节，正在成为半导体\n行业发展的重要趋势。先进键合设备主要应用于芯片或晶圆堆叠，通过对芯片或晶圆进行等离子\n活化、清洗、对准、键合、量测等一系列工艺处理和精准控制，实现芯片或晶圆的垂直堆叠架构，\n可有效提升芯片间的通信带宽及芯片系统性能，键合精度可达百纳米级，是三维集成领域中最重\n要的设备之一。\n\n   报告期内，公司逐步完善应用于三维集成领域",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Flowable CVD multiple client validations and industrial use",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_021_flowable_cvd_series_family",
+        "source_id": "piotech_annual_2024",
+        "page": 24,
+        "excerpt": "产品系列         主要产品型号                          主要薄膜工艺\n\n\n  Flowable CVD   PF-300T Flora                 SiO2 等介质薄膜材料。\n\n   报告期内，公司自主研发并推出的 Flowable CVD 产品多台通过客户验证，实现了产业化应\n用，并获得不同客户订单。截至本报告期末，与 Flowable CVD 设备相关的反应腔累计出货超过\n15 个。\n\n   （6）三维集成领域系列产品研发及产业化进展情况\n\n   三维集成是实现芯片高密度互连、三维堆叠及系统级集成的关键制造环节，正在成为半导体\n行业发展的重要趋势。先进键合设备主要应用于芯片或晶圆堆叠，通过对芯片或晶圆进行等离子\n活化、清洗、对准、键合、量测等一系列工艺处理和精准控制，实现芯片或晶圆的垂直堆叠架构，\n可有效提升芯片间的通信带宽及芯片系统性能，键合精度可达百纳米级，是三维集成领域中最重\n要的设备之一。\n\n   报告期内，公司逐步完善应用于三维集成领域",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Flowable CVD multiple client validations and industrial use",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_034_flowable_cvd_series_family",
+        "source_id": "piotech_annual_2025",
+        "page": 40,
+        "excerpt": "艺\n\n\n  Flowable CVD   PF-300T Flora                 SiO2 等介质薄膜材料。\n\n  公司自主研发的 Flowable CVD 产品已有多台通过客户验证，实现了产业化应用。报告期内，\n公司持续获得订单并出货，凭借优异的性能表现，被客户选定为 POR（基准工艺）机台。\n\n  （6）三维集成领域系列产品研发及产业化进展情况\n\n  报告期内，公司持续拓展应用于三维集成设备，包括先进键合产品及配套的量检测产品，主\n要产品如下：\n\n\n      产品系列        主要产品型号                          主要应用\n\n                    Dione 300                  晶圆对晶圆混合键合\n 晶圆对晶圆混合键合产品\n                  Dione 300 eX              高速高精度晶圆对晶圆混合键合\n\n 晶圆对晶圆熔融键合产品     Dione 300F eX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Flowable CVD POR baseline choice by customer",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-032",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "Flowable CVD 产品已有多台通过客户验证，在先进逻辑领域\n实现了产业化应用。报告期内，公司持续获得订单并出货",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple tools client validated; industrialized advanced-logic use",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_pecvd_bianca_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "Piotech PECVD Bianca equipment family",
+    "aliases": [
+      "PECVD Bianca",
+      "PF-300T Bianca"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_014",
+      "source_id": "piotech_annual_2024",
+      "page": 21,
+      "excerpt": "并推出了 PECVD Bianca 工艺设备，该设备为晶圆背面薄膜沉积设备，主要应\n用于集成电路制造过程中对晶圆翘曲的纠正以及晶圆背面保护。该设备可以实现在不使用翻片工\n艺、不使用去边工艺的情况下对晶圆背面进行薄膜沉积，减少集成电路制造的工艺步骤，降低客\n户成本。报告期内，公司 PECVD Bianca 工艺设备已通过客户验证，实现了产业化应用。截至报\n告期末, 累计超过 40 个 PECVD Bianca 工艺设备反应腔已出货至客户端。\n\n  公司基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的\nPECVD Stack（ONO 叠层）、ACHM、LoK-Ⅱ等先进工艺设备实现了批量出货，并陆续通过客\n户验证，满足客户在先进技术更新迭代过程中对高产能及更严格的薄膜性能指标的需求。截至报\n告期末，累计超过 220 个反应腔出货至客户端。\n\n  公司开发并推出了用于新型功率器件领域 SiC 器件制造中的 SiO2、SiN、TEOS、SiON 等薄\n膜工艺 PE",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "PECVD Bianca client validated and industrialized",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_014_pecvd_bianca_family",
+        "source_id": "piotech_annual_2024",
+        "page": 21,
+        "excerpt": "并推出了 PECVD Bianca 工艺设备，该设备为晶圆背面薄膜沉积设备，主要应\n用于集成电路制造过程中对晶圆翘曲的纠正以及晶圆背面保护。该设备可以实现在不使用翻片工\n艺、不使用去边工艺的情况下对晶圆背面进行薄膜沉积，减少集成电路制造的工艺步骤，降低客\n户成本。报告期内，公司 PECVD Bianca 工艺设备已通过客户验证，实现了产业化应用。截至报\n告期末, 累计超过 40 个 PECVD Bianca 工艺设备反应腔已出货至客户端。\n\n  公司基于新型设备平台（PF-300T Plus 和 PF-300M）和新型反应腔（pX 和 Supra-D）研发的\nPECVD Stack（ONO 叠层）、ACHM、LoK-Ⅱ等先进工艺设备实现了批量出货，并陆续通过客\n户验证，满足客户在先进技术更新迭代过程中对高产能及更严格的薄膜性能指标的需求。截至报\n告期末，累计超过 220 个反应腔出货至客户端。\n\n  公司开发并推出了用于新型功率器件领域 SiC 器件制造中的 SiO2、SiN、TEOS、SiON 等薄\n膜工艺 PE",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "PECVD Bianca client validated and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_nf_300h_pecvd",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "Piotech NF-300H PECVD",
+    "aliases": [
+      "NF-300H"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p24_n_013_platform_stage",
+      "source_id": "piotech_annual_2024",
+      "page": 21,
+      "excerpt": "计超过 220 个反应腔出货至客户端。\n\n  公司开发并推出了用于新型功率器件领域 SiC 器件制造中的 SiO2、SiN、TEOS、SiON 等薄\n膜工艺 PECVD 设备，已实现产业化应用，报告期内，该产品持续获得客户重复订单并出货。\n\n  公司 NF-300H 型号是高产能 PECVD 设备，可以搭载 3 个 6 站反应腔，每次可以同时最多处\n理 18 片晶圆。该设备已实现产业化应用，可以沉积超厚 TEOS 等介质材料薄膜，在三维集成领域\n具有广泛应用前景，报告期内持续出货并扩大量产规模。\n\n  公司在 NF-300H 基础上，再次开发了更高产能的设备平台 NF-300M 及反应腔 Supra-H，可以\n搭载 4 个 6 站反应腔，每次可以同时处理 24 片晶圆。目前 NF-300M Supra-H 设备已完成样机研\n发，可以沉积多层氧化硅和氮化硅叠层介",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "NF-300H industrial application and continued shipments; stated three-chamber configuration",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p24_n_013_platform_stage_nf_300h_pecvd",
+        "source_id": "piotech_annual_2024",
+        "page": 21,
+        "excerpt": "计超过 220 个反应腔出货至客户端。\n\n  公司开发并推出了用于新型功率器件领域 SiC 器件制造中的 SiO2、SiN、TEOS、SiON 等薄\n膜工艺 PECVD 设备，已实现产业化应用，报告期内，该产品持续获得客户重复订单并出货。\n\n  公司 NF-300H 型号是高产能 PECVD 设备，可以搭载 3 个 6 站反应腔，每次可以同时最多处\n理 18 片晶圆。该设备已实现产业化应用，可以沉积超厚 TEOS 等介质材料薄膜，在三维集成领域\n具有广泛应用前景，报告期内持续出货并扩大量产规模。\n\n  公司在 NF-300H 基础上，再次开发了更高产能的设备平台 NF-300M 及反应腔 Supra-H，可以\n搭载 4 个 6 站反应腔，每次可以同时处理 24 片晶圆。目前 NF-300M Supra-H 设备已完成样机研\n发，可以沉积多层氧化硅和氮化硅叠层介",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "NF-300H industrial application and continued shipments; stated three-chamber configuration",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p25_lead_011_platform_stage_nf_300h_pecvd",
+        "source_id": "piotech_annual_2025",
+        "page": 38,
+        "excerpt": "  公司 NF-300H 型号是高产能 PECVD 设备，可以搭载 3 个 6 站反应腔，每次可以同时最多处\n理 18 片晶圆。该设备已实现产业化应用，可以沉积超厚 TEOS 等介质材料薄膜，在存储芯片制\n造、三维集成等领域具有广泛应用前景，报告期内持续出货并扩大量产规模。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "NF-300H industrial application and continued shipments in FY2025 report; stated three-chamber configuration",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_nf_300m_supra_h_pecvd",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "Piotech NF-300M Supra-H PECVD",
+    "aliases": [
+      "NF-300M Supra-H"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_016",
+      "source_id": "piotech_annual_2024",
+      "page": 21,
+      "excerpt": "厚 TEOS 等介质材料薄膜，在三维集成领域\n具有广泛应用前景，报告期内持续出货并扩大量产规模。\n\n  公司在 NF-300H 基础上，再次开发了更高产能的设备平台 NF-300M 及反应腔 Supra-H，可以\n搭载 4 个 6 站反应腔，每次可以同时处理 24 片晶圆。目前 NF-300M Supra-H 设备已完成样机研\n发，可以沉积多层氧化硅和氮化硅叠层介质材料薄膜，实现高均匀性和多种薄膜工艺集成，满足\n先进存储芯片制造领域最先进的生产需求。\n\n  ② UV Cure 产品\n\n  UV Cure 设备主要用于薄膜紫外线固化处理，该工序通过对薄膜进行后处理，有效改善薄膜\n性能，提升薄膜应力、硬度等关键性能指标。\n\n  公司 UV Cure 设备与 PECVD 设备成套使用，为 PECVD HTN、Lok-Ⅱ等薄膜沉积进行紫外\n线固化处理。公司 UV Cure（HTN、Lok-Ⅱ工艺）均已实现产业化应用，报告期内持续获得客户\n的订单、出货，扩大量产应用规模，截至报告期末，累计超过 30 个反应腔出货至客户端。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "NF-300M Supra-H only prototype completion",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_016_nf_300m_supra_h_pecvd",
+        "source_id": "piotech_annual_2024",
+        "page": 21,
+        "excerpt": "厚 TEOS 等介质材料薄膜，在三维集成领域\n具有广泛应用前景，报告期内持续出货并扩大量产规模。\n\n  公司在 NF-300H 基础上，再次开发了更高产能的设备平台 NF-300M 及反应腔 Supra-H，可以\n搭载 4 个 6 站反应腔，每次可以同时处理 24 片晶圆。目前 NF-300M Supra-H 设备已完成样机研\n发，可以沉积多层氧化硅和氮化硅叠层介质材料薄膜，实现高均匀性和多种薄膜工艺集成，满足\n先进存储芯片制造领域最先进的生产需求。\n\n  ② UV Cure 产品\n\n  UV Cure 设备主要用于薄膜紫外线固化处理，该工序通过对薄膜进行后处理，有效改善薄膜\n性能，提升薄膜应力、硬度等关键性能指标。\n\n  公司 UV Cure 设备与 PECVD 设备成套使用，为 PECVD HTN、Lok-Ⅱ等薄膜沉积进行紫外\n线固化处理。公司 UV Cure（HTN、Lok-Ⅱ工艺）均已实现产业化应用，报告期内持续获得客户\n的订单、出货，扩大量产应用规模，截至报告期末，累计超过 30 个反应腔出货至客户端。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "NF-300M Supra-H only prototype completion",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_031_nf_300m_supra_h_pecvd",
+        "source_id": "piotech_annual_2025",
+        "page": 38,
+        "excerpt": "超厚 TEOS 等介质材料薄膜，在存储芯片制\n造、三维集成等领域具有广泛应用前景，报告期内持续出货并扩大量产规模。\n\n  公司开发的更高产能的设备平台 NF-300M 及反应腔 Supra-H，可以搭载 4 个 6 站反应腔，每\n次可以同时最多处理 24 片晶圆。截至本报告期末，NF-300M Supra-H 设备已完成样机研发和制\n造，进行工艺优化及多重验证。该设备可以沉积多层 Stack（ONO 叠层）介质材料薄膜，实现更\n优异的均匀性和更高累计 ONO 叠层工艺，满足先进存储芯片制造领域最先进的研发和生产需求。\n\n  ② UV Cure 产品\n\n  UV Cure 设备作为公司薄膜后处理相关产品，与 PECVD 设备成套使用，为 PECVD HTN、\nLok-Ⅱ等薄膜沉积进行紫外线固化处理。公司 UV Cure（HTN、Lok-Ⅱ工艺）均已实现产业化应\n\n用，报告期内持续获得客户的订单、出货，扩大量产应用规模。\n\n  （2）ALD 系列产品研发及产业化进展情况\n\n  公司 ALD 系列产品主要类型如下：",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "NF-300M Supra-H prototype and multiple validation, not mass production",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-025",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "NF-300M Supra-H 设备已进行工艺优化及多\n重验证",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "process_optimization_and_multiple_verifications",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_ts_300_altair_thermal_ald",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "Piotech TS-300 Altair Thermal-ALD",
+    "aliases": [
+      "TS-300 Altair"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_007",
+      "source_id": "piotech_annual_2023",
+      "page": 24,
+      "excerpt": "的优势。\n\n  ② Thermal-ALD 产品\n\n  Thermal-ALD 是利用热能使反应物分子吸附在基底表面，再进行化学反应，生成薄膜，具有\n\n相对较高的反应温度、优越的台阶覆盖率、高薄膜质量等特点，适用于金属、金属氧化物、金属\n\n氮化物等薄膜沉积。\n\n  报告期内，公司首台 Thermal-ALD（TS-300 Altair）设备通过客户验证，取得了突破性进展。\n\n该设备为集成工艺设备，可以在同一台设备中沉积 Thermal-ALD 金属化合物薄膜及 PECVD ADCⅡ\n\n薄膜。此外，公司持续拓展 Thermal-ALD 薄膜工艺，开发并推出了多款新工艺机型，获得了原有\n\n客户及新客户订单，持续扩大薄膜材料覆盖面。\n\n  （3）SACVD 系列产品研发及产业化进展情况\n\n  SACVD 设备主要应用于深宽比小于 7:1 的沟槽填充工艺，是集成电路制造的重要设备之一。\n\n在集成电路结构中，沟槽孔洞的深宽比越来越大，SACVD 反应腔环境具有特有的高温（400℃-\n\n550℃）、高压（30-600Torr）环境，具有快速优越的填孔能",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "TS-300 Altair Thermal-ALD first client validation",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_007_ts_300_altair_thermal_ald",
+        "source_id": "piotech_annual_2023",
+        "page": 24,
+        "excerpt": "的优势。\n\n  ② Thermal-ALD 产品\n\n  Thermal-ALD 是利用热能使反应物分子吸附在基底表面，再进行化学反应，生成薄膜，具有\n\n相对较高的反应温度、优越的台阶覆盖率、高薄膜质量等特点，适用于金属、金属氧化物、金属\n\n氮化物等薄膜沉积。\n\n  报告期内，公司首台 Thermal-ALD（TS-300 Altair）设备通过客户验证，取得了突破性进展。\n\n该设备为集成工艺设备，可以在同一台设备中沉积 Thermal-ALD 金属化合物薄膜及 PECVD ADCⅡ\n\n薄膜。此外，公司持续拓展 Thermal-ALD 薄膜工艺，开发并推出了多款新工艺机型，获得了原有\n\n客户及新客户订单，持续扩大薄膜材料覆盖面。\n\n  （3）SACVD 系列产品研发及产业化进展情况\n\n  SACVD 设备主要应用于深宽比小于 7:1 的沟槽填充工艺，是集成电路制造的重要设备之一。\n\n在集成电路结构中，沟槽孔洞的深宽比越来越大，SACVD 反应腔环境具有特有的高温（400℃-\n\n550℃）、高压（30-600Torr）环境，具有快速优越的填孔能",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "TS-300 Altair Thermal-ALD first client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_018_ts_300_altair_thermal_ald",
+        "source_id": "piotech_annual_2024",
+        "page": 23,
+        "excerpt": "拓荆科技股份有限公司2024 年年度报告\n\n\n   公司 Thermal-ALD 设备已实现产业化应用。报告期内，公司 Thermal-ALD Al2O3、AlN 等工\n艺设备持续出货至客户端，包括集成工艺设备 Thermal-ALD（TS-300 Altair），该设备不仅具有\n高产能的特点，并可以实现在同一台设备中沉积 Thermal-ALD AlN 及 PECVD ADC-II 薄膜。此外，\n公司持续拓展 Thermal-ALD 其他薄膜工艺，扩大金属及金属化合物薄膜材料应用，整体进展顺利。\n\n   （3）SACVD 系列产品研发及产业化进展情况\n\n   SACVD 设备主要应用于深宽比小于 7:1 的沟槽填充工艺，是集成电路制造的重要设备之一。\n在 集 成 电 路 结 构 中 ， 沟 槽 孔 洞 的 深 宽 比 越 来 越 大 ， SACVD 反 应",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Thermal-ALD Al2O3/AlN shipments and integrated TS-300 Altair",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_vs_300t_astra_s_ald",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "Piotech VS-300T Astra-s ALD",
+    "aliases": [
+      "VS-300T Astra-s"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_032",
+      "source_id": "piotech_annual_2025",
+      "page": 39,
+      "excerpt": "VS-300T Astra-s",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_named_product_listing_only",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "FY2025 p39 continuing PE-ALD roster names VS-300T Astra-s. The later paragraph attributes orders, shipments and validation to VS-300T-based PE-ALD equipment generically; it does not identify Astra-s as that unit. Preserve the generic stage at ALD-family level only.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "piotech_propus_pretreatment",
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "record_kind": "named_platform",
+    "name": "Piotech Propus chip-to-wafer bonding surface pretreatment",
+    "aliases": [
+      "Propus",
+      "Pollux"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_010",
+      "source_id": "piotech_annual_2023",
+      "page": 25,
+      "excerpt": "和熔融键合（Fusion Bonding）\n 芯片对晶圆混合键合前表\n                          Propus                 晶圆及切割后芯片的表面活化及清洗\n     面预处理产品\n\n   注：芯片对晶圆混合键合前表面预处理产品型号由原来的“Pollux”调整为“Propus”。\n\n\n                                      25 / 278",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Pollux renamed Propus in source footnote",
+    "maturity_as_reported_in": "piotech_annual_2023",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_010_propus_pretreatment",
+        "source_id": "piotech_annual_2023",
+        "page": 25,
+        "excerpt": "和熔融键合（Fusion Bonding）\n 芯片对晶圆混合键合前表\n                          Propus                 晶圆及切割后芯片的表面活化及清洗\n     面预处理产品\n\n   注：芯片对晶圆混合键合前表面预处理产品型号由原来的“Pollux”调整为“Propus”。\n\n\n                                      25 / 278",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Pollux renamed Propus in source footnote",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_011_propus_pretreatment",
+        "source_id": "piotech_annual_2023",
+        "page": 26,
+        "excerpt": "2023 年年度报告\n\n\n  报告期内，公司首台晶圆对晶圆键合产品 Dione 300 顺利通过客户验证，并获得复购订单，\n\n复购的设备再次通过验证，实现了产业化应用，成为国产首台应用于量产的混合键合设备，目前\n\n该设备的性能和产能指标均已达到国际领先水平。\n\n  此外，报告期内，公司推出的芯片对晶圆混合键合前表面预处理产品 Propus 发货至客户端验\n\n证，并在当年即通过客户端验证，实现了产业化应用，成为国产首台应用于量产的同类型产品。\n\n  3、供应链保障方面\n\n  公司持续优化供应链管理体系，建立了覆盖生产与库存管理、采购管理、物流管理等多维度\n\n的协调机制，合理规划采购体量及进度，通过提前策划、共享需求预测等方式提高供应链协同性\n\n及响应能力，以确保部件供给匹配机台生产需求。公司注重供",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Propus shipped for customer validation, then customer-validated and industrialized in FY2023",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_024_propus_pretreatment",
+        "source_id": "piotech_annual_2024",
+        "page": 25,
+        "excerpt": "低应力熔融键\n合，具备优异的产能表现。报告期内，该产品已获得客户订单。\n\n  ③ 芯片对晶圆键合前表面预处理产品\n\n  芯片对晶圆的键合工艺分为预处理和键合两道工序，芯片对晶圆键合表面预处理产品可以实\n现芯片对晶圆键合前表面预处理工序。\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单，扩大量产应用规模。目前该产品是国内唯一应用在芯片对晶圆生产线上的同\n类型设备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技\n术是在晶圆对晶圆混合键合的基础上，还需实现芯片的高精度选取和放置技术，主要应用于高带\n宽存储器（HBM）、芯片三维集成领域。\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Propus repeat orders and industry use",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_036_propus_pretreatment",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "新一代高速高精度晶圆对晶圆混合键合产品 Dione 300 eX，该产品采\n用更先进的对准技术，拥有更高的对准精度、键合精度和设备产能，可达到国际同类产品最先进\n水平，目前已出货至客户端验证，验证进展顺利。\n\n  ②晶圆对晶圆熔融键合产品\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F eX，可实现载片晶圆和器件晶圆低应力熔融\n键合，具备优异的产能表现，报告期内，该产品已完成先进逻辑领域客户的验证。\n\n  ③芯片对晶圆键合前表面预处理产品\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单。\n\n  ④芯片对晶圆混合键合产品\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。截至本报告期末，该产品正在客户端\n进行验证，同时进一步提升其量产性能指",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Propus continued receiving repeat customer orders; no new FY2025 validation stage stated",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-036",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混\n合键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持\n续获得不同客户订单并出货。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "family industrialized with period orders and shipments",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_dione_300f_fusion_2024",
+    "entity_id": "piotech",
+    "category_id": "bonding_fusion",
+    "record_kind": "named_platform",
+    "name": "Piotech Dione 300F fusion bonding (FY2024 named variant)",
+    "aliases": [
+      "Dione 300F"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_023",
+      "source_id": "piotech_annual_2024",
+      "page": 25,
+      "excerpt": "得客户重复订单，扩大量产应用规模。\n\n  ② 晶圆对晶圆熔融键合产品\n\n  晶圆级熔融键合设备可高效实现非电气连接的晶圆间键合，将两个平整的晶圆自然连接键合，\n其特点是晶圆在清洗后进行亲水性加工，相互接触并在高温下退火，晶圆在室温下接合。\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F，可实现载片晶圆和器件晶圆低应力熔融键\n合，具备优异的产能表现。报告期内，该产品已获得客户订单。\n\n  ③ 芯片对晶圆键合前表面预处理产品\n\n  芯片对晶圆的键合工艺分为预处理和键合两道工序，芯片对晶圆键合表面预处理产品可以实\n现芯片对晶圆键合前表面预处理工序。\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单，扩大量产应用规模。目前该产品是国内唯一应用在芯片对晶圆生产线上的同\n类型设备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Dione 300F customer order, not validation",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_023_dione_300f_fusion_2024",
+        "source_id": "piotech_annual_2024",
+        "page": 25,
+        "excerpt": "得客户重复订单，扩大量产应用规模。\n\n  ② 晶圆对晶圆熔融键合产品\n\n  晶圆级熔融键合设备可高效实现非电气连接的晶圆间键合，将两个平整的晶圆自然连接键合，\n其特点是晶圆在清洗后进行亲水性加工，相互接触并在高温下退火，晶圆在室温下接合。\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F，可实现载片晶圆和器件晶圆低应力熔融键\n合，具备优异的产能表现。报告期内，该产品已获得客户订单。\n\n  ③ 芯片对晶圆键合前表面预处理产品\n\n  芯片对晶圆的键合工艺分为预处理和键合两道工序，芯片对晶圆键合表面预处理产品可以实\n现芯片对晶圆键合前表面预处理工序。\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单，扩大量产应用规模。目前该产品是国内唯一应用在芯片对晶圆生产线上的同\n类型设备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Dione 300F customer order, not validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_pleione_d2w_hybrid",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_d2w",
+    "record_kind": "named_platform",
+    "name": "Piotech Pleione chip-to-wafer hybrid bonding",
+    "aliases": [
+      "Pleione"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_025",
+      "source_id": "piotech_annual_2024",
+      "page": 25,
+      "excerpt": "备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技\n术是在晶圆对晶圆混合键合的基础上，还需实现芯片的高精度选取和放置技术，主要应用于高带\n宽存储器（HBM）、芯片三维集成领域。\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。报告期内，该产品已获得客户订单并\n出货。\n\n  ⑤ 键合套准精度量测产品\n\n  键合套准精度量测产品是混合键合技术领域重要的键合精度量测设备。该设备主要采用红外\n光学技术原理实现量测功能。\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。报告期内，该产品已通过客户验证。\n\n\n                         24 / 276",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Pleione client order and shipment",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_025_pleione_d2w_hybrid",
+        "source_id": "piotech_annual_2024",
+        "page": 25,
+        "excerpt": "备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技\n术是在晶圆对晶圆混合键合的基础上，还需实现芯片的高精度选取和放置技术，主要应用于高带\n宽存储器（HBM）、芯片三维集成领域。\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。报告期内，该产品已获得客户订单并\n出货。\n\n  ⑤ 键合套准精度量测产品\n\n  键合套准精度量测产品是混合键合技术领域重要的键合精度量测设备。该设备主要采用红外\n光学技术原理实现量测功能。\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。报告期内，该产品已通过客户验证。\n\n\n                         24 / 276",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Pleione client order and shipment",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_036_pleione_d2w_hybrid",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "新一代高速高精度晶圆对晶圆混合键合产品 Dione 300 eX，该产品采\n用更先进的对准技术，拥有更高的对准精度、键合精度和设备产能，可达到国际同类产品最先进\n水平，目前已出货至客户端验证，验证进展顺利。\n\n  ②晶圆对晶圆熔融键合产品\n\n  公司研制的晶圆对晶圆熔融键合产品 Dione 300F eX，可实现载片晶圆和器件晶圆低应力熔融\n键合，具备优异的产能表现，报告期内，该产品已完成先进逻辑领域客户的验证。\n\n  ③芯片对晶圆键合前表面预处理产品\n\n  公司推出的芯片对晶圆键合前表面预处理产品 Propus 已实现产业化，可以在芯片对晶圆混合\n键合前实现晶圆及切割好的芯片的表面活化和清洗，具备高产能的特点。报告期内，该产品持续\n获得客户重复订单。\n\n  ④芯片对晶圆混合键合产品\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。截至本报告期末，该产品正在客户端\n进行验证，同时进一步提升其量产性能指",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Pleione undergoing customer validation at FY2025 report end; production metrics still being improved",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-037",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆\n上，精度可达百纳米级，具有高精度、高产能、低污染的特点。截至本报告期末，该产品正在客\n户端进行验证，公司同时进一步提升其量产性能指标。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "client_validation_underway_at_2026-06-30",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_crux_300_bond_overlay_metrology",
+    "entity_id": "piotech",
+    "category_id": "metrology_overlay",
+    "record_kind": "named_platform",
+    "name": "Piotech Crux 300 bonding overlay metrology",
+    "aliases": [
+      "Crux 300"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_025",
+      "source_id": "piotech_annual_2024",
+      "page": 25,
+      "excerpt": "备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技\n术是在晶圆对晶圆混合键合的基础上，还需实现芯片的高精度选取和放置技术，主要应用于高带\n宽存储器（HBM）、芯片三维集成领域。\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。报告期内，该产品已获得客户订单并\n出货。\n\n  ⑤ 键合套准精度量测产品\n\n  键合套准精度量测产品是混合键合技术领域重要的键合精度量测设备。该设备主要采用红外\n光学技术原理实现量测功能。\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。报告期内，该产品已通过客户验证。\n\n\n                         24 / 276",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Crux 300 customer validation completed in FY2024",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_025_crux_300_bond_overlay_metrology",
+        "source_id": "piotech_annual_2024",
+        "page": 25,
+        "excerpt": "备。\n\n  ④ 芯片对晶圆混合键合产品\n\n  芯片对晶圆混合键合相较晶圆对晶圆键合具有更高的芯片集成度和灵活性，该设备的关键技\n术是在晶圆对晶圆混合键合的基础上，还需实现芯片的高精度选取和放置技术，主要应用于高带\n宽存储器（HBM）、芯片三维集成领域。\n\n  公司研制的芯片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。报告期内，该产品已获得客户订单并\n出货。\n\n  ⑤ 键合套准精度量测产品\n\n  键合套准精度量测产品是混合键合技术领域重要的键合精度量测设备。该设备主要采用红外\n光学技术原理实现量测功能。\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。报告期内，该产品已通过客户验证。\n\n\n                         24 / 276",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Crux 300 customer validation completed",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_037_crux_300_bond_overlay_metrology",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。截至本报告期末，该产品正在客户端\n进行验证，同时进一步提升其量产性能指标。\n\n  ⑤键合套准精度量测产品\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。该产品已通过客户验证，实现产业化应用。\n\n  ⑥键合强度检测产品\n\n  公司根据客户需求，研制了键合强度检测产品 Ascella 300，可以实现晶圆键合后的强度检测。\n该产品已通过客户验证，实现产业化应用。\n\n  ⑦永久键合后晶圆激光剥离产品\n\n  报告期内，公司已完成永久键合后晶圆激光剥离产品的研制。该产品可以实现永久键合后晶\n圆剥离，晶圆激光剥离技术能有效克服临时键合技术中有机胶残留和耐温性差的问题，帮助客户\n有效优化工艺成本和前道兼容性。\n\n  3、供应链保障方面",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Crux 300 customer-validated and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_ascella_300_bond_strength_metrology",
+    "entity_id": "piotech",
+    "category_id": "metrology",
+    "record_kind": "named_platform",
+    "name": "Piotech Ascella 300 bonding strength metrology",
+    "aliases": [
+      "Ascella 300"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p_qual_026",
+      "source_id": "piotech_annual_2024",
+      "page": 26,
+      "excerpt": "拓荆科技股份有限公司2024 年年度报告\n\n\n  ⑥ 键合强度检测产品\n\n  键合强度检测设备主要应用于晶圆对晶圆键合强度检测。公司根据客户需求，研制了键合强\n度检测产品 Ascella 300，可以实现晶圆键合后的强度检测。报告期内，该产品已通过客户验证。\n\n  3、供应链保障方面\n\n  随着国际形势日益复杂，国内半导体设备产业面临高度复杂的供应链挑战及地缘政治风险，\n报告期内，公司及相关子公司被美国商务部工业和安全局列入“实体清单”。为应对错综复杂的局\n面，公司已采取多维度的保障措施，确保供应链安全与运营连续性，该事项对公司的供应链采购\n未产生影响。\n\n  （1）建立多元化供应商体系\n\n  公司目前已经建立全球化的供应商网络，关键零部件采用“多源采购”模式，避免单一供应商\n依赖。此外，公司与核心供应商签订长期合作协议，锁定产能并享受优先供应，同时，定期评估\n供应商的交付能力，保证关键部件的及时稳定供应。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Ascella 300 client validation",
+    "maturity_as_reported_in": "piotech_annual_2024",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_026_ascella_300_bond_strength_metrology",
+        "source_id": "piotech_annual_2024",
+        "page": 26,
+        "excerpt": "拓荆科技股份有限公司2024 年年度报告\n\n\n  ⑥ 键合强度检测产品\n\n  键合强度检测设备主要应用于晶圆对晶圆键合强度检测。公司根据客户需求，研制了键合强\n度检测产品 Ascella 300，可以实现晶圆键合后的强度检测。报告期内，该产品已通过客户验证。\n\n  3、供应链保障方面\n\n  随着国际形势日益复杂，国内半导体设备产业面临高度复杂的供应链挑战及地缘政治风险，\n报告期内，公司及相关子公司被美国商务部工业和安全局列入“实体清单”。为应对错综复杂的局\n面，公司已采取多维度的保障措施，确保供应链安全与运营连续性，该事项对公司的供应链采购\n未产生影响。\n\n  （1）建立多元化供应商体系\n\n  公司目前已经建立全球化的供应商网络，关键零部件采用“多源采购”模式，避免单一供应商\n依赖。此外，公司与核心供应商签订长期合作协议，锁定产能并享受优先供应，同时，定期评估\n供应商的交付能力，保证关键部件的及时稳定供应。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Ascella 300 client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "piotech_sweep_p_qual_037_ascella_300_bond_strength_metrology",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "片对晶圆混合键合产品 Pleione，可以实现芯片顺序拾取并精准键合到晶圆上，\n精度可达百纳米级，具有高精度、高产能、低污染的特点。截至本报告期末，该产品正在客户端\n进行验证，同时进一步提升其量产性能指标。\n\n  ⑤键合套准精度量测产品\n\n  公司自主研发的键合套准精度量测产品 Crux 300 可以实现混合键合后的键合精度量测，具有\n超高精度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测\n场景。该产品已通过客户验证，实现产业化应用。\n\n  ⑥键合强度检测产品\n\n  公司根据客户需求，研制了键合强度检测产品 Ascella 300，可以实现晶圆键合后的强度检测。\n该产品已通过客户验证，实现产业化应用。\n\n  ⑦永久键合后晶圆激光剥离产品\n\n  报告期内，公司已完成永久键合后晶圆激光剥离产品的研制。该产品可以实现永久键合后晶\n圆剥离，晶圆激光剥离技术能有效克服临时键合技术中有机胶残留和耐温性差的问题，帮助客户\n有效优化工艺成本和前道兼容性。\n\n  3、供应链保障方面",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Ascella 300 customer-validated and industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      },
+      {
+        "claim_id": "PIOTECH-INTERIM-040",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "公司研制的键合强度检测产品可以实现晶圆键合后的强度检测。截至报告期末，该产品已通\n过客户验证，实现产业化应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "client_validated_and_industrialized",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_lyra_300_laser_release",
+    "entity_id": "piotech",
+    "category_id": "bonding_debond",
+    "record_kind": "named_platform",
+    "name": "Piotech Lyra 300 permanent-bond wafer laser release",
+    "aliases": [
+      "Lyra 300"
+    ],
+    "evidence": {
+      "claim_id": "piotech_sweep_p25_roster_07",
+      "source_id": "piotech_annual_2025",
+      "page": 40,
+      "excerpt": "司持续拓展应用于三维集成设备，包括先进键合产品及配套的量检测产品，主\n要产品如下：\n\n\n      产品系列        主要产品型号                          主要应用\n\n                    Dione 300                  晶圆对晶圆混合键合\n 晶圆对晶圆混合键合产品\n                  Dione 300 eX              高速高精度晶圆对晶圆混合键合\n\n 晶圆对晶圆熔融键合产品     Dione 300F eX               晶圆对晶圆低应力熔融键合\n\n 芯片对晶圆键合前表面预\n                   Propus 300               晶圆及切割后芯片的表面活化和清洗\n     处理产品\n\n 芯片对晶圆混合键合产品       Pleione 300                 芯片对晶圆混合键合\n\n\n 键合套准精度量测产品         Crux 300                混合键合后的键合套准精度量测\n\n\n   键合强度检测产品        Ascella 300                晶圆键合后的强度检测\n\n 永久键合后晶圆激光剥离\n                    Lyra 300                  永久键合后晶圆激光剥离\n      产品\n\n  ①晶圆对晶圆混合键合产品\n\n  公司晶圆对晶圆混合键合产品 Dione 300 是公司最早推出的混合键合产品，已实现产业化，\n可实现百纳米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量\n产水",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "Lyra 300 development complete, no client validation",
+    "maturity_as_reported_in": "piotech_annual_2025",
+    "notes": "Source-defined family or named model. Printed rosters are catalogue labels, not distinct shipped-equipment counts. Pending independent original review.",
+    "maturity_history": [
+      {
+        "claim_id": "piotech_sweep_p_qual_038_lyra_300_laser_release",
+        "source_id": "piotech_annual_2025",
+        "page": 41,
+        "excerpt": "场景。该产品已通过客户验证，实现产业化应用。\n\n  ⑥键合强度检测产品\n\n  公司根据客户需求，研制了键合强度检测产品 Ascella 300，可以实现晶圆键合后的强度检测。\n该产品已通过客户验证，实现产业化应用。\n\n  ⑦永久键合后晶圆激光剥离产品\n\n  报告期内，公司已完成永久键合后晶圆激光剥离产品的研制。该产品可以实现永久键合后晶\n圆剥离，晶圆激光剥离技术能有效克服临时键合技术中有机胶残留和耐温性差的问题，帮助客户\n有效优化工艺成本和前道兼容性。\n\n  3、供应链保障方面\n\n  在供应链建设方面，公司建立了完善的供应链管理体系，吸纳积累全球半导体行业内的优质\n供应链资源，关键零部件采用“多源采购”模式，并与核心供应商建立长期战略合作关系，确保\n关键部件的及时稳定供应。在此基础上，公司与供应商构建了协同创新机制，在开展新产品、新\n\n\n                        40 / 277",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Lyra 300 development complete, no client validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source-report context only; exact event date not stated. Preserve source-specific stage and do not infer customer identity or model counts.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_pf_300l_nx_kx_pecvd_family",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform_family",
+    "name": "Piotech PF-300L PECVD platform family",
+    "aliases": [
+      "PF-300L"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-INTERIM-024",
+      "source_id": "piotech_h1_2026",
+      "page": 40,
+      "excerpt": "公司基于原有已规模量产的 PF-300M 高产能平台开发了 PF-300L 平台，并设计了 nX、kX 等\n反应腔，以满足先进制程芯片对低介电常数材料高性能指标需求，该系列产品已出货至客户端验\n证，为客户提供先进薄膜工艺技术的解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "nX/kX series dispatched to customers for validation",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "PF-300L is newly described as developed from production PF-300M; do not inherit PF-300M production status. nX and kX are chamber variants on the platform; no system or chamber shipment count stated. Source product-model table separately labels PF-300L nX and PF-300L kX; those catalogue variant identities do not each inherit the family shipment/validation stage.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-024",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "公司基于原有已规模量产的 PF-300M 高产能平台开发了 PF-300L 平台，并设计了 nX、kX 等\n反应腔，以满足先进制程芯片对低介电常数材料高性能指标需求，该系列产品已出货至客户端验\n证，为客户提供先进薄膜工艺技术的解决方案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "dispatched_to_customers_for_validation",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_d2w_fusion_bonding_family",
+    "entity_id": "piotech",
+    "category_id": "bonding_fusion",
+    "record_kind": "source_native_family",
+    "name": "Piotech chip-to-wafer fusion bonding equipment family",
+    "aliases": [
+      "芯片对晶圆熔融键合产品"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-D2W-FUSION-ROSTER",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "                   Pleione 300 HS\n 芯片对晶圆熔融键合产品                                     芯片对晶圆熔融键合\n                   Pleione 200 HS",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "development complete; orders from different customers",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Models are listed as alternatives within a source-native product family. Family-level development and orders are not assigned separately to both variants; no delivery, validation or commercial production claimed. Pleione 300 HS and Pleione 200 HS are separate catalogue model labels; the group orders are not allocated to either.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-038",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "芯片对晶圆熔融键合技术可以支撑先进封装的前沿应用。与传统键合方法不同，该技术无需\n键合介质或粘合剂，而是在室温下直接键合；同时，还能筛选已知合格芯片（Known Good\nDie），从而大幅提升良率。报告期内，公司已完成该产品的研制，并获得不同客户订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "development_complete_and_customer_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_bond_interface_void_repair_family",
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "Piotech bond-interface void repair equipment family",
+    "aliases": [
+      "键合界面空洞修复产品",
+      "Volans 300"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-VOLANS-ROSTER",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "键合界面空洞修复产品          Volans 300               芯片/晶圆键合后的空洞修复",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "development progressing; no customer qualification asserted",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Volans 300 is sole named roster model; report says product development progressed, not customer validation, orders or shipments. Volans 300 is the only model named in the H1 catalogue under this family; this is an identity alias, not an additional distinct delivered tool or a model-specific customer stage.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-042",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "公司自主研发的高精度键合界面空洞修复设备可实现晶圆对晶圆、芯片对晶圆键合工艺中产\n生的界面空洞缺陷修复。报告期内，该产品开发进展顺利。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "development_progressing",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_bond_overlay_metrology_family",
+    "entity_id": "piotech",
+    "category_id": "metrology_overlay",
+    "record_kind": "source_native_family",
+    "name": "Piotech bond-overlay metrology product family",
+    "aliases": [
+      "键合套准精度量测产品"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-INTERIM-039-ROSTER",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "                       Crux 300\n  键合套准精度量测产品                                   混合键合后的键合套准精度量测\n                       Crux 200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "family_client_validated_industrialized_new_customer_orders",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "H1 p43 lists several variants; p44 stage describes the family, not each variant. Overlaps existing piotech_crux_300_bond_overlay_metrology; no model shipments or count inferred.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-039",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "6   键合套准精度量测产品\n\n  公司自主研发的键合套准精度量测产品可以实现混合键合后的键合精度量测，具有超高精\n度、超高产能和无盲区量测三大特点，并有效兼容晶圆对晶圆和芯片对晶圆混合键合量测场景。\n该产品已通过客户验证，实现产业化应用。报告期内，公司持续拓展该产品的应用，获得新客户\n订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "family_client_validated_industrialized_new_customer_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source report context only; applies to product family, not each catalogue variant.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_permanent_bond_laser_release_family",
+    "entity_id": "piotech",
+    "category_id": "bonding_debond",
+    "record_kind": "source_native_family",
+    "name": "Piotech permanent-bond wafer laser-release product family",
+    "aliases": [
+      "永久键合后晶圆激光剥离产品"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-INTERIM-041-ROSTER",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "                       Lyra 300\n                                             先进封装场景下永久键合后晶圆激光剥离\n 永久键合后晶圆激光剥离           Lyra 200\n     产品\n                     Lyra 300 eX             晶圆制造场景下永久键合后晶圆激光剥离",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "family_development_completed_and_customer_orders",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "H1 p43 lists several variants; p44 stage describes the family, not each variant. Overlaps existing piotech_lyra_300_laser_release; no model shipments or count inferred.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-041",
+        "source_id": "piotech_h1_2026",
+        "page": 44,
+        "excerpt": "8   永久键合后晶圆激光剥离产品\n\n  报告期内，公司已完成晶圆级永久键合后晶圆激光剥离产品的研制，并获得客户订单。晶圆\n激光剥离技术能有效克服临时键合技术中有机胶残留和耐温性差的问题，帮助客户有效优化工艺\n成本和前道兼容性。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "family_development_completed_and_customer_orders",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "Source report context only; applies to product family, not each catalogue variant.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T",
+    "aliases": [
+      "PF-300T"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-01",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300T",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-01",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300T",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_ex",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T eX",
+    "aliases": [
+      "PF-300T eX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-02",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300T eX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-02",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300T eX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_plus_ex",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T Plus eX",
+    "aliases": [
+      "PF-300T Plus eX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-03",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300T Plus eX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-03",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300T Plus eX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_plus_px",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T Plus pX",
+    "aliases": [
+      "PF-300T Plus pX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-04",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300T Plus pX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-04",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300T Plus pX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_plus_supra_d",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T Plus Supra-D",
+    "aliases": [
+      "PF-300T Plus Supra-D"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-05",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300T Plus Supra-D",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-05",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300T Plus Supra-D",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300m_supra_d",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300M Supra-D",
+    "aliases": [
+      "PF-300M Supra-D"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-06",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300M Supra-D",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-06",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300M Supra-D",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300l_kx",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300L kX",
+    "aliases": [
+      "PF-300L kX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-07",
+      "source_id": "piotech_h1_2026",
+      "page": 39,
+      "excerpt": "PF-300L kX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pf_300l_nx_kx_pecvd_family. Source row gives application 通用及先进介质/硬掩膜薄膜, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-07",
+        "source_id": "piotech_h1_2026",
+        "page": 39,
+        "excerpt": "PF-300L kX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p39 主要产品型号 table only. Source family/context piotech_pf_300l_nx_kx_pecvd_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300l_nx",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-300L nX",
+    "aliases": [
+      "PF-300L nX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-08",
+      "source_id": "piotech_h1_2026",
+      "page": 40,
+      "excerpt": "PF-300L nX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pf_300l_nx_kx_pecvd_family. Source row gives application 先进低介电材料, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-08",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "PF-300L nX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p40 主要产品型号 table only. Source family/context piotech_pf_300l_nx_kx_pecvd_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_150t",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-150T",
+    "aliases": [
+      "PF-150T"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-12",
+      "source_id": "piotech_h1_2026",
+      "page": 40,
+      "excerpt": "PF-150T",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 新型功率器件, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-12",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "PF-150T",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p40 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_200t",
+    "entity_id": "piotech",
+    "category_id": "deposition_pecvd",
+    "record_kind": "named_platform",
+    "name": "PF-200T",
+    "aliases": [
+      "PF-200T"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-13",
+      "source_id": "piotech_h1_2026",
+      "page": 40,
+      "excerpt": "PF-200T",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PECVD; overlaps source family/context piotech_pecvd_series_family. Source row gives application 新型功率器件, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-13",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "PF-200T",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p40 主要产品型号 table only. Source family/context piotech_pecvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_upsilon",
+    "entity_id": "piotech",
+    "category_id": "deposition",
+    "record_kind": "named_platform",
+    "name": "PF-300T Upsilon",
+    "aliases": [
+      "PF-300T Upsilon"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-14",
+      "source_id": "piotech_h1_2026",
+      "page": 40,
+      "excerpt": "PF-300T Upsilon",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under UV Cure; overlaps source family/context piotech_uv_cure_family. Source row gives application HTN、LoK-II 紫外固化, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-14",
+        "source_id": "piotech_h1_2026",
+        "page": 40,
+        "excerpt": "PF-300T Upsilon",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p40 主要产品型号 table only. Source family/context piotech_uv_cure_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_astra",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "PF-300T Astra",
+    "aliases": [
+      "PF-300T Astra"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-15",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "PF-300T Astra",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PE-ALD; overlaps source family/context piotech_ald_family. Source row gives application SiO2、SiN、SiCO、TiO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-15",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "PF-300T Astra",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_nf_300h_astra",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "NF-300H Astra",
+    "aliases": [
+      "NF-300H Astra"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-16",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "NF-300H Astra",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PE-ALD; overlaps source family/context piotech_ald_family. Source row gives application SiO2、SiN、SiCO、TiO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-16",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "NF-300H Astra",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300m_astra",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "PF-300M Astra",
+    "aliases": [
+      "PF-300M Astra"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-18",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "PF-300M Astra",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under PE-ALD; overlaps source family/context piotech_ald_family. Source row gives application SiO2、SiN、SiCO、TiO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-18",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "PF-300M Astra",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_altair",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "PF-300T Altair",
+    "aliases": [
+      "PF-300T Altair"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-19",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "PF-300T Altair",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under Thermal-ALD; overlaps source family/context piotech_ald_family. Source row gives application Al2O3、AlN、TiN、TiON、TiAl、LaO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-19",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "PF-300T Altair",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300m_altair",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "PF-300M Altair",
+    "aliases": [
+      "PF-300M Altair"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-20",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "PF-300M Altair",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under Thermal-ALD; overlaps source family/context piotech_ald_family. Source row gives application Al2O3、AlN、TiN、TiON、TiAl、LaO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-20",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "PF-300M Altair",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_ts_300x_altair",
+    "entity_id": "piotech",
+    "category_id": "deposition_ald",
+    "record_kind": "named_platform",
+    "name": "TS-300X Altair",
+    "aliases": [
+      "TS-300X Altair"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-22",
+      "source_id": "piotech_h1_2026",
+      "page": 41,
+      "excerpt": "TS-300X Altair",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under Thermal-ALD; overlaps source family/context piotech_ald_family. Source row gives application Al2O3、AlN、TiN、TiON、TiAl、LaO, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-22",
+        "source_id": "piotech_h1_2026",
+        "page": 41,
+        "excerpt": "TS-300X Altair",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p41 主要产品型号 table only. Source family/context piotech_ald_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_sa",
+    "entity_id": "piotech",
+    "category_id": "deposition_sacvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T SA",
+    "aliases": [
+      "PF-300T SA"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-23",
+      "source_id": "piotech_h1_2026",
+      "page": 42,
+      "excerpt": "PF-300T SA",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under SACVD; overlaps source family/context piotech_sacvd_series_family. Source row gives application SA BPSG/SA TEOS; SAF/PESAF, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-23",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "PF-300T SA",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p42 主要产品型号 table only. Source family/context piotech_sacvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_saf",
+    "entity_id": "piotech",
+    "category_id": "deposition_sacvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T SAF",
+    "aliases": [
+      "PF-300T SAF"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-24",
+      "source_id": "piotech_h1_2026",
+      "page": 42,
+      "excerpt": "PF-300T SAF",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under SACVD; overlaps source family/context piotech_sacvd_series_family. Source row gives application SA BPSG/SA TEOS; SAF/PESAF, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-24",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "PF-300T SAF",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p42 主要产品型号 table only. Source family/context piotech_sacvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_plus_pesaf",
+    "entity_id": "piotech",
+    "category_id": "deposition_sacvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T Plus PESAF",
+    "aliases": [
+      "PF-300T Plus PESAF"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-25",
+      "source_id": "piotech_h1_2026",
+      "page": 42,
+      "excerpt": "PF-300T Plus PESAF",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under SACVD; overlaps source family/context piotech_sacvd_series_family. Source row gives application SA BPSG/SA TEOS; SAF/PESAF, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-25",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "PF-300T Plus PESAF",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p42 主要产品型号 table only. Source family/context piotech_sacvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_ts_300s_hesper",
+    "entity_id": "piotech",
+    "category_id": "deposition_cvd",
+    "record_kind": "named_platform",
+    "name": "TS-300S Hesper",
+    "aliases": [
+      "TS-300S Hesper"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-26",
+      "source_id": "piotech_h1_2026",
+      "page": 42,
+      "excerpt": "TS-300S Hesper",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under HDPCVD; overlaps source family/context piotech_hdpcvd_series_family. Source row gives application USG、FSG、PSG, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-26",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "TS-300S Hesper",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p42 主要产品型号 table only. Source family/context piotech_hdpcvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pf_300t_flora",
+    "entity_id": "piotech",
+    "category_id": "deposition_cvd",
+    "record_kind": "named_platform",
+    "name": "PF-300T Flora",
+    "aliases": [
+      "PF-300T Flora"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-27",
+      "source_id": "piotech_h1_2026",
+      "page": 42,
+      "excerpt": "PF-300T Flora",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under Flowable CVD; overlaps source family/context piotech_flowable_cvd_series_family. Source row gives application SiO2, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-27",
+        "source_id": "piotech_h1_2026",
+        "page": 42,
+        "excerpt": "PF-300T Flora",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p42 主要产品型号 table only. Source family/context piotech_flowable_cvd_series_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_dione_200",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "record_kind": "named_platform",
+    "name": "Dione 200",
+    "aliases": [
+      "Dione 200"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-29",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Dione 200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under W2W hybrid bonding; overlaps source family/context piotech_source_native_w2w_hybrid_bonding_family. Source row gives application 晶圆对晶圆混合键合, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-29",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Dione 200",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_source_native_w2w_hybrid_bonding_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_propus_300",
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "record_kind": "named_platform",
+    "name": "Propus 300",
+    "aliases": [
+      "Propus 300"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-32",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Propus 300",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under D2W pretreatment; overlaps source family/context piotech_propus_pretreatment. Source row gives application 晶圆及切割芯片表面活化清洗, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-32",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Propus 300",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_propus_pretreatment; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_propus_200",
+    "entity_id": "piotech",
+    "category_id": "bonding",
+    "record_kind": "named_platform",
+    "name": "Propus 200",
+    "aliases": [
+      "Propus 200"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-33",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Propus 200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under D2W pretreatment; overlaps source family/context piotech_propus_pretreatment. Source row gives application 晶圆及切割芯片表面活化清洗, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-33",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Propus 200",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_propus_pretreatment; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pleione_300",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_d2w",
+    "record_kind": "named_platform",
+    "name": "Pleione 300",
+    "aliases": [
+      "Pleione 300"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-34",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Pleione 300",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under D2W hybrid bonding; overlaps source family/context piotech_pleione_d2w_hybrid. Source row gives application 芯片对晶圆混合键合, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-34",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Pleione 300",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_pleione_d2w_hybrid; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pleione_300_hs",
+    "entity_id": "piotech",
+    "category_id": "bonding_fusion",
+    "record_kind": "named_platform",
+    "name": "Pleione 300 HS",
+    "aliases": [
+      "Pleione 300 HS"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-35",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Pleione 300 HS",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under D2W fusion bonding; overlaps source family/context piotech_d2w_fusion_bonding_family. Source row gives application 芯片对晶圆熔融键合, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-35",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Pleione 300 HS",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_d2w_fusion_bonding_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_pleione_200_hs",
+    "entity_id": "piotech",
+    "category_id": "bonding_fusion",
+    "record_kind": "named_platform",
+    "name": "Pleione 200 HS",
+    "aliases": [
+      "Pleione 200 HS"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-36",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Pleione 200 HS",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under D2W fusion bonding; overlaps source family/context piotech_d2w_fusion_bonding_family. Source row gives application 芯片对晶圆熔融键合, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-36",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Pleione 200 HS",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_d2w_fusion_bonding_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_crux_200",
+    "entity_id": "piotech",
+    "category_id": "metrology_overlay",
+    "record_kind": "named_platform",
+    "name": "Crux 200",
+    "aliases": [
+      "Crux 200"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-38",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Crux 200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under bond overlay metrology; overlaps source family/context piotech_bond_overlay_metrology_family. Source row gives application 混合键合后套准精度量测, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-38",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Crux 200",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_bond_overlay_metrology_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_lyra_200",
+    "entity_id": "piotech",
+    "category_id": "bonding_debond",
+    "record_kind": "named_platform",
+    "name": "Lyra 200",
+    "aliases": [
+      "Lyra 200"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-41",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Lyra 200",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under permanent-bond laser release; overlaps source family/context piotech_permanent_bond_laser_release_family. Source row gives application 永久键合后晶圆激光剥离, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-41",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Lyra 200",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_permanent_bond_laser_release_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_h1_2026_catalogue_lyra_300_ex",
+    "entity_id": "piotech",
+    "category_id": "bonding_debond",
+    "record_kind": "named_platform",
+    "name": "Lyra 300 eX",
+    "aliases": [
+      "Lyra 300 eX"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-H1-MODEL-42",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "Lyra 300 eX",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "Explicit 主要产品型号 label under permanent-bond laser release; overlaps source family/context piotech_permanent_bond_laser_release_family. Source row gives application 永久键合后晶圆激光剥离, but no model-specific sale, chamber count, order, validation, production-use stage or process node. Distinct catalogue labels are not distinct shipped systems.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-H1-MODEL-42",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "Lyra 300 eX",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_catalogue_model_listed_no_individual_stage",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 p43 主要产品型号 table only. Source family/context piotech_permanent_bond_laser_release_family; group orders, validation, industrialization or shipment are not assigned to this model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "platform_id": "piotech_source_native_w2w_hybrid_bonding_family",
+    "entity_id": "piotech",
+    "category_id": "bonding_hybrid_w2w",
+    "record_kind": "source_native_family",
+    "name": "Piotech wafer-to-wafer hybrid bonding product family",
+    "aliases": [
+      "晶圆对晶圆混合键合产品"
+    ],
+    "evidence": {
+      "claim_id": "PIOTECH-INTERIM-033",
+      "source_id": "piotech_h1_2026",
+      "page": 43,
+      "excerpt": "公司晶圆对晶圆混合键合产品是公司最早推出的混合键合产品，已实现产业化，可实现百纳\n米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量产水平。报\n告期内，公司持续拓展晶圆对晶圆混合键合产品的应用领域，获得客户订单并出货。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "family industrialized with period orders and shipments",
+    "maturity_as_reported_in": "piotech_h1_2026",
+    "notes": "H1 p43 lists Dione 200, Dione 300 and Dione 300 eX. This source-native family overlaps the existing Dione 300 family and named Dione 200 catalogue record. Family orders, shipments and industrialisation are not per-model stages or additional distinct tools. The separately named Dione 300 eX validation claim remains on its existing family record.",
+    "maturity_history": [
+      {
+        "claim_id": "PIOTECH-INTERIM-033",
+        "source_id": "piotech_h1_2026",
+        "page": 43,
+        "excerpt": "公司晶圆对晶圆混合键合产品是公司最早推出的混合键合产品，已实现产业化，可实现百纳\n米级晶圆混合键合，其关键技术指标、产能指标与设备开机率均达到国际同类产品量产水平。报\n告期内，公司持续拓展晶圆对晶圆混合键合产品的应用领域，获得客户订单并出货。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "family industrialized with period orders and shipments",
+        "status": "source_checked",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 issuer report context; exact event date and customer identity not stated. Broad W2W product family includes Dione 200 and Dione 300 variants listed on p43; the family production stage is not allocated to every model.",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23"
+      }
+    ]
+  }
+]

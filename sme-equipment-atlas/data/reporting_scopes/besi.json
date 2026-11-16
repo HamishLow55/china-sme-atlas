@@ -1,0 +1,26 @@
+[
+  {
+    "reporting_scope_id": "besi_die_attach_group",
+    "label": "Die Attach product group",
+    "category_id": "multi_equipment",
+    "definition": "Besi's 'Die Attach' operating/product group as both IFRS 8 defines it (one of three operating segments the Company aggregates into a single IFRS 8 reportable segment) and the business review describes it: 'Single chip, multi chip, multi module, flip chip, epoxy and soft solder die bonding systems, hybrid, TCB and embedded bridge die bonding, die lid attach and fan out wafer level packaging systems' (besi_annual_2025 p7). This single disclosed line BUNDLES hybrid bonding (bonding_hybrid_w2w/d2w), thermocompression bonding (bonding_tcb) and a range of conventional die-attach/flip-chip/fan-out-WLP processes that the atlas's bonding taxonomy does not separately cover, with no further split given anywhere in the four filings reviewed. Filed multi_equipment on exactly the discipline applied to ASMPT's semiconductor_solutions scope: a figure reaches a child category only when the issuer's own line covers that category and no more, and Besi's own line here covers much more than hybrid bonding or TCB alone. THIS IS THE LINE THAT WOULD CARRY HYBRID-BONDING REVENUE IF BESI EVER SPLIT IT OUT; it has not."
+  },
+  {
+    "reporting_scope_id": "besi_packaging_group",
+    "label": "Packaging product group",
+    "category_id": "multi_equipment",
+    "definition": "Besi's 'Packaging' operating/product group: 'Conventional, ultra-thin and wafer level molding, trim and form and singulation systems' (besi_annual_2025 p7). Bundles the atlas's molding/molding_transfer/molding_compression tree with trim-and-form and package-level singulation, which the atlas's dicing tree covers only at the wafer level; no finer split is given in any of the four filings reviewed. Filed multi_equipment on the same basket discipline as Die Attach: never allocate this figure to molding or any other single child category."
+  },
+  {
+    "reporting_scope_id": "besi_plating_group",
+    "label": "Plating product group",
+    "category_id": "plating",
+    "definition": "Besi's 'Plating' operating/product group exactly as Note 23/24 of its Consolidated Financial Statements discloses it: 'Tin, copper, precious metal and solar plating systems and related process chemicals' (besi_annual_2025 p7). One of three operating segments the Company aggregates into its single IFRS 8 reportable segment; disclosed as its own undivided line with no further split in any of the four filings reviewed. CONTENT CAVEAT: the issuer's own wording for this line covers 'related process chemicals', which are consumables rather than equipment, and 'solar plating systems', which are not semiconductor equipment at all. Besi gives no split, so this figure is an upper bound on its semiconductor plating-equipment revenue and must never be read as that revenue. It is filed at the plating category because that is the dominant process the line describes, not because the line is pure."
+  },
+  {
+    "reporting_scope_id": "besi_hybrid_bonding_operating_milestones",
+    "label": "Hybrid bonding operating milestones (orders, installations, customer adoption)",
+    "category_id": "bonding",
+    "definition": "Besi's own narrative disclosure of cumulative hybrid-bonding order counts, installed-system counts and adopting-customer counts, as stated in the Letter to Stakeholders, Business Highlights and Remuneration Report sections of its annual reports. Filed at the 'bonding' PARENT category because Besi's text does not distinguish wafer-to-wafer from die-to-wafer hybrid bonding for these aggregate figures -- never allocate to bonding_hybrid_w2w or bonding_hybrid_d2w without independent confirmation of mechanism. Not a revenue scope: Besi discloses no hybrid-bonding-specific revenue figure in any filing reviewed."
+  }
+]

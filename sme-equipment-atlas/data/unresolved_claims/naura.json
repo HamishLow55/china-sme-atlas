@@ -1,0 +1,128 @@
+[
+  {
+    "claim_id": "naura-operational-hold-deep-silicon-model-sales",
+    "claim": "Unnamed deep-silicon etch model sales milestone",
+    "source_ids": [
+      "naura_2023"
+    ],
+    "pages_reviewed": [
+      2
+    ],
+    "reason": "Source says 单机型销量破百; model and accumulation period are unspecified. Existing Arabic-token numerical contract cannot represent this lexical quantity. This is neither aggregate chamber shipments nor installations.",
+    "status": "unresolved",
+    "excerpt": "现了介质刻蚀设备领域关键突破，发布了满足客户不同工艺需求的全系列等离子去胶产品，应用高深宽比刻蚀工艺的深硅\n\n刻蚀机单机型销量破百，累计刻蚀产品系列出货超 3500 腔。在薄膜技术方面，精准定位市场需求，采用差异化路线攻克多\n\n项金属薄膜与介质薄膜关键技术难题，系列产品获得关键客户认可，实现批量销售；外延设备实现在集成电路、功率半导",
+    "next_action": "Retain source-native claim; revisit explicit lexical-number representation and exact scope before quantitative mapping."
+  },
+  {
+    "claim_id": "naura-operational-hold-hydrogen-coating-capacity",
+    "claim": "Hydrogen fuel-cell coating series annual capacity",
+    "source_ids": [
+      "naura_2024"
+    ],
+    "pages_reviewed": [
+      2
+    ],
+    "reason": "Source does not identify whether annual capacity refers to one tool, a line or a fleet, nor define counted pieces. Do not treat as semiconductor wafers or factory tool output.",
+    "status": "unresolved",
+    "excerpt": "  在真空、新能源与精密电子领域，我们同样书写突破：自主研发的轧分一体设备集成高精度轧制与\n分切技术，使锂电池生产效率提升 30%，已进入国内头部电池企业供应链；应用于氢能燃料电池的系\n列镀膜设备，在性能提升 30%的同时，成本降低 80%、寿命延长 30%，年产能超百万片，助力“双碳”\n目标加速实现；面向 AI 与数据中心的高功率密度负载点电源，精准适配新一代 CPU/GPU/FPGA 等算\n力芯片需求，打开多元增长空间。",
+    "next_action": "Seek a disclosure specifying counted object and equipment/line/fleet basis; retain literal wording meanwhile."
+  },
+  {
+    "claim_id": "naura-operational-hold-pv-lpcvd-carrier",
+    "claim": "PV LPCVD stated wafer-loading quantity",
+    "source_ids": [
+      "naura_2024"
+    ],
+    "pages_reviewed": [
+      25
+    ],
+    "reason": "Source states that the PV LPCVD product reached a 2,880-piece wafer-loading quantity for M10–M12 wafers, but does not specify whether the load is per boat, tube or system. This is a loading configuration, not wafer/month throughput or factory equipment output.",
+    "status": "unresolved",
+    "excerpt": "案，并通过等离子场、电场、气场、温度场等理论分析，完成了单舟到多舟的技术迭代，单管产能不断升级，完成了在\nTOPCon 工艺路线大产能设备的行业布局。公司低压扩散设备、低压硼扩设备市占率领先，各类扩散、氧化、退火类设\n备技术性能领先。LPCVD 产品实现了大尺寸硅片 M10~M12 兼容和载片量 2,880 片的突破，可完成隧穿氧化层、本征多\n晶硅层、磷原位掺杂多晶硅层等膜层制备。PECVD 设备在电池行业的应用覆盖 PERC、TOPCon、HJT、BC、钙钛矿电\n池技术，产品涵盖氮化硅设备、氧化铝和氮化硅 2 in 1 设备、隧穿层&Poly 层&原位掺杂层 3 in 1 设备，新型板式",
+    "next_action": "Review a reusable wafer-loading measurement contract only when its per-configuration basis can be stated; retain the literal PV product claim meanwhile."
+  },
+  {
+    "claim_id": "naura-operational-hold-pv-lpcvd-mw",
+    "claim": "PV LPCVD stated single-machine output capability",
+    "source_ids": [
+      "naura_2025"
+    ],
+    "pages_reviewed": [
+      29
+    ],
+    "reason": "Source states 430MW/year single-machine capability in solar-cell output units. No existing metric/unit pair represents this; do not convert to tools/year or wafer/month.",
+    "status": "unresolved",
+    "excerpt": "构升级与产能提升。目前，已能够为光伏行业提供专业、高效、先进、低成本的解决方案。公司已完成在 TOPCon、\nXBC 工艺路线大产能设备的行业布局。低压扩散设备、低压硼扩设备具备较强市场竞争力，各类扩散、氧化、退火类设\n备技术性能优异。LPCVD 可完成隧穿氧化层、本征多晶硅层、磷原位掺杂多晶硅层等膜层制备，以 430MW/年单机产能\n引领行业发展，覆盖 TOPCon/XBC 两类主流技术路线。PECVD 设备覆盖 TOPCon、HJT、XBC、钙钛矿叠层电池技术。\nALD 设备的双倍舟技术，舟槽利用率大幅提升。经过几十年的技术沉淀、创新突破及产研结合，公司累计发布了近百款",
+    "next_action": "Review a single-tool solar-output capability metric and native MW/year unit, with explicit rated-output context."
+  },
+  {
+    "claim_id": "naura-operational-hold-12inch-pvd-deliveries",
+    "claim": "12-inch PVD cumulative deliveries",
+    "source_ids": [
+      "naura_h1_2026"
+    ],
+    "pages_reviewed": [
+      12
+    ],
+    "reason": "Source-native Chinese thousand clause now has tested metric/unit/qualifier binding; original checked and numerical observations integrated.",
+    "status": "resolved",
+    "excerpt": "英寸晶圆制造的多场景工艺需求。报告期内，公司持续推进薄膜沉积设备技术迭代与产品性能升级，新一代 12 英寸高端\nPVD 设备、管式原子层沉积设备、碳化硅外延设备等产品工艺指标进一步优化，在先进逻辑、高阶存储、第三代半导体\n等领域的市场渗透率稳步提升；其中 12 英寸 PVD 设备累计交付量突破千台，技术成熟度与规模化量产能力得到充分验\n证。按照沉积原理及应用场景，主要产品品类如下：\n  ①PVD",
+    "next_action": "Use naura_lexical_pvd_12inch. Preserve scope overlap; no installation inference."
+  },
+  {
+    "claim_id": "naura-operational-hold-vertical-furnace-deliveries",
+    "claim": "Vertical-furnace cumulative deliveries",
+    "source_ids": [
+      "naura_h1_2026"
+    ],
+    "pages_reviewed": [
+      13
+    ],
+    "reason": "Source-native Chinese thousand clause now has tested metric/unit/qualifier binding; original checked and numerical observations integrated.",
+    "status": "resolved",
+    "excerpt": "  公司在热处理设备领域已形成覆盖管式氧化退火、单片快速热处理、湿法氧化、等离子氮化的全系列产品矩阵，可\n适配 12 英寸、8 英寸主流晶圆尺寸，同时布局碳化硅等第三代半导体专用热处理装备，满足逻辑芯片、存储芯片、功率\n半导体等多领域工艺需求。报告期内，公司持续推进热处理设备的技术迭代与品类拓展，立式炉累计交付量突破千台，\n技术成熟度与规模化配套能力得到充分验证；新一代单片快速热处理设备、碳化硅高温热处理设备市场渗透率稳步提升，\n工艺性能获得客户广泛认可。按照处理模式与应用场景，主要产品品类如下：",
+    "next_action": "Use naura_lexical_thermal_vertical. Preserve scope overlap; no installation inference."
+  },
+  {
+    "claim_id": "naura-operational-hold-collective-deliveries",
+    "claim": "Etch/PVD/vertical-furnace collective cumulative deliveries",
+    "source_ids": [
+      "naura_h1_2026"
+    ],
+    "pages_reviewed": [
+      19
+    ],
+    "reason": "Source says collective 数千台, not an exact quantity or a bound for each category. Do not allocate it among product families.",
+    "status": "unresolved",
+    "excerpt": "核心体现。公司构建了覆盖供应链管控、精密制造、整机调试、出厂验证的全流程量产体系，设备的一致性、稳定性与\n可靠性得到大规模量产验证。\n  截至报告期末，公司刻蚀、物理气相沉积、立式炉三类设备累计交付数千台，标志着公司在产品设计、供应链管理、\n生产制造、质量控制等环节已形成成熟的规模化能力，可快速响应客户集中扩产需求。在国产替代加速的行业窗口期，\n规模化交付能力是抢占市场份额的关键要素，公司凭借成熟的量产体系与交付保障能力，可快速将技术优势转化为市场",
+    "next_action": "Retain qualitative scale statement; do not choose an arbitrary exact meaning for 数千."
+  },
+  {
+    "claim_id": "naura-operational-hold-three-family-deliveries",
+    "claim": "Etch, broad PVD and vertical-furnace separate delivery bounds",
+    "source_ids": [
+      "naura_h1_2026"
+    ],
+    "pages_reviewed": [
+      30
+    ],
+    "reason": "Source-native Chinese thousand clause now has tested metric/unit/qualifier binding; original checked and numerical observations integrated.",
+    "status": "resolved",
+    "excerpt": "  公司坚持深耕半导体基础产品主业，持续推进平台化战略落地。报告期内，公司深化与芯源微的业务整合，进一步\n完善全工艺链条装备布局；持续保持高强度研发投入，新一代 CCP 刻蚀设备、混合键合设备、高端 TSV 电镀设备、碳\n化硅离子注入设备等多款高端产品相继落地，刻蚀、PVD、立式炉等核心设备累计交付量均突破千台，技术成熟度与市\n场渗透率稳步提升；同时加快面板级封装装备、第三代半导体装备等新兴赛道布局，开辟新的增长空间。公司核心产品\n市场份额持续提升，平台化竞争优势进一步巩固，有力支撑国内半导体产业链自主可控进程。",
+    "next_action": "Use naura_lexical_etch_broad, naura_lexical_pvd_broad, naura_lexical_vertical_broad. Preserve scope overlap; no installation inference."
+  },
+  {
+    "claim_id": "naura-operational-hold-panel-pvd-configuration",
+    "claim": "Panel-level packaging PVD maximum chamber configuration",
+    "source_ids": [
+      "naura_h1_2026"
+    ],
+    "pages_reviewed": [
+      17
+    ],
+    "reason": "Ten is a simultaneous mounting ceiling, already retained in canonical platform evidence; existing optional-chamber count metric does not specifically measure a maximum. It is not shipments or production output.",
+    "status": "unresolved",
+    "excerpt": "  专用于板级封装 TGV、RDL 工艺的粘附层、种子层等金属薄膜沉积，可支持 310mm×310mm、510mm×515mm、\n600mm×600mm 等规格的基板。该设备采用自主设计的大产能集群式 cluster 架构，基于成熟的大翘曲基板传输系统控制，\n最多可同时挂载 10 个腔室，在实现高集成度的同时显著优化空间占用。针对不同工艺路线，设备可灵活挂载 PVD、\nDegas、Preclean、Flipper 等多种腔室，满足多样化的镀膜需求。优异的磁场控制方案可实现超高靶材利用率，有效降低\n耗材成本，同时高沉积效率使单台设备产能得到大幅提高。",
+    "next_action": "Review maximum configuration measurement or a deliberate shared dimension; preserve canonical platform naura_h1_2026_panel_packaging_pvd."
+  }
+]

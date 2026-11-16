@@ -1,0 +1,70 @@
+[
+  {
+    "platform_id": "ssti_failure_analysis_equipment_family",
+    "entity_id": "ssti",
+    "category_id": "inspection",
+    "record_kind": "source_native_family",
+    "name": "Semiconductor defect localization and failure-analysis equipment family",
+    "aliases": [],
+    "evidence": {
+      "source_id": "unicomp_h1_2026",
+      "page": 24,
+      "excerpt": "控股孙公司新加坡 SSTI 生产的用于半导体缺陷定位和失效分析，涵盖光子发射显微镜（PEM）、 激光时序探针（LTP）、扫描光学显微镜（SOM）、热显微镜（THM）等核心技术的多品类整机 产品，以及自研激光扫描器、半导体器件冷却装置等核心零部件。该公司设备主要应用于新型集 成电路（IC）的设计与调试分析、早期半导体晶圆的良率提升分析、客户退货的失效分析、高级 封装和包装故障，以及由第三方实验室、研究机构、高等教育机构提供的 FA（故障分析）与 FI （故障隔离）服务等场景。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24",
+      "claim_id": "SSTI-H126-P24-FA-FAMILY"
+    },
+    "reported_maturity": "equipment_used_at_customer_n3e_n3b_nodes",
+    "maturity_as_reported_in": "unicomp_h1_2026",
+    "notes": "Singapore SSTI whole-equipment portfolio spanning PEM/LTP/SOM/THM technologies; source does not assign N3E/N3B use to a particular modality. Broad repeat orders not HBM-specific; domestic production JV only planned.",
+    "maturity_history": [
+      {
+        "claim_id": "SSTI-H126-P31-NODE-USE",
+        "source_id": "unicomp_h1_2026",
+        "page": 31,
+        "excerpt": "目前新加坡 SSTI 检测设备已在客户 3 纳米制程技术节点（N3E、N3B）中获得实际应用，技术成熟度高",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "equipment_used_at_customer_n3e_n3b_nodes",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "Broad acquired Singapore portfolio. Actual use is not assigned to a named modality or customer; no HBM qualification or Chinese technology origin inferred.",
+        "process_node": "3 纳米制程技术节点（N3E、N3B）",
+        "process_node_context": "新加坡 SSTI"
+      },
+      {
+        "claim_id": "SSTI-H126-P28-ORDERS-JV",
+        "source_id": "unicomp_h1_2026",
+        "page": 28,
+        "excerpt": "报告期内，公司控股孙公司 SSTI 正重塑增长动能。在研发方面，SSTI 成立新加坡研究院， 面向全球招募一流人才，研发实力得到进一步夯实。公司已与某全球顶尖的半导体晶圆代工企业 以及国内某头部存储芯片龙头在联合研发方面达成了深度合作，为后续业务层面的合作深化创造 了条件。在市场方面，SSTI 通过举办全球失效分析研讨活动、扩建销售和市场团队等方式，为打 开国外及国内失效分析市场储备动能。截至本报告披露日，SSTI 在国外尤其是国内市场开拓方面 取得了显著成绩。公司面向前述某全球顶尖的半导体晶圆代工企业、国内某头部存储芯片龙头、 某全球科技巨头实现重复订单或订单突破，在手订单充裕，为后续业绩增长奠定基础。公司和 SSTI 成立的合资公司赛美康筹建工作顺利推进中，合资公司将从实现 SSTI 现有系列设备国内规模化 生产制造以及开发产线级别设备等方面进一步打开增长空间。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "repeat_or_breakthrough_orders_domestic_manufacturing_planned",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "Unnamed customers and no equipment count/backlog value. Orders reported by disclosure; JV domestic production remains prospective."
+      },
+      {
+        "claim_id": "SSTI-H126-P18-NODE-CAPABILITY",
+        "source_id": "unicomp_h1_2026",
+        "page": 18,
+        "excerpt": "公司 2026 年 1 月初完成交割的新加坡 SSTI，曾商业化了多项全球首创技术，其在半导体缺 陷定位和失效分析领域居于技术行业领先位置，其目前已经能面向 3nm、2nm 先进制程提供稳定、 可靠的缺陷定位和失效分析设备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reported_capability_for_3nm_and_2nm",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-24",
+        "claim_kind": "company_reported",
+        "notes": "Source claims equipment offering capability, distinct from actual customer use at N3E/N3B on p31; no 2nm deployed-stock assertion.",
+        "process_node": "3nm、2nm",
+        "process_node_context": "新加坡 SSTI"
+      }
+    ]
+  }
+]

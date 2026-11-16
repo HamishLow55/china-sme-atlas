@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "huafeng_annual_2025",
+    "dataset_id": "huafeng_annual_disclosures",
+    "title": "北京华峰测控技术股份有限公司2025年年度报告",
+    "publication_date": null,
+    "publication_date_precision": "unknown",
+    "url": "https://pdf.dfcfw.com/pdf/H2_AN202604281821694688_1.pdf",
+    "sha256": "4dea993a56d583ec7a6d0bcd9cc90ff5a63d34922b0b93686399411ddb82e7a2",
+    "source_type": "company_annual_report",
+    "original_document_id": "huafeng_annual_2025",
+    "notes": "Public archival URL is Eastmoney-hosted, not asserted issuer or exchange primary. Held local original hash and 231-page count were independently verified. The selected-original inventory and local filename use 2026-04-29, while the URL identifier includes 20260428; neither alone proves a publication day. Physical p.231 says 董事会批准报送日期：2026 年 4 月 28 日; board approval/submission is not publication date.",
+    "page_count": 231,
+    "locator_kind": "pdf"
+  },
+  {
+    "source_id": "huafeng_test_control_q3_2026",
+    "dataset_id": "huafeng_annual_disclosures",
+    "title": "huafeng_test_control Q3 2026 report: 华峰测控2026年第三季度报告",
+    "publication_date": "2026-10-29",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-10-29/1225633147.PDF",
+    "sha256": "ab66c2ac015e85086a0cefd3facebe6a38224a10d00c9c869f69c223e962ee21",
+    "source_type": "company_quarterly_report",
+    "original_document_id": "huafeng_test_control_q3_2026",
+    "page_count": 12,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  },
+  {
+    "source_id": "huafeng_test_control_h1_2026",
+    "dataset_id": "huafeng_annual_disclosures",
+    "title": "huafeng_test_control H1 2026 report: 华峰测控2026年半年度报告",
+    "publication_date": "2026-08-31",
+    "publication_date_precision": "day",
+    "url": "http://static.cninfo.com.cn/finalpage/2026-08-31/1225534170.PDF",
+    "sha256": "9d0c0ffd07cbdcd4546eada738385fbcadc020a093f66c2cbb8ad02a69dc30b5",
+    "source_type": "company_interim_report",
+    "original_document_id": "huafeng_test_control_h1_2026",
+    "page_count": 178,
+    "locator_kind": "pdf",
+    "notes": "Registered 2026-10-30 for the October 2026 data wave from the cninfo original. Registration is not extraction completeness; source identity, hash and page count checked, contents not yet independently verified. publication_date corrected 2026-10-30 from the cninfo URL date: the monitor read cninfo timestamps as UTC, which put filings a day early."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "reporting_scope_id": "hanmi_company",
+    "label": "Hanmi Semiconductor company-wide totals",
+    "category_id": "all_businesses",
+    "definition": "Hanmi's consolidated or separate (parent-only) company-wide totals, distinguished by the dimensions.consolidation_basis value on each observation (hanmi_consolidated vs hanmi_separate_parent_only). Hanmi reports a single 'Semiconductor Equipment' (반도체장비) business segment and discloses no other segment, so this company-wide scope is, in substance, the whole of Hanmi's equipment business; it is nonetheless filed at all_businesses rather than any equipment category because the figures here are company totals/profit-and-loss lines, not an equipment-category revenue allocation. Also used for company-wide R&D (rd_investment, rd_investment_capitalized, rd_investment_revenue_share), export/domestic revenue geography and employee headcount, none of which are product-line splits either."
+  },
+  {
+    "reporting_scope_id": "hanmi_equipment_revenue",
+    "label": "Semiconductor manufacturing equipment and other (반도체 제조용 장비 外)",
+    "category_id": "multi_equipment",
+    "definition": "Hanmi's own product-mix table (II.2 주요 제품 및 서비스, '1) 주요 제품 등의 현황') splits 제품 (goods) revenue under its single 반도체장비 (Semiconductor Equipment) business segment into exactly two 품목 (item) rows: '반도체 제조용 장비 外' (semiconductor manufacturing equipment and other) and 'Conversion Kit 등'. This scope is the former row: the whole population of Hanmi's named tool platforms -- TC Bonder, Flip Chip Bonder, BOC COB Bonder, 6-SIDE INSPECTION, Vision Placement, micro SAW, EMI Shield and others -- sold as machines, with NO further split by tool type anywhere in Hanmi's disclosure. Filed at multi_equipment because it is an unsplit basket spanning several of the atlas's equipment categories (bonding_tcb among them) on exactly the discipline used for ASMPT's semiconductor_solutions and TOWA's sme_segment scopes: never allocate any part of this figure to bonding_tcb or any other child category. Excludes Conversion Kit revenue (see hanmi_conversion_kit_revenue)."
+  },
+  {
+    "reporting_scope_id": "hanmi_conversion_kit_revenue",
+    "label": "Conversion Kit 등 (conversion kit / consumables revenue)",
+    "category_id": "all_businesses",
+    "definition": "The second row of Hanmi's product-mix table: revenue from 'Conversion Kit 등', i.e. accessory/conversion kits sold alongside Hanmi's machines (to reconfigure an installed tool for a different package size, for example) rather than complete tools. Filed at all_businesses under that category's second established use -- 'a disclosed non-equipment business line ... filed here so it cannot be mistaken for tool revenue' -- because a conversion kit is a consumable/accessory, not a named equipment platform, and the intake brief excludes equipment components and subsystems from the atlas's equipment-category revenue. Together with hanmi_equipment_revenue this row sums exactly to Hanmi's 제품 (goods) revenue total in every period, which in turn equals consolidated company revenue (Hanmi being a single-segment manufacturer); that company total is registered separately under hanmi_company rather than re-derived here."
+  },
+  {
+    "reporting_scope_id": "hanmi_disclosed_single_sale_contracts",
+    "label": "단일판매ㆍ공급계약체결 (disclosed single sale/supply contracts)",
+    "category_id": "bonding_tcb",
+    "definition": "Hanmi's disclosed single sale/supply contracts, the carve-out from its general refusal to publish order and backlog detail: Korean rules require separate disclosure of an order above 5% of prior-year revenue, and the filings tabulate those individually with date, counterparty, named tool model and contract value. Every contract in the filings read is a TC bonder, which is why this scope sits at bonding_tcb while Hanmi's revenue scopes sit at multi_equipment — the orders are model-specific where the revenue line is not. These are ORDERS, never revenue: a contract value is booked across later periods and several of these were recorded as completed in a subsequent filing. Do not sum them with any revenue series, and do not treat the set as Hanmi's total order intake, since only contracts above the disclosure threshold appear."
+  }
+]

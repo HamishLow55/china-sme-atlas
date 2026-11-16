@@ -1,0 +1,253 @@
+[
+  {
+    "coverage_id": "jingzhida-fy2025-financial",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023–FY2025 source comparatives and FY2025 quarters",
+    "status": "reviewed_found",
+    "scope": "Prepared headline, quarterly, nonrecurring and consolidated financial-statement tables only.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2025"
+    ],
+    "notes": "308 source cells yield 289 observations and 19 exact same-source aliases. Parent-only and supplemental operating sections are separate.",
+    "next_action": "Map independently reviewed operating/product tables with source-native semiconductor-test and display-inspection scopes."
+  },
+  {
+    "coverage_id": "jingzhida-fy2025-operations",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2025 with source-labelled comparatives and report-context cumulative measures",
+    "status": "reviewed_found",
+    "scope": "Prepared IP, R&D-project, workforce, business breakdown, volume, cost and concentration tables.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2025"
+    ],
+    "notes": "174 distinct observations and 59 same-source/canonical aliases from 233 reviewed cells. Volumes reported in 台 use system, but groups remain source-native mixed scopes.",
+    "next_action": "Map independently reviewed technical narrative claims separately; preserve their non-financial capability semantics."
+  },
+  {
+    "coverage_id": "jingzhida-held-corpus-metadata",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "IPO prospectus through 2026 refinancing inquiry reply; source periods vary",
+    "status": "not_searched",
+    "scope": "Ten newly registered held originals: IPO prospectus, FY2024 annual report, R&D/delivery/contract announcements and refinancing inquiry reply.",
+    "reviewed_source_ids": [
+      "jingzhida_ipo_prospectus_2023",
+      "jingzhida_voluntary_rd_progress_2025",
+      "jingzhida_contract_2025_010",
+      "jingzhida_annual_2024",
+      "jingzhida_voluntary_contract_2025_036",
+      "jingzhida_contract_2025_075",
+      "jingzhida_voluntary_first_high_speed_tester_2025",
+      "jingzhida_contract_2026_002",
+      "jingzhida_contract_supplement_2026_003",
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "Issuer identity, title/type, hash and page count are reviewed. Registration does not establish extraction completeness, numerical claims, publication dates, URLs or independent corroboration.",
+    "next_action": "Extract FY2024 annual financial/operating tables first, then the short event disclosures; treat the prospectus and refinancing reply as separate bounded passes."
+  },
+  {
+    "coverage_id": "jingzhida-fy2024-financial",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2022–FY2024 comparatives and FY2024 quarters",
+    "status": "reviewed_found",
+    "scope": "Prepared consolidated headline, quarterly, nonrecurring and BS/IS/CF financial tables.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2024"
+    ],
+    "notes": "299 accounted source cells produce 288 observations and 11 exact aliases after revenue subtotal/component repair. Includes the two earlier grid-followup cells. Company data mixes semiconductor test and display inspection; no category allocation.",
+    "next_action": "Continue remaining financial-note and operating disclosures. The separate parent statement reconstruction is integrated."
+  },
+  {
+    "coverage_id": "jingzhida-fy2024-parent-financial",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023–FY2024, including FY2022 opening cash stock",
+    "status": "reviewed_found",
+    "scope": "Standalone parent BS pp124–126, IS pp128–129 and CF pp131–133 only.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2024"
+    ],
+    "notes": "Original table inventory: BS83, IS44, CF58 populated cells. 185 cells yield 184 observations plus one repeated cash-balance alias. Supersedes rejected incomplete v1 staging.",
+    "next_action": "Continue separately with source-reviewed operating disclosures and financial notes."
+  },
+  {
+    "coverage_id": "jingzhida-fy2025-product-capabilities",
+    "entity_id": "jingzhida",
+    "category_id": "test_memory_ate",
+    "metric_id": "reported_test_data_rate_capability",
+    "period": "FY2025 annual disclosure",
+    "status": "reviewed_found",
+    "scope": "12 quantitative elements and 10 source-native product/family/project records from pp21–24.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2025"
+    ],
+    "notes": "9Gbps first delivery remains separate from the18Gbps R&D project. Additional qualitative claims and pp25–29 technical tables are staged separately; not complete product-section coverage.",
+    "next_action": "Preserve remaining qualitative claim histories and independently review broader technical capability schema before integration."
+  },
+  {
+    "coverage_id": "jingzhida-fy2024-operations",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2024 annual vintage and printed comparatives",
+    "status": "reviewed_found",
+    "scope": "Prepared project R&D, IP, workforce, concentration, financial-breakdown and volume tables only.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2024"
+    ],
+    "notes": "246 source cells dispositioned as236 observations,9 equivalent-source aliases and1 foreign gross-margin-change blank hold. Fourteen margin triples reconcile. Source-worded decreases preserve positive native magnitudes and exact sign conversions.",
+    "next_action": "Verify separately extracted cost-component tables and source-qualified product narratives; remaining financial notes are not claimed complete."
+  },
+  {
+    "coverage_id": "jingzhida-fy2024-cost-components",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "metric_id": "cost_of_revenue_component",
+    "period": "FY2024 and FY2023 in FY2024 annual vintage",
+    "status": "reviewed_found",
+    "scope": "Physical pp38–39 cost-analysis tables, 32 rows and five numeric columns.",
+    "reviewed_source_ids": [
+      "jingzhida_annual_2024"
+    ],
+    "notes": "160 cells comprise158 numeric observations and2 printed dash blanks. Industry/product source views explicitly overlap. Cost shares use source-table-total denominator semantics.",
+    "next_action": "Continue separately with dated announcements and remaining report sections; broader capability schema still under review."
+  },
+  {
+    "coverage_id": "jingzhida-short-announcements-2025-2026",
+    "entity_id": "jingzhida",
+    "category_id": "test",
+    "metric_id": "reported_signed_contract_value",
+    "period": "2025–2026 announcements",
+    "status": "reviewed_found",
+    "scope": "Seven numerical observations, one unnamed product record and two dated maturity entries from seven held originals.",
+    "reviewed_source_ids": [
+      "jingzhida_contract_2025_010",
+      "jingzhida_contract_2025_075",
+      "jingzhida_contract_2026_002",
+      "jingzhida_contract_supplement_2026_003",
+      "jingzhida_voluntary_contract_2025_036",
+      "jingzhida_voluntary_first_high_speed_tester_2025",
+      "jingzhida_voluntary_rd_progress_2025"
+    ],
+    "notes": "All 48 native claims have mapping dispositions; other qualitative context is retained in the compact review, not claimed as independent new quantitative evidence.",
+    "next_action": "Resolve unnamed first-delivery identity only from explicit source support; retain contract and annual-report overlaps."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_installed_base",
+    "entity_id": "jingzhida",
+    "status": "reviewed_not_found",
+    "scope": "installed base",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "reviewed_not_found; no vendor installed-system count",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_cumulative_shipments",
+    "entity_id": "jingzhida",
+    "status": "reviewed_not_found",
+    "scope": "cumulative shipments",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "reviewed_not_found; no cumulative memory-tester delivery count",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_actual_product_units",
+    "entity_id": "jingzhida",
+    "status": "reviewed_not_found",
+    "scope": "actual product units",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "reviewed_not_found for memory CP/FT/burn-in; p50 projected T+7 unit quantities explicitly 已申请豁免披露, not actual units; p58 display-inspection unit figures excluded",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_named_product_families",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "named product families",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "burn-in/repair, memory wafer CP and memory FT distinguished; existing 9 Gbps FT and 18 Gbps FT project are model/project-specific",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_qualification",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "qualification",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "burn-in/repair mass production and leading-client batch use; broad stable supply; CP/FT project progress withheld; HBM R&D progress withheld, no HBM production qualification",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_orders_backlog",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "orders backlog",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "as of 2026-03-31 qualitative sufficient on-hand/intention orders, top-client intention order for project testers; no numeric amount or accepted contract split",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_customers",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "customers",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "unnamed domestic leading memory clients; burn-in/repair batch use, no customer count or HBM named buyer",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_vendor_capacity",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "vendor capacity",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "2025 memory-tester utilization and sales-production ratio described high, no percentage; planned new capacity/T+7 units not current",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_nodes",
+    "entity_id": "jingzhida",
+    "status": "reviewed_not_found",
+    "scope": "nodes",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "no numerical DRAM/logic node claim for particular tester; DDR6/LPDDR6X/HBM industry/R&D context only",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  },
+  {
+    "coverage_id": "jingzhida_refinancing_2026_hbm",
+    "entity_id": "jingzhida",
+    "status": "reviewed_found",
+    "scope": "hbm",
+    "reviewed_source_ids": [
+      "jingzhida_refinancing_inquiry_reply_2026"
+    ],
+    "notes": "explicit future R&D project; conversion/progress withheld; no shipped or qualified HBM tester",
+    "next_action": "Bounded source operational review complete; reopen only on new originals or specifically located claims. Other registered-source sweeps remain separate."
+  }
+]

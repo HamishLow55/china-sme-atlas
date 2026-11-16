@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "sidea",
+    "name": "Sidea Semiconductor Equipment (Shenzhen)",
+    "aliases": [
+      "矽电半导体设备（深圳）股份有限公司",
+      "矽电股份",
+      "矽电",
+      "Sidea Semiconductor Equipment (Shenzhen) Co., Ltd.",
+      "301629"
+    ],
+    "evidence": {
+      "source_id": "sidea_annual_2025",
+      "page": 7,
+      "excerpt": "股票简称 矽电股份 股票代码 301629 公司的中文名称 矽电半导体设备（深圳）股份有限公司 公司的中文简称 矽电股份 公司的外文名称（如有） Sidea Semiconductor Equipment (Shenzhen) Co., Ltd. 公司的法定代表人 何沁修",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Shenzhen Stock Exchange ChiNext issuer 301629, listed 2025-03-24. Business scope as the filing states it: probe stations (探针台, 英文名 PROBER — 用于晶圆加工之后、封装工艺之前的晶圆测试环节) in two families, 晶圆探针台 (wafer probers, 4-12 inch) and 晶粒探针台 (die probers for PD/APD/LED dies after dicing), plus a smaller basket of 分选机 (LED chip sorters), 曝光机 (contact aligners) and AOI 检测机. It does NOT make ATE testers (测试机) or probe cards (探针卡); the only adjacent product is a 测试分选一体机 integrated test-and-sort machine described as newly developed. Subsidiaries: 矽旺科技（深圳）, 深圳市西渥智控科技, 深圳市希芯智能设备, plus 扬州市矽鑫电子科技 consolidated from 2025-08-04.",
+    "entity_class": "china_supply_base"
+  }
+]

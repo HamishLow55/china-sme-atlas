@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "Angstrom-e (Shenzhen Angstrom Excellence Technology) public product/company website pages",
+    "kind": "company_filings",
+    "publisher": "angstrom_e",
+    "version": "w13_2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Short evidence passages from the company's own website; originals held locally as archived HTML. Angstrom-e is unlisted and files no prospectus, STAR-Market review filing or periodic report of any kind; this dataset covers its public website only and carries no financial figures.",
+    "market_definitions": {}
+  }
+]

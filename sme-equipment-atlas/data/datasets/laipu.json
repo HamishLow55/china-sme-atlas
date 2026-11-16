@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "laipu_ipo_disclosures",
+    "title": "Laipu (Chengdu LasTop) IPO prospectus disclosures",
+    "kind": "company_filings",
+    "publisher": "laipu",
+    "version": "w6_laipu-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; original PDF held locally.",
+    "market_definitions": {}
+  }
+]

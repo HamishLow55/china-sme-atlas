@@ -1,0 +1,94 @@
+[
+  {
+    "observation_id": "jingzhida2024-revenue-component-0001",
+    "dataset_id": "jingzhida_annual_disclosures",
+    "source_id": "jingzhida_annual_2024",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "803129707.64",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_statement_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "consolidation_basis": "consolidated_financial_statements",
+      "reporting_vintage": "jingzhida_fy2024_annual_report"
+    },
+    "evidence": {
+      "page": 126,
+      "original_label": "其中：营业收入",
+      "excerpt": "合并利润表；单位：元 币种：人民币；列：2024年度、2023年度；其中：营业收入 七、61 803,129,707.64 648,563,325.45",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "803129707.64",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Recovered distinct 2024 income-statement 营业收入 component; equal-valued 营业总收入 subtotal remains separately represented."
+  },
+  {
+    "observation_id": "jingzhida2024-total-operating-revenue-comparative-0001",
+    "dataset_id": "jingzhida_annual_disclosures",
+    "source_id": "jingzhida_annual_2024",
+    "entity_id": "jingzhida",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "total_operating_revenue",
+    "value": "648563325.45",
+    "relation": "eq",
+    "unit": "CNY",
+    "period": {
+      "start": "2023-01-01",
+      "end": "2023-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "issuer_reported_statement_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "consolidation_basis": "consolidated_financial_statements",
+      "reporting_vintage": "jingzhida_fy2024_annual_report"
+    },
+    "evidence": {
+      "page": 126,
+      "original_label": "一、营业总收入",
+      "excerpt": "合并利润表；单位：元 币种：人民币；列：2024年度、2023年度；一、营业总收入 七、61 803,129,707.64 648,563,325.45",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-22",
+      "independent_corroboration": false,
+      "reported_value": "648563325.45",
+      "reported_unit": "CNY"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "source_reported_comparative",
+    "notes": "Recovered distinct 2023 comparative 营业总收入 subtotal; equal-valued 营业收入 component remains represented by the existing comparative revenue observation."
+  }
+]

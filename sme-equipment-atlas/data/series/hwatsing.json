@@ -1,0 +1,215 @@
+[
+  {
+    "series_id": "hwatsing_cmp_cumulative_shipments_all_reported_geographies",
+    "title": "Hwatsing — All CMP equipment — cumulative_shipments (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2025-CMP800",
+      "H2026-CMP1000",
+      "H2026-CMP1000PLUS",
+      "H2026H1-CMP1000PLUS"
+    ]
+  },
+  {
+    "series_id": "hwatsing_cmp_revenue_all_reported_geographies",
+    "title": "Hwatsing — All CMP equipment — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-SEGREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_company_revenue_all_reported_geographies",
+    "title": "Hwatsing — Company total — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-CR",
+      "H2024-CR",
+      "H2025-CR"
+    ]
+  },
+  {
+    "series_id": "hwatsing_company_revenue_mainland_china",
+    "title": "Hwatsing — Company total — revenue (mainland_china)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-MAINLANDREV",
+      "H2024-MAINLANDREV",
+      "H2025-MAINLANDREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_cmp_12inch_cumulative_shipments_all_reported_geographies",
+    "title": "Hwatsing — 12-inch CMP equipment only — cumulative_shipments (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2024-CMP500"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_cmp_thinning_revenue_all_reported_geographies",
+    "title": "Hwatsing — Hwatsing CMP and thinning equipment combined, FY2024 revenue label — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2024-SEGREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_other_2023_revenue_all_reported_geographies",
+    "title": "Hwatsing — Other FY2023: wafer reclaim, consumables and maintenance etc. — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-OTHERREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_other_2024_revenue_all_reported_geographies",
+    "title": "Hwatsing — Other FY2024: wafer reclaim, consumables, maintenance, CDS and SDS etc. — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2024-OTHERREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_semiconductor_equipment_inventory_volume_all_reported_geographies",
+    "title": "Hwatsing — Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only — inventory_volume (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-INV",
+      "H2024-INV",
+      "H2025-INV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_semiconductor_equipment_production_volume_all_reported_geographies",
+    "title": "Hwatsing — Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only — production_volume (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-PROD",
+      "H2024-PROD",
+      "H2025-PROD"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_semiconductor_equipment_revenue_all_reported_geographies",
+    "title": "Hwatsing — Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2025-SEGREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_semiconductor_equipment_sales_volume_all_reported_geographies",
+    "title": "Hwatsing — Hwatsing semiconductor equipment; product basket expands across years; never equate to CMP-only — sales_volume (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2023-SALES",
+      "H2024-SALES",
+      "H2025-SALES"
+    ]
+  },
+  {
+    "series_id": "hwatsing_hwatsing_services_2025_revenue_all_reported_geographies",
+    "title": "Hwatsing — Semiconductor services FY2025 reporting classification — revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Source observations at the named reporting scope; preserve each period and qualifier.",
+    "limitations": "No TSV/HBM revenue allocation. Supplier claims are not independently corroborated. Scope changes and planned vs actual spending remain distinct.",
+    "observation_ids": [
+      "H2025-OTHERREV"
+    ]
+  },
+  {
+    "series_id": "hwatsing_company_revenue_all_reported_geographies_interim",
+    "version": 1,
+    "title": "hwatsing: company revenue (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2025H1-CR-COMP",
+      "H2026H1-CR"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "hwatsing_company_rd_investment_expensed_all_reported_geographies_interim",
+    "version": 1,
+    "title": "hwatsing: company rd_investment_expensed (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2025H1-RD-EXP-COMP",
+      "H2026H1-RD-EXP"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "hwatsing_company_rd_investment_capitalized_all_reported_geographies_interim",
+    "version": 1,
+    "title": "hwatsing: company rd_investment_capitalized (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2025H1-RD-CAP-COMP",
+      "H2026H1-RD-CAP"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "hwatsing_company_rd_investment_all_reported_geographies_interim",
+    "version": 1,
+    "title": "hwatsing: company rd_investment (all_reported_geographies; interim)",
+    "mode": "comparable",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2025H1-RD-TOTAL-COMP",
+      "H2026H1-RD-TOTAL"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "hwatsing_hwatsing_wafer_reclaim_service_production_capacity_tianjin_as_of",
+    "version": 1,
+    "title": "hwatsing: hwatsing_wafer_reclaim_service production_capacity (tianjin; as_of)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2026H1-WR-CAPACITY"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  },
+  {
+    "series_id": "hwatsing_hwatsing_wafer_reclaim_service_planned_production_capacity_mainland_china_named_sites_as_of",
+    "version": 1,
+    "title": "hwatsing: hwatsing_wafer_reclaim_service planned_production_capacity (mainland_china_named_sites; as_of)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of independently source-checked H1 2026 filing observations, including H1 2025 comparatives where reported.",
+    "observation_ids": [
+      "H2026H1-WR-PLANNED-CAPACITY"
+    ],
+    "limitations": "Supplier-reported; scope is not a market denominator. Plans/capacity are not realized output; annual flows remain separate. Mainland revenue uses the source geography basis, not inferred fab location."
+  }
+]

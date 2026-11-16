@@ -1,0 +1,521 @@
+[
+  {
+    "target_id": "cmp_local-31",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2023-CR",
+      "H2024-CR",
+      "H2025-CR"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-32",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "mainland_china"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2023-MAINLANDREV",
+      "H2024-MAINLANDREV",
+      "H2025-MAINLANDREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-33",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_other_2023",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023"
+    ],
+    "observation_ids": [
+      "H2023-OTHERREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-34",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_other_2024",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2024"
+    ],
+    "observation_ids": [
+      "H2024-OTHERREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-35",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_services_2025",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2025-OTHERREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-36",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2025",
+      "hwatsing_cmp_1000",
+      "hwatsing_cmp_800"
+    ],
+    "observation_ids": [
+      "H2026-CMP1000PLUS",
+      "H2026-CMP1000",
+      "H2025-CMP800"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-37",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023"
+    ],
+    "observation_ids": [
+      "H2023-SEGREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-38",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "hwatsing_cmp_12inch",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_cmp_500"
+    ],
+    "observation_ids": [
+      "H2024-CMP500"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-39",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_cmp_thinning",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2024"
+    ],
+    "observation_ids": [
+      "H2024-SEGREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-40",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_semiconductor_equipment",
+    "platform_id": "",
+    "metric_id": "inventory_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2023-INV",
+      "H2024-INV",
+      "H2025-INV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-41",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_semiconductor_equipment",
+    "platform_id": "",
+    "metric_id": "production_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2023-PROD",
+      "H2024-PROD",
+      "H2025-PROD"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-42",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_semiconductor_equipment",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2025-SEGREV"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "cmp_local-43",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "hwatsing_semiconductor_equipment",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_2023",
+      "hwatsing_2024",
+      "hwatsing_2025"
+    ],
+    "observation_ids": [
+      "H2023-SALES",
+      "H2024-SALES",
+      "H2025-SALES"
+    ],
+    "next_action": "Extend missing years/source sets; this cell records found evidence, not exhaustive disclosure."
+  },
+  {
+    "target_id": "hwatsing-cmp-only-2024",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2024-01-01",
+    "period_end": "2024-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "hwatsing_2024"
+    ],
+    "observation_ids": [],
+    "next_action": "Find an explicit CMP-only breakdown; broader segment figures do not fill this gap."
+  },
+  {
+    "target_id": "hwatsing-cmp-only-2025",
+    "task_id": "cmp_local",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "hwatsing_2025"
+    ],
+    "observation_ids": [],
+    "next_action": "Find an explicit CMP-only breakdown; broader segment figures do not fill this gap."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-1",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2025H1-CR-COMP",
+      "H2026H1-CR"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-2",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment_expensed",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2025H1-RD-EXP-COMP",
+      "H2026H1-RD-EXP"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-3",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment_capitalized",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2025H1-RD-CAP-COMP",
+      "H2026H1-RD-CAP"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-4",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_investment",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2025H1-RD-TOTAL-COMP",
+      "H2026H1-RD-TOTAL"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-5",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "cumulative_shipments",
+    "dimensions": {
+      "geography": "all_reported_geographies"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2026H1-CMP1000PLUS"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-6",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_wafer_reclaim_service",
+    "platform_id": "",
+    "metric_id": "production_capacity",
+    "dimensions": {
+      "geography": "tianjin"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2026H1-WR-CAPACITY"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-7",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "hwatsing_wafer_reclaim_service",
+    "platform_id": "",
+    "metric_id": "planned_production_capacity",
+    "dimensions": {
+      "geography": "mainland_china_named_sites"
+    },
+    "period_start": "2025-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [
+      "H2026H1-WR-PLANNED-CAPACITY"
+    ],
+    "next_action": "Coverage is source-bounded; backfill through separately assigned sources."
+  },
+  {
+    "target_id": "wave1_hwatsing_h1_2026-category-revenue-gap",
+    "task_id": "wave1_hwatsing_h1_2026",
+    "entity_id": "hwatsing",
+    "category_id": "cmp",
+    "reporting_scope_id": "cmp",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "hwatsing_h1_2026"
+    ],
+    "observation_ids": [],
+    "next_action": "No CMP-only/ECP-only revenue found in reviewed consolidated notes; do not allocate company revenue."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "entity_id": "sizone",
+    "name": "Sizone (Hangzhou Zhonggui)",
+    "aliases": [
+      "杭州众硅",
+      "众硅",
+      "Hangzhou Zhonggui",
+      "杭州众硅电子科技有限公司",
+      "中微众硅",
+      "众硅公司",
+      "中微众硅（杭州）电子科技有限公司"
+    ],
+    "evidence": {
+      "source_id": "sizone_restructuring_2026",
+      "page": 425,
+      "excerpt": "杭州众硅主营业务为高端化学机械抛光和化学机械平坦化（CMP）设备的研发、生产及销售",
+      "status": "source_checked",
+      "reviewer": "tsv_expansion_independent_verifier",
+      "review_date": "2026-09-21"
+    },
+    "notes": "English Sizone alias comes from prior analysis; original Chinese legal entity verified. H1 FY2026 AMEC report physical p.4 explicitly identifies 中微众硅（杭州）电子科技有限公司 as the former 杭州众硅电子科技有限公司. AMEC acquired control in a non-common-control business combination on 2026-05-31 (p.176) and newly included it in consolidation (p.108); AMEC and Sizone/subsidiary financial figures overlap from that date.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Hangzhou Zhonggui'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "parent_entity_id": "amec",
+    "entity_class": "china_supply_base"
+  }
+]

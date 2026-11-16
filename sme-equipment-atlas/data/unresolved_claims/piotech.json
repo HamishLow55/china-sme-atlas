@@ -1,0 +1,481 @@
+[
+  {
+    "hold_id": "piotech-w2w-generation-model-identity",
+    "source_id": "piotech_annual_2025",
+    "page": 36,
+    "excerpt": "公司研发的新一代高速高精度晶圆对晶圆混合键合产品已发货至客户端验证",
+    "status": "pending",
+    "issue": "The report does not identify the next-generation shipped-for-validation product as Dione 300 or Dione 300 eX. Keep the maturity at family level.",
+    "claim_id": "piotech-w2w-generation-model-identity",
+    "claim": "The report does not identify the next-generation shipped-for-validation product as Dione 300 or Dione 300 eX. Keep the maturity at family level.",
+    "review_notes": "No source-native bridge identifies the next-generation p.36 unit as Dione 300 eX."
+  },
+  {
+    "hold_id": "piotech-fusion-model-bridge",
+    "source_id": "piotech_annual_2025",
+    "page": 36,
+    "excerpt": "首台晶圆对晶圆熔融键合设备通过客户验证",
+    "status": "resolved",
+    "issue": "Dione 300F eX is the only named fusion-bonding product in the physical-p23 table, but the validation sentence is generic. The model bridge needs integrator or independent-verifier acceptance.",
+    "resolution_page": 41,
+    "claim_id": "piotech-fusion-model-bridge",
+    "claim": "Dione 300F eX is the only named fusion-bonding product in the physical-p23 table, but the validation sentence is generic. The model bridge needs integrator or independent-verifier acceptance.",
+    "review_notes": "The generic p.36 sentence alone is ambiguous, but physical PDF p.41 directly identifies Dione 300F eX and its completed advanced-logic client validation; the hold is resolved by that passage."
+  },
+  {
+    "hold_id": "no-piotech-tsv-platform-claim",
+    "source_id": "piotech_annual_2025",
+    "page": 7,
+    "excerpt": "处于前沿的封装形式和技术。目前，带有倒装芯片（FC）结构封装、晶圆级封装（WLP）、系统级封装（SiP）、硅通孔技术（TSV）、2.5D 封装、3D 封装等均被认为属于先进封装范畴",
+    "status": "pending",
+    "issue": "TSV appears in a glossary definition of advanced packaging, not as an explicit application of a Piotech platform. No TSV application link is proposed.",
+    "claim_id": "no-piotech-tsv-platform-claim",
+    "claim": "TSV appears in a glossary definition of advanced packaging, not as an explicit application of a Piotech platform. No TSV application link is proposed.",
+    "review_notes": "TSV is glossary context only and does not support a Piotech platform application link."
+  },
+  {
+    "hold_id": "piotech-2024-pecvd-subgroup-stage-scope",
+    "source_id": "piotech_annual_2024",
+    "page": 19,
+    "excerpt": "PECVD Stack（ONO 叠层）、ACHM 等先进工艺设备，实现了大批量出货，陆续通过客户验证",
+    "status": "pending",
+    "issue": "The plural progressive-validation wording does not establish that every listed process product had completed validation. Preserve the family-level scope.",
+    "claim_id": "piotech-2024-pecvd-subgroup-stage-scope",
+    "claim": "The plural progressive-validation wording does not establish that every listed process product had completed validation. Preserve the family-level scope.",
+    "review_notes": "The FY2024 passage supports a grouped PECVD observation and does not allocate completed validation to every named process product."
+  },
+  {
+    "hold_id": "piotech-2024-ald-omitted-by-batch-cap",
+    "source_id": "piotech_annual_2024",
+    "page": 22,
+    "excerpt": "报告期内，公司持续拓展 PE-ALD 薄膜种类及工艺应用，在新工艺及量产应用方面取得了显著成果，获得了原有客户及新客户订单，持续扩大量产规模。",
+    "status": "pending",
+    "issue": "Relevant later ALD history exists but was intentionally not proposed because the bounded batch reached eight higher-priority claim bundles. This is an omission for later intake, not evidence absence.",
+    "claim_id": "piotech-2024-ald-omitted-by-batch-cap",
+    "claim": "Relevant later ALD history exists but was intentionally not proposed because the bounded batch reached eight higher-priority claim bundles. This is an omission for later intake, not evidence absence.",
+    "review_notes": "This is a bounded-batch omission, not an absence-of-evidence conclusion."
+  },
+  {
+    "claim_id": "deposition2_piotech_cost_vintage_scope",
+    "claim": "Piotech earlier cost and later prior-year comparative differ",
+    "source_ids": [
+      "piotech_annual_2023",
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      57,
+      56
+    ],
+    "reason": "Both current-year rows are industry-labelled, but equivalence of their reporting perimeters or an issuer restatement bridge has not been established. Original current-year levels retained separately; differing prior comparative is an unimported lead.",
+    "next_action": "Resolve original financial-note/segment perimeter before harmonizing the history."
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-002",
+    "claim": "Piotech source-native process_application measurement: piotech_fy2025_operational_lead_002",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      36
+    ],
+    "status": "unresolved",
+    "reason": "Approximate source-defined process application count lacks a closed unit and reusable metric.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_002"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-007",
+    "claim": "Piotech source-native 100_million_wafer measurement: piotech_fy2025_operational_lead_007",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      36
+    ],
+    "status": "unresolved",
+    "reason": "Customer-processed wafer count is not wafer passes; existing cumulative_wafer_passes is single-tool and cannot apply. No wafer unit in closed schema.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_007"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-008",
+    "claim": "Piotech source-native 100_million_wafer measurement: piotech_fy2025_operational_lead_008",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      36
+    ],
+    "status": "unresolved",
+    "reason": "Customer-processed wafer count is not wafer passes; existing cumulative_wafer_passes is single-tool and cannot apply. No wafer unit in closed schema.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_008"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-012",
+    "claim": "Piotech source-native station_per_chamber measurement: piotech_fy2025_operational_lead_012",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_012"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-013",
+    "claim": "Piotech source-native wafer_per_simultaneous_batch measurement: piotech_fy2025_operational_lead_013",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_013"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-015",
+    "claim": "Piotech source-native station_per_chamber measurement: piotech_fy2025_operational_lead_015",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_015"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-piotech-fy2025-operational-lead-016",
+    "claim": "Piotech source-native wafer_per_simultaneous_batch measurement: piotech_fy2025_operational_lead_016",
+    "source_ids": [
+      "piotech_annual_2025"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_fy2025_operational_lead_016"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p23-n-001",
+    "claim": "Piotech source-native percent measurement: P23-N-001",
+    "source_ids": [
+      "piotech_annual_2023"
+    ],
+    "pages_reviewed": [
+      20
+    ],
+    "status": "unresolved",
+    "reason": "Approximate 20–60% mechanical capacity improvement lacks a matching metric and range schema mapping; not production capacity or output.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p23_n_001"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p23-n-007",
+    "claim": "Piotech source-native process_application measurement: P23-N-007",
+    "source_ids": [
+      "piotech_annual_2023"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "Approximate source-defined process application count lacks a closed unit and reusable metric.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p23_n_007"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p23-n-009",
+    "claim": "Piotech source-native 100_million_wafer measurement: P23-N-009",
+    "source_ids": [
+      "piotech_annual_2023"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "Customer-processed wafer count is not wafer passes; existing cumulative_wafer_passes is single-tool and cannot apply. No wafer unit in closed schema.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p23_n_009"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-005",
+    "claim": "Piotech source-native process_application measurement: P24-N-005",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      19
+    ],
+    "status": "unresolved",
+    "reason": "Approximate source-defined process application count lacks a closed unit and reusable metric.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_005"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-007",
+    "claim": "Piotech source-native 100_million_wafer measurement: P24-N-007",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      19
+    ],
+    "status": "unresolved",
+    "reason": "Customer-processed wafer count is not wafer passes; existing cumulative_wafer_passes is single-tool and cannot apply. No wafer unit in closed schema.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_007"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-014",
+    "claim": "Piotech source-native station_per_chamber measurement: P24-N-014",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_014"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-015",
+    "claim": "Piotech source-native wafer_per_simultaneous_batch measurement: P24-N-015",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_015"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-017",
+    "claim": "Piotech source-native station_per_chamber measurement: P24-N-017",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_017"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-operational-hold-p24-n-018",
+    "claim": "Piotech source-native wafer_per_simultaneous_batch measurement: P24-N-018",
+    "source_ids": [
+      "piotech_annual_2024"
+    ],
+    "pages_reviewed": [
+      21
+    ],
+    "status": "unresolved",
+    "reason": "No current metric/unit for the source-native operational specification; retain as qualitative/native claim pending taxonomy or schema review.",
+    "next_action": "Review a reusable measurement/unit contract and source-specific timing before numerical mapping. Preserve the original wording and qualifiers; do not substitute another metric.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_p24_n_018"
+    ],
+    "resolution": "Native measurement mapped with its source scope, original qualifier and date; not tool shipments or factory output.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-interim-hold-fleet-wafer-processing",
+    "claim": "Fleet cumulative wafer processing is not single-tool wafer passes or unique wafers.",
+    "source_ids": [
+      "piotech_h1_2026"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "Fleet cumulative wafer processing is not single-tool wafer passes or unique wafers.",
+    "native_claim_ids": [
+      "PIOTECH-INTERIM-020"
+    ],
+    "next_action": "Review reusable fleet measurement and source-scale unit in the pending technical packet.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_interim_020"
+    ],
+    "resolution": "Reviewed native-scale observation integrated; original conceptual boundaries retained.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-interim-hold-planned-factory-area",
+    "claim": "Planned floor area is not current annual tool output.",
+    "source_ids": [
+      "piotech_h1_2026"
+    ],
+    "pages_reviewed": [
+      46
+    ],
+    "status": "unresolved",
+    "reason": "Planned floor area is not current annual tool output.",
+    "native_claim_ids": [
+      "PIOTECH-INTERIM-045"
+    ],
+    "next_action": "Review planned area metric and keep construction status and 2028 expected completion as qualitative context.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_interim_045"
+    ],
+    "resolution": "Reviewed native-scale observation integrated; original conceptual boundaries retained.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-interim-hold-tool-configurations",
+    "claim": "Optional chambers, reaction stations and batch positions describe tool architecture, not installed or shipped populations.",
+    "source_ids": [
+      "piotech_h1_2026"
+    ],
+    "pages_reviewed": [
+      52
+    ],
+    "status": "unresolved",
+    "reason": "Optional chambers, reaction stations and batch positions describe tool architecture, not installed or shipped populations.",
+    "native_claim_ids": [
+      "PIOTECH-INTERIM-048",
+      "PIOTECH-INTERIM-049",
+      "PIOTECH-INTERIM-050"
+    ],
+    "next_action": "Review technical packet; retain alternative six/ten-wafer layouts and source-native Chinese-number holds.",
+    "resolution_status": "partially_resolved",
+    "resolution": "Mapped named generic hardware and Arabic-number architecture measures; two p52 Chinese-number chamber limits remain explicit native holds.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-interim-hold-process-application-breadth",
+    "claim": "Approximate application breadth covers five deposition families, not model count or process nodes.",
+    "source_ids": [
+      "piotech_h1_2026"
+    ],
+    "pages_reviewed": [
+      38
+    ],
+    "status": "unresolved",
+    "reason": "Approximate application breadth covers five deposition families, not model count or process nodes.",
+    "native_claim_ids": [
+      "PIOTECH-INTERIM-051"
+    ],
+    "next_action": "Review generic process-application metric with original qualifier and family basket.",
+    "resolution_status": "resolved_mapping_with_scope_guards",
+    "resolution_observation_ids": [
+      "piotech_technical_piotech_interim_051"
+    ],
+    "resolution": "Reviewed native-scale observation integrated; original conceptual boundaries retained.",
+    "resolution_review": "docs/reviews/archive/2026-09-23_piotech_technical_capture.json"
+  },
+  {
+    "claim_id": "piotech-interim-hold-mixed-rd-project-stages",
+    "claim": "Mixed project stages are valid qualitative claims but cannot be assigned to every constituent model.",
+    "source_ids": [
+      "piotech_h1_2026"
+    ],
+    "pages_reviewed": [
+      56
+    ],
+    "status": "unresolved",
+    "reason": "Mixed project stages are valid qualitative claims but cannot be assigned to every constituent model.",
+    "native_claim_ids": [
+      "PIOTECH-INTERIM-054",
+      "PIOTECH-INTERIM-055",
+      "PIOTECH-INTERIM-056"
+    ],
+    "next_action": "Retain source-native project context; only resolve narrower model identity from explicit original evidence."
+  }
+]

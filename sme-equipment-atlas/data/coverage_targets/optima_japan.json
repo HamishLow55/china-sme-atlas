@@ -1,0 +1,32 @@
+[
+  {
+    "target_id": "wave3_optima_japan_12",
+    "task_id": "wave3_optima_japan",
+    "entity_id": "optima_japan",
+    "category_id": "multi_equipment",
+    "reporting_scope_id": "optima_company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "subsidiary_total_as_reported",
+      "revenue_basis": "recognized_revenue",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis"
+    },
+    "period_start": "2024-01-01",
+    "period_end": "2025-12-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "secote_fy2024",
+      "secote_fy2025"
+    ],
+    "observation_ids": [
+      "OPTIMA2024-REV",
+      "OPTIMA2025-REV"
+    ],
+    "next_action": "Preserve scope breaks and source vintages; next periods require separate intake."
+  }
+]

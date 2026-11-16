@@ -1,0 +1,139 @@
+[
+  {
+    "observation_id": "ASMPT-GROUP-GROSS-MARGIN-2025",
+    "dataset_id": "asmpt_disclosures",
+    "source_id": "asmpt_annual_2025",
+    "entity_id": "asmpt",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "value": "38.0",
+    "relation": "eq",
+    "unit": "percent",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "asmpt_annual_2025"
+    },
+    "evidence": {
+      "page": 5,
+      "original_label": "Gross Margin",
+      "excerpt": "Group Results Summary Continuing and Discontinued Operations Revenue 14,521.0 +9.8% (US$1,862.8 million) Gross Margin 38.0% -198bps Operating Profit 614.5 +10.1%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-02",
+      "independent_corroboration": false,
+      "reported_value": "38.0",
+      "reported_unit": "percent"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "current",
+    "notes": "ASMPT group gross margin for FY2025, down 198 basis points year on year. BASIS WARNING: this figure is taken from the Group Results Summary, which the page heads 'Continuing and Discontinued Operations'. It therefore sits on a WIDER basis than the segment and group revenue rows in this atlas, which are continuing operations only -- the same page prints revenue of HK$14,521.0m against the segment note's HK$13,736.2m. Never compute this margin against those revenue rows, and never read it as a continuing-operations margin. The same block also prints an 'Adjusted Gross Margin' of 38.5% under non-HKFRS measures, which is deliberately not registered. The same page prints a CONTINUING-OPERATIONS gross margin of 37.8% directly below this one, on revenue of HK$13,736.2m, which is the basis every ASMPT revenue row in this atlas uses; it is registered as ASMPT-GROUP-GROSS-MARGIN-CONTINUING-2025 and is the figure to pair with those rows. This row is kept because the FY2024 margin beside it predates the discontinued-operations split, so the wider basis is the one that compares across the two years."
+  },
+  {
+    "observation_id": "ASMPT-GROUP-GROSS-MARGIN-2024",
+    "dataset_id": "asmpt_disclosures",
+    "source_id": "asmpt_annual_2024",
+    "entity_id": "asmpt",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "gross_margin",
+    "value": "40.0",
+    "relation": "eq",
+    "unit": "percent",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "asmpt_annual_2024"
+    },
+    "evidence": {
+      "page": 5,
+      "original_label": "Gross margin",
+      "excerpt": "GROUP FINANCIAL HIGHLIGHTS FOR FY 2024 Revenue of HK$ 13.23 billion Bookings of HK$ 12.75 billion Gross margin of 40.0%",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-02",
+      "independent_corroboration": false,
+      "reported_value": "40.0",
+      "reported_unit": "percent"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "current",
+    "notes": "ASMPT group gross margin for FY2024 as the FY2024 report states it, against that report's own revenue of HK$13.23bn. Note the vintage problem this metric inherits from the segment rows: the FY2025 report restates FY2024 revenue onto a continuing-operations basis of HK$12,483.2m, so a margin quoted here is not on the same revenue base as the restated figures. Two filings, two bases; pick one and stay on it."
+  },
+  {
+    "observation_id": "ASMPT-RD-HEADCOUNT-2024",
+    "dataset_id": "asmpt_disclosures",
+    "source_id": "asmpt_annual_2024",
+    "entity_id": "asmpt",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "employee_headcount",
+    "value": "2400",
+    "relation": "gt",
+    "unit": "person",
+    "period": {
+      "start": "",
+      "end": "2024-12-31",
+      "kind": "as_of",
+      "basis": "stock"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "all_company_sales",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "workforce_group": "rd_employees",
+      "workforce_breakdown": "total",
+      "workforce_cohort": "global R&D workforce"
+    },
+    "evidence": {
+      "page": 20,
+      "original_label": "global R&D workforce",
+      "excerpt": "CONTINUED COMMITMENT TO RESEARCH AND DEVELOPMENT (\"R&D\") With a global R&D workforce of more than 2,400, the Group operates several R&D centres worldwide across Asia, Europe and the Americas.",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-10-02",
+      "independent_corroboration": false,
+      "reported_value": "2400",
+      "reported_unit": "person"
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "current",
+    "notes": "R&D headcount, registered because the FY2024 report says 'global R&D workforce' in those words. Relation is gt, not eq: the source says 'more than 2,400'. The FY2025 report's equivalent sentence reads 'a global workforce of more than 2,200' and DROPS the words 'R&D', so that later figure is deliberately not registered here -- it sits in an R&D paragraph and is almost certainly the same measure, but 'almost certainly' is an inference and this field would carry it as fact. The apparent fall from 2,400 to 2,200 is therefore a question for a reader, not a series in the atlas."
+  }
+]

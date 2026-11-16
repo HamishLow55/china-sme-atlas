@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "leuven_prospectus_2026",
+    "dataset_id": "leuven_ipo_disclosures",
+    "entity_id": "leuven",
+    "title": "江苏鲁汶仪器股份有限公司 首次公开发行股票并在科创板上市 招股说明书（申报稿）",
+    "source_type": "company_prospectus",
+    "publication_date": "2026-06-30",
+    "publication_date_precision": "unknown",
+    "reporting_period_end": "2025-12-31",
+    "locator_kind": "pdf",
+    "page_count": 353,
+    "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202606/002206_20260630_DZGO.pdf",
+    "sha256": "53110b435b45e11cdf09a403d53f57066539248d6b6ebe3b9bc555605720d1e1"
+  }
+]

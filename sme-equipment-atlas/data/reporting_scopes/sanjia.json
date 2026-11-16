@@ -1,0 +1,26 @@
+[
+  {
+    "reporting_scope_id": "sanjia_molding_press_systems",
+    "category_id": "molding",
+    "label": "FY2021-FY2025 塑封压机、系统 (molding presses and systems) revenue/margin/units",
+    "definition": "Sanjia's (formerly Wenyi's) '塑封压机、系统' main-business product-line row from each annual report's 主营业务分产品情况 table (FY2021: wenyi_annual_2021 p21; FY2022: wenyi_annual_2022 p24; FY2023: wenyi_annual_2023 p26; FY2024: sanjia_annual_2024 p25; FY2025: sanjia_annual_2025 p25). Unlike Naike's basket, Sanjia/Wenyi's own filings keep this line separate from trim-and-form equipment ('冲切成型系统', reported as its own line in the same table every year) and from packaging molds ('电子塑封模具'/'塑封模具', also its own line) throughout 2021-2025, so this scope is molding-only, not a cross-category basket. The production-sales-quantity tables (产销量情况分析表) show this line itself spans two molding sub-products in value terms through FY2024 -- '塑封压机' (manual presses) and '自动封装系统' (automated systems) -- both molding equipment, so combining them does not introduce a non-molding category; filed at the molding parent because the issuer's own tables do not split transfer from compression within it (its FY2025 product catalogue lists an as-yet-unresolved wafer-level compression machine as a further, separate product -- see sanjia_wafer_level_molding_machine). Filed at the molding parent, not molding_transfer, for the same reason as Naike's manual press: the aggregate line is not asserted to be transfer-only. FY2025's unit count (75 automatic systems, sanjia_annual_2025 p26) includes Zhonghe's consolidated Aug-Dec 2025 contribution, flagged in the observation notes. Excludes mold tooling and trim-and-form, reported separately; excludes 'other' (其他) and extrusion/stamping segments."
+  },
+  {
+    "reporting_scope_id": "sanjia_company",
+    "category_id": "all_businesses",
+    "label": "Sanjia (formerly Wenyi) company-wide totals (R&D investment)",
+    "definition": "Sanjia's/Wenyi's company-wide '研发投入合计' (total R&D investment) from each filing's dedicated R&D-investment table (wenyi_annual_2021 p24; wenyi_annual_2022 p26; wenyi_annual_2023 p28; sanjia_annual_2024 p27; sanjia_annual_2025 p28). Covers the whole company, including the PVC extrusion-die/equipment and precision-stamping segments; not resolved to the molding-press business, let alone to a molding mechanism. Never to be read as molding R&D."
+  },
+  {
+    "reporting_scope_id": "sanjia_source_defined_domestic_main_business",
+    "category_id": "all_businesses",
+    "label": "国内",
+    "definition": "Sanjia (formerly Wenyi Technology) source-native 主营业务分地区情况 row 国内, FY2021-FY2025 annual reports (filer renamed and restructured partway through this run; entity_id sanjia covers both the Wenyi-branded and Sanjia-branded filings). Table boundary preserved; no allocation beyond the disclosed row. Sanjia/Wenyi's semiconductor packaging-equipment-and-mould business is a minority segment of this company-wide geography split in most years (plastic/异型材 moulding is the other, often larger, segment) -- do not read either region row as semiconductor-equipment revenue."
+  },
+  {
+    "reporting_scope_id": "sanjia_source_defined_overseas_main_business",
+    "category_id": "all_businesses",
+    "label": "国外",
+    "definition": "Sanjia (formerly Wenyi Technology) source-native 主营业务分地区情况 row 国外, FY2021-FY2025 annual reports. Table boundary preserved; no allocation beyond the disclosed row. Company-wide total, not a semiconductor-equipment figure -- see sanjia_source_defined_domestic_main_business."
+  }
+]

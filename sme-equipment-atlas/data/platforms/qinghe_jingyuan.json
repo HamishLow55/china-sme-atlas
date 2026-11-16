@@ -1,0 +1,23 @@
+[
+  {
+    "platform_id": "qinghe_jingyuan_sab82cww",
+    "entity_id": "qinghe_jingyuan",
+    "category_id": "bonding",
+    "name": "SAB 82CWW",
+    "aliases": [
+      "SAB 82CWW系列",
+      "SAB8210CWW"
+    ],
+    "evidence": {
+      "source_id": "qinghe_jingyuan_isabers_launch_20250311",
+      "page": 1,
+      "excerpt": "3月11日，青禾晶元在香港隆重举办新品发布会， 全球首台独立研发C2W&W2W双模式混合键合设备SAB 82CWW系列震撼亮相！",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "global_premiere_launch_event_dual_mode_c2w_w2w_hybrid_bonder",
+    "maturity_as_reported_in": "qinghe_jingyuan_isabers_launch_20250311",
+    "notes": "Launched ('震撼亮相' / '全球首台独立研发' — dramatically unveiled, world-first independently-developed) at a 2025-03-11 Hong Kong product event per the company's own official site (isaber-s.com); independently corroborated the following day by news.qq.com (qinghe_jingyuan_qq_relay_20250312) reporting the same event, product name and date. A dual C2W(die-to-wafer)/W2W(wafer-to-wafer) mode hybrid bonder, hence registered at the parent 'bonding' category node rather than either specific hybrid-bonding child. Stated capabilities (same source): compatible with 8-inch and 12-inch wafers; processes chips from 0.5×0.5mm to 50×50mm and as thin as 35μm; two alignment methods with stated precision '±300nm（同轴）' (coaxial) and '±100nm（红外）' (infrared) — these describe the alignment-DETECTION method's own precision and are NOT registered as the platform's alignment-accuracy observation, to avoid conflating them with the separately stated achieved bonding performance, '±30nm对准精度和±100nm键合精度' (registered as qinghe_jingyuan_sab82cww_alignment_accuracy and qinghe_jingyuan_sab82cww_placement_accuracy); and a stated C2W single-head throughput of up to 1000 wafers/hour (no atlas unit exists for this and it is not registered). Stated target applications are memory density/speed, Micro-LED display, CMOS image sensors and photonic-electronic co-integration — HBM is NOT named in this release or in any other held source about this platform. This is a product-launch event, not a shipment, customer-acceptance or revenue milestone; no unit count or revenue is disclosed. W13 RECORDS REVIEW (correct) by claude_w13_records_verifier: Identity and category confirmed verbatim against qinghe_jingyuan_isabersgroup_c2w_w2w (isabersgroup_c2w_w2w.html), corroborated by qinghe_jingyuan_qq_relay_20250312: '全球首台独立研发C2W&W2W双模式混合键合设备SAB 82CWW系列震撼亮相'. category_id=bonding (parent) is correct for this explicitly dual-mode (C2W AND W2W) device, matching the exact rule the batch itself states for this record. The recorded figures (±30nm/±100nm bonding figures vs. ±300nm/±100nm detection-method figures) are correctly kept separate per the ± tolerance guidance in Extraction Failure Modes. HOWEVER: the alias 'SAB8210CWW' does not appear anywhere in any held Qinghe Jingyuan source. I grepped all five held sources for this entity (isabersgroup_c2w_w2w.html, qq_global_first_hybrid_bonder.html, siscmag_tianjin_relocation.html, dramx_funding_round.html, sina_sungrow_investment_20221122.html) for every variant of 'SAB8210' / 'SAB 8210' / '8210CWW' and found zero matches; the only SAB-prefixed strings that occur are the SAB6xxx product-line names and 'SAB 82CWW' (with a space) / 'SAB82' (in the series-tab list), repeated five times across the two launch articles. 'SAB8210CWW' looks like an invented alias -- precisely the failure mode the ASMPT case in Extraction Failure Modes warns about ('an alias is never cited to a page, so it has no excerpt, no page check and no reviewer decision of its own -- it rides into the registry on the strength of the rows around it'). Removing it; keeping 'SAB 82CWW系列', which is directly and repeatedly attested. ALIAS RESTORED 2026-10-08. The W13 records review removed SAB8210CWW as unsourced, which was correct against the five sources the atlas then held, and the integrator then reported it to the user as a FABRICATION, which was wrong. It is the title and body text of the issuer's own product page, https://www.isabersgroup.com/proshow-913, now registered as qinghe_jingyuan_isabers_sab8210cww_product with its sibling SAB8210CW page. The lesson is the one the alias checker's own output already carries: unsourced means absent from the corpus we hold, and the right response to a gap is to go and get the page, not to delete the name."
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "link_id": "qiangyi_h126_25d_hbm_small_batch_validation",
+    "claim_id": "QIANGYI-H126-P11-HBM-VALIDATION",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "platform_id": "qiangyi_2_5d_mems_probe_card",
+    "application_id": "hbm",
+    "source_id": "qiangyi_semiconductor_h1_2026",
+    "page": 11,
+    "excerpt": "2.5D MEMS 探针卡：植针位置度控制精度实现关键改善，已完成多片面向 Flash、DRAM 及 HBM 等存储芯片测试用探针卡的小批量出货；其中，面向 DRAM 的探针卡产品客户导入取得阶段性突破，HBM 探针卡验证工作有序开展。",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "Small-batch shipment across a Flash, DRAM and HBM group, with HBM validation under way. Not qualification or production; customer unnamed. Softer than annual_2025 p21, which said 在客户端验证成功. The Q3 ramp sentence covers memory cards generally and does not name HBM."
+  },
+  {
+    "link_id": "qiangyi_h126_hbm_rd_project_closed",
+    "claim_id": "QIANGYI-H126-P19-HBM-RD",
+    "entity_id": "qiangyi_semiconductor",
+    "category_id": "test_probe_card",
+    "platform_id": "qiangyi_hbm_high_parallel_dram_wafer_probe_card_project",
+    "application_id": "hbm",
+    "source_id": "qiangyi_semiconductor_h1_2026",
+    "page": 19,
+    "excerpt": "项目名称：HBM 高并测 DRAM 晶圆测试探针卡开发；进展或阶段性成果：已结项；拟达到目标：研发用于 DRAM 晶圆测试的探针卡，完成产品开发；具体应用前景：HBM 存储探针卡",
+    "claim_kind": "company_reported",
+    "link_kind": "supplier_capability",
+    "status": "source_checked",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30",
+    "scope_note": "R&D project closed with product development as its target. Purpose statement, not validation success. Cells read from rendered p19, excerpt names the columns."
+  }
+]

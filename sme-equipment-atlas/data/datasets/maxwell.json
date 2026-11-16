@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "maxwell_disclosures",
+    "title": "Maxwell (迈为股份) company disclosures",
+    "kind": "company_filings",
+    "publisher": "maxwell",
+    "version": "w6-maxwell-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally.",
+    "market_definitions": {}
+  }
+]

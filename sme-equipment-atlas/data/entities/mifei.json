@@ -1,0 +1,25 @@
+[
+  {
+    "entity_id": "mifei",
+    "name": "MeetFuture Technology (Shanghai)",
+    "aliases": [
+      "弥费科技（上海）股份有限公司",
+      "弥费科技",
+      "弥费",
+      "MeetFuture Technology（Shanghai）Co.,Ltd.",
+      "MeetFuture",
+      "Mifei",
+      "Mifei Technology (Shanghai) Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "mifei_prospectus_2026",
+      "page": 36,
+      "excerpt": "中文名称 弥费科技（上海）股份有限公司 英文名称 MeetFuture Technology（Shanghai）Co.,Ltd. 注册资本 4,657.9401 万元 法定代表人 缪峰 有限公司成立日期 2014 年 11 月 7 日 股份公司设立日期 2022 年 11 月 22 日 中国（上海）自由贸易试验区临港新片区飞渡路 588 注册地址 号1幢A区 中国（上海）自由贸易试验区临港新片区飞渡路 588 主要生产经营地址 号1幢A区 邮政编码",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Pre-IPO STAR Market applicant (no stock code yet at the filing date); limited company founded 2014-11-07, converted to a joint-stock company 2022-11-22, registered in the Lingang new area of the Shanghai FTZ. Business scope as the filing states it: 公司的主营业务为半导体 AMHS 相关设备、软件及成套系统的研发、生产和销售 — semiconductor fab automated material handling systems comprising 传送设备 (OHT transport, conveyor, AMR, lifter), 存储设备 (wafer/reticle stockers, overhead buffer units, near-tool buffers, electronic racks, tower stockers), 净化设备 (loadport purge) and the MCS control-software stack. It does NOT make wafer-process equipment, metrology, inspection or test equipment.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Mifei'; 'Mifei Technology (Shanghai) Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

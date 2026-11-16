@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "huafeng_annual_disclosures",
+    "title": "Huafeng Test & Control annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "huafeng_test_control",
+    "version": "pilot2-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Store numeric observations and short evidence passages; original PDFs remain local.",
+    "market_definitions": {}
+  }
+]

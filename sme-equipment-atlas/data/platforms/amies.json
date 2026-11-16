@@ -1,0 +1,42 @@
+[
+  {
+    "platform_id": "amies_wafer_level_packaging_stepper",
+    "entity_id": "amies",
+    "category_id": "lithography_packaging",
+    "record_kind": "source_native_family",
+    "name": "晶圆级先进封装光刻机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "AMIES-PRODUCT-WLP-IDENTITY",
+      "source_id": "amies_product_wlp",
+      "page": 1,
+      "excerpt": "主要应用于人工智能及先进智能终端等各种高端芯片封装领域，可满足扇入晶圆级封装（FIWLP）、扇出晶圆级封装（FOWLP）和2.5D/3D等各种晶圆级先进封装的光刻工艺需求。 竞争优势 高分辨率 大曝光视场 工艺适应性强",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogued_product_no_published_specs",
+    "maturity_as_reported_in": "amies_product_wlp",
+    "notes": "AMIES's current wafer-level advanced-packaging exposure tool (fan-in/fan-out WLP, 2.5D/3D), successor product line to SMEE's pre-2025 SSB500 series (AMIES was spun out of SMEE in Feb 2025 -- see amies and smee entity notes; no source states a direct model-for-model lineage, so this is registered as a separate current-generation identity rather than assumed continuity with platform_id smee_ssb500_packaging_stepper). AMIES's page publishes no resolution, overlay, field-size or throughput figure -- qualitative claims only ('高分辨率/大曝光视场/工艺适应性强'). A press-reported cumulative '500th stepper' milestone (delivered 8 Aug 2025 to SJ Semiconductor, STCN/人民财讯) exists for AMIES, but the underlying count explicitly spans lithography tools of any kind delivered historically by SMEE/AMIES combined (the same undifferentiated framing SMEE used for its own 2018 '100th tool' count) and cannot safely be attributed to this specific product family; it is registered instead as a lithography-PARENT-category company-wide ordinal-delivery-milestone observation (AMIES-LITHO-500TH-DELIVERY-2025), not as this platform's maturity history. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '晶圆级先进封装光刻机' and application excerpt (FIWLP/FOWLP/2.5D/3D) confirmed verbatim on amies_product_wlp.html. category_id lithography_packaging correct. reported_maturity 'catalogued_product_no_published_specs' is honest -- the page publishes no resolution/overlay/throughput figure, only qualitative capability language, and the record correctly declines to attribute the press-reported '500th stepper' milestone to this specific family since the underlying count explicitly spans all SMEE+AMIES lithography tools historically, registering it instead as a company-wide lithography-parent observation. No aliases to check."
+  },
+  {
+    "platform_id": "amies_panel_level_packaging_stepper",
+    "entity_id": "amies",
+    "category_id": "lithography_packaging",
+    "record_kind": "source_native_family",
+    "name": "方板先进封装光刻机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "AMIES-PRODUCT-PANEL-IDENTITY",
+      "source_id": "amies_product_panel",
+      "page": 1,
+      "excerpt": "主要应用于扇出面板级封装（FOPLP）、先进IC基板、玻璃基板通孔（TGV）等方板封装领域，可满足图形处理器（GPU）、光电合封（CPO）、高性能射频器件等各种方板级先进封装光刻工艺需求。 竞争优势 大曝光视场 工艺适应性强 可提供量测+光刻一站式解决方案",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "catalogued_product_no_published_specs",
+    "maturity_as_reported_in": "amies_product_panel",
+    "notes": "AMIES's panel-level advanced-packaging exposure tool (fan-out panel-level packaging, advanced IC substrates, glass-core TGV; applications named include GPU and co-packaged optics). Corresponds to the general 'panel stepper' lineage flagged in the microbump_litho step report's gap list, but AMIES's own page does not claim continuity with SMEE's Sept-2021 large-field-stepper announcement (platform_id smee_2021_large_field_packaging_stepper), so the two are registered as distinct records rather than assumed to be the same product under a later name. No shipment, customer or numeric specification published. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Name '方板先进封装光刻机' and application excerpt (FOPLP/TGV/GPU/CPO) confirmed verbatim on amies_product_panel.html. category_id lithography_packaging correct. reported_maturity 'catalogued_product_no_published_specs' honest, no shipment/customer/spec claimed. Record correctly declines to assert continuity with SMEE's 2021 large-field packaging stepper announcement since no source states that lineage. No aliases to check."
+  }
+]

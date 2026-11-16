@@ -1,0 +1,65 @@
+[
+  {
+    "platform_id": "wuxi_shangji_pvd_family",
+    "entity_id": "wuxi_shangji",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "无锡尚积 PVD 设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "shangji-pvd-maturity",
+      "source_id": "piotech_shangji_restructuring_draft_20261015",
+      "page": 229,
+      "excerpt": "应用于晶圆制造金属互联工艺和存储先进封装金属化工艺的 PVD 设备已发货客户端",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "PVD equipment for wafer-manufacturing metal interconnect and memory advanced-packaging metallisation shipped to customer sites; no completed validation or production use stated",
+    "maturity_as_reported_in": "piotech_shangji_restructuring_draft_20261015",
+    "notes": "Source-native PVD family, identified in the draft at physical pp18 and 228-229; alias PVD 设备 is printed in the p229 product table. Physical p229 explicitly reports PVD equipment shipped to customer sites for wafer-manufacturing interconnect and memory advanced-packaging metallisation; shipment is not completed customer validation or production use, and memory packaging is not stated to be HBM. Physical p32 reports 6/8-inch batch sales and 12-inch development/delivery/validation for Shangji equipment collectively; it does not allocate those stages to PVD and is retained as unallocated company-level context only.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "wuxi_shangji_dry_etch_family",
+    "entity_id": "wuxi_shangji",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "无锡尚积干法刻蚀设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "shangji-etch-maturity",
+      "source_id": "piotech_shangji_restructuring_draft_20261015",
+      "page": 18,
+      "excerpt": "刻蚀领域目前聚焦干法刻蚀设备，主要应用于 MEMS 领域，并逐渐向功率器件、射频器件、先进封装等领域拓展。",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "Mainly MEMS; extending to power, RF and advanced packaging",
+    "maturity_as_reported_in": "piotech_shangji_restructuring_draft_20261015",
+    "notes": "Etch is not yet a broad front-end product.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "wuxi_shangji_cvd_family",
+    "entity_id": "wuxi_shangji",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "无锡尚积 CVD 设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "shangji-cvd-sales",
+      "source_id": "piotech_shangji_restructuring_draft_20261015",
+      "page": 235,
+      "excerpt": "（2）主要产品产销情况；列：项目（台）、2026 年 1-6 月、2025 年度、2024 年度；CVD 设备：产量 1、3、1；销量 2、1、0",
+      "status": "source_checked",
+      "reviewer": "astra_data_wave_2026_10_verifier",
+      "review_date": "2026-10-30"
+    },
+    "reported_maturity": "Small sales from 2025",
+    "maturity_as_reported_in": "piotech_shangji_restructuring_draft_20261015",
+    "notes": "Unit counts from the p235 table. The valuation report (p24-25) describes PECVD and ICPCVD tools; the draft calls the class CVD.",
+    "maturity_history": []
+  }
+]

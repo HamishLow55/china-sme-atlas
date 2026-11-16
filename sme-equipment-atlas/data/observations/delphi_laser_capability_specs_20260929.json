@@ -1,0 +1,50 @@
+[
+  {
+    "observation_id": "delphi_silicon_stealth_dicer_supported_wafer_thickness",
+    "dataset_id": "delphi_laser_disclosures",
+    "source_id": "delphi_laser_2025",
+    "entity_id": "delphi_laser",
+    "category_id": "dicing_laser",
+    "reporting_scope_id": "delphi_silicon_wafer_laser_stealth_dicing_equipment",
+    "metric_id": "reported_supported_wafer_thickness_range",
+    "platform_id": "",
+    "value": "35",
+    "relation": "range",
+    "unit": "micrometre",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "period_status"
+    },
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "delphi_laser_2025"
+    },
+    "evidence": {
+      "page": 16,
+      "original_label": "硅晶圆激光隐切设备 适用超薄晶圆厚度范围",
+      "excerpt": "薄研磨→晶圆在应力作用下自动分离成单芯片。这种方式不仅避免了对超薄晶圆的机械应力影响， ¦ 也显著减少了崩边与微裂纹，实现更高良率、更清洁的分割效果。因此，SDBG 技术正成为 3D ¦ NAND、DRAM、CIS 及高端逻辑芯片等领域的主流制程方案。 ¦ 德龙激光推出自主研发的硅晶圆激光隐切设备。该设备针对 12 英寸硅存储芯片研发，全面支 ¦ 持 SDAG（Stealth Dicing After Grinding）与 SDBG 工艺，特别适用于厚度 35～85μm 的超薄晶圆",
+      "status": "source_checked",
+      "reviewer": "claude_resweep_independent_verifier",
+      "review_date": "2026-09-29",
+      "independent_corroboration": false,
+      "reported_value": "35",
+      "reported_unit": "micrometre",
+      "reported_upper_value": "85"
+    },
+    "claim_kind": "company_reported",
+    "precision": "as_reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Ultra-thin wafer thickness window the issuer states its silicon wafer laser stealth dicing equipment is particularly suited to, for stealth dicing and pre-thinning processing. A workpiece compatibility window, not a thickness the tool achieves. The tool is stated to target 12-inch silicon memory wafers and to support both SDAG and SDBG process routes, and the issuer reports a first domestic volume-production order from a leading domestic memory maker, which carries no figure and is not recorded. The excerpt reproduces the source’s own consecutive text lines, joined with ¦ to mark each line break; the separator is editorial.",
+    "date_basis": "inferred_from_reporting_period",
+    "upper_value": "85"
+  }
+]

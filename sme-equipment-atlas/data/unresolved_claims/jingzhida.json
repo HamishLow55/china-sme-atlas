@@ -1,0 +1,24 @@
+[
+  {
+    "claim_id": "jingzhida_refinancing_2026_hbm_cp_ft_disclosure_limit",
+    "claim": "Detailed memory CP/FT industrialization and HBM-test R&D progress",
+    "source_id": "jingzhida_refinancing_inquiry_reply_2026",
+    "pages_reviewed": [
+      13,
+      18,
+      21,
+      22,
+      26
+    ],
+    "reason": "Current CP/FT industrialization and detailed HBM R&D progress/technical hurdles tables state 已申请豁免披露. Burn-in/repair mass-production claim belongs to a distinct existing-business row. Do not infer HBM qualification or CP/FT acceptance from that row, or override older model-specific FT delivery evidence."
+  },
+  {
+    "claim_id": "jingzhida_refinancing_2026_projected_units_prices_withheld",
+    "claim": "Projected product units, unit prices and order-price inputs",
+    "source_id": "jingzhida_refinancing_inquiry_reply_2026",
+    "pages_reviewed": [
+      50
+    ],
+    "reason": "Project T+7 target sales quantities and price inputs are explicitly 已申请豁免披露. These are projected values, not actual shipments or installations. FT price-basis narrative permits on-hand OR intention orders, so it does not establish binding order value; p32 intention orders are likewise non-binding. Display-inspection counts p58 excluded."
+  }
+]

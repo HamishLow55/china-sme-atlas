@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "precisionext_disclosures",
+    "title": "PrecisioNext public disclosures",
+    "kind": "company_filings",
+    "publisher": "precisionext",
+    "version": "w13-2026-10-07",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Short evidence passages from the company's own website and third-party press relaying company statements; originals (archived HTML) held locally.",
+    "market_definitions": {}
+  }
+]

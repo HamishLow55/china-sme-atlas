@@ -1,0 +1,415 @@
+[
+  {
+    "target_id": "jingyi-unit-sales",
+    "task_id": "cmp_challengers",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "metric_id": "sales_volume",
+    "period_start": "2021-01-01",
+    "period_end": "2026-09-21",
+    "status": "unresolved",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [],
+    "next_action": "Extract pp36 onward grouped 8-inch sales with time periods; do not split grouped model totals. Historical coverage ends at Jan2024 disclosure."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-001",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-09-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-001",
+      "jingyi2024-financial-002",
+      "jingyi2024-financial-003",
+      "jingyi2024-financial-004",
+      "jingyi2024-financial-013",
+      "jingyi2024-financial-014"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-002",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "operating_cash_flow",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-09-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-005",
+      "jingyi2024-financial-006",
+      "jingyi2024-financial-007",
+      "jingyi2024-financial-008",
+      "jingyi2024-financial-017",
+      "jingyi2024-financial-018"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-003",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "rd_expense",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-009",
+      "jingyi2024-financial-010",
+      "jingyi2024-financial-011",
+      "jingyi2024-financial-012"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-004",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "company",
+    "platform_id": "",
+    "metric_id": "net_profit",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "all_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2022-01-01",
+    "period_end": "2023-09-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-015",
+      "jingyi2024-financial-016"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-005",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-12-31",
+    "period_end": "2023-07-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-019",
+      "jingyi2024-financial-020",
+      "jingyi2024-financial-021",
+      "jingyi2024-financial-022"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-006",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_6_8inch_compatible",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-12-31",
+    "period_end": "2023-07-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-023",
+      "jingyi2024-financial-024",
+      "jingyi2024-financial-025",
+      "jingyi2024-financial-026"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-007",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_12inch",
+    "platform_id": "",
+    "metric_id": "order_backlog",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2022-12-31",
+    "period_end": "2023-07-31",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-027",
+      "jingyi2024-financial-028"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-008",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch_hjp200_horizon_grouped",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-029"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-009",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch_hjp200_horizon_grouped",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-030"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-010",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch_horizon_plus",
+    "platform_id": "jingyi_horizon_plus",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-031"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-011",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch_horizon_plus",
+    "platform_id": "jingyi_horizon_plus",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-032"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-012",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch",
+    "platform_id": "",
+    "metric_id": "sales_volume",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "not_applicable",
+      "price_basis": "not_applicable",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "not_applicable",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-033"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  },
+  {
+    "target_id": "jingyi-inquiry-2024-financial-013",
+    "task_id": "jingyi_inquiry_2024_financial",
+    "entity_id": "jingyi_jingwei",
+    "category_id": "cmp",
+    "reporting_scope_id": "jingyi_cmp_8inch",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "dimensions": {
+      "geography": "all_reported_geographies",
+      "geography_basis": "source_reporting_scope",
+      "revenue_basis": "issuer_reported_financial_metric",
+      "price_basis": "nominal",
+      "equipment_condition": "source_reported",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "financial_statement_basis",
+      "reporting_vintage": "jingyi_january_2024_inquiry_reply"
+    },
+    "period_start": "2020-01-01",
+    "period_end": "2023-06-30",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "jingyi_inquiry_2024"
+    ],
+    "observation_ids": [
+      "jingyi2024-financial-034"
+    ],
+    "next_action": "Review remaining inquiry and held prospectus tables; preserve issuer vintages and exact equipment group boundaries."
+  }
+]

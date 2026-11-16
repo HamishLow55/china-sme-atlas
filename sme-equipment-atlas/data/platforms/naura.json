@@ -1,0 +1,4059 @@
+[
+  {
+    "platform_id": "naura_naura_2025_etch_01",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸电感耦合等离子体刻蚀设备（ICP）",
+    "aliases": [
+      "12 英寸电感耦合等离子体刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_01",
+      "source_id": "naura_2025",
+      "page": 19,
+      "excerpt": "12 英寸电感                 主要用于 12 英寸逻辑、存储等领域浅沟槽隔离刻蚀、栅极刻蚀、侧墙刻蚀、\n耦合等离子                   金属硬掩膜刻蚀、高 k 值介质刻蚀、钨/钛/钽等金属及其化合物刻蚀等工艺。\n体刻蚀设备                   该设备具备高密度电感耦合脉冲等离子体源、多温区静电卡盘、双层结构防护\n  （ICP）                 涂层等核心技术，实现了各技术节点的工艺突破。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY25-NODE-UNSPECIFIED",
+        "source_id": "naura_2025",
+        "page": 19,
+        "excerpt": "12 英寸电感                 主要用于 12 英寸逻辑、存储等领域浅沟槽隔离刻蚀、栅极刻蚀、侧墙刻蚀、\n耦合等离子                   金属硬掩膜刻蚀、高 k 值介质刻蚀、钨/钛/钽等金属及其化合物刻蚀等工艺。\n体刻蚀设备                   该设备具备高密度电感耦合脉冲等离子体源、多温区静电卡盘、双层结构防护\n  （ICP）                 涂层等核心技术，实现了各技术节点的工艺突破。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "claims_process_breakthroughs_at_unspecified_technology_nodes",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source says 各技术节点 and gives no numerical node; do not set process_node fields or infer one from 12-inch wafer size."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_02",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸深硅刻蚀设备（ICP）",
+    "aliases": [
+      "12 英寸深硅刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_02",
+      "source_id": "naura_2025",
+      "page": 19,
+      "excerpt": "主要用于 2.5D、3D 先进封装硅通孔及集成电路领域深槽刻蚀。该设备具备快\n12 英寸深硅\n                        速气体和射频切换控制系统，优异的实时控制性能，在高深宽比深硅刻蚀中可\n 刻蚀设备\n                        精确控制侧壁形貌，大幅提升刻蚀速率，实现侧壁无损伤和线宽无损失刻蚀效\n  （ICP）\n                        果。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-18-02",
+        "source_id": "naura_2024",
+        "page": 18,
+        "excerpt": "主要用于 2.5D、3D 先进封装硅通孔及集成电路领域深槽刻蚀。该设备具备快\n12 英寸深硅\n                      速气体和射频切换控制系统，优异的实时控制性能，在高深宽比深硅刻蚀中可\n 刻蚀设备\n                      精确控制侧壁形貌，大幅提升刻蚀速率，实现侧壁无损伤和线宽无损失刻蚀效\n  （ICP）\n                      果。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_03",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸介质刻蚀设备（CCP）",
+    "aliases": [
+      "12 英寸介质刻蚀设备（CCP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_03",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "12 英寸介质             主要用于逻辑芯片大马士革介质刻蚀、存储芯片台阶介质刻蚀、图形介质刻蚀\n 刻蚀设备               等工艺。该设备具备顶部直流反向电压系统，腔体自清洁工艺，腔体内部绝缘\n （CCP）              材料控制等关键技术，满足多种技术代制程工艺的需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-01",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "12 英寸介质            主要用于逻辑芯片大马士革介质刻蚀、存储芯片台阶介质刻蚀、图形介质刻蚀\n 刻蚀设备              等工艺。该设备具备顶部直流反向电压系统，腔体自清洁工艺，腔体内部绝缘\n （CCP）             材料控制等关键技术，满足多种技术代制程工艺的需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      },
+      {
+        "claim_id": "N2023-OPS-012",
+        "source_id": "naura_2023",
+        "page": 16,
+        "excerpt": "2021 年，北方华创开始着力进行介质刻蚀设备研发，致力于攻克 12 英寸关键介质刻蚀工\n艺应用，支撑客户持续创新。凭借多年积累的核心技术以及对刻蚀领域的深刻理解，北方华创先后突破了 CCP 领域等离子\n体产生与控制、腔室设计与仿真模拟、低温静电卡盘、高功率等离子馈入等多项关键技术，建立起核心技术优势。截至目\n前，北方华创集成电路领域 CCP 介质刻蚀设备实现了逻辑、存储、功率半导体等领域多个关键制程的覆盖，为国内主流客\n户提供了稳定、高效的生产保障，赢得客户信赖和认可。截至 2023 年底，北方华创 CCP 刻蚀设备已累计出货超 100 腔。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reports_key_logic_memory_and_power_process_coverage_and_customer_use",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report says 截至目前 without an exact date. Twelve-inch CCP dielectric family identity is explicit; do not infer a numerical process node or shipment from this maturity record."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_04",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸高深宽比电容耦合等离子体刻蚀设备（CCP）",
+    "aliases": [
+      "12 英寸高深宽比电容耦合等离子体刻蚀设备（CCP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_04",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "12 英寸高深\n宽比电容耦               主要用于高深宽比介质深孔刻蚀。该设备配置超高功率射频电源，可激发高能\n合等离子体               量等离子体，并开发了低温刻蚀和多重脉冲技术，满足更高深宽比刻蚀工艺要\n 刻蚀设备               求。\n （CCP）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-02",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "12 英寸高深            主要用于高深宽比介质深孔刻蚀。该设备配置超高功率射频电源，可激发高能\n宽比刻蚀设              量等离子体，并开发了低温刻蚀和多重脉冲技术，满足更高深宽比刻蚀工艺要\n备（CCP）             求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_05",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "12 英寸晶边刻蚀设备（Bevel Etch）",
+    "aliases": [
+      "12 英寸晶边刻蚀设备（Bevel Etch）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_05",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "12 英寸晶边\n                    主要用于晶圆边缘氧化硅、氮化硅、碳、金属等多类型膜层去除工艺。通过对\n 刻蚀设备\n                    等离子刻蚀区域精准控制，可视化调节位置，有效提升边缘良率。该设备已完\n  （Bevel\n                    成各技术代的产品线应用。\n   Etch）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-03",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "12 英寸晶边            主要用于晶圆边缘 SiO2、Si2N3、Carbon、Metal 等多类型膜层去除工艺。通过\n 刻蚀设备              对等离子刻蚀区域精准控制，可视化调节位置，有效提升边缘良率。该设备已\n （Bevel）           完成各技术代的产品线应用，成为业界首选机型。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      },
+      {
+        "claim_id": "naura_fy2022_naura_2025_etch_05",
+        "source_id": "naura_2022",
+        "page": 14,
+        "excerpt": "应用于提升芯片良率的 12 吋 CCP 晶边刻蚀机已进入多家生产线验证",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "12-inch CCP bevel etcher entered validation at multiple production lines; validation is not accepted production use.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Root checked source text and family mapping. Historical claim attaches to an existing generic family; no equivalence to a later named model, exact event date, node allocation or independent corroboration inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_06",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "12 英寸高选择性化学刻蚀设备",
+    "aliases": [
+      "12 英寸高选择性化学刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_06",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "12 英寸高选             主要用于 12 英寸逻辑、存储芯片等领域气体化学反应刻蚀。通过气体匀流、\n择性化学刻               腔室温度的控制、超洁净腔室处理、单腔双晶圆同时刻蚀等核心技术，实现高\n  蚀设备               端制程适配与大规模量产能力。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-04",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "12 英寸高选            主要用于 12 英寸逻辑、存储芯片等领域气体化学反应刻蚀。通过气体匀流、\n择性化学刻              腔室温度的控制、超洁净腔室处理、单腔双晶圆同时刻蚀等核心技术，实现高\n  蚀设备              制程、大产能。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_07",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "12 英寸高选择性等离子刻蚀设备",
+    "aliases": [
+      "12 英寸高选择性等离子刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_07",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "12 英寸高选             主要用于 12 英寸逻辑、存储等领域高选择比、低损伤刻蚀。该设备具备高密\n择性等离子               度等离子发生装置及优良的离子过滤能力，配置多温区静电卡盘等功能，实现\n 刻蚀设备               了超高选择比、无离子损伤刻蚀工艺。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-05",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "12 英寸高选            主要用于 12 英寸逻辑、存储等领域高选择比、低损伤刻蚀。该设备具备高密\n择性等离子              度等离子发生装置及优良的离子过滤能力，配置多温区静电卡盘等功能，实现\n 刻蚀设备              了超高选择比、无离子损伤刻蚀工艺。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_08",
+    "entity_id": "naura",
+    "category_id": "strip_dry",
+    "record_kind": "source_native_family",
+    "name": "12 英寸等离子去胶设备",
+    "aliases": [
+      "12 英寸等离子去胶设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_08",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "主要用于 12 英寸逻辑、存储等领域干法去胶工艺。该设备配置高密度低损伤\n12 英寸等离             等离子源，实现高去胶速率的同时控制对晶圆表面的损伤，在高剂量离子注入\n子去胶设备               后的去胶、新型材料去胶、3D 立体结构及高深宽比聚合物去除等方面技术领\n                    先，并具备更长的使用周期及更低的拥有成本、维护成本。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-06",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "主要用于 12 英寸逻辑、存储等领域干法去胶工艺。该设备配置高密度低损伤\n12 英寸干法            等离子源，实现高去胶速率的同时控制对晶圆表面的损伤，在高剂量离子注入\n 去胶设备              后的去胶、新型材料去胶、3D 立体结构及高深宽比 Polymer（聚合物）去除等\n                   方面技术领先，并具备更长的使用周期及更低的拥有成本、维护成本。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      },
+      {
+        "claim_id": "N2023-OPS-015",
+        "source_id": "naura_2023",
+        "page": 17,
+        "excerpt": "胶的技术难度不断增加。北方华创凭借深厚的等离子源开发及应用经验，自主设计开发了低损伤等离子源，克服了 O2、\nH2、NH3 等去胶的各种技术难点，在高剂量离子注入后的去胶、新型材料去胶、高深宽比聚合物去除等方面取得了技术领\n先优势。同时，优化了干法去胶设备在维护、量产方面的性能，开发了真空和大气双配置传输平台，在保证技术领先的同\n时，使客户拥有更长的使用周期及更低的拥有成本（COO）、消耗成本（COC），受到客户广泛认可，形成了批量销售。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_sales_reported_for_dry_strip_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 source explicitly calls dry strip plasma strip/ashing in section context; FY2024 and FY2025 table labels identify the same source-defined dry-strip family. This does not establish a commercial-model count."
+      },
+      {
+        "claim_id": "naura_fy2022_naura_2025_etch_08",
+        "source_id": "naura_2022",
+        "page": 14,
+        "excerpt": "采用高密度、低损伤设计的 12 吋等离子去胶机已在多家客户完成工艺验证并量产",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "12-inch low-damage plasma stripping passed process validation and entered mass production at multiple customers.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Root checked source text and family mapping. Historical claim attaches to an existing generic family; no equivalence to a later named model, exact event date, node allocation or independent corroboration inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_09",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "8 英寸导体刻蚀设备（ICP）",
+    "aliases": [
+      "8 英寸导体刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_09",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "8 英寸导体\n                    主要用于多晶硅栅极、接触孔、浅槽隔离、深槽、金属硅化物栅极、悬浮栅、\n 刻蚀设备\n                    回刻蚀工艺，以及金属铝和钨的刻蚀工艺等。\n （ICP）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-07",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "8 英寸导体\n                   主要用于多晶硅栅极、接触孔、浅槽隔离、深槽、金属硅化物栅极、悬浮栅、\n 刻蚀设备\n                   回刻蚀工艺，以及金属铝和钨的刻蚀工艺等。\n （ICP）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_10",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "record_kind": "source_native_family",
+    "name": "8 英寸介质刻蚀设备（CCP）",
+    "aliases": [
+      "8 英寸介质刻蚀设备（CCP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_10",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "8 英寸介质\n                    主要用于 SiO2、Si3N4 等介质材料的刻蚀，工艺类型覆盖前道和后道所有介质\n 刻蚀设备\n                    刻蚀。\n （CCP）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-08",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "8 英寸介质\n                   主要用于 SiO2、Si2N3 等介质材料的刻蚀，工艺类型覆盖前道和后道所有介质\n 刻蚀设备\n                   刻蚀。\n （CCP）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_11",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "8 英寸化合物刻蚀设备（ICP）",
+    "aliases": [
+      "8 英寸化合物刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_11",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "8 英寸化合\n物刻蚀设备               主要用于 GaN、SiC、Al2O3 等化合物材料的刻蚀。\n （ICP）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-09",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "8 英寸化合\n物刻蚀设备              主要用于 GaN、SiC、Al2O3 等化合物材料的刻蚀。\n （ICP）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_etch_12",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "LED 刻蚀设备（ICP）",
+    "aliases": [
+      "LED 刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_etch_12",
+      "source_id": "naura_2025",
+      "page": 20,
+      "excerpt": "LED 刻蚀设             主要用于 LED 芯片 PSS、GaN 等材料的刻蚀，适用于 Mini LED、Micro LED\n备（ICP）              等各个技术制程。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-19-10",
+        "source_id": "naura_2024",
+        "page": 19,
+        "excerpt": "LED 刻蚀设            主要用于 LED 芯片 PSS、GaN 等材料的刻蚀，适用于 Mini-LED、Micro-LED\n备（ICP）             等各个技术制程。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_01",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸集成电路金属沉积设备（PVD）",
+    "aliases": [
+      "12 英寸集成电路金属沉积设备（PVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_01",
+      "source_id": "naura_2025",
+      "page": 21,
+      "excerpt": "主要用于 12 英寸逻辑、存储芯片 Cu（铜）互连、Al Pad（铝垫层）、\n12 英寸集成电                  Metal Hard Mask（金属硬掩膜）、Metal Gate（金属栅）、Silicide（硅化\n路金属沉积设                    物）等金属化制程工艺。该设备先后突破了磁控溅射源设计、等离子体产\n 备（PVD）                   生及控制、腔室设计与颗粒控制、软件控制等多项关键技术，实现了对逻\n                          辑和存储芯片制程的全覆盖。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-01",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "产品类别         图示                            应用介绍\n\n                       主要用于 12 英寸逻辑、存储芯片 Cu（铜）互连、Al Pad（铝垫层）、\n12 英寸集成电               Metal Hard Mask（金属硬掩膜）、Metal Gate（金属栅）、Silicide（硅化\n路金属沉积设                 物）等金属化制程工艺。该设备先后突破了磁控溅射源设计、等离子体产\n 备（PVD）                生及控制、腔室设计与颗粒控制、软件控制等多项关键技术，实现了对逻\n                       辑和存储芯片的全覆盖。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      },
+      {
+        "claim_id": "naura_fy2022_naura_2025_thin_film_deposition_01",
+        "source_id": "naura_2022",
+        "page": 13,
+        "excerpt": "12 吋先进集成电路制程金属化薄膜沉积(Metal PVD)设备实现了量产突破，荣获 2022 年北京市科技进步\n奖一等奖。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "12-inch advanced-IC Metal PVD achieved mass-production breakthrough; supplier claim, no tool count.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Root checked source text and family mapping. Historical claim attaches to an existing generic family; no equivalence to a later named model, exact event date, node allocation or independent corroboration inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_02",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸先进封装金属沉积设备（PVD）",
+    "aliases": [
+      "12 英寸先进封装金属沉积设备（PVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_02",
+      "source_id": "naura_2025",
+      "page": 21,
+      "excerpt": "12 英寸先进封                  主要用于先进封装工艺中 Ti、Cu 等材料的沉积。该产品具备低温、低损\n装金属沉积设                    伤、高覆盖率等核心优势技术，应用于先进封装 UBM、RDL、TSV 工艺的\n 备（PVD）                   量产，为先进封装行业提供了稳定、高效的生产保障。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY25-PVD-PACKAGING",
+        "source_id": "naura_2025",
+        "page": 21,
+        "excerpt": "12 英寸先进封                  主要用于先进封装工艺中 Ti、Cu 等材料的沉积。该产品具备低温、低损\n装金属沉积设                    伤、高覆盖率等核心优势技术，应用于先进封装 UBM、RDL、TSV 工艺的\n 备（PVD）                   量产，为先进封装行业提供了稳定、高效的生产保障。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_claims_advanced_packaging_ubm_rdl_tsv_production_use",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Specific 12-inch advanced-packaging PVD row; production-use assertion is not an independent customer qualification or shipment count."
+      },
+      {
+        "claim_id": "FY24-ROSTER-20-02",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "12 英寸先进封               主要用于先进封装工艺中 Ti、Cu 等材料的沉积。该产品具备低温、低损\n装金属沉积设                 伤、高覆盖率等核心优势技术，应用于先进封装 UBM、RDL、TSV 工艺\n 备（PVD）                的量产，为先进封装行业提供了稳定、高效的生产保障。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_03",
+    "entity_id": "naura",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "12 英寸介质原子层沉积设备（D-ALD）",
+    "aliases": [
+      "12 英寸介质原子层沉积设备（D-ALD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_03",
+      "source_id": "naura_2025",
+      "page": 21,
+      "excerpt": "该产品包括热式原子层沉积设备（Thermal ALD）和等离子增强型原子层\n12 英寸介质原                  沉积设备（PE ALD），主要用于 12 英寸存储芯片金属氧化物薄膜、金属\n子层沉积设备                    前介质层、硬掩膜层、钝化层、金属连线介质隔离等薄膜沉积，以及先进\n （D-ALD）                  封装 Liner 层沉积。该设备具备良好的薄膜均匀性、优异的台阶覆盖率及快\n                          速且精准的前驱体控制系统，为客户提供高质量的介质薄膜沉积解决方",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The D-ALD description continues with the final character 案。 on physical p22; the evidence excerpt preserves the complete p21 row block.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-03",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "该产品包括热式原子层沉积设备（Thermal ALD）和等离子增强型原子层\n                       沉积设备（PE ALD），主要用于 12 英寸存储芯片金属氧化物薄膜、金属\n12 英寸介质原\n                       前介质层、硬掩膜层、钝化层、金属连线介质隔离等薄膜沉积，以及先进\n子层沉积设备\n                       封装 Liner 层沉积。该设备具备良好的薄膜均匀性、优异的台阶覆盖率及\n （D-ALD）\n                       快速且精准的前驱体控制系统，为客户提供高质量的介质薄膜沉积解决方\n                       案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_04",
+    "entity_id": "naura",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "12 英寸金属栅极原子层沉积系统（MG ALD）",
+    "aliases": [
+      "12 英寸金属栅极原子层沉积系统（MG ALD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_04",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸金属栅           12 英寸金属栅极原子层沉积（MG ALD）设备包含氮化钛（ALD TiN）、\n极原子层沉积             钛铝合金（ALD TiAl）和氮化钽（ALD TaN）三种机型，涵盖先进工艺金\n    系统             属栅极功函数层及刻蚀阻挡层薄膜的沉积。设备采用将多种前驱体循环通\n（MG ALD）           入腔室的方式，实现薄膜的逐层生长以及高精度的厚度和均匀性控制。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-04",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "12 英寸金属栅\n                       该设备主要用于先进工艺金属栅极及刻蚀阻挡层薄膜的原子层沉积。设备\n极原子层沉积\n                       独特采用将多种前驱体循环通入腔室的方式，实现薄膜的逐层生长以及高\n    系统\n                       精度的厚度和均匀性控制。\n （M-ALD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_05",
+    "entity_id": "naura",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "12 英寸管式原子层沉积设备（Tube ALD）",
+    "aliases": [
+      "12 英寸管式原子层沉积设备（Tube ALD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_05",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸管式原           主要用于 12 英寸逻辑、存储芯片氮化硅、氧化硅、低介电常数介质、高介\n子层沉积设备             电常数介质及氮化钛薄膜沉积工艺，具备精准控温、控压及批量式晶圆处\n（Tube ALD）         理能力等优势，可实现高质量、高均匀性、高台阶覆盖率薄膜沉积。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-05",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "12 英寸管式原               主要用于 12 英寸逻辑、存储芯片氮化硅、氧化硅、Low-k 介质、High-k 介\n子层沉积设备                 质及氮化钛薄膜沉积工艺，具备精准控温、控压及批量式晶圆处理能力等\n（Tube ALD）             优势，可实现高质量、高均匀性、高台阶覆盖率薄膜沉积。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_06",
+    "entity_id": "naura",
+    "category_id": "deposition_pecvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸等离子体增强化学气相沉积设备（PECVD）",
+    "aliases": [
+      "12 英寸等离子体增强化学气相沉积设备（PECVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_06",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸等离子           主要用于 12 英寸逻辑、存储芯片氧化硅、氮化硅、氮氧化硅、碳氧化硅、\n体增强化学气             碳氮化硅等多种高品质介质薄膜沉积，可满足对钝化层、隔离层、抗反射\n 相沉积设备             层、刻蚀停止层等多样化的应用需求。该设备可实现高均匀性、高产能的\n （PECVD）           薄膜沉积，工艺一致性更好、可靠性更高。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-06",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "12 英寸等离子               主要用于 12 英寸逻辑、存储芯片氧化硅、氮化硅、氮氧化硅、碳氧化\n体增强化学气                 硅、碳氮化硅等多种高品质介质薄膜沉积，可满足对钝化层、隔离层、抗\n 相沉积设备                 反射层、刻蚀停止层等多样化的应用需求。该设备可实现高均匀性、高产\n （PECVD）               能的薄膜沉积，工艺一致性更好、可靠性更高。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_07",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸高密度等离子体化学气相沉积设备（HDPCVD）",
+    "aliases": [
+      "12 英寸高密度等离子体化学气相沉积设备（HDPCVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_07",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸高密度\n                   主要用于 12 英寸逻辑、存储芯片介质填充工艺。该设备通过同时进行沉积\n等离子体化学\n                   和刻蚀的工艺方式，有效完成高深宽比沟槽的介质填充，具备高沉积速\n气相沉积设备\n                   率、优异的填孔能力和高致密的薄膜质量等优势。\n（HDPCVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-20-07",
+        "source_id": "naura_2024",
+        "page": 20,
+        "excerpt": "12 英寸高密度\n                       主要用于 12 英寸逻辑、存储芯片介质填充工艺。该设备通过同时进行沉\n等离子体化学\n                       积和刻蚀的工艺方式，有效完成高深宽比沟槽的介质填充，具备高沉积速\n气相沉积设备\n                       率、优异的填孔能力和高致密的薄膜质量等优势。\n（HDPCVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_08",
+    "entity_id": "naura",
+    "category_id": "deposition_lpcvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸低压化学气相沉积设备（LPCVD）",
+    "aliases": [
+      "12 英寸低压化学气相沉积设备（LPCVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_08",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸低压化\n                   主要用于 12 英寸逻辑、存储芯片接触孔和通孔填充。该设备通过精确的温\n学气相沉积设\n                   度、气体脉冲时间和压力控制，实现高深宽比结构填充需求。\n备（LPCVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-01",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "12 英寸低压化\n                     主要用于 12 英寸逻辑、存储芯片接触孔和通孔填充。该设备通过精确的\n学气相沉积设\n                     温度、气体脉冲时间和压力控制，实现高深宽比结构填充需求。\n备（LPCVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_09",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸管式化学气相沉积设备（Tube CVD）",
+    "aliases": [
+      "12 英寸管式化学气相沉积设备（Tube CVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_09",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸管式化\n                   主要用于 12 英寸逻辑、存储芯片氮化硅、氧化硅、多晶硅及非晶硅沉积工\n学气相沉积设\n                   艺。该设备凭借先进的控温技术及腔室气流特性优化设计，实现在平面和\n    备\n                   复杂立体结构的精确薄膜沉积，并具备优异的均匀性和台阶覆盖能力。\n（Tube CVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-02",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "12 英寸管式化\n                     主要用于 12 英寸逻辑、存储芯片氮化硅、氧化硅、多晶硅及非晶硅沉积\n学气相沉积设\n                     工艺。该设备凭借先进的控温技术及腔室气流特性优化设计，实现在平面\n    备\n                     和复杂立体结构的精确薄膜沉积，并具备优异的均匀性和台阶覆盖能力。\n（Tube CVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_10",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "12 英寸外延设备（EPI）",
+    "aliases": [
+      "12 英寸外延设备（EPI）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_10",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "12 英寸外延设           该设备包括常压外延设备和减压外延设备。常压外延设备主要用于 12 英寸\n    备              硅外延生长，减压外延设备主要用于减压选择性外延工艺。该设备工艺性\n   （EPI）           能优异，实现了外延领域设备和工艺的全面覆盖。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-03",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "该设备包括常压外延设备和减压外延设备。常压外延设备主要用于 12 英\n12 英寸外延设\n                     寸硅外延片和功率器件外延生长，减压外延设备主要用于集成电路制造中\n    备\n                     的减压选择性外延工艺。该设备工艺性能达到了国际主流水平，实现了外\n   （EPI）\n                     延领域设备和工艺的全面覆盖，是国内扩产的首选机台。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_11",
+    "entity_id": "naura",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸电镀设备（ECP）",
+    "aliases": [
+      "12 英寸电镀设备（ECP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_11",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "该设备通过电解原理在晶圆表面沉积金属互连层，是集成电路和先进封装\n12 英寸电镀设           （如硅通孔、扇出型封装）的核心装备。该设备通过实时优化电场、流\n 备（ECP）            场、药液浓度等电镀参数，减少缺陷，提高芯片良率和可靠性，实现高深\n                   宽比硅通孔填充。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-04",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "2025 年 3 月正式发布。该设备通过电解原理在晶圆表面沉积金属互连层，\n12 英寸电镀设             是集成电路和先进封装（如 TSV、Fan-Out）的核心装备。该设备通过实\n 备（ECP）              时优化电场、流场、药液浓度及电镀参数，减少缺陷，提高芯片良率和可\n                     靠性，实现高深宽比 TSV 填充。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "released_march_2025",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Table states formal release in March 2025, after FY2024 year-end; do not infer a FY2024 sale or assign an invented day."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_12",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "8 英寸物理气相沉积设备（PVD）",
+    "aliases": [
+      "8 英寸物理气相沉积设备（PVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_12",
+      "source_id": "naura_2025",
+      "page": 22,
+      "excerpt": "8 英寸物理气\n                   主要用于 8 英寸晶圆多种金属薄膜沉积工艺。广泛应用于集成电路、化合\n 相沉积设备\n                   物半导体、功率半导体、半导体照明、硅基微型显示、科研等领域。\n  （PVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-05",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "8 英寸物理气\n                     主要用于 8 英寸晶圆多种金属薄膜沉积工艺。广泛应用于集成电路、化合\n 相沉积设备\n                     物半导体、功率半导体、半导体照明、硅基微型显示、科研等领域。\n  （PVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_13",
+    "entity_id": "naura",
+    "category_id": "deposition_pecvd",
+    "record_kind": "source_native_family",
+    "name": "8 英寸等离子增强化学气相沉积设备（PECVD）",
+    "aliases": [
+      "8 英寸等离子增强化学气相沉积设备（PECVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_13",
+      "source_id": "naura_2025",
+      "page": 23,
+      "excerpt": "8 英寸等离子\n                         主要用于氧化硅、氮化硅、氮氧化硅、磷硅玻璃、硼磷硅玻璃等薄膜沉积\n增强化学气相\n                         工艺。广泛应用于集成电路、化合物半导体、功率半导体、半导体照明、\n  沉积设备\n                         硅基微型显示、科研等领域。\n（PECVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-06",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "8 英寸等离子\n                     主要用于氧化硅、氮化硅、氮氧化硅、磷硅玻璃、硼磷硅玻璃等薄膜沉积\n增强化学气相\n                     工艺。广泛应用于集成电路、化合物半导体、功率半导体、半导体照明、\n  沉积设备\n                     硅基微型显示、科研等领域。\n（PECVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_14",
+    "entity_id": "naura",
+    "category_id": "deposition_mocvd",
+    "record_kind": "source_native_family",
+    "name": "8 英寸金属有机化学气相沉积设备（MOCVD）",
+    "aliases": [
+      "8 英寸金属有机化学气相沉积设备（MOCVD）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_14",
+      "source_id": "naura_2025",
+      "page": 23,
+      "excerpt": "8 英寸金属有\n机化学气相沉                   主要用于功率、射频、光电子、Micro LED、高效光伏等器件中的外延生\n   积设备                   长。\n（MOCVD）",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-07",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "8 英寸金属有\n机化学气相沉               主要用于功率、射频、光电子、Micro-LED、高效光伏等器件中的外延生\n   积设备               长。\n（MOCVD）",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thin_film_deposition_15",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "8 英寸硅外延设备（EPI）",
+    "aliases": [
+      "8 英寸硅外延设备（EPI）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thin_film_deposition_15",
+      "source_id": "naura_2025",
+      "page": 23,
+      "excerpt": "主要用于体硅外延、埋层外延、选择性外延等多种特色工艺。该设备具备\n8 英寸硅外延\n                         精准的压力、气流场与温场控制，保证了外延片良好的工艺性能和成膜质\n设备（EPI）\n                         量。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-21-08",
+        "source_id": "naura_2024",
+        "page": 21,
+        "excerpt": "主要用于体硅外延、埋层外延、选择性外延等多种特色工艺。该设备具备\n8 英寸硅外延\n                     精准的压力、气流场与温场控制，保证了外延片良好的工艺性能，保证成\n设备（EPI）\n                     膜质量。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_01",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "12 英寸立式中高温氧化退火炉",
+    "aliases": [
+      "12 英寸立式中高温氧化退火炉"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_01",
+      "source_id": "naura_2025",
+      "page": 23,
+      "excerpt": "12 英寸立式                主要用于集成电路制造中氧化硅的生长、中高温退火及水汽退火工艺。该设备\n中高温氧化                  具备优异的氧化层厚度、均匀性控制能力和退火质量，能有效提升器件电学稳\n   退火炉                 定性，避免漏电或性能漂移。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-034",
+        "source_id": "naura_h1_2026",
+        "page": 13,
+        "excerpt": "①管式氧化设备 通过高温环境下的氧化反应在晶圆表面生长氧化膜，采用批量处理模式，可精准调控氧化膜厚度、致密性与均匀性， 具备处理效率高、膜层结合力强的特点，是栅氧化层、场氧化层、钝化层生长的核心装备。公司管式氧化设备涵盖中高 温氧化、水汽氧化等多种技术路线，12 英寸立式中高温氧化退火炉具备优异的膜厚均匀性与缺陷控制能力，可有效提升 器件电学稳定性，已成为国内主流晶圆产线的主流配套装备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "described_as_domestic_mainstream_line_equipment",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Exact 12-inch vertical mid/high-temperature oxidation/anneal family; source is company assertion without count."
+      },
+      {
+        "claim_id": "FY24-ROSTER-22-01",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "12 英寸立式             主要用于集成电路制造中氧化硅的生长、中高温退火及水汽退火工艺。该设备\n中高温氧化               具备优异的氧化层厚度、均匀性控制能力和退火质量，能有效提升器件电学稳\n   退火炉              定性，避免漏电或性能漂移。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_02",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "12 英寸立式低温合金退火炉",
+    "aliases": [
+      "12 英寸立式低温合金退火炉"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_02",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "12 英寸立式               主要用于集成电路及先进封装中金属合金处理、低温氢气退火及聚酰亚胺胶固\n低温合金退                 化工艺。该设备具备先进的控温技术及合金化处理工艺，能有效降低欧姆接触\n   火炉                 电阻，降低芯片功耗，提高信号传输速度。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-035",
+        "source_id": "naura_h1_2026",
+        "page": 13,
+        "excerpt": "②管式退火设备 在惰性或还原性氛围下完成高温退火流程，可修复离子注入后的晶格损伤、激活掺杂杂质，同时实现薄膜致密化、 金属硅化物形成等工艺目标，具备处理量大、工艺稳定性好的优势。公司管式退火设备覆盖低温合金退火、高温退火等 多类场景，其中 12 英寸立式低温合金退火炉可精准调控欧姆接触电阻，助力降低芯片功耗，已在逻辑与存储产线实现批 量稳定应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_stable_application_in_logic_storage_lines",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Exact 12-inch vertical low-temperature alloy anneal family; no counts."
+      },
+      {
+        "claim_id": "FY24-ROSTER-22-02",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "12 英寸立式             主要用于集成电路及先进封装中金属合金处理、低温 H2 退火及 PI 胶固化工艺。\n低温合金退               该设备具备先进的控温技术及合金化处理工艺，能有效降低欧姆接触电阻，降\n   火炉               低芯片功耗，提高信号传输速度。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_03",
+    "entity_id": "naura",
+    "category_id": "thermal_rtp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸快速热处理设备（RTP）",
+    "aliases": [
+      "12 英寸快速热处理设备（RTP）"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_03",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "12 英寸快速               主要用于集成电路制造中快速热处理工艺，包括修复因离子注入、扩散等工艺\n热处理设备                 步骤造成的晶格损伤，以及降低晶体缺陷等，从而提高半导体器件的性能和可\n （RTP）                靠性。该设备具有加热速度快、热预算小、工艺时间短、杂质扩散少等优点。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-22-03",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "12 英寸快速             主要用于集成电路制造中快速热处理工艺，包括修复因离子注入、扩散等工艺\n热处理设备               步骤造成的晶格损伤，以及降低晶体缺陷等，从而提高半导体器件的性能和可\n （RTP）              靠性。该设备具有加热速度快、热预算小、工艺时间短、杂质扩散少等优点。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_04",
+    "entity_id": "naura",
+    "category_id": "thermal",
+    "record_kind": "source_native_family",
+    "name": "12 英寸单片减压原位湿法氧化系统",
+    "aliases": [
+      "12 英寸单片减压原位湿法氧化系统"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_04",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "12 英寸单片               主要用于集成电路制造中湿法氧化、减压 Spike、原位水汽氧化等工艺，可实现\n减压原位湿                 低界面态缺陷密度氧化物生长，有效防止漏电与隔离，提高晶体管的开关速度\n法氧化系统                 和信号传输速率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-22-04",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "12 英寸单片             主要用于集成电路制造中湿法氧化、减压 Spike、原位水汽氧化等工艺，可实现\n减压原位湿               低界面态缺陷密度氧化物生长，有效防止漏电与隔离，提高晶体管的开关速度\n法氧化系统               和信号传输速率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_05",
+    "entity_id": "naura",
+    "category_id": "thermal",
+    "record_kind": "source_native_family",
+    "name": "12 英寸等离子氮化系统",
+    "aliases": [
+      "12 英寸等离子氮化系统"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_05",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "主要用于集成电路制造中的栅极氮化工艺。该设备具备优异的氮渗透控制能\n12 英寸等离\n                      力，可有效增大绝缘栅介电常数并降低有效绝缘栅厚度，提升晶体管性能，满\n子氮化系统\n                      足多种工艺制程芯片需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-22-05",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "主要用于集成电路制造中的栅极氮化工艺。该设备具备优异的氮渗透控制能\n12 英寸等离\n                    力，可有效增大绝缘栅介电常数并降低有效绝缘栅厚度，提升晶体管性能，满\n子氮化系统\n                    足多种工艺制程芯片需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_06",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "8 英寸 SiC 高温氧化炉",
+    "aliases": [
+      "8 英寸 SiC 高温氧化炉"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_06",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "8 英寸 SiC              主要用于 SiC 器件中的高温氧化工艺。该工艺对提高 SiC 的沟道迁移率和栅极的\n高温氧化炉                 可靠性至关重要。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-22-06",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "8 英寸 SiC            主要用于 SiC 器件中的高温氧化工艺。该工艺对提高 SiC 的沟道迁移率和栅极的\n高温氧化炉               可靠性至关重要。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_thermal_07",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "8 英寸 SiC 高温退火炉",
+    "aliases": [
+      "8 英寸 SiC 高温退火炉"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_thermal_07",
+      "source_id": "naura_2025",
+      "page": 24,
+      "excerpt": "8 英寸 SiC              主要用于 SiC 器件中的高温退火工艺。该工艺可激活掺杂原子，同时修复破损\n高温退火炉                 晶格，实现掺杂改性目的。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-22-07",
+        "source_id": "naura_2024",
+        "page": 22,
+        "excerpt": "8 英寸 SiC            主要用于 SiC 器件中的高温退火工艺。该工艺可激活掺杂原子，同时修复破损\n高温退火炉               晶格，实现掺杂改性目的。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_01",
+    "entity_id": "naura",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "12 英寸单片湿法设备",
+    "aliases": [
+      "12 英寸单片湿法设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_01",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "公司在湿法设备领域，已形成了单片设备、槽式设备全面布局。2025 年，公司完成对沈阳芯源微电子设备股份有限公司\n的并购，丰富了公司在物理刷洗和单片清洗领域的布局。公司已批量销售的湿法设备主要包括：\n产品类别         图示                       应用介绍\n                     主要用于 12 英寸逻辑前段清洗工艺，采用了堆叠式架构及多片式传输系统，\n12 英寸单               占地小、产能高；可搭载 IPA（热异丙醇）干燥技术或 DZH（动态加热异丙\n片湿法设                 醇）干燥技术，满足平面结构与三维高深宽比结构的干燥要求；可配备 Nano\n   备                 Spray（二相流颗粒去除模块）和 Nano-E（高频液滴无损伤颗粒去除模块），\n                     实现更卓越的颗粒去除效果",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership."
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_02",
+    "entity_id": "naura",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "12 英寸前段单片湿法清洗设备",
+    "aliases": [
+      "12 英寸前段单片湿法清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_02",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "12 英寸前\n段单片湿                 主要用于 12 英寸前段清洗工艺，采用了堆叠式架构及多片式传输系统，占地\n法清洗设                 小、产能高；采用热异丙醇（IPA）干燥技术，达到良好的干燥效果。\n   备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-01",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "12 英寸前              主要用于 12 英寸前段清洗工艺，采用了堆叠式架构及多片式传输系统，占地\n段单片湿                小、产能高；采用热异丙醇（IPA）干燥技术，达到良好的干燥效果；颗粒去\n 法设备                除表现卓越，性能跻身国内领先水平。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_03",
+    "entity_id": "naura",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "12 英寸后段单片湿法设备",
+    "aliases": [
+      "12 英寸后段单片湿法设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_03",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "12 英寸后\n                     主要用于 12 英寸后段清洗工艺，采用多片式传输系统保障高效工艺产出；精\n段单片湿\n                     密的腔室及卡盘设计支持超高的化学品回收效率。\n 法设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-02",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "12 英寸后\n                    主要用于 12 英寸后段清洗工艺，采用多片式传输系统保障高效工艺产出；精\n段单片湿\n                    密的腔室及卡盘设计支持超高的化学品回收效率。\n 法设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_04",
+    "entity_id": "naura",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "12 英寸槽式湿法设备",
+    "aliases": [
+      "12 英寸槽式湿法设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_04",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "主要用于集成电路、功率半导体、衬底材料、硅基微显示等领域 12 英寸清洗\n12 英寸槽\n                     工艺。采用模块化、标准化设计，满足客户多种工艺应用需求；集成多功能药\n式湿法设\n                     液槽，刻蚀速率控制精准；应用先进的低压干燥技术，达到良好的干燥效果，\n   备\n                     实现槽式湿法工艺全覆盖。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-03",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "主要用于集成电路、功率半导体、衬底材料、硅基微显示等领域 12 英寸清洗\n12 英寸槽\n                    工艺。采用模块化、标准化设计，满足客户多种工艺应用需求；集成多功能药\n式湿法设\n                    液槽，刻蚀速率控制精准；应用先进的低压干燥技术，达到良好的干燥效果，\n   备\n                    实现槽式湿法工艺全覆盖，成为行业客户首选设备。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_05",
+    "entity_id": "naura",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "12 英寸物理清洗设备",
+    "aliases": [
+      "12 英寸物理清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_05",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "12 英寸物               主要用于物理气相沉积、化学气相沉积、黄光制程及铜制程之后的各种晶圆处\n理清洗设                 理工艺的清洗。采用自研第二代低损伤雾化清洗喷嘴、耐压控制系统，满足更\n   备                 高工艺制程客户需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership."
+  },
+  {
+    "platform_id": "naura_naura_2025_wet_process_06",
+    "entity_id": "naura",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "8 英寸槽式湿法设备",
+    "aliases": [
+      "8 英寸槽式湿法设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_wet_process_06",
+      "source_id": "naura_2025",
+      "page": 25,
+      "excerpt": "8 英寸槽\n                     主要用于集成电路、功率半导体、衬底材料、硅基微显示等领域 8 英寸清洗工\n式湿法设\n                     艺。\n   备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. The report's acquisition context does not identify the row's manufacturer; retain NAURA group attribution and do not infer KINGSEMI ownership.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-04",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "8 英寸槽\n                    主要用于集成电路、功率半导体、衬底材料、硅基微显示等领域 8 英寸清洗工\n式湿法设\n                    艺。\n   备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 source-defined table family; this is a source roster identity, not a separate commercial model or a counted shipment."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_ion_implant_01",
+    "entity_id": "naura",
+    "category_id": "implant",
+    "record_kind": "source_native_family",
+    "name": "12 英寸浸没式离子注入设备",
+    "aliases": [
+      "12 英寸浸没式离子注入设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_ion_implant_01",
+      "source_id": "naura_2025",
+      "page": 26,
+      "excerpt": "主要用于硅晶圆器件的高剂量、低能量的离子注入掺杂工艺，面向存储和逻辑\n12 英寸浸\n                       领域的互补金属氧化物半导体器件的掺杂(CMOS Device Doping)、加氢钝化\n没式离子\n                       （ H-Passivation ） 、 超 浅 结 掺 杂 （ Ultra Shallow Junction Doping ） 、 SOI\n注入设备\n                       （Silicon-on-Insulator）等工艺应用需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-06",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "2025 年 3 月，北方华创正式宣布进军离子注入设备市场，已发布的离子注入设备包括：\n产品类别       图示                                     应用介绍\n\n\n                    主要用于硅晶圆器件的高剂量、低能量的离子注入掺杂工艺，面向存储和逻辑\n12 英寸浸\n                    领域的互补金属氧化物半导体器件的掺杂(CMOS Device Doping)、加氢钝化\n没式离子\n                    （ H-Passivation ） 、 超 浅 结 掺 杂 （ Ultra Shallow Junction Doping ） 、 SOI\n注入设备\n                    （Silicon-on-Insulator）等工艺应用需求，成为行业客户首选设备。\n\n\n\n12 英寸离\n                    主要用于 12 英寸逻辑、存储芯片 B、P、As 等元素的注入。该设备可精准控制\n子注入设\n                    注入角度，注入剂量，从而独立控制掺杂浓度和节深，调控晶体管电性能。\n   备\n\n\n\n\n                                                                                            23",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "released_march_2025",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Implant section says announced market entry and released tools in March 2025, after FY2024 year-end; no FY2024 sale implied."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_ion_implant_02",
+    "entity_id": "naura",
+    "category_id": "implant",
+    "record_kind": "source_native_family",
+    "name": "12 英寸离子注入设备",
+    "aliases": [
+      "12 英寸离子注入设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_ion_implant_02",
+      "source_id": "naura_2025",
+      "page": 26,
+      "excerpt": "12 英寸离\n                       主要用于 12 英寸逻辑、存储芯片硼、磷、砷等元素的注入。该设备可精准控制\n子注入设\n                       注入角度，注入剂量，从而独立控制掺杂浓度和节深，调控晶体管电性能。\n   备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_already_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category.",
+    "maturity_history": [
+      {
+        "claim_id": "FY24-ROSTER-23-07",
+        "source_id": "naura_2024",
+        "page": 23,
+        "excerpt": "2025 年 3 月，北方华创正式宣布进军离子注入设备市场，已发布的离子注入设备包括：\n产品类别       图示                                     应用介绍\n\n\n                    主要用于硅晶圆器件的高剂量、低能量的离子注入掺杂工艺，面向存储和逻辑\n12 英寸浸\n                    领域的互补金属氧化物半导体器件的掺杂(CMOS Device Doping)、加氢钝化\n没式离子\n                    （ H-Passivation ） 、 超 浅 结 掺 杂 （ Ultra Shallow Junction Doping ） 、 SOI\n注入设备\n                    （Silicon-on-Insulator）等工艺应用需求，成为行业客户首选设备。\n\n\n\n12 英寸离\n                    主要用于 12 英寸逻辑、存储芯片 B、P、As 等元素的注入。该设备可精准控制\n子注入设\n                    注入角度，注入剂量，从而独立控制掺杂浓度和节深，调控晶体管电性能。\n   备\n\n\n\n\n                                                                                            23",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "released_march_2025",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Implant section says announced market entry and released tools in March 2025, after FY2024 year-end; no FY2024 sale implied."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_bonding_01",
+    "entity_id": "naura",
+    "category_id": "bonding_hybrid_w2w",
+    "record_kind": "source_native_family",
+    "name": "12 英寸晶圆对晶圆混合键合设备",
+    "aliases": [
+      "12 英寸晶圆对晶圆混合键合设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_bonding_01",
+      "source_id": "naura_2025",
+      "page": 26,
+      "excerpt": "12 英寸晶\n圆对晶圆                      2026 年 3 月正式发布，主要应用于晶圆间的混合键合工艺，面向晶圆级三\n混合键合                      维集成、图像传感器领域、存储芯片、高带宽存储器（HBM）领域。\n   设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_company_main_bonding_equipment_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. Bonding section says 公司; it does not identify KINGSEMI as manufacturer.",
+    "maturity_history": [
+      {
+        "claim_id": "FY25-W2W-BOND",
+        "source_id": "naura_2025",
+        "page": 26,
+        "excerpt": "12 英寸晶\n圆对晶圆                      2026 年 3 月正式发布，主要应用于晶圆间的混合键合工艺，面向晶圆级三\n混合键合                      维集成、图像传感器领域、存储芯片、高带宽存储器（HBM）领域。\n   设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "formally_released_in_2026_03",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives March 2026, not a day; no H1/FY2025 event date or shipment/qualification inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_bonding_02",
+    "entity_id": "naura",
+    "category_id": "bonding_hybrid_d2w",
+    "record_kind": "source_native_family",
+    "name": "12 英寸芯片对晶圆混合键合设备",
+    "aliases": [
+      "12 英寸芯片对晶圆混合键合设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_bonding_02",
+      "source_id": "naura_2025",
+      "page": 27,
+      "excerpt": "12 英寸芯\n                       2026 年 3 月正式发布，主要应用于芯片与晶圆间的混合键合工艺，面向芯\n片对晶圆\n                       片三维集成（Chiplet）、高带宽存储器（HBM）、异质芯片集成等领域，\n混合键合\n                       实现芯片到晶圆的高精度键合，已实现产业化应用。\n   设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_company_main_bonding_equipment_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. Bonding section says 公司; it does not identify KINGSEMI as manufacturer.",
+    "maturity_history": [
+      {
+        "claim_id": "FY25-D2W-BOND",
+        "source_id": "naura_2025",
+        "page": 27,
+        "excerpt": "12 英寸芯\n                       2026 年 3 月正式发布，主要应用于芯片与晶圆间的混合键合工艺，面向芯\n片对晶圆\n                       片三维集成（Chiplet）、高带宽存储器（HBM）、异质芯片集成等领域，\n混合键合\n                       实现芯片到晶圆的高精度键合，已实现产业化应用。\n   设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "formally_released_in_2026_03_and_industrialized_application_claimed",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives March 2026 and industrialized application, without a specific customer, date of use, count or HBM production-use claim."
+      },
+      {
+        "claim_id": "NAURA_H1_2026-OPS-076",
+        "source_id": "naura_h1_2026",
+        "page": 15,
+        "excerpt": "报告期内，公司发布 12 英寸晶圆对晶圆（WTW）、芯片对晶圆（DTW）两款 混合键合设备，其中芯片对晶圆混合键合设备已实现产业化应用，标志着公司在高端三维集成装备领域取得重要突破； 临时键合与解键合设备已在国内多条产线批量配套，工艺稳定性获得客户认可。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "dtw_industrial_application_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "DTW industrial application is separately stated; release month March 2026 comes from FY2025 annual and must not be replaced by an invented day."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_naura_2025_bonding_03",
+    "entity_id": "naura",
+    "category_id": "bonding_temporary",
+    "record_kind": "source_native_family",
+    "name": "临时键合设备",
+    "aliases": [
+      "临时键合设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_bonding_03",
+      "source_id": "naura_2025",
+      "page": 27,
+      "excerpt": "应用于三维集成、2.5D/3D 封装领域，晶圆减薄过程中超薄晶圆、预减薄\n临时键合                   晶圆等易碎器件的支撑与保护工艺。设备具有良好的键合胶旋涂均匀性、\n 设备                    键合总厚度变化（TTV）控制性能，集成高精视觉校准功能与真空传送的\n                       键合腔，键合总厚度变化检测技术，实现键合片组的闭环测试。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_company_main_bonding_equipment_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. Bonding section says 公司; it does not identify KINGSEMI as manufacturer."
+  },
+  {
+    "platform_id": "naura_naura_2025_bonding_04",
+    "entity_id": "naura",
+    "category_id": "bonding_debond",
+    "record_kind": "source_native_family",
+    "name": "解键合设备",
+    "aliases": [
+      "解键合设备"
+    ],
+    "evidence": {
+      "claim_id": "naura_2025_label_bonding_04",
+      "source_id": "naura_2025",
+      "page": 27,
+      "excerpt": "应用于三维集成、2.5D/3D 封装领域，减薄工艺后，器件与玻璃载片的无\n解键合设                   应力分离及清洗。设备采用叠层布置，可有效减少设备占地面积，配备平\n 备                     顶化矩形光斑，能量分布均匀，具备精确的药液温度、压力与流量控制能\n                       力，实现高工艺稳定性。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_as_company_main_bonding_equipment_family",
+    "maturity_as_reported_in": "naura_2025",
+    "notes": "Source-native generic product family, not a unique commercial model; table-row identity and application must not be widened to the category. Bonding section says 公司; it does not identify KINGSEMI as manufacturer."
+  },
+  {
+    "platform_id": "naura_2025_advanced_lpcvd_silicon_deposition_vertical_furnace_family",
+    "entity_id": "naura",
+    "category_id": "deposition_lpcvd",
+    "record_kind": "source_native_family",
+    "name": "12 英寸先进低压化学气相硅沉积立式炉",
+    "aliases": [
+      "12 英寸先进低压化学气相硅沉积立式炉"
+    ],
+    "evidence": {
+      "claim_id": "FY25-VERTICAL-CVD-MASS",
+      "source_id": "naura_2025",
+      "page": 18,
+      "excerpt": "实现 12 英寸先进低压化学气相硅沉积立式炉等核心设备\n的规模化量产。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_claims_scaled_mass_production_in_fy2025",
+    "maturity_as_reported_in": "naura_2025",
+    "maturity_history": [
+      {
+        "claim_id": "FY25-VERTICAL-CVD-MASS",
+        "source_id": "naura_2025",
+        "page": 18,
+        "excerpt": "实现 12 英寸先进低压化学气相硅沉积立式炉等核心设备\n的规模化量产。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_claims_scaled_mass_production_in_fy2025",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The FY2025 narrative says 规模化量产; no exact start date, model name, shipment count or safe identity with p22 Tube CVD/table furnaces."
+      },
+      {
+        "claim_id": "NAURA_H1_2025-OPS-019",
+        "source_id": "naura_h1_2025",
+        "page": 25,
+        "excerpt": "报告期内，公司推出离子注入设备、电镀设备、12 英寸先进低压化学气相硅沉积立式炉设备、多片式 8 英寸 SiC 外 延设备、GaN/GaAs MOCVD 外延设备等新产品。公司工艺覆盖度及市场占有率同步攀升，产品矩阵完整性和竞争力显 著增强。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "report_period_product_launch",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 p25 advanced LPCVD silicon vertical furnace launch; annual FY2025 platform row describes the family, but do not infer validated or shipped status from launch."
+      }
+    ],
+    "notes": "Source-native unnamed family from FY2025 narrative; distinct identity held from the p22 tube-CVD and p23–24 oxidation/anneal furnace labels. Do not count a separate commercial model."
+  },
+  {
+    "platform_id": "naura_h1_2025_multiwafer_8inch_sic_epi",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "多片式 8 英寸 SiC 外延设备",
+    "aliases": [
+      "多片式 8 英寸 SiC 外延设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-019",
+      "source_id": "naura_h1_2025",
+      "page": 25,
+      "excerpt": "报告期内，公司推出离子注入设备、电镀设备、12 英寸先进低压化学气相硅沉积立式炉设备、多片式 8 英寸 SiC 外 延设备、GaN/GaAs MOCVD 外延设备等新产品。公司工艺覆盖度及市场占有率同步攀升，产品矩阵完整性和竞争力显 著增强。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "report_period_product_launch",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "p25 reports a launch only; not customer validation, batch order or delivered system.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-019",
+        "source_id": "naura_h1_2025",
+        "page": 25,
+        "excerpt": "报告期内，公司推出离子注入设备、电镀设备、12 英寸先进低压化学气相硅沉积立式炉设备、多片式 8 英寸 SiC 外 延设备、GaN/GaAs MOCVD 外延设备等新产品。公司工艺覆盖度及市场占有率同步攀升，产品矩阵完整性和竞争力显 著增强。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "report_period_product_launch",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p25 reports a launch only; not customer validation, batch order or delivered system."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2025_gan_gaas_mocvd_epi",
+    "entity_id": "naura",
+    "category_id": "deposition_mocvd",
+    "record_kind": "source_native_family",
+    "name": "GaN/GaAs MOCVD 外延设备",
+    "aliases": [
+      "GaN/GaAs MOCVD 外延设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-019",
+      "source_id": "naura_h1_2025",
+      "page": 25,
+      "excerpt": "报告期内，公司推出离子注入设备、电镀设备、12 英寸先进低压化学气相硅沉积立式炉设备、多片式 8 英寸 SiC 外 延设备、GaN/GaAs MOCVD 外延设备等新产品。公司工艺覆盖度及市场占有率同步攀升，产品矩阵完整性和竞争力显 著增强。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "report_period_product_launch",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "p25 groups GaN/GaAs MOCVD in a launch list; do not infer each material-specific model has a separate launch or order.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-019",
+        "source_id": "naura_h1_2025",
+        "page": 25,
+        "excerpt": "报告期内，公司推出离子注入设备、电镀设备、12 英寸先进低压化学气相硅沉积立式炉设备、多片式 8 英寸 SiC 外 延设备、GaN/GaAs MOCVD 外延设备等新产品。公司工艺覆盖度及市场占有率同步攀升，产品矩阵完整性和竞争力显 著增强。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "report_period_product_launch",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p25 groups GaN/GaAs MOCVD in a launch list; do not infer each material-specific model has a separate launch or order."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2025_roll_to_roll_vacuum_coating",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "卷绕式真空镀膜设备（磁控溅射、蒸发）",
+    "aliases": [
+      "卷绕式真空镀膜设备（磁控溅射、蒸发）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-011",
+      "source_id": "naura_h1_2025",
+      "page": 12,
+      "excerpt": "北方华创主要批量销售的新能源锂电复合集流体设备包括磁控溅射卷绕镀膜设备、卷绕式蒸发镀膜设备等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_families",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "Battery/flexible-film equipment, not IC wafer PVD; family includes sputter and evaporation routes and does not establish two distinct named models.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-011",
+        "source_id": "naura_h1_2025",
+        "page": 12,
+        "excerpt": "北方华创主要批量销售的新能源锂电复合集流体设备包括磁控溅射卷绕镀膜设备、卷绕式蒸发镀膜设备等。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Battery/flexible-film equipment, not IC wafer PVD; family includes sputter and evaporation routes and does not establish two distinct named models."
+      },
+      {
+        "claim_id": "NAURA_H1_2026-OPS-077",
+        "source_id": "naura_h1_2026",
+        "page": 16,
+        "excerpt": "产品在头部锂电材料厂商的验证与导入稳步推进。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "client_validation_and_introduction_progressing",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p16 names leading battery-material customers only as a class; this does not mean qualification completed."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2025_hydrogen_bipolar_plate_coating",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "氢燃料电池金属双极板镀膜设备",
+    "aliases": [
+      "氢燃料电池金属双极板镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2025-OPS-012",
+      "source_id": "naura_h1_2025",
+      "page": 13,
+      "excerpt": "北方华创主要批量销售的氢能装备包括阴极电弧复合磁控溅射镀膜设备等。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_families",
+    "maturity_as_reported_in": "naura_h1_2025",
+    "notes": "Cathodic arc plus magnetron sputter tool for hydrogen fuel-cell plates, outside IC wafer PVD; batch-sales assertion is source-native.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2025-OPS-012",
+        "source_id": "naura_h1_2025",
+        "page": 13,
+        "excerpt": "北方华创主要批量销售的氢能装备包括阴极电弧复合磁控溅射镀膜设备等。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Cathodic arc plus magnetron sputter tool for hydrogen fuel-cell plates, outside IC wafer PVD; batch-sales assertion is source-native."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_newgen_12inch_highend_icp",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "新一代 12 英寸高端 ICP 刻蚀设备",
+    "aliases": [
+      "新一代 12 英寸高端 ICP 刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-022",
+      "source_id": "naura_h1_2026",
+      "page": 11,
+      "excerpt": "公司在刻蚀设备领域已形成覆盖 ICP、CCP、高选择性刻蚀、等离子去胶、Bevel 刻蚀、离子束刻蚀的全系列产品矩 阵，可满足从成熟制程到先进制程的全场景工艺需求。报告期内，公司发布全新一代 12 英寸高端 ICP 刻蚀设备，攻克 精准偏压控制、射频多态脉冲调控等关键技术，刻蚀均匀性达到埃米级，深宽比可达数百比一，可适配先进逻辑与高阶 存储芯片关键工艺需求，目前已完成客户验证并进入量产导入阶段。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation_completed_and_mass_production_introduction",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "New-generation subset; not all ICP etchers and not a unique commercial model.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-022",
+        "source_id": "naura_h1_2026",
+        "page": 11,
+        "excerpt": "公司在刻蚀设备领域已形成覆盖 ICP、CCP、高选择性刻蚀、等离子去胶、Bevel 刻蚀、离子束刻蚀的全系列产品矩 阵，可满足从成熟制程到先进制程的全场景工艺需求。报告期内，公司发布全新一代 12 英寸高端 ICP 刻蚀设备，攻克 精准偏压控制、射频多态脉冲调控等关键技术，刻蚀均匀性达到埃米级，深宽比可达数百比一，可适配先进逻辑与高阶 存储芯片关键工艺需求，目前已完成客户验证并进入量产导入阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_completed_and_mass_production_introduction",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "New-generation subset; not all ICP etchers and not a unique commercial model."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_icp_general",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "ICP 刻蚀设备（H1 2026 源述家族）",
+    "aliases": [
+      "ICP 刻蚀设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-023",
+      "source_id": "naura_h1_2026",
+      "page": 11,
+      "excerpt": "①ICP 刻蚀设备 基于电感耦合等离子体技术，通过腔室外侧的高频线圈激发反应气体，生成高密度等离子体。设备可在低工作气压 下实现快速刻蚀，核心优势在于能独立控制离子能量与通量，可精准优化各向异性刻蚀能力，刻蚀深宽比表现优异，适 用于硅、金属、氮化镓等多种材料的精细结构加工。公司 ICP 刻蚀设备已广泛应用于国内主流晶圆厂产线，报告期内推 出的新一代产品进一步突破低损伤、超高均匀性工艺瓶颈，可支撑高阶存储与先进逻辑芯片制程需求，技术性能达到行 业先进水平。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "broad_domestic_mainstream_fab_line_use",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Broad family covers more than one FY2025 specific ICP table row; no 1:1 identity.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-023",
+        "source_id": "naura_h1_2026",
+        "page": 11,
+        "excerpt": "①ICP 刻蚀设备 基于电感耦合等离子体技术，通过腔室外侧的高频线圈激发反应气体，生成高密度等离子体。设备可在低工作气压 下实现快速刻蚀，核心优势在于能独立控制离子能量与通量，可精准优化各向异性刻蚀能力，刻蚀深宽比表现优异，适 用于硅、金属、氮化镓等多种材料的精细结构加工。公司 ICP 刻蚀设备已广泛应用于国内主流晶圆厂产线，报告期内推 出的新一代产品进一步突破低损伤、超高均匀性工艺瓶颈，可支撑高阶存储与先进逻辑芯片制程需求，技术性能达到行 业先进水平。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "broad_domestic_mainstream_fab_line_use",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad family covers more than one FY2025 specific ICP table row; no 1:1 identity."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_ccp_general",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "record_kind": "source_native_family",
+    "name": "CCP 刻蚀设备（H1 2026 源述家族）",
+    "aliases": [
+      "CCP 刻蚀设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-024",
+      "source_id": "naura_h1_2026",
+      "page": 11,
+      "excerpt": "②CCP 刻蚀设备 采用平行板电容耦合方式产生等离子体，通过调节射频功率和气体配比，既能实现较高刻蚀速率，又具备宽泛的工 艺窗口。其对氧化物、氮化物等绝缘材料刻蚀效果显著，兼容性强，广泛应用于存储芯片的深孔、沟槽结构加工。公司 CCP 刻蚀设备已适配先进存储高深宽比刻蚀、先进逻辑芯片大马士革工艺等多条工艺路径，工艺均匀性与选择比指标表 现优异，在国内头部存储和逻辑厂商产线实现批量稳定供货。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_stable_supply_to_leading_storage_logic_lines",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Broad family spans FY2025 CCP variants; cannot assign group supply to each variant.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-024",
+        "source_id": "naura_h1_2026",
+        "page": 11,
+        "excerpt": "②CCP 刻蚀设备 采用平行板电容耦合方式产生等离子体，通过调节射频功率和气体配比，既能实现较高刻蚀速率，又具备宽泛的工 艺窗口。其对氧化物、氮化物等绝缘材料刻蚀效果显著，兼容性强，广泛应用于存储芯片的深孔、沟槽结构加工。公司 CCP 刻蚀设备已适配先进存储高深宽比刻蚀、先进逻辑芯片大马士革工艺等多条工艺路径，工艺均匀性与选择比指标表 现优异，在国内头部存储和逻辑厂商产线实现批量稳定供货。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_stable_supply_to_leading_storage_logic_lines",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad family spans FY2025 CCP variants; cannot assign group supply to each variant."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_high_selectivity_general",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "高选择性刻蚀设备（H1 2026 源述家族）",
+    "aliases": [
+      "高选择性刻蚀设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-025",
+      "source_id": "naura_h1_2026",
+      "page": 11,
+      "excerpt": "③高选择性刻蚀设备 通过优化气体组合搭配脉冲等离子体技术实现超高刻蚀选择比。可精准去除目标材料，同时最大限度保护掩膜层及 周边非目标结构，是先进逻辑、存储工艺精细结构加工的关键装备。公司高选择性刻蚀设备已应用于先进逻辑与存储芯 片关键工艺环节，可满足堆叠层间选择性刻蚀、精细结构释放等高精度加工需求，助力客户提升器件良率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "applied_in_advanced_logic_storage_processes",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "FY2025 separately lists chemical and plasma variants; source does not split this family stage.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-025",
+        "source_id": "naura_h1_2026",
+        "page": 11,
+        "excerpt": "③高选择性刻蚀设备 通过优化气体组合搭配脉冲等离子体技术实现超高刻蚀选择比。可精准去除目标材料，同时最大限度保护掩膜层及 周边非目标结构，是先进逻辑、存储工艺精细结构加工的关键装备。公司高选择性刻蚀设备已应用于先进逻辑与存储芯 片关键工艺环节，可满足堆叠层间选择性刻蚀、精细结构释放等高精度加工需求，助力客户提升器件良率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "applied_in_advanced_logic_storage_processes",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2025 separately lists chemical and plasma variants; source does not split this family stage."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_plasma_strip_general",
+    "entity_id": "naura",
+    "category_id": "strip_dry",
+    "record_kind": "source_native_family",
+    "name": "等离子去胶机（H1 2026 源述家族）",
+    "aliases": [
+      "等离子去胶机（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-026",
+      "source_id": "naura_h1_2026",
+      "page": 11,
+      "excerpt": "④等离子去胶机 通过等离子体活化氧气、氩气等工艺气体，使晶圆表面的光刻胶残留发生分解、氧化，转化为挥发性产物后被排出， 实现无化学污染、高效率的去胶处理，广泛应用于刻蚀、沉积等工序后的光刻胶去除环节。公司等离子去胶机适配多类 型光刻胶与全尺寸晶圆，已在国内多条 12 英寸产线批量配套，设备稳定性与工艺适配性获得客户广泛认可。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_paired_on_multiple_domestic_12inch_lines",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "H1 2026 family-level use; not a distinct named commercial model.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-026",
+        "source_id": "naura_h1_2026",
+        "page": 11,
+        "excerpt": "④等离子去胶机 通过等离子体活化氧气、氩气等工艺气体，使晶圆表面的光刻胶残留发生分解、氧化，转化为挥发性产物后被排出， 实现无化学污染、高效率的去胶处理，广泛应用于刻蚀、沉积等工序后的光刻胶去除环节。公司等离子去胶机适配多类 型光刻胶与全尺寸晶圆，已在国内多条 12 英寸产线批量配套，设备稳定性与工艺适配性获得客户广泛认可。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_paired_on_multiple_domestic_12inch_lines",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "H1 2026 family-level use; not a distinct named commercial model."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_newgen_bevel",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "新一代 Bevel 刻蚀设备",
+    "aliases": [
+      "新一代 Bevel 刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-027",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "⑤Bevel 刻蚀设备 专注于晶圆边缘处理，采用定向等离子体轰击技术消除晶圆边缘缺陷，可有效避免后续互连、封装环节出现互连断 裂、漏电等问题，是保障晶圆整体良率的重要配套装备。公司 Bevel 刻蚀设备已实现 12 英寸晶圆制造全场景覆盖，报告 期内新一代产品进一步优化缺陷控制能力，获得逻辑及存储领域头部客户批量订单，进入量产应用阶段。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "new_generation_batch_orders_and_production_application",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Stage applies to report-period new generation subset of broad Bevel family.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-027",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "⑤Bevel 刻蚀设备 专注于晶圆边缘处理，采用定向等离子体轰击技术消除晶圆边缘缺陷，可有效避免后续互连、封装环节出现互连断 裂、漏电等问题，是保障晶圆整体良率的重要配套装备。公司 Bevel 刻蚀设备已实现 12 英寸晶圆制造全场景覆盖，报告 期内新一代产品进一步优化缺陷控制能力，获得逻辑及存储领域头部客户批量订单，进入量产应用阶段。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "new_generation_batch_orders_and_production_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Stage applies to report-period new generation subset of broad Bevel family."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_ibe",
+    "entity_id": "naura",
+    "category_id": "ion_beam_etch_milling",
+    "record_kind": "source_native_family",
+    "name": "IBE 离子束刻蚀设备",
+    "aliases": [
+      "IBE 离子束刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-028",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "⑥IBE 刻蚀设备（离子束刻蚀设备） 基于物理轰击原理产生高能离子束直接刻蚀晶圆表面，刻蚀过程不受化学反应限制，具有极高的刻蚀精度、方向性 与均匀性，适用于 MEMS 器件、光电子器件等高精度加工场景。公司 IBE 刻蚀设备已在化合物半导体、光电子领域实现 批量供货，核心技术指标对标国际同类产品。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_supply_in_compound_semiconductor_and_optoelectronics",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source-defined IBE family; not conventional plasma etch and no model count inferred.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-028",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "⑥IBE 刻蚀设备（离子束刻蚀设备） 基于物理轰击原理产生高能离子束直接刻蚀晶圆表面，刻蚀过程不受化学反应限制，具有极高的刻蚀精度、方向性 与均匀性，适用于 MEMS 器件、光电子器件等高精度加工场景。公司 IBE 刻蚀设备已在化合物半导体、光电子领域实现 批量供货，核心技术指标对标国际同类产品。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_supply_in_compound_semiconductor_and_optoelectronics",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source-defined IBE family; not conventional plasma etch and no model count inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_pvd_general",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "PVD 设备（H1 2026 源述家族）",
+    "aliases": [
+      "PVD 设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-029",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "①PVD 基于真空环境下的物理过程实现薄膜沉积，通过溅射等方式将靶材物质剥离并沉积于晶圆表面，具备膜层附着力强、 成分可控性好的特点，广泛应用于金属布线、阻挡层、电极层等工艺场景。公司 PVD 设备已形成 12 英寸、8 英寸全系 列产品布局，可覆盖逻辑芯片、存储芯片、先进封装等多领域金属化制程需求，多款产品在国内主流晶圆厂实现批量稳 定供货，技术性能达到行业先进水平。报告期内，新一代 12 英寸集成电路金属沉积设备进一步提升颗粒控制与膜层均匀 性水平，可适配更高端制程的工艺要求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_products_in_batch_stable_supply",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Broad 8-/12-inch family; not the 12-inch-only cumulative count perimeter.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-029",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "①PVD 基于真空环境下的物理过程实现薄膜沉积，通过溅射等方式将靶材物质剥离并沉积于晶圆表面，具备膜层附着力强、 成分可控性好的特点，广泛应用于金属布线、阻挡层、电极层等工艺场景。公司 PVD 设备已形成 12 英寸、8 英寸全系 列产品布局，可覆盖逻辑芯片、存储芯片、先进封装等多领域金属化制程需求，多款产品在国内主流晶圆厂实现批量稳 定供货，技术性能达到行业先进水平。报告期内，新一代 12 英寸集成电路金属沉积设备进一步提升颗粒控制与膜层均匀 性水平，可适配更高端制程的工艺要求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_products_in_batch_stable_supply",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Broad 8-/12-inch family; not the 12-inch-only cumulative count perimeter."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_cvd_general",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "CVD 设备（PECVD、HDPCVD、LPCVD、Tube CVD）",
+    "aliases": [
+      "CVD 设备（PECVD、HDPCVD、LPCVD、Tube CVD）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-030",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "②CVD 通过气态前驱体在晶圆表面发生化学反应生成固态薄膜，具备台阶覆盖性优异、膜厚均匀性好的优势，可沉积多种 介质膜与半导体薄膜，是介质层、栅极层等结构的核心制备装备。公司已构建包含等离子体增强 CVD（PECVD）、高 密度等离子体 CVD（HDPCVD）、低压 CVD（LPCVD）、管式 CVD（Tube CVD）在内的完整产品体系，可实现氧化 硅、氮化硅、多晶硅等多种薄膜的高质量沉积，广泛适配逻辑、存储芯片多类工艺场景，多款核心设备在国内头部产线 实现规模化应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "multiple_core_devices_in_scale_application",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Grouped CVD family; stage applies only to unspecified multiple core devices, not each named subtype.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-030",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "②CVD 通过气态前驱体在晶圆表面发生化学反应生成固态薄膜，具备台阶覆盖性优异、膜厚均匀性好的优势，可沉积多种 介质膜与半导体薄膜，是介质层、栅极层等结构的核心制备装备。公司已构建包含等离子体增强 CVD（PECVD）、高 密度等离子体 CVD（HDPCVD）、低压 CVD（LPCVD）、管式 CVD（Tube CVD）在内的完整产品体系，可实现氧化 硅、氮化硅、多晶硅等多种薄膜的高质量沉积，广泛适配逻辑、存储芯片多类工艺场景，多款核心设备在国内头部产线 实现规模化应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "multiple_core_devices_in_scale_application",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Grouped CVD family; stage applies only to unspecified multiple core devices, not each named subtype."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_reduced_pressure_epi",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "减压外延设备",
+    "aliases": [
+      "减压外延设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-031",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "③EPI 属于高精度专用沉积设备，可在单晶衬底表面沿晶格取向生长出匹配度一致的单晶外延层，具备缺陷密度低、组分 与厚度调控精准的特点，是先进逻辑芯片、功率器件、光电子器件制造的核心装备。公司外延设备已形成硅基外延与化 合物半导体外延双线布局，覆盖常压外延、减压选择性外延等多条技术路线，可满足体硅外延、埋层外延、选择性外延 等多样化工艺需求。其中公司减压外延设备适配先进逻辑与存储芯片高阶工艺节点需求，在国内市场份额位居前列，已 在国内主流晶圆厂实现大规模稳定供货，是产线核心配套的主流外延装备之一。报告期内，公司减压外延设备订单与交 付量持续增长，工艺性能与运行稳定性得到客户充分验证；碳化硅、氮化镓、砷化镓外延设备均实现批量供货，产品工 艺良率表现优异，进一步完善了公司在第三代半导体领域的装备布局。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "large_scale_stable_supply_and_orders_deliveries_growing",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Reduced-pressure subset of broad EPI; SiC/GaN/GaAs batch supply belongs to other EPI subfamilies and is not transferred here.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-031",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "③EPI 属于高精度专用沉积设备，可在单晶衬底表面沿晶格取向生长出匹配度一致的单晶外延层，具备缺陷密度低、组分 与厚度调控精准的特点，是先进逻辑芯片、功率器件、光电子器件制造的核心装备。公司外延设备已形成硅基外延与化 合物半导体外延双线布局，覆盖常压外延、减压选择性外延等多条技术路线，可满足体硅外延、埋层外延、选择性外延 等多样化工艺需求。其中公司减压外延设备适配先进逻辑与存储芯片高阶工艺节点需求，在国内市场份额位居前列，已 在国内主流晶圆厂实现大规模稳定供货，是产线核心配套的主流外延装备之一。报告期内，公司减压外延设备订单与交 付量持续增长，工艺性能与运行稳定性得到客户充分验证；碳化硅、氮化镓、砷化镓外延设备均实现批量供货，产品工 艺良率表现优异，进一步完善了公司在第三代半导体领域的装备布局。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "large_scale_stable_supply_and_orders_deliveries_growing",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Reduced-pressure subset of broad EPI; SiC/GaN/GaAs batch supply belongs to other EPI subfamilies and is not transferred here."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_tube_ald_newgen",
+    "entity_id": "naura",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "新一代管式 ALD 设备",
+    "aliases": [
+      "新一代管式 ALD 设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-032",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "④ALD 基于循环式化学吸附原理实现原子级精度的薄膜生长，通过前驱体交替通入与表面反应逐层成膜，厚度控制精度、 台阶覆盖能力显著优于传统沉积设备，是先进制程关键薄膜制备的核心支撑。公司已形成介质 ALD、金属栅极 ALD、 管式 ALD 等多品类产品矩阵，可适配高 K 介质层、金属栅极、钝化层等先进制程工艺需求。报告期内，新一代管式 ALD 设备批量交付国内存储厂商，在高深宽比结构薄膜沉积场景表现优异。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_delivered_to_domestic_storage_customers",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "New-generation tubular ALD only; 2025 table row may overlap but no exact model identity established.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-032",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "④ALD 基于循环式化学吸附原理实现原子级精度的薄膜生长，通过前驱体交替通入与表面反应逐层成膜，厚度控制精度、 台阶覆盖能力显著优于传统沉积设备，是先进制程关键薄膜制备的核心支撑。公司已形成介质 ALD、金属栅极 ALD、 管式 ALD 等多品类产品矩阵，可适配高 K 介质层、金属栅极、钝化层等先进制程工艺需求。报告期内，新一代管式 ALD 设备批量交付国内存储厂商，在高深宽比结构薄膜沉积场景表现优异。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_delivered_to_domestic_storage_customers",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "New-generation tubular ALD only; 2025 table row may overlap but no exact model identity established."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_highend_tsv_ecp",
+    "entity_id": "naura",
+    "category_id": "deposition_ecp",
+    "record_kind": "source_native_family",
+    "name": "高端 TSV 电镀设备",
+    "aliases": [
+      "高端 TSV 电镀设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-033",
+      "source_id": "naura_h1_2026",
+      "page": 13,
+      "excerpt": "⑤电镀设备 基于电化学沉积原理，通过电场调控使金属离子在晶圆表面还原成膜，具备沉积速率快、高深宽比结构填充能力强 的特点，是铜互连、先进封装 TSV 工艺的核心装备。公司电镀设备覆盖集成电路铜互连、先进封装硅通孔填充等工艺场 景，可实现高效无缺陷的结构填充。报告期内，高端 TSV 电镀设备实现规模化供货，产品工艺适配性与运行稳定性持续 提升，可满足先进封装与三维集成领域的高端工艺需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "scale_supply_in_report_period",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "TSV-specific plating subset; not every ECP tool.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-033",
+        "source_id": "naura_h1_2026",
+        "page": 13,
+        "excerpt": "⑤电镀设备 基于电化学沉积原理，通过电场调控使金属离子在晶圆表面还原成膜，具备沉积速率快、高深宽比结构填充能力强 的特点，是铜互连、先进封装 TSV 工艺的核心装备。公司电镀设备覆盖集成电路铜互连、先进封装硅通孔填充等工艺场 景，可实现高效无缺陷的结构填充。报告期内，高端 TSV 电镀设备实现规模化供货，产品工艺适配性与运行稳定性持续 提升，可满足先进封装与三维集成领域的高端工艺需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "scale_supply_in_report_period",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "TSV-specific plating subset; not every ECP tool."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_rtp_general",
+    "entity_id": "naura",
+    "category_id": "thermal_rtp",
+    "record_kind": "source_native_family",
+    "name": "单片快速热处理设备（H1 2026 源述家族）",
+    "aliases": [
+      "单片快速热处理设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-036",
+      "source_id": "naura_h1_2026",
+      "page": 13,
+      "excerpt": "③单片快速热处理设备（RTP） 针对先进制程的低热预算需求研发，采用单片式处理模式，通过极速升降温在极短时间内完成退火，可有效抑制杂 质扩散、避免图形变形，是高精度杂质激活、浅结退火的关键装备。公司单片快速热处理设备具备加热速度快、温度均 匀性高的特点，可满足先进逻辑与存储芯片的严苛工艺要求；同时布局单片减压原位湿法氧化、等离子氮化等特色工艺 设备，可实现低缺陷氧化物生长与栅极氮化工艺，进一步丰富了高端热处理产品矩阵。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "described_product_family",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Reduced-pressure in-situ wet oxidation and plasma nitridation are adjacent thermal equipment, not RTP subtypes.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-036",
+        "source_id": "naura_h1_2026",
+        "page": 13,
+        "excerpt": "③单片快速热处理设备（RTP） 针对先进制程的低热预算需求研发，采用单片式处理模式，通过极速升降温在极短时间内完成退火，可有效抑制杂 质扩散、避免图形变形，是高精度杂质激活、浅结退火的关键装备。公司单片快速热处理设备具备加热速度快、温度均 匀性高的特点，可满足先进逻辑与存储芯片的严苛工艺要求；同时布局单片减压原位湿法氧化、等离子氮化等特色工艺 设备，可实现低缺陷氧化物生长与栅极氮化工艺，进一步丰富了高端热处理产品矩阵。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "described_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Reduced-pressure in-situ wet oxidation and plasma nitridation are adjacent thermal equipment, not RTP subtypes."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_batch_wet_general",
+    "entity_id": "naura",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "槽式清洗设备（12/8 英寸源述家族）",
+    "aliases": [
+      "槽式清洗设备（12/8 英寸源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-037",
+      "source_id": "naura_h1_2026",
+      "page": 13,
+      "excerpt": "①槽式清洗设备 采用批量浸泡式处理模式，通过化学试剂配合加热、溢流功能完成清洗，具备处理效率高、运行成本低的特点，适 配成熟制程与通用清洗需求。公司槽式湿法设备采用模块化、标准化设计，可集成多功能药液槽，精准控制刻蚀速率， 适配集成电路、功率半导体、衬底材料等多领域 12 英寸、8 英寸清洗工艺，已实现批量稳定供货。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_stable_supply",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source covers 12- and 8-inch batch wet tools as a family; does not provide separate unit counts.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-037",
+        "source_id": "naura_h1_2026",
+        "page": 13,
+        "excerpt": "①槽式清洗设备 采用批量浸泡式处理模式，通过化学试剂配合加热、溢流功能完成清洗，具备处理效率高、运行成本低的特点，适 配成熟制程与通用清洗需求。公司槽式湿法设备采用模块化、标准化设计，可集成多功能药液槽，精准控制刻蚀速率， 适配集成电路、功率半导体、衬底材料等多领域 12 英寸、8 英寸清洗工艺，已实现批量稳定供货。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_stable_supply",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source covers 12- and 8-inch batch wet tools as a family; does not provide separate unit counts."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_single_wafer_wet_general",
+    "entity_id": "naura",
+    "category_id": "cleaning_single_wafer",
+    "record_kind": "source_native_family",
+    "name": "12 英寸单片湿法清洗设备（H1 2026 源述家族）",
+    "aliases": [
+      "12 英寸单片湿法清洗设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-038",
+      "source_id": "naura_h1_2026",
+      "page": 14,
+      "excerpt": "②单片清洗设备 采用单片式精准喷淋处理模式，配合晶圆高速旋转实现污染物定向剥离，可避免交叉污染，洁净度与均匀性更优， 是 12 英寸先进工艺产线的主流清洗装备。公司 12 英寸单片湿法清洗设备采用堆叠式架构与多片式传输系统，占地小、 产能高，搭载高精度干燥技术与颗粒去除模块，可满足平面结构与三维高深宽比结构的清洗需求，已在国内头部晶圆厂 产线批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_applied_at_leading_domestic_fabs",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "May overlap FY2025 front/back single-wafer rows; no 1:1 mapping to either.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-038",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "②单片清洗设备 采用单片式精准喷淋处理模式，配合晶圆高速旋转实现污染物定向剥离，可避免交叉污染，洁净度与均匀性更优， 是 12 英寸先进工艺产线的主流清洗装备。公司 12 英寸单片湿法清洗设备采用堆叠式架构与多片式传输系统，占地小、 产能高，搭载高精度干燥技术与颗粒去除模块，可满足平面结构与三维高深宽比结构的清洗需求，已在国内头部晶圆厂 产线批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_applied_at_leading_domestic_fabs",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "May overlap FY2025 front/back single-wafer rows; no 1:1 mapping to either."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_physical_cleaning_general",
+    "entity_id": "naura",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "物理清洗设备（H1 2026 源述家族）",
+    "aliases": [
+      "物理清洗设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-039",
+      "source_id": "naura_h1_2026",
+      "page": 14,
+      "excerpt": "③物理清洗设备 以柔性物理刷洗为核心，搭配化学试剂或超纯水喷淋，针对性去除大尺寸顽固颗粒与附着污染物，是沉积、光刻、 铜制程后关键工序的配套装备。公司物理清洗设备搭载自研低损伤雾化清洗喷嘴与耐压控制系统，可在不损伤晶圆结构 的前提下实现高效杂质去除，报告期内产品工艺性能持续优化，适配更高制程的客户需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "report_period_process_performance_optimized",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source defines physical brush/spray cleaning equipment but does not state single-wafer handling. No delivered-system count, node, or formal customer validation in this paragraph.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-039",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "③物理清洗设备 以柔性物理刷洗为核心，搭配化学试剂或超纯水喷淋，针对性去除大尺寸顽固颗粒与附着污染物，是沉积、光刻、 铜制程后关键工序的配套装备。公司物理清洗设备搭载自研低损伤雾化清洗喷嘴与耐压控制系统，可在不损伤晶圆结构 的前提下实现高效杂质去除，报告期内产品工艺性能持续优化，适配更高制程的客户需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "report_period_process_performance_optimized",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "No delivered-system count or formal customer validation stated in this paragraph."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_immersion_implanter_general",
+    "entity_id": "naura",
+    "category_id": "implant",
+    "record_kind": "source_native_family",
+    "name": "浸没式离子注入设备（H1 2026 源述家族）",
+    "aliases": [
+      "浸没式离子注入设备（H1 2026 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-040",
+      "source_id": "naura_h1_2026",
+      "page": 14,
+      "excerpt": "①浸没式离子注入设备 面向高剂量、低能量的硅基先进制程掺杂需求，可实现 CMOS 器件掺杂、超浅结掺杂、加氢钝化、SOI 工艺等高精 度注入场景，是先进逻辑与存储芯片制造的核心配套装备。公司浸没式离子注入设备具备优异的剂量均匀性与低能量注 入稳定性，可有效提升器件电学性能一致性，报告期内订单与交付量稳步增长。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "orders_and_deliveries_grew_in_report_period",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Could overlap FY2025 12-inch immersion entry, but H1 row itself does not establish exact table-row identity or quantities.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-040",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "①浸没式离子注入设备 面向高剂量、低能量的硅基先进制程掺杂需求，可实现 CMOS 器件掺杂、超浅结掺杂、加氢钝化、SOI 工艺等高精 度注入场景，是先进逻辑与存储芯片制造的核心配套装备。公司浸没式离子注入设备具备优异的剂量均匀性与低能量注 入稳定性，可有效提升器件电学性能一致性，报告期内订单与交付量稳步增长。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "orders_and_deliveries_grew_in_report_period",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Could overlap FY2025 12-inch immersion entry, but H1 row itself does not establish exact table-row identity or quantities."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_medium_current_implanter",
+    "entity_id": "naura",
+    "category_id": "implant_medium_current",
+    "record_kind": "source_native_family",
+    "name": "12 英寸中束流离子注入设备",
+    "aliases": [
+      "12 英寸中束流离子注入设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-041",
+      "source_id": "naura_h1_2026",
+      "page": 14,
+      "excerpt": "②中束流离子注入设备 覆盖硼、磷、砷等主流掺杂元素的中低能注入工艺，可精准控制注入剂量与角度，独立调控掺杂浓度与结深，适配 成熟制程逻辑芯片、功率半导体等多领域掺杂需求。公司 12 英寸中束流离子注入设备工艺适配性强、运行稳定性高，已 在国内客户端实现稳定配套。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "stable_domestic_client_pairing",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "12-inch medium-current family; no customer count or commercial model name.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-041",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "②中束流离子注入设备 覆盖硼、磷、砷等主流掺杂元素的中低能注入工艺，可精准控制注入剂量与角度，独立调控掺杂浓度与结深，适配 成熟制程逻辑芯片、功率半导体等多领域掺杂需求。公司 12 英寸中束流离子注入设备工艺适配性强、运行稳定性高，已 在国内客户端实现稳定配套。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "stable_domestic_client_pairing",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "12-inch medium-current family; no customer count or commercial model name."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_sic_implanter",
+    "entity_id": "naura",
+    "category_id": "implant",
+    "record_kind": "source_native_family",
+    "name": "碳化硅离子注入设备",
+    "aliases": [
+      "碳化硅离子注入设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-042",
+      "source_id": "naura_h1_2026",
+      "page": 14,
+      "excerpt": "③碳化硅离子注入设备 针对碳化硅等第三代半导体材料的特殊掺杂需求研发，通过宽能量范围、多角度的离子注入实现碳化硅衬底的精准 掺杂，是碳化硅功率器件制造的关键工艺装备。公司碳化硅离子注入设备可实现多元素均匀注入，有效保障器件耐压能 力与良率水平，报告期内已在国内主流碳化硅器件厂商实现供货，产品技术成熟度与工艺适配性得到量产验证。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "domestic_mainstream_sic_device_maker_supply_and_production_validation",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source reports SiC ion implantation equipment supplied to domestic SiC device makers and validated for mass-production suitability. Neither customer identity/count nor whether supplier production or customer wafer production is established by the maturity label.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-042",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "③碳化硅离子注入设备 针对碳化硅等第三代半导体材料的特殊掺杂需求研发，通过宽能量范围、多角度的离子注入实现碳化硅衬底的精准 掺杂，是碳化硅功率器件制造的关键工艺装备。公司碳化硅离子注入设备可实现多元素均匀注入，有效保障器件耐压能 力与良率水平，报告期内已在国内主流碳化硅器件厂商实现供货，产品技术成熟度与工艺适配性得到量产验证。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "domestic_mainstream_sic_device_maker_supply_and_production_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "No customer name or equipment count; p14 overview separately says batch shipment and stable mass-production stage."
+      },
+      {
+        "claim_id": "NAURA_H1_2026-OPS-075",
+        "source_id": "naura_h1_2026",
+        "page": 14,
+        "excerpt": "碳化硅离子注入设备取得重要技术与商业化 突破，已实现客户端批量出货并进入稳定量产阶段，可满足高压碳化硅功率器件的严苛掺杂工艺要求，工艺性能与良率 表现获得客户充分验证，进一步强化了公司在第三代半导体装备领域的综合布局。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "client_batch_shipments_and_stable_mass_production_stage",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p14 overview reports client batch shipments and entry into a stable mass-production stage. Source does not distinguish supplier equipment production from customer wafer production, give customer identity/count or report a tool count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_hybrid_bonding_group",
+    "entity_id": "naura",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "混合键合设备（WTW/DTW 源述家族）",
+    "aliases": [
+      "混合键合设备（WTW/DTW 源述家族）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-044",
+      "source_id": "naura_h1_2026",
+      "page": 15,
+      "excerpt": "①混合键合设备 通过晶圆/芯片表面活化、高精度对准、低温键合等工艺实现铜铜与介质的直接互连，具备互连密度高、传输损耗低 的优势，是 HBM、高端 Chiplet、图像传感器等领域的核心装备。公司混合键合设备覆盖晶圆对晶圆、芯片对晶圆两大 技术路线，可满足晶圆级三维集成、异质芯片集成等多样化场景，报告期内产品已完成客户端验证并取得批量订单。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "family_customer_validation_completed_and_batch_orders",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Group-level stage; do not assign the batch orders separately to WTW and DTW or infer distinct commercial models.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-044",
+        "source_id": "naura_h1_2026",
+        "page": 15,
+        "excerpt": "①混合键合设备 通过晶圆/芯片表面活化、高精度对准、低温键合等工艺实现铜铜与介质的直接互连，具备互连密度高、传输损耗低 的优势，是 HBM、高端 Chiplet、图像传感器等领域的核心装备。公司混合键合设备覆盖晶圆对晶圆、芯片对晶圆两大 技术路线，可满足晶圆级三维集成、异质芯片集成等多样化场景，报告期内产品已完成客户端验证并取得批量订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "family_customer_validation_completed_and_batch_orders",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Group-level stage; do not assign the batch orders separately to WTW and DTW or infer distinct commercial models."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_hot_press_sintering_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "热压烧结炉",
+    "aliases": [
+      "热压烧结炉"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-048",
+      "source_id": "naura_h1_2026",
+      "page": 16,
+      "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_maximum_process_temperature_2200c",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Industrial material/semiconductor-component furnace, not a wafer thermal tool; max process temperature is a specification.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-048",
+        "source_id": "naura_h1_2026",
+        "page": 16,
+        "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reported_maximum_process_temperature_2200c",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial material/semiconductor-component furnace, not a wafer thermal tool; max process temperature is a specification."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_continuous_graphitization_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "连续高温石墨化炉",
+    "aliases": [
+      "连续高温石墨化炉"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-048",
+      "source_id": "naura_h1_2026",
+      "page": 16,
+      "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_maximum_process_temperature_2400c",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Industrial graphitization furnace; its maximum temperature is a specification, not factory capacity.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-048",
+        "source_id": "naura_h1_2026",
+        "page": 16,
+        "excerpt": "①真空烧结与热处理设备 涵盖热压烧结炉、连续高温石墨化炉等产品，通过高温真空环境实现材料的致密化烧结与热处理，可适配高纯靶材、 先进陶瓷、碳碳/碳陶复合材料等多类材料加工。公司热压烧结炉搭载自研加压控制系统，压力控制精度高，最高工艺温 度可达 2200℃，温度均匀性优异；连续高温石墨化炉采用多腔室串联设计，可实现连续化生产，自动化程度与产品一致 性表现突出，最高工艺温度可达 2400℃。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reported_maximum_process_temperature_2400c",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial graphitization furnace; its maximum temperature is a specification, not factory capacity."
+      },
+      {
+        "claim_id": "FY24-ROSTER-25-02",
+        "source_id": "naura_2024",
+        "page": 25,
+        "excerpt": "主要用于碳碳、碳陶及石墨等碳材料的石墨化工艺。设备最高温度可达\n                        2400℃，多个真空腔室串联可实现连续化生产，运动系统全伺服控制，\n连续高温石墨化炉\n                        设备运行稳定可靠、能耗低、操作简单、自动化程度高、产品一致性优\n                        异。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2024 physical p25 exact source family 连续高温石墨化炉 matches the now-canonical source-native family. The p24 vacuum-heat-equipment heading governs batch-sales inclusion. No distinct commercial-model count or exact sale date is inferred."
+      },
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "reported_batch_application_in_carbon_composites",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 p18 says a continuous graphitization furnace developed for photovoltaic high-temperature materials had batch application in carbon-carbon and carbon-ceramic fields. This is a broad family match to FY2024/H1 2026 continuous high-temperature graphitization, not proof of the same model or customer, nor a FY2023 shipment count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_panel_packaging_pvd",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "面板级封装 PVD 设备",
+    "aliases": [
+      "面板级封装 PVD 设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-054",
+      "source_id": "naura_h1_2026",
+      "page": 17,
+      "excerpt": "①面板级封装 PVD 设备 专用于板级封装 TGV、RDL 工艺的粘附层、种子层等金属薄膜沉积，可支持 310mm×310mm、510mm×515mm、 600mm×600mm 等规格的基板。该设备采用自主设计的大产能集群式 cluster 架构，基于成熟的大翘曲基板传输系统控制， 最多可同时挂载 10 个腔室，在实现高集成度的同时显著优化空间占用。针对不同工艺路线，设备可灵活挂载 PVD、 Degas、Preclean、Flipper 等多种腔室，满足多样化的镀膜需求。优异的磁场控制方案可实现超高靶材利用率，有效降低 耗材成本，同时高沉积效率使单台设备产能得到大幅提高。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_defined_panel_packaging_product_family",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Panel substrates/TGV/RDL; ten chambers is maximum tool configuration, not shipments.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-054",
+        "source_id": "naura_h1_2026",
+        "page": 17,
+        "excerpt": "①面板级封装 PVD 设备 专用于板级封装 TGV、RDL 工艺的粘附层、种子层等金属薄膜沉积，可支持 310mm×310mm、510mm×515mm、 600mm×600mm 等规格的基板。该设备采用自主设计的大产能集群式 cluster 架构，基于成熟的大翘曲基板传输系统控制， 最多可同时挂载 10 个腔室，在实现高集成度的同时显著优化空间占用。针对不同工艺路线，设备可灵活挂载 PVD、 Degas、Preclean、Flipper 等多种腔室，满足多样化的镀膜需求。优异的磁场控制方案可实现超高靶材利用率，有效降低 耗材成本，同时高沉积效率使单台设备产能得到大幅提高。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_defined_panel_packaging_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Panel substrates/TGV/RDL; ten chambers is maximum tool configuration, not shipments."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_panel_packaging_descum",
+    "entity_id": "naura",
+    "category_id": "strip_dry",
+    "record_kind": "source_native_family",
+    "name": "面板级封装 Descum 设备",
+    "aliases": [
+      "面板级封装 Descum 设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-055",
+      "source_id": "naura_h1_2026",
+      "page": 17,
+      "excerpt": "②面板级封装 Descum 设备 主 要 用 于 面 板 级 封 装 的 等 离 子 体 去 胶 、 残 留 物 去 除 、 表 面 改 性 等 干 法 工 艺 ， 可 支 持 310mm×310mm 、 510mm×515mm、600mm×600mm 等规格的基板。设备搭载主动降温系统，可将基板温度稳定控制在 75℃以内，适配 PI、 PR、ABF 等材料的低温工艺需求；基于动态电极间距调节技术，可实时优化等离子体分布，保障大面板去胶效果的均匀 性，拓宽工艺窗口的同时提升单位产出效率。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_defined_panel_packaging_product_family",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "The p17 product row defines the panel Descum family; separate p10 claim records first factory shipment, not customer installation or production use.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-055",
+        "source_id": "naura_h1_2026",
+        "page": 17,
+        "excerpt": "②面板级封装 Descum 设备 主 要 用 于 面 板 级 封 装 的 等 离 子 体 去 胶 、 残 留 物 去 除 、 表 面 改 性 等 干 法 工 艺 ， 可 支 持 310mm×310mm 、 510mm×515mm、600mm×600mm 等规格的基板。设备搭载主动降温系统，可将基板温度稳定控制在 75℃以内，适配 PI、 PR、ABF 等材料的低温工艺需求；基于动态电极间距调节技术，可实时优化等离子体分布，保障大面板去胶效果的均匀 性，拓宽工艺窗口的同时提升单位产出效率。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_defined_panel_packaging_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "The p17 product row defines the panel Descum family; separate p10 claim records first factory shipment, not customer installation or production use."
+      },
+      {
+        "claim_id": "NAURA_H1_2026-OPS-021",
+        "source_id": "naura_h1_2026",
+        "page": 10,
+        "excerpt": "在真空新能源装备业务板块，公司深耕高压、高温、高真空技术，主要产品包括晶体生长设备、真空热处理设备、 气氛保护热处理设备、连续式热处理设备、等离子增强化学气相沉积设备、扩散氧化退火设备、磁控溅射镀膜设备、低 压化学气相沉积设备、多弧离子镀膜设备、金属双极板镀膜设备等，广泛应用于材料热处理、真空电子、半导体材料、 磁性材料、新能源等领域，为新材料、新工艺、新能源等领域的绿色制造提供技术支持。报告期内，光伏行业仍处于周 期调整阶段，公司持续推进业务结构优化，加快向高景气赛道转型：完成对成都国泰真空的深度业务整合，高端光学镀 膜设备市场拓展稳步推进；面板级封装领域取得重要突破，首台面板级 Descum 设备成功出厂，与 PVD、PIQ 设备形成 整体工艺解决方案；半导体材料、氢能、锂电等新赛道客户验证与订单落地持续取得进展，多赛道协同发展的业务格局 进一步巩固。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "first_panel_descum_factory_shipped",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p10 says first panel Descum successfully left factory, not delivered to a customer or installed."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_panel_packaging_piq",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "面板级封装 PIQ 固化设备",
+    "aliases": [
+      "面板级封装 PIQ 固化设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-056",
+      "source_id": "naura_h1_2026",
+      "page": 17,
+      "excerpt": "③面板级封装 PIQ 设备 主要用于面板级封装 PI 胶固化工艺，可支持 310mm×310mm、510mm×515mm 规格的基板。设备采用立式大管径炉 体加热技术，温度均匀性高，从源头保障 PI 固化质量；搭载自主研发的控氧与颗粒控制技术，可将系统氧含量控制在 10ppm 以下，颗粒控制达到晶圆级水平，可有效防止 PI 氧化、保障膜层性能，支撑更小线宽的精密封装工艺需求。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_defined_panel_packaging_product_family",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "PI cure furnace for panels, not wafer thermal furnace; oxygen ppm is specification, not process node.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-056",
+        "source_id": "naura_h1_2026",
+        "page": 17,
+        "excerpt": "③面板级封装 PIQ 设备 主要用于面板级封装 PI 胶固化工艺，可支持 310mm×310mm、510mm×515mm 规格的基板。设备采用立式大管径炉 体加热技术，温度均匀性高，从源头保障 PI 固化质量；搭载自主研发的控氧与颗粒控制技术，可将系统氧含量控制在 10ppm 以下，颗粒控制达到晶圆级水平，可有效防止 PI 氧化、保障膜层性能，支撑更小线宽的精密封装工艺需求。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_defined_panel_packaging_product_family",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "PI cure furnace for panels, not wafer thermal furnace; oxygen ppm is specification, not process node."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_optical_ebeam_evaporation",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "电子束蒸发光学镀膜设备",
+    "aliases": [
+      "电子束蒸发光学镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-057",
+      "source_id": "naura_h1_2026",
+      "page": 18,
+      "excerpt": "①电子束蒸发光学镀膜设备 光学电子束蒸发镀膜机是高端光学元器件制造的核心装备，其性能直接决定紫外光学、可见光及红外器件的膜层质 量与光学表现。公司依托长期真空镀膜技术积淀与自主研发经验，突破了高稳定性电子束蒸发源、射频离子源辅助沉积、 光学膜厚在线监控等核心技术，推出覆盖紫外、可见光及红外全波段应用的光学电子束蒸发镀膜系列设备，可稳定支持 增透膜、高反膜、分光膜、窄带滤光片及截止滤光片等复杂膜系制备；设备在膜厚控制精度与批次一致性方面表现突出， 镀膜均匀性稳定，广泛应用于光通信、车载光学、激光、医疗及 AR/VR 等前沿领域。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_defined_product_series_launched",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Issuer optical-coating product family in portfolio discussed after Chengdu Guotai integration. Outside IC wafer deposition; no batch delivery, original NAURA in-house manufacture, or customer count established.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-057",
+        "source_id": "naura_h1_2026",
+        "page": 18,
+        "excerpt": "①电子束蒸发光学镀膜设备 光学电子束蒸发镀膜机是高端光学元器件制造的核心装备，其性能直接决定紫外光学、可见光及红外器件的膜层质 量与光学表现。公司依托长期真空镀膜技术积淀与自主研发经验，突破了高稳定性电子束蒸发源、射频离子源辅助沉积、 光学膜厚在线监控等核心技术，推出覆盖紫外、可见光及红外全波段应用的光学电子束蒸发镀膜系列设备，可稳定支持 增透膜、高反膜、分光膜、窄带滤光片及截止滤光片等复杂膜系制备；设备在膜厚控制精度与批次一致性方面表现突出， 镀膜均匀性稳定，广泛应用于光通信、车载光学、激光、医疗及 AR/VR 等前沿领域。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "source_defined_product_series_launched",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Optical coating PVD outside IC wafer equipment; no batch delivery in this paragraph."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_optical_reactive_sputter",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "单体反应磁控溅射设备",
+    "aliases": [
+      "单体反应磁控溅射设备",
+      "单体磁控溅射镀膜设备（后反应）"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-058",
+      "source_id": "naura_h1_2026",
+      "page": 18,
+      "excerpt": "②单体反应磁控溅射设备 单体磁控溅射镀膜设备（后反应）是面向中低端市场推出的高性价比镀膜解决方案，主要应用于装饰膜层及常规增 透膜等光学薄膜制备领域。依托成熟的磁控溅射技术平台与后反应工艺控制经验，突破了均匀磁场设计、靶材冷却与气 体流量精密调控等核心技术，推出该系列单体磁控溅射设备；设备采用自主设计的紧凑型腔室结构，操作维护简便，在 保证基础镀膜性能的同时有效降低了客户的一次性投入与运行成本，可稳定支持金属膜、氮化物膜、氧化物膜及常规增 透膜系制备，已在家居五金、车载、光学镜片等行业获得批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_application_in_named_downstream_industries",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source-defined post-reaction sputtering equipment covers decorative metal/nitride/oxide films and conventional optical antireflection films; batch application in home hardware, automotive and optical lenses is issuer claim. Outside IC wafer PVD; no unit count or NAURA in-house manufacturing inference.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-058",
+        "source_id": "naura_h1_2026",
+        "page": 18,
+        "excerpt": "②单体反应磁控溅射设备 单体磁控溅射镀膜设备（后反应）是面向中低端市场推出的高性价比镀膜解决方案，主要应用于装饰膜层及常规增 透膜等光学薄膜制备领域。依托成熟的磁控溅射技术平台与后反应工艺控制经验，突破了均匀磁场设计、靶材冷却与气 体流量精密调控等核心技术，推出该系列单体磁控溅射设备；设备采用自主设计的紧凑型腔室结构，操作维护简便，在 保证基础镀膜性能的同时有效降低了客户的一次性投入与运行成本，可稳定支持金属膜、氮化物膜、氧化物膜及常规增 透膜系制备，已在家居五金、车载、光学镜片等行业获得批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_application_in_named_downstream_industries",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Optical coating equipment outside IC wafer PVD; batch application is issuer claim, no unit count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_sic_gan_gaas_epi_group",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "SiC/GaN/GaAs 外延设备组",
+    "aliases": [
+      "SiC/GaN/GaAs 外延设备组"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-074",
+      "source_id": "naura_h1_2026",
+      "page": 12,
+      "excerpt": "碳化硅、氮化镓、砷化镓外延设备均实现批量供货，产品工 艺良率表现优异，进一步完善了公司在第三代半导体领域的装备布局。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "each_named_material_family_batch_supplied",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source says 碳化硅、氮化镓、砷化镓外延设备均实现批量供货; group record is not three unique commercial models or a unit count.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-074",
+        "source_id": "naura_h1_2026",
+        "page": 12,
+        "excerpt": "碳化硅、氮化镓、砷化镓外延设备均实现批量供货，产品工 艺良率表现优异，进一步完善了公司在第三代半导体领域的装备布局。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "each_named_material_family_batch_supplied",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source says 碳化硅、氮化镓、砷化镓外延设备均实现批量供货; group record is not three unique commercial models or a unit count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_panel_packaging_equipment_group",
+    "entity_id": "naura",
+    "category_id": "multi_equipment",
+    "record_kind": "source_native_family",
+    "name": "面板级封装系列专用工艺设备",
+    "aliases": [
+      "面板级封装系列专用工艺设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-079",
+      "source_id": "naura_h1_2026",
+      "page": 17,
+      "excerpt": "报告期内正式推出面板级封装系列专用工艺设备，覆盖核心工序环节，有望成为板块新的业务增长点。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "series_released_in_report_period",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Report-period launch is stated for panel-level series as a group, not independently dated for every PVD/Descum/PIQ subtype.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-079",
+        "source_id": "naura_h1_2026",
+        "page": 17,
+        "excerpt": "报告期内正式推出面板级封装系列专用工艺设备，覆盖核心工序环节，有望成为板块新的业务增长点。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "series_released_in_report_period",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Report-period launch is stated for panel-level series as a group, not independently dated for every PVD/Descum/PIQ subtype."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_newgen_ccp_validation_group",
+    "entity_id": "naura",
+    "category_id": "etch_ccp",
+    "record_kind": "source_native_family",
+    "name": "新一代 CCP 刻蚀设备",
+    "aliases": [
+      "新一代 CCP 刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-080",
+      "source_id": "naura_h1_2026",
+      "page": 19,
+      "excerpt": "新一代 CCP 刻蚀设 备、高端 TSV 电镀设备、混合键合设备、碳化硅离子注入设备等高端产品相继突破并落地客户验证，快速填补国内空白。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_validation_reached",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "p19 says this new-generation group reached customer validation; no model, customer identity, completion or production stage.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-080",
+        "source_id": "naura_h1_2026",
+        "page": 19,
+        "excerpt": "新一代 CCP 刻蚀设 备、高端 TSV 电镀设备、混合键合设备、碳化硅离子注入设备等高端产品相继突破并落地客户验证，快速填补国内空白。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_validation_reached",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "p19 says this new-generation group reached customer validation; no model, customer identity, completion or production stage."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_h1_2026_temporary_debonding_group",
+    "entity_id": "naura",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "临时键合与解键合设备（H1 2026 源述家族）",
+    "aliases": [
+      "临时键合与解键合设备"
+    ],
+    "evidence": {
+      "claim_id": "NAURA_H1_2026-OPS-045",
+      "source_id": "naura_h1_2026",
+      "page": 15,
+      "excerpt": "②临时键合与解键合设备 主要用于三维集成、晶圆减薄过程中超薄晶圆的支撑保护，以及减薄后的无应力分离，是先进封装制程的重要配套 装备。公司临时键合设备具备优异的胶层均匀性与厚度控制能力，集成高精视觉校准系统；解键合设备采用无应力分离 技术，工艺稳定性高，可适配 2.5D/3D 封装、晶圆减薄等多类场景，已实现批量稳定供货。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "combined_family_batch_stable_supply",
+    "maturity_as_reported_in": "naura_h1_2026",
+    "notes": "Source gives batch stable supply for the combined temporary-bonding/debonding family in domestic lines. It does not allocate orders, shipments or maturity separately to the two subtypes or identify the manufacturing subsidiary.",
+    "maturity_history": [
+      {
+        "claim_id": "NAURA_H1_2026-OPS-045",
+        "source_id": "naura_h1_2026",
+        "page": 15,
+        "excerpt": "②临时键合与解键合设备 主要用于三维集成、晶圆减薄过程中超薄晶圆的支撑保护，以及减薄后的无应力分离，是先进封装制程的重要配套 装备。公司临时键合设备具备优异的胶层均匀性与厚度控制能力，集成高精视觉校准系统；解键合设备采用无应力分离 技术，工艺稳定性高，可适配 2.5D/3D 封装、晶圆减薄等多类场景，已实现批量稳定供货。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "combined_family_batch_stable_supply",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Source gives batch stable supply for the combined temporary-bonding/debonding family in domestic lines. It does not allocate orders, shipments or maturity separately to the two subtypes or identify the manufacturing subsidiary."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2024_12inch_conductor_icp",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "12 英寸导体刻蚀设备（ICP）",
+    "aliases": [
+      "12 英寸导体刻蚀设备（ICP）"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-18-01",
+      "source_id": "naura_2024",
+      "page": 18,
+      "excerpt": "产品类别         图示                        应用介绍\n\n                      主要用于 12 英寸逻辑、存储等领域浅沟槽隔离刻蚀、栅极刻蚀、侧墙刻蚀、\n12 英寸导体\n                      金属硬掩膜刻蚀、高 k 值介质刻蚀、钨/钛/钽等金属及其化合物刻蚀等工艺。\n 刻蚀设备\n                      该设备具备高密度电感耦合脉冲等离子体源、多温区静电卡盘、双层结构防护\n  （ICP）\n                      涂层和反应腔原位涂层等核心技术，实现了各技术节点的突破。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Source-defined equipment family, not a unique commercial model. Do not infer physical shipments or model counts from roster inclusion.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_8inch_sic_epi",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "8 英寸碳化硅外延设备（EPI）",
+    "aliases": [
+      "8 英寸碳化硅外延设备（EPI）"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-21-09",
+      "source_id": "naura_2024",
+      "page": 21,
+      "excerpt": "8 英寸碳化硅              主要用于 SiC 外延工艺。该设备采用水平热壁式技术路线，应用先进的控\n  外延设备               温、控压算法和专业的进气、混流结构，保证热场和气流场均匀稳定。厚\n  （EPI）              度均匀性、掺杂浓度均匀性、缺陷密度等工艺指标达到了行业领先水平。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Source-defined equipment family, not a unique commercial model. Do not infer physical shipments or model counts from roster inclusion.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_tube_boat_cleaner",
+    "entity_id": "naura",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "管舟清洗设备",
+    "aliases": [
+      "管舟清洗设备"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-23-05",
+      "source_id": "naura_2024",
+      "page": 23,
+      "excerpt": "管舟清洗\n                    主要用于石英管/舟、石英板、基座等零部件浸泡式清洗。\n 设备",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Source-defined equipment family, not a unique commercial model. Do not infer physical shipments or model counts from roster inclusion.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_hydrogen_sintering_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "高温氢气烧结炉",
+    "aliases": [
+      "高温氢气烧结炉"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-25-01",
+      "source_id": "naura_2024",
+      "page": 25,
+      "excerpt": "主要用于半导体设备核心部件陶瓷材料在高温氢气下的烧结。设备最高\n高温氢气烧结炉\n                        工艺温度 1650℃，可在高温氢气气氛下长期保温并具有良好的均匀性。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Industrial high-temperature hydrogen sintering furnace for ceramic materials used in semiconductor equipment core components, not a wafer-process furnace. FY2024 product-table batch-sales inclusion is a company claim, not a count.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_vacuum_brazing_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "真空钎焊炉",
+    "aliases": [
+      "真空钎焊炉"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-25-03",
+      "source_id": "naura_2024",
+      "page": 25,
+      "excerpt": "主要用于铝及铝合金材料的真空钎焊工艺，广泛应用于半导体核心零部\n                        件加工。通过将钎料加热熔化，依靠毛细力作用对零件间隙进行填充，\n 真空钎焊炉\n                        实现冶金结合。设备采用分区功率控制与温度补偿实现高工艺温度均匀\n                        性（≤±3℃），增强了焊接质量，助力客户提高产品质量。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Industrial vacuum brazing furnace for aluminium-alloy materials and semiconductor core-component processing, not a wafer-process furnace. FY2024 product-table batch-sales inclusion is a company claim, not a count.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_roll_magnetron_sputter",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "磁控溅射卷绕镀膜设备",
+    "aliases": [
+      "磁控溅射卷绕镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-26-01",
+      "source_id": "naura_2024",
+      "page": 26,
+      "excerpt": "该设备主要用于电极集流体、薄膜固态电解质、固固界面缓冲层制备。\n磁控溅射卷绕镀膜\n                       基于柔性基材的真空镀膜技术，可实现电池安全性提升、能量密度提高\n   设备\n                       和阻抗降低。设备能耗低、稳定性好，可有效降低客户运营成本。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Roll-to-roll magnetron sputtering family for lithium-battery current collectors and related flexible substrates, not IC wafer PVD. FY2024 product-table batch-sales inclusion does not establish unit count or unique model.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_roll_evaporation",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "卷绕式蒸发镀膜设备",
+    "aliases": [
+      "卷绕式蒸发镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-26-02",
+      "source_id": "naura_2024",
+      "page": 26,
+      "excerpt": "该设备是一种专为柔性基材（如高分子薄膜、金属箔）表面连续镀膜设\n卷绕式蒸发镀膜设               计的先进设备，适用于新能源电池集流体、柔性电子电路、光学薄膜及\n备                      包装材料等领域，兼具高产能、低能耗优势，推动柔性电子与绿色制造\n                       的规模化发展。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Roll-to-roll evaporation family for flexible substrates and battery-current-collector or other non-IC uses, not IC wafer PVD. FY2024 product-table batch-sales inclusion does not establish unit count or unique model.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2024_cathodic_arc_magnetron_coater",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "阴极电弧复合磁控溅射镀膜设备",
+    "aliases": [
+      "阴极电弧复合磁控溅射镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "FY24-ROSTER-26-03",
+      "source_id": "naura_2024",
+      "page": 26,
+      "excerpt": "（5）氢能金属双极板镀膜设备\n\n  氢能金属双极板镀膜设备是专为氢燃料电池核心组件——金属双极板表面处理而设计的高端制造装备，旨在通过精\n密镀膜技术提升双极板的耐腐蚀性、导电性及耐久性，满足燃料电池苛刻工况下的性能需求。\n  北方华创主要批量销售的氢能装备包括：\n  产品类别         图示                       应用介绍\n                       主要用于氢能燃料电池双极板涂层工艺。该设备凭借自研的 GISETCH 气\n阴极电弧复合磁控               体离子刻蚀及辅助沉积技术、4G-CAE 第四代阴极电弧技术及泰坦涂层\n 溅射镀膜设备                工艺技术，在涂层性能显著提高的同时，有效降低生产成本，为氢能燃\n                       料电池产业化提供支持。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "listed_among_company_main_batch_sold_product_families",
+    "maturity_as_reported_in": "naura_2024",
+    "notes": "Cathodic-arc/magnetron coating family for hydrogen-fuel-cell metal bipolar plates, not IC wafer PVD. FY2024 product-table batch-sales inclusion does not establish unit count or unique model.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_icp_polysilicon_metal_series",
+    "entity_id": "naura",
+    "category_id": "etch_icp",
+    "record_kind": "source_native_family",
+    "name": "多晶硅及金属刻蚀系列 ICP 设备",
+    "aliases": [
+      "多晶硅及金属刻蚀系列 ICP 设备"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-010",
+      "source_id": "naura_2023",
+      "page": 16,
+      "excerpt": "  在刻蚀设备中，电感耦合等离子体刻蚀机（ICP）具有等离子体密度高、可在低压下生成、水平和垂直方向电场可独\n立控制等优势，主要应用于硅和金属刻蚀，以及部分介质材料的精细刻蚀。 ICP 市场份额在刻蚀机总量中占比约 53%。北\n方华创作为国内领先的高端电子工艺装备供应商，深耕 ICP 刻蚀技术二十余年，先后攻克了电感耦合脉冲等离子体源、多\n温区静电卡盘、双层结构防护涂层和反应腔原位涂层等技术难题，实现了 12 英寸各技术节点的突破。公司多晶硅及金属刻\n蚀系列 ICP 设备实现规模化应用，完成了浅沟槽隔离刻蚀、栅极掩膜刻蚀等多道核心工艺开发和验证，助力国内主流客户\n技术通线，已实现多个客户端大批量量产并成为基线设备。截至 2023 年底，北方华创 ICP 刻蚀设备已累计出货超 3200 腔。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "scaled_application_validated_and_baseline_at_multiple_customers",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_tsv_etch_family",
+    "entity_id": "naura",
+    "category_id": "etch_dry",
+    "record_kind": "source_native_family",
+    "name": "12 英寸 TSV 刻蚀设备",
+    "aliases": [
+      "12 英寸 TSV 刻蚀设备"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-014",
+      "source_id": "naura_2023",
+      "page": 16,
+      "excerpt": "北方华创推出的\n12 英寸 TSV 刻蚀设备，通过快速气体和射频切换控制系统，结合优良的工艺配方架构，在高深宽比硅通孔刻蚀中可精确控\n制侧壁形貌，实现侧壁无损伤和线宽无损失。通过优异的实时控制性能，大幅提升刻蚀速率，达到国际主流水平。目前北\n方华创的 TSV 刻蚀设备已广泛应用于国内主流 Fab 厂和先进封装厂，是国内 TSV 量产线的主力机台，市占率领先。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_in_domestic_fab_and_advanced_packaging_production_lines",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_ic_pvd_process_group",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "集成电路 PVD 工艺设备系列",
+    "aliases": [
+      "集成电路 PVD 工艺设备系列"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-016",
+      "source_id": "naura_2023",
+      "page": 17,
+      "excerpt": "北方华创作为中国 PVD 工艺装备技术的先行者，早在 2008 年就开始了 PVD 装备的研发工作。经过\n十余年的技术沉淀与创新突破，北方华创先后突破了磁控溅射源设计、等离子体产生及控制、腔室设计与仿真模拟、颗粒\n控制、软件控制等多项核心技术，实现了对逻辑芯片和存储芯片金属化制程的全覆盖。截至 2023 年底，集成电路领域铜\n（Cu）互连、铝垫层（Al Pad）、金属硬掩膜（Metal Hard Mask）、金属栅（Metal Gate）、硅化物（Silicide）等工艺设备\n在客户端实现稳定量产，成为多家客户的基线设备，并广泛应用在逻辑、存储等主流产线，同时也成功实现功率半导体、\n三维集成和先进封装、新型显示、化合物半导体等多个领域的量产应用。截至 2023 年底，公司已推出 40 余款 PVD 设备，\n累计出货超 3500 腔。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_stable_customer_mass_production_for_named_process_subsets",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_cvd_dc_mcvd_group",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "DCVD/MCVD 系列产品",
+    "aliases": [
+      "DCVD/MCVD 系列产品"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-019",
+      "source_id": "naura_2023",
+      "page": 17,
+      "excerpt": "   化学气相沉积（CVD）主要用于介质薄膜和金属薄膜的制备。按照薄膜材料，CVD 分为介质化学气相沉积（DCVD）\n和金属化学气相沉积（MCVD）两大类。DCVD 主要包括等离子增强型化学气相沉积（PECVD）、次常压化学气相沉积\n（SACVD）、介质原子层沉积（DALD）等。MCVD 主要包括低压化学气相沉积（LPCVD）、有机金属化学气相沉积\n（MOCVD）和金属原子层沉积（MALD）等。北方华创基于十余年沉积工艺技术的丰富经验，布局拓展了 DCVD 和\nMCVD 两大系列产品。针对介质和金属化学气相沉积关键技术需求，攻克了进气系统均匀性控制、压力精确平衡、双频驱\n动的容性等离子体控制、多站位射频功率均分控制等多项技术难题，实现金属硅化物、金属栅极、钨塞沉积、高介电常数\n原子层沉积等工艺设备的全方位覆盖，关键技术指标均达到业界领先水平，赢得客户高度评价。截至 2023 年底，北方华创\n已实现 30 余款 CVD 产品量产应用，为超过 50 家客户提供技术支持，累计出货超 1000 腔。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_mass_production_application_for_source_defined_cvd_group",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_12inch_atmospheric_silicon_epi",
+    "entity_id": "naura",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "12 英寸常压硅外延设备",
+    "aliases": [
+      "12 英寸常压硅外延设备"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-025",
+      "source_id": "naura_2023",
+      "page": 17,
+      "excerpt": "   外延（EPI）设备是材料生长的关键设备，广泛应用于集成电路、功率半导体、化合物半导体等领域。经过十余年的技\n术沉淀与创新突破，北方华创已形成具有核心技术优势、品类齐全、应用广泛的外延系列化产品，具备单晶硅、多晶硅、\n碳化硅（SiC）、氮化镓（GaN）等多种材料外延生长技术能力，覆盖集成电路、功率半导体、化合物半导体等领域应用需\n求。截至 2023 年底，北方华创已发布 20 余款量产型外延设备，累计出货超 1000 腔。 公司自主研发的 12 英寸常压硅外延\n设备，实现了对逻辑芯片、存储芯片、功率器件及特色工艺的全覆盖，且已全部成功量产，成为客户的基线产品。北方华\n创“硅薄膜外延设备研发及产业化”项目于 2023 年获评“北京市科学技术进步奖一等奖”。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_customer_baseline_and_mass_production",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": [
+      {
+        "claim_id": "naura_fy2022_fy2023_12inch_atmospheric_silicon_epi",
+        "source_id": "naura_2022",
+        "page": 13,
+        "excerpt": "12 吋常压硅外延(Si Epi)设备在多家客户端实现稳定量产，2022 年荣获中国集成电路创新联盟第五届“IC 创新\n奖”。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "12-inch atmospheric silicon epitaxy achieved stable mass production at multiple customers; no customer or unit count.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Root checked source text and family mapping. Historical claim attaches to an existing generic family; no equivalence to a later named model, exact event date, node allocation or independent corroboration inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_wet_cleaning_group",
+    "entity_id": "naura",
+    "category_id": "cleaning",
+    "record_kind": "source_native_family",
+    "name": "槽式及单片清洗设备系列",
+    "aliases": [
+      "槽式及单片清洗设备系列"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-027",
+      "source_id": "naura_2023",
+      "page": 17,
+      "excerpt": "   在清洗设备领域，北方华创经过多年的技术积累，先后突破了多项关键模块设计技术和清洗工艺技术，包括伯努利卡\n盘和双面工艺卡盘、高效率药液回收系统、热 SPM 工艺、热磷酸工艺、低压干燥工艺等，实现了槽式工艺全覆盖，同时高\n端单片工艺实现突破。公司在集成电路领域的工艺设备均已在客户端实现量产。截至 2023 年底，公司清洗设备累计出货超\n1200 台。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "reported_customer_mass_production_for_ic_process_equipment_group",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": [
+      {
+        "claim_id": "naura_fy2022_fy2023_wet_cleaning_group",
+        "source_id": "naura_2022",
+        "page": 14,
+        "excerpt": "清洗装备方面，拥有单片清洗、槽式清洗两大技术平台，主要应用于 12 吋集成电路领域。单片清洗机覆盖 Al/Cu 制\n程全部工艺，是国内主流厂商后道制程的优选机台；槽式清洗机已覆盖 RCA、Gate、PR strip、磷酸、Recycle 等工艺制\n程，并在多家客户端实现量产，屡获重复订单。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "Single-wafer cleaning covers Al/Cu process needs; batch cleaning covers source-listed processes and entered customer mass production with repeat orders. Group scope, no model attribution.",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Root checked source text and family mapping. Historical claim attaches to an existing generic family; no equivalence to a later named model, exact event date, node allocation or independent corroboration inferred."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_vacuum_heat_treatment_group",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "真空热处理工艺设备系列",
+    "aliases": [
+      "真空热处理工艺设备系列"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "source_reports_differing_validation_and_sales_by_subfamily",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated. Gas quench validated; SiC infiltration/recrystallization validated and sold; AMB/HTCC batch sold; continuous graphitization batch application.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_industrial_pvd_group",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "工业 PVD 镀膜设备系列",
+    "aliases": [
+      "工业 PVD 镀膜设备系列"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-034",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_source_defined_non_ic_coating_families",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_industrial_cvd_group",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "工业 CVD 镀膜设备系列",
+    "aliases": [
+      "工业 CVD 镀膜设备系列"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-034",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_source_defined_non_ic_coating_families",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Group identity only; source named subfamilies have differing maturity. No commercial-model or shipment count is inferred. Source report context, with explicit end-2023 language retained in excerpt where stated.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_new_rtp",
+    "entity_id": "naura",
+    "category_id": "thermal_rtp",
+    "record_kind": "source_native_family",
+    "name": "快速热退火设备",
+    "aliases": [
+      "快速热退火设备"
+    ],
+    "evidence": {
+      "claim_id": "R2023-OPS-GAP-001",
+      "source_id": "naura_2023",
+      "page": 2,
+      "excerpt": "在热处理技术方面，快速热退\n\n火设备、立式炉原子层沉积设备等新产品层出不穷，为客户提供全面解决方案的能力持续提升。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_as_new_product_no_sale_claim",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Source-defined group/product description only. No model count, installation, qualification or shipment is inferred.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_new_vertical_furnace_ald",
+    "entity_id": "naura",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "立式炉原子层沉积设备",
+    "aliases": [
+      "立式炉原子层沉积设备"
+    ],
+    "evidence": {
+      "claim_id": "R2023-OPS-GAP-001",
+      "source_id": "naura_2023",
+      "page": 2,
+      "excerpt": "在热处理技术方面，快速热退\n\n火设备、立式炉原子层沉积设备等新产品层出不穷，为客户提供全面解决方案的能力持续提升。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "named_as_new_product_no_sale_claim",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Source-defined group/product description only. No model count, installation, qualification or shipment is inferred.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_highspeed_roll_pvd_newgen",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "新一代复合集流体高速卷绕 PVD 镀膜设备",
+    "aliases": [
+      "新一代复合集流体高速卷绕 PVD 镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "R2023-OPS-GAP-002",
+      "source_id": "naura_2023",
+      "page": 2,
+      "excerpt": "在真空及锂电装备领域，\n\n推出了新一代复合集流体高速卷绕 PVD 镀膜设备，打开了新能源电池领域未来增长预期；围绕新一代陶瓷基复合材料的制\n\n备，研发了重结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "new_generation_product_developed_no_customer_installation_claim",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Source-defined group/product description only. No model count, installation, qualification or shipment is inferred.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "naura_fy2023_gas_quench_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "气淬炉",
+    "aliases": [
+      "气淬炉"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_process_validation_reported",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Industrial gas-quench furnace; FY2023 p18 says customer process validation passed. Not a wafer-processing family; no sale, count or unique model is established.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validation_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial gas-quench furnace; FY2023 p18 says customer process validation passed. Not a wafer-processing family; no sale, count or unique model is established."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_sic_infiltration_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "高纯 SiC 部件用渗硅炉",
+    "aliases": [
+      "高纯 SiC 部件用渗硅炉"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_process_validated_and_sold",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Industrial silicon-infiltration furnace for high-purity SiC components; FY2023 p18 reports customer process validation and sales, but not batch sales or a count.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validated_and_sold",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial silicon-infiltration furnace for high-purity SiC components; FY2023 p18 reports customer process validation and sales, but not batch sales or a count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_recrystallization_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "重结晶炉",
+    "aliases": [
+      "重结晶炉"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "customer_process_validated_and_sold",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Industrial recrystallization furnace in the high-purity SiC components passage; FY2023 p18 reports customer process validation and sales, but not batch sales or a count.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "customer_process_validated_and_sold",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial recrystallization furnace in the high-purity SiC components passage; FY2023 p18 reports customer process validation and sales, but not batch sales or a count."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_amb_brazing_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "AMB 基覆铜板钎焊炉",
+    "aliases": [
+      "AMB 基覆铜板钎焊炉"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_sales_reported",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Industrial AMB copper-clad-board brazing furnace; FY2023 p18 says batch sales. It is not a wafer-process thermal tool; no count or model identity is stated.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_sales_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial AMB copper-clad-board brazing furnace; FY2023 p18 says batch sales. It is not a wafer-process thermal tool; no count or model identity is stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_alumina_htcc_sintering_furnace",
+    "entity_id": "naura",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "氧化铝 HTCC 烧结炉",
+    "aliases": [
+      "氧化铝 HTCC 烧结炉"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-031",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "batch_sales_reported",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "Industrial alumina HTCC sintering furnace; FY2023 p18 says batch sales. It is not a wafer-process thermal tool; no count or model identity is stated.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-031",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  北方华创紧跟新能源的技术发展方向，围绕先进陶瓷领域，根据氮化铝、氮化硅、碳化硼、高纯氧化铝等先进陶瓷制\n备工艺需求，针对性开发了产业链相关的 13 种工艺设备，丰富了公司真空产品线。真空热处理工艺设备在半导体行业的关\n键零部件、分立器件等制造领域均实现广泛应用，其中气淬炉已通过客户工艺验证，高纯 SiC 部件用渗硅炉、重结晶炉通\n过客户工艺验证并实现销售，AMB 基覆铜板钎焊炉及氧化铝 HTCC 烧结炉已实现批量销售。此外，北方华创结合客户需\n求，开发了应用于光伏行业高温材料制备的连续石墨化炉， 目前在碳碳、碳陶等领域已实现批量应用。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "batch_sales_reported",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "Industrial alumina HTCC sintering furnace; FY2023 p18 says batch sales. It is not a wafer-process thermal tool; no count or model identity is stated."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_bipolar_vertical_pvd",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "双极板连续立式 PVD 镀膜设备",
+    "aliases": [
+      "双极板连续立式 PVD 镀膜设备"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-034",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_for_hydrogen_fuel_cell_bipolar_plates",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "FY2023 p18 developed multi-arc continuous vertical PVD coating for hydrogen fuel-cell bipolar plates. Non-IC family; not proven identical to the later broad bipolar-plate family or a unique commercial model.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-034",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "developed_for_hydrogen_fuel_cell_bipolar_plates",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 p18 developed multi-arc continuous vertical PVD coating for hydrogen fuel-cell bipolar plates. Non-IC family; not proven identical to the later broad bipolar-plate family or a unique commercial model."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_multifunction_pvd_test_platform",
+    "entity_id": "naura",
+    "category_id": "deposition_pvd",
+    "record_kind": "source_native_family",
+    "name": "多功能工艺测试平台（多弧、蒸镀、磁控溅射）",
+    "aliases": [
+      "多功能工艺测试平台（多弧、蒸镀、磁控溅射）"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-034",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_for_pvd_testing_and_customer_process_validation",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "FY2023 p18 says this multi-arc, evaporation and sputtering platform was developed for PVD process testing and customer process validation. This is not a claim that a named customer validated, bought or installed it.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-034",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "developed_for_pvd_testing_and_customer_process_validation",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 p18 says this multi-arc, evaporation and sputtering platform was developed for PVD process testing and customer process validation. This is not a claim that a named customer validated, bought or installed it."
+      }
+    ]
+  },
+  {
+    "platform_id": "naura_fy2023_sic_composite_industrial_cvd",
+    "entity_id": "naura",
+    "category_id": "deposition_cvd",
+    "record_kind": "source_native_family",
+    "name": "碳化硅纤维增强、碳化硅复合材料工业 CVD 设备",
+    "aliases": [
+      "碳化硅纤维增强、碳化硅复合材料工业 CVD 设备"
+    ],
+    "evidence": {
+      "claim_id": "N2023-OPS-034",
+      "source_id": "naura_2023",
+      "page": 18,
+      "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-23"
+    },
+    "reported_maturity": "developed_for_sic_composite_materials",
+    "maturity_as_reported_in": "naura_2023",
+    "notes": "FY2023 p18 says industrial CVD equipment was developed for SiC-fibre-reinforced and SiC composite materials around semiconductor-equipment components. Non-wafer family; no customer sale or production qualification is stated.",
+    "maturity_history": [
+      {
+        "claim_id": "N2023-OPS-034",
+        "source_id": "naura_2023",
+        "page": 18,
+        "excerpt": "  工业镀膜设备包括工业 PVD 镀膜设备和工业 CVD 镀膜设备。北方华创围绕新能源电池新型材料，设计开发了新一代\n复合集流体高速卷绕 PVD 镀膜设备，解决锂电池下一代复合集流体的批量制备难题。针对氢燃料电池领域，采用多弧技术，\n开发了双极板连续立式 PVD 镀膜设备；针对各种 PVD 工艺的测试与客户工艺验证，开发了多弧、蒸镀、磁控溅射为一体\n的多功能工艺测试平台，为各类功能涂层制备奠定了基础。同时，围绕半导体设备关键零部件的制备，北方华创研发了重\n结晶碳化硅结构件的 CVD 工艺技术，开发碳化硅纤维增强、碳化硅复合材料的工业 CVD 设备，为新一代陶瓷基复合材料\n领域提供解决方案。",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "developed_for_sic_composite_materials",
+        "status": "source_checked",
+        "reviewer": "Codex independent verifier",
+        "review_date": "2026-09-23",
+        "claim_kind": "company_reported",
+        "notes": "FY2023 p18 says industrial CVD equipment was developed for SiC-fibre-reinforced and SiC composite materials around semiconductor-equipment components. Non-wafer family; no customer sale or production qualification is stated."
+      }
+    ]
+  }
+]

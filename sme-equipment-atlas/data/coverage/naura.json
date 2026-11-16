@@ -1,0 +1,442 @@
+[
+  {
+    "coverage_id": "legacy-9",
+    "scope": "naura 2022 etch revenue",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts. Only 2022 comparatives in the 2023 filing reviewed; standalone 2022 report not reviewed."
+  },
+  {
+    "coverage_id": "legacy-10",
+    "scope": "naura 2022 etch sales_volume",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts. Only 2022 comparatives in the 2023 filing reviewed; standalone 2022 report not reviewed."
+  },
+  {
+    "coverage_id": "legacy-11",
+    "scope": "naura 2023 etch revenue",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts."
+  },
+  {
+    "coverage_id": "legacy-12",
+    "scope": "naura 2023 etch sales_volume",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts."
+  },
+  {
+    "coverage_id": "legacy-13",
+    "scope": "naura 2024 etch revenue",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2024"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts."
+  },
+  {
+    "coverage_id": "legacy-14",
+    "scope": "naura 2024 etch sales_volume",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2024"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts."
+  },
+  {
+    "coverage_id": "legacy-15",
+    "scope": "naura 2025 etch revenue",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "next_action": "Preserve lower bound; seek exact segment value separately.",
+    "notes": "Follow-up product-narrative review found >100亿元 etch revenue on p19. Exact value remains unavailable."
+  },
+  {
+    "coverage_id": "legacy-16",
+    "scope": "naura 2025 etch sales_volume",
+    "status": "reviewed_not_found",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "next_action": "Search investor-relations records and prospectus disclosures; preserve the gap until scope and unit can be verified.",
+    "notes": "Electronic process equipment revenue is broader than etching; physical-sales table uses yuan, not tool counts."
+  },
+  {
+    "coverage_id": "naura_h1_2025-operational",
+    "scope": "NAURA H1 2025 report operational milestones",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_h1_2025"
+    ],
+    "next_action": "Resolve exact publication date from local metadata where possible; extend to earlier/later documents.",
+    "notes": "Bounded platform/product discussion review, not complete extraction of every quantitative datum."
+  },
+  {
+    "coverage_id": "naura-financial-backfill",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "metric_id": "net_profit_attributable",
+    "period": "2021-2026H1",
+    "status": "reviewed_found",
+    "scope": "Annual/interim company profit, cash flow, consolidated cost, expensed R&D and separately defined direct R&D totals",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "41 new observations; original/restated FY23 financials preserved; explicit acquisition/perimeter flags; two R&D total concepts stay distinct.",
+    "next_action": "Earlier R&D from other originals; additional equipment-category financial/operating disclosures; no supported numerical bridge between the two reported R&D totals or constant-perimeter acquisition adjustment."
+  },
+  {
+    "coverage_id": "naura-disclosures1",
+    "entity_id": "naura",
+    "category_id": "all_businesses",
+    "metric_id": "customer_sales_share",
+    "period": "FY2024–FY2025, as disclosed in FY2025 annual report",
+    "status": "reviewed_found",
+    "scope": "Customer/supplier ranks and concentration, workforce and R&D cohorts, geographic revenues/shares, inventory, contract liabilities and cash capex.",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "notes": "77 distinct observations from 79 native rows; two repeated workforce totals link to one observation. Nine workforce rows retain annual period_status after review rather than inferred year-end dates.",
+    "next_action": "Historical tables from held NAURA annuals and equivalent disclosures for other firms; explicit overseas evidence remains a separate task."
+  },
+  {
+    "coverage_id": "naura-h1-2025-category-revenue-bounds",
+    "entity_id": "naura",
+    "scope": "Four source-defined equipment-family revenue bounds on physical pages10–11: etch, deposition, thermal and wet excluding KINGSEMI.",
+    "status": "reviewed_found",
+    "reviewed_source_ids": [
+      "naura_h1_2025"
+    ],
+    "notes": "Four reviewed revenue observations; not a completed firm operational sweep. Quantities, qualitative product families and other sources remain under review.",
+    "next_action": "Finish NAURA registered-source operational sweep before selecting further financial depth."
+  },
+  {
+    "coverage_id": "naura-2023-2024-operational-numeric-intake",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "49 reviewed numeric rows from FY2023/FY2024 operational passages, family revenues, customer tables and two furnace maximum-temperature specifications.",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024"
+    ],
+    "notes": "Four existing shipment aliases retained. Source family and qualified cumulative counts are distinct; 12 yuan-valued operating-table rows, lexical/unit holds and qualitative product records remain separate tasks. This does not close the five-source operational gate.",
+    "next_action": "Finish source-defined family and qualification mapping, held operational capabilities and full named-source dispositions before further financial depth."
+  },
+  {
+    "coverage_id": "naura-2025-product-family-intake",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "FY2025 product roster: 76 labels dispositioned, 49 source-defined families and nine explicit application links integrated.",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "notes": "Includes two explicitly attributed KINGSEMI coat/develop families. Five maturity statements retain report context without invented dates. Sixteen industrial/PV/parts-cleaning labels held and twelve component labels excluded. Nineteen qualitative claims dispositioned separately; this is not closure of the five-source operational sweep.",
+    "next_action": "Resolve held operational claims and finish numeric and source-by-topic dispositions across all five registered NAURA originals."
+  },
+  {
+    "coverage_id": "naura-2023-2024-monetary-operating-tables",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "All 36 numeric cells in FY2023 p20 and FY2024 p28 sales/production/inventory monetary tables.",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024"
+    ],
+    "notes": "33 new observations and three existing same-source revenue aliases; both equipment and component siblings, both years and printed growth retained. No physical-unit quantities inferred.",
+    "next_action": "Complete remaining annual qualitative and interim operational records; this table intake does not close the five-source operational sweep."
+  },
+  {
+    "coverage_id": "naura-fy2025-operational-numeric",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "FY2025 pp17–18 milestones, p26 KINGSEMI chamber configuration, pp32–33 monetary grid and IC revenue-growth narrative.",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "notes": "24 new observations and one existing revenue alias; complete18cellgrid. Delivery and shipment wording retained separately. Source-reported photovoltaic single-tool430MW/year capacity remains held; full operational sweep stays open.",
+    "next_action": "Finish annual/interim qualitative mappings, explicitly disposition remaining unit/lexical holds and source topics before further financial depth."
+  },
+  {
+    "coverage_id": "naura-interim-operational-families",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Both registered interim originals:83 operational claim dispositions,37 source-defined families/groups,10 additional maturity statements,two application links andtwo furnace specifications.",
+    "reviewed_source_ids": [
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "Unsupported subgroup stages held; company claims not independently corroborated. Chinese lexical thresholds and missing taxonomy remain explicit holds; no fabricated Arabic excerpt tokens or customer identities. Whole five-source sweep remains open.",
+    "next_action": "Complete remaining annual qualitative mappings and reconcile all source-topic dispositions and held capabilities."
+  },
+  {
+    "coverage_id": "naura-2023-2024-family-history",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "FY2023 qualification/family passages and all63FY2024 product roster labels with historical maturity evidence.",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024"
+    ],
+    "notes": "28 source-defined families/groups and43historical stages; no distinct-model count inferred. March2025releases retain post-FY2024 date context. Explicit taxonomy and identity holds remain; source-topic ledger still under independent review.",
+    "next_action": "Reconcile accepted annual/interim evidence to all40source-topic dispositions; resolve prioritized lexical/unit/identity holds."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-product_definitions",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Named product families and original definitions across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "All five originals reviewed. FY2023/FY2024 annual qualitative packet is now independently checked and integrated (28 source-native platforms and 43 append histories); FY2024 63-row roster has 48 canonical equipment-family targets, seven explicit taxonomy holds and eight component exclusions. Source groups and subfamilies overlap. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Retain crystal-growth/solar-PV taxonomy and product-identity holds as explicit reviewed dispositions; reopen on a newly registered original."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-shipments_installations",
+    "entity_id": "naura",
+    "status": "unresolved",
+    "scope": "Cumulative shipments and installations, preserving equipment units across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "Canonical cumulative shipments/deliveries cover FY2023, FY2024, FY2025 and H1 2025. H1 2026 Chinese-number claims remain lexical holds. No installed-base counts in five originals; FY2023 single-model 销量破百 and H1 2026 千台/数千台 figures remain source-native lexical holds, not invented digits. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json for 5 source-specific locators, accepted IDs, holds and not-found subtopics. Residual shipment claims are explicitly dispositioned in data/unresolved_claims/naura.json; the five-source search is complete, quantitative mapping remains unresolved. Follow-up 2026-09-23 resolves H1 2026 pp12/13/30 千台 delivery thresholds in naura_lexical_shipments_deliveries.json; p19 collective 数千台 remains qualitative and the FY2023 single-model hold remains open. Separate source-specific installed-base coverage records retain reviewed_not_found.",
+    "next_action": "Revisit lexical-number representation and source-specific product perimeters for registered unresolved claims; new originals reopen affected topics."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-product_volumes",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "All sibling per-product production, sales and inventory rows across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "All three annual sibling sales/production/inventory grids are mapped in yuan with printed comparative/YoY cells. H1 2025 has four family revenue lower bounds; H1 2026 has no corresponding family grid. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json for 5 source-specific locators, accepted IDs, holds and not-found subtopics.",
+    "next_action": "Retain source-vintage monetary table aliases and do not infer physical product units; reopen this topic if another registered source is added."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-orders_backlog",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Orders and backlog, tax and conditional status across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "FY2023 company-wide new signed orders >CNY 30bn is canonical; other source claims are qualitative. No numeric backlog stock in five originals. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json for 5 source-specific locators, accepted IDs, holds and not-found subtopics.",
+    "next_action": "Retain qualitative 2024–H1 2026 order statements without numbers; do not reinterpret contract liabilities as backlog."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-customers",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Customer counts and named customers without identity inference across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "FY2023 CVD customer-count claim and annual anonymized top-five sales rows mapped. No company-wide distinct buyer count or real equipment-buyer name in reviewed set. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json for 5 source-specific locators, accepted IDs, holds and not-found subtopics.",
+    "next_action": "Keep CVD >50 technical-support customers distinct from anonymous top-five sales counterparties; reopen only for a new named source."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-qualification_validation",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Qualification, validation and production-use status across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "All five originals reviewed. FY2023/FY2024 maturity histories are now independently checked and integrated; FY2025 and interim stages canonical. Group-level qualifications remain at the reported group; roll-to-roll and hydrogen subtype identity holds retained. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Retain source-qualified maturity stages and explicit subtype holds; do not backdate March 2025/2026 releases."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-production_capacity",
+    "entity_id": "naura",
+    "status": "unresolved",
+    "scope": "Actual versus planned capacity across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "Capacity, carrier size, configuration and factory systems/year are distinct; held capacities have original-located exact units but no unsupported conversion. FY2025 optional track 36 chambers canonical; annual factory tool-output count absent in all five. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json for 5 source-specific locators, accepted IDs, holds and not-found subtopics. Residual capacity/configuration claims are explicitly dispositioned in data/unresolved_claims/naura.json; no annual factory tool-output quantity is inferred.",
+    "next_action": "Resolve loading, output-capability and maximum-configuration measurement contracts or unclear source bases in the gap register; new originals reopen affected topics."
+  },
+  {
+    "coverage_id": "naura-operational-sweep-20260923-process_nodes",
+    "entity_id": "naura",
+    "status": "reviewed_not_found",
+    "scope": "Node claims explicitly linked to specific capabilities or products across naura_2023, naura_2024, naura_2025, naura_h1_2025, naura_h1_2026",
+    "reviewed_source_ids": [
+      "naura_2023",
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "All five originals reviewed for numerical or named equipment-bound process-node expressions. FY2023 p16, FY2024 p18, FY2025 p19 and H1 2026 p12 contain only generic unsized technology-node wording, which does not meet the schema node rule. H1 2025 has no such wording. ArF/KrF 193/248nm values are lithography wavelengths. See docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Keep process-node absence limited to these five originals; retain unsized language as generic family context only and reopen if a later source supplies an explicit numerical or named node."
+  },
+  {
+    "coverage_id": "naura_2021-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_2021"
+    ],
+    "notes": "Root review 2026-09-23: pp10–11; whole original text searched. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_2022-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_2022"
+    ],
+    "notes": "Root review 2026-09-23: pp13–15; whole original text searched. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_2023-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_2023"
+    ],
+    "notes": "Root review 2026-09-23: pp2,16–18; prior original sweep rechecked with fresh whole-document search. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_2024-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_2024"
+    ],
+    "notes": "Root review 2026-09-23: pp2,18–27; prior original sweep rechecked with fresh whole-document search. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_2025-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_2025"
+    ],
+    "notes": "Root review 2026-09-23: pp17–19; prior original sweep rechecked with fresh whole-document search. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_h1_2025-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_h1_2025"
+    ],
+    "notes": "Root review 2026-09-23: p14; prior original sweep rechecked with fresh whole-document search. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_h1_2026-installed-base-count-review",
+    "entity_id": "naura",
+    "metric_id": "cumulative_installations",
+    "status": "reviewed_not_found",
+    "scope": "Numerical cumulative installations or active installed fleet explicitly stated by NAURA in this original only",
+    "reviewed_source_ids": [
+      "naura_h1_2026"
+    ],
+    "notes": "Root review 2026-09-23: pp12–13,19–20,30; prior original sweep rechecked with fresh whole-document search. Registered original hash reverified. Search covered 装机, 安装/累计安装, 安装基数, 在用设备, 保有量, installed base, cumulative shipments/deliveries and operating context. No numerical equipment installation total identified. Production-use, shipment/delivery milestones and downstream energy-market installed capacity do not establish installed tool counts. Five earlier sources retain their prior source-specific review in docs/reviews/archive/2026-09-23_naura_operational_sweep.json.",
+    "next_action": "Reopen on a new original or an explicit installation-count passage; never infer zero or convert shipment counts to installations."
+  },
+  {
+    "coverage_id": "naura_2021-monetary-product-volumes",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Both sibling industry rows and sales/production/inventory amounts, including comparative and printed growth columns",
+    "reviewed_source_ids": [
+      "naura_2021"
+    ],
+    "notes": "Physical p13: complete six-row by three-column monetary operating grid, 18 observations in naura_2021_2022_monetary_operations.json. Original unit 元; no physical product-unit grid is inferred. Sales monetary values crosschecked with adjacent recognized-revenue table.",
+    "next_action": "Preserve source-native valuation and comparative vintage; no tool-count allocation."
+  },
+  {
+    "coverage_id": "naura_2022-monetary-product-volumes",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "Both sibling industry rows and sales/production/inventory amounts, including comparative and printed growth columns",
+    "reviewed_source_ids": [
+      "naura_2022"
+    ],
+    "notes": "Physical p16: complete six-row by three-column monetary operating grid, 18 observations in naura_2021_2022_monetary_operations.json. Original unit 元; no physical product-unit grid is inferred. Sales monetary values crosschecked with adjacent recognized-revenue table.",
+    "next_action": "Preserve source-native valuation and comparative vintage; no tool-count allocation."
+  },
+  {
+    "coverage_id": "naura-recent-window-stopping-check",
+    "entity_id": "naura",
+    "status": "reviewed_found",
+    "scope": "FY2024, FY2025 and H1 2026 key-financial and operational sweep stopping condition; not exhaustive historical capture",
+    "reviewed_source_ids": [
+      "naura_2024",
+      "naura_2025",
+      "naura_h1_2026"
+    ],
+    "notes": "Completed for this pass under the 2026-09-23 user targeting rule. Source-checked key financial IDs: N2024-CR-R, N2024-CR, NAURA-FY2024-NET-PROFIT-RESTATED, NAURA-FY2024-OCF-RESTATED, NAURA2024-RD-INVESTMENT-MGMT, N2025-CR, NAURA-FY2025-NET-PROFIT-REPORTED, NAURA-FY2025-OCF-REPORTED, NAURA2025-RD-INVESTMENT-MGMT, NAURA-H1-2026-REVENUE, NAURA-H1-2026-NET-PROFIT, NAURA-H1-2026-OCF, NAURA-H12026-RD-INVESTMENT-MGMT. Eight operational topics have source-bound coverage records under naura-operational-sweep-20260923-*; seven separate installed-base records distinguish absence from shipments. Remaining recent-source holds concern undefined hydrogen-coating output basis, PV carrier/solar-output units, collective delivery wording and a panel-PVD mounting ceiling already preserved qualitatively. These are explicit dispositions, not missing core WFE extraction. FY2024 monetary operating grid, family revenue bounds and product roster are already captured; do not equalize raw row counts by financial-depth expansion.",
+    "next_action": "Move to ACM Research recent-window sweep, then HBM gap families. Reopen NAURA only for an explicitly prioritized missing claim or a new relevant original."
+  }
+]

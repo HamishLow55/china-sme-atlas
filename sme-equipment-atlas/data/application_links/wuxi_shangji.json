@@ -1,0 +1,53 @@
+[
+  {
+    "link_id": "shangji_pvd_tsv_tgv_seed_2026",
+    "claim_id": "shangji_pvd_tsv_tgv_seed_2026",
+    "entity_id": "wuxi_shangji",
+    "category_id": "deposition_pvd",
+    "platform_id": "wuxi_shangji_pvd_family",
+    "application_id": "tsv",
+    "source_id": "piotech_shangji_restructuring_draft_20261015",
+    "page": 374,
+    "excerpt": "15:1 以上 TSV/TGV 的铜金属种子层沉积，具备优异的阶梯覆盖能力",
+    "status": "source_checked",
+    "link_kind": "supplier_capability",
+    "scope_note": "Capability claim; 以上 is ge. p228-229 states the same across a page break, so p374 is cited for an unbroken clause.",
+    "claim_kind": "company_reported",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30"
+  },
+  {
+    "link_id": "shangji_pvd_memory_packaging_shipped_2026",
+    "claim_id": "shangji_pvd_memory_packaging_shipped_2026",
+    "entity_id": "wuxi_shangji",
+    "category_id": "deposition_pvd",
+    "platform_id": "wuxi_shangji_pvd_family",
+    "application_id": "advanced_packaging",
+    "source_id": "piotech_shangji_restructuring_draft_20261015",
+    "page": 229,
+    "excerpt": "应用于晶圆制造金属互联工艺和存储先进封装金属化工艺的 PVD 设备已发货客户端",
+    "status": "source_checked",
+    "link_kind": "supplier_capability",
+    "scope_note": "Shipped to a customer site, not validated or in production. 存储先进封装 is not said to be HBM.",
+    "claim_kind": "company_reported",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30"
+  },
+  {
+    "link_id": "shangji_dry_etch_tsv_2026",
+    "claim_id": "shangji_dry_etch_tsv_2026",
+    "entity_id": "wuxi_shangji",
+    "category_id": "etch_dry",
+    "platform_id": "wuxi_shangji_dry_etch_family",
+    "application_id": "tsv",
+    "source_id": "piotech_shangji_restructuring_draft_20261015",
+    "page": 229,
+    "excerpt": "覆盖 TSV 刻蚀、氮化镓（GaN ）刻蚀、化合物半导体刻蚀、氧化钒（VOx）刻蚀、玻璃基片光电刻蚀等多种特色或通用工艺",
+    "status": "source_checked",
+    "link_kind": "supplier_capability",
+    "scope_note": "Product-table capability row.",
+    "claim_kind": "company_reported",
+    "reviewer": "astra_data_wave_2026_10_verifier",
+    "review_date": "2026-10-30"
+  }
+]

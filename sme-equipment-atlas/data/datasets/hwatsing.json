@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "hwatsing_disclosures",
+    "title": "Hwatsing company disclosures",
+    "kind": "company_filings",
+    "publisher": "hwatsing",
+    "version": "local-expansion-2026-09-21",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; originals local.",
+    "market_definitions": {}
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "angstrom_e_about_zh",
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "埃芯半导体介绍 (Angstrom-e Chinese about page)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.angstrom-e.com/about.aspx?id=303",
+    "sha256": "d892a5d0f9dabe89aa41d6cfc277b2ede1c3114d38a9aee699e2d39427e717e7",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. States founding (2020), national high-tech/'little giant' status, the four-product-line taxonomy, and the company-wide wafer-metrology mass-production claim tied to advanced Logic/DRAM/3D NAND (see entity notes; not registered as a platform-level claim)."
+  },
+  {
+    "source_id": "angstrom_e_homepage_en",
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "Shenzhen Angstrom Excellence Technology Co., Ltd. -- English homepage",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.angstrom-e.com/english/",
+    "sha256": "5c7b840625e299fd5347cb4db5699465727273bc0c72ba26983c4e7ead090afa",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. Primary identity source: states the company's own English name 'Shenzhen Angstrom Excellence Technology Co. Ltd', founding month (October 2020), and its brand-name product series (High Yield(R), Athena Xcellence(R))."
+  },
+  {
+    "source_id": "angstrom_e_product_listing",
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "埃芯半导体 产品方案 (Angstrom-e product-line listing page)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.angstrom-e.com/product.html",
+    "sha256": "5dd564b480445ade0331091cbe954b7fee2fe2fc757c0112cfdb08f34dbb41da",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. The issuer's own site navigation groups five named product families under the heading '先进封装量检测产品系列' (advanced-packaging metrology & inspection product series), including 'Angstrom InspecX(R) FusionView' (光学键合缺陷检测产品) and 'Angstrom InspecX(R) XRayView' (X射线2D/3D缺陷检测产品) -- the issuer's own basis for the advanced_packaging application link on those two platforms."
+  },
+  {
+    "source_id": "angstrom_e_product_fusionview",
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "光学键合缺陷检测产品 Angstrom InspecX(R) FusionView系列 (Angstrom-e FusionView product page)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.angstrom-e.com/productView.aspx?view=3894",
+    "sha256": "86ca13e5bb88727cb2b4ec4fdcd09d20a78a2bd0232aad3fdceef7905878ce72",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. Full stated capability: '支持晶圆键合工艺中气泡等缺陷检测; 具备高速探测与高分辨率能力，实现键合缺陷精准识别; 支持晶圆键合套刻（Overlay）量测'. No production/shipment/maturity status is stated on this page -- a capability/spec description only."
+  },
+  {
+    "source_id": "angstrom_e_product_xrayview",
+    "dataset_id": "angstrom_e_company_pages",
+    "title": "X射线2D/3D缺陷检测产品 Angstrom InspecX(R) XRayView系列 (Angstrom-e XRayView product page)",
+    "source_type": "company_product_page",
+    "publication_date": "",
+    "publication_date_precision": "unknown",
+    "url": "http://www.angstrom-e.com/productView.aspx?view=3897",
+    "sha256": "5bdce5d8839563ac5788a62138382cd0033ddc83ea3af86c4c682671287d3837",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "Original HTML archived 2026-10-07. Full stated capability: '采用高分辨率X射线成像技术，支持2D/2.5D/3D多模式成像; 面向晶圆级先进封装，支持TSV Cu填充及Bump内金属填充孔隙等缺陷检测; 支持无损式缺陷检测与关键尺寸精准测量'. This is the direct, explicit, first-party TSV-copper-fill-void-detection claim behind the metrology_tsv_void platform and tsv/advanced_packaging application links. No production/shipment/maturity status is stated on this page -- a capability/spec description only."
+  }
+]

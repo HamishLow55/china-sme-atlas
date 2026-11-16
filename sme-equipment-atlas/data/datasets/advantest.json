@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "advantest_disclosures",
+    "title": "Advantest Corporation IR disclosures (English)",
+    "kind": "company_filings",
+    "publisher": "advantest",
+    "version": "w9-foreign-incumbent-intake-2026-10-01",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original PDFs held locally under the maintainer's local archive (not distributed): Financial reports/Advantest filings/. Advantest's Annual Securities Report segment-note and 'Results of Production, Orders Received and Sales' tables are denominated in whole MILLIONS of yen throughout the three fiscal years reviewed (82nd-84th terms), so -- unlike TOWA's intake -- no JPY_thousand/JPY_million unit-schema gap was encountered for any revenue, cost, profit or R&D figure in this packet; all monetary observations are JPY_million. Advantest explicitly states in every Annual Securities Report reviewed that 'the results of orders received are also not listed since short-term trends of orders tend to fluctuate significantly...and are not necessarily appropriate as an indicator', and that 'production results are not listed' because they track sales closely -- i.e. new_orders, order_backlog and reported_production_amount are an explicit, named DISCLOSURE LIMIT for this issuer, not a search failure; no observations under those metrics are registered in this packet. No unit-shipment count or numeric installed-base figure was found in any held filing (Advantest discloses revenue and headcount by segment, but not tester unit counts); searched and not found, see handback report.",
+    "market_definitions": {}
+  }
+]

@@ -1,0 +1,9 @@
+[
+ {
+  "candidate_id": "wanye2024-p20-q1-2025-acceptances",
+  "source_id": "wanye_2024",
+  "page": 20,
+  "claim": "2025 年一季度，又获得 3 台设备验收，其中已交付的应用于 CIS 器件掺杂的低能大束流离子注入机实现首台设备验收",
+  "reason": "Entity attribution unresolved. The paragraph marks every combined figure explicitly (凯世通及嘉芯半导体共…) and every Kingstone-only figure explicitly (其中凯世通…); this clause carries neither marker, and its host sentence opens on 公司, the listed parent whose equipment business is Kingstone plus Jiaxin. Jiaxin is material (FY2024 revenue CNY 56.35m against Kingstone's CNY 195.3m) and also books acceptances. The 又 does follow a Kingstone-subject sentence, so the reading is defensible, but the claim is uncorroborated anywhere else in the filing while the neighbouring FY2024 customer figures are restated twice. Held rather than attributed; would need a parent equipment-segment scope that does not exist. Do not conflate with registered H126-KS-ACC (same value 3, but H1 2026)."
+ }
+]

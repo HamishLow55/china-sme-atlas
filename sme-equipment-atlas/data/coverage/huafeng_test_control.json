@@ -1,0 +1,58 @@
+[
+  {
+    "coverage_id": "huafeng-fy2025-financial",
+    "entity_id": "huafeng_test_control",
+    "category_id": "all_businesses",
+    "metric_id": "revenue",
+    "period": "FY2023–FY2025 source comparatives and FY2025 quarters",
+    "status": "reviewed_found",
+    "scope": "Prepared headline, quarterly, nonrecurring and consolidated financial-statement tables only.",
+    "reviewed_source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "notes": "311 source cells yield292 observations and19 exact same-source aliases. Parent-only and supplemental operating sections separate.",
+    "next_action": "Integrate independently reviewed customer/supplier and operating tables after mapped review."
+  },
+  {
+    "coverage_id": "huafeng-fy2025-concentration",
+    "entity_id": "huafeng_test_control",
+    "category_id": "all_businesses",
+    "metric_id": "customer_sales",
+    "period": "FY2025",
+    "status": "reviewed_found",
+    "scope": "Physical page28 ranked customer/supplier tables and adjacent aggregate/related-party disclosures.",
+    "reviewed_source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "notes": "28 observations; four repeated totals linked as aliases. Native CNY_10k and percent retained.",
+    "next_action": "Backfill historical concentration while keeping each reporting-period rank distinct."
+  },
+  {
+    "coverage_id": "huafeng-fy2025-operations",
+    "entity_id": "huafeng_test_control",
+    "category_id": "test",
+    "metric_id": "revenue",
+    "period": "FY2025 with FY2024 table comparatives and annual-report cumulative context",
+    "status": "reviewed_found",
+    "scope": "Prepared operating/R&D/IP/workforce tables plus explicit total headcount.",
+    "reviewed_source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "notes": "151 distinct table observations,8 same-source aliases and1 additional total-workforce count.",
+    "next_action": "Backfill historical product sales/production and preserve source-defined category/quantity units."
+  },
+  {
+    "coverage_id": "huafeng-fy2025-asset-analysis",
+    "entity_id": "huafeng_test_control",
+    "category_id": "all_businesses",
+    "metric_id": "foreign_assets",
+    "period": "2024-12-31–2025-12-31",
+    "status": "reviewed_found",
+    "scope": "FY2025 pp29–31 asset/ liability-analysis, foreign-assets and restricted-assets tables.",
+    "reviewed_source_ids": [
+      "huafeng_annual_2025"
+    ],
+    "notes": "72 native cells produce 48 observations; 24 exact same-source statement values remain aliases. Foreign asset aggregate does not establish a country, entity, customer, revenue geography or export destination.",
+    "next_action": "Keep statement and operating-table intake boundaries separate."
+  }
+]

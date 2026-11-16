@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "onto_10k_fy2025",
+    "dataset_id": "onto_disclosures",
+    "title": "Onto Innovation Inc. Form 10-K, fiscal year ended January 3, 2026",
+    "publication_date": "2026-02-24",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/704532/000119312526066937/onto-20260103.htm",
+    "sha256": "8c1cd6f9e5542f358ebae8efb4aeb458ff72d9bed5231d0fb85087b28253edd9",
+    "source_type": "annual_report",
+    "original_document_id": "onto_10k_fy2025",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR, filed 2026-02-24, accession 0001193125-26-066937. Full Form 10-K annual report as filed, HTML (not PDF), downloaded directly from sec.gov and hashed locally; kept at the maintainer's local archive (not distributed): Financial reports/Onto filings/onto_10k_fy2025.htm. Covers fiscal years ended January 3, 2026 ('fiscal 2025'), December 28, 2024 ('fiscal 2024') and December 30, 2023 ('fiscal 2023') -- a 52/53-week fiscal year, NOT a calendar year; see dataset notes for exact start/end dates. Registered locator_kind html / page_count 1 per the atlas's established HTML pattern; evidence.page is 1 throughout and the automated check-pages page check does not reach it. Financial statements are presented '(in thousands)' per their own headers except where a sentence states its own unit explicitly (e.g. 'open and committed purchase orders of $256.4 million' is stated in millions in its own sentence, not thousands) -- this packet takes the unit from whichever the cited text itself states. Full-text searched for 'HBM', 'high-bandwidth' and 'hybrid bond': zero matches in this filing."
+  },
+  {
+    "source_id": "onto_10k_fy2023",
+    "dataset_id": "onto_disclosures",
+    "title": "Onto Innovation Inc. Form 10-K, fiscal year ended December 30, 2023",
+    "publication_date": "2024-02-26",
+    "publication_date_precision": "day",
+    "url": "https://www.sec.gov/Archives/edgar/data/704532/000095017024020150/onto-20231230.htm",
+    "sha256": "3925c93fe50e55f25839f6c4a6b4528e6f2eeaea1fbeabf9260860c7e4cafd61",
+    "source_type": "annual_report",
+    "original_document_id": "onto_10k_fy2023",
+    "page_count": 1,
+    "locator_kind": "html",
+    "notes": "SEC EDGAR, filed 2024-02-26, accession 0000950170-24-020150. Full Form 10-K annual report as filed, HTML (not PDF), downloaded directly from sec.gov and hashed locally; kept at the maintainer's local archive (not distributed): Financial reports/Onto filings/onto_10k_fy2023.htm. Covers fiscal years ended December 30, 2023 ('fiscal 2023'), December 31, 2022 ('fiscal 2022') and January 1, 2022 ('fiscal 2021') -- a 52/53-week fiscal year, NOT a calendar year; see dataset notes for exact start/end dates. Used in this packet to extend the revenue/cost/R&D series back to FY2022 and FY2021 and for the FY2023 headcount/backlog narrative points. Registered locator_kind html / page_count 1; evidence.page is 1 throughout. Full-text searched for 'HBM', 'high-bandwidth' and 'hybrid bond': zero matches in this filing either."
+  }
+]

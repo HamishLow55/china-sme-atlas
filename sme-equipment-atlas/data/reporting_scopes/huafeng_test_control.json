@@ -1,0 +1,230 @@
+[
+  {
+    "reporting_scope_id": "huafeng_semiconductor_special_equipment_manufacturing",
+    "label": "半导体器件专用设备制造",
+    "category_id": "test",
+    "definition": "FY2025 source-native 主营业务 table scope 半导体器件专用设备制造; table provenance retained and no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "huafeng_test_systems",
+    "label": "测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native 主营业务 table scope 测试系统; table provenance retained and no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "huafeng_test_system_accessories",
+    "label": "测试系统配件",
+    "category_id": "test",
+    "definition": "FY2025 source-native 主营业务 table scope 测试系统配件; table provenance retained and no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "huafeng_source_defined_domestic_main_business",
+    "label": "境内",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 主营业务 table scope 境内; table provenance retained and no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "huafeng_source_defined_overseas_main_business",
+    "label": "境外",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 主营业务 table scope 境外; table provenance retained and no allocation beyond the disclosed row."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_analog_mixed_signal_test_system",
+    "label": "模拟和混合测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 模拟和混合测试系统; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_mixed_signal_pmic_test_system",
+    "label": "混合和PMIC测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 混合和PMIC测试系统; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_large_scale_soc_test_system",
+    "label": "大规模SoC测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 大规模SoC测试系统; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_high_power_high_speed_test_system",
+    "label": "大功率高速测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 大功率高速测试系统; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_high_speed_communications_system_software",
+    "label": "高速通信系统和软件",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 高速通信系统和软件; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_intelligent_component_screening_test_system",
+    "label": "元器件智能化筛选和测试系统",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 元器件智能化筛选和测试系统; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_projects_table_total",
+    "label": "合计",
+    "category_id": "test",
+    "definition": "FY2025 source-native R&D project table row 合计; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_invention_patents",
+    "label": "发明专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 发明专利; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_utility_model_patents",
+    "label": "实用新型专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 实用新型专利; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_design_patents",
+    "label": "外观设计专利",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 外观设计专利; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_software_copyrights",
+    "label": "软件著作权",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 软件著作权; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_other",
+    "label": "其他",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 其他; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_ip_table_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native R&D-results table class 合计; applications and grants, annual additions and cumulative report-context counts remain distinct."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_trading_financial_assets",
+    "label": "交易性金融资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 交易性金融资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_accounts_receivable",
+    "label": "应收账款",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 应收账款; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_inventory",
+    "label": "存货",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 存货; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_current_portion_noncurrent_assets",
+    "label": "一年内到期的非流动资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 一年内到期的非流动资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_other_current_assets",
+    "label": "其他流动资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 其他流动资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_property_plant_equipment",
+    "label": "固定资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 固定资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_intangible_assets",
+    "label": "无形资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 无形资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_other_noncurrent_assets",
+    "label": "其他非流动资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 其他非流动资产; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_accounts_payable",
+    "label": "应付账款",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 应付账款; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_contract_liabilities",
+    "label": "合同负债",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 合同负债; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_employee_compensation_payable",
+    "label": "应付职工薪酬",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 应付职工薪酬; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_asset_analysis_taxes_payable",
+    "label": "应交税费",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 资产及负债状况 table row 应交税费; a table-bound financial-statement component scope, not a product allocation."
+  },
+  {
+    "reporting_scope_id": "huafeng_foreign_assets_reported_total",
+    "label": "境外资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 境外资产情况 total only; it does not identify a country, subsidiary, revenue geography or foreign customer."
+  },
+  {
+    "reporting_scope_id": "huafeng_restricted_monetary_funds",
+    "label": "货币资金",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 主要资产受限情况 table row 货币资金, preserving restricted period-end/start and balance versus carrying-value columns."
+  },
+  {
+    "reporting_scope_id": "huafeng_restricted_property_plant_equipment",
+    "label": "固定资产",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 主要资产受限情况 table row 固定资产, preserving restricted period-start balance versus carrying-value columns."
+  },
+  {
+    "reporting_scope_id": "huafeng_restricted_assets_total",
+    "label": "合计",
+    "category_id": "all_businesses",
+    "definition": "FY2025 source-native 主要资产受限情况 table total, not an additive computation."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_asic_special",
+    "label": "ASIC 专项",
+    "category_id": "test",
+    "definition": "H1 2026 source-native R&D project table row ASIC 专项, self-developed ASIC chips for high-end SoC testers; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_rd_project_thermal_control_system",
+    "label": "温控系统研发项目",
+    "category_id": "test",
+    "definition": "H1 2026 source-native R&D project table row 温控系统研发项目, test systems for temperature-controlled scenarios; a financial project scope, not a platform identity, commercial product or maturity claim."
+  },
+  {
+    "reporting_scope_id": "huafeng_other_business",
+    "label": "其他业务",
+    "category_id": "all_businesses",
+    "definition": "Huafeng source-native 其他业务 row of the revenue note, printed as 其他 in the 商品类型 table: the residual between 主营业务 and company 营业收入. Its content is not itemised."
+  },
+  {
+    "reporting_scope_id": "huafeng_overseas_revenue_narrative",
+    "label": "海外收入",
+    "category_id": "all_businesses",
+    "definition": "Huafeng narrative 海外收入 in the H1 2026 MD&A. No table supports it, so it is kept apart from the FY2025 主营业务 境外 scope; countries are not resolved."
+  }
+]

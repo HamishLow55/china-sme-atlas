@@ -1,0 +1,92 @@
+[
+  {
+    "reporting_scope_id": "unicomp_ic_electronics_xray_equipment",
+    "label": "集成电路及电子制造检测设备",
+    "category_id": "inspection_xray",
+    "definition": "Source FY2025 product-table equipment revenue/cost/margin row jointly covers IC and electronic manufacturing; no split to semiconductor-only, advanced packaging, HBM, individual X-ray/CT model, or geography. Equipment product row excludes separately reported source/components and service lines."
+  },
+  {
+    "reporting_scope_id": "unicomp_all_industry_xray_equipment",
+    "label": "X 射线智能检测设备",
+    "category_id": "inspection_xray",
+    "definition": "All-industry X-ray intelligent inspection equipment production, sales and closing inventory in FY2025 product-volume table; includes semiconductor/electronics alongside battery, castings/materials and other uses. Unit sales are not shipments or installed base. No CT-only or HBM allocation."
+  },
+  {
+    "reporting_scope_id": "unicomp_parent_and_major_subsidiaries_employees",
+    "label": "报告期末母公司和主要子公司在职员工",
+    "category_id": "all_businesses",
+    "definition": "FY2025 report workforce table population: active employees of Unicomp parent and major subsidiaries at reporting year-end, across all businesses. Not asserted to equal every consolidated-group entity."
+  },
+  {
+    "reporting_scope_id": "unicomp_all_sector_cumulative_customers_disclosure_context",
+    "label": "下游客户累计已达 4,000 余家",
+    "category_id": "all_businesses",
+    "definition": "Issuer-stated cumulative downstream customers across industrial X-ray, electronics/semiconductor, energy and other sectors in annual-report disclosure context. Report publication date is 2026-04-18; source does not give exact customer-count as-of date. Acquisitions expanding customer base are discussed. No FY2025 stock, active-customer, semiconductor-only or installed-base interpretation."
+  },
+  {
+    "reporting_scope_id": "unicomp_h126_ic_electronics_xray_equipment",
+    "label": "集成电路及电子制造检测设备",
+    "category_id": "inspection_xray",
+    "definition": "H1 2026 consolidated product-disaggregation X-ray inspection equipment row combining integrated circuits and electronic manufacturing. No semiconductor-only, advanced-packaging, HBM or individual-model allocation. Distinct from other intelligent inspection equipment and spare-parts/services rows; do not infer acquired SSTI inclusion."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_defined_domestic_main_business",
+    "category_id": "all_businesses",
+    "label": "境内",
+    "definition": "Unicomp source-native 境内 row, used by BOTH (a) the FY2025 主营业务分地区情况 MD&A table (revenue+cost+margin, page 49) and (b) the FY2025 营业收入、营业成本的分解信息 note's 主营业务（分地区）breakdown (revenue+cost, page 251). Both print the identical FY2025 境内 figures (revenue 954,711,746.73; cost 535,655,539.04), confirming the same main-business basis; the note row is kept on disk via coincident_value because it also carries the 华东/华南/华北/华中/西南/其他 provincial sub-breakdown the MD&A table lacks."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_defined_overseas_main_business",
+    "category_id": "all_businesses",
+    "label": "境外",
+    "definition": "Unicomp source-native 境外 row, used by BOTH the FY2025 MD&A table and the FY2025 revenue-recognition note (identical figures: revenue 122,241,330.64; cost 64,478,582.02), for the same reason as unicomp_source_defined_domestic_main_business."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_east_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华东地区",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 华东地区. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_south_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华南地区",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 华南地区. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_north_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华北地区",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 华北地区. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_central_china_main_business",
+    "category_id": "all_businesses",
+    "label": "华中地区",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 华中地区. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_southwest_china_main_business",
+    "category_id": "all_businesses",
+    "label": "西南地区",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 西南地区. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_region_domestic_other_main_business",
+    "category_id": "all_businesses",
+    "label": "其他",
+    "definition": "Unicomp FY2025 revenue-recognition note's provincial sub-breakdown of its 境内 row, region 其他. Main-business revenue+cost only (no margin printed for this note); nested under 境内 (其中：...) and distinct from, not additive with, the company-level 境内 total already registered separately."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_defined_domestic_operating_revenue",
+    "category_id": "all_businesses",
+    "label": "境内",
+    "definition": "Unicomp H1 2026 revenue-recognition note's 主营业务（分地区）row 境内. Despite the '主营业务' label, the residual test shows this geography split's 境内+境外 (617,944,798.54+97,457,177.11=715,401,975.65) reproduces the note's TOTAL revenue including 其他业务收入 (682,151.37), not main-business revenue alone (714,719,824.28) -- the label is wrong by its own arithmetic, so this is registered as source_reported_total_operating_revenue per the residual-test rule, not as main-business. Contrast the FY2025 annual-report version of this same note, where the identical heading genuinely does sum to main-business revenue only (see unicomp_source_defined_domestic_main_business)."
+  },
+  {
+    "reporting_scope_id": "unicomp_source_defined_overseas_operating_revenue",
+    "category_id": "all_businesses",
+    "label": "境外",
+    "definition": "Unicomp H1 2026 revenue-recognition note's 主营业务（分地区）row 境外. See unicomp_source_defined_domestic_operating_revenue for the basis correction (total operating revenue, not main-business, despite the printed label)."
+  }
+]

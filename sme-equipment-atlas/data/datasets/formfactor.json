@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "formfactor_disclosures",
+    "title": "FormFactor, Inc. SEC 10-K annual reports",
+    "kind": "company_filings",
+    "publisher": "formfactor",
+    "version": "w11-foreign-incumbent-intake-2026-10-02",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric values and short evidence passages; original SEC EDGAR HTML filings held locally.",
+    "market_definitions": {}
+  }
+]

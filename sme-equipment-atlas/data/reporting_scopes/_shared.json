@@ -1,0 +1,80 @@
+[
+  {
+    "reporting_scope_id": "company",
+    "label": "Company total",
+    "category_id": "all_businesses",
+    "definition": "Company consolidated reporting perimeter; all businesses."
+  },
+  {
+    "reporting_scope_id": "etch",
+    "label": "Etching",
+    "category_id": "etch",
+    "definition": "All reported etch products; includes undisaggregated subcategories."
+  },
+  {
+    "reporting_scope_id": "etch_ccp",
+    "label": "CCP etching",
+    "category_id": "etch_ccp",
+    "definition": "Capacitively coupled plasma; use only when the source identifies CCP."
+  },
+  {
+    "reporting_scope_id": "etch_icp",
+    "label": "ICP etching",
+    "category_id": "etch_icp",
+    "definition": "Inductively coupled plasma; use only when the source identifies ICP."
+  },
+  {
+    "reporting_scope_id": "pvd",
+    "label": "pvd",
+    "category_id": "deposition_pvd",
+    "definition": "As defined by source passage; no inferred conversion or partition."
+  },
+  {
+    "reporting_scope_id": "furnace",
+    "label": "furnace",
+    "category_id": "thermal_furnace",
+    "definition": "As defined by source passage; no inferred conversion or partition."
+  },
+  {
+    "reporting_scope_id": "deposition_pvd",
+    "label": "deposition pvd",
+    "category_id": "deposition_pvd",
+    "definition": "Source-defined equipment scope."
+  },
+  {
+    "reporting_scope_id": "cmp",
+    "category_id": "cmp",
+    "label": "All CMP equipment",
+    "definition": "All CMP equipment"
+  },
+  {
+    "reporting_scope_id": "deposition",
+    "category_id": "deposition",
+    "label": "Thin-film deposition equipment",
+    "definition": "All source-reported thin-film deposition equipment categories; not PVD-only or TSV-only."
+  },
+  {
+    "reporting_scope_id": "kingsemi_kingsemi_annual_2024_equipment_quantities",
+    "category_id": "multi_equipment",
+    "label": "Kingsemi FY2024 equipment quantity table",
+    "definition": "Source-native FY2024 production and sales table; product rows retain their own category labels."
+  },
+  {
+    "reporting_scope_id": "deposition_lpcvd",
+    "category_id": "deposition_lpcvd",
+    "label": "LPCVD thin-film deposition equipment",
+    "definition": "Issuer-reported scope where LPCVD is named specifically, as distinct from a broader 薄膜设备 thin-film basket. Follows the shared bare-category scope convention used for etch_ccp, etch_icp and deposition."
+  },
+  {
+    "reporting_scope_id": "thinning",
+    "category_id": "thinning",
+    "label": "All thinning equipment",
+    "definition": "All thinning equipment (parallel to the existing shared 'cmp' scope for CMP); used where a source states a thinning-family figure (e.g. backlog, capacity) without naming or resolving to a specific model or thinning sub-category."
+  },
+  {
+    "reporting_scope_id": "implant",
+    "category_id": "implant",
+    "label": "All implant equipment",
+    "definition": "All ion-implantation equipment (parallel to the existing shared 'cmp' scope for CMP); used where a source states an implant-family figure without naming or resolving to a specific model or beam-current/energy class."
+  }
+]

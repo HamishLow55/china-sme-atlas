@@ -1,0 +1,38 @@
+[
+  {
+    "claim": "CMP challenger quantitative tool data (Sizone, Jingyi Jingwei)",
+    "reason": "Identified allowed analysis and IPO comparison extract as leads; original not yet inventoried/verified in this bounded six-original pass.",
+    "claim_id": "cmp-hold-4",
+    "status": "resolved",
+    "resolution": "Three local originals independently reviewed; two challenger entities and thirteen platform records integrated. Quantitative Jingyi backfill remains queued."
+  },
+  {
+    "claim": "Hwatsing H1 2026",
+    "reason": "Tracker and physical inbox confirm original exists; queued follow-up, outside selected six originals. No claim of latest coverage.",
+    "claim_id": "cmp-hold-5",
+    "status": "resolved",
+    "resolution": "Wave1 H1 2026 original reviewed with financial bridge and source-bounded gaps recorded. ACM legal entity is Shanghai; ambiguous 2000-chamber claim separately held."
+  },
+  {
+    "claim": "Ultra ECP 3d throughput, uniformity, plating-chamber specifications",
+    "reason": "Analysis links product page but no archived original located in bounded filing set. Do not reuse analysis as verified original.",
+    "claim_id": "tsv-hold-1"
+  },
+  {
+    "claim": "Primo TSV200E/TSV300E and NAURA/Piotech TSV liner equipment",
+    "reason": "Substrate points to these suppliers but no source verification completed in this ACM bounded pass; separate bounded assignment required.",
+    "claim_id": "tsv-hold-3"
+  },
+  {
+    "claim": "FY2026 H1 ACMR report",
+    "reason": "Existing local _inbox original discovered; not yet reviewed. The five-year series is not a latest-information claim.",
+    "claim_id": "tsv-hold-4",
+    "status": "resolved",
+    "resolution": "Wave1 H1 2026 original reviewed with financial bridge and source-bounded gaps recorded. ACM legal entity is Shanghai; ambiguous 2000-chamber claim separately held."
+  },
+  {
+    "claim": "Publication dates",
+    "reason": "Tracker FY2025 annual says 2026-02-26; its URL date is 2026-02-27. Neither blindly assigned to local original without identity confirmation.",
+    "claim_id": "tsv-hold-5"
+  }
+]

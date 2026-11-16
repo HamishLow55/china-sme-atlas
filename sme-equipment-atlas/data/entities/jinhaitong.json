@@ -1,0 +1,25 @@
+[
+  {
+    "entity_id": "jinhaitong",
+    "name": "JHT Design Co.,Ltd.",
+    "aliases": [
+      "天津金海通半导体设备股份有限公司",
+      "金海通",
+      "JHT Design Co.,Ltd.",
+      "JHT",
+      "Tianjin Jinhaitong Semiconductor Equipment",
+      "603061",
+      "Tianjin Jinhaitong Semiconductor Equipment Co., Ltd."
+    ],
+    "evidence": {
+      "source_id": "jinhaitong_annual_2025",
+      "page": 1,
+      "excerpt": "公司代码：603061 公司简称：金海通 天津金海通半导体设备股份有限公司 2025 年年度报告",
+      "status": "pending",
+      "reviewer": "",
+      "review_date": ""
+    },
+    "notes": "Shanghai Stock Exchange main-board issuer, code 603061 (cover page); the 公司信息 block on physical p6 gives the legal Chinese name 天津金海通半导体设备股份有限公司, short name 金海通 and foreign name JHT Design Co.,Ltd. / JHT. Business scope as the filing states it: R&D, manufacture and sale of integrated-circuit 测试分选机 (test handlers) only, sold with spare parts; series EXCEED-6000/-8000/-9000, SUMMIT and COLLIE, plus accessories. Customers are OSATs, test foundries, IDMs and fabless designers. What it does NOT cover: the issuer makes no testers (测试机), no probers (探针台), no probe cards and no front-end equipment. It states no memory, KGD or HBM product: p14 says only that it continues to watch demand for a Memory handler platform on the basis of existing technology reserves. Five minority equity stakes (华芯智能 wafer-level sorter/IGBT KGD sorter, 猎奇智能, 芯诣电子 burn-in, 鑫益邦 die bonders, 瑞玛思特 RF test) are investments, not consolidated product lines, and must not be attributed to this entity.\n\nUNEVIDENCED ALIASES. These aliases occur in no source this atlas holds: 'Tianjin Jinhaitong Semiconductor Equipment'; 'Tianjin Jinhaitong Semiconductor Equipment Co., Ltd.'. They are kept because they are useful search handles -- a romanisation, an English rendering of a Chinese or Korean legal name, or a ticker written with an exchange suffix -- but nothing in this repository evidences them, so none should be quoted as the company's own name or used to match a record in another dataset. `python3 -m atlas verify-aliases` reports the current list; an alias that later turns up in an acquired filing should be moved out of this note. Every other alias on this record was found in a held source.",
+    "entity_class": "china_supply_base"
+  }
+]

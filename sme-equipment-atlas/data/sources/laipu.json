@@ -1,0 +1,17 @@
+[
+  {
+    "source_id": "laipu_prospectus_2026",
+    "entity_id": "laipu",
+    "dataset_id": "laipu_ipo_disclosures",
+    "title": "成都莱普科技股份有限公司 首次公开发行股票并在科创板上市招股说明书（申报稿）",
+    "source_type": "company_prospectus",
+    "publication_date": "2026-09-24",
+    "publication_date_precision": "unknown",
+    "reporting_period_end": "2026-06-30",
+    "locator_kind": "pdf",
+    "page_count": 377,
+    "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202609/002109_20260924_LFCR.pdf",
+    "sha256": "5c5897fc353c8471d1dcb0d8ee56a722424d07dcfb3097af0e5eed1dc62c3b46",
+    "notes": "STAR Market IPO prospectus, 申报稿 (application draft, not yet the registered final prospectus); signature date is blank in the document itself (招股说明书签署日期【】年【】月【】日, p5/printed 1-1-4), so publication_date is taken from the SSE disclosure-review-portal date embedded in the filename/URL (20260924) and its precision is marked unknown rather than day, since the document's own signature date is unfilled. Acquired directly from the SSE disclosure review portal (static.sse.com.cn), per the local-first rule, into 'the maintainer's local archive (not distributed): Financial reports/Laipu filings/laipu_prospectus_2026.pdf'; sha256 and the 377-page count were both computed locally (shasum -a 256; pdfinfo), not copied from the filing or the analysis-layer citation. Printed-to-physical page offset is a constant +1 throughout (physical page N = printed page '1-1-(N-1)'), confirmed directly against the PDF at physical p2='1-1-1', p24='1-1-23', p40='1-1-39', p98='1-1-97', p99='1-1-98', p109='1-1-108', p150='1-1-149', p151='1-1-150', p156='1-1-155', p162='1-1-161', p177='1-1-176', p222='1-1-221', p230='1-1-229'. Reporting window is FY2023-FY2025 plus an H1 2026 interim."
+  }
+]

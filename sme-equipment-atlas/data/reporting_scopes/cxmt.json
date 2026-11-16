@@ -1,0 +1,80 @@
+[
+  {
+    "reporting_scope_id": "cxmt_company_buyer_side",
+    "category_id": "all_businesses",
+    "label": "CXMT company-wide consolidated figures (buyer-side)",
+    "definition": "CXMT's own consolidated company-wide revenue, capital expenditure, construction-in-progress, fixed assets and long-term deferred expenses, as disclosed in its STAR Market IPO prospectus. CXMT is a DRAM memory manufacturer and a BUYER of semiconductor equipment, not an equipment vendor: everything filed in this scope is demand-side spending or company scale. It must never be summed into, compared against as a competitor figure to, or otherwise read as, any equipment vendor's revenue or backlog total elsewhere in the atlas. Use is restricted to the cxmt entity."
+  },
+  {
+    "reporting_scope_id": "cxmt_main_business",
+    "category_id": "all_businesses",
+    "label": "主营业务",
+    "definition": "CXMT 主营业务 line, H1 2026 note 62. DRAM products; buyer-side, not equipment."
+  },
+  {
+    "reporting_scope_id": "cxmt_other_business",
+    "category_id": "all_businesses",
+    "label": "其他业务",
+    "definition": "CXMT 其他业务 line, H1 2026 note 62."
+  },
+  {
+    "reporting_scope_id": "cxmt_ddr_series_products",
+    "category_id": "all_businesses",
+    "label": "DDR 系列",
+    "definition": "CXMT 商品类型 row, partition of total operating revenue. Buyer-side product mix."
+  },
+  {
+    "reporting_scope_id": "cxmt_lpddr_series_products",
+    "category_id": "all_businesses",
+    "label": "LPDDR 系列",
+    "definition": "CXMT 商品类型 row, partition of total operating revenue. Buyer-side product mix."
+  },
+  {
+    "reporting_scope_id": "cxmt_other_product_type",
+    "category_id": "all_businesses",
+    "label": "其他",
+    "definition": "CXMT 商品类型 row 其他, partition of total operating revenue."
+  },
+  {
+    "reporting_scope_id": "cxmt_mainland_china_external_main_business",
+    "category_id": "all_businesses",
+    "label": "来源于中国大陆地区的对外交易主营业务收入",
+    "definition": "CXMT segment note: external main-business revenue sourced in mainland China. Billing-source basis as printed."
+  },
+  {
+    "reporting_scope_id": "cxmt_outside_mainland_external_main_business",
+    "category_id": "all_businesses",
+    "label": "来源于中国大陆地区之外的对外交易主营业务收入",
+    "definition": "CXMT segment note: external main-business revenue sourced outside mainland China. Not evidence of end-use location."
+  },
+  {
+    "reporting_scope_id": "cxmt_technical_rd_project_2026",
+    "category_id": "all_businesses",
+    "label": "技术研发项目",
+    "definition": "CXMT R&D project funded in part by over-raised IPO proceeds, Hefei base. Plan, 30-month build."
+  },
+  {
+    "reporting_scope_id": "cxmt_backend_test_base_phase2_project",
+    "category_id": "all_businesses",
+    "label": "长鑫存储产品（合肥）有限公司存储器晶圆后道测试基地二期项目",
+    "definition": "CXMT planned DRAM test and module-assembly factory funded in part by over-raised IPO proceeds (cxmt_new_project_20260928 p2). A plan; no capacity printed."
+  },
+  {
+    "reporting_scope_id": "cxmt_hefei_phase1_line",
+    "category_id": "all_businesses",
+    "label": "合肥一期生产线",
+    "definition": "Named construction-in-progress project in the CXMT H1 2026 note (p128). Line budget and progress only, no capacity."
+  },
+  {
+    "reporting_scope_id": "cxmt_hefei_phase2_line",
+    "category_id": "all_businesses",
+    "label": "合肥二期生产线",
+    "definition": "Named construction-in-progress project in the CXMT H1 2026 note (p128). Line budget and progress only, no capacity."
+  },
+  {
+    "reporting_scope_id": "cxmt_beijing_line",
+    "category_id": "all_businesses",
+    "label": "北京生产线",
+    "definition": "Named construction-in-progress project in the CXMT H1 2026 note (p128). Line budget and progress only, no capacity."
+  }
+]

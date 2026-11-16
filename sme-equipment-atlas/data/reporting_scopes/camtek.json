@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "camtek_ai_related_products",
+    "label": "Products supporting AI applications (incl. HBM and advanced packaging)",
+    "category_id": "multi_equipment",
+    "definition": "Camtek's own cross-cutting end-market grouping, from two consecutive sentences in its FY2025 20-F risk factors. The first carries the figure: 'Approximately 50% of our revenues are generated from products supporting the production of artificial intelligence (“AI”) applications'. The second says what those products serve: 'We have experienced increased demand for inspection and metrology systems as customers invest in equipment supporting the production of AI related products, including high-bandwidth memory (HBM) and advanced packaging'. The two are kept apart deliberately -- an earlier draft of this definition joined them with an ellipsis, which read as one quoted phrase and made the 50% look like an HBM-and-advanced-packaging figure. It is not: HBM is named in the second sentence as one thing AI-related products include, and Camtek gives no split isolating HBM's share. Camtek operates in one segment covering both inspection and metrology, so this basket spans whatever mix of Hawk, Eagle and MicroProf tools goes into AI end uses. Never allocate any part of it to a single equipment category or to hbm."
+  },
+  {
+    "reporting_scope_id": "camtek_installed_base",
+    "label": "Installed base, all current tool platforms",
+    "category_id": "multi_equipment",
+    "definition": "Camtek's own stated cumulative installed base across all of its currently sold tool platforms (as of the filing date: the Eagle, Hawk and MicroProf families), spanning both inspection and metrology equipment categories with no further split. 'As of December 31, [year], our installed base was over [N] systems' -- a company-wide equipment count, not a revenue figure, and not attributable to a single equipment category."
+  }
+]

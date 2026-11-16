@@ -1,0 +1,463 @@
+[
+  {
+    "platform_id": "jsg_thinning_polish_clean_combo",
+    "entity_id": "jsg",
+    "category_id": "thinning",
+    "record_kind": "source_native_family",
+    "name": "12英寸减薄抛光机 / 12英寸减薄抛光清洗一体机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P11-THINPOLISH-IDENTITY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 11,
+      "excerpt": "在芯片制造和封装端，公司开发了应用于芯片制造的 8-12 英寸减压外延设备、ALD 设备等薄膜沉积类设备，应用于先进封装的 12 英寸减薄抛光机、12 英寸减薄抛光清洗一体机、超快紫外激光开槽设备。以差异化的工艺和技术优势，为客户提供优质的产品和服务。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "开发了 (developed/already offered; combined grind+polish and grind+polish+clean tools)",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Combined thinning tools (grinding integrated with polishing, and with polishing+cleaning), hence category_id=thinning (parent node) rather than a standalone-grinder child, per the taxonomy's own scope_note that combined tools belong at the parent. No unit count, shipment count, customer or revenue is disclosed for this family specifically; JSG discloses thinning/polishing revenue only inside the broader 设备及其服务 basket (see jsg_equipment_and_services reporting scope). Distinct from jsg_triaxial_thinning_polish_clean_combo (R&D-stage, p24) -- two different vintages/maturity snapshots of what may be a related but not confirmed-identical tool family; kept as separate platform records rather than merged, since the filing does not equate them. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against jsg_fy2025_annual_report, physical page 11: '...应用于先进封装的 12 英寸减薄抛光机、12 英寸减薄抛光清洗一体机、超快紫外激光开槽设备'. Both named tools are combined grind+polish (and grind+polish+clean) functions, so category_id=thinning (parent) is correct per the protocol's own calibration example ('a grind-plus-polish-plus-clean tool is thinning, not thinning_grinding'). Correctly kept distinct from the R&D-stage jsg_triaxial_thinning_polish_clean_combo (p24) as a different maturity snapshot, since the filing never equates the two.",
+    "maturity_history": [
+      {
+        "claim_id": "JSG-H126-P13-THINPOLISH",
+        "source_id": "jsg_h1_2026",
+        "page": 13,
+        "excerpt": "应用于先进封装的 12 英寸减薄抛光机、12 英寸减薄抛光清洗一体机、超快紫外激光开槽设备",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "开发了_h1_2026",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Same 开发了 wording as FY2025; no stage upgrade. H1 prints no R&D project table, so the 验证阶段 reading of the 三轴 tool cannot be refreshed from this source set."
+      }
+    ]
+  },
+  {
+    "platform_id": "jsg_double_side_thinning_grinder",
+    "entity_id": "jsg",
+    "category_id": "thinning_grinding",
+    "record_kind": "source_native_family",
+    "name": "12英寸双面减薄机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P20-DOUBLESIDE-IDENTITY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 20,
+      "excerpt": "在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证；成功开发应用于先进封装的超快紫外激光开槽设备，填补国内高端紫外激光开槽技术领域的空白，实现国产替代。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "积极推进...客户验证 (actively advancing customer validation/qualification)",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Named as a new product undergoing customer validation in the FY2025 MD&A, filed under 集成电路装备领域 (IC equipment) generally. The same sentence's advanced-packaging tie (先进封装) belongs grammatically to the separate 超快紫外激光开槽设备 (laser-grooving tool), not to this thinner -- no application link registered for this platform, to avoid attaching the neighbouring clause's packaging tie to the wrong tool. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against physical page 20 (checked with a page-specific pdftotext extraction, not just a whole-document grep): '在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证'. This is a single-function grinder (双面减薄机), not a combo tool, so category_id=thinning_grinding (child) is correct, in contrast to the combo tools filed at the thinning parent. reported_maturity (客户验证 in progress) is correctly taken from this narrative sentence; there is no R&D-table target-cell for this tool to conflate it with. The record's note correctly declines to attach the neighbouring clause's '应用于先进封装' (which grammatically belongs only to the UV laser grooving tool in the same sentence) as an application tie for this platform -- verified by reading the full sentence structure: the 先进封装 tie is introduced by a new clause beginning '成功开发应用于先进封装的...', not carried over from the customer-validation clause.",
+    "maturity_history": [
+      {
+        "claim_id": "JSG-H126-P21-DOUBLESIDE",
+        "source_id": "jsg_h1_2026",
+        "page": 21,
+        "excerpt": "在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "积极推进客户验证_h1_2026",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Unchanged from FY2025; restated in jsg_ir_20260824 pp1-2. Still customer validation, not orders or volume."
+      }
+    ]
+  },
+  {
+    "platform_id": "jsg_edge_trim_thinning_grinder",
+    "entity_id": "jsg",
+    "category_id": "thinning_grinding",
+    "record_kind": "source_native_family",
+    "name": "8英寸双轴留边减薄机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-EDGETRIM-IDENTITY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "8 英寸双轴留边减薄机；项目目的：研发应用于封装领域的 8 英寸留边减薄设备；项目进展：实现量产；拟达到的目标：实现量产并批量销售",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "实现量产 (achieved mass production; per the 项目进展/project-progress column)",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "R&D-investment table, FY2025 annual report p24. The table's own 拟达到的目标 (target-to-reach) column reads '实现量产并批量销售' for every single project row regardless of current status -- that column is a uniform forward target, not a current-state claim, and must not be read as achieved batch-sales. Only the 项目进展 column ('实现量产') is a current-status claim, registered here as reported_maturity. 项目目的 explicitly names the packaging field ('研发应用于封装领域的8英寸留边减薄设备') -- see application link to advanced_packaging. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: R&D-project table, physical p24. Verified with BOTH extraction modes as the protocol requires: pdftotext WITHOUT -layout confirms the row's cells are contiguous ('8 英寸双轴留边减薄机...项目目的：研发应用于封装领域的 8 英寸留边减薄设备...项目进展...实现量产...拟达到的目标：实现量产并批量销售'); pdftotext WITH -layout confirms this row's own 项目进展 cell pairs with '实现量产' (not with the neighbouring rows' cells, which the -layout rendering would otherwise make ambiguous to a naive linear reader of the no-layout text). reported_maturity correctly reads 实现量产 from 项目进展, not 实现量产并批量销售 from the shared 拟达到的目标 target column that every row in this table repeats verbatim."
+  },
+  {
+    "platform_id": "jsg_triaxial_thinning_polish_clean_combo",
+    "entity_id": "jsg",
+    "category_id": "thinning",
+    "record_kind": "source_native_family",
+    "name": "12英寸三轴减薄抛光清洗一体机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-TRIAXIAL-IDENTITY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "12 英寸三轴减薄抛光清洗一体机；项目目的：研发大尺寸减薄抛光清洗一体化设备，技术指标达到国际先进水平；项目进展：验证阶段；拟达到的目标：实现量产并批量销售",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false
+    },
+    "reported_maturity": "验证阶段 (validation stage; per the 项目进展/project-progress column)",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "R&D-investment table, FY2025 annual report p24; combined grind+polish+clean tool, hence category_id=thinning (parent). Same caution as jsg_edge_trim_thinning_grinder: the 拟达到的目标 column ('实现量产并批量销售') is a uniform forward target printed on every row of this table, not this project's current status; only 项目进展 ('验证阶段') is registered as reported_maturity. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Same p24 table, same dual-mode verification: no-layout confirms the row's own cells ('12 英寸三轴减薄抛光清洗一体机...项目进展：验证阶段...拟达到的目标：实现量产并批量销售'); layout confirms 验证阶段 is this row's own status cell. reported_maturity correctly reads 验证阶段, not the shared target. category_id=thinning (parent) is correct for this grind+polish+clean combo tool, matching the same rule applied to jsg_thinning_polish_clean_combo."
+  },
+  {
+    "platform_id": "jsg_thermal_oxide_ald",
+    "entity_id": "jsg",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "热式氧化物原子层沉积设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-THERMAL-OXIDE-ALD",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 热式氧化物原子层沉积设备；values: 研制具有自主知识产权的12英寸热式氧化物原子层沉积设备、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Thermal-oxide ALD. Sits at deposition_ald alongside the separate PEALD project below: JSG runs the thermal and plasma-enhanced routes as two distinct R&D projects with their own table rows and their own 项目进展, so they are two platforms, not one family. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p24 R&D table, dual-mode verified: layout rendering pairs '热式氧化物原子层沉积设备' with 项目进展=验证阶段; no-layout confirms the cell text is contiguous and the structured columns/row/values form used in the excerpt is appropriately honest about this table's cell-wrapping (per Extraction Failure Modes' guidance that a linearised 'columns:...row:...values:...' form is the only honest record for this specific table). reported_maturity correctly reads 验证阶段, not the repeated target cell. category_id=deposition_ald correct; correctly kept as a separate platform from PEALD since they are separate table rows with their own status.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_peald",
+    "entity_id": "jsg",
+    "category_id": "deposition_ald",
+    "record_kind": "source_native_family",
+    "name": "等离子体增强原子层沉积设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-PEALD",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 等离子体增强原子层沉积设备；values: 在较低温度下实现半导体薄膜沉积并能更精准的控制厚度均匀性的设备、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Plasma-enhanced ALD. The row names no wafer size, unlike its thermal-oxide sibling, so none is recorded here. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Same p24 table, same verification method; row '等离子体增强原子层沉积设备' pairs with 项目进展=验证阶段 in the layout rendering. reported_maturity correct. category_id=deposition_ald correct (plasma-enhanced ALD, same node as thermal ALD -- the atlas does not split ALD by activation mechanism).",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_reduced_pressure_epitaxy_single_chamber",
+    "entity_id": "jsg",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "单腔预清洗型减压外延设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-REDUCED-PRESSURE-EPITAXY-SINGLE-CHAMBER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 单腔预清洗型减压外延设备；values: 研制具有自主知识产权的12英寸减压外延生产设备，并通过客户量产验证。、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Single-chamber pre-clean reduced-pressure epitaxy. The 项目目的 names 通过客户量产验证 as part of the objective, which is a goal in the purpose cell, not an achieved milestone; the status cell says 验证阶段. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p24 table row '单腔预清洗型减压外延设备' pairs with 项目进展=验证阶段 (layout-confirmed); no-layout confirms the 项目目的 cell's '并通过客户量产验证' is part of the PURPOSE text, not a separate status claim -- the note correctly treats this as an aspirational goal embedded in 项目目的, not as the recorded status, which remains the 项目进展 cell's own 验证阶段. category_id=deposition_epitaxy correct.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_sige_reduced_pressure_epitaxy",
+    "entity_id": "jsg",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "12英寸硅锗减压外延生长设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-SIGE-REDUCED-PRESSURE-EPITAXY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 12英寸硅锗减压外延生长设备；values: 研发具有完全自主知识产权的12英寸硅锗减压外延生长装备，核心技术指标达到国际先进水平。、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Silicon-germanium reduced-pressure epitaxy, a separate table row from the silicon reduced-pressure epitaxy project. 核心技术指标达到国际先进水平 is the issuer's own unquantified claim and no figure of merit is printed. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '12 英寸硅锗减压外延生长设备' pairs with 项目进展=验证阶段 (layout-confirmed against the physical-p25 block, after the printed page-20... page-footer '24' boundary). reported_maturity correct. Correctly kept as a separate platform from the silicon-only reduced-pressure epitaxy project (different table row, different maturity snapshot).",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_silicon_high_current_implanter",
+    "entity_id": "jsg",
+    "category_id": "implant_high_current",
+    "record_kind": "source_native_family",
+    "name": "硅大束流离子注入机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-SILICON-HIGH-CURRENT-IMPLANTER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 硅大束流离子注入机；values: 研制具有自主知识产权的12英寸硅大束流低能离子注入设备，整合国内离子注入供应链并进行批量生产；同时针对硅器件应用的离子注入工艺，搭建离子注入全系列设备开发平台，进行各类离子注入机开发的技术累积。、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "High-current, low-energy silicon implanter. Filed at implant_high_current on the row's own 大束流 (high beam current); 低能 is the energy range and the atlas has no combined current-and-energy node. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p24 table row '硅大束流离子注入机' pairs with 项目进展=验证阶段 (layout-confirmed). category_id=implant_high_current verified against data/categories.json: implant's children are implant_high_current, implant_medium_current, implant_high_energy and implant_cryogenic. The row names 大束流 (high current, matching implant_high_current) and 低能 (low energy, for which no taxonomy child exists), so there is no competing child to misfile into and the single matching child is the right call -- unlike jsg_sic_implanter below, where two matching children compete.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_sic_implanter",
+    "entity_id": "jsg",
+    "category_id": "implant",
+    "record_kind": "source_native_family",
+    "name": "碳化硅离子注入设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-SIC-IMPLANTER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 碳化硅离子注入设备；values: 研制具有自主知识产权的8英寸碳化硅高温中束流高能离子注入设备、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Silicon-carbide implanter. Deliberately at the implant PARENT: the row names both 中束流 (medium current) and 高能 (high energy), which are two different implant children, and choosing either would assert a classification the source does not make. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '碳化硅离子注入设备' pairs with 项目进展=验证阶段 (layout-confirmed). The row's own text names BOTH 中束流 (-> implant_medium_current) and 高能 (-> implant_high_energy), both of which exist as siblings under the implant parent (confirmed via data/categories.json). Filing at the implant PARENT, as the record does, is correct and matches the protocol's own standard for this exact situation ('where a tool genuinely spans two nodes... choosing either would assert a classification the source does not make').",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_alkaline_etch_wet_bench_cleaner",
+    "entity_id": "jsg",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "12寸槽式碱腐清洗机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-ALKALINE-ETCH-WET-BENCH-CLEANER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 12寸槽式碱腐清洗机；values: 开发针对12寸硅晶圆的减薄后槽式碱腐清洗机，实现晶圆表面刻蚀的均匀性，并保证晶圆表面的金属颗粒。、实现量产、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_实现量产",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Alkaline-etch wet-bench cleaner for post-thinning use (减薄后), which ties it to JSG's thinning line. 槽式 is a wet bench, hence cleaning_batch rather than cleaning_single_wafer. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p24 table row '12 寸槽式碱腐清洗机' pairs with 项目进展=实现量产 (layout-confirmed) -- one of only a few rows in this table where the status cell itself happens to read 实现量产, distinct from the shared target cell that reads the same text; both renderings were checked to make sure this wasn't a target-vs-status confusion, and it is not: the no-layout rendering shows '...实现量产、实现量产并批量销售...' as two separate cells in sequence, and the layout rendering confirms the first of the pair sits in the 项目进展 column. category_id=cleaning_batch correct (槐式/槽式 = wet-bench/batch, per the node's own name 'Batch / wet-bench cleaning').",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_post_cmp_wet_bench_cleaner",
+    "entity_id": "jsg",
+    "category_id": "cleaning_batch",
+    "record_kind": "source_native_family",
+    "name": "12寸CMP后槽式清洗机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P24-POST-CMP-WET-BENCH-CLEANER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 24,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 12寸CMP后槽式清洗机；values: 开发针对12寸硅晶圆CMP后槽式清洗机，实现清洗的高效率，降低客户CMP后清洗成本，并、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Post-CMP wet-bench cleaner. Its 项目目的 text runs across the physical page break: the row begins on p24 and the clause 保证晶圆清洗后的颗粒和金属等级 completes at the top of p25. Printed p24 = physical p24 in this filing. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. The 项目目的 cell is quoted only as far as the physical page break: it ends '降低客户CMP后清洗成本，并' on p24 and the clause completes with '保证晶圆清洗后的颗粒和金属等级。' at the top of p25. The excerpt stops where the page does rather than silently stitching two pages into one quotation. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p24-25 table row '12 寸 CMP 后槽式清洗机' pairs with 项目进展=验证阶段 (layout-confirmed, status cell sits on physical p24 before the page break). The record's handling of the page-straddling 项目目的 cell is correct and matches Extraction Failure Modes guidance exactly: the no-layout extraction confirms the clause splits as '...降低客户CMP后清洗成本，并' (end of physical p24) / '保证晶圆清洗后的颗粒和金属等级。' (top of physical p25), and the excerpt is correctly truncated at the physical page boundary rather than silently stitched. category_id=cleaning_batch correct.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_soi_bonder",
+    "entity_id": "jsg",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "12寸SOI键合设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-SOI-BONDER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 12寸SOI键合设备；values: 研发在加工效率和加工精度实现进口替代并具有成本优势的12寸SOI键合设备。、验证阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_验证阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Silicon-on-insulator bonder. Deliberately at the bonding PARENT rather than bonding_fusion: that node's own scope note records it as an OPEN registry question whether direct bonding of engineered substrates such as SOI belongs there or in its own node, and this record must not pre-empt that decision. The row names no bonding mechanism, which is exactly the condition the parent node exists for. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '12 寸 SOI 键合设备' pairs with 项目进展=验证阶段 (layout-confirmed). Verified bonding_fusion's own scope_note in data/categories.json reads verbatim: 'Whether direct bonding of engineered substrates, such as silicon-on-insulator or piezo-on-insulator, belongs here or in its own node is an open registry question; issuers sometimes present such a series as distinct from their fusion bonders.' This confirms the record's claim exactly. My view: filing at the bonding PARENT rather than pre-empting that open question is the right call here -- the row names no bonding mechanism (混合 does not appear anywhere in this 159-page filing; 键合 appears only in this row and the W2W row), so there is no textual basis to place it at bonding_fusion specifically, and doing so would silently resolve a question the registry itself has flagged as unresolved. Agree with the record's placement.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_w2w_high_precision_bonder",
+    "entity_id": "jsg",
+    "category_id": "bonding",
+    "record_kind": "source_native_family",
+    "name": "12寸W2W高精密键合设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-W2W-HIGH-PRECISION-BONDER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 12寸W2W高精密键合设备；values: 研发应用于先进封装的12寸W2W高精密键合设备、设计阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_设计阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Wafer-to-wafer high-precision bonder for advanced packaging — the most deliverable-relevant platform in this packet, and at the earliest stage of any of them (设计阶段, design). Deliberately at the bonding PARENT and NOT at bonding_hybrid_w2w: the row says 高精密键合 (high-precision bonding), never 混合键合 (hybrid bonding), and upgrading a wafer-to-wafer configuration into a hybrid-bonding mechanism the source does not name is precisely the inference the atlas forbids. No alignment, placement or distortion figure is printed, so the node's published figures of merit are all absent. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '12 寸 W2W 高精密键合设备' pairs with 项目进展=设计阶段 (layout-confirmed). This is the strongest-verified call in the batch: grep across the ENTIRE filing (pdftotext, no -layout, all ~pages) shows 混合 (hybrid) occurs ZERO times anywhere in the document, while 键合 (bonding) occurs only in this row and the SOI-bonder row. The filing says 高精密键合 (high-precision bonding) and never 混合键合 (hybrid bonding). Filing at category_id=bonding (parent) rather than bonding_hybrid_w2w is therefore correct and is exactly the 'a configuration is not a mechanism' error the protocol instructs reviewers to catch -- here the record correctly avoids making that error. Confirmed by direct contrast with xinhuilianxin_canopus_rt300, which IS at bonding_hybrid_w2w because its source actually prints 混合键合 and 首台W2W. reported_maturity (设计阶段, design stage -- not the shared 拟达到的目标 target) correctly read.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_sic_activation_furnace",
+    "entity_id": "jsg",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "立式碳化硅激活炉",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-SIC-ACTIVATION-FURNACE",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 立式碳化硅激活炉；values: 研制满足8英寸碳化硅晶圆高温激活工艺需求的立式碳化硅高温激活炉、实现量产、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_实现量产",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Vertical silicon-carbide high-temperature activation furnace. Compound-semiconductor equipment, registered because the atlas's thermal nodes are process-agnostic; it is not part of the HBM tool chain. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '立式碳化硅激活炉' pairs with 项目进展=实现量产 (layout-confirmed). category_id=thermal_furnace correct (vertical batch furnace; no finer taxonomy node exists for activation vs. oxidation furnaces -- both sit together under thermal_furnace's own definition, which names 'vertical diffusion and oxidation furnaces'). FLAG (not a defect in this record, but worth carrying to the next wave): physical page 20's business-review narrative separately states '积极推进碳化硅氧化炉、激活炉以及离子注入等设备的客户验证，相关设备的验证进展顺利，为规模化量产奠定坚实基础' -- i.e. the narrative describes SiC activation/oxidation/implant equipment generally as still in customer validation, working TOWARD future mass production, which sits in tension with this R&D-table row's own 实现量产 status. This may be two different vintages/scopes of related equipment (as the batch itself allows for the thinning-tool pairs), or it may be the same claim read two different ways by the filing's own authors; either way it is outside this record's own cited cell and I am not changing the field, but it should be reconciled at the next wave. See my report for detail.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_sic_oxidation_furnace",
+    "entity_id": "jsg",
+    "category_id": "thermal_furnace",
+    "record_kind": "source_native_family",
+    "name": "立式碳化硅氧化炉",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-SIC-OXIDATION-FURNACE",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 立式碳化硅氧化炉；values: 开发一款具有自主知识产权的立式碳化硅氧化炉，满足8英寸碳化硅晶圆干氧氧化、湿氧氧化、氧化后退火等多种工艺需求，同时包含碳化硅工艺设备清洁功能。、实现量产、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_实现量产",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Vertical silicon-carbide oxidation furnace covering dry, wet and post-oxidation anneal steps on one tool. Compound-semiconductor equipment, not part of the HBM tool chain. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '立式碳化硅氧化炉' pairs with 项目进展=实现量产 (layout-confirmed). category_id=thermal_furnace correct, same reasoning as the activation furnace. Same FLAG as jsg_sic_activation_furnace above: physical p20's narrative describes SiC oxidation-furnace-family equipment as still in customer validation, in apparent tension with this row's own 实现量产. Not changing the field (this record correctly reads its own cited cell); flagging for reconciliation at the next wave.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_gan_epitaxy",
+    "entity_id": "jsg",
+    "category_id": "deposition_epitaxy",
+    "record_kind": "source_native_family",
+    "name": "8英寸氮化镓外延设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P25-GAN-EPITAXY",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 25,
+      "excerpt": "研发投入 主要研发项目 columns: 主要研发项目名称、项目目的、项目进展、拟达到的目标、预计对公司未来发展的影响；row: 8英寸氮化镓外延设备；values: 研制核心参数指标满足行业需求的8英寸氮化镓外延设备、设计阶段、实现量产并批量销售、将对公司持续经营发展产生积极影响",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "rd_project_table_项目进展_设计阶段",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "notes": "Gallium-nitride epitaxy. Compound-semiconductor equipment. Filed at deposition_epitaxy and NOT deposition_mocvd: the row names no growth technique, and GaN epitaxy is not necessarily MOCVD. Maturity is the R&D-project table's own 项目进展 cell, not an inference. Every row of that table carries the same 拟达到的目标 (实现量产并批量销售), which is a target and must never be read as achieved status. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: p25 table row '8 英寸氮化镓外延设备' pairs with 项目进展=设计阶段 (layout-confirmed). category_id=deposition_epitaxy correct; verified deposition_mocvd is in a different branch entirely (its parent is deposition_cvd, not deposition_epitaxy, per data/categories.json), so avoiding it is doubly correct here -- not only does the filing name no growth technique, but MOCVD is not even a sibling/child the epitaxy branch would offer.",
+    "maturity_history": []
+  },
+  {
+    "platform_id": "jsg_uv_laser_grooving",
+    "entity_id": "jsg",
+    "category_id": "dicing_laser",
+    "record_kind": "source_native_family",
+    "name": "超快紫外激光开槽设备",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P20-UVLASERGROOVING",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 20,
+      "excerpt": "在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证；成功开发应用于先进封装的超快紫外激光开槽设备，填补国内高端紫外激光开槽技术领域的空白，实现国产替代。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "narrative_成功开发_import_substitution_claimed_no_shipment_stated",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "maturity_history": [
+      {
+        "claim_id": "JSG-H126-P21-UVGROOVE",
+        "source_id": "jsg_h1_2026",
+        "page": 21,
+        "excerpt": "成功开发应用于先进封装的超快紫外激光开槽设备，填补国内高端紫外激光开槽技术领域的空白，实现国产替代",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "成功开发_h1_2026",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Unchanged wording from FY2025; 实现国产替代 is the issuer's phrase and no order or shipment is stated."
+      }
+    ],
+    "notes": "Ultrafast UV laser grooving, stated in the 主营业务分析 narrative (physical p20) rather than the R&D-project table, and the only JSG tool the filing ties explicitly to 先进封装 in that narrative. 成功开发 (successfully developed) plus 填补国内...空白 and 实现国产替代 are development and import-substitution claims; no shipment, customer, order or revenue figure accompanies them and none should be inferred. Laser grooving precedes blade dicing rather than replacing it, so dicing_laser carries the tool without implying JSG sells a stealth dicer. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against physical page 20: '成功开发应用于先进封装的超快紫外激光开槽设备，填补国内高端紫外激光开槽技术领域的空白，实现国产替代'. FLAG on category_id: dicing_laser's own definition requires equipment that 'separates dies with a laser'; laser GROOVING cuts a partial kerf/groove through the top layers and does not itself complete die separation -- a subsequent blade pass does, which the record's own notes correctly state ('laser grooving precedes blade dicing rather than replacing it'). Strictly, this tool does not meet dicing_laser's own definition in full. However, no better node exists: dicing_blade is the wrong mechanism, and the dicing PARENT is defined for when the source does NOT name a mechanism, which is not the case here (紫外激光/UV laser is explicitly named). Given no existing category_id value is a strictly better fit, I am accepting the current placement as the best available rather than issuing an unsupported 'correct', but recommend the taxonomy carry an explicit scope-note on dicing_laser analogous to bonding_fusion's 'open registry question' note, since laser-groove-then-blade-dice is a known two-step process and the atlas has no node for the preparatory half of it."
+  },
+  {
+    "platform_id": "jsg_edge_polisher_dry_in_dry_out",
+    "entity_id": "jsg",
+    "category_id": "edge_polishing",
+    "record_kind": "source_native_family",
+    "name": "12英寸干进干出边抛机",
+    "aliases": [],
+    "evidence": {
+      "claim_id": "JSG-FY2025-P20-EDGEPOLISHER",
+      "source_id": "jsg_fy2025_annual_report",
+      "page": 20,
+      "excerpt": "在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证；成功开发应用于先进封装的超快紫外激光开槽设备，填补国内高端紫外激光开槽技术领域的空白，实现国产替代。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "narrative_客户验证_in_progress",
+    "maturity_as_reported_in": "jsg_fy2025_annual_report",
+    "maturity_history": [
+      {
+        "claim_id": "JSG-H126-P21-EDGEPOLISH",
+        "source_id": "jsg_h1_2026",
+        "page": 21,
+        "excerpt": "在集成电路装备领域，积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证",
+        "as_of": "",
+        "date_basis": "source_report_context",
+        "reported_maturity": "积极推进客户验证_h1_2026",
+        "status": "source_checked",
+        "reviewer": "astra_data_wave_2026_10_verifier",
+        "review_date": "2026-10-30",
+        "claim_kind": "company_reported",
+        "notes": "Unchanged from FY2025."
+      }
+    ],
+    "notes": "Dry-in/dry-out 12-inch edge polisher, named in the same p20 sentence as the already-registered 12英寸双面减薄机 and sharing its maturity: 积极推进...客户验证, customer validation in progress. The sentence covers both tools with one status, so neither may be given a stronger one than the other. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against physical page 20 (same sentence as jsg_double_side_thinning_grinder): '积极推进 12 英寸干进干出边抛机、12 英寸双面减薄机等新产品的客户验证'. category_id=edge_polishing is a direct, unambiguous match. reported_maturity correctly shared with the double-side grinder's status (客户验证 in progress) since one sentence covers both tools with one status phrase, and the record correctly declines to give either a stronger status than the other."
+  }
+]

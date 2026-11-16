@@ -1,0 +1,190 @@
+[
+  {
+    "series_id": "wave2_djel_1",
+    "version": 1,
+    "title": "djel: company / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-TOT-REV",
+      "DJEL2024-TOT-REV",
+      "DJEL2025-TOT-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_2",
+    "version": 1,
+    "title": "djel: djel_measurement_inspection_equipment / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-EQ-REV",
+      "DJEL2024-EQ-REV",
+      "DJEL2025-EQ-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_3",
+    "version": 1,
+    "title": "djel: djel_cdsem_12inch / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-CD12-REV",
+      "DJEL2024-CD12-REV",
+      "DJEL2025-CD12-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_4",
+    "version": 1,
+    "title": "djel: djel_cdsem_8inch / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-CD8-REV",
+      "DJEL2024-CD8-REV",
+      "DJEL2025-CD8-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_5",
+    "version": 1,
+    "title": "djel: djel_ebi / revenue (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-EBI-REV",
+      "DJEL2024-EBI-REV",
+      "DJEL2025-EBI-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_6",
+    "version": 1,
+    "title": "djel: djel_drsem / revenue (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2024-DRSEM-REV"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_7",
+    "version": 1,
+    "title": "djel: djel_cdsem_all / sales_volume (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-CDSEM-SALES",
+      "DJEL2024-CDSEM-SALES",
+      "DJEL2025-CDSEM-SALES"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_8",
+    "version": 1,
+    "title": "djel: djel_ebi / sales_volume (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2024-EBI-SALES",
+      "DJEL2025-EBI-SALES"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_9",
+    "version": 1,
+    "title": "djel: djel_drsem / sales_volume (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2024-DRSEM-SALES"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_10",
+    "version": 1,
+    "title": "djel: djel_measurement_inspection_equipment / sales_volume (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-EQ-SALES",
+      "DJEL2024-EQ-SALES",
+      "DJEL2025-EQ-SALES"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_11",
+    "version": 1,
+    "title": "djel: djel_cdsem_all / shipments (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-CDSEM-DISPATCH",
+      "DJEL2024-CDSEM-DISPATCH",
+      "DJEL2025-CDSEM-DISPATCH"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_12",
+    "version": 1,
+    "title": "djel: djel_ebi / shipments (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-EBI-DISPATCH",
+      "DJEL2024-EBI-DISPATCH",
+      "DJEL2025-EBI-DISPATCH"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_13",
+    "version": 1,
+    "title": "djel: djel_drsem / shipments (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-DRSEM-DISPATCH",
+      "DJEL2024-DRSEM-DISPATCH",
+      "DJEL2025-DRSEM-DISPATCH"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_14",
+    "version": 1,
+    "title": "djel: djel_hvsem / shipments (all_reported_geographies)",
+    "mode": "evidence_collection",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2025-HVSEM-DISPATCH"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  },
+  {
+    "series_id": "wave2_djel_15",
+    "version": 1,
+    "title": "djel: djel_measurement_inspection_equipment / shipments (all_reported_geographies)",
+    "mode": "comparable",
+    "definition": "Explicit selection of original-verified source-native measurements.",
+    "observation_ids": [
+      "DJEL2023-EQ-DISPATCH",
+      "DJEL2024-EQ-DISPATCH",
+      "DJEL2025-EQ-DISPATCH"
+    ],
+    "limitations": "Company disclosures; equipment sales/dispatch definitions retained. No HBM-only revenue allocation, market share or saturation denominator implied."
+  }
+]

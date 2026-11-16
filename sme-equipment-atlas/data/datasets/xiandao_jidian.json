@@ -1,0 +1,28 @@
+[
+  {
+    "dataset_id": "xiandao_jidian_annual_disclosures",
+    "title": "Xiandao Jidian (formerly Wanye Enterprises) annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "xiandao_jidian",
+    "version": "local-wanye-financial1-2026-09-22",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals remain local.",
+    "market_definitions": {}
+  },
+  {
+    "dataset_id": "xiandao_jidian_interim_disclosures",
+    "title": "Xiandao Jidian interim company disclosures",
+    "kind": "company_filings",
+    "publisher": "xiandao_jidian",
+    "version": "2026-H1",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations; originals local.",
+    "market_definitions": {}
+  }
+]

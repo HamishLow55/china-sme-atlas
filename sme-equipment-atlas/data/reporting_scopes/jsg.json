@@ -1,0 +1,44 @@
+[
+  {
+    "reporting_scope_id": "jsg_equipment_and_services",
+    "label": "设备及其服务",
+    "category_id": "multi_equipment",
+    "definition": "JSG's 分产品 revenue-table line '设备及其服务' (equipment and services), FY2025 annual report p22. Spans the issuer's whole equipment-and-service business across silicon crystal-growth/wafer-processing, SiC and sapphire compound-semiconductor equipment and photovoltaic equipment -- JSG is not a thinning-only specialist, and this basket is never allocated to thinning or any other single atlas category. Table basis is 营业收入 (total operating revenue): 分产品 (设备及其服务 + 材料 + 其他) cross-foots exactly to 营业收入合计 in both FY2025 and FY2024 with zero residual, confirming a total-operating-revenue partition."
+  },
+  {
+    "reporting_scope_id": "jsg_ic_and_compound_semi_equipment_contracts",
+    "label": "未完成集成电路及化合物半导体装备合同",
+    "category_id": "multi_equipment",
+    "entity_id": "jsg",
+    "definition": "JSG's uncompleted (未完成) contracts for integrated-circuit and compound-semiconductor equipment at 31 December 2025, as stated in the 主营业务分析 narrative of its FY2025 annual report (physical p20), tax-inclusive. Equipment only: the sentence says 装备合同 and, unlike the 18.50 亿元 revenue figure beside it, excludes materials. Spans several atlas equipment categories (thinning, bonding, deposition, implant, cleaning and the compound-semi furnaces) and must never be allocated across them. Excludes photovoltaic equipment, which JSG reports separately and which is the larger part of its business.",
+    "notes": "Created for the order-backlog row in the W13 supplement. JSG gives no prior-year comparative for this figure, so it is a single as-of stock with no series."
+  },
+  {
+    "reporting_scope_id": "jsg_materials_product_line",
+    "label": "材料",
+    "category_id": "all_businesses",
+    "definition": "JSG 分产品 row 材料 in the H1 2026 占比 10%以上 table. Substrates and consumables, not equipment.",
+    "entity_id": "jsg"
+  },
+  {
+    "reporting_scope_id": "jsg_domestic_revenue",
+    "label": "境内",
+    "category_id": "all_businesses",
+    "definition": "JSG 分地区 row 境内 in the H1 2026 占比 10%以上 table. No overseas row is printed; the residual is not assumed to be overseas.",
+    "entity_id": "jsg"
+  },
+  {
+    "reporting_scope_id": "jsg_manufacturing_industry_revenue",
+    "label": "制造业",
+    "category_id": "all_businesses",
+    "definition": "JSG 分行业 row 制造业 in the H1 2026 占比 10%以上 table.",
+    "entity_id": "jsg"
+  },
+  {
+    "reporting_scope_id": "jsg_ic_compound_semi_equipment_and_materials_revenue",
+    "label": "集成电路与化合物半导体（含 SiC、蓝宝石等）设备及材料收入",
+    "category_id": "all_businesses",
+    "definition": "Narrative revenue basket in the H1 2026 report p21. Combines IC and compound-semiconductor equipment with materials, including SiC and sapphire substrates. Not an equipment figure; never allocate to thinning.",
+    "entity_id": "jsg"
+  }
+]

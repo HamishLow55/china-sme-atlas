@@ -1,0 +1,14 @@
+[
+  {
+    "reporting_scope_id": "asmpt_semiconductor_solutions",
+    "label": "Semiconductor solutions",
+    "category_id": "multi_equipment",
+    "definition": "ASMPT's Semiconductor Solutions reportable segment as the issuer defines it: development, production and sale of back-end semiconductor assembly equipment, spanning die bonders, thermo-compression bonders, wire bonders, moulding and related tools. One of the group's two reportable segments. The issuer publishes no split below this level, so no part of it may be allocated to bonding_tcb or any other equipment category. Excludes the Surface Mount Technology segment."
+  },
+  {
+    "reporting_scope_id": "asmpt_advanced_packaging",
+    "label": "Advanced packaging (AP) solutions",
+    "category_id": "multi_equipment",
+    "definition": "ASMPT's advanced-packaging grouping as reported in management discussion: a CROSS-SEGMENT view whose main contributors the issuer names as thermo-compression bonding, System-in-Package and photonics. It spans both reportable segments -- SiP sits in Surface Mount Technology -- so it is not a subset of asmpt_semiconductor_solutions and the two must never be summed. Reported in US dollars while the statutory segments are in Hong Kong dollars. Its composition changed with the 2025 joint-venture disposal, so figures either side of that are not a continuous series."
+  }
+]

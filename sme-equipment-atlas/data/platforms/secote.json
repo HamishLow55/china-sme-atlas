@@ -1,0 +1,187 @@
+[
+  {
+    "platform_id": "secote_wafer_edge_inspection",
+    "entity_id": "secote",
+    "category_id": "inspection_edge",
+    "name": "Wafer-edge inspection system family",
+    "aliases": [
+      "晶圆边缘检测系统",
+      "晶圆边缘全维度检测设备"
+    ],
+    "evidence": {
+      "source_id": "secote_fy2023",
+      "page": 11,
+      "excerpt": "公司积极配合一线国际客户的新需求，在晶圆边缘检测系统中开发明暗场结合激光光学技术，针对晶圆 键合工艺中 thinning、trimming、bonding、coating 制程段增加了晶圆修边幅度、加工尺寸检测、晶圆 bonding 对准检测、粘合物工艺监测、EBR 监测以及 bonding 过程中出现的气泡、碎片、剥落、聚合物残留等新的缺陷检 测功能，完善了对 HBM、TSV 制程工艺的不良监控，获得了客户的充分认可并成功获得批量设备订单，为公司半导 体板块的持续增长增加了新的动力源泉。",
+      "status": "source_checked",
+      "reviewer": "Codex independent verifier",
+      "review_date": "2026-09-24"
+    },
+    "reported_maturity": "batch_equipment_orders",
+    "maturity_as_reported_in": "secote_fy2023",
+    "notes": "Group-level supplier claim; original does not attribute this system specifically to Optima or Chinese production. Batch orders are unquantified and linked to HBM/TSV process monitoring, not all semiconductor revenue. FY2023 p11 explicitly describes edge-system trim-width/dimensional measurement, bonding alignment inspection, bonding-process and EBR monitoring, and bubble/fragments/peeling/polymer-residue defect functions. These are functions of this existing edge family, not separate overlay tools or proof of acoustic/X-ray subsurface inspection.",
+    "maturity_history": [
+      {
+        "source_id": "secote_fy2023",
+        "page": 11,
+        "excerpt": "完善了对 HBM、TSV 制程工艺的不良监控，获得了客户的充分认可并成功获得批量设备订单",
+        "notes": "Supplier claim. The order is not quantified; no shipment, acceptance, production-use or revenue amount is stated. Do not apply this stage to every Secote semiconductor tool. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2023-12-31",
+        "reported_maturity": "unquantified_batch_equipment_orders_for_hbm_tsv_process_monitoring",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      },
+      {
+        "source_id": "secote_fy2025",
+        "page": 14,
+        "excerpt": "出货至国内头部FAB厂的晶圆边缘全维度检测设备现已获客户验收通过",
+        "notes": "A tool or equipment scope was shipped and accepted; grammatical wording does not provide a reliable physical unit count. No HBM linkage is made in this specific sentence. Shipment occurred during FY2025; acceptance is stated as 现已 (now) and established by report disclosure, not necessarily fiscal year-end. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2026-04-28",
+        "reported_maturity": "shipped_and_customer_accepted_at_leading_domestic_fab",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "secote_ai_wafer_inspection_software",
+    "entity_id": "secote",
+    "category_id": "inspection",
+    "name": "AI semiconductor-wafer inspection software",
+    "aliases": [
+      "AI检测软件",
+      "AI检测系统"
+    ],
+    "evidence": {
+      "source_id": "secote_fy2024",
+      "page": 10,
+      "excerpt": "针对半导体晶圆复杂的缺陷种类和算法进行了特定的升级优化，同时在客户现场进行实测验证",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "customer_site_validation",
+    "maturity_as_reported_in": "secote_fy2024",
+    "notes": "Software/system capability, not a disclosed equipment unit, order or revenue line.",
+    "maturity_history": [
+      {
+        "source_id": "secote_fy2024",
+        "page": 10,
+        "excerpt": "针对半导体晶圆复杂的缺陷种类和算法进行了特定的升级优化，同时在客户现场进行实测验证",
+        "notes": "Customer-site testing of AI inspection software; no order, tool count, acceptance or revenue. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2024-12-31",
+        "reported_maturity": "customer_site_validation",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "secote_wafer_backside_defect_inspection",
+    "entity_id": "secote",
+    "category_id": "inspection",
+    "name": "Wafer backside defect inspection equipment",
+    "aliases": [
+      "晶圆背面缺陷检测设备",
+      "背面缺陷检测设备"
+    ],
+    "evidence": {
+      "source_id": "secote_fy2025",
+      "page": 14,
+      "excerpt": "同步正积极推进晶圆背面缺陷检测设备",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "development_progress_unspecified",
+    "maturity_as_reported_in": "secote_fy2025",
+    "notes": "The report does not state acceptance, shipment, order or revenue for this platform.",
+    "maturity_history": [
+      {
+        "source_id": "secote_fy2025",
+        "page": 14,
+        "excerpt": "同步正积极推进晶圆背面缺陷检测设备",
+        "notes": "No achieved prototype, shipment, acceptance, order or production use stated. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2025-12-31",
+        "reported_maturity": "development_progress_unspecified",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "secote_patterned_wafer_inspection_2",
+    "entity_id": "secote",
+    "category_id": "inspection",
+    "name": "Patterned-wafer defect inspection equipment 2.0",
+    "aliases": [
+      "图形晶圆缺陷检测设备2.0版本"
+    ],
+    "evidence": {
+      "source_id": "secote_fy2025",
+      "page": 14,
+      "excerpt": "公司推出图形晶圆缺陷检测设备2.0版本的迭代升级……相关产品已获得客户充分认可",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "product_released_customer_recognition",
+    "maturity_as_reported_in": "secote_fy2025",
+    "notes": "Supplier wording does not establish customer acceptance, production use, orders or recognized revenue.",
+    "maturity_history": [
+      {
+        "source_id": "secote_fy2025",
+        "page": 14,
+        "excerpt": "公司推出图形晶圆缺陷检测设备2.0版本的迭代升级……相关产品已获得客户充分认可",
+        "notes": "Customer recognition is not encoded as formal acceptance, production use or an order. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2025-12-31",
+        "reported_maturity": "version_2_released_customer_recognition",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  },
+  {
+    "platform_id": "secote_reclaimed_wafer_sort_inspection",
+    "entity_id": "secote",
+    "category_id": "inspection",
+    "name": "Reclaimed-wafer sorting and inspection equipment",
+    "aliases": [
+      "再生晶圆分选检测设备"
+    ],
+    "evidence": {
+      "source_id": "secote_fy2025",
+      "page": 14,
+      "excerpt": "公司正积极推进再生晶圆分选检测设备的研发工作",
+      "status": "source_checked",
+      "reviewer": "wave3_independent_original_verifier",
+      "review_date": "2026-09-21"
+    },
+    "reported_maturity": "research_and_development",
+    "maturity_as_reported_in": "secote_fy2025",
+    "notes": "R&D-stage supplier claim; no prototype, shipment, acceptance, order or revenue stated.",
+    "maturity_history": [
+      {
+        "source_id": "secote_fy2025",
+        "page": 14,
+        "excerpt": "公司正积极推进再生晶圆分选检测设备的研发工作",
+        "notes": "R&D only. Report-period/disclosure context, not a separately established exact event date; supplier assertion remains uncorroborated independently.",
+        "as_of": "2025-12-31",
+        "reported_maturity": "research_and_development",
+        "status": "source_checked",
+        "reviewer": "wave3_independent_original_verifier",
+        "review_date": "2026-09-21",
+        "claim_kind": "company_reported"
+      }
+    ]
+  }
+]

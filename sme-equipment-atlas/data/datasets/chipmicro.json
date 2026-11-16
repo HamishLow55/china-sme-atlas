@@ -1,0 +1,15 @@
+[
+  {
+    "dataset_id": "chipmicro_annual_disclosures",
+    "title": "Circuit Fabology (CFMEE) annual company disclosures",
+    "kind": "company_filings",
+    "publisher": "chipmicro",
+    "version": "chipmicro1-2026-09-28",
+    "status": "available",
+    "claim_basis": "company_reported",
+    "git_values_allowed": true,
+    "access": "public_disclosure",
+    "license_notes": "Numeric observations and short evidence passages; originals remain local.",
+    "market_definitions": {}
+  }
+]

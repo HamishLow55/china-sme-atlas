@@ -1,0 +1,24 @@
+[
+  {
+    "series_id": "sizone_company_revenue",
+    "title": "Sizone company revenue FY2024–25",
+    "mode": "comparable",
+    "definition": "Audited target consolidated company/equipment scope, stated in CNY.",
+    "limitations": "Acquisition completion and AMEC consolidation not inferred; equipment category scope cross-checked in transaction filing.",
+    "observation_ids": [
+      "SIZ2024-TOTALREV",
+      "SIZ2025-TOTALREV"
+    ]
+  },
+  {
+    "series_id": "sizone_sizone_special_equipment_revenue",
+    "title": "Sizone sizone_special_equipment revenue FY2024–25",
+    "mode": "comparable",
+    "definition": "Audited target consolidated company/equipment scope, stated in CNY.",
+    "limitations": "Acquisition completion and AMEC consolidation not inferred; equipment category scope cross-checked in transaction filing.",
+    "observation_ids": [
+      "SIZ2024-EQREV",
+      "SIZ2025-EQREV"
+    ]
+  }
+]

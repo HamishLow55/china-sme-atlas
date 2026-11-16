@@ -1,0 +1,64 @@
+[
+  {
+    "claim": "Product-category prior-H1 revenue",
+    "source_id": "skyverse_h1_2026",
+    "pages_reviewed": [
+      185,
+      186
+    ],
+    "reason": "Page 186 disaggregates only current-period product revenue. Page 185 gives prior-H1 main/other/total revenue, not prior product categories.",
+    "claim_id": "wave2-skyverse-1"
+  },
+  {
+    "claim": "Numeric equipment units, shipments or orders",
+    "source_id": "skyverse_h1_2026",
+    "pages_reviewed": [
+      14,
+      19,
+      20,
+      21,
+      22,
+      30,
+      185,
+      186
+    ],
+    "reason": "Reviewed sections use unquantified shipment, batch-sale, sales-growth and order-growth wording. No numeric tool count or order amount was disclosed.",
+    "claim_id": "wave2-skyverse-2"
+  },
+  {
+    "claim": "HBM or advanced-packaging revenue",
+    "source_id": "skyverse_h1_2026",
+    "pages_reviewed": [
+      8,
+      18,
+      19,
+      20,
+      21,
+      30,
+      186
+    ],
+    "reason": "The issuer says HBM and 2.5D/3D advanced-packaging revenue contribution grew, but supplies no amount. Broad inspection/metrology revenue must not be allocated to these applications.",
+    "claim_id": "wave2-skyverse-3"
+  },
+  {
+    "claim": "Product market coverage percentages as SkyVerse market share",
+    "source_id": "skyverse_h1_2026",
+    "page": 13,
+    "reason": "The table labels percentages as each equipment type's 2024 global market-opportunity share from VLSI, not SkyVerse supplier share. Excluded from observations.",
+    "claim_id": "wave2-skyverse-4"
+  },
+  {
+    "claim": "Narrative revenue 94,107.77万元",
+    "source_id": "skyverse_h1_2026",
+    "page": 18,
+    "reason": "Conflicts with exact financial tables on pp.8, 30, 185-186: CNY 941,017,703.76 (94,101.77万元). Use exact financial tables and retain this apparent narrative typo as a discrepancy.",
+    "claim_id": "wave2-skyverse-5"
+  },
+  {
+    "claim": "Product-matrix color status from text extraction",
+    "source_id": "skyverse_h1_2026",
+    "page": 13,
+    "reason": "Colors/icons are not reliably recoverable from pdftotext. Stage proposals rely on explicit prose on pp.14 and 19-24; independent verifier should inspect the rendered page if using matrix cells.",
+    "claim_id": "wave2-skyverse-6"
+  }
+]

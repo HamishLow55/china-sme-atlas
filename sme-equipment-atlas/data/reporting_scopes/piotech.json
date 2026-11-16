@@ -1,0 +1,320 @@
+[
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_company_total",
+    "category_id": "all_businesses",
+    "label": "Piotech company total, FY2025 report",
+    "definition": "Consolidated company perimeter in Piotech FY2025 annual report."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_pecvd",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech PECVD series",
+    "definition": "Source-native PECVD series equipment revenue; not all thin-film deposition."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_ald",
+    "category_id": "deposition_ald",
+    "label": "Piotech ALD equipment",
+    "definition": "Source-native ALD equipment revenue; includes disclosed PE-ALD and Thermal-ALD discussion."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_hybrid_bonding_basket",
+    "category_id": "bonding",
+    "label": "Piotech hybrid-bonding equipment basket",
+    "definition": "Source-native hybrid-bonding-equipment revenue; no allocation among wafer-to-wafer hybrid, fusion, or other bonding products."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_special_equipment",
+    "category_id": "multi_equipment",
+    "label": "Piotech semiconductor special equipment production and sales",
+    "definition": "Source-native 半导体专用设备 production/sales table; system units, not chambers."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_semiconductor_equipment_business",
+    "category_id": "multi_equipment",
+    "label": "Piotech main semiconductor-equipment business, FY2025",
+    "definition": "Source-native 主营业务分行业 / 半导体设备行业 scope in Piotech FY2025 annual report; distinct from consolidated company total and product-level PECVD, ALD and hybrid-bonding rows."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2025_thin_film_deposition",
+    "category_id": "deposition",
+    "label": "Piotech thin-film deposition equipment",
+    "definition": "Source-native 薄膜沉积设备 product revenue scope; reused across FY2023/FY2024/FY2025 disclosures."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2023_semiconductor_equipment_industry",
+    "category_id": "multi_equipment",
+    "label": "Piotech semiconductor-equipment industry, FY2023",
+    "definition": "Source-native FY2023 主营业务分行业 / 半导体设备 scope. Preserve as a distinct annual-report vintage."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_equipment_industry",
+    "category_id": "multi_equipment",
+    "label": "Piotech semiconductor-equipment industry, FY2024",
+    "definition": "Source-native FY2024 主营业务分行业 / 半导体设备行业 scope. Do not imply a restatement relationship to FY2023 without an explicit issuer bridge."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2023_thin_film_deposition_systems",
+    "category_id": "deposition",
+    "label": "Piotech thin-film-deposition equipment systems, FY2023",
+    "definition": "Source-native FY2023 薄膜沉积设备 production/sales table; system units, distinct from hybrid-bonding systems."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_systems",
+    "category_id": "bonding",
+    "label": "Piotech hybrid-bonding equipment systems, FY2023",
+    "definition": "Source-native FY2023 混合键合设备 production/sales table; system units, distinct from thin-film deposition."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2024_semiconductor_special_equipment_systems",
+    "category_id": "multi_equipment",
+    "label": "Piotech semiconductor-special-equipment systems, FY2024",
+    "definition": "Source-native FY2024 半导体专用设备 production/sales table; system units; no thin-film-only allocation."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2024_advanced_bonding_metrology_basket",
+    "category_id": "multi_equipment",
+    "label": "Piotech advanced-bonding and supporting-metrology basket, FY2024",
+    "definition": "Source-native advanced-bonding-equipment and supporting-metrology-equipment revenue basket; not hybrid bonding alone."
+  },
+  {
+    "reporting_scope_id": "piotech_piotech_annual_2023_hybrid_bonding_equipment",
+    "definition": "Source-native FY2023 混合键合设备 product revenue, cost and gross-margin scope; unallocated across bonding subtypes.",
+    "category_id": "bonding",
+    "label": "Piotech hybrid-bonding equipment, FY2023"
+  },
+  {
+    "reporting_scope_id": "piotech_fy2023_reported_thin_film_and_hybrid_total",
+    "category_id": "multi_equipment",
+    "label": "Piotech FY2023 thin-film plus hybrid equipment volume total",
+    "definition": "Source-defined FY2023 production/sales/inventory table total of thin-film deposition equipment and hybrid bonding equipment, in whole systems. Do not equate with FY2024/25 semiconductor-special-equipment perimeters."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_px_supra_d_chambers",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech pX and Supra-D new chambers",
+    "definition": "Source-defined combined pX and Supra-D new reaction-chamber group. Orders, validation dispatches and cumulative shipments are distinct; not automatically identical to Stack/ACHM equipment chamber group."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_stack_achm_advanced_pecvd_chambers",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech Stack/ACHM advanced PECVD equipment chambers",
+    "definition": "Source-defined chambers corresponding to advanced PECVD Stack (ONO) and ACHM equipment, with LoK-II included in FY2024 wording only. Distinct from broad pX/Supra-D chamber counts until source reconciles overlap."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_pecvd_bianca_chambers",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech PECVD Bianca chambers",
+    "definition": "Source-defined PECVD Bianca process-equipment reaction chambers shipped cumulatively; not equipment systems."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_sacvd_chambers",
+    "category_id": "deposition_sacvd",
+    "label": "Piotech SACVD series chambers",
+    "definition": "Source-defined SACVD series reaction chambers shipped cumulatively, not systems or installed base."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_hdpcvd_chambers",
+    "category_id": "deposition_cvd",
+    "label": "Piotech HDPCVD series chambers",
+    "definition": "Source-defined HDPCVD series reaction chambers shipped cumulatively, not systems or installed base."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_uv_cure_chambers",
+    "category_id": "deposition",
+    "label": "Piotech UV Cure chambers",
+    "definition": "Source-defined UV Cure process-equipment reaction chambers shipped cumulatively. UV Cure is post-deposition treatment; broad deposition category is a research grouping, not CVD technology attribution."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_flowable_cvd_chambers",
+    "category_id": "deposition_cvd",
+    "label": "Piotech Flowable CVD chambers",
+    "definition": "Source-defined Flowable CVD equipment reaction chambers shipped cumulatively, not systems or installed base."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_nf_300h_configuration",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech NF-300H stated configuration",
+    "definition": "Source-defined NF-300H PECVD platform configuration; chamber count is supported capacity, not shipments or output."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_nf_300m_supra_h_configuration",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech NF-300M Supra-H stated configuration",
+    "definition": "Source-defined NF-300M Supra-H PECVD platform configuration; chamber count is supported capacity, not shipments or output. Prototype stage in FY2024/25."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_company_reaction_chamber_operations",
+    "category_id": "multi_equipment",
+    "label": "Piotech company-reported reaction-chamber operations",
+    "definition": "Issuer-wide reaction-chamber shipments and production-line entry claims, unallocated across equipment families. Chambers are not whole systems; this operating perimeter is not the FY2025 consolidated revenue scope or active installed base."
+  },
+  {
+    "reporting_scope_id": "piotech_fy2023_thin_film_product_table_revenue",
+    "category_id": "deposition",
+    "label": "Piotech FY2023 thin-film product-table revenue",
+    "definition": "Source-defined FY2023 主营业务分产品 / 薄膜沉积设备 row, at precise CNY digits on annual p57. The p12 rounded narrative is a separate source presentation with a CNY 9.13 precision difference."
+  },
+  {
+    "reporting_scope_id": "piotech_reported_thin_film_customer_operations",
+    "category_id": "deposition",
+    "label": "Piotech thin-film deposition equipment in customer production lines",
+    "definition": "Source-defined thin-film deposition equipment family for customer-line operational claims, including average tool uptime. This operating scope is not a revenue perimeter, a single model, or an installed system count."
+  },
+  {
+    "reporting_scope_id": "piotech_fy2024_semiconductor_special_equipment_product_revenue",
+    "category_id": "multi_equipment",
+    "label": "Piotech FY2024 半导体专用设备 product-table row",
+    "definition": "Source-defined 主营业务分产品 / 半导体专用设备 row in Piotech FY2024 annual physical p56; covers its printed revenue, cost, gross margin and year-on-year changes. Same digits as the industry row do not erase the separate product-table source presentation."
+  },
+  {
+    "reporting_scope_id": "piotech_fy2025_semiconductor_special_equipment_product_revenue",
+    "category_id": "multi_equipment",
+    "label": "Piotech FY2025 半导体专用设备 product-table row",
+    "definition": "Source-defined 主营业务分产品 / 半导体专用设备 row in Piotech FY2025 annual physical p58; covers its printed revenue, cost, gross margin and year-on-year changes. Same digits as the industry row do not erase the separate product-table source presentation."
+  },
+  {
+    "reporting_scope_id": "piotech_four_deposition_families_process_application_basket",
+    "category_id": "deposition",
+    "label": "Piotech PECVD/ALD/SACVD/HDPCVD process-application basket",
+    "definition": "FY2023 source-defined four-family thin-film equipment basket, excluding Flowable CVD from the named list. A capability count, not annual product sales."
+  },
+  {
+    "reporting_scope_id": "piotech_five_deposition_families_process_application_basket",
+    "category_id": "deposition",
+    "label": "Piotech PECVD/ALD/SACVD/HDPCVD/Flowable CVD process-application basket",
+    "definition": "FY2024, FY2025 and H1 2026 named five-family thin-film equipment basket. Source process-application breadth is not a count of systems or nodes."
+  },
+  {
+    "reporting_scope_id": "piotech_pf300t_plus_pf300m_mechanical_gain",
+    "category_id": "deposition_pecvd",
+    "label": "Piotech FY2023 PF-300T Plus and PF-300M new platform mechanical gain",
+    "definition": "Source-defined two new PECVD platforms with group mechanical capacity gain; no model-specific division or baseline is stated."
+  },
+  {
+    "reporting_scope_id": "piotech_pf300t_pf300tplus_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech PF-300T / PF-300T Plus transfer-platform configuration",
+    "definition": "H1 2026 glossary joint PF-300T and PF-300T Plus transfer-platform maximum chambers, stations and simultaneous wafers; not installed or shipped quantity. Glossary identity is not narrowed to the process-specific models listed elsewhere."
+  },
+  {
+    "reporting_scope_id": "piotech_pf300m_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech PF-300M transfer-platform configuration",
+    "definition": "H1 2026 glossary PF-300M transfer-platform maximum chambers, stations and simultaneous wafers; not installed or shipped quantity. Glossary identity is not narrowed to the process-specific models listed elsewhere."
+  },
+  {
+    "reporting_scope_id": "piotech_ts300_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech TS-300 transfer-platform configuration",
+    "definition": "H1 2026 glossary TS-300 platform hardware configuration, not automatically the TS-300 Altair thermal-ALD tool or a shipment count."
+  },
+  {
+    "reporting_scope_id": "piotech_ts300s_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech TS-300S transfer-platform configuration",
+    "definition": "H1 2026 glossary TS-300S smaller hardware platform configuration; not automatically a named HDPCVD model or installed capacity."
+  },
+  {
+    "reporting_scope_id": "piotech_ts300x_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech TS-300X transfer-platform configuration",
+    "definition": "H1 2026 glossary TS-300X smaller hardware platform configuration; no specific process model or shipment identity inferred."
+  },
+  {
+    "reporting_scope_id": "piotech_vs300t_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech VS-300T transfer-platform configuration",
+    "definition": "H1 2026 glossary VS-300T platform hardware configuration, not automatically the Astra-s ALD model or a production count."
+  },
+  {
+    "reporting_scope_id": "piotech_dual_station_three_chamber_layout",
+    "category_id": "deposition",
+    "label": "Piotech dual-station three-chamber layout",
+    "definition": "H1 2026 p52 generic optional layout with up to three dual-station chambers and six simultaneous wafer positions. This is one alternative architecture, not a named model or installed population."
+  },
+  {
+    "reporting_scope_id": "piotech_dual_station_five_chamber_layout",
+    "category_id": "deposition",
+    "label": "Piotech dual-station five-chamber layout",
+    "definition": "H1 2026 p52 generic optional layout with five dual-station chambers and ten simultaneous wafer positions. This is the other alternative architecture, not a named model or installed population."
+  },
+  {
+    "reporting_scope_id": "piotech_six_station_reaction_module_architecture",
+    "category_id": "deposition",
+    "label": "Piotech six-station reaction module architecture",
+    "definition": "H1 2026 p52 generic optional four six-station chambers and 24 simultaneous wafers. Not one named model or an installed population."
+  },
+  {
+    "reporting_scope_id": "piotech_shenyang_second_factory_plan",
+    "category_id": "all_businesses",
+    "label": "Piotech planned Shenyang Second Factory",
+    "definition": "Named future Shenyang Second Factory project. Planned gross area is not current usable floor space or annual tool-output capacity."
+  },
+  {
+    "reporting_scope_id": "piotech_nf300h_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech NF-300H generic transfer-platform configuration",
+    "definition": "H1 2026 glossary NF-300H hardware configuration. Generic deposition platform, not automatically a PECVD or named reaction-chamber variant; no shipment, installed population or factory output inference. Glossary identity is not narrowed to the process-specific models listed elsewhere."
+  },
+  {
+    "reporting_scope_id": "piotech_nf300m_transfer_configuration",
+    "category_id": "deposition",
+    "label": "Piotech NF-300M generic transfer-platform configuration",
+    "definition": "H1 2026 glossary NF-300M hardware configuration. Generic deposition platform, not automatically a PECVD or named reaction-chamber variant; no shipment, installed population or factory output inference. Glossary identity is not narrowed to the process-specific models listed elsewhere."
+  },
+  {
+    "reporting_scope_id": "piotech_wafer_to_wafer_hybrid_bonding_products",
+    "label": "晶圆对晶圆混合键合产品",
+    "category_id": "bonding_hybrid_w2w",
+    "definition": "Piotech source-native 晶圆对晶圆混合键合产品 series: room-temperature hybrid bonding of multi-material 12-inch wafer-to-wafer surfaces; models Dione 300 (earliest, 产业化), Dione 200 and Dione 300 eX (higher-alignment/higher-throughput new generation, in customer validation). Reused across the FY2024 (physical p25), FY2025 (p23) and H1 2026 (p31) disclosures. DISTINCT from the issuer's 晶圆对晶圆熔融键合产品 (Dione 300F / Dione 300F eX), 芯片对晶圆键合前表面预处理产品 (Propus), 芯片对晶圆混合键合产品 (Pleione 300), 芯片对晶圆熔融键合产品 (Pleione 300 HS / 200 HS), 键合套准精度量测产品 (Crux), 键合强度检测产品 (Ascella), 永久键合后晶圆激光剥离产品 (Lyra) and 键合界面空洞修复产品 (Volans). NOT the combined 混合键合设备 revenue basket (FY2025 CNY 1.36bn hundred-million line), the FY2023 混合键合设备 production/sales basket (which also covers die-to-wafer surface preparation), the 先进键合设备及配套量检测设备 basket, or the 半导体专用设备 production/sales perimeter."
+  },
+  {
+    "reporting_scope_id": "piotech_mainland_china_main_business",
+    "category_id": "all_businesses",
+    "label": "中国大陆",
+    "definition": "Piotech source-native 主营业务分地区情况 row 中国大陆 (main-business revenue partitioned by region, FY2023-FY2025 annual reports). In all three years Piotech's own 主营业务分行业、分产品、分地区、分销售模式情况 note states company revenue comes entirely from 中国大陆 ('公司收入来源于中国大陆地区'); the filing prints no second (overseas) row in any of these years, so none is registered -- this is a finding (zero overseas revenue, not a missing observation), not an allocation."
+  },
+  {
+    "reporting_scope_id": "piotech_main_business_h1_2026",
+    "category_id": "multi_equipment",
+    "label": "主营业务",
+    "definition": "H1 2026 note 61 主营业务 line. p36 says main-business revenue comes from semiconductor equipment sales. No product or regional split is printed in this report."
+  },
+  {
+    "reporting_scope_id": "piotech_other_business_h1_2026",
+    "category_id": "all_businesses",
+    "label": "其他业务",
+    "definition": "H1 2026 note 61 其他业务 line, mainly spare parts per p36. Outside main-business equipment revenue."
+  },
+  {
+    "reporting_scope_id": "piotech_rd_project_pecvd",
+    "category_id": "deposition_pecvd",
+    "label": "PECVD 系列产品及工艺开发与产业化",
+    "definition": "Row 1 of the H1 2026 在研项目情况 table. Project budget and spend, not product revenue."
+  },
+  {
+    "reporting_scope_id": "piotech_rd_project_ald",
+    "category_id": "deposition_ald",
+    "label": "ALD 系列产品及工艺研发与产业化",
+    "definition": "Row 2 of the H1 2026 在研项目情况 table. Project budget and spend, not product revenue."
+  },
+  {
+    "reporting_scope_id": "piotech_rd_project_gap_fill",
+    "category_id": "deposition",
+    "label": "沟槽填充薄膜工艺系列产品研发与产业化",
+    "definition": "Row 3 of the H1 2026 在研项目情况 table, covering SACVD, HDPCVD and Flowable CVD."
+  },
+  {
+    "reporting_scope_id": "piotech_rd_project_3d_integration",
+    "category_id": "bonding",
+    "label": "应用于三维集成领域系列产品研发与产业化",
+    "definition": "Row 4 of the H1 2026 在研项目情况 table: wafer-to-wafer hybrid and fusion bonding, die-to-wafer pre-treatment and hybrid bonding, and supporting metrology. Not an HBM-only project."
+  },
+  {
+    "reporting_scope_id": "piotech_rd_projects_table_total",
+    "category_id": "multi_equipment",
+    "label": "在研项目合计",
+    "definition": "合计 row of the H1 2026 在研项目情况 table, including row 5, which is not extracted because components are out of scope."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "observation_id": "W13GEO-SIZONE-CN-2024-REV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_restructuring_2026",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "sizone_mainland_china_main_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "5288.65",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "2024-01-01",
+      "end": "2024-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography_basis": "source_reported_business_geography",
+      "revenue_basis": "source_reported_main_business",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "source_reported",
+      "geography": "mainland_china"
+    },
+    "evidence": {
+      "page": 595,
+      "original_label": "主营业务收入按区域划分｜中国大陆｜2024年度",
+      "excerpt": "主营业务收入按区域划分；单位：万元；columns: 金额、占比; row: 中国大陆 (2024年度); values: 5288.65、100.00%",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "5288.65",
+      "reported_unit": "CNY_10k",
+      "review_notes": "Confirmed on AMEC-Zhonggui restructuring report p595 (pdftotext -layout), table 主营业务收入按区域划分 ('标的公司' = Sizone/Hangzhou Zhonggui), row 中国大陆, 2024年度 column. Cross-footed: 中国大陆(5,288.65) + 国外及中国港澳台地区(-) = printed 合计 5,288.65万元 for 2024. The geography value overseas_and_hong_kong_macau_taiwan correctly reproduces the page's own compound label 国外及中国港澳台地区 rather than collapsing it to a plain 'overseas' bucket. Sizone's disclosed revenue mix (专用设备/备品备件/服务, per the preceding paragraph on the same page) spans equipment, parts and service revenue, supporting all_businesses."
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Sizone (target company in AMEC's restructuring report) 主营业务收入按区域划分 table, row 中国大陆. FY2024 100% domestic (no overseas row prints a value that year)."
+  },
+  {
+    "observation_id": "W13GEO-SIZONE-CN-2025-REV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_restructuring_2026",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "sizone_mainland_china_main_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "24396.74",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography_basis": "source_reported_business_geography",
+      "revenue_basis": "source_reported_main_business",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "source_reported",
+      "geography": "mainland_china"
+    },
+    "evidence": {
+      "page": 595,
+      "original_label": "主营业务收入按区域划分｜中国大陆｜2025年度",
+      "excerpt": "主营业务收入按区域划分；单位：万元；columns: 金额、占比; row: 中国大陆 (2025年度); values: 24396.74、99.94%",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "24396.74",
+      "reported_unit": "CNY_10k",
+      "review_notes": "Confirmed on AMEC-Zhonggui restructuring report p595 (pdftotext -layout), table 主营业务收入按区域划分 ('标的公司' = Sizone/Hangzhou Zhonggui), row 中国大陆, 2025年度 column. Cross-footed: 中国大陆(24,396.74) + 国外及中国港澳台地区(15.14) = printed 合计 24,411.88万元 for 2025. The geography value overseas_and_hong_kong_macau_taiwan correctly reproduces the page's own compound label 国外及中国港澳台地区 rather than collapsing it to a plain 'overseas' bucket. Sizone's disclosed revenue mix (专用设备/备品备件/服务, per the preceding paragraph on the same page) spans equipment, parts and service revenue, supporting all_businesses."
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Sizone 主营业务收入按区域划分 table, row 中国大陆, FY2025."
+  },
+  {
+    "observation_id": "W13GEO-SIZONE-OVS-2025-REV",
+    "dataset_id": "sizone_disclosures",
+    "source_id": "sizone_restructuring_2026",
+    "entity_id": "sizone",
+    "category_id": "all_businesses",
+    "reporting_scope_id": "sizone_overseas_hkmotw_main_business",
+    "platform_id": "",
+    "metric_id": "revenue",
+    "value": "15.14",
+    "relation": "eq",
+    "unit": "CNY_10k",
+    "period": {
+      "start": "2025-01-01",
+      "end": "2025-12-31",
+      "kind": "annual",
+      "basis": "flow"
+    },
+    "dimensions": {
+      "geography_basis": "source_reported_business_geography",
+      "revenue_basis": "source_reported_main_business",
+      "price_basis": "nominal",
+      "equipment_condition": "not_applicable",
+      "service_scope": "source_reporting_scope",
+      "tax_basis": "source_reported",
+      "geography": "overseas_and_hong_kong_macau_taiwan"
+    },
+    "evidence": {
+      "page": 595,
+      "original_label": "主营业务收入按区域划分｜国外及中国港澳台地区｜2025年度",
+      "excerpt": "主营业务收入按区域划分；单位：万元；columns: 金额、占比; row: 国外及中国港澳台地区 (2025年度); values: 15.14、0.06%",
+      "status": "source_checked",
+      "reviewer": "claude_w13_independent_verifier",
+      "review_date": "2026-10-07",
+      "independent_corroboration": false,
+      "reported_value": "15.14",
+      "reported_unit": "CNY_10k",
+      "review_notes": "Confirmed on AMEC-Zhonggui restructuring report p595 (pdftotext -layout), table 主营业务收入按区域划分 ('标的公司' = Sizone/Hangzhou Zhonggui), row 国外及中国港澳台地区, 2025年度 column. Cross-footed: 中国大陆(24,396.74) + 国外及中国港澳台地区(15.14) = printed 合计 24,411.88万元 for 2025. The geography value overseas_and_hong_kong_macau_taiwan correctly reproduces the page's own compound label 国外及中国港澳台地区 rather than collapsing it to a plain 'overseas' bucket. Sizone's disclosed revenue mix (专用设备/备品备件/服务, per the preceding paragraph on the same page) spans equipment, parts and service revenue, supporting all_businesses."
+    },
+    "claim_kind": "company_reported",
+    "precision": "reported",
+    "revision_of": "",
+    "reporting_basis": "original",
+    "notes": "Sizone 主营业务收入按区域划分 table, row 国外及中国港澳台地区, FY2025 (FY2024 is a printed dash, held)."
+  }
+]

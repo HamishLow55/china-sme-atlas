@@ -1,0 +1,17 @@
+[
+  {
+    "application_id": "tsv",
+    "entity_id": "acm_shanghai",
+    "category_id": "deposition_ecp",
+    "platform_id": "acm_ultra_ecp_3d",
+    "source_id": "acm_shanghai_2025",
+    "page": 15,
+    "excerpt": "应用于填充 3d 硅通孔 TSV 和 2.5D 转接板的三维电镀设备 Ultra ECP 3d。基于盛美半导体电镀设备的平台，该设备可为高深宽比（深宽比大于 10:1）铜应用提供高性能、无孔洞的镀铜功能。",
+    "status": "source_checked",
+    "link_id": "tsv-application-1",
+    "scope_note": "Supplier application/capability claim in FY2025 annual report; no inference of independent HBM qualification, TSV-only revenue or dated product launch. Aspect ratio >10:1 is a capability specification, not installed-base/adoption metric.",
+    "reviewer": "tsv_cross_review",
+    "review_date": "2026-09-21",
+    "link_kind": "supplier_capability"
+  }
+]

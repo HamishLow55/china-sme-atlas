@@ -1,0 +1,15 @@
+[
+  {
+    "entity_id": "leuven",
+    "name": "Jiangsu Leuven Instruments",
+    "aliases": [
+      "江苏鲁汶仪器股份有限公司",
+      "鲁汶仪器",
+      "鲁汶有限",
+      "Jiangsu Leuven Instruments Co., Ltd.",
+      "Leuven Instruments"
+    ],
+    "notes": "Applicant for a first-time public offering on the SSE STAR Market; not yet listed at the date of this filing draft, so it has no stock code. Business scope as the filing states it (p25, p76): R&D, manufacture and sale of semiconductor FRONT-END (前道) equipment, with ion-beam equipment and inductively-coupled-plasma (ICP) etch equipment as the core lines and CVD and vapour-phase-decomposition (VPD) metal-contamination collection equipment as auxiliary lines. It does NOT make CCP etch equipment (all plasma etchers sold in the reporting period were ICP), lithography, CMP, implant or test equipment. Originally a Sino-foreign joint venture founded 2015 by 比利时鲁汶 (Belgium), 徐州比鲁, 中科院微电子所 and 影速科技. origin/main staged this firm independently as entity 'leuven_instruments' with pending observations; that staging was superseded by this branch's verified coverage and its identifying names are folded into the aliases above. Match on the Chinese name or the stock code, not the entity id.",
+    "entity_class": "china_supply_base"
+  }
+]

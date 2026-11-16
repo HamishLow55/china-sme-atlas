@@ -1,0 +1,51 @@
+[
+  {
+    "platform_id": "bojay_memory_three_temperature_tester",
+    "entity_id": "bojay",
+    "category_id": "test_memory_ate",
+    "record_kind": "source_native_family",
+    "name": "存储芯片三温测试设备",
+    "aliases": [
+      "二代测试平台"
+    ],
+    "evidence": {
+      "claim_id": "BOJAY-FY2025-P21-MEMORY-THREE-TEMP",
+      "source_id": "bojay_fy2025_annual_report",
+      "page": 21,
+      "excerpt": "在半导体领域，公司继续推进在封测环节的设备布局，实现半导体封装测试分选系统系列产品储备，包括高速分选系统、MEMS温度压力测试刺激系统、MEMSIMU测试刺激系统、存储类、IC器件测试系统。存储芯片三温测试设备能够覆盖工业级及车规级芯片的严苛温度测试需求，技术指标达到行业领先水平，其二代测试平台也已进入小批量验证阶段。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "first_generation_技术指标达到行业领先水平_second_generation_小批量验证阶段",
+    "maturity_as_reported_in": "bojay_fy2025_annual_report",
+    "maturity_history": [],
+    "notes": "Memory-chip three-temperature test equipment, covering industrial and automotive-grade temperature requirements. Filed at test_memory_ate because the issuer's own line names 存储芯片 (memory chips) and this is functional test across three temperatures at package level, NOT wafer-level burn-in: test_wafer_level_burn_in is for reliability screening that precipitates early failures, which this line does not claim. Two maturities in one sentence and they must not be collapsed: the first-generation tool carries only an unquantified 技术指标达到行业领先水平 claim, while the 二代测试平台 is explicitly 小批量验证阶段 (small-batch validation). No figure of merit, unit count, customer or revenue is printed. Relevant to the atlas because memory test is where its six Chinese test_memory_ate entities sit. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Confirmed verbatim against bojay_fy2025_annual_report, physical page 21 (direct pdftotext extraction of that page, not just a whole-document grep): '存储芯片三温测试设备能够覆盖工业级及车规级芯片的严苛温度测试需求，技术指标达到行业领先水平，其二代测试平台也已进入小批量验证阶段'. category_id=test_memory_ate correct (names 存储芯片 explicitly; this is package-level functional test across three temperatures, not wafer-level burn-in, so test_wafer_level_burn_in is correctly avoided). The two-maturity handling (first-generation tool: unquantified 技术指标达到行业领先水平 only; second-generation platform: 小批量验证阶段 specifically) is correctly kept distinct rather than collapsed into one status. Alias '二代测试平台' confirmed verbatim."
+  },
+  {
+    "platform_id": "bojay_packaging_test_sort_system_family",
+    "entity_id": "bojay",
+    "category_id": "test",
+    "record_kind": "source_native_family",
+    "name": "半导体封装测试分选系统系列",
+    "aliases": [
+      "高速分选系统",
+      "MEMS温度压力测试刺激系统",
+      "MEMSIMU测试刺激系统",
+      "存储类、IC器件测试系统"
+    ],
+    "evidence": {
+      "claim_id": "BOJAY-FY2025-P21-PACKAGING-TEST-SORT",
+      "source_id": "bojay_fy2025_annual_report",
+      "page": 21,
+      "excerpt": "在半导体领域，公司继续推进在封测环节的设备布局，实现半导体封装测试分选系统系列产品储备，包括高速分选系统、MEMS温度压力测试刺激系统、MEMSIMU测试刺激系统、存储类、IC器件测试系统。存储芯片三温测试设备能够覆盖工业级及车规级芯片的严苛温度测试需求，技术指标达到行业领先水平，其二代测试平台也已进入小批量验证阶段。",
+      "status": "source_checked",
+      "reviewer": "claude_w13_records_verifier",
+      "review_date": "2026-10-07"
+    },
+    "reported_maturity": "系列产品储备_product_reserve_no_individual_stage_stated",
+    "maturity_as_reported_in": "bojay_fy2025_annual_report",
+    "maturity_history": [],
+    "notes": "The packaging test-and-sort system series as the issuer presents it. Deliberately at the test PARENT: the series spans a handler (高速分选系统, which would be test_prober_handler) and testers (存储类、IC器件测试系统, which would be test_memory_ate and the IC equivalent), and allocating one basket across those children is the error the parent nodes exist to prevent. 系列产品储备 is a product reserve — a portfolio statement, not a shipment claim — and the sentence gives no per-model stage. The MEMS stimulus systems in the same list are sensor-test equipment outside the HBM chain and are kept as aliases rather than given their own records. W13 RECORDS REVIEW (accept) by claude_w13_records_verifier: Same page 21 sentence, confirmed verbatim: '公司继续推进在封测环节的设备布局，实现半导体封装测试分选系统系列产品储备，包括高速分选系统、MEMS 温度压力测试刺激系统、MEMS IMU 测试刺激系统、存储类、IC 器件测试系统'. category_id=test (parent) is correct: the named family spans a handler function (高速分选系统, which would be test_prober_handler) and tester functions (存储类/IC器件测试系统, test_memory_ate-adjacent), and the record correctly declines to allocate this basket to either child. reported_maturity (系列产品储备 -- a portfolio/reserve statement, not a shipment claim) correctly scoped; no per-model stage is overclaimed. Minor, non-substantive note: alias 'MEMSIMU测试刺激系统' drops a space present in the source's own 'MEMS IMU 测试刺激系统' -- a whitespace normalisation, not a sourcing defect, and I am not treating it as one."
+  }
+]
