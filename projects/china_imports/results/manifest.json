@@ -1,14 +1,14 @@
 {
   "project": "china_imports",
-  "run_date": "2026-11-02",
+  "run_date": "2026-11-16",
   "analysis_repo": {
-    "commit": "2d4047c94996c2a881e749b503e05c90e6cfc161",
+    "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
     "dirty": false
   },
   "atlas": [
     {
       "label": "pinned submodule",
-      "commit": "51866899d20306f03d372a79e94f0cd19823213b",
+      "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
       "dirty": false,
       "inputs": {
         "statistics/china_customs/imports_hs8_monthly.csv": "68542132becea653fa24751dcae0ff6433fd73b41246a7017df23cc808ab1d0b",
@@ -23,7 +23,6 @@
     "reference/customs_segment_map.csv": "a1d237a0bdc74e4b7c9563d302c61a1664511decb3d4b9a49c2727522fd7b128",
     "reference/geography_splits.csv": "6eeb029ee73548eb6712d5b46fca179cf783ed86f96b2ef18b09d47c135c138e",
     "reference/hbm_step_market_map.csv": "bd90929946961770f196b860bc8601221a2e37b193deb8be0725a6c022dcab1f",
-    "reference/hbm_step_ratings.csv": "ee539e0c0fe41d51cae7d30730ab121c7876974bd2da12b2271e3e35faf6189f",
     "reference/hbm_tool_stack.csv": "2635139d868e5146376d2dd9952f55aeaee4fb50dbbe7155703d24f48c276c11",
     "reference/overview_capital_unlisted_allottees.csv": "3907ab5330fdcdd4d856717fa39d19fb45c9ba82646dbc278e12a07589a103cc",
     "reference/overview_capital_unlisted_projects.csv": "d14198b04e0fa62e48a04064d721eee74f9b348d3121b87072444426e06956a0",

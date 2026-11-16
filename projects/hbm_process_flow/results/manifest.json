@@ -1,14 +1,14 @@
 {
   "project": "hbm_process_flow",
-  "run_date": "2026-11-13",
+  "run_date": "2026-11-16",
   "analysis_repo": {
-    "commit": "d1f320639409a5911bf741aefe7a2684879e7388",
-    "dirty": true
+    "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
+    "dirty": false
   },
   "atlas": [
     {
       "label": "pinned submodule",
-      "commit": "51866899d20306f03d372a79e94f0cd19823213b",
+      "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
       "dirty": false,
       "inputs": {}
     }
@@ -18,7 +18,6 @@
     "reference/customs_segment_map.csv": "a1d237a0bdc74e4b7c9563d302c61a1664511decb3d4b9a49c2727522fd7b128",
     "reference/geography_splits.csv": "6eeb029ee73548eb6712d5b46fca179cf783ed86f96b2ef18b09d47c135c138e",
     "reference/hbm_step_market_map.csv": "bd90929946961770f196b860bc8601221a2e37b193deb8be0725a6c022dcab1f",
-    "reference/hbm_step_ratings.csv": "790c591054f4240df4e13616c1f9dadd8679b571f08301a155938b0ccdf3fd6f",
     "reference/hbm_tool_stack.csv": "2635139d868e5146376d2dd9952f55aeaee4fb50dbbe7155703d24f48c276c11",
     "reference/overview_capital_unlisted_allottees.csv": "3907ab5330fdcdd4d856717fa39d19fb45c9ba82646dbc278e12a07589a103cc",
     "reference/overview_capital_unlisted_projects.csv": "d14198b04e0fa62e48a04064d721eee74f9b348d3121b87072444426e06956a0",
@@ -29,6 +28,6 @@
   },
   "other_inputs": {},
   "assumptions_used": [],
-  "notes": "Diagram drawn from the tool docs' process descriptions; no Atlas data used.",
+  "notes": "Diagram drawn from process descriptions in working notes; no Atlas data used.",
   "tier": "Tier 3 (working research) unless promoted after review"
 }
