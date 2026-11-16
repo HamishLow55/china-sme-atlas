@@ -2,13 +2,13 @@
   "project": "unlisted_vendors",
   "run_date": "2026-11-16",
   "analysis_repo": {
-    "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
+    "commit": "6dd975b6cb83d93ae235a06d230846f9409b144d",
     "dirty": false
   },
   "atlas": [
     {
       "label": "pinned submodule",
-      "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
+      "commit": "6dd975b6cb83d93ae235a06d230846f9409b144d",
       "dirty": false,
       "inputs": {
         "statistics/cepea/semiconductor_equipment_annual.csv": "712be0ba7d5a8c4b7ecdcf9482833af6e5050f08713d223bccaf2d1f163cc0a8",

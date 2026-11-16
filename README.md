@@ -51,7 +51,7 @@ python3 -m atlas validate
 python3 -m atlas build                              # build/all_observations.csv: every ledger row as one CSV
 ```
 
-The committed `results/` were regenerated in this repository from its first commit; every CSV matched the working copy exactly. Each `manifest.json` records that commit and the hashes of the inputs used.
+The committed `results/` were regenerated in this repository, and every CSV matched the authors' working copy exactly. Each `manifest.json` records the commit it was run against and the hashes of the inputs used.
 
 ## Licence and contact
 

@@ -2,13 +2,13 @@
   "project": "hbm_step_market",
   "run_date": "2026-11-16",
   "analysis_repo": {
-    "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
+    "commit": "6dd975b6cb83d93ae235a06d230846f9409b144d",
     "dirty": false
   },
   "atlas": [
     {
       "label": "pinned submodule",
-      "commit": "584fbdc1fcba91f9f9c25842722924f37b5456a9",
+      "commit": "6dd975b6cb83d93ae235a06d230846f9409b144d",
       "dirty": false,
       "inputs": {
         "statistics/china_customs/imports_hs8_monthly.csv": "68542132becea653fa24751dcae0ff6433fd73b41246a7017df23cc808ab1d0b",
